@@ -1,0 +1,52 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "id": "baker",
+  "nombre": "Chet Baker",
+  "nacimiento": {
+    "anio": 1929,
+    "lugar": "Yale, Oklahoma"
+  },
+  "muerte": {
+    "anio": 1988
+  },
+  "instrumentos": [
+    "trompeta",
+    "voz"
+  ],
+  "corrientes": [
+    "cool"
+  ],
+  "spotify": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T",
+  "resumen": "Trompetista y cantante, apodado \"el príncipe del cool\". Su fama de los 50 convivió con una adicción muy pública, y tuvo un resurgimiento artístico a fines de los 70.[^wp-baker]",
+  "epocas": [
+    {
+      "titulo": "De Mulligan a su propia voz",
+      "desde": 1952,
+      "hasta": 1954,
+      "texto": "Saltó a la fama con el cuarteto de Mulligan, y su solo en \"My Funny Valentine\" lo acompañó toda la carrera. Enseguida quiso grabar un disco entero cantando.[^wp-baker]",
+      "discoClave": {
+        "disco": "chet-baker-sings",
+        "explicacion": "El disco que lo definió, contra la opinión de buena parte de la crítica."
+      },
+      "discos": [
+        "mulligan-quartet"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-baker"
+  ],
+  "respaldo": [
+    {
+      "fuente": "baker-1973",
+      "acceso": "indirecta",
+      "aporta": "Su propio testimonio sobre cómo reaccionó el público cuando empezó a cantar."
+    }
+  ]
+}

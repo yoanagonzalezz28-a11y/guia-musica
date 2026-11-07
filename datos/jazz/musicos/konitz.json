@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "id": "konitz",
+  "nombre": "Lee Konitz",
+  "nacimiento": {
+    "anio": 1927,
+    "lugar": "Chicago"
+  },
+  "muerte": {
+    "anio": 2020
+  },
+  "instrumentos": [
+    "saxo alto"
+  ],
+  "corrientes": [
+    "cool"
+  ],
+  "spotify": null,
+  "resumen": "Uno de los pocos saxos altos de su época que no sonaba como Charlie Parker. Tuvo una larga carrera y tocó con una enorme variedad de músicos.[^wp-konitz]",
+  "epocas": [
+    {
+      "titulo": "Con Tristano y con Davis",
+      "desde": 1949,
+      "hasta": 1956,
+      "texto": "Alumno de Lennie Tristano, tocó a la vez en el noneto de Davis y en la escuela de su maestro. Esa combinación marcó a saxofonistas de California como Paul Desmond y Art Pepper.[^npr-konitz]",
+      "discoClave": {
+        "disco": "subconscious-lee",
+        "explicacion": "Sus primeras grabaciones como líder, con el lenguaje de Tristano y su propio sonido ya formado."
+      },
+      "discos": [
+        "birth-of-the-cool",
+        "crosscurrents",
+        "lennie-tristano"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-konitz"
+  ],
+  "respaldo": [
+    {
+      "fuente": "iverson-konitz",
+      "acceso": "completa",
+      "aporta": "Ethan Iverson, que fue su alumno y grabó con él: \"ambassador of the surreal\"."
+    },
+    {
+      "fuente": "npr-konitz",
+      "acceso": "completa",
+      "aporta": "Kevin Whitehead repasa la influencia de su sonido."
+    },
+    {
+      "fuente": "iverson-18",
+      "acceso": "completa",
+      "aporta": "Konitz comenta solos de Lester Young, una de sus raíces, en una conversación con Iverson."
+    }
+  ]
+}

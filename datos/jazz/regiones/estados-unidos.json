@@ -8,7 +8,8 @@
   ],
   "corrientes": [
     "bebop",
-    "hard-bop"
+    "hard-bop",
+    "cool"
   ],
   "musicos": [
     "parker",
@@ -18,7 +19,13 @@
     "blakey",
     "silver",
     "brown",
-    "rollins"
+    "rollins",
+    "miles",
+    "konitz",
+    "tristano",
+    "mulligan",
+    "baker",
+    "brubeck"
   ],
   "discos": [],
   "figurasPendientes": [],
@@ -34,6 +41,14 @@
     {
       "nombre": "Debut",
       "texto": "Fundado en 1952 por Charles Mingus y Max Roach, uno de los primeros sellos en manos de sus propios artistas."
+    },
+    {
+      "nombre": "Pacific Jazz",
+      "texto": "El sello de Los Ángeles donde salieron el cuarteto de Mulligan y Chet Baker Sings."
+    },
+    {
+      "nombre": "The Haig, Los Ángeles",
+      "texto": "El club chico de Wilshire Boulevard donde tomó forma el cuarteto sin piano."
     }
   ],
   "escenaActual": [

@@ -1,0 +1,66 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "id": "brubeck",
+  "nombre": "Dave Brubeck",
+  "nacimiento": {
+    "anio": 1920,
+    "lugar": "Concord, California"
+  },
+  "muerte": {
+    "anio": 2012
+  },
+  "instrumentos": [
+    "piano",
+    "composición"
+  ],
+  "corrientes": [
+    "cool"
+  ],
+  "spotify": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E",
+  "resumen": "Pianista y compositor de compases poco comunes. Formó en el ejército una de las primeras bandas integradas racialmente, y en 1951 armó su cuarteto.[^wp-brubeck]",
+  "epocas": [
+    {
+      "titulo": "El cuarteto con Desmond",
+      "desde": 1951,
+      "hasta": 1957,
+      "texto": "Formó su cuarteto en 1951, y el saxofonista Paul Desmond le dio al grupo una de sus voces distintivas.[^wp-brubeck]",
+      "discoClave": {
+        "disco": "jazz-at-oberlin",
+        "explicacion": "El mejor registro de esos años, según críticos como Nat Hentoff y Gary Giddins."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Time Out",
+      "desde": 1958,
+      "hasta": 1967,
+      "texto": "Con Eugene Wright y Joe Morello se completó su formación más exitosa, que duró hasta 1967.[^wp-brubeck]",
+      "discoClave": {
+        "disco": "time-out",
+        "explicacion": "Convirtió un experimento rítmico en un éxito masivo."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-brubeck"
+  ],
+  "respaldo": [
+    {
+      "fuente": "giddins-oberlin",
+      "acceso": "indirecta",
+      "aporta": "Gary Giddins y Nat Hentoff valoran su etapa de los 50."
+    },
+    {
+      "fuente": "desmond-take5",
+      "acceso": "indirecta",
+      "aporta": "Paul Desmond cuenta el origen casual de \"Take Five\"."
+    }
+  ]
+}

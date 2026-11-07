@@ -1,0 +1,84 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "id": "mulligan-quartet",
+  "titulo": "Gerry Mulligan Quartet",
+  "credito": "Gerry Mulligan Quartet",
+  "lideres": [
+    "mulligan"
+  ],
+  "grabacion": {
+    "desde": 1952,
+    "hasta": 1952,
+    "detalle": "Hollywood, 1952"
+  },
+  "edicion": {
+    "anio": 1952,
+    "detalle": "LP de 10 pulgadas"
+  },
+  "sello": "Pacific Jazz",
+  "catalogo": null,
+  "tipo": "estudio",
+  "compilacion": false,
+  "lugar": "Los Ángeles",
+  "musicos": [
+    {
+      "musico": "mulligan",
+      "nombre": "Gerry Mulligan",
+      "instrumento": "saxo barítono"
+    },
+    {
+      "musico": "baker",
+      "nombre": "Chet Baker",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Carson Smith",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Chico Hamilton",
+      "instrumento": "batería"
+    }
+  ],
+  "personalNota": "Es la formación clásica del cuarteto. Falta confirmar músico por músico este primer disco.",
+  "corrientes": [
+    "cool"
+  ],
+  "comentario": [
+    "Un cuarteto sin piano: nadie marca los acordes, así que el barítono y la trompeta los sugieren al conversar entre ellos. Salió de las noches libres de Mulligan en The Haig, un club chico de Los Ángeles. De este grupo es también la versión de \"My Funny Valentine\" con solo de Baker, que pegó y quedó asociada a él para siempre."
+  ],
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Gerry Mulligan Quartet Chet Baker Pacific Jazz"
+  },
+  "ids": {
+    "musicbrainz": "1160b166-2af7-492a-8df9-9f60fab702f2",
+    "discogsMaster": "422064",
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-mulligan",
+      "acceso": "completa",
+      "aporta": "Describe el origen del cuarteto en The Haig, y lo considera uno de los mejores grupos del cool."
+    },
+    {
+      "fuente": "loc-mulligan",
+      "acceso": "extracto",
+      "aporta": "La Biblioteca del Congreso destaca el cuarteto sin piano como una innovación con influencia durante décadas."
+    },
+    {
+      "fuente": "wp-baker",
+      "acceso": "completa",
+      "aporta": "Explica cómo Baker y Mulligan se complementaban con contrapunto."
+    }
+  ]
+}

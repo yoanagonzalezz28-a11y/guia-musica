@@ -71,6 +71,10 @@ Datos básicos (`nombre`, `apodo`, `nacimiento`, `muerte`, `instrumentos`, `corr
 }
 ```
 
+### Pendientes de un músico
+
+`epocasPendientes` lista las etapas que se cargan cuando se migra su corriente. Así, una ficha como la de Miles Davis puede publicarse parcial y lo dice.
+
 ### Corriente
 
 `nombre`, `lema`, `tinta` y `tintaTexto` (sus colores), `periodo` (`desde`, `hasta`, `aproximado`), `deriva`, `derivaPendiente`, `regiones`, `lugares`, `texto`, `suena`, `hitos`, `legado`, `musicos`, `musicosPendientes`, `discosEsenciales`.

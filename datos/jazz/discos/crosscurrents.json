@@ -1,0 +1,101 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "id": "crosscurrents",
+  "titulo": "Crosscurrents",
+  "credito": "Lennie Tristano",
+  "lideres": [
+    "tristano"
+  ],
+  "grabacion": {
+    "desde": 1949,
+    "hasta": 1949,
+    "detalle": "Marzo a noviembre de 1949"
+  },
+  "edicion": {
+    "anio": 1972,
+    "detalle": "LP de 1972. Los temas salieron primero en 78 rpm."
+  },
+  "sello": "Capitol",
+  "catalogo": "M-11060",
+  "tipo": "estudio",
+  "compilacion": true,
+  "lugar": null,
+  "musicos": [
+    {
+      "musico": "tristano",
+      "nombre": "Lennie Tristano",
+      "instrumento": "piano"
+    },
+    {
+      "musico": "konitz",
+      "nombre": "Lee Konitz",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Warne Marsh",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Bauer",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Arnold Fishkin",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Harold Granowsky",
+      "instrumento": "batería",
+      "nota": "Según la sesión"
+    },
+    {
+      "musico": null,
+      "nombre": "Denzil Best",
+      "instrumento": "batería",
+      "nota": "Según la sesión"
+    }
+  ],
+  "personalNota": "Son los músicos del sexteto de Tristano. El lado B del LP original corresponde a otro artista, Buddy DeFranco.",
+  "corrientes": [
+    "cool"
+  ],
+  "corrienteNota": "La escuela de Tristano suele ubicarse dentro del cool, aunque buscaba algo bastante distinto.",
+  "redescubrimiento": {
+    "motivo": "Reunido recién en 1972, incluye \"Intuition\" y \"Digression\", dos de las primeras improvisaciones libres grabadas en el jazz, diez años antes del free jazz. Entró al Salón de la Fama de los Grammy en 2013."
+  },
+  "comentario": [
+    "Más que por su fama, vale por lo que se anticipó: en 1949, este grupo grabó dos improvisaciones libres, sin un tema previo. Pero no todos las celebran: Ethan Iverson admira las melodías sobre acordes conocidos y a la vez considera \"timid and boring\" esas dos piezas, aclarando que su opinión es polémica. Escuchalas y decidí."
+  ],
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6CXaT8OQIWkktYI16FQFnE",
+    "tituloEnSpotify": "Crosscurrents"
+  },
+  "ids": {
+    "musicbrainz": "2e8d66bc-a7e8-403d-8def-0260bccdf725",
+    "discogsMaster": null,
+    "wikidata": "Q1141241",
+    "wikipedia": "Crosscurrents_(Lennie_Tristano_album)"
+  },
+  "respaldo": [
+    {
+      "fuente": "iverson-tristano",
+      "acceso": "completa",
+      "aporta": "Ethan Iverson: la obra con Konitz y Marsh sigue siendo poderosa, pero \"the two free improvisations are timid and boring (this last opinion is controversial)\"."
+    },
+    {
+      "fuente": "db-konitz",
+      "acceso": "completa",
+      "aporta": "DownBeat recuerda estas grabaciones de 1949 como sesiones de free jazz con Konitz y Warne Marsh."
+    }
+  ]
+}

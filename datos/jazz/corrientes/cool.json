@@ -1,0 +1,101 @@
+{
+  "id": "cool",
+  "nombre": "Cool",
+  "lema": "Menos notas, más aire",
+  "tinta": "#7ED7C1",
+  "tintaTexto": "#101318",
+  "periodo": {
+    "desde": 1949,
+    "hasta": 1960,
+    "aproximado": true
+  },
+  "deriva": [
+    "bebop"
+  ],
+  "derivaPendiente": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "lugares": [
+    "Nueva York",
+    "Los Ángeles",
+    "California"
+  ],
+  "texto": [
+    "El cool nace como reacción al bop, con tempos moderados, un tono más liviano y una actitud más reflexiva. Suele usar arreglos formales y elementos de la música clásica.[^wp-cool] La etiqueta llegó después: el término empezó a usarse hacia 1953.[^wp-cool]",
+    "Su punto de partida más citado es el noneto de Miles Davis, que surgió de las charlas en el sótano de Gil Evans en la calle 55 de Nueva York.[^db-cool] A la vez, Lennie Tristano y sus alumnos, Lee Konitz y Warne Marsh, buscaban en otra dirección: en vez de copiar a Parker, volvían a Lester Young y a las líneas largas.[^iverson-konitz][^iverson-18]",
+    "La idea cruzó el país. En California, el cuarteto sin piano de Gerry Mulligan con Chet Baker se volvió un foco del jazz de la Costa Oeste.[^loc-mulligan] El cuarteto de Dave Brubeck, por su parte, grabó en 1953 un concierto en la universidad de Oberlin que marcó la entrada del jazz como tema de estudio en esa institución.[^giddins-oberlin]",
+    "No fue un estilo uniforme: reúne grupos muy distintos entre sí, y Mark Gridley lo divide en cuatro subcorrientes.[^wp-cool] Kevin Whitehead señala la enorme influencia del noneto de Davis en el jazz blanco de la Costa Oeste.[^npr-konitz] Algunos críticos leen el hard bop, en parte, como una respuesta a esta música.[^wp-hardbop]"
+  ],
+  "suena": [
+    "Saxos y trompetas casi sin vibrato, con un sonido suave y aireado.",
+    "Tempos moderados: hay más lugar para escuchar cada línea.",
+    "Arreglos muy pensados, con instrumentos raros en el jazz como el corno y la tuba."
+  ],
+  "hitos": [
+    {
+      "fecha": "sep. 1948",
+      "texto": "El noneto de Davis se presenta en el Royal Roost.[^db-cool]"
+    },
+    {
+      "fecha": "21 ene. 1949",
+      "texto": "Primera sesión de estudio del noneto."
+    },
+    {
+      "fecha": "1949",
+      "texto": "Tristano graba las primeras improvisaciones libres en grupo.[^wp-tristano]"
+    },
+    {
+      "fecha": "1952",
+      "texto": "Debuta en disco el cuarteto sin piano de Mulligan."
+    },
+    {
+      "fecha": "2 mar. 1953",
+      "texto": "El cuarteto de Brubeck graba en Oberlin."
+    },
+    {
+      "fecha": "1957",
+      "texto": "Capitol reúne las sesiones del noneto como *Birth of the Cool*.[^db-cool]"
+    },
+    {
+      "fecha": "dic. 1959",
+      "texto": "Sale *Time Out*, el primer disco de jazz en vender más de un millón de copias.[^wp-brubeck]"
+    }
+  ],
+  "legado": "Mostró que el jazz moderno podía ganar con la contención y con la escritura. Su música de cámara, sus compases poco comunes y sus grupos sin piano abrieron caminos que siguen en uso.",
+  "musicos": [
+    "miles",
+    "konitz",
+    "tristano",
+    "mulligan",
+    "baker",
+    "brubeck"
+  ],
+  "musicosPendientes": [
+    "Stan Getz",
+    "Gil Evans",
+    "Paul Desmond",
+    "Warne Marsh",
+    "Modern Jazz Quartet",
+    "Art Pepper",
+    "Jimmy Giuffre"
+  ],
+  "discosEsenciales": [
+    {
+      "disco": "birth-of-the-cool",
+      "porque": "El punto de partida y el que le dio su nombre."
+    },
+    {
+      "disco": "time-out",
+      "porque": "La entrada más amable, y el mayor éxito de la corriente."
+    },
+    {
+      "disco": "crosscurrents",
+      "porque": "La rareza: un cool que anticipó el free jazz."
+    }
+  ],
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  }
+}

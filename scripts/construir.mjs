@@ -111,12 +111,12 @@ function barrasDeTinta(corrientes, [ini, fin], ctx, { cruce, enlazar = true } = 
   }
   const barras = orden.map((c, i) => {
     const contenido = `<span class="tinta-nombre">${esc(c.nombre)}</span><span class="tinta-anios">c. ${rangoAnios(c.periodo.desde, c.periodo.hasta)}</span>`;
-    const estilo = `${tintaVars(c)};left:${pos(c.periodo.desde)}%;width:${pos(c.periodo.hasta) - pos(c.periodo.desde)}%;top:${i * 50}%;height:${orden.length === 1 ? 100 : 50}%${i === 1 && margenCruce ? `;padding-left:calc(${margenCruce}% + 10px)` : ''}`;
+    const estilo = `${tintaVars(c)};left:${pos(c.periodo.desde)}%;width:${pos(c.periodo.hasta) - pos(c.periodo.desde)}%;top:${(i * 100) / orden.length}%;height:${100 / orden.length}%${i === 1 && margenCruce ? `;padding-left:calc(${margenCruce}% + 10px)` : ''}`;
     return enlazar
       ? `<a class="tinta" style="${estilo}" href="${ctx.a(URL.corriente(c.id))}">${contenido}</a>`
       : `<div class="tinta" style="${estilo}">${contenido}</div>`;
   }).join('');
-  return `<div class="tintas" data-filas="${orden.length}">
+  return `<div class="tintas" data-filas="${orden.length}" style="--filas:${orden.length}">
     <div class="tintas-marco">${barras}${solape}</div>
     <div class="tintas-escala" aria-hidden="true">${decadas.map(a => `<span style="left:${pos(a)}%">${a}</span>`).join('')}</div>
     ${notaSolape}
@@ -225,7 +225,7 @@ const construir = {
         <h1>Jazz</h1>
         <p class="tesis-bajada">${ctx.texto(g.intro)}</p>
         ${barrasDeTinta(g.corrientes, g.rangoLinea, ctx, { cruce: comp.tintaCruce })}
-        <p class="tesis-pie">Cada barra muestra cuánto duró una corriente. <a href="${ctx.a(URL.comparacion(comp.id))}">Compará bebop y hard bop</a> para ver qué pasa donde se pisan.</p>
+        <p class="tesis-pie">Cada barra muestra cuánto duró una corriente, y varias convivieron. <a href="${ctx.a(URL.comparacion(comp.id))}">Compará bebop y hard bop</a> para ver qué pasa donde se pisan.</p>
       </section>
       <section class="bloque"><h2>${g.discos.length} discos en el tiempo</h2>
         <p class="ayuda">Cada punto es un disco en su año de edición. Si tiene un trazo, se grabó antes de salir: el trazo llega hasta el año de grabación.</p>
@@ -244,7 +244,7 @@ const construir = {
     const ctx = nuevoContexto(ruta);
     pagina(ruta, ctx, {
       titulo: 'Corrientes', descripcion: 'Las corrientes del jazz cargadas hasta ahora.', seccion: 'corrientes', sinFuentes: true,
-      cuerpo: `<header class="encabezado"><h1>Corrientes</h1><p>Por ahora, las dos de prueba. La versión anterior tiene 16 para ir migrando.</p></header>
+      cuerpo: `<header class="encabezado"><h1>Corrientes</h1><p>Hay ${g.corrientes.length} cargadas. Las demás se van sumando por etapas.</p></header>
       <ul class="tarjetas">${g.corrientes.map(c => `<li class="tarjeta-tinta" style="${tintaVars(c)}"><a href="${ctx.a(URL.corriente(c.id))}"><span class="tarjeta-anios">c. ${rangoAnios(c.periodo.desde, c.periodo.hasta)}</span><strong>${esc(c.nombre)}</strong><span>${esc(c.lema)}</span></a></li>`).join('')}</ul>`,
     });
   },
@@ -313,6 +313,7 @@ const construir = {
       <div class="lectura lectura-ancha"><p class="entrada">${ctx.texto(m.resumen)}</p>
       ${m.redescubrimiento ? `<p class="nota-datos"><strong>Por qué es un redescubrimiento.</strong> ${ctx.texto(m.redescubrimiento.motivo)}</p>` : ''}
       <p><a class="boton" href="${esc(spotify)}" rel="noopener">${m.spotify ? 'Abrir en Spotify' : 'Buscar en Spotify'}</a></p></div>
+      ${m.epocasPendientes?.length ? `<p class="pendientes lectura"><strong>Etapas por cargar:</strong> ${esc(m.epocasPendientes.join(', '))}. Se suman cuando se migren sus corrientes.</p>` : ''}
       <section class="epocas" aria-label="Carrera por épocas">
         ${m.epocas.map(e => {
           const clave = g.por.disco.get(e.discoClave.disco);

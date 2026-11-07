@@ -1,0 +1,80 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "La edición de Spotify figura como 1956, el año de la versión ampliada. Wikipedia y MusicBrainz dan 1954 para el disco original."
+    }
+  ],
+  "regiones": [],
+  "id": "chet-baker-sings",
+  "titulo": "Chet Baker Sings",
+  "credito": "Chet Baker",
+  "lideres": [
+    "baker"
+  ],
+  "grabacion": {
+    "desde": 1954,
+    "hasta": 1954,
+    "detalle": "15 de febrero de 1954"
+  },
+  "edicion": {
+    "anio": 1954,
+    "detalle": "Abril o mayo de 1954"
+  },
+  "sello": "Pacific Jazz",
+  "catalogo": null,
+  "tipo": "estudio",
+  "compilacion": false,
+  "lugar": "Hollywood",
+  "musicos": [
+    {
+      "musico": "baker",
+      "nombre": "Chet Baker",
+      "instrumento": "voz y trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Russ Freeman",
+      "instrumento": "piano y celesta"
+    },
+    {
+      "musico": null,
+      "nombre": "Carson Smith",
+      "instrumento": "contrabajo"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "cool"
+  ],
+  "comentario": [
+    "El productor desconfiaba, y buena parte de la crítica lo recibió mal: llamaron \"afeminada\" a su voz, en años de roles de género muy rígidos. Hoy es su disco más conocido, y \"My Funny Valentine\" es la canción que lo identifica. Es también una lección sobre cuánto envejecen ciertas críticas."
+  ],
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4",
+    "tituloEnSpotify": "Chet Baker Sings"
+  },
+  "ids": {
+    "musicbrainz": "a0aabd83-2341-335d-a0d6-e0ea609b0b3f",
+    "discogsMaster": "60289",
+    "wikidata": "Q1763873",
+    "wikipedia": "Chet_Baker_Sings"
+  },
+  "respaldo": [
+    {
+      "fuente": "baker-1973",
+      "acceso": "indirecta",
+      "aporta": "Baker recordó en 1973 la reacción muy dividida que generó su voz."
+    },
+    {
+      "fuente": "wp-baker",
+      "acceso": "completa",
+      "aporta": "Ubica este disco entre los que le dieron más atención y elogios en los 50."
+    }
+  ]
+}

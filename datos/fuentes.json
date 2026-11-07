@@ -723,7 +723,7 @@
   "db-blakey": {
     "tipo": "web",
     "nivel": "musico",
-    "titulo": "DownBeat, \"Art Blakey, the Mightiest Mentor\", con Reggie Workman, Brian Lynch y Billy Pierce",
+    "titulo": "DownBeat, \"Art Blakey, the Mightiest Mentor\", con Reggie Workman, Brian Lynch y Bill Pierce",
     "url": "https://downbeat.com/news/detail/art-blakey-the-mightiest-mentor/P1",
     "consultada": "2026-11-06",
     "estado": "consultada"
@@ -901,6 +901,174 @@
     "nivel": "prensa",
     "titulo": "Blue Note: biografía de Tina Brooks",
     "url": "https://www.bluenote.com/artist/tina-brooks/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-cool": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Cool jazz (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Cool_jazz",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-miles": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Miles Davis (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Miles_Davis",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-konitz": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Lee Konitz (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Lee_Konitz",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-tristano": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Lennie Tristano (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Lennie_Tristano",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-mulligan": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Gerry Mulligan (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Gerry_Mulligan",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-baker": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Chet Baker (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Chet_Baker",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-brubeck": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Dave Brubeck (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Dave_Brubeck",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "iverson-tristano": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "Ethan Iverson, \"Tristano at 100\" (Do the Math)",
+    "url": "https://ethaniverson.com/tristano-at-100/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "iverson-konitz": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "Ethan Iverson, \"Ice Cream Konitz\" (Do the Math)",
+    "url": "https://ethaniverson.com/ice-cream-konitz/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "iverson-18": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "Ethan Iverson, \"18 with Lee K.\", conversación con Lee Konitz (Do the Math)",
+    "url": "https://ethaniverson.com/rhythm-and-blues/18-with-lee-k/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "db-cool": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "DownBeat: Miles' 'Cool' Sessions",
+    "url": "https://downbeat.com/news/detail/miles-cool-sessions",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "db-konitz": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "DownBeat: Lee Konitz \"Always Pursued Truth\"",
+    "url": "https://downbeat.com/news/detail/lee-konitz-always-pursued-truth",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "db-konitz92": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "DownBeat: Saxophonist Lee Konitz Dies At 92",
+    "url": "https://downbeat.com/news/detail/lee-konitz-92",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "npr-konitz": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "Kevin Whitehead, NPR: Remembering Lee Konitz (2020)",
+    "url": "https://www.npr.org/2020/04/24/842704664/remembering-trailblazing-jazz-saxophonist-lee-konitz",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "npr-miles": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "NPR Jazz Profiles: Miles Davis, Miles' Styles",
+    "url": "https://www.npr.org/2007/07/03/10818946/miles-davis-miles-styles",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "loc-mulligan": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "Biblioteca del Congreso: cronología de Gerry Mulligan",
+    "url": "https://www.loc.gov/collections/gerry-mulligan/articles-and-essays/timeline/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "giddins-oberlin": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "Gary Giddins y Nat Hentoff sobre Jazz at Oberlin, citados en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Jazz_at_Oberlin",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "penguin-tristano": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "The Penguin Guide to Jazz Recordings sobre Lennie Tristano, citada en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lennie_Tristano_(album)",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "basie-boc": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "Count Basie sobre el noneto de Davis, citado en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Birth_of_the_Cool",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "baker-1973": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "Chet Baker sobre las reacciones a su voz (1973), citado en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Chet_Baker_Sings",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "desmond-take5": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "Paul Desmond sobre \"Take Five\", citado en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Time_Out_(Dave_Brubeck_Quartet_album)",
     "consultada": "2026-11-06",
     "estado": "consultada"
   }

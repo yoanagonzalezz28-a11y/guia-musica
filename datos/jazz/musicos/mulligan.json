@@ -1,0 +1,53 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "id": "mulligan",
+  "nombre": "Gerry Mulligan",
+  "apodo": "Jeru",
+  "nacimiento": {
+    "anio": 1927,
+    "lugar": "Queens, Nueva York"
+  },
+  "muerte": {
+    "anio": 1996
+  },
+  "instrumentos": [
+    "saxo barítono",
+    "arreglos"
+  ],
+  "corrientes": [
+    "cool"
+  ],
+  "spotify": null,
+  "resumen": "Saxo barítono de sonido liviano y gran arreglador. Trabajó con Claude Thornhill, Miles Davis y Stan Kenton, y escribió estándares como \"Walkin' Shoes\".[^wp-mulligan]",
+  "epocas": [
+    {
+      "titulo": "El cuarteto sin piano",
+      "desde": 1952,
+      "hasta": 1953,
+      "texto": "Mientras escribía para Kenton, empezó a tocar en las noches libres de The Haig, en Los Ángeles. Allí se le sumó Chet Baker, y de esas noches salió su cuarteto.[^wp-mulligan]",
+      "discoClave": {
+        "disco": "mulligan-quartet",
+        "explicacion": "La prueba de que un grupo de jazz podía prescindir del piano."
+      },
+      "discos": [
+        "birth-of-the-cool"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-mulligan"
+  ],
+  "respaldo": [
+    {
+      "fuente": "loc-mulligan",
+      "acceso": "extracto",
+      "aporta": "La Biblioteca del Congreso conserva su archivo y destaca la influencia del cuarteto."
+    }
+  ]
+}

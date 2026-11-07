@@ -1,7 +1,7 @@
 {
   "id": "jazz",
   "nombre": "Jazz",
-  "intro": "Corrientes, músicos, discos y regiones del jazz, conectados entre sí. Esta versión de prueba tiene dos corrientes y cuatro regiones, para calibrar el nivel antes de cargar el resto.",
+  "intro": "Corrientes, músicos, discos y regiones del jazz, conectados entre sí. Esta versión de prueba tiene tres corrientes y cuatro regiones, y se va ampliando por etapas.",
   "rangoLinea": [
     1940,
     1970

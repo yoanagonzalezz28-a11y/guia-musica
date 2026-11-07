@@ -1,0 +1,74 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "id": "jazz-at-oberlin",
+  "titulo": "Jazz at Oberlin",
+  "credito": "The Dave Brubeck Quartet",
+  "lideres": [
+    "brubeck"
+  ],
+  "grabacion": {
+    "desde": 1953,
+    "hasta": 1953,
+    "detalle": "2 de marzo de 1953"
+  },
+  "edicion": {
+    "anio": 1953,
+    "detalle": null
+  },
+  "sello": "Fantasy",
+  "catalogo": "F 3245",
+  "tipo": "vivo",
+  "compilacion": false,
+  "lugar": "Finney Chapel, Oberlin College, Ohio",
+  "musicos": [
+    {
+      "musico": "brubeck",
+      "nombre": "Dave Brubeck",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Desmond",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Ron Crotty",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Lloyd Davis",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "cool"
+  ],
+  "comentario": [
+    "El cuarteto en una capilla universitaria, con el baterista tocando con 39 grados de fiebre, según la contratapa. Se le atribuye haber convertido el jazz en un tema de estudio serio en Oberlin. También es una buena forma de escuchar a Desmond y Brubeck antes de la fama de *Time Out*."
+  ],
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/24XyFtHMmecxawtvXfc27y",
+    "tituloEnSpotify": "Jazz At Oberlin"
+  },
+  "ids": {
+    "musicbrainz": "d215f81c-8957-3a84-86c0-a0669d8cea1f",
+    "discogsMaster": "186457",
+    "wikidata": "Q1243479",
+    "wikipedia": "Jazz_at_Oberlin"
+  },
+  "respaldo": [
+    {
+      "fuente": "giddins-oberlin",
+      "acceso": "indirecta",
+      "aporta": "Gary Giddins: estaría en muchas listas de los mejores discos de la década. Nat Hentoff lo ubica entre lo mejor de Brubeck."
+    }
+  ]
+}

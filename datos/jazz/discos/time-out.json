@@ -1,0 +1,79 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "id": "time-out",
+  "titulo": "Time Out",
+  "credito": "The Dave Brubeck Quartet",
+  "lideres": [
+    "brubeck"
+  ],
+  "grabacion": {
+    "desde": 1959,
+    "hasta": 1959,
+    "detalle": "25 de junio, 1 de julio y 18 de agosto de 1959"
+  },
+  "edicion": {
+    "anio": 1959,
+    "detalle": "14 de diciembre de 1959"
+  },
+  "sello": "Columbia",
+  "catalogo": null,
+  "tipo": "estudio",
+  "compilacion": false,
+  "lugar": "Estudio de la calle 30 de Columbia, Nueva York",
+  "musicos": [
+    {
+      "musico": "brubeck",
+      "nombre": "Dave Brubeck",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Desmond",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Eugene Wright",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Morello",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "cool"
+  ],
+  "comentario": [
+    "Todo el disco juega con compases poco comunes, por ejemplo el de cinco tiempos de \"Take Five\". El único tema que no es de Brubeck es justamente ese, de Desmond, que nunca imaginó el éxito: \"It was supposed to be a Joe Morello drum solo\". Fue el primer disco de jazz en vender más de un millón de copias."
+  ],
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6P3jzdPK5VMbzuJ2HcRt9y",
+    "tituloEnSpotify": "Time Out"
+  },
+  "ids": {
+    "musicbrainz": "035a7881-3e2c-39d2-b110-fe26a4de94e5",
+    "discogsMaster": "34081",
+    "wikidata": "Q498089",
+    "wikipedia": "Time_Out_(Dave_Brubeck_Quartet_album)"
+  },
+  "respaldo": [
+    {
+      "fuente": "desmond-take5",
+      "acceso": "indirecta",
+      "aporta": "Paul Desmond: \"It was never supposed to be a hit\"."
+    },
+    {
+      "fuente": "loc-registro",
+      "acceso": "extracto",
+      "aporta": "Integra desde 2005 el registro de preservación de la Biblioteca del Congreso."
+    }
+  ]
+}

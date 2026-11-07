@@ -1,0 +1,94 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "id": "lennie-tristano",
+  "titulo": "Lennie Tristano",
+  "credito": "Lennie Tristano",
+  "lideres": [
+    "tristano"
+  ],
+  "grabacion": {
+    "desde": 1954,
+    "hasta": 1955,
+    "detalle": "Estudio casero, 1954–55; en vivo, 11 de junio de 1955"
+  },
+  "edicion": {
+    "anio": 1956,
+    "detalle": "Febrero de 1956"
+  },
+  "sello": "Atlantic",
+  "catalogo": "LP 1224",
+  "tipo": "estudio",
+  "compilacion": false,
+  "lugar": "Estudio de Tristano y Sing-Song Room, Nueva York",
+  "musicos": [
+    {
+      "musico": "tristano",
+      "nombre": "Lennie Tristano",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Peter Ind",
+      "instrumento": "contrabajo",
+      "nota": "Temas 1 y 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Jeff Morton",
+      "instrumento": "batería",
+      "nota": "Temas 1 y 4"
+    },
+    {
+      "musico": "konitz",
+      "nombre": "Lee Konitz",
+      "instrumento": "saxo alto",
+      "nota": "Temas 5 a 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Gene Ramey",
+      "instrumento": "contrabajo",
+      "nota": "Temas 5 a 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Art Taylor",
+      "instrumento": "batería",
+      "nota": "Temas 5 a 9"
+    }
+  ],
+  "corrientes": [
+    "cool"
+  ],
+  "corrienteNota": "La primera mitad es de estudio y la segunda, en vivo.",
+  "comentario": [
+    "Causó polémica al salir: Tristano grabó el piano sobre una base ya registrada y manipuló la velocidad de la cinta. Iverson confiesa que por eso rechazó \"Line Up\" durante años, hasta que dejó de importarle: \"music is music\". La segunda mitad, en vivo con Konitz, muestra otra cara, mucho más melódica."
+  ],
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Lennie Tristano 1956 Atlantic"
+  },
+  "ids": {
+    "musicbrainz": "d417ecde-99a6-34ef-ab27-3e77a23dbe8e",
+    "discogsMaster": "243212",
+    "wikidata": "Q1702518",
+    "wikipedia": "Lennie_Tristano_(album)"
+  },
+  "respaldo": [
+    {
+      "fuente": "iverson-tristano",
+      "acceso": "completa",
+      "aporta": "Ethan Iverson lo cuenta entre los discos \"that belong in any pantheon of jazz\"."
+    },
+    {
+      "fuente": "penguin-tristano",
+      "acceso": "indirecta",
+      "aporta": "Lo incluye en su colección esencial."
+    }
+  ]
+}

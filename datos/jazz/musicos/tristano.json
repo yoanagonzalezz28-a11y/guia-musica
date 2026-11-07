@@ -1,0 +1,66 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "id": "tristano",
+  "nombre": "Lennie Tristano",
+  "nacimiento": {
+    "anio": 1919,
+    "lugar": "Chicago"
+  },
+  "muerte": {
+    "anio": 1978
+  },
+  "instrumentos": [
+    "piano",
+    "composición"
+  ],
+  "corrientes": [
+    "cool"
+  ],
+  "spotify": null,
+  "resumen": "Pianista y maestro de improvisación. Fue pionero de la improvisación libre grupal y de la superposición de pistas en el jazz, aunque grabó poco.[^wp-tristano]",
+  "epocas": [
+    {
+      "titulo": "El sexteto",
+      "desde": 1949,
+      "hasta": 1950,
+      "texto": "Llegó a Nueva York en 1946 y formó grupos centrados en el contrapunto y la flexibilidad armónica. En 1949 su quinteto grabó las primeras improvisaciones libres en grupo.[^wp-tristano]",
+      "discoClave": {
+        "disco": "crosscurrents",
+        "explicacion": "Reúne esas grabaciones históricas y las líneas largas de Konitz y Marsh."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Atlantic y la enseñanza",
+      "desde": 1954,
+      "hasta": 1956,
+      "texto": "A mediados de los 50 ya se dedicaba más a enseñar que a tocar.[^wp-tristano]",
+      "discoClave": {
+        "disco": "lennie-tristano",
+        "explicacion": "Su disco más celebrado y más discutido por la manipulación de las cintas."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-tristano"
+  ],
+  "respaldo": [
+    {
+      "fuente": "iverson-tristano",
+      "acceso": "completa",
+      "aporta": "Ethan Iverson traza un balance a los 100 años de su nacimiento: discografía chica, vital y a veces discutible."
+    },
+    {
+      "fuente": "iverson-konitz",
+      "acceso": "completa",
+      "aporta": "Iverson lo presenta como una \"esoteric alternative\" al bebop."
+    }
+  ]
+}

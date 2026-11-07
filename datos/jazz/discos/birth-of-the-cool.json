@@ -1,0 +1,138 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "id": "birth-of-the-cool",
+  "titulo": "Birth of the Cool",
+  "credito": "Miles Davis",
+  "lideres": [
+    "miles"
+  ],
+  "grabacion": {
+    "desde": 1949,
+    "hasta": 1950,
+    "detalle": "21 de enero y 22 de abril de 1949; 9 de marzo de 1950"
+  },
+  "edicion": {
+    "anio": 1957,
+    "detalle": "Febrero o marzo de 1957. Los temas ya habían salido en discos de 78 rpm desde 1949."
+  },
+  "sello": "Capitol",
+  "catalogo": "T-762",
+  "tipo": "estudio",
+  "compilacion": true,
+  "lugar": "WOR Studio, Nueva York",
+  "musicos": [
+    {
+      "musico": "miles",
+      "nombre": "Miles Davis",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": "konitz",
+      "nombre": "Lee Konitz",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": "mulligan",
+      "nombre": "Gerry Mulligan",
+      "instrumento": "saxo barítono"
+    },
+    {
+      "musico": null,
+      "nombre": "J. J. Johnson",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Kai Winding",
+      "instrumento": "trombón",
+      "nota": "Según la sesión"
+    },
+    {
+      "musico": null,
+      "nombre": "Gunther Schuller",
+      "instrumento": "corno",
+      "nota": "Según la sesión"
+    },
+    {
+      "musico": null,
+      "nombre": "Junior Collins",
+      "instrumento": "corno",
+      "nota": "Según la sesión"
+    },
+    {
+      "musico": null,
+      "nombre": "Sandy Siegelstein",
+      "instrumento": "corno",
+      "nota": "Según la sesión"
+    },
+    {
+      "musico": null,
+      "nombre": "Bill Barber",
+      "instrumento": "tuba"
+    },
+    {
+      "musico": null,
+      "nombre": "Al Haig",
+      "instrumento": "piano",
+      "nota": "Según la sesión"
+    },
+    {
+      "musico": null,
+      "nombre": "John Lewis",
+      "instrumento": "piano",
+      "nota": "Según la sesión"
+    },
+    {
+      "musico": "roach",
+      "nombre": "Max Roach",
+      "instrumento": "batería",
+      "nota": "Según la sesión"
+    },
+    {
+      "musico": null,
+      "nombre": "Kenny Clarke",
+      "instrumento": "batería",
+      "nota": "Según la sesión"
+    }
+  ],
+  "personalNota": "Lista parcial: faltan los contrabajistas.",
+  "corrientes": [
+    "cool"
+  ],
+  "comentario": [
+    "Un noneto con corno y tuba, poco común en el jazz, y arreglos de Gil Evans, Gerry Mulligan y John Lewis. Casi no tuvo trabajo y se desarmó pronto. El nombre llegó años después: cuando Capitol reunió estos temas en un LP en 1957, el cool ya estaba de moda, y la jugada convirtió a estas grabaciones en una leyenda."
+  ],
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf",
+    "tituloEnSpotify": "Birth Of The Cool"
+  },
+  "ids": {
+    "musicbrainz": "903d5fe8-ab43-33b2-9411-6738af50de19",
+    "discogsMaster": "62308",
+    "wikidata": "Q804018",
+    "wikipedia": "Birth_of_the_Cool"
+  },
+  "respaldo": [
+    {
+      "fuente": "basie-boc",
+      "acceso": "indirecta",
+      "aporta": "Count Basie, que compartía cartel con ellos en el Royal Roost: \"Those slow things sounded strange and good\"."
+    },
+    {
+      "fuente": "db-cool",
+      "acceso": "completa",
+      "aporta": "DownBeat explica cómo el grupo salió de las charlas en el sótano de Gil Evans y cómo el LP de 1957 lo convirtió en leyenda."
+    },
+    {
+      "fuente": "npr-miles",
+      "acceso": "completa",
+      "aporta": "NPR recuerda que el noneto se desarmó por falta de trabajo, pero que su sonido se fue al Oeste y renació como \"cool jazz\"."
+    }
+  ]
+}

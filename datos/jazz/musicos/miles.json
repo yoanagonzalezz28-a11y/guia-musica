@@ -1,0 +1,61 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "id": "miles",
+  "nombre": "Miles Davis",
+  "nacimiento": {
+    "anio": 1926,
+    "lugar": "Alton, Illinois"
+  },
+  "muerte": {
+    "anio": 1991
+  },
+  "instrumentos": [
+    "trompeta"
+  ],
+  "corrientes": [
+    "cool"
+  ],
+  "spotify": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4",
+  "resumen": "Uno de los músicos más influyentes del jazz y del siglo XX, presente en el nacimiento de varios estilos, del cool a la fusión.[^wp-miles] Esta ficha cubre por ahora solo su etapa cool.",
+  "epocasPendientes": [
+    "Quinteto de los 50",
+    "Discos con Gil Evans",
+    "Jazz modal",
+    "Segundo quinteto",
+    "Etapa eléctrica"
+  ],
+  "epocas": [
+    {
+      "titulo": "El noneto",
+      "desde": 1948,
+      "hasta": 1950,
+      "texto": "Tras tocar con Charlie Parker entre 1944 y 1948, armó un grupo de nueve músicos con arreglos de Gil Evans y Gerry Mulligan. El proyecto duró poco, pero terminó siendo clave para el cool.[^wp-miles]",
+      "discoClave": {
+        "disco": "birth-of-the-cool",
+        "explicacion": "El disco que le dio nombre a la corriente, aunque salió casi diez años después."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-miles"
+  ],
+  "respaldo": [
+    {
+      "fuente": "npr-miles",
+      "acceso": "completa",
+      "aporta": "NPR señala que seguía muy arraigado en el bebop mientras su noneto daba forma al cool."
+    },
+    {
+      "fuente": "basie-boc",
+      "acceso": "indirecta",
+      "aporta": "Count Basie: \"I listened, and I liked it\"."
+    }
+  ]
+}

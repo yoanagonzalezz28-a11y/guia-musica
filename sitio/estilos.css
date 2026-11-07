@@ -73,8 +73,7 @@ ul, ol { margin: 0; padding: 0; list-style: none; }
 main { max-width: var(--ancho); margin: 0 auto; padding: 0 var(--gutter) 64px; }
 
 /* ---------- Barras de tinta: la firma del sitio ---------- */
-.tintas { --alto: clamp(220px, 34vw, 400px); margin-top: 24px; }
-.tintas[data-filas="1"] { --alto: clamp(120px, 18vw, 200px); }
+.tintas { --alto: calc(var(--filas, 2) * clamp(110px, 17vw, 200px)); margin-top: 24px; }
 .tintas-marco { position: relative; height: var(--alto); border-bottom: 2px solid var(--tinta); }
 .tinta { position: absolute; display: flex; flex-direction: column; justify-content: flex-end; padding: 10px; overflow: hidden; background: var(--tinta-c); color: var(--tinta-c-texto); text-decoration: none; }
 a.tinta:hover .tinta-nombre { text-decoration: underline; text-decoration-thickness: 4px; text-underline-offset: .08em; }
