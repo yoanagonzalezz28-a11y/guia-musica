@@ -34,7 +34,7 @@ for (const d of g.discos) {
     const explicado = d.discrepancias.some(x => x.campo === 'edición');
     if (anioMb && anioMb !== d.edicion.anio && !explicado) avisar(d, `MusicBrainz da ${anioMb}, la ficha ${d.edicion.anio} y no hay discrepancia anotada`);
   }
-  await pausa(1100);
+  if (d.ids.musicbrainz) await pausa(1100);
 
   if (d.ids.discogsMaster) {
     const dg = await json(`https://api.discogs.com/masters/${d.ids.discogsMaster}`);

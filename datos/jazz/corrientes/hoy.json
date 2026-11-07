@@ -1,0 +1,93 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "derivaPendiente": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "id": "hoy",
+  "nombre": "Jazz de hoy",
+  "alias": [
+    "Jazz actual"
+  ],
+  "lema": "Mezcla global",
+  "tinta": "#00A7A0",
+  "tintaTexto": "#101318",
+  "periodo": {
+    "desde": 2000,
+    "hasta": 2026,
+    "aproximado": true
+  },
+  "deriva": [
+    "fusion",
+    "ecm",
+    "neotrad"
+  ],
+  "lugares": [
+    "Los Ángeles",
+    "Londres",
+    "Nueva York"
+  ],
+  "sinRedescubrimiento": "Es música reciente: todavía no pasó tiempo suficiente como para hablar de redescubrimientos.",
+  "texto": [
+    "Hoy conviven muchas escenas. En Los Ángeles, el colectivo West Coast Get Down y Kamasi Washington llegaron a un público nuevo, en parte de la mano de Kendrick Lamar.[^wp-kamasi] Robert Glasper mezcló su formación con el neo soul y el hip hop, y ganó un Grammy de R&B.[^wp-glasper]",
+    "En Londres, el programa Tomorrow's Warriors formó a una generación ligada al Caribe y a África, con Shabaka Hutchings como figura.[^wp-shabaka]",
+    "Mientras tanto, el piano trío se abrió al pop con Brad Mehldau, y la gran orquesta encontró una nueva voz en Maria Schneider, que además critica el modelo de las plataformas de streaming.[^wp-mehldau][^npr-schneider]"
+  ],
+  "suena": [
+    "Ritmos del hip hop y de la música electrónica tocados por instrumentistas.",
+    "Canciones de otras generaciones convertidas en estándares nuevos.",
+    "Mucha mezcla geográfica, sobre todo con África y el Caribe."
+  ],
+  "hitos": [
+    {
+      "fecha": "1998",
+      "texto": "Mehldau graba a Radiohead y a Nick Drake.[^wp-mehldau]"
+    },
+    {
+      "fecha": "2012",
+      "texto": "*Black Radio* gana un Grammy de R&B.[^wp-glasper]"
+    },
+    {
+      "fecha": "2015",
+      "texto": "Washington toca con Kendrick Lamar y publica *The Epic*.[^wp-kamasi]"
+    },
+    {
+      "fecha": "2020",
+      "texto": "*Data Lords* y *We Are Sent Here by History*.[^npr-schneider][^wp-shabaka]"
+    }
+  ],
+  "legado": "Todavía se está escribiendo.",
+  "musicos": [
+    "mehldau",
+    "washington",
+    "glasper",
+    "schneider",
+    "hutchings",
+    "salvant"
+  ],
+  "musicosPendientes": [
+    "Esperanza Spalding",
+    "Makaya McCraven",
+    "Nubya Garcia",
+    "Avishai Cohen",
+    "Immanuel Wilkins",
+    "Tigran Hamasyan"
+  ],
+  "discosEsenciales": [
+    {
+      "disco": "the-epic",
+      "porque": "El disco que devolvió el jazz a la conversación pública."
+    },
+    {
+      "disco": "black-radio",
+      "porque": "Jazz, hip hop y soul como una sola cosa."
+    },
+    {
+      "disco": "we-are-sent",
+      "porque": "La escena de Londres mirando a África."
+    }
+  ]
+}

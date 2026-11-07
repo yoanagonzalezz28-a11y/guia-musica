@@ -1,0 +1,84 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": "Wally Heider y Different Fur, San Francisco",
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA",
+    "tituloEnSpotify": "Head Hunters"
+  },
+  "id": "head-hunters",
+  "titulo": "Head Hunters",
+  "credito": "Herbie Hancock",
+  "lideres": [
+    "hancock"
+  ],
+  "grabacion": {
+    "desde": 1973,
+    "hasta": 1973,
+    "detalle": "Septiembre de 1973"
+  },
+  "edicion": {
+    "anio": 1973,
+    "detalle": "26 de octubre de 1973"
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "hancock",
+      "nombre": "Herbie Hancock",
+      "instrumento": "piano eléctrico, clavinet y sintetizadores"
+    },
+    {
+      "musico": null,
+      "nombre": "Bennie Maupin",
+      "instrumento": "saxos, saxello y clarinete bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Jackson",
+      "instrumento": "bajo eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Harvey Mason",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Bill Summers",
+      "instrumento": "percusión"
+    }
+  ],
+  "corrientes": [
+    "fusion"
+  ],
+  "comentario": [
+    "Hancock abandona su sexteto experimental y se pone a hacer funk. \"Chameleon\" es un groove que se escucha en todos lados, y \"Watermelon Man\" vuelve transformada con un soplido en una botella que imita una flauta de los mbuti de África Central. Los puristas protestaron y el público lo compró en cantidades enormes. Su huella sigue viva: en su Blindfold Test, los integrantes de Butcher Brown reconocen enseguida a Hancock en otro tema de esos años."
+  ],
+  "ids": {
+    "musicbrainz": "322f18bb-5491-38e9-9044-c0a468651eec",
+    "discogsMaster": "19493",
+    "wikidata": "Q1034640",
+    "wikipedia": "Head_Hunters"
+  },
+  "respaldo": [
+    {
+      "fuente": "am-head",
+      "acceso": "indirecta",
+      "aporta": "Erlewine: \"Jazz purists, of course, decried the experiments at the time, but Head Hunters still sounds fresh and vital\"."
+    },
+    {
+      "fuente": "db-butcher",
+      "acceso": "completa",
+      "aporta": "Ante otro tema de Hancock, de 1975: \"If this isn't Herbie, this is someone who loves Herbie\"."
+    }
+  ]
+}

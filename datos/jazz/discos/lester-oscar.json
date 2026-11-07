@@ -7,6 +7,10 @@
     {
       "campo": "título",
       "texto": "También circuló como \"The President Plays with the Oscar Peterson Trio\", y MusicBrainz lo fecha en 1958 por esa edición."
+    },
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz da 1958, por la edición como \"The President Plays\". Los discos originales son de 1954."
     }
   ],
   "regiones": [],

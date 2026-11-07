@@ -1,0 +1,94 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Black Codes From the Underground Wynton Marsalis"
+  },
+  "id": "black-codes",
+  "titulo": "Black Codes (From the Underground)",
+  "credito": "Wynton Marsalis",
+  "lideres": [
+    "marsalis"
+  ],
+  "grabacion": {
+    "desde": 1985,
+    "hasta": 1985,
+    "detalle": "Enero de 1985"
+  },
+  "edicion": {
+    "anio": 1985,
+    "detalle": "9 de junio de 1985"
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "marsalis",
+      "nombre": "Wynton Marsalis",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Branford Marsalis",
+      "instrumento": "saxos"
+    },
+    {
+      "musico": "kirkland",
+      "nombre": "Kenny Kirkland",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Charnett Moffett",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Jeff \"Tain\" Watts",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Ron Carter",
+      "instrumento": "contrabajo",
+      "nota": "\"Aural Oasis\""
+    }
+  ],
+  "corrientes": [
+    "neotrad"
+  ],
+  "comentario": [
+    "El trabajo más ambicioso del primer quinteto de Marsalis, antes de que Branford y Kirkland se fueran a tocar con Sting. Mira hacia el quinteto de Davis de los 60, con una técnica enorme. Ethan Iverson lo llama \"the inarguable masterpiece\" de esa escena, y para él lo mejor es el aporte de Kirkland. No todos coinciden: Nicholas Payton, en charla con Iverson, prefiere el anterior *Think of One*, porque aquí siente que la idea del grupo ya se había codificado."
+  ],
+  "ids": {
+    "musicbrainz": "b5dfd3b1-2c14-36f9-82c1-66e7e7441665",
+    "discogsMaster": "65074",
+    "wikidata": "Q4920549",
+    "wikipedia": "Black_Codes_(From_the_Underground)"
+  },
+  "respaldo": [
+    {
+      "fuente": "iverson-riffs",
+      "acceso": "completa",
+      "aporta": "Iverson: \"a fabulous disc and a key document of the era. For me the highlight of that famous LP is Kirkland's contribution\"."
+    },
+    {
+      "fuente": "iverson-moffett",
+      "acceso": "completa",
+      "aporta": "Iverson lo llama \"the inarguable masterpiece of that scene and era\"."
+    },
+    {
+      "fuente": "iverson-payton",
+      "acceso": "completa",
+      "aporta": "Nicholas Payton: \"I think Black Codes is a great album, don't get me wrong, but by then the band conception became codified\"."
+    }
+  ]
+}

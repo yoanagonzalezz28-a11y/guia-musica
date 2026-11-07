@@ -1,0 +1,88 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "derivaPendiente": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "id": "neotrad",
+  "nombre": "Neotradicionalismo",
+  "alias": [
+    "Young Lions"
+  ],
+  "lema": "Los jóvenes vuelven al swing",
+  "tinta": "#2E6B3E",
+  "tintaTexto": "#FFFFFF",
+  "periodo": {
+    "desde": 1980,
+    "hasta": 2000,
+    "aproximado": true
+  },
+  "deriva": [
+    "hard-bop"
+  ],
+  "lugares": [
+    "Nueva York",
+    "Nueva Orleans"
+  ],
+  "texto": [
+    "En los 80, después de la fusión y el free, una generación joven encabezada por Wynton Marsalis volvió al swing, el blues y el hard bop acústico. Marsalis tocó con Blakey, y desde el Lincoln Center convirtió al jazz en un patrimonio con orquesta propia.[^wp-marsalis]",
+    "Fue también una gran polémica. Muchos músicos lo acusaron de cerrar el jazz sobre su pasado. Ethan Iverson, de una generación posterior, cree que se lo descartó por razones insuficientes, y discutió con él en una larga entrevista.[^iverson-rerun] Y hay héroes menos visibles: para Iverson, buena parte de lo mejor de esos discos es de Kenny Kirkland.[^iverson-riffs]",
+    "Sus discípulos no siempre siguieron la regla. Roy Hargrove, descubierto por Marsalis, cruzó al jazz latino y al neo soul.[^wp-hargrove]"
+  ],
+  "suena": [
+    "Instrumentos acústicos y swing marcado.",
+    "Una técnica muy alta, apoyada en el hard bop y en el quinteto de Davis de los 60.",
+    "Mucho respeto por el repertorio de la tradición."
+  ],
+  "hitos": [
+    {
+      "fecha": "1982",
+      "texto": "Wynton Marsalis publica su primer disco como líder.[^wp-marsalis]"
+    },
+    {
+      "fecha": "1985",
+      "texto": "*Black Codes*, y Kirkland y Branford se van con Sting.[^wp-kirkland]"
+    },
+    {
+      "fecha": "1990",
+      "texto": "Debuta Roy Hargrove.[^wp-hargrove]"
+    },
+    {
+      "fecha": "1997",
+      "texto": "*Blood on the Fields* gana el Pulitzer.[^wp-marsalis]"
+    }
+  ],
+  "legado": "Le dio al jazz instituciones, escuelas y prestigio. También dejó abierta una pregunta: cuánto hay que cuidar la tradición y cuánto hay que romperla.",
+  "musicos": [
+    "marsalis",
+    "kirkland",
+    "hargrove",
+    "blakey"
+  ],
+  "musicosPendientes": [
+    "Branford Marsalis",
+    "Terence Blanchard",
+    "Joshua Redman",
+    "Wallace Roney",
+    "Marcus Roberts",
+    "Nicholas Payton",
+    "Jeff \"Tain\" Watts"
+  ],
+  "discosEsenciales": [
+    {
+      "disco": "black-codes",
+      "porque": "El mejor retrato del grupo."
+    },
+    {
+      "disco": "blood-fields",
+      "porque": "El proyecto llevado a su máxima escala."
+    },
+    {
+      "disco": "kenny-kirkland",
+      "porque": "El pianista que estaba detrás."
+    }
+  ]
+}

@@ -22,7 +22,8 @@
     "composición"
   ],
   "corrientes": [
-    "modal"
+    "modal",
+    "fusion"
   ],
   "resumen": "Saxofonista y uno de los grandes compositores del jazz. Pasó por los Jazz Messengers y el quinteto de Davis, y cofundó Weather Report.[^wp-shorter]",
   "epocas": [
@@ -38,10 +39,22 @@
       "discos": [
         "mosaic"
       ]
+    },
+    {
+      "titulo": "Weather Report",
+      "desde": 1970,
+      "hasta": 1986,
+      "texto": "Cofundó Weather Report con Joe Zawinul en 1970. Con los años, Zawinul se convirtió en el principal compositor del grupo.[^wp-weather]",
+      "discoClave": {
+        "disco": "heavy-weather",
+        "explicacion": "El mayor éxito de la banda."
+      },
+      "discos": [
+        "bitches-brew"
+      ]
     }
   ],
   "epocasPendientes": [
-    "Weather Report",
     "Cuarteto de los 2000"
   ],
   "fuentes": [

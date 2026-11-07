@@ -1,0 +1,85 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": "Masonic Grand Lodge",
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/56Rq9SJNfnwSkAXZOlHv9Y",
+    "tituloEnSpotify": "Blood On The Fields"
+  },
+  "id": "blood-fields",
+  "titulo": "Blood on the Fields",
+  "credito": "Wynton Marsalis",
+  "lideres": [
+    "marsalis"
+  ],
+  "grabacion": {
+    "desde": 1995,
+    "hasta": 1995,
+    "detalle": "22 a 25 de enero de 1995"
+  },
+  "edicion": {
+    "anio": 1997,
+    "detalle": "17 de junio de 1997"
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "marsalis",
+      "nombre": "Wynton Marsalis",
+      "instrumento": "trompeta y voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Cassandra Wilson",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Miles Griffith",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Jon Hendricks",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Wycliffe Gordon",
+      "instrumento": "trombón y tuba"
+    }
+  ],
+  "personalNota": "Lista parcial: es la orquesta de Jazz at Lincoln Center.",
+  "corrientes": [
+    "neotrad"
+  ],
+  "comentario": [
+    "Un oratorio de más de dos horas y media sobre la esclavitud, encargado por el Lincoln Center. Sigue a dos esclavos, Jesse y Leona, en su camino hacia la libertad. Fue la primera obra de jazz en ganar el Pulitzer de música, en 1997. También es el mejor ejemplo del proyecto de Marsalis: el jazz como patrimonio, con orquesta e institución propia."
+  ],
+  "ids": {
+    "musicbrainz": "de9bc2ca-3285-345a-a919-eea72815aa0a",
+    "discogsMaster": null,
+    "wikidata": "Q4927867",
+    "wikipedia": "Blood_on_the_Fields"
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-marsalis",
+      "acceso": "completa",
+      "aporta": "Primera composición de jazz en ganar el Pulitzer."
+    },
+    {
+      "fuente": "db-mcpherson",
+      "acceso": "completa",
+      "aporta": "Ante un disco de Sherman Irby, Charles McPherson comenta: \"Wynton's sound and approach have changed a bit since early on\"."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq",
+  "id": "mehldau",
+  "nombre": "Brad Mehldau",
+  "nacimiento": {
+    "anio": 1970,
+    "lugar": "Jacksonville, Florida"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "resumen": "Pianista y compositor. Se dio a conocer con Joshua Redman y con su serie de discos en trío.[^wp-mehldau]",
+  "epocas": [
+    {
+      "titulo": "The Art of the Trio",
+      "desde": 1996,
+      "hasta": 2001,
+      "texto": "Su serie en trío mezcló estándares, temas propios y canciones de Nick Drake o Radiohead.[^wp-mehldau]",
+      "discoClave": {
+        "disco": "art-of-trio-3",
+        "explicacion": "El disco que mejor resume esa apertura."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-mehldau"
+  ],
+  "respaldo": [
+    {
+      "fuente": "am-songs",
+      "acceso": "indirecta",
+      "aporta": "Steve Huey y Richard Cook valoran el disco."
+    }
+  ]
+}

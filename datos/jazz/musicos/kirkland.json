@@ -1,0 +1,60 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "id": "kirkland",
+  "nombre": "Kenny Kirkland",
+  "nacimiento": {
+    "anio": 1955,
+    "lugar": "Nueva York"
+  },
+  "muerte": {
+    "anio": 1998
+  },
+  "instrumentos": [
+    "piano",
+    "teclados"
+  ],
+  "corrientes": [
+    "neotrad"
+  ],
+  "redescubrimiento": {
+    "motivo": "Fue una pieza central de los grupos de los Marsalis y de Sting. Ethan Iverson lo señala como lo mejor de *Black Codes*, y aun así su nombre circula mucho menos que el de ellos."
+  },
+  "resumen": "Pianista de los grupos de Wynton y Branford Marsalis, y de la banda de Sting. Murió en 1998 a los 43 años.[^wp-kirkland]",
+  "epocas": [
+    {
+      "titulo": "Con los Marsalis",
+      "desde": 1981,
+      "hasta": 1991,
+      "texto": "Conoció a Wynton Marsalis en una gira por Japón, y se volvió el pianista de sus primeros discos.[^wp-kirkland]",
+      "discoClave": {
+        "disco": "kenny-kirkland",
+        "explicacion": "Su único disco a su nombre."
+      },
+      "discos": [
+        "black-codes"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-kirkland"
+  ],
+  "respaldo": [
+    {
+      "fuente": "iverson-riffs",
+      "acceso": "completa",
+      "aporta": "Iverson: \"Kirkland is so charismatic that some people collect all the Wynton and Branford records just for the Kirkland piano solos\"."
+    },
+    {
+      "fuente": "iverson-watts",
+      "acceso": "completa",
+      "aporta": "Jeff \"Tain\" Watts: \"Kenny Kirkland was versatile with depth\"."
+    }
+  ]
+}

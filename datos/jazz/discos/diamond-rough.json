@@ -1,0 +1,103 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": "BMG Recording Studios, Nueva York",
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Diamond in the Rough Roy Hargrove"
+  },
+  "id": "diamond-rough",
+  "titulo": "Diamond in the Rough",
+  "credito": "Roy Hargrove",
+  "lideres": [
+    "hargrove"
+  ],
+  "grabacion": {
+    "desde": 1989,
+    "hasta": 1989,
+    "detalle": "Diciembre de 1989"
+  },
+  "edicion": {
+    "anio": 1990,
+    "detalle": "13 de abril de 1990"
+  },
+  "sello": "Novus / RCA",
+  "musicos": [
+    {
+      "musico": "hargrove",
+      "nombre": "Roy Hargrove",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Antonio Hart",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Ralph Moore",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Geoffrey Keezer",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "John Hicks",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Charles Fambrough",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Scott Colley",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Al Foster",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Ralph Peterson Jr.",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "neotrad"
+  ],
+  "comentario": [
+    "El debut de un trompetista de 20 años, descubierto por Wynton Marsalis en una escuela de arte de Dallas. Hard bop sólido y bien tocado, tal como pedía la época. Lo más interesante vino después: Hargrove cruzó al jazz latino con *Habana*, y a lo que hoy llamamos neo soul, con D'Angelo."
+  ],
+  "ids": {
+    "musicbrainz": "924f8854-7d79-3b33-85c0-d8e04b91abc7",
+    "discogsMaster": "499360",
+    "wikidata": "Q138005877",
+    "wikipedia": "Diamond_in_the_Rough_(Roy_Hargrove_album)"
+  },
+  "respaldo": [
+    {
+      "fuente": "am-diamond",
+      "acceso": "indirecta",
+      "aporta": "Scott Yanow elogia su madurez y objeta que los solos sean a menudo demasiado breves."
+    },
+    {
+      "fuente": "wp-hargrove",
+      "acceso": "completa",
+      "aporta": "Cuenta su trayectoria, de Marsalis a Crisol y D'Angelo."
+    }
+  ]
+}

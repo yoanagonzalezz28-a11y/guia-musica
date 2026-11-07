@@ -1,0 +1,112 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": "BMG, RPM y Marathon, Nueva York",
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Kenny Kirkland 1991"
+  },
+  "id": "kenny-kirkland",
+  "titulo": "Kenny Kirkland",
+  "credito": "Kenny Kirkland",
+  "lideres": [
+    "kirkland"
+  ],
+  "grabacion": {
+    "desde": 1991,
+    "hasta": 1991,
+    "detalle": "Fecha exacta sin confirmar: se usa el año de edición."
+  },
+  "edicion": {
+    "anio": 1991,
+    "detalle": "1 de octubre de 1991"
+  },
+  "sello": "GRP",
+  "musicos": [
+    {
+      "musico": "kirkland",
+      "nombre": "Kenny Kirkland",
+      "instrumento": "piano y teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Charnett Moffett",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Christian McBride",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Andy González",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Robert Hurst",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Jeff \"Tain\" Watts",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Berrios",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Don Alias",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Jerry González",
+      "instrumento": "congas y percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Branford Marsalis",
+      "instrumento": "saxo tenor"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "neotrad"
+  ],
+  "redescubrimiento": {
+    "motivo": "Es el único disco a su nombre, y hoy se lo menciona poco. Kirkland murió en 1998, a los 43 años. Según Ethan Iverson, hay quien colecciona los discos de los Marsalis solo por sus solos de piano."
+  },
+  "comentario": [
+    "El pianista de los grupos de los Marsalis, en su único disco como líder. Hay temas propios y otros de Monk y Shorter, y en dos de ellos toca una sección latina con Jerry González, Andy González y Steve Berrios. Jeff \"Tain\" Watts, su compañero en tantas grabaciones, lo define como alguien versátil y profundo."
+  ],
+  "ids": {
+    "musicbrainz": "ff1ba252-7e4a-35c9-9949-afc79e8490a4",
+    "discogsMaster": null,
+    "wikidata": "Q17081305",
+    "wikipedia": "Kenny_Kirkland_(album)"
+  },
+  "respaldo": [
+    {
+      "fuente": "iverson-riffs",
+      "acceso": "completa",
+      "aporta": "Iverson: \"Kirkland is so charismatic that some people collect all the Wynton and Branford records just for the Kirkland piano solos\"."
+    },
+    {
+      "fuente": "iverson-watts",
+      "acceso": "completa",
+      "aporta": "Jeff \"Tain\" Watts: \"Kenny Kirkland was versatile with depth\"."
+    }
+  ]
+}

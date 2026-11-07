@@ -1,0 +1,64 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": "ECM 1064/65 ST",
+  "lugar": "Ópera de Colonia, Alemania",
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0I8vpSE1bSmysN2PhmHoQg",
+    "tituloEnSpotify": "The Köln Concert"
+  },
+  "id": "koln-concert",
+  "titulo": "The Köln Concert",
+  "credito": "Keith Jarrett",
+  "lideres": [
+    "jarrett"
+  ],
+  "grabacion": {
+    "desde": 1975,
+    "hasta": 1975,
+    "detalle": "24 de enero de 1975"
+  },
+  "edicion": {
+    "anio": 1975,
+    "detalle": "30 de noviembre de 1975"
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "jarrett",
+      "nombre": "Keith Jarrett",
+      "instrumento": "piano"
+    }
+  ],
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Un hombre solo, improvisando durante más de una hora en un piano en mal estado. Es el disco de piano más vendido de la historia. Ted Gioia cuenta que lo escuchó sonar en una disquería de Palo Alto, en 1975, y que en quince minutos se agotaron todas las copias. Jarrett se negó durante años a publicar una transcripción, porque decía que esa música se improvisó para una noche determinada. Cuando la autorizó, en 1990, aclaró que la palabra final la tiene la grabación."
+  ],
+  "ids": {
+    "musicbrainz": "516d4629-7bf3-3ac3-907a-ed9a022db840",
+    "discogsMaster": "26241",
+    "wikidata": "Q532850",
+    "wikipedia": "The_K%C3%B6ln_Concert"
+  },
+  "respaldo": [
+    {
+      "fuente": "gioia-jarrett",
+      "acceso": "completa",
+      "aporta": "Ted Gioia, que vivió de cerca el fenómeno, cuenta cómo pasó de ser un músico para especialistas a un artista masivo."
+    },
+    {
+      "fuente": "critica-koln",
+      "acceso": "indirecta",
+      "aporta": "En la colección esencial de la Penguin Guide. Tom Hull: lo consagró como el principal pianista de su generación."
+    }
+  ]
+}

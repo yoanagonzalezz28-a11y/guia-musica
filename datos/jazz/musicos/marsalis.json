@@ -1,0 +1,64 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "id": "marsalis",
+  "nombre": "Wynton Marsalis",
+  "nacimiento": {
+    "anio": 1961,
+    "lugar": "Nueva Orleans"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "trompeta",
+    "composición"
+  ],
+  "corrientes": [
+    "neotrad"
+  ],
+  "resumen": "Trompetista y director artístico de Jazz at Lincoln Center. Ganó nueve Grammy, y su *Blood on the Fields* fue la primera obra de jazz en ganar el Pulitzer.[^wp-marsalis]",
+  "epocas": [
+    {
+      "titulo": "El primer quinteto",
+      "desde": 1982,
+      "hasta": 1985,
+      "texto": "Salió de los Jazz Messengers y formó un grupo con su hermano Branford, Kenny Kirkland y Jeff \"Tain\" Watts.[^wp-marsalis]",
+      "discoClave": {
+        "disco": "black-codes",
+        "explicacion": "El disco más ambicioso de esa formación."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "El Lincoln Center",
+      "desde": 1987,
+      "hasta": 1997,
+      "texto": "Desde el Lincoln Center defendió la idea del jazz como patrimonio, y compuso obras de gran formato.[^wp-marsalis]",
+      "discoClave": {
+        "disco": "blood-fields",
+        "explicacion": "Un oratorio sobre la esclavitud, ganador del Pulitzer."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-marsalis"
+  ],
+  "respaldo": [
+    {
+      "fuente": "iverson-rerun",
+      "acceso": "completa",
+      "aporta": "Ethan Iverson: \"I thought too many of my peers had been dismissive of WM for inadequate reasons\". Por eso lo entrevistó largamente."
+    },
+    {
+      "fuente": "db-mcpherson",
+      "acceso": "completa",
+      "aporta": "Charles McPherson comenta su evolución en un Blindfold Test."
+    }
+  ]
+}

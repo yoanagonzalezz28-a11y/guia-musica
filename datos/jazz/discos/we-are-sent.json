@@ -1,0 +1,65 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4S5MLu2PKU7uElm2V3JphK",
+    "tituloEnSpotify": "We Are Sent Here By History"
+  },
+  "id": "we-are-sent",
+  "titulo": "We Are Sent Here by History",
+  "credito": "Shabaka and the Ancestors",
+  "lideres": [
+    "hutchings"
+  ],
+  "grabacion": {
+    "desde": 2020,
+    "hasta": 2020,
+    "detalle": "Fecha exacta sin confirmar: se usa el año de edición."
+  },
+  "edicion": {
+    "anio": 2020,
+    "detalle": "13 de marzo de 2020"
+  },
+  "sello": "Impulse!",
+  "musicos": [
+    {
+      "musico": "hutchings",
+      "nombre": "Shabaka Hutchings",
+      "instrumento": "saxo tenor y clarinete"
+    },
+    {
+      "musico": null,
+      "nombre": "Siyabonga Mthembu",
+      "instrumento": "voz"
+    }
+  ],
+  "personalNota": "Lista parcial: solo figuran los músicos que pudimos confirmar en las fuentes abiertas consultadas.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "El músico británico-barbadense, figura de la escena de Londres, firma todos los temas con el cantante y poeta Siyabonga Mthembu, para Impulse!, el sello de Coltrane. Es una buena entrada al jazz inglés actual, y a su diálogo con África."
+  ],
+  "ids": {
+    "musicbrainz": "df5f586d-e29a-41aa-991a-fb5b1ec44074",
+    "discogsMaster": null,
+    "wikidata": "Q96340916",
+    "wikipedia": "We_Are_Sent_Here_by_History"
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-shabaka",
+      "acceso": "completa",
+      "aporta": "Explica su formación en Tomorrow's Warriors y la escena del sudeste de Londres."
+    }
+  ]
+}

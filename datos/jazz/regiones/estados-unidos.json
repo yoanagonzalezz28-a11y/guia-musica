@@ -14,7 +14,10 @@
     "swing",
     "modal",
     "free",
-    "souljazz"
+    "souljazz",
+    "fusion",
+    "neotrad",
+    "hoy"
   ],
   "musicos": [
     "parker",
@@ -57,7 +60,18 @@
     "jimmysmith",
     "morgan",
     "byrd",
-    "green"
+    "green",
+    "zawinul",
+    "corea",
+    "metheny",
+    "marsalis",
+    "kirkland",
+    "hargrove",
+    "mehldau",
+    "washington",
+    "glasper",
+    "schneider",
+    "salvant"
   ],
   "discos": [],
   "figurasPendientes": [],
@@ -105,6 +119,14 @@
     {
       "nombre": "Five Spot, Nueva York",
       "texto": "El club donde Ornette Coleman dividió a la crítica en 1959."
+    },
+    {
+      "nombre": "Jazz at Lincoln Center",
+      "texto": "La institución que dirige Wynton Marsalis, con orquesta propia."
+    },
+    {
+      "nombre": "Brainfeeder",
+      "texto": "El sello de Los Ángeles donde salió The Epic."
     }
   ],
   "escenaActual": [

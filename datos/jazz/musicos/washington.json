@@ -1,0 +1,48 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU",
+  "id": "washington",
+  "nombre": "Kamasi Washington",
+  "nacimiento": {
+    "anio": 1981,
+    "lugar": "Los Ángeles"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "saxo tenor",
+    "composición"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "resumen": "Saxofonista y arreglador del colectivo West Coast Get Down. Tocó en *To Pimp a Butterfly*, de Kendrick Lamar.[^wp-kamasi]",
+  "epocas": [
+    {
+      "titulo": "The Epic",
+      "desde": 2015,
+      "hasta": 2018,
+      "texto": "Su primer disco para un sello llegó a un público mucho más amplio que el habitual del jazz, en el mismo año en que tocó con Kendrick Lamar.[^wp-kamasi]",
+      "discoClave": {
+        "disco": "the-epic",
+        "explicacion": "Casi tres horas de jazz espiritual."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-kamasi"
+  ],
+  "respaldo": [
+    {
+      "fuente": "am-epic",
+      "acceso": "indirecta",
+      "aporta": "Thom Jurek destaca que amplió la conversación sobre el jazz."
+    }
+  ]
+}

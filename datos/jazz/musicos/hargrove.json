@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "id": "hargrove",
+  "nombre": "Roy Hargrove",
+  "nacimiento": {
+    "anio": 1969,
+    "lugar": "Waco, Texas"
+  },
+  "muerte": {
+    "anio": 2018
+  },
+  "instrumentos": [
+    "trompeta",
+    "fliscorno"
+  ],
+  "corrientes": [
+    "neotrad"
+  ],
+  "resumen": "Trompetista descubierto por Wynton Marsalis. Ganó dos Grammy en estilos muy distintos, y tocó en *Voodoo*, de D'Angelo.[^wp-hargrove]",
+  "epocas": [
+    {
+      "titulo": "El debut",
+      "desde": 1989,
+      "hasta": 1990,
+      "texto": "Marsalis lo escuchó en su escuela de Dallas y le abrió las puertas de la escena.[^wp-hargrove]",
+      "discoClave": {
+        "disco": "diamond-rough",
+        "explicacion": "Su primer disco como líder."
+      },
+      "discos": []
+    }
+  ],
+  "epocasPendientes": [
+    "Habana con Crisol",
+    "RH Factor"
+  ],
+  "fuentes": [
+    "wp-hargrove"
+  ],
+  "respaldo": [
+    {
+      "fuente": "am-diamond",
+      "acceso": "indirecta",
+      "aporta": "Scott Yanow lo compara con Freddie Hubbard, con voz propia."
+    }
+  ]
+}

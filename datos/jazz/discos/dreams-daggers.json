@@ -1,0 +1,80 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": "Village Vanguard y Dimenna Center, Nueva York",
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2c9Oa8uygtwLDMpWcklVay",
+    "tituloEnSpotify": "Dreams and Daggers"
+  },
+  "id": "dreams-daggers",
+  "titulo": "Dreams and Daggers",
+  "credito": "Cécile McLorin Salvant",
+  "lideres": [
+    "salvant"
+  ],
+  "grabacion": {
+    "desde": 2016,
+    "hasta": 2016,
+    "detalle": "Septiembre y diciembre de 2016"
+  },
+  "edicion": {
+    "anio": 2017,
+    "detalle": "29 de septiembre de 2017"
+  },
+  "sello": "Mack Avenue",
+  "musicos": [
+    {
+      "musico": "salvant",
+      "nombre": "Cécile McLorin Salvant",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Aaron Diehl",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Sullivan Fortner",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Sikivie",
+      "instrumento": "contrabajo y arreglos"
+    }
+  ],
+  "personalNota": "Lista parcial: incluye un cuarteto de cuerdas.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "La cantante más destacada de su generación, grabada en gran parte en vivo en el Village Vanguard. Es un disco doble, con un cuarteto de cuerdas en algunos temas, y gira alrededor del amor y el desamor. Es muy teatral. Ganó el Grammy al mejor disco vocal de jazz, y Fred Kaplan lo llamó el mejor disco vocal de jazz en una década."
+  ],
+  "ids": {
+    "musicbrainz": "e7b7a93e-a64a-4e3b-87b3-af1fc0b124ed",
+    "discogsMaster": "1249219",
+    "wikidata": "Q48727035",
+    "wikipedia": "Dreams_and_Daggers"
+  },
+  "respaldo": [
+    {
+      "fuente": "am-dreams",
+      "acceso": "indirecta",
+      "aporta": "Fred Kaplan: \"the best jazz vocal album in a decade, maybe in longer than that\"."
+    },
+    {
+      "fuente": "wp-salvant",
+      "acceso": "completa",
+      "aporta": "Repasa sus premios y su lugar en la crítica de DownBeat."
+    }
+  ]
+}

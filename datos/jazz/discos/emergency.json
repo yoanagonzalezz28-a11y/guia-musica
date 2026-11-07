@@ -1,0 +1,73 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1waasXN8fMNbWh4xq7Akeg",
+    "tituloEnSpotify": "Emergency!"
+  },
+  "id": "emergency",
+  "titulo": "Emergency!",
+  "credito": "The Tony Williams Lifetime",
+  "lideres": [],
+  "grabacion": {
+    "desde": 1969,
+    "hasta": 1969,
+    "detalle": "26 y 28 de mayo de 1969"
+  },
+  "edicion": {
+    "anio": 1969,
+    "detalle": "Septiembre de 1969"
+  },
+  "sello": "Polydor",
+  "musicos": [
+    {
+      "musico": null,
+      "nombre": "Tony Williams",
+      "instrumento": "batería y voz"
+    },
+    {
+      "musico": "mclaughlin",
+      "nombre": "John McLaughlin",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Larry Young",
+      "instrumento": "órgano"
+    }
+  ],
+  "corrientes": [
+    "fusion"
+  ],
+  "redescubrimiento": {
+    "motivo": "Se grabó tres meses antes de Bitches Brew y fue una de las primeras grabaciones importantes de la fusión, pero su fama quedó tapada por la de Davis."
+  },
+  "comentario": [
+    "Un trío de órgano, guitarra eléctrica y batería, con la intensidad y el volumen del rock. Tony Williams, que venía del quinteto de Davis, le ganó de mano a su antiguo jefe por tres meses. Suena crudo y ruidoso: no es la fusión pulida de los años siguientes. Larry Young, el mismo de *Unity*, toca como si el órgano fuera otro instrumento."
+  ],
+  "ids": {
+    "musicbrainz": "b452fb77-3ff0-3b22-8b04-5ac153fb0c06",
+    "discogsMaster": "200423",
+    "wikidata": "Q5370538",
+    "wikipedia": "Emergency!_(album)"
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-fusion",
+      "acceso": "completa",
+      "aporta": "La banda combinó intensidad y volumen de rock con espontaneidad de jazz; el disco se grabó tres meses antes de Bitches Brew."
+    }
+  ],
+  "fuentes": [
+    "wp-mclaughlin"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": "Oktaven Audio, Mount Vernon, Nueva York",
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Data Lords Maria Schneider"
+  },
+  "id": "data-lords",
+  "titulo": "Data Lords",
+  "credito": "Maria Schneider Orchestra",
+  "lideres": [
+    "schneider"
+  ],
+  "grabacion": {
+    "desde": 2019,
+    "hasta": 2019,
+    "detalle": "30 de agosto a 2 de septiembre de 2019"
+  },
+  "edicion": {
+    "anio": 2020,
+    "detalle": "24 de julio de 2020"
+  },
+  "sello": "ArtistShare",
+  "musicos": [
+    {
+      "musico": "schneider",
+      "nombre": "Maria Schneider",
+      "instrumento": "composición y dirección"
+    },
+    {
+      "musico": null,
+      "nombre": "Donny McCaslin",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Wilson",
+      "instrumento": "saxos, clarinete y flauta"
+    },
+    {
+      "musico": null,
+      "nombre": "Dave Pietro",
+      "instrumento": "saxos, flauta y piccolo"
+    },
+    {
+      "musico": null,
+      "nombre": "Greg Gisbert",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Marshall Gilkes",
+      "instrumento": "trombón"
+    }
+  ],
+  "personalNota": "Lista parcial: es una orquesta completa.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Un disco doble: un lado sobre el mundo digital y otro sobre el mundo natural. Schneider, que fue asistente de Gil Evans, llama \"data lords\" a compañías como Google y Spotify, y escribió la obra por encargo de la Biblioteca del Congreso. Ganó dos Grammy y fue finalista del Pulitzer. Salió por ArtistShare, una plataforma de financiación por los oyentes. Puede que no lo encuentres en Spotify: la búsqueda de abajo te permite comprobarlo."
+  ],
+  "ids": {
+    "musicbrainz": "d16db088-ac31-40e8-ae20-ece4ed451b21",
+    "discogsMaster": null,
+    "wikidata": "Q98917618",
+    "wikipedia": "Data_Lords"
+  },
+  "respaldo": [
+    {
+      "fuente": "npr-schneider",
+      "acceso": "completa",
+      "aporta": "Nate Chinen explica el origen de la obra: compañías como Google y Spotify, y \"the distorted ecology they've helped create\"."
+    },
+    {
+      "fuente": "db-schneider-p",
+      "acceso": "completa",
+      "aporta": "DownBeat informa su selección como finalista del Pulitzer de música."
+    }
+  ]
+}

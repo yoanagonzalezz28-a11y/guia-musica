@@ -1,0 +1,83 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz da 1970 y Wikipedia 1971."
+    }
+  ],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": "ECM 1007 ST",
+  "lugar": "Bendiksen Studio, Oslo",
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Afric Pepperbird Jan Garbarek"
+  },
+  "id": "afric-pepperbird",
+  "titulo": "Afric Pepperbird",
+  "credito": "Jan Garbarek Quartet",
+  "lideres": [
+    "garbarek"
+  ],
+  "grabacion": {
+    "desde": 1970,
+    "hasta": 1970,
+    "detalle": "Septiembre de 1970"
+  },
+  "edicion": {
+    "anio": 1971,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "garbarek",
+      "nombre": "Jan Garbarek",
+      "instrumento": "saxos, clarinete y flauta"
+    },
+    {
+      "musico": null,
+      "nombre": "Terje Rypdal",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Arild Andersen",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Jon Christensen",
+      "instrumento": "percusión"
+    }
+  ],
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Antes del sonido nórdico y frío que lo hizo famoso, Garbarek tocaba así: duro, áspero y muy influido por el Coltrane tardío. Es el primer disco del saxofonista para ECM, y uno de los primeros del sello. AllMusic lo ubica en la etapa más agresiva de su carrera, antes de lo que se conoció como la estética ECM. Sirve para no pensar a ECM como un solo sonido."
+  ],
+  "ids": {
+    "musicbrainz": "fe444a21-f678-3f29-bd6f-5e83548512b3",
+    "discogsMaster": "216030",
+    "wikidata": "Q1759630",
+    "wikipedia": "Afric_Pepperbird"
+  },
+  "respaldo": [
+    {
+      "fuente": "gioia-garbarek",
+      "acceso": "completa",
+      "aporta": "Ted Gioia: Garbarek mostró cómo era el jazz europeo seguro de sí, sin depender de lo que pasaba en Estados Unidos."
+    },
+    {
+      "fuente": "am-afric",
+      "acceso": "indirecta",
+      "aporta": "Brian Olewnick destaca su etapa más agresiva."
+    }
+  ]
+}

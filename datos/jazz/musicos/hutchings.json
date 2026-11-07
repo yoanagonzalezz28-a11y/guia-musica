@@ -1,0 +1,47 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [],
+  "spotify": "https://open.spotify.com/artist/2lrCkW8oiUfuiouUjVvM1o",
+  "id": "hutchings",
+  "nombre": "Shabaka Hutchings",
+  "nacimiento": {
+    "anio": 1984,
+    "lugar": "Londres"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "saxo tenor",
+    "clarinete",
+    "flautas"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "resumen": "Músico británico, figura de la escena del sudeste de Londres, con Sons of Kemet y The Comet Is Coming.[^wp-shabaka]",
+  "epocas": [
+    {
+      "titulo": "Los Ancestors",
+      "desde": 2016,
+      "hasta": 2020,
+      "texto": "Formado en el programa Tomorrow's Warriors, tocó también con Mulatu Astatke y la Sun Ra Arkestra.[^wp-shabaka]",
+      "discoClave": {
+        "disco": "we-are-sent",
+        "explicacion": "Grabado con músicos sudafricanos para Impulse!."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-shabaka"
+  ],
+  "respaldo": [
+    {
+      "fuente": "wp-free",
+      "acceso": "completa",
+      "aporta": "Sitúa la herencia libre y espiritual que él retoma."
+    }
+  ]
+}

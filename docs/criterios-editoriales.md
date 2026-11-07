@@ -7,7 +7,7 @@ Valen para todo el banco. Lo que puede comprobar una máquina frena la construcc
 La vara es Ryo Fukui y el jazz japonés de los 70: ir más allá de los nombres que llegaron a los libros en inglés.
 
 **Cada corriente debe tener:**
-- al menos un disco con la etiqueta "redescubrimiento" (obligatorio para construir);
+- al menos un disco con la etiqueta "redescubrimiento" (obligatorio para construir). La única excepción es una corriente demasiado reciente, y debe explicarlo en `sinRedescubrimiento`;
 - sus figuras centrales y una lista de fichas por escribir.
 
 **Cada región debe tener:**

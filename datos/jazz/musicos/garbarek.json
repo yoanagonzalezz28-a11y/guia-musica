@@ -1,0 +1,50 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [],
+  "spotify": "https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym",
+  "id": "garbarek",
+  "nombre": "Jan Garbarek",
+  "nacimiento": {
+    "anio": 1947,
+    "lugar": "Mysen, Noruega"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "saxo tenor",
+    "saxo soprano"
+  ],
+  "corrientes": [
+    "ecm"
+  ],
+  "resumen": "Saxofonista noruego, símbolo del jazz nórdico. Hijo de un prisionero de guerra polaco, creció sin nacionalidad hasta los siete años.[^wp-garbarek] Su *Officium*, de 1994, fue uno de los discos más vendidos de ECM.[^wp-garbarek]",
+  "epocas": [
+    {
+      "titulo": "Los comienzos en ECM",
+      "desde": 1970,
+      "hasta": 1971,
+      "texto": "De adolescente tocaba hard bop y Ted Gioia oyó en él al Coltrane tardío, antes de que encontrara su sonido propio.[^gioia-garbarek]",
+      "discoClave": {
+        "disco": "afric-pepperbird",
+        "explicacion": "Su primer disco para ECM, todavía muy áspero."
+      },
+      "discos": []
+    }
+  ],
+  "epocasPendientes": [
+    "Con Jarrett: Belonging",
+    "Officium"
+  ],
+  "fuentes": [
+    "wp-garbarek"
+  ],
+  "respaldo": [
+    {
+      "fuente": "gioia-garbarek",
+      "acceso": "completa",
+      "aporta": "Ted Gioia lo señala como líder del jazz europeo independiente."
+    }
+  ]
+}

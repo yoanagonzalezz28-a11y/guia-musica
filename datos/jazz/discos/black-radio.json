@@ -1,0 +1,95 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1KO7iPWZYqc7LPgYigBabM",
+    "tituloEnSpotify": "Black Radio (Bonus Tracks)"
+  },
+  "id": "black-radio",
+  "titulo": "Black Radio",
+  "credito": "Robert Glasper Experiment",
+  "lideres": [
+    "glasper"
+  ],
+  "grabacion": {
+    "desde": 2012,
+    "hasta": 2012,
+    "detalle": "Fecha exacta sin confirmar: se usa el año de edición."
+  },
+  "edicion": {
+    "anio": 2012,
+    "detalle": "28 de febrero de 2012"
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "glasper",
+      "nombre": "Robert Glasper",
+      "instrumento": "teclados y piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Casey Benjamin",
+      "instrumento": "vocoder, flauta y saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Derrick Hodge",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Chris Dave",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Erykah Badu",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Lalah Hathaway",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Bilal",
+      "instrumento": "voz"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Un pianista de jazz se junta con voces del neo soul y del hip hop, y termina ganando el Grammy al mejor disco de R&B. Más que fusionar géneros, muestra que para una generación ya son uno solo. Su \"Smells Like Teen Spirit\", con vocoder, es la prueba más famosa."
+  ],
+  "ids": {
+    "musicbrainz": "dc7a73e4-b92a-4000-8ae5-d87492dfcbb1",
+    "discogsMaster": "416242",
+    "wikidata": "Q16244111",
+    "wikipedia": "Black_Radio"
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-glasper",
+      "acceso": "completa",
+      "aporta": "Su lugar en la música actual y sus premios Grammy."
+    },
+    {
+      "fuente": "db-butcher",
+      "acceso": "completa",
+      "aporta": "Ante otro disco suyo, Double Booked (2009), Butcher Brown lo reconoce enseguida: \"It was a big deal when this went public\"."
+    }
+  ]
+}

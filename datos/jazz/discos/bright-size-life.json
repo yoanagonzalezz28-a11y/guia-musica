@@ -1,0 +1,68 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": "Tonstudio Bauer, Ludwigsburg",
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Bright Size Life Pat Metheny"
+  },
+  "id": "bright-size-life",
+  "titulo": "Bright Size Life",
+  "credito": "Pat Metheny",
+  "lideres": [
+    "metheny"
+  ],
+  "grabacion": {
+    "desde": 1975,
+    "hasta": 1975,
+    "detalle": "Diciembre de 1975"
+  },
+  "edicion": {
+    "anio": 1976,
+    "detalle": "Marzo de 1976"
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "metheny",
+      "nombre": "Pat Metheny",
+      "instrumento": "guitarra eléctrica"
+    },
+    {
+      "musico": null,
+      "nombre": "Jaco Pastorius",
+      "instrumento": "bajo eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Bob Moses",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "El debut de Metheny, a los 21 años, en trío con un Jaco Pastorius casi desconocido. La Penguin Guide destaca su sonido limpio y abierto. El guitarrista Martin Taylor lo llamó un punto de inflexión: Metheny llevó el jazz adonde nadie sabía que se podía ir."
+  ],
+  "ids": {
+    "musicbrainz": "abac8d3d-f25a-386f-a819-5063c8df56a4",
+    "discogsMaster": "62235",
+    "wikidata": "Q1754618",
+    "wikipedia": "Bright_Size_Life"
+  },
+  "respaldo": [
+    {
+      "fuente": "critica-bright",
+      "acceso": "indirecta",
+      "aporta": "Martin Taylor, citado en la Penguin Guide: \"a turning point in jazz\"."
+    }
+  ]
+}

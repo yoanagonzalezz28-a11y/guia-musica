@@ -1,0 +1,48 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "id": "schneider",
+  "nombre": "Maria Schneider",
+  "nacimiento": {
+    "anio": 1960,
+    "lugar": "Windom, Minesota"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "composición",
+    "dirección"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "resumen": "Compositora y directora de orquesta, con múltiples Grammy. Fue copista y asistente de Gil Evans.[^wp-schneider]",
+  "epocas": [
+    {
+      "titulo": "Data Lords",
+      "desde": 2019,
+      "hasta": 2020,
+      "texto": "Una comisión de la Biblioteca del Congreso derivó en una pieza sobre lo que llama \"data lords\".[^npr-schneider]",
+      "discoClave": {
+        "disco": "data-lords",
+        "explicacion": "Finalista del Pulitzer y ganador de dos Grammy."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-schneider"
+  ],
+  "respaldo": [
+    {
+      "fuente": "npr-schneider",
+      "acceso": "completa",
+      "aporta": "Nate Chinen sigue el camino de la obra."
+    }
+  ]
+}

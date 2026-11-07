@@ -139,7 +139,7 @@ export function validar(g, fuentes) {
     c.regiones.forEach(x => existe(d, g.por.region, x, 'región'));
     c.musicos.forEach(x => existe(d, g.por.musico, x, 'músico'));
     c.discosEsenciales.forEach(x => existe(d, g.por.disco, x.disco, 'disco'));
-    if (!g.discos.some(x => x.corrientes.includes(c.id) && x.redescubrimiento)) err(d, 'necesita al menos un disco con la etiqueta redescubrimiento');
+    if (!c.sinRedescubrimiento && !g.discos.some(x => x.corrientes.includes(c.id) && x.redescubrimiento)) err(d, 'necesita al menos un disco con la etiqueta redescubrimiento, o explicar por qué no en sinRedescubrimiento');
   }
 
   for (const r of g.regiones) {

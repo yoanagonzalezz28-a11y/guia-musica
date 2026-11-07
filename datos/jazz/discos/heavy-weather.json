@@ -1,0 +1,84 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": "Devonshire, North Hollywood",
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2M9F2yYsUvqiBPwUGeNvn1",
+    "tituloEnSpotify": "Heavy Weather"
+  },
+  "id": "heavy-weather",
+  "titulo": "Heavy Weather",
+  "credito": "Weather Report",
+  "lideres": [
+    "zawinul"
+  ],
+  "grabacion": {
+    "desde": 1976,
+    "hasta": 1977,
+    "detalle": "Diciembre de 1976 a enero de 1977; un tema en julio de 1976"
+  },
+  "edicion": {
+    "anio": 1977,
+    "detalle": "Marzo de 1977"
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "zawinul",
+      "nombre": "Joe Zawinul",
+      "instrumento": "teclados y sintetizadores"
+    },
+    {
+      "musico": "shorter",
+      "nombre": "Wayne Shorter",
+      "instrumento": "saxos"
+    },
+    {
+      "musico": null,
+      "nombre": "Jaco Pastorius",
+      "instrumento": "bajo eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Alex Acuña",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Manolo Badrena",
+      "instrumento": "percusión"
+    }
+  ],
+  "corrientes": [
+    "fusion"
+  ],
+  "comentario": [
+    "El disco más exitoso de la banda, con \"Birdland\" como tema de apertura. El bajo de Jaco Pastorius cambió el lugar de ese instrumento en el jazz. En su reseña de 1977, Rolling Stone señaló el costo: la banda perdió parte del espacio y del aire de sus primeros discos, y ganó un estilo más ocupado, justamente por el nuevo bajista."
+  ],
+  "ids": {
+    "musicbrainz": "f1753c0a-50be-3591-8cbb-6848142e055f",
+    "discogsMaster": "21748",
+    "wikidata": "Q786023",
+    "wikipedia": "Heavy_Weather_(album)"
+  },
+  "respaldo": [
+    {
+      "fuente": "rs-weather",
+      "acceso": "indirecta",
+      "aporta": "DownBeat le dio cinco estrellas y sus lectores lo eligieron disco del año. Rolling Stone marcó lo que la banda dejó atrás."
+    },
+    {
+      "fuente": "wp-weather",
+      "acceso": "completa",
+      "aporta": "Explica cómo Zawinul se volvió el principal compositor del grupo."
+    }
+  ]
+}

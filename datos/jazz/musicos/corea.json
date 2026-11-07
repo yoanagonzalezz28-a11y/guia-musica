@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq",
+  "id": "corea",
+  "nombre": "Chick Corea",
+  "nacimiento": {
+    "anio": 1941,
+    "lugar": "Chelsea, Massachusetts"
+  },
+  "muerte": {
+    "anio": 2021
+  },
+  "instrumentos": [
+    "piano",
+    "teclados"
+  ],
+  "corrientes": [
+    "fusion"
+  ],
+  "resumen": "Pianista y compositor de estándares como \"Spain\" y \"La Fiesta\". Tocó con Davis en los años en que nació la fusión, y en los 70 formó Return to Forever.[^wp-corea]",
+  "epocas": [
+    {
+      "titulo": "Return to Forever",
+      "desde": 1972,
+      "hasta": 1976,
+      "texto": "Tras tocar con Davis, formó este grupo en los años 70.[^wp-corea]",
+      "discoClave": {
+        "disco": "romantic-warrior",
+        "explicacion": "Su disco más popular."
+      },
+      "discos": [
+        "bitches-brew"
+      ]
+    }
+  ],
+  "epocasPendientes": [
+    "Now He Sings, Now He Sobs",
+    "Dúos y Elektric Band"
+  ],
+  "fuentes": [
+    "wp-corea"
+  ],
+  "respaldo": [
+    {
+      "fuente": "iverson-corea",
+      "acceso": "completa",
+      "aporta": "Ethan Iverson: \"A lot of what Chick Corea played came directly from McCoy Tyner, but his approach had a freshness and a lightness\"."
+    }
+  ]
+}

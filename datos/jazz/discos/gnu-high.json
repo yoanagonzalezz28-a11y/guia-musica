@@ -1,0 +1,87 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": "ECM 1069 ST",
+  "lugar": "Generation Sound, Nueva York",
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3ZJDOnK3ypck3huOlnBYrn",
+    "tituloEnSpotify": "Gnu High"
+  },
+  "id": "gnu-high",
+  "titulo": "Gnu High",
+  "credito": "Kenny Wheeler",
+  "lideres": [
+    "wheeler"
+  ],
+  "grabacion": {
+    "desde": 1975,
+    "hasta": 1975,
+    "detalle": "Junio de 1975"
+  },
+  "edicion": {
+    "anio": 1976,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "wheeler",
+      "nombre": "Kenny Wheeler",
+      "instrumento": "fliscorno"
+    },
+    {
+      "musico": "jarrett",
+      "nombre": "Keith Jarrett",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Dave Holland",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Jack DeJohnette",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "ecm"
+  ],
+  "redescubrimiento": {
+    "motivo": "Entre músicos es un disco famoso: Ethan Iverson dice que cuesta encontrar a un joven de esa época que no se haya inspirado en él. Pero se quedó afuera del canon general, y a Iverson le sorprendió su ausencia en una encuesta de JazzTimes sobre los mejores discos."
+  },
+  "comentario": [
+    "Un canadiense radicado en Londres, de melodías muy cuidadas y un sonido muy suyo en el fliscorno. Es también una de las pocas veces que Jarrett trabajó como acompañante en esos años. El disco divide opiniones: en DownBeat, Mikal Gilmore le encontró a Wheeler un ataque \"monotonously dispassionate\", y el propio Jarrett se quejó después de lo difícil que era tocar esas estructuras. Iverson, en cambio, escucha un disco de maestros."
+  ],
+  "ids": {
+    "musicbrainz": "888c3e40-77e4-31eb-8e42-ae1507addfdf",
+    "discogsMaster": "228440",
+    "wikidata": "Q5574489",
+    "wikipedia": "Gnu_High"
+  },
+  "respaldo": [
+    {
+      "fuente": "iverson-gnu",
+      "acceso": "completa",
+      "aporta": "Iverson: \"an even more surprising omission\" de la encuesta de JazzTimes. Cita también la queja de Jarrett en su biografía."
+    },
+    {
+      "fuente": "iverson-ecm50",
+      "acceso": "completa",
+      "aporta": "Iverson: \"It might be hard to find a significant younger jazz musician from the era who wasn't inspired by Gnu High\"."
+    },
+    {
+      "fuente": "critica-gnu",
+      "acceso": "indirecta",
+      "aporta": "Mikal Gilmore, en DownBeat: cuatro estrellas, con objeciones a Wheeler y el mayor elogio para Jarrett."
+    }
+  ]
+}

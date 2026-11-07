@@ -1,0 +1,110 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": "Estudio B de Columbia, Nueva York",
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4HeZ7OqYlDWsXdgSQLCAdE",
+    "tituloEnSpotify": "Bitches Brew"
+  },
+  "id": "bitches-brew",
+  "titulo": "Bitches Brew",
+  "credito": "Miles Davis",
+  "lideres": [
+    "miles"
+  ],
+  "grabacion": {
+    "desde": 1969,
+    "hasta": 1969,
+    "detalle": "19 a 21 de agosto de 1969"
+  },
+  "edicion": {
+    "anio": 1970,
+    "detalle": "30 de marzo de 1970"
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "miles",
+      "nombre": "Miles Davis",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": "shorter",
+      "nombre": "Wayne Shorter",
+      "instrumento": "saxo soprano"
+    },
+    {
+      "musico": null,
+      "nombre": "Bennie Maupin",
+      "instrumento": "clarinete bajo"
+    },
+    {
+      "musico": "zawinul",
+      "nombre": "Joe Zawinul",
+      "instrumento": "piano eléctrico"
+    },
+    {
+      "musico": "corea",
+      "nombre": "Chick Corea",
+      "instrumento": "piano eléctrico"
+    },
+    {
+      "musico": "mclaughlin",
+      "nombre": "John McLaughlin",
+      "instrumento": "guitarra eléctrica"
+    },
+    {
+      "musico": null,
+      "nombre": "Dave Holland",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Harvey Brooks",
+      "instrumento": "bajo eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Lenny White",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Jack DeJohnette",
+      "instrumento": "batería"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "fusion"
+  ],
+  "comentario": [
+    "Davis deja de lado los ritmos tradicionales del jazz y arma largas improvisaciones sobre grooves de influencia rockera. Teo Macero editó y armó después buena parte de lo que se escucha. Empezó con una recepción dividida, pero terminó siendo el disco de Davis mejor ubicado en las listas de Estados Unidos, y su primer disco de oro. Casi todas las bandas de fusión de los años siguientes salieron de estos músicos. Es largo y denso: dale tiempo."
+  ],
+  "ids": {
+    "musicbrainz": "a9e30282-5b37-3f92-b897-b9659a1a312b",
+    "discogsMaster": "8260",
+    "wikidata": "Q804096",
+    "wikipedia": "Bitches_Brew"
+  },
+  "respaldo": [
+    {
+      "fuente": "critica-bitches",
+      "acceso": "indirecta",
+      "aporta": "Robert Christgau: \"good music that's very much like jazz and something like rock\". Lo eligió como el mejor disco de jazz del año."
+    },
+    {
+      "fuente": "wp-fusion",
+      "acceso": "completa",
+      "aporta": "Larry Coryell resume a esa generación: \"We loved Miles but we also loved the Rolling Stones\"."
+    }
+  ]
+}

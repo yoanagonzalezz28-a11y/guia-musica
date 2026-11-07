@@ -20,7 +20,8 @@
     "composición"
   ],
   "corrientes": [
-    "modal"
+    "modal",
+    "fusion"
   ],
   "resumen": "Pianista y compositor. Empezó con Donald Byrd, redefinió el papel del piano en el quinteto de Davis y siguió cambiando de lenguaje durante décadas.[^wp-hancock]",
   "epocas": [
@@ -36,11 +37,21 @@
       "discos": [
         "speak-no-evil"
       ]
+    },
+    {
+      "titulo": "Los Headhunters",
+      "desde": 1973,
+      "hasta": 1975,
+      "texto": "Disolvió su sexteto experimental y formó una banda de funk con Bennie Maupin, Paul Jackson, Harvey Mason y Bill Summers.",
+      "discoClave": {
+        "disco": "head-hunters",
+        "explicacion": "Su mayor éxito y un disco muy influyente."
+      },
+      "discos": []
     }
   ],
   "epocasPendientes": [
-    "Mwandishi",
-    "Head Hunters y etapa eléctrica"
+    "Mwandishi"
   ],
   "fuentes": [
     "wp-hancock"

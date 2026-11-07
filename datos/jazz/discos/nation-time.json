@@ -3,7 +3,12 @@
     "estado": "borrador",
     "gioia": "pendiente"
   },
-  "discrepancias": [],
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz da 1970, el año de la grabación. Wikipedia da 1971."
+    }
+  ],
   "regiones": [],
   "compilacion": false,
   "tipo": "vivo",

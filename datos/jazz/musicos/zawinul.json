@@ -1,0 +1,52 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "id": "zawinul",
+  "nombre": "Joe Zawinul",
+  "nacimiento": {
+    "anio": 1932,
+    "lugar": "Viena"
+  },
+  "muerte": {
+    "anio": 2007
+  },
+  "instrumentos": [
+    "teclados",
+    "composición"
+  ],
+  "corrientes": [
+    "fusion"
+  ],
+  "resumen": "Tecladista austríaco y cofundador de Weather Report, donde se volvió el compositor principal. Antes escribió \"Mercy, Mercy, Mercy\" para Adderley.[^wp-weather][^wp-adderley]",
+  "epocas": [
+    {
+      "titulo": "Weather Report",
+      "desde": 1970,
+      "hasta": 1986,
+      "texto": "Junto con Shorter fundó una de las bandas que definieron la fusión.[^wp-weather]",
+      "discoClave": {
+        "disco": "heavy-weather",
+        "explicacion": "Con \"Birdland\", su tema más conocido."
+      },
+      "discos": [
+        "bitches-brew"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-weather"
+  ],
+  "respaldo": [
+    {
+      "fuente": "rs-weather",
+      "acceso": "indirecta",
+      "aporta": "Rolling Stone y DownBeat evalúan a la banda en su momento de mayor éxito."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "id": "mclaughlin",
+  "nombre": "John McLaughlin",
+  "nacimiento": {
+    "anio": 1942,
+    "lugar": "Doncaster, Inglaterra"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "guitarra"
+  ],
+  "corrientes": [
+    "fusion"
+  ],
+  "resumen": "Guitarrista inglés, pionero de la fusión. Combinó jazz y rock con músicas clásicas y de la India, también con el grupo Shakti.[^wp-mclaughlin]",
+  "epocas": [
+    {
+      "titulo": "Mahavishnu",
+      "desde": 1971,
+      "hasta": 1973,
+      "texto": "Tras tocar con Tony Williams y Miles Davis, formó la Mahavishnu Orchestra, con un estilo muy virtuoso.[^wp-mclaughlin]",
+      "discoClave": {
+        "disco": "inner-mounting",
+        "explicacion": "El debut de la banda."
+      },
+      "discos": [
+        "emergency",
+        "bitches-brew"
+      ]
+    }
+  ],
+  "epocasPendientes": [
+    "Shakti"
+  ],
+  "fuentes": [
+    "wp-mclaughlin"
+  ],
+  "respaldo": [
+    {
+      "fuente": "wp-fusion",
+      "acceso": "completa",
+      "aporta": "Lo ubica entre los fundadores de la fusión."
+    }
+  ]
+}

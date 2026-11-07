@@ -20,15 +20,15 @@
   ],
   "corrientes": [
     "cool",
-    "modal"
+    "modal",
+    "fusion"
   ],
   "spotify": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4",
   "resumen": "Uno de los músicos más influyentes del jazz y del siglo XX, presente en el nacimiento de varios estilos, del cool a la fusión.[^wp-miles]",
   "epocasPendientes": [
     "Quinteto de los 50",
     "Discos con Gil Evans",
-    "Segundo quinteto",
-    "Etapa eléctrica"
+    "Segundo quinteto"
   ],
   "epocas": [
     {
@@ -54,6 +54,17 @@
       "discos": [
         "somethin-else"
       ]
+    },
+    {
+      "titulo": "La electricidad",
+      "desde": 1969,
+      "hasta": 1970,
+      "texto": "Enchufó su música, rodeado de músicos jóvenes, y dejó atrás los ritmos tradicionales del jazz.[^wp-fusion]",
+      "discoClave": {
+        "disco": "bitches-brew",
+        "explicacion": "El disco que abrió la puerta de la fusión."
+      },
+      "discos": []
     }
   ],
   "fuentes": [

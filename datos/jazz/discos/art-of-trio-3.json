@@ -1,0 +1,73 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": "Right Track, Nueva York",
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Brad Mehldau Songs The Art of the Trio Volume Three"
+  },
+  "id": "art-of-trio-3",
+  "titulo": "Songs: The Art of the Trio, Volume Three",
+  "credito": "Brad Mehldau",
+  "lideres": [
+    "mehldau"
+  ],
+  "grabacion": {
+    "desde": 1998,
+    "hasta": 1998,
+    "detalle": "27 y 28 de mayo de 1998"
+  },
+  "edicion": {
+    "anio": 1998,
+    "detalle": "15 de septiembre de 1998"
+  },
+  "sello": "Warner Bros.",
+  "musicos": [
+    {
+      "musico": "mehldau",
+      "nombre": "Brad Mehldau",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Larry Grenadier",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Jorge Rossy",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Estándares, temas propios y dos canciones que marcaron época: \"River Man\", de Nick Drake, y \"Exit Music (For a Film)\", de Radiohead. Richard Cook escribió que entra en la tradición del piano sin protestar y, a la vez, se sale de los papeles habituales de piano, bajo y batería. Hoy tocar canciones así parece obvio; entonces, no tanto."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": "Q17061477",
+    "wikipedia": "Songs:_The_Art_of_the_Trio_Volume_Three"
+  },
+  "respaldo": [
+    {
+      "fuente": "am-songs",
+      "acceso": "indirecta",
+      "aporta": "Richard Cook: ofrece música \"bursting loose of the accepted trinity of piano, bass and drums\"."
+    },
+    {
+      "fuente": "wp-mehldau",
+      "acceso": "completa",
+      "aporta": "Reconstruye su serie de discos en trío."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y",
+  "id": "jarrett",
+  "nombre": "Keith Jarrett",
+  "nacimiento": {
+    "anio": 1945,
+    "lugar": "Allentown, Pensilvania"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "ecm"
+  ],
+  "resumen": "Pasó por los grupos de Blakey, Charles Lloyd y Davis antes de consagrarse como solista. Dos accidentes cerebrovasculares en 2018 le impiden tocar.[^wp-jarrett]",
+  "epocas": [
+    {
+      "titulo": "Los conciertos solistas",
+      "desde": 1973,
+      "hasta": 1975,
+      "texto": "Después de que Columbia lo dejara ir, siguió su carrera en ECM, donde sus improvisaciones a piano solo se volvieron un fenómeno.[^gioia-worst]",
+      "discoClave": {
+        "disco": "koln-concert",
+        "explicacion": "El disco de piano más vendido de la historia."
+      },
+      "discos": [
+        "gnu-high"
+      ]
+    }
+  ],
+  "epocasPendientes": [
+    "Cuartetos americano y europeo",
+    "Trío de estándares"
+  ],
+  "fuentes": [
+    "wp-jarrett"
+  ],
+  "respaldo": [
+    {
+      "fuente": "iverson-jarrett",
+      "acceso": "completa",
+      "aporta": "En entrevista con Iverson, Jarrett cuenta que, antes de un concierto solista, tiene que dejar de lado lo que venía estudiando, como Bach. Y dice que, además de Brubeck y Tristano, había poco piano solo moderno (Iverson le recuerda a Monk)."
+    },
+    {
+      "fuente": "gioia-jarrett",
+      "acceso": "completa",
+      "aporta": "Gioia cuenta su primer contacto con *The Köln Concert*, y repasa su carrera a los 80 años."
+    },
+    {
+      "fuente": "gioia-worst",
+      "acceso": "completa",
+      "aporta": "Gioia: tras salir de Columbia, \"pursued a historic career with the ECM label\"."
+    }
+  ]
+}

@@ -1735,5 +1735,365 @@
     "url": "https://www.allaboutjazz.com/legends-of-acid-jazz-shirley-scott-shirley-scott-prestige-records-review-by-douglas-payne",
     "consultada": "2026-11-06",
     "estado": "consultada"
+  },
+  "wp-fusion": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Jazz fusion (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Jazz_fusion",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-weather": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Weather Report (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Weather_Report",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-mclaughlin": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "John McLaughlin (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/John_McLaughlin_(musician)",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-corea": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Chick Corea (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Chick_Corea",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-ecm": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "ECM Records (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/ECM_Records",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-jarrett": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Keith Jarrett (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Keith_Jarrett",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-garbarek": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Jan Garbarek (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Jan_Garbarek",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-metheny": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Pat Metheny (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Pat_Metheny",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-wheeler": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Kenny Wheeler (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Kenny_Wheeler",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-marsalis": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Wynton Marsalis (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Wynton_Marsalis",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-hargrove": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Roy Hargrove (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Roy_Hargrove",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-kirkland": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Kenny Kirkland (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Kenny_Kirkland",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-mehldau": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Brad Mehldau (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Brad_Mehldau",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-kamasi": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Kamasi Washington (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Kamasi_Washington",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-glasper": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Robert Glasper (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Robert_Glasper",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-schneider": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Maria Schneider (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Maria_Schneider_(musician)",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-shabaka": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Shabaka Hutchings (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Shabaka_Hutchings",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-salvant": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Cécile McLorin Salvant (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/C%C3%A9cile_McLorin_Salvant",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "gioia-jarrett": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "Ted Gioia, \"For Keith Jarrett's 80th Birthday\" (The Honest Broker)",
+    "url": "https://www.honest-broker.com/p/for-keith-jarretts-80th-birthday",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "gioia-garbarek": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "Ted Gioia, \"I Blame Jan Garbarek\" (The Honest Broker)",
+    "url": "https://www.honest-broker.com/p/i-blame-jan-garbarek",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "iverson-jarrett": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "Ethan Iverson, \"Interview with Keith Jarrett\" (Do the Math)",
+    "url": "https://ethaniverson.com/interviews/interview-with-keith-jarrett/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "iverson-corea": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "Ethan Iverson, sobre Chick Corea (Do the Math, 2021)",
+    "url": "https://ethaniverson.com/chick-corea/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "iverson-watts": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "Ethan Iverson, \"Interview with Jeff 'Tain' Watts\" (Do the Math)",
+    "url": "https://ethaniverson.com/interview-with-jeff-tain-watts/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "iverson-payton": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "Ethan Iverson, \"Interview with Nicholas Payton\" (Do the Math)",
+    "url": "https://ethaniverson.com/interview-with-nicholas-payton/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "iverson-rerun": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "Ethan Iverson, \"Re-running the Hits\" (Do the Math, 2020)",
+    "url": "https://ethaniverson.com/2020/04/03/re-running-the-hits/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "iverson-gnu": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "Ethan Iverson, \"Riffs: Third Set\" (Do the Math, 2020)",
+    "url": "https://ethaniverson.com/2020/05/07/riffs-third-set/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "db-butcher": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "DownBeat, Blindfold Test de Butcher Brown (2025)",
+    "url": "https://downbeat.com/news/detail/blindfold-test-butcher-brown",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "db-mcpherson": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "DownBeat, Blindfold Test de Charles McPherson (2024)",
+    "url": "https://downbeat.com/news/detail/blindfold-test-charles-mcpherson",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "npr-schneider": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "Nate Chinen, NPR: Maria Schneider y Data Lords (2020)",
+    "url": "https://www.npr.org/2020/07/24/894686507/composer-maria-schneider-returns-with-a-reckoning-on-data-lords",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "db-schneider-p": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "DownBeat: Data Lords, finalista del Pulitzer (2021)",
+    "url": "https://downbeat.com/news/detail/schneiders-data-lords-named-pulitzer-finalist",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "critica-bitches": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "Robert Christgau y Rolling Stone sobre Bitches Brew, citados en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bitches_Brew",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "critica-koln": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "The Penguin Guide y Tom Hull sobre The Köln Concert, citados en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_K%C3%B6ln_Concert",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "critica-bright": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "The Penguin Guide y Martin Taylor sobre Bright Size Life, citados en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bright_Size_Life",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "critica-gnu": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "DownBeat sobre Gnu High, citado en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Gnu_High",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "am-head": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Stephen Thomas Erlewine (AllMusic) sobre Head Hunters, citado en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Head_Hunters",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "rs-weather": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Rolling Stone y DownBeat sobre Heavy Weather, citados en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Heavy_Weather_(album)",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "am-romantic": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "William Ruhlmann (AllMusic) sobre Romantic Warrior, citado en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Romantic_Warrior",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "am-afric": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Brian Olewnick (AllMusic) sobre Afric Pepperbird, citado en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Afric_Pepperbird",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "am-diamond": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Scott Yanow (AllMusic) sobre Diamond in the Rough, citado en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Diamond_in_the_Rough_(Roy_Hargrove_album)",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "am-songs": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Steve Huey (AllMusic) y Richard Cook sobre Songs, citados en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Songs:_The_Art_of_the_Trio_Volume_Three",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "am-epic": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Thom Jurek (AllMusic) sobre The Epic, citado en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Epic_(album)",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "am-dreams": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Fred Kaplan (Stereophile) sobre Dreams and Daggers, citado en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Dreams_and_Daggers",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "iverson-riffs": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "Ethan Iverson, \"Riffs\" (Do the Math, 2020)",
+    "url": "https://ethaniverson.com/2020/03/27/riffs/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "iverson-moffett": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "Ethan Iverson, \"Charnett Moffett RIP\" (Do the Math, 2022)",
+    "url": "https://ethaniverson.com/2022/04/14/charnett-moffett-rip/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "iverson-ecm50": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "Ethan Iverson, \"50 Tracks for ECM at 50\" (Do the Math)",
+    "url": "https://ethaniverson.com/50-tracks-for-ecm-at-50/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
   }
 }

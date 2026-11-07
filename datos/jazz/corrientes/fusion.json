@@ -1,0 +1,95 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "derivaPendiente": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "id": "fusion",
+  "nombre": "Fusión",
+  "alias": [
+    "Jazz fusión",
+    "Jazz rock"
+  ],
+  "lema": "Jazz eléctrico",
+  "tinta": "#E8590C",
+  "tintaTexto": "#101318",
+  "periodo": {
+    "desde": 1969,
+    "hasta": 1985,
+    "aproximado": true
+  },
+  "deriva": [
+    "modal"
+  ],
+  "lugares": [
+    "Nueva York",
+    "Los Ángeles",
+    "San Francisco"
+  ],
+  "texto": [
+    "A fines de los 60, músicos que habían crecido escuchando rock empezaron a combinar la armonía y la improvisación del jazz con el rock, el funk y el rhythm and blues, usando guitarras, bajos y teclados eléctricos.[^wp-fusion] Larry Coryell lo resumió: \"We loved Miles but we also loved the Rolling Stones\".[^wp-fusion]",
+    "Miles Davis se volvió el centro de ese movimiento, y su *Bitches Brew* reunió a casi todos los que después formaron bandas propias: Weather Report, Return to Forever, la Mahavishnu Orchestra.[^wp-fusion] Herbie Hancock llevó la idea hacia el funk y logró un éxito masivo.",
+    "También tuvo su costado comercial. Ted Gioia cuenta que, en 1973, Columbia echó a músicos como Mingus, Evans y Jarrett mientras apostaba por una música destinada a oyentes jóvenes.[^gioia-worst] El debate sobre si la fusión era una apertura o una traición nunca se cerró del todo."
+  ],
+  "suena": [
+    "Instrumentos eléctricos y mucho volumen.",
+    "Largos grooves de rock o funk, más que formas de canción.",
+    "Virtuosismo y producción de estudio."
+  ],
+  "hitos": [
+    {
+      "fecha": "1969",
+      "texto": "Tony Williams graba *Emergency!* y Davis, *Bitches Brew*.[^wp-fusion]"
+    },
+    {
+      "fecha": "1970",
+      "texto": "Nace Weather Report.[^wp-weather]"
+    },
+    {
+      "fecha": "1971",
+      "texto": "Debuta la Mahavishnu Orchestra.[^wp-mclaughlin]"
+    },
+    {
+      "fecha": "1973",
+      "texto": "*Head Hunters* y la purga de jazz de Columbia.[^gioia-worst]"
+    },
+    {
+      "fecha": "1977",
+      "texto": "*Heavy Weather* y \"Birdland\".[^wp-weather]"
+    }
+  ],
+  "legado": "Amplió el público del jazz y cambió sus instrumentos. También es la raíz del jazz con hip hop y electrónica de hoy, aunque buena parte de la crítica sigue desconfiando de ella.",
+  "musicos": [
+    "miles",
+    "zawinul",
+    "shorter",
+    "hancock",
+    "corea",
+    "mclaughlin"
+  ],
+  "musicosPendientes": [
+    "Jaco Pastorius",
+    "Tony Williams",
+    "Billy Cobham",
+    "Stanley Clarke",
+    "Larry Coryell",
+    "Michael Brecker"
+  ],
+  "discosEsenciales": [
+    {
+      "disco": "bitches-brew",
+      "porque": "El disco que abrió la puerta."
+    },
+    {
+      "disco": "head-hunters",
+      "porque": "El más fácil de disfrutar."
+    },
+    {
+      "disco": "emergency",
+      "porque": "La versión cruda, casi punk, antes de Bitches Brew."
+    }
+  ]
+}

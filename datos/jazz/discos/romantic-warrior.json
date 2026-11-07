@@ -1,0 +1,79 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": "Caribou Ranch, Colorado",
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2mLtPMLV5nWE0rzjVvcEmt",
+    "tituloEnSpotify": "Romantic Warrior"
+  },
+  "id": "romantic-warrior",
+  "titulo": "Romantic Warrior",
+  "credito": "Return to Forever",
+  "lideres": [
+    "corea"
+  ],
+  "grabacion": {
+    "desde": 1976,
+    "hasta": 1976,
+    "detalle": "Febrero de 1976"
+  },
+  "edicion": {
+    "anio": 1976,
+    "detalle": null
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "corea",
+      "nombre": "Chick Corea",
+      "instrumento": "teclados y sintetizadores"
+    },
+    {
+      "musico": null,
+      "nombre": "Al Di Meola",
+      "instrumento": "guitarras"
+    },
+    {
+      "musico": null,
+      "nombre": "Stanley Clarke",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Lenny White",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "fusion"
+  ],
+  "comentario": [
+    "El disco más popular de la banda de Corea. Es fusión con mentalidad de rock progresivo: temas largos, cambios de sección y muchísima técnica. Si te gusta el rock de los 70, puede ser tu puerta de entrada."
+  ],
+  "ids": {
+    "musicbrainz": "9b0e162a-311e-31dc-89ee-56839ee65340",
+    "discogsMaster": "41943",
+    "wikidata": "Q4346219",
+    "wikipedia": "Romantic_Warrior"
+  },
+  "respaldo": [
+    {
+      "fuente": "am-romantic",
+      "acceso": "indirecta",
+      "aporta": "William Ruhlmann: \"the sound of a mature band at the top of its game\"."
+    },
+    {
+      "fuente": "iverson-corea",
+      "acceso": "completa",
+      "aporta": "Ethan Iverson reivindica su frescura y su manejo de la clave, y marca su deuda con McCoy Tyner."
+    }
+  ]
+}

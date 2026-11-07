@@ -1,0 +1,93 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "derivaPendiente": [],
+  "regiones": [],
+  "id": "ecm",
+  "nombre": "ECM y jazz europeo",
+  "alias": [
+    "ECM",
+    "Jazz europeo"
+  ],
+  "lema": "El sonido más lindo después del silencio",
+  "tinta": "#B7C4D1",
+  "tintaTexto": "#101318",
+  "periodo": {
+    "desde": 1969,
+    "hasta": 2026,
+    "aproximado": true
+  },
+  "deriva": [
+    "modal",
+    "free"
+  ],
+  "lugares": [
+    "Múnich",
+    "Oslo",
+    "Londres"
+  ],
+  "texto": [
+    "ECM se fundó en Múnich en 1969. Su lema, \"the most beautiful sound next to silence\", salió de una reseña de 1971 en la revista canadiense Coda.[^wp-ecm] Manfred Eicher produjo la inmensa mayoría de sus discos, y sus artistas suelen negarse a respetar las fronteras entre géneros.[^wp-ecm]",
+    "Ted Gioia señala a Jan Garbarek como el modelo de un jazz europeo seguro de sí mismo, que dejó de mirar a Estados Unidos.[^gioia-garbarek] El sello, de todos modos, nunca fue solo nórdico: allí grabó Keith Jarrett, y debutó Pat Metheny.[^wp-jarrett][^wp-metheny]",
+    "Conviene desconfiar de la idea de un único \"sonido ECM\". Los primeros discos de Garbarek son ásperos, muy cerca del free, antes de lo que se conoció como la estética ECM.[^am-afric]"
+  ],
+  "suena": [
+    "Grabaciones muy claras, con mucho aire alrededor de cada instrumento.",
+    "Melodías largas y tempos lentos.",
+    "Cercanía con la música de cámara y el folk."
+  ],
+  "hitos": [
+    {
+      "fecha": "1969",
+      "texto": "Nace ECM en Múnich.[^wp-ecm]"
+    },
+    {
+      "fecha": "1971",
+      "texto": "Una reseña en Coda le da su lema.[^wp-ecm]"
+    },
+    {
+      "fecha": "30 nov. 1975",
+      "texto": "Sale *The Köln Concert*.[^gioia-jarrett]"
+    },
+    {
+      "fecha": "1976",
+      "texto": "Debuta Pat Metheny con *Bright Size Life*.[^wp-metheny]"
+    },
+    {
+      "fecha": "1994",
+      "texto": "*Officium*, de Garbarek, llega a las listas de pop.[^wp-garbarek]"
+    }
+  ],
+  "legado": "Mostró que el jazz podía tener un sello y una identidad fuera de Estados Unidos, y cambió lo que se espera de cómo suena un disco.",
+  "musicos": [
+    "jarrett",
+    "garbarek",
+    "metheny",
+    "wheeler"
+  ],
+  "musicosPendientes": [
+    "Charlie Haden",
+    "Esbjörn Svensson Trio",
+    "Tord Gustavsen",
+    "Bobo Stenson",
+    "Ralph Towner",
+    "Nils Petter Molvær",
+    "Mathias Eick"
+  ],
+  "discosEsenciales": [
+    {
+      "disco": "koln-concert",
+      "porque": "Un fenómeno que hay que escuchar al menos una vez."
+    },
+    {
+      "disco": "afric-pepperbird",
+      "porque": "Antes de la leyenda del silencio."
+    },
+    {
+      "disco": "gnu-high",
+      "porque": "Una joya de grupo, menos conocida."
+    }
+  ]
+}

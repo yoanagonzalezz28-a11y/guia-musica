@@ -1,0 +1,100 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": "Kingsize Soundlabs, Los Ángeles",
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2j2q2ySuVk43eHB8wI5XQj",
+    "tituloEnSpotify": "The Epic"
+  },
+  "id": "the-epic",
+  "titulo": "The Epic",
+  "credito": "Kamasi Washington",
+  "lideres": [
+    "washington"
+  ],
+  "grabacion": {
+    "desde": 2011,
+    "hasta": 2011,
+    "detalle": "Banda base en diciembre de 2011; orquesta y coro sumados después"
+  },
+  "edicion": {
+    "anio": 2015,
+    "detalle": "5 de mayo de 2015"
+  },
+  "sello": "Brainfeeder",
+  "musicos": [
+    {
+      "musico": "washington",
+      "nombre": "Kamasi Washington",
+      "instrumento": "saxo tenor y dirección"
+    },
+    {
+      "musico": null,
+      "nombre": "Thundercat",
+      "instrumento": "bajo eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Miles Mosley",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Ronald Bruner Jr.",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Tony Austin",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Cameron Graves",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Brandon Coleman",
+      "instrumento": "teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Ryan Porter",
+      "instrumento": "trombón"
+    }
+  ],
+  "personalNota": "Lista parcial: incluye orquesta y coro.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Casi tres horas de jazz espiritual, con una orquesta de 32 músicos y un coro de 20. Salió de una sesión de un mes de 2011 en la que el colectivo grabó unas 190 canciones. Se publicó el mismo año en que Washington tocó en *To Pimp a Butterfly*, de Kendrick Lamar, y por eso le llegó a mucha gente que no escuchaba jazz."
+  ],
+  "ids": {
+    "musicbrainz": "fffaa737-94cb-42b9-b1f1-44698110ea8a",
+    "discogsMaster": "837501",
+    "wikidata": "Q20648801",
+    "wikipedia": "The_Epic_(album)"
+  },
+  "respaldo": [
+    {
+      "fuente": "am-epic",
+      "acceso": "indirecta",
+      "aporta": "Thom Jurek: \"21st century jazz as accessible as it is virtuosic\"."
+    },
+    {
+      "fuente": "wp-kamasi",
+      "acceso": "completa",
+      "aporta": "Cuenta su vínculo con Kendrick Lamar y el colectivo West Coast Get Down."
+    }
+  ]
+}

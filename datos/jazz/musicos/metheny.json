@@ -1,0 +1,50 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA",
+  "id": "metheny",
+  "nombre": "Pat Metheny",
+  "nacimiento": {
+    "anio": 1954,
+    "lugar": "Lee's Summit, Misuri"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "guitarra"
+  ],
+  "corrientes": [
+    "ecm"
+  ],
+  "resumen": "Guitarrista y compositor, líder del Pat Metheny Group entre 1977 y 2010, con 20 premios Grammy.[^wp-metheny]",
+  "epocas": [
+    {
+      "titulo": "Los primeros discos",
+      "desde": 1975,
+      "hasta": 1977,
+      "texto": "Debutó con Pastorius y Bob Moses, y luego en *Watercolors* conoció a Lyle Mays, clave de su grupo.[^wp-metheny]",
+      "discoClave": {
+        "disco": "bright-size-life",
+        "explicacion": "Su debut, un punto de inflexión."
+      },
+      "discos": []
+    }
+  ],
+  "epocasPendientes": [
+    "Pat Metheny Group"
+  ],
+  "fuentes": [
+    "wp-metheny"
+  ],
+  "respaldo": [
+    {
+      "fuente": "critica-bright",
+      "acceso": "indirecta",
+      "aporta": "La Penguin Guide compara su sonido con el de Jim Hall y Jimmy Raney."
+    }
+  ]
+}

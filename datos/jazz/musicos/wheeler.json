@@ -1,0 +1,49 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [],
+  "spotify": null,
+  "id": "wheeler",
+  "nombre": "Kenny Wheeler",
+  "nacimiento": {
+    "anio": 1930,
+    "lugar": "Toronto"
+  },
+  "muerte": {
+    "anio": 2014
+  },
+  "instrumentos": [
+    "fliscorno",
+    "trompeta",
+    "composición"
+  ],
+  "corrientes": [
+    "ecm"
+  ],
+  "resumen": "Canadiense radicado en el Reino Unido desde los años 50, activo también en la improvisación libre.[^wp-wheeler]",
+  "epocas": [
+    {
+      "titulo": "ECM",
+      "desde": 1975,
+      "hasta": 1977,
+      "texto": "Sus primeros grupos chicos con repercusión crítica fueron los de ECM.[^wp-wheeler]",
+      "discoClave": {
+        "disco": "gnu-high",
+        "explicacion": "Con Jarrett, Holland y DeJohnette."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-wheeler"
+  ],
+  "respaldo": [
+    {
+      "fuente": "iverson-gnu",
+      "acceso": "completa",
+      "aporta": "Iverson lo pone junto a Wayne Shorter entre los compositores más líricos de la música modal."
+    }
+  ]
+}

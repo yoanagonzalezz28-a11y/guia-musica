@@ -1,0 +1,84 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": "CBS Studios, Nueva York",
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/24DnG8UXsMBkwzD7Mds2KZ",
+    "tituloEnSpotify": "Inner Mounting Flame"
+  },
+  "id": "inner-mounting",
+  "titulo": "The Inner Mounting Flame",
+  "credito": "Mahavishnu Orchestra",
+  "lideres": [
+    "mclaughlin"
+  ],
+  "grabacion": {
+    "desde": 1971,
+    "hasta": 1971,
+    "detalle": "14 de agosto de 1971"
+  },
+  "edicion": {
+    "anio": 1971,
+    "detalle": "3 de noviembre de 1971"
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "mclaughlin",
+      "nombre": "John McLaughlin",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Jerry Goodman",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Jan Hammer",
+      "instrumento": "teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Rick Laird",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Cobham",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "fusion"
+  ],
+  "comentario": [
+    "La fusión en su versión más virtuosa y feroz, con influencias de la música de la India y compases poco habituales. Fue el debut de la Mahavishnu Orchestra, una banda con guitarra, violín, teclados, bajo y batería, y muestra por qué McLaughlin figura entre los pioneros de este estilo."
+  ],
+  "ids": {
+    "musicbrainz": "cc166f72-5bb4-3534-941f-e974b20604aa",
+    "discogsMaster": "72307",
+    "wikidata": "Q2290981",
+    "wikipedia": "The_Inner_Mounting_Flame"
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-mclaughlin",
+      "acceso": "completa",
+      "aporta": "Explica su música, que cruza el jazz y el rock con tradiciones clásicas e indias."
+    },
+    {
+      "fuente": "wp-fusion",
+      "acceso": "completa",
+      "aporta": "Lo ubica dentro de la primera generación de la fusión."
+    }
+  ]
+}
