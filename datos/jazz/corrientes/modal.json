@@ -1,0 +1,91 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "derivaPendiente": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "id": "modal",
+  "nombre": "Jazz modal",
+  "lema": "Escalas en vez de acordes",
+  "tinta": "#5B3FA8",
+  "tintaTexto": "#FFFFFF",
+  "periodo": {
+    "desde": 1958,
+    "hasta": 1968,
+    "aproximado": true
+  },
+  "deriva": [
+    "cool",
+    "hard-bop"
+  ],
+  "lugares": [
+    "Nueva York"
+  ],
+  "texto": [
+    "A fines de los 50, impulsados por los experimentos del compositor George Russell, algunos músicos empezaron a improvisar sobre escalas o modos, en lugar de seguir cambios rápidos de acordes.[^wp-modal] El resultado da más tiempo para desarrollar una idea y una sensación de espacio muy distinta.",
+    "Su mayor éxito llegó con \"Milestones\", de 1958, y sobre todo con *Kind of Blue*, de 1959, influido en parte por Bill Evans.[^wp-modal] John Coltrane llevó esa idea a su punto más intenso entre 1960 y 1965 con su cuarteto.[^wp-modal]",
+    "La etiqueta simplifica un poco: un estudio sobre McCoy Tyner, citado por Ethan Iverson, señala que no sacaba sus ideas melódicas simplemente de escalas modales.[^iverson-tyner] Esta corriente se entiende mejor como una actitud que como un método."
+  ],
+  "suena": [
+    "Un mismo acorde o escala durante muchos compases.",
+    "Solos largos que crecen de a poco, sin correr detrás de la armonía.",
+    "Mucho espacio y un piano con acordes abiertos."
+  ],
+  "hitos": [
+    {
+      "fecha": "1958",
+      "texto": "Miles Davis graba \"Milestones\".[^wp-modal]"
+    },
+    {
+      "fecha": "17 ago. 1959",
+      "texto": "Sale *Kind of Blue*."
+    },
+    {
+      "fecha": "1960",
+      "texto": "Coltrane forma el cuarteto que marcaría esta música.[^wp-modal]"
+    },
+    {
+      "fecha": "1964",
+      "texto": "Shorter se une al quinteto de Davis, junto a Hancock.[^wp-shorter]"
+    },
+    {
+      "fecha": "9 dic. 1964",
+      "texto": "Coltrane graba *A Love Supreme*."
+    }
+  ],
+  "legado": "Abrió un camino que todavía usan casi todos los improvisadores: pensar en colores y en espacio, no solo en acordes. Del modal salen tanto el free como la fusión.",
+  "musicos": [
+    "miles",
+    "coltrane",
+    "evans",
+    "shorter",
+    "hancock"
+  ],
+  "musicosPendientes": [
+    "McCoy Tyner",
+    "Elvin Jones",
+    "Tony Williams",
+    "Ron Carter",
+    "Ahmad Jamal",
+    "Bobby Hutcherson",
+    "Larry Young",
+    "George Russell"
+  ],
+  "discosEsenciales": [
+    {
+      "disco": "kind-of-blue",
+      "porque": "El comienzo más recomendado de toda la historia del jazz."
+    },
+    {
+      "disco": "love-supreme",
+      "porque": "Lo modal llevado a una experiencia espiritual."
+    },
+    {
+      "disco": "unity",
+      "porque": "Un órgano que no suena como esperás."
+    }
+  ]
+}

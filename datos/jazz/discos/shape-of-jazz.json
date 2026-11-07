@@ -1,0 +1,89 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz da octubre de 1959 y Wikipedia noviembre. El año coincide."
+    }
+  ],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": "Radio Recorders, Hollywood",
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2iPH3iUmpa9ufIpwY76keF",
+    "tituloEnSpotify": "The Shape Of Jazz To Come"
+  },
+  "id": "shape-of-jazz",
+  "titulo": "The Shape of Jazz to Come",
+  "credito": "Ornette Coleman",
+  "lideres": [
+    "ornette"
+  ],
+  "grabacion": {
+    "desde": 1959,
+    "hasta": 1959,
+    "detalle": "22 de mayo de 1959"
+  },
+  "edicion": {
+    "anio": 1959,
+    "detalle": "Noviembre de 1959"
+  },
+  "sello": "Atlantic",
+  "musicos": [
+    {
+      "musico": "ornette",
+      "nombre": "Ornette Coleman",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Don Cherry",
+      "instrumento": "corneta"
+    },
+    {
+      "musico": null,
+      "nombre": "Charlie Haden",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Higgins",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "free"
+  ],
+  "comentario": [
+    "Sin piano y sin una progresión de acordes a seguir: cada músico responde a lo que escucha. Pero está lejos de ser ruido: \"Lonely Woman\" es una de las melodías más hermosas del jazz. Cuando el cuarteto llegó al Five Spot de Nueva York, la polémica fue enorme. Mingus lo resumió bien: \"playing wrong right\"."
+  ],
+  "ids": {
+    "musicbrainz": "5879cfca-e1d0-3ef4-8014-3b284832ed18",
+    "discogsMaster": "47813",
+    "wikidata": "Q930325",
+    "wikipedia": "The_Shape_of_Jazz_to_Come"
+  },
+  "respaldo": [
+    {
+      "fuente": "mingus-ornette",
+      "acceso": "indirecta",
+      "aporta": "Charles Mingus: \"It's like organized disorganization or playing wrong right\"."
+    },
+    {
+      "fuente": "iverson-haden",
+      "acceso": "completa",
+      "aporta": "Charlie Haden, su contrabajista: \"I learned about the importance of listening playing with Ornette\"."
+    },
+    {
+      "fuente": "iverson-orn2",
+      "acceso": "completa",
+      "aporta": "Iverson sostiene que este Ornette no existiría sin Cherry, Haden y Higgins."
+    }
+  ]
+}

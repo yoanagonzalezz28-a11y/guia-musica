@@ -1,0 +1,55 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW",
+  "id": "hancock",
+  "nombre": "Herbie Hancock",
+  "nacimiento": {
+    "anio": 1940,
+    "lugar": "Chicago"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano",
+    "teclados",
+    "composición"
+  ],
+  "corrientes": [
+    "modal"
+  ],
+  "resumen": "Pianista y compositor. Empezó con Donald Byrd, redefinió el papel del piano en el quinteto de Davis y siguió cambiando de lenguaje durante décadas.[^wp-hancock]",
+  "epocas": [
+    {
+      "titulo": "Blue Note y Davis",
+      "desde": 1962,
+      "hasta": 1965,
+      "texto": "Grabó *Takin' Off* en 1962 y al año siguiente entró al quinteto de Davis, sin dejar de grabar para Blue Note como líder y como acompañante.[^wp-hancock]",
+      "discoClave": {
+        "disco": "maiden-voyage",
+        "explicacion": "Su disco más logrado de los 60, para muchos."
+      },
+      "discos": [
+        "speak-no-evil"
+      ]
+    }
+  ],
+  "epocasPendientes": [
+    "Mwandishi",
+    "Head Hunters y etapa eléctrica"
+  ],
+  "fuentes": [
+    "wp-hancock"
+  ],
+  "respaldo": [
+    {
+      "fuente": "penguin-maiden",
+      "acceso": "indirecta",
+      "aporta": "La Penguin Guide destaca lo que logró con apenas 24 años."
+    }
+  ]
+}

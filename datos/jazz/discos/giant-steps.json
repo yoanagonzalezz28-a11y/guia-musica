@@ -1,0 +1,94 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": "Atlantic Studios, Nueva York",
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Giant Steps John Coltrane"
+  },
+  "id": "giant-steps",
+  "titulo": "Giant Steps",
+  "credito": "John Coltrane",
+  "lideres": [
+    "coltrane"
+  ],
+  "grabacion": {
+    "desde": 1959,
+    "hasta": 1959,
+    "detalle": "Marzo y mayo de 1959"
+  },
+  "edicion": {
+    "anio": 1960,
+    "detalle": "Febrero de 1960"
+  },
+  "sello": "Atlantic",
+  "musicos": [
+    {
+      "musico": "coltrane",
+      "nombre": "John Coltrane",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Tommy Flanagan",
+      "instrumento": "piano",
+      "nota": "Según la sesión"
+    },
+    {
+      "musico": null,
+      "nombre": "Cedar Walton",
+      "instrumento": "piano",
+      "nota": "Según la sesión"
+    },
+    {
+      "musico": null,
+      "nombre": "Wynton Kelly",
+      "instrumento": "piano",
+      "nota": "Según la sesión"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Chambers",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Art Taylor",
+      "instrumento": "batería",
+      "nota": "Según la sesión"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Cobb",
+      "instrumento": "batería",
+      "nota": "Según la sesión"
+    }
+  ],
+  "corrientes": [
+    "modal"
+  ],
+  "corrienteNota": "Es casi lo opuesto al jazz modal: acordes que cambian a toda velocidad. Va acá porque es el punto de partida del camino de Coltrane hacia lo modal.",
+  "comentario": [
+    "Unas semanas después de *Kind of Blue*, Coltrane hace lo contrario: una sucesión de acordes tan veloz que el tema principal se convirtió en un examen para saxofonistas. Muchos de estos temas son hoy material de estudio. Escuchá el contraste con \"Naima\", una balada escrita para su esposa."
+  ],
+  "ids": {
+    "musicbrainz": "2cdca11d-3e45-3152-93e5-4d2a4ddb1bc6",
+    "discogsMaster": null,
+    "wikidata": "Q1516218",
+    "wikipedia": "Giant_Steps"
+  },
+  "respaldo": [
+    {
+      "fuente": "penguin-giant",
+      "acceso": "indirecta",
+      "aporta": "La Penguin Guide lo llama \"Trane's first genuinely iconic record\"."
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO",
+  "id": "shorter",
+  "nombre": "Wayne Shorter",
+  "nacimiento": {
+    "anio": 1933,
+    "lugar": "Newark, Nueva Jersey"
+  },
+  "muerte": {
+    "anio": 2023
+  },
+  "instrumentos": [
+    "saxo tenor",
+    "saxo soprano",
+    "composición"
+  ],
+  "corrientes": [
+    "modal"
+  ],
+  "resumen": "Saxofonista y uno de los grandes compositores del jazz. Pasó por los Jazz Messengers y el quinteto de Davis, y cofundó Weather Report.[^wp-shorter]",
+  "epocas": [
+    {
+      "titulo": "Blue Note y Davis",
+      "desde": 1964,
+      "hasta": 1967,
+      "texto": "Tras cinco años como compositor principal de Blakey, entró al segundo gran quinteto de Davis en 1964, mientras grababa como líder para Blue Note.[^wp-shorter]",
+      "discoClave": {
+        "disco": "speak-no-evil",
+        "explicacion": "Su disco más celebrado como compositor."
+      },
+      "discos": [
+        "mosaic"
+      ]
+    }
+  ],
+  "epocasPendientes": [
+    "Weather Report",
+    "Cuarteto de los 2000"
+  ],
+  "fuentes": [
+    "wp-shorter"
+  ],
+  "respaldo": [
+    {
+      "fuente": "gioia-shorter",
+      "acceso": "completa",
+      "aporta": "Ted Gioia repasa su aporte y comparte la carta que escribió con Hancock a la nueva generación."
+    },
+    {
+      "fuente": "iverson-shorter",
+      "acceso": "completa",
+      "aporta": "Shorter recuerda sus años con Blakey, en entrevista con Iverson."
+    }
+  ]
+}

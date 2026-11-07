@@ -1,0 +1,85 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": "BLP 4157",
+  "lugar": "Estudio Van Gelder, Englewood Cliffs, Nueva Jersey",
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1n1trPeeY9Q5H4eLbbHHRg",
+    "tituloEnSpotify": "The Sidewinder (The Rudy Van Gelder Edition)"
+  },
+  "id": "sidewinder",
+  "titulo": "The Sidewinder",
+  "credito": "Lee Morgan",
+  "lideres": [
+    "morgan"
+  ],
+  "grabacion": {
+    "desde": 1963,
+    "hasta": 1963,
+    "detalle": "21 de diciembre de 1963"
+  },
+  "edicion": {
+    "anio": 1964,
+    "detalle": "Julio de 1964"
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "morgan",
+      "nombre": "Lee Morgan",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Henderson",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Barry Harris",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Bob Cranshaw",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Higgins",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "souljazz"
+  ],
+  "corrienteNota": "Va del hard bop al soul jazz: su éxito marcó el rumbo de Blue Note.",
+  "comentario": [
+    "Morgan, según cuenta Billy Hart, grabó el tema principal como relleno. Se convirtió en su mayor éxito, llegó a las listas de pop y Blue Note empezó a pedirles a sus músicos ese mismo ritmo de boogaloo. Morgan murió en 1972 en Slugs', baleado por su pareja, Helen Moore, un crimen que dio pie a un documental. Desde 2024 integra el registro de preservación de la Biblioteca del Congreso."
+  ],
+  "ids": {
+    "musicbrainz": "24d2fedc-7976-3b88-bb91-b49a05f26e55",
+    "discogsMaster": "192306",
+    "wikidata": "Q1514457",
+    "wikipedia": "The_Sidewinder"
+  },
+  "respaldo": [
+    {
+      "fuente": "penguin-sidewinder",
+      "acceso": "indirecta",
+      "aporta": "La Penguin Guide le da corona y dice que el tema fue \"both the best and worst thing that was ever to happen to Morgan\"."
+    },
+    {
+      "fuente": "hart-morgan",
+      "acceso": "indirecta",
+      "aporta": "Billy Hart recuerda que, para Morgan, el tema era apenas un relleno."
+    }
+  ]
+}

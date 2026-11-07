@@ -1,0 +1,69 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": "Variety Arts, Manhattan",
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5xqgFGNQOl5ilgOu6S1nXg",
+    "tituloEnSpotify": "Spiritual Unity"
+  },
+  "id": "spiritual-unity",
+  "titulo": "Spiritual Unity",
+  "credito": "Albert Ayler",
+  "lideres": [
+    "ayler"
+  ],
+  "grabacion": {
+    "desde": 1964,
+    "hasta": 1964,
+    "detalle": "10 de julio de 1964"
+  },
+  "edicion": {
+    "anio": 1965,
+    "detalle": "Mayo de 1965"
+  },
+  "sello": "ESP-Disk",
+  "musicos": [
+    {
+      "musico": "ayler",
+      "nombre": "Albert Ayler",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Gary Peacock",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Sunny Murray",
+      "instrumento": "percusión"
+    }
+  ],
+  "corrientes": [
+    "free"
+  ],
+  "comentario": [
+    "Sin armonía ni pulso fijo: el timbre del saxo pasa a ser lo principal. Ayler parte de melodías sencillas, casi de marcha o de himno, y las desarma. Pedirle a alguien que empiece por acá es duro, y la crítica también se dividió: el trompetista Kenny Dorham le puso cero estrellas en DownBeat, en la misma nota en que otro crítico lo defendía."
+  ],
+  "ids": {
+    "musicbrainz": "0299b455-5537-3b27-ba6e-396882bf3ef2",
+    "discogsMaster": "39790",
+    "wikidata": "Q2016921",
+    "wikipedia": "Spiritual_Unity"
+  },
+  "respaldo": [
+    {
+      "fuente": "deveaux-giddins-ayler",
+      "acceso": "indirecta",
+      "aporta": "DeVeaux y Giddins: \"was both cheered and ridiculed\". Registra también el cero de Kenny Dorham: \"not worth the paper it takes to review it\"."
+    }
+  ]
+}

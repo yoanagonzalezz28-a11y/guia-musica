@@ -1,0 +1,89 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": "BN-LA047-F",
+  "lugar": "The Sound Factory, Hollywood",
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Black Byrd Donald Byrd"
+  },
+  "id": "black-byrd",
+  "titulo": "Black Byrd",
+  "credito": "Donald Byrd",
+  "lideres": [
+    "byrd"
+  ],
+  "grabacion": {
+    "desde": 1972,
+    "hasta": 1972,
+    "detalle": "Abril y noviembre de 1972"
+  },
+  "edicion": {
+    "anio": 1973,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "byrd",
+      "nombre": "Donald Byrd",
+      "instrumento": "trompeta y voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Larry Mizell",
+      "instrumento": "producción y voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Fonce Mizell",
+      "instrumento": "trompeta y voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Sample",
+      "instrumento": "piano eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Chuck Rainey",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Harvey Mason",
+      "instrumento": "batería"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "souljazz"
+  ],
+  "comentario": [
+    "Un trompetista de hard bop y doctor en educación se une a los hermanos Mizell, de Motown, y hace jazz funk. Durante años fue el disco más vendido de Blue Note, y los puristas lo despreciaron. Luego el hip hop y el acid jazz lo convirtieron en una fuente inagotable de samples."
+  ],
+  "ids": {
+    "musicbrainz": "92217680-7ddc-3331-b73a-89f958128f77",
+    "discogsMaster": "38881",
+    "wikidata": "Q4920469",
+    "wikipedia": "Black_Byrd"
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-byrd",
+      "acceso": "completa",
+      "aporta": "Explica su trabajo con los Mizell, las ventas del disco y su uso en el acid jazz."
+    },
+    {
+      "fuente": "gioia-worst",
+      "acceso": "extracto",
+      "aporta": "Gioia describe el giro comercial de los sellos de jazz a comienzos de los 70, buscando a los oyentes jóvenes."
+    }
+  ]
+}

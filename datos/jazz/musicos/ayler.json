@@ -1,0 +1,49 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "id": "ayler",
+  "nombre": "Albert Ayler",
+  "nacimiento": {
+    "anio": 1936,
+    "lugar": "Cleveland"
+  },
+  "muerte": {
+    "anio": 1970
+  },
+  "instrumentos": [
+    "saxo tenor"
+  ],
+  "corrientes": [
+    "free"
+  ],
+  "resumen": "Saxofonista que llevó el timbre al centro de la improvisación. Empezó tocando rhythm and blues y bebop, y murió a los 34 años.[^wp-ayler]",
+  "epocas": [
+    {
+      "titulo": "De Suecia a ESP",
+      "desde": 1962,
+      "hasta": 1966,
+      "texto": "Se fue a Suecia en 1962 y allí empezó a grabar. Coltrane apoyó su contratación con Impulse! en 1966.[^wp-ayler]",
+      "discoClave": {
+        "disco": "spiritual-unity",
+        "explicacion": "El disco que lo hizo conocer en el mundo."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-ayler"
+  ],
+  "respaldo": [
+    {
+      "fuente": "deveaux-giddins-ayler",
+      "acceso": "indirecta",
+      "aporta": "DeVeaux y Giddins registran la división que provocó en la crítica."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "id": "taylor",
+  "nombre": "Cecil Taylor",
+  "nacimiento": {
+    "anio": 1929,
+    "lugar": "Nueva York"
+  },
+  "muerte": {
+    "anio": 2018
+  },
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "free"
+  ],
+  "resumen": "Pianista de formación clásica, pionero del free jazz, con un abordaje físico y enérgico del instrumento. Recibió una beca MacArthur en 1993.[^wp-taylor]",
+  "epocas": [
+    {
+      "titulo": "La Unit",
+      "desde": 1962,
+      "hasta": 1966,
+      "texto": "Formó con Jimmy Lyons y Sunny Murray, y después Andrew Cyrille, el núcleo de su grupo principal.[^wp-taylor]",
+      "discoClave": {
+        "disco": "unit-structures",
+        "explicacion": "El disco más citado de su etapa con Blue Note."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-taylor"
+  ],
+  "respaldo": [
+    {
+      "fuente": "penguin-unit",
+      "acceso": "indirecta",
+      "aporta": "La Penguin Guide habla de la riqueza de color de su grupo."
+    }
+  ]
+}

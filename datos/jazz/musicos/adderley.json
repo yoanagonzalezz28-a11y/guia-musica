@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "id": "adderley",
+  "nombre": "Cannonball Adderley",
+  "nacimiento": {
+    "anio": 1928,
+    "lugar": "Tampa, Florida"
+  },
+  "muerte": {
+    "anio": 1975
+  },
+  "instrumentos": [
+    "saxo alto"
+  ],
+  "corrientes": [
+    "souljazz"
+  ],
+  "resumen": "Saxofonista de raíz blusera. Tocó con Davis en *Milestones* y *Kind of Blue*, y su \"Mercy, Mercy, Mercy\" de 1966, escrito por Joe Zawinul, llegó a las listas de pop.[^wp-adderley]",
+  "epocas": [
+    {
+      "titulo": "Con Davis",
+      "desde": 1955,
+      "hasta": 1959,
+      "texto": "Una noche de 1955 en el Café Bohemia subió a tocar en reemplazo de otro saxofonista y deslumbró a todos. Davis lo sumó a su grupo por su blues.[^wp-adderley]",
+      "discoClave": {
+        "disco": "somethin-else",
+        "explicacion": "Con Davis como invitado."
+      },
+      "discos": [
+        "kind-of-blue"
+      ]
+    }
+  ],
+  "epocasPendientes": [
+    "Su quinteto y \"Mercy, Mercy, Mercy\""
+  ],
+  "fuentes": [
+    "wp-adderley"
+  ],
+  "respaldo": [
+    {
+      "fuente": "db-jones",
+      "acceso": "completa",
+      "aporta": "Willie Jones III lo identifica en su Blindfold Test."
+    }
+  ]
+}

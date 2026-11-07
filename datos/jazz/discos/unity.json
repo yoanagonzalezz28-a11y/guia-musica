@@ -1,0 +1,79 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz da 1965, el año de la grabación. Wikipedia da agosto de 1966."
+    }
+  ],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": "Estudio Van Gelder, Englewood Cliffs, Nueva Jersey",
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Unity Larry Young"
+  },
+  "id": "unity",
+  "titulo": "Unity",
+  "credito": "Larry Young",
+  "lideres": [],
+  "grabacion": {
+    "desde": 1965,
+    "hasta": 1965,
+    "detalle": "10 de noviembre de 1965"
+  },
+  "edicion": {
+    "anio": 1966,
+    "detalle": "Agosto de 1966"
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": null,
+      "nombre": "Larry Young",
+      "instrumento": "órgano Hammond"
+    },
+    {
+      "musico": null,
+      "nombre": "Woody Shaw",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Henderson",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Elvin Jones",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "modal"
+  ],
+  "redescubrimiento": {
+    "motivo": "El órgano suele asociarse con el soul jazz, y este disco lo lleva a otro lugar. Figura entre los favoritos de músicos como Michael Brecker, aunque su nombre no es de los más conocidos."
+  },
+  "comentario": [
+    "Un organista que no suena a órgano de iglesia ni de rockola: toca con el vocabulario de Coltrane y McCoy Tyner. Con la batería de Elvin Jones, el grupo se siente tan denso como un cuarteto de Coltrane. La Penguin Guide lo llama \"quite simply a masterpiece\"."
+  ],
+  "ids": {
+    "musicbrainz": "ba746b8f-b790-32cd-8082-966bf36a8637",
+    "discogsMaster": "78882",
+    "wikidata": "Q7893738",
+    "wikipedia": "Unity_(Larry_Young_album)"
+  },
+  "respaldo": [
+    {
+      "fuente": "penguin-unity",
+      "acceso": "indirecta",
+      "aporta": "Corona y cuatro estrellas en la Penguin Guide. Michael Brecker lo mencionó entre sus primeros favoritos."
+    }
+  ]
+}

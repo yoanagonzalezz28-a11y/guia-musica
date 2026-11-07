@@ -1,0 +1,80 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": "PR 7226",
+  "lugar": "Estudio Van Gelder, Englewood Cliffs, Nueva Jersey",
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0r5r2I85kt2eH4EtmcuNdr",
+    "tituloEnSpotify": "Hip Twist"
+  },
+  "id": "hip-twist",
+  "titulo": "Hip Twist",
+  "credito": "Shirley Scott",
+  "lideres": [],
+  "grabacion": {
+    "desde": 1961,
+    "hasta": 1961,
+    "detalle": "17 de noviembre de 1961"
+  },
+  "edicion": {
+    "anio": 1962,
+    "detalle": null
+  },
+  "sello": "Prestige",
+  "musicos": [
+    {
+      "musico": null,
+      "nombre": "Shirley Scott",
+      "instrumento": "órgano Hammond"
+    },
+    {
+      "musico": null,
+      "nombre": "Stanley Turrentine",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "George Tucker",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Otis Finch",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "souljazz"
+  ],
+  "redescubrimiento": {
+    "motivo": "La llamaban \"la reina del órgano\", y aun así el relato del soul jazz suele quedarse en Jimmy Smith. AllMusic define este disco como una joya poco valorada."
+  },
+  "comentario": [
+    "Una organista de toque liviano frente al sonido redondo de Stanley Turrentine, su marido entonces. Un reseñador observa que Turrentine siempre sonaba mejor a su lado. Si *The Sermon!* es el soul jazz más directo, este muestra su cara más elegante."
+  ],
+  "ids": {
+    "musicbrainz": "37ec9097-370f-4ff6-b758-60d451e1cc61",
+    "discogsMaster": null,
+    "wikidata": "Q5767989",
+    "wikipedia": "Hip_Twist"
+  },
+  "respaldo": [
+    {
+      "fuente": "am-hiptwist",
+      "acceso": "indirecta",
+      "aporta": "AllMusic: \"like nearly all of the Shirley Scott and Stanley Turrentine albums, is an underappreciated gem\"."
+    },
+    {
+      "fuente": "aaj-scott",
+      "acceso": "extracto",
+      "aporta": "Douglas Payne elogia su toque, uno de los más gráciles y líricos aplicados al Hammond."
+    }
+  ]
+}

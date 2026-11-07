@@ -1,0 +1,88 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": "Estudio Van Gelder, Englewood Cliffs, Nueva Jersey",
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Unit Structures Cecil Taylor"
+  },
+  "id": "unit-structures",
+  "titulo": "Unit Structures",
+  "credito": "Cecil Taylor",
+  "lideres": [
+    "taylor"
+  ],
+  "grabacion": {
+    "desde": 1966,
+    "hasta": 1966,
+    "detalle": "19 de mayo de 1966"
+  },
+  "edicion": {
+    "anio": 1966,
+    "detalle": "Octubre de 1966"
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "taylor",
+      "nombre": "Cecil Taylor",
+      "instrumento": "piano y campanas"
+    },
+    {
+      "musico": null,
+      "nombre": "Eddie Gale",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Lyons",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Ken McIntyre",
+      "instrumento": "saxo alto, oboe y clarinete bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Henry Grimes",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Alan Silva",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Andrew Cyrille",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "free"
+  ],
+  "comentario": [
+    "El piano como un instrumento de percusión, con dos contrabajos y un grupo que parece un organismo. Es mucho más exigente que Ornette, y también muy organizado: las piezas se arman por bloques o \"unidades\". Escuchalo una vez sin buscar melodías, solo siguiendo la energía."
+  ],
+  "ids": {
+    "musicbrainz": "370d6fb7-8a0b-3e3e-a5f4-d0fcdf2869a1",
+    "discogsMaster": "43554",
+    "wikidata": "Q643992",
+    "wikipedia": "Unit_Structures"
+  },
+  "respaldo": [
+    {
+      "fuente": "penguin-unit",
+      "acceso": "indirecta",
+      "aporta": "La Penguin Guide lo describe tan complejo como sugiere su título, y a la vez rico en color y sonido."
+    }
+  ]
+}

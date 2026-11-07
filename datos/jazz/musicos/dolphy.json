@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "id": "dolphy",
+  "nombre": "Eric Dolphy",
+  "nacimiento": {
+    "anio": 1928,
+    "lugar": "Los Ángeles"
+  },
+  "muerte": {
+    "anio": 1964
+  },
+  "instrumentos": [
+    "saxo alto",
+    "clarinete bajo",
+    "flauta"
+  ],
+  "corrientes": [
+    "free"
+  ],
+  "resumen": "Multiinstrumentista que llevó el clarinete bajo al primer plano. Mingus lo consideraba \"un músico completo\". Murió en Berlín a los 36 años.[^wp-dolphy]",
+  "epocas": [
+    {
+      "titulo": "De Mingus a Blue Note",
+      "desde": 1960,
+      "hasta": 1964,
+      "texto": "Se sumó al taller de Mingus en 1960 al llegar a Nueva York, y su actividad fue incesante hasta su muerte.[^wp-dolphy]",
+      "discoClave": {
+        "disco": "out-to-lunch",
+        "explicacion": "Su única grabación como líder en Blue Note."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-dolphy"
+  ],
+  "respaldo": [
+    {
+      "fuente": "iverson-haden",
+      "acceso": "extracto",
+      "aporta": "Haden cuenta que tocaban frente a frente en clubes de Nueva York."
+    },
+    {
+      "fuente": "penguin-lunch",
+      "acceso": "indirecta",
+      "aporta": "La Penguin Guide le da corona a su disco principal."
+    }
+  ]
+}

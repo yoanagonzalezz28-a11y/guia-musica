@@ -1367,5 +1367,373 @@
     "url": "https://en.wikipedia.org/wiki/Benny_Goodman",
     "consultada": "2026-11-06",
     "estado": "consultada"
+  },
+  "wp-modal": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Modal jazz (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Modal_jazz",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-coltrane": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "John Coltrane (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/John_Coltrane",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-evans": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Bill Evans (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Bill_Evans",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-shorter": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Wayne Shorter (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Wayne_Shorter",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-hancock": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Herbie Hancock (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Herbie_Hancock",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-free": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Free jazz (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Free_jazz",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-ornette": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Ornette Coleman (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Ornette_Coleman",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-dolphy": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Eric Dolphy (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Eric_Dolphy",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-ayler": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Albert Ayler (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Albert_Ayler",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-taylor": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Cecil Taylor (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Cecil_Taylor",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-alice": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Alice Coltrane (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Alice_Coltrane",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-pharoah": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Pharoah Sanders (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Pharoah_Sanders",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-souljazz": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Soul jazz (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Soul_jazz",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-adderley": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Cannonball Adderley (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Cannonball_Adderley",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-jimmysmith": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Jimmy Smith (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Jimmy_Smith_(musician)",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-morgan": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Lee Morgan (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Lee_Morgan",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-byrd": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Donald Byrd (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Donald_Byrd",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-green": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Grant Green (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Grant_Green",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "gioia-evans": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "Ted Gioia, \"The Final Days of Bill Evans\" (The Honest Broker)",
+    "url": "https://www.honest-broker.com/p/the-final-days-of-bill-evans",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "gioia-coltrane": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "Ted Gioia, \"How Miles Davis Hired John Coltrane\" (The Honest Broker)",
+    "url": "https://www.honest-broker.com/p/how-miles-davis-hired-john-coltrane",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "gioia-avant": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "Ted Gioia, \"Nine Observations on the Avant-Garde\" (The Honest Broker)",
+    "url": "https://www.honest-broker.com/p/nine-observations-on-the-avant-garde",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "gioia-shorter": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "Ted Gioia, \"Remembering Wayne Shorter\" (The Honest Broker)",
+    "url": "https://www.honest-broker.com/p/remembering-wayne-shorter-1933-2023",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "gioia-worst": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "Ted Gioia, \"The Worst Day in Jazz History\" (The Honest Broker)",
+    "url": "https://www.honest-broker.com/p/the-worst-day-in-jazz-history",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "iverson-orn2": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "Ethan Iverson, \"Ornette 2: This Is Our Mystic\" (Do the Math)",
+    "url": "https://ethaniverson.com/rhythm-and-blues/this-is-our-mystic/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "iverson-haden": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "Ethan Iverson, \"Interview with Charlie Haden\" (Do the Math)",
+    "url": "https://ethaniverson.com/interviews/interview-with-charlie-haden/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "iverson-tyner": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "Ethan Iverson, sobre McCoy Tyner (Do the Math)",
+    "url": "https://ethaniverson.com/mccoy-tyner/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "db-jones": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "DownBeat, Blindfold Test de Willie Jones III (2026)",
+    "url": "https://downbeat.com/news/detail/blindfold-test-willie-jones-iii",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "penguin-giant": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "The Penguin Guide to Jazz sobre Giant Steps, citada en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Giant_Steps",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "penguin-maiden": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "The Penguin Guide to Jazz sobre Maiden Voyage, citada en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Maiden_Voyage_(Herbie_Hancock_album)",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "penguin-unity": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "The Penguin Guide y Michael Brecker sobre Unity, citados en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Unity_(Larry_Young_album)",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "penguin-lunch": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "The Penguin Guide sobre Out to Lunch!, citada en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Out_to_Lunch!",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "deveaux-giddins-ayler": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "Scott DeVeaux y Gary Giddins sobre Spiritual Unity, citados en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Spiritual_Unity",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "penguin-unit": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "The Penguin Guide sobre Unit Structures, citada en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Unit_Structures",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "penguin-somethin": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "The Penguin Guide y DownBeat sobre Somethin' Else, citados en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Somethin'_Else_(Cannonball_Adderley_album)",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "penguin-sidewinder": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "The Penguin Guide sobre The Sidewinder, citada en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Sidewinder",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "mingus-ornette": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "Charles Mingus sobre Ornette Coleman, citado en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Shape_of_Jazz_to_Come",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "cobb-kob": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "Jimmy Cobb sobre Kind of Blue, citado en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Kind_of_Blue",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "hart-morgan": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "Billy Hart sobre Lee Morgan, citado en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lee_Morgan",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "aaj-evans": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "C. Michael Bailey (All About Jazz) y Thom Jurek (AllMusic) sobre el trío de Evans, citados en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Sunday_at_the_Village_Vanguard",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "am-satch": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Thom Jurek (AllMusic) sobre Journey in Satchidananda, citado en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Journey_in_Satchidananda",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "am-idle": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Steve Huey (AllMusic) sobre Idle Moments, citado en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Idle_Moments",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "jw-karma": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Jazzwise y Pitchfork sobre Karma, citados en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Karma_(Pharoah_Sanders_album)",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "pop-nation": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Robert Spencer (All About Jazz) e Imre Szeman (PopMatters) sobre Nation Time, citados en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Nation_Time",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "aaj-nation": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "All About Jazz: Trinity y los discos de CjR, de Joe McPhee",
+    "url": "https://www.allaboutjazz.com/trinity-joe-mcphee-atavistic-worldwide-review-by-derek-taylor",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "am-hiptwist": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "AllMusic sobre Hip Twist, citado en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hip_Twist",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "aaj-scott": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Douglas Payne, All About Jazz: Legends of Acid Jazz, Shirley Scott",
+    "url": "https://www.allaboutjazz.com/legends-of-acid-jazz-shirley-scott-shirley-scott-prestige-records-review-by-douglas-payne",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
   }
 }

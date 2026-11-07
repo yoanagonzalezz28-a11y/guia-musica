@@ -1,0 +1,92 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": "Dix Hills (Nueva York) y Village Gate",
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6zV55F6W8kh1qe8LHhqRbz",
+    "tituloEnSpotify": "Journey in Satchidananda"
+  },
+  "id": "satchidananda",
+  "titulo": "Journey in Satchidananda",
+  "credito": "Alice Coltrane",
+  "lideres": [
+    "alice"
+  ],
+  "grabacion": {
+    "desde": 1970,
+    "hasta": 1970,
+    "detalle": "4 de julio y 8 de noviembre de 1970"
+  },
+  "edicion": {
+    "anio": 1971,
+    "detalle": "Febrero de 1971"
+  },
+  "sello": "Impulse!",
+  "musicos": [
+    {
+      "musico": "alice",
+      "nombre": "Alice Coltrane",
+      "instrumento": "arpa y piano"
+    },
+    {
+      "musico": "sanders",
+      "nombre": "Pharoah Sanders",
+      "instrumento": "saxo soprano y percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Cecil McBee",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Charlie Haden",
+      "instrumento": "contrabajo",
+      "nota": "\"Isis and Osiris\""
+    },
+    {
+      "musico": null,
+      "nombre": "Rashied Ali",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Tulsi Sen Gupta",
+      "instrumento": "tanpura"
+    },
+    {
+      "musico": null,
+      "nombre": "Vishnu Wood",
+      "instrumento": "oud",
+      "nota": "\"Isis and Osiris\""
+    }
+  ],
+  "corrientes": [
+    "free"
+  ],
+  "corrienteNota": "Más que free, es el jazz espiritual que nace de esa libertad.",
+  "comentario": [
+    "Después de la muerte de John Coltrane, Alice encuentra su propia voz, con el arpa y la tanpura de la India. Es meditativo y muy accesible para venir de esta corriente. Thom Jurek lo señala: tan importante para el jazz modal y experimental como \"remarkably accessible\". Es un buen disco para quien se asustó con Ayler."
+  ],
+  "ids": {
+    "musicbrainz": "cf154081-2678-3778-95cf-cd31c4ea5dfe",
+    "discogsMaster": "59538",
+    "wikidata": "Q6296378",
+    "wikipedia": "Journey_in_Satchidananda"
+  },
+  "respaldo": [
+    {
+      "fuente": "am-satch",
+      "acceso": "indirecta",
+      "aporta": "Thom Jurek: \"necessary for anyone interested in the development of modal and experimental jazz\"."
+    }
+  ]
+}

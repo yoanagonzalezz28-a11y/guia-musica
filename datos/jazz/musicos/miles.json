@@ -19,14 +19,14 @@
     "trompeta"
   ],
   "corrientes": [
-    "cool"
+    "cool",
+    "modal"
   ],
   "spotify": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4",
-  "resumen": "Uno de los músicos más influyentes del jazz y del siglo XX, presente en el nacimiento de varios estilos, del cool a la fusión.[^wp-miles] Esta ficha cubre por ahora solo su etapa cool.",
+  "resumen": "Uno de los músicos más influyentes del jazz y del siglo XX, presente en el nacimiento de varios estilos, del cool a la fusión.[^wp-miles]",
   "epocasPendientes": [
     "Quinteto de los 50",
     "Discos con Gil Evans",
-    "Jazz modal",
     "Segundo quinteto",
     "Etapa eléctrica"
   ],
@@ -41,6 +41,19 @@
         "explicacion": "El disco que le dio nombre a la corriente, aunque salió casi diez años después."
       },
       "discos": []
+    },
+    {
+      "titulo": "Kind of Blue",
+      "desde": 1958,
+      "hasta": 1959,
+      "texto": "A fines de los 50, ya con Coltrane y Adderley, dejó atrás los cambios rápidos de acordes para buscar algo más abierto.[^wp-modal]",
+      "discoClave": {
+        "disco": "kind-of-blue",
+        "explicacion": "Su disco más vendido y uno de los más influyentes del jazz."
+      },
+      "discos": [
+        "somethin-else"
+      ]
     }
   ],
   "fuentes": [

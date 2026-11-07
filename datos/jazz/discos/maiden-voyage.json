@@ -1,0 +1,78 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": "BLP 4195",
+  "lugar": "Estudio Van Gelder, Englewood Cliffs, Nueva Jersey",
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Maiden Voyage Herbie Hancock"
+  },
+  "id": "maiden-voyage",
+  "titulo": "Maiden Voyage",
+  "credito": "Herbie Hancock",
+  "lideres": [
+    "hancock"
+  ],
+  "grabacion": {
+    "desde": 1965,
+    "hasta": 1965,
+    "detalle": "17 de marzo de 1965"
+  },
+  "edicion": {
+    "anio": 1965,
+    "detalle": "17 de mayo de 1965"
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "hancock",
+      "nombre": "Herbie Hancock",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Freddie Hubbard",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "George Coleman",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Ron Carter",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Tony Williams",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "modal"
+  ],
+  "comentario": [
+    "Un disco conceptual sobre el mar, grabado a los 24 años con la base rítmica de Miles Davis. Los músicos trabajan con el espacio: acordes abiertos que flotan, sin apuro. El tema principal es hoy un estándar y una de las mejores maneras de escuchar qué significa \"modal\"."
+  ],
+  "ids": {
+    "musicbrainz": "c5e5e8ad-dc89-319e-8b2d-b3ff5e59fcea",
+    "discogsMaster": "47828",
+    "wikidata": "Q908746",
+    "wikipedia": "Maiden_Voyage_(Herbie_Hancock_album)"
+  },
+  "respaldo": [
+    {
+      "fuente": "penguin-maiden",
+      "acceso": "indirecta",
+      "aporta": "La Penguin Guide lo incluye en su colección esencial: \"a colossal achievement from a man still just 24 years old\"."
+    }
+  ]
+}

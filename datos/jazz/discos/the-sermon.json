@@ -1,0 +1,90 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": "BLP 4011",
+  "lugar": "Manhattan Towers, Nueva York",
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4gn7UMO5QucZldkNyAj7F7",
+    "tituloEnSpotify": "The Sermon!"
+  },
+  "id": "the-sermon",
+  "titulo": "The Sermon!",
+  "credito": "Jimmy Smith",
+  "lideres": [
+    "jimmysmith"
+  ],
+  "grabacion": {
+    "desde": 1957,
+    "hasta": 1958,
+    "detalle": "25 de agosto de 1957 y 25 de febrero de 1958"
+  },
+  "edicion": {
+    "anio": 1959,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "jimmysmith",
+      "nombre": "Jimmy Smith",
+      "instrumento": "órgano Hammond"
+    },
+    {
+      "musico": "morgan",
+      "nombre": "Lee Morgan",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Lou Donaldson",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Tina Brooks",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Kenny Burrell",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": "blakey",
+      "nombre": "Art Blakey",
+      "instrumento": "batería"
+    }
+  ],
+  "personalNota": "Lista parcial: el grupo cambia entre sesiones.",
+  "corrientes": [
+    "souljazz"
+  ],
+  "comentario": [
+    "Veinte minutos de blues lentos en el tema principal, y una banda que disfruta de cada solo: es el soul jazz en su forma más directa. Smith popularizó el órgano Hammond en el jazz y creó un puente hacia la música soul. Fijate en Lee Morgan, de apenas veinte años."
+  ],
+  "ids": {
+    "musicbrainz": "6d9fa1f7-59c7-3ced-b2b6-a581f75696ed",
+    "discogsMaster": "33100",
+    "wikidata": null,
+    "wikipedia": "The_Sermon_(Jimmy_Smith_album)"
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-jimmysmith",
+      "acceso": "completa",
+      "aporta": "Cuenta cómo Alfred Lion lo contrató al oírlo en un club de Filadelfia y las unas 40 sesiones que grabó en ocho años para Blue Note."
+    },
+    {
+      "fuente": "wp-souljazz",
+      "acceso": "completa",
+      "aporta": "Ubica el órgano Hammond en el centro del soul jazz."
+    }
+  ]
+}

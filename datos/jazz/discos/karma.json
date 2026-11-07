@@ -1,0 +1,105 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": "AS 9181",
+  "lugar": "RCA, Nueva York",
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/04sSPjO9MQFQ6fG4lpBI3G",
+    "tituloEnSpotify": "Karma"
+  },
+  "id": "karma",
+  "titulo": "Karma",
+  "credito": "Pharoah Sanders",
+  "lideres": [
+    "sanders"
+  ],
+  "grabacion": {
+    "desde": 1969,
+    "hasta": 1969,
+    "detalle": "14 y 19 de febrero de 1969"
+  },
+  "edicion": {
+    "anio": 1969,
+    "detalle": "Mayo de 1969"
+  },
+  "sello": "Impulse!",
+  "musicos": [
+    {
+      "musico": "sanders",
+      "nombre": "Pharoah Sanders",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Leon Thomas",
+      "instrumento": "voz y percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Lonnie Liston Smith",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Julius Watkins",
+      "instrumento": "corno"
+    },
+    {
+      "musico": null,
+      "nombre": "James Spaulding",
+      "instrumento": "flauta"
+    },
+    {
+      "musico": null,
+      "nombre": "Reggie Workman",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Richard Davis",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Ron Carter",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Hart",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Freddie Waits",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "free"
+  ],
+  "corrienteNota": "Pionero del jazz espiritual.",
+  "comentario": [
+    "Casi todo es \"The Creator Has a Master Plan\", más de media hora que pasa de la calma absoluta al grito y vuelve. Sanders había tocado con Coltrane, y Ayler resumió su lugar con una frase famosa: \"Trane was the Father, Pharoah was the Son, I am the Holy Ghost\"."
+  ],
+  "ids": {
+    "musicbrainz": "22f978cb-26e6-3757-a13a-347970574eec",
+    "discogsMaster": "54110",
+    "wikidata": "Q1571202",
+    "wikipedia": "Karma_(Pharoah_Sanders_album)"
+  },
+  "respaldo": [
+    {
+      "fuente": "jw-karma",
+      "acceso": "indirecta",
+      "aporta": "Jazzwise lo cuenta entre los \"100 Jazz Albums That Shook The World\", y Pitchfork lo ubica entre los grandes discos de los 60."
+    }
+  ]
+}

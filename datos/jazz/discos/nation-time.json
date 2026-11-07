@@ -1,0 +1,103 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": "CjR 2",
+  "lugar": "Vassar College, Nueva York",
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6uAkgTCAvYNrGJrG6SaZV3",
+    "tituloEnSpotify": "Nation Time"
+  },
+  "id": "nation-time",
+  "titulo": "Nation Time",
+  "credito": "Joe McPhee",
+  "lideres": [],
+  "grabacion": {
+    "desde": 1970,
+    "hasta": 1970,
+    "detalle": "12 y 13 de diciembre de 1970"
+  },
+  "edicion": {
+    "anio": 1971,
+    "detalle": "CjR, 1971; reeditado en 2000 por Atavistic"
+  },
+  "sello": "CjR / Atavistic",
+  "musicos": [
+    {
+      "musico": null,
+      "nombre": "Joe McPhee",
+      "instrumento": "saxo tenor y trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Otis Greene",
+      "instrumento": "saxo alto",
+      "nota": "Tema 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Mike Kull",
+      "instrumento": "piano y piano eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Herbie Lehman",
+      "instrumento": "órgano",
+      "nota": "Tema 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Dave Jones",
+      "instrumento": "guitarra",
+      "nota": "Tema 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Tyrone Crabb",
+      "instrumento": "contrabajo, bajo eléctrico y trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Bruce Thompson",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Ernest Bostic",
+      "instrumento": "percusión"
+    }
+  ],
+  "corrientes": [
+    "free"
+  ],
+  "redescubrimiento": {
+    "motivo": "Editado por un sello muy chico, durante años circuló casi solo en copias piratas, hasta su reedición en 2000."
+  },
+  "comentario": [
+    "Free jazz con funk y rhythm and blues, grabado en vivo en un centro de estudios negros de una universidad. El título viene de un poema de Amiri Baraka. Es una prueba de que el free no sucedió solo en Nueva York, y de que podía hacer bailar. Imre Szeman lo define como el disco del que querés hablarle a todo el mundo."
+  ],
+  "ids": {
+    "musicbrainz": "d19d200e-e630-3712-ac93-42684ccee34b",
+    "discogsMaster": "195795",
+    "wikidata": "Q19894641",
+    "wikipedia": "Nation_Time"
+  },
+  "respaldo": [
+    {
+      "fuente": "pop-nation",
+      "acceso": "indirecta",
+      "aporta": "Robert Spencer destaca su sentido del espacio, y Szeman lo recomienda como punto de partida."
+    },
+    {
+      "fuente": "aaj-nation",
+      "acceso": "extracto",
+      "aporta": "All About Jazz cuenta que estos discos se escucharon durante años en copias malas o en el testimonio de quienes tenían los originales."
+    }
+  ]
+}

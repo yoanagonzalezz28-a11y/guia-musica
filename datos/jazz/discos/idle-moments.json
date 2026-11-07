@@ -1,0 +1,95 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz da 1964 y Wikipedia febrero de 1965."
+    }
+  ],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": "BST 84154",
+  "lugar": "Estudio Van Gelder, Englewood Cliffs, Nueva Jersey",
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1lDtUlOPGKp56gQ24MvmNG",
+    "tituloEnSpotify": "Idle Moments"
+  },
+  "id": "idle-moments",
+  "titulo": "Idle Moments",
+  "credito": "Grant Green",
+  "lideres": [
+    "green"
+  ],
+  "grabacion": {
+    "desde": 1963,
+    "hasta": 1963,
+    "detalle": "4 y 15 de noviembre de 1963"
+  },
+  "edicion": {
+    "anio": 1965,
+    "detalle": "Febrero de 1965"
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "green",
+      "nombre": "Grant Green",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Henderson",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Bobby Hutcherson",
+      "instrumento": "vibráfono"
+    },
+    {
+      "musico": null,
+      "nombre": "Duke Pearson",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Bob Cranshaw",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Al Harewood",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "souljazz"
+  ],
+  "corrienteNota": "Green es una figura del soul jazz, aunque este disco está más cerca del hard bop.",
+  "comentario": [
+    "El guitarrista que más veces apareció en discos de Blue Note entre 1961 y 1965. En este, en lugar de tocar para bailar, se detiene. El tema principal dura casi un lado y se abre muy despacio. Más tarde, sus discos de funk se convirtieron en una de las grandes fuentes de samples."
+  ],
+  "ids": {
+    "musicbrainz": "b65889f6-1a7a-3233-b42c-6382fac570b1",
+    "discogsMaster": "163276",
+    "wikidata": "Q1656853",
+    "wikipedia": "Idle_Moments"
+  },
+  "respaldo": [
+    {
+      "fuente": "am-idle",
+      "acceso": "indirecta",
+      "aporta": "Steve Huey: \"the essential first Green purchase\"."
+    },
+    {
+      "fuente": "wp-green",
+      "acceso": "completa",
+      "aporta": "Su relación con Blue Note y su lugar entre los guitarristas más sampleados."
+    }
+  ]
+}

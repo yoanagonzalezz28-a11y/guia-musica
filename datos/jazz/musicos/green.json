@@ -1,0 +1,49 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "id": "green",
+  "nombre": "Grant Green",
+  "nacimiento": {
+    "anio": 1935,
+    "lugar": "Saint Louis"
+  },
+  "muerte": {
+    "anio": 1979
+  },
+  "instrumentos": [
+    "guitarra"
+  ],
+  "corrientes": [
+    "souljazz"
+  ],
+  "resumen": "Guitarrista de sonido limpio y uno de los más sampleados. Entre 1961 y 1965 apareció en más discos de Blue Note que ningún otro músico.[^wp-green]",
+  "epocas": [
+    {
+      "titulo": "Guitarrista de la casa",
+      "desde": 1961,
+      "hasta": 1965,
+      "texto": "Lou Donaldson lo presentó a Alfred Lion, que decidió grabarlo como líder en lugar de acompañante.[^wp-green]",
+      "discoClave": {
+        "disco": "idle-moments",
+        "explicacion": "Su disco más recomendado para empezar."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-green"
+  ],
+  "respaldo": [
+    {
+      "fuente": "am-idle",
+      "acceso": "indirecta",
+      "aporta": "Steve Huey lo elige como la mejor entrada a su obra."
+    }
+  ]
+}

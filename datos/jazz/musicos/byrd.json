@@ -1,0 +1,52 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "id": "byrd",
+  "nombre": "Donald Byrd",
+  "nacimiento": {
+    "anio": 1932,
+    "lugar": "Detroit"
+  },
+  "muerte": {
+    "anio": 2013
+  },
+  "instrumentos": [
+    "trompeta"
+  ],
+  "corrientes": [
+    "souljazz"
+  ],
+  "resumen": "Uno de los pocos músicos de hard bop que triunfó en el jazz funk. También fue un educador destacado, con un doctorado en educación musical.[^wp-byrd]",
+  "epocas": [
+    {
+      "titulo": "Con los Mizell",
+      "desde": 1972,
+      "hasta": 1975,
+      "texto": "Se unió a los hermanos Larry y Fonce Mizell, y en 1973 ayudó a formar The Blackbyrds con estudiantes de Howard University.[^wp-byrd]",
+      "discoClave": {
+        "disco": "black-byrd",
+        "explicacion": "Durante años fue el disco más vendido de Blue Note."
+      },
+      "discos": []
+    }
+  ],
+  "epocasPendientes": [
+    "Hard bop en Blue Note"
+  ],
+  "fuentes": [
+    "wp-byrd"
+  ],
+  "respaldo": [
+    {
+      "fuente": "gioia-worst",
+      "acceso": "extracto",
+      "aporta": "Gioia describe el clima de los sellos de jazz en esos años."
+    }
+  ]
+}

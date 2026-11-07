@@ -1,0 +1,66 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P",
+  "id": "ornette",
+  "nombre": "Ornette Coleman",
+  "nacimiento": {
+    "anio": 1930,
+    "lugar": "Fort Worth, Texas"
+  },
+  "muerte": {
+    "anio": 2015
+  },
+  "instrumentos": [
+    "saxo alto",
+    "trompeta",
+    "violín"
+  ],
+  "corrientes": [
+    "free"
+  ],
+  "resumen": "Uno de los fundadores del free jazz. El término viene de su disco de 1961. En 2007 fue el segundo músico de jazz en ganar el Pulitzer de música.[^wp-ornette]",
+  "epocas": [
+    {
+      "titulo": "El Five Spot",
+      "desde": 1958,
+      "hasta": 1961,
+      "texto": "Tocó en bandas de rhythm and blues del sudoeste antes de lanzar su revolución.[^gioia-avant] En noviembre de 1959, su cuarteto empezó en Nueva York una residencia que dividió a la crítica.[^wp-ornette]",
+      "discoClave": {
+        "disco": "shape-of-jazz",
+        "explicacion": "El manifiesto de esta música, y además un disco muy melódico."
+      },
+      "discos": []
+    }
+  ],
+  "epocasPendientes": [
+    "Free Jazz (1961)",
+    "Prime Time y armolodia",
+    "Sound Grammar"
+  ],
+  "fuentes": [
+    "wp-ornette"
+  ],
+  "respaldo": [
+    {
+      "fuente": "iverson-haden",
+      "acceso": "completa",
+      "aporta": "Charlie Haden recuerda cómo tocaban en duo en casa de Ornette durante días."
+    },
+    {
+      "fuente": "iverson-orn2",
+      "acceso": "completa",
+      "aporta": "Iverson analiza a su círculo más cercano."
+    },
+    {
+      "fuente": "gioia-avant",
+      "acceso": "completa",
+      "aporta": "Gioia lo usa de ejemplo: las revoluciones no siempre nacen en los grandes centros culturales."
+    }
+  ]
+}

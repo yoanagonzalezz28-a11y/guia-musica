@@ -1,0 +1,92 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "derivaPendiente": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "id": "souljazz",
+  "nombre": "Soul jazz",
+  "alias": [
+    "Jazz funk",
+    "Soul jazz y jazz funk"
+  ],
+  "lema": "Órgano, groove y rockola",
+  "tinta": "#8A5A12",
+  "tintaTexto": "#FFFFFF",
+  "periodo": {
+    "desde": 1957,
+    "hasta": 1980,
+    "aproximado": true
+  },
+  "deriva": [
+    "hard-bop"
+  ],
+  "lugares": [
+    "Filadelfia",
+    "Nueva York",
+    "Los Ángeles"
+  ],
+  "texto": [
+    "El soul jazz toma del hard bop, el blues, el gospel y el rhythm and blues, y se caracteriza por los tríos de órgano Hammond.[^wp-souljazz] Horace Silver lo definió con una palabra: \"funky\", algo terrenal y basado en el blues.[^wp-souljazz]",
+    "Jimmy Smith hizo del Hammond un puente entre el jazz y el soul de los 60.[^wp-jimmysmith] El éxito inesperado de \"The Sidewinder\" en 1964 llevó a Blue Note a pedir a sus músicos el mismo ritmo de boogaloo.[^wp-morgan]",
+    "A comienzos de los 70, músicos como Donald Byrd se unieron a productores de soul.[^wp-byrd] Los puristas desconfiaron, pero esa música se convirtió después en una de las grandes fuentes del hip hop.[^wp-green] Ted Gioia recuerda el costado comercial de la época: los sellos apuntaban a oyentes jóvenes.[^gioia-worst]"
+  ],
+  "suena": [
+    "El órgano Hammond al frente, con bajo tocado con los pies.",
+    "Temas simples y bailables, con mucho blues.",
+    "A partir de los 70: bajo eléctrico, sintetizadores y ritmos de funk."
+  ],
+  "hitos": [
+    {
+      "fecha": "1956",
+      "texto": "Jimmy Smith empieza a grabar para Blue Note.[^wp-jimmysmith]"
+    },
+    {
+      "fecha": "1964",
+      "texto": "\"The Sidewinder\" llega a las listas de pop.[^wp-morgan]"
+    },
+    {
+      "fecha": "1966",
+      "texto": "Adderley triunfa con \"Mercy, Mercy, Mercy\".[^wp-adderley]"
+    },
+    {
+      "fecha": "1973",
+      "texto": "*Black Byrd* se convierte en un gran éxito de Blue Note.[^wp-byrd]"
+    }
+  ],
+  "legado": "Volvió a conectar el jazz con el baile y con el público negro de su tiempo. Décadas después, sus discos alimentaron al hip hop y al acid jazz.",
+  "musicos": [
+    "jimmysmith",
+    "adderley",
+    "morgan",
+    "green",
+    "byrd",
+    "silver"
+  ],
+  "musicosPendientes": [
+    "Ramsey Lewis",
+    "Les McCann",
+    "Nina Simone",
+    "Roy Ayers",
+    "Eddie Lockjaw Davis",
+    "Jack McDuff",
+    "Shirley Scott"
+  ],
+  "discosEsenciales": [
+    {
+      "disco": "the-sermon",
+      "porque": "Órgano y blues sin apuro."
+    },
+    {
+      "disco": "sidewinder",
+      "porque": "El éxito que cambió el rumbo del sello."
+    },
+    {
+      "disco": "hip-twist",
+      "porque": "La reina del órgano, tocando con elegancia."
+    }
+  ]
+}

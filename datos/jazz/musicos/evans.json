@@ -1,0 +1,60 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF",
+  "id": "evans",
+  "nombre": "Bill Evans",
+  "nacimiento": {
+    "anio": 1929,
+    "lugar": "Plainfield, Nueva Jersey"
+  },
+  "muerte": {
+    "anio": 1980
+  },
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "modal"
+  ],
+  "resumen": "Pianista de armonías impresionistas y líneas \"cantadas\", que cambió la forma de pensar el piano en el jazz.[^wp-evans]",
+  "epocas": [
+    {
+      "titulo": "El trío con LaFaro",
+      "desde": 1959,
+      "hasta": 1961,
+      "texto": "Dejó el grupo de Davis a fines de 1959 y formó un trío con Scott LaFaro y Paul Motian, hoy considerado un modelo. LaFaro murió diez días después de los conciertos del Village Vanguard.[^wp-evans]",
+      "discoClave": {
+        "disco": "sunday-vanguard",
+        "explicacion": "El resultado más conocido de esa conversación entre tres."
+      },
+      "discos": [
+        "kind-of-blue"
+      ]
+    }
+  ],
+  "epocasPendientes": [
+    "Años de Verve",
+    "Último trío, 1978–80"
+  ],
+  "fuentes": [
+    "wp-evans"
+  ],
+  "respaldo": [
+    {
+      "fuente": "gioia-evans",
+      "acceso": "completa",
+      "aporta": "Ted Gioia escribe sobre sus últimos días, a partir de su último concierto en San Francisco."
+    },
+    {
+      "fuente": "gioia-worst",
+      "acceso": "extracto",
+      "aporta": "Gioia recuerda que Columbia lo despidió en la purga de 1973."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf",
+  "id": "coltrane",
+  "nombre": "John Coltrane",
+  "nacimiento": {
+    "anio": 1926,
+    "lugar": "Carolina del Norte"
+  },
+  "muerte": {
+    "anio": 1967
+  },
+  "instrumentos": [
+    "saxo tenor",
+    "saxo soprano"
+  ],
+  "corrientes": [
+    "modal",
+    "free"
+  ],
+  "resumen": "Uno de los músicos más influyentes del siglo XX. Su música fue tomando una dimensión cada vez más espiritual.[^wp-coltrane]",
+  "epocasPendientes": [
+    "Prestige y Blue Train",
+    "Impulse! tardío: Ascension y Meditations"
+  ],
+  "epocas": [
+    {
+      "titulo": "Con Davis y Giant Steps",
+      "desde": 1957,
+      "hasta": 1960,
+      "texto": "Pasó por los grupos de Miles Davis y Thelonious Monk, y en 1959 grabó dos discos casi opuestos: *Kind of Blue*, con Davis, y *Giant Steps*, a su nombre.[^wp-coltrane]",
+      "discoClave": {
+        "disco": "giant-steps",
+        "explicacion": "Muchos de estos temas son todavía material de práctica para saxofonistas."
+      },
+      "discos": [
+        "kind-of-blue"
+      ]
+    },
+    {
+      "titulo": "El cuarteto",
+      "desde": 1961,
+      "hasta": 1965,
+      "texto": "Con Tyner, Garrison y Jones formó un cuarteto de enorme intensidad, y volcó en la música su búsqueda espiritual.[^wp-coltrane]",
+      "discoClave": {
+        "disco": "love-supreme",
+        "explicacion": "Su obra más querida y una de las más influyentes."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-coltrane"
+  ],
+  "respaldo": [
+    {
+      "fuente": "gioia-coltrane",
+      "acceso": "completa",
+      "aporta": "Reproduce el relato de James Kaplan: Davis lo contrató sin que Coltrane entendiera bien por qué."
+    },
+    {
+      "fuente": "iverson-tyner",
+      "acceso": "completa",
+      "aporta": "Iverson analiza su cuarteto a través de McCoy Tyner."
+    }
+  ]
+}

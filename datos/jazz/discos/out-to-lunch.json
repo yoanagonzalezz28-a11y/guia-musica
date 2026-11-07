@@ -1,0 +1,79 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": "BLP 4163",
+  "lugar": "Estudio Van Gelder, Englewood Cliffs, Nueva Jersey",
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Out to Lunch Eric Dolphy"
+  },
+  "id": "out-to-lunch",
+  "titulo": "Out to Lunch!",
+  "credito": "Eric Dolphy",
+  "lideres": [
+    "dolphy"
+  ],
+  "grabacion": {
+    "desde": 1964,
+    "hasta": 1964,
+    "detalle": "25 de febrero de 1964"
+  },
+  "edicion": {
+    "anio": 1964,
+    "detalle": "Agosto de 1964, ya muerto Dolphy"
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "dolphy",
+      "nombre": "Eric Dolphy",
+      "instrumento": "clarinete bajo, flauta y saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Freddie Hubbard",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Bobby Hutcherson",
+      "instrumento": "vibráfono"
+    },
+    {
+      "musico": null,
+      "nombre": "Richard Davis",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Tony Williams",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "free"
+  ],
+  "corrienteNota": "Está en la frontera: escrito con mucho cuidado, pero con una libertad que lo acerca al free.",
+  "comentario": [
+    "El único disco de Dolphy como líder en Blue Note: salió poco después de su muerte, a los 36 años. En lugar del piano, el vibráfono de Bobby Hutcherson deja abierta la armonía. Las melodías saltan de manera que parecen hablar. Es una vanguardia muy escrita, y una puerta de entrada mejor de lo que parece."
+  ],
+  "ids": {
+    "musicbrainz": "bc6c2573-bc7d-346a-8880-0e34b8fb7e50",
+    "discogsMaster": "64167",
+    "wikidata": "Q522174",
+    "wikipedia": "Out_to_Lunch!"
+  },
+  "respaldo": [
+    {
+      "fuente": "penguin-lunch",
+      "acceso": "indirecta",
+      "aporta": "Corona y máxima puntuación en la Penguin Guide: \"a slightly tentative masterpiece\"."
+    }
+  ]
+}

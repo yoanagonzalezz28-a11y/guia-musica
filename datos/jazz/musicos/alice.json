@@ -1,0 +1,51 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr",
+  "id": "alice",
+  "nombre": "Alice Coltrane",
+  "nacimiento": {
+    "anio": 1937,
+    "lugar": "Detroit"
+  },
+  "muerte": {
+    "anio": 2007
+  },
+  "instrumentos": [
+    "piano",
+    "arpa",
+    "órgano"
+  ],
+  "corrientes": [
+    "free"
+  ],
+  "resumen": "Pianista y una de las pocas arpistas del jazz, también líder espiritual hindú. Fundó el Vedantic Center en 1975 y un ashram en California.[^wp-alice]",
+  "epocas": [
+    {
+      "titulo": "Impulse!",
+      "desde": 1968,
+      "hasta": 1971,
+      "texto": "Después de la muerte de John Coltrane empezó a grabar como líder y a estudiar el arpa.[^wp-alice]",
+      "discoClave": {
+        "disco": "satchidananda",
+        "explicacion": "Su disco más conocido, una influencia hasta hoy."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-alice"
+  ],
+  "respaldo": [
+    {
+      "fuente": "am-satch",
+      "acceso": "indirecta",
+      "aporta": "Thom Jurek destaca que su música es muy accesible y aun así experimental."
+    }
+  ]
+}

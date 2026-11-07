@@ -11,7 +11,10 @@
     "hard-bop",
     "cool",
     "origenes",
-    "swing"
+    "swing",
+    "modal",
+    "free",
+    "souljazz"
   ],
   "musicos": [
     "parker",
@@ -39,7 +42,22 @@
     "holiday",
     "young",
     "williams",
-    "fitzgerald"
+    "fitzgerald",
+    "coltrane",
+    "evans",
+    "shorter",
+    "hancock",
+    "ornette",
+    "dolphy",
+    "ayler",
+    "taylor",
+    "alice",
+    "sanders",
+    "adderley",
+    "jimmysmith",
+    "morgan",
+    "byrd",
+    "green"
   ],
   "discos": [],
   "figurasPendientes": [],
@@ -75,6 +93,18 @@
     {
       "nombre": "Cotton Club, Harlem",
       "texto": "La vidriera que le dio a Ellington alcance nacional."
+    },
+    {
+      "nombre": "Impulse!",
+      "texto": "El sello de Coltrane y del jazz espiritual."
+    },
+    {
+      "nombre": "ESP-Disk",
+      "texto": "El sello neoyorquino que dio lugar al free más radical, empezando por Spiritual Unity."
+    },
+    {
+      "nombre": "Five Spot, Nueva York",
+      "texto": "El club donde Ornette Coleman dividió a la crítica en 1959."
     }
   ],
   "escenaActual": [

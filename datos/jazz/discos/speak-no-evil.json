@@ -1,0 +1,79 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": "Estudio Van Gelder, Englewood Cliffs, Nueva Jersey",
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Speak No Evil Wayne Shorter"
+  },
+  "id": "speak-no-evil",
+  "titulo": "Speak No Evil",
+  "credito": "Wayne Shorter",
+  "lideres": [
+    "shorter"
+  ],
+  "grabacion": {
+    "desde": 1964,
+    "hasta": 1964,
+    "detalle": "24 de diciembre de 1964"
+  },
+  "edicion": {
+    "anio": 1966,
+    "detalle": "Junio de 1966"
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "shorter",
+      "nombre": "Wayne Shorter",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Freddie Hubbard",
+      "instrumento": "trompeta",
+      "nota": "Salvo \"Infant Eyes\""
+    },
+    {
+      "musico": "hancock",
+      "nombre": "Herbie Hancock",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Ron Carter",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Elvin Jones",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "modal"
+  ],
+  "comentario": [
+    "Grabado el año en que Shorter entró al quinteto de Miles Davis. Son composiciones que no se parecen a nada anterior: melodías oscuras y sencillas, con una armonía que nunca termina de resolverse. Por eso tantos temas suyos entraron al repertorio. \"Infant Eyes\", una balada para su hija, es un buen lugar para empezar."
+  ],
+  "ids": {
+    "musicbrainz": "eae0c18f-f2fd-3b97-8631-3f682a2f3957",
+    "discogsMaster": "140424",
+    "wikidata": "Q7574207",
+    "wikipedia": "Speak_No_Evil_(Wayne_Shorter_album)"
+  },
+  "respaldo": [
+    {
+      "fuente": "gioia-shorter",
+      "acceso": "completa",
+      "aporta": "Ted Gioia: mientras muchos imitaban o se estancaban, Shorter encontró nuevos caminos para improvisar y componer."
+    }
+  ]
+}

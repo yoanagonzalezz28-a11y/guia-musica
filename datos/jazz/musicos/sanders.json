@@ -1,0 +1,51 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud",
+  "id": "sanders",
+  "nombre": "Pharoah Sanders",
+  "nacimiento": {
+    "anio": 1940,
+    "lugar": "Little Rock, Arkansas"
+  },
+  "muerte": {
+    "anio": 2022
+  },
+  "instrumentos": [
+    "saxo tenor"
+  ],
+  "corrientes": [
+    "free"
+  ],
+  "resumen": "Saxofonista de técnicas extendidas, figura del free y del jazz espiritual, formado en los grupos de John Coltrane.[^wp-pharoah]",
+  "epocas": [
+    {
+      "titulo": "Después de Coltrane",
+      "desde": 1969,
+      "hasta": 1971,
+      "texto": "Siguió el camino abierto por Coltrane y colaboró con frecuencia con Leon Thomas y Alice Coltrane.[^wp-pharoah]",
+      "discoClave": {
+        "disco": "karma",
+        "explicacion": "Su disco más popular."
+      },
+      "discos": [
+        "satchidananda"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-pharoah"
+  ],
+  "respaldo": [
+    {
+      "fuente": "jw-karma",
+      "acceso": "indirecta",
+      "aporta": "Jazzwise y Pitchfork destacan su lugar en la historia del género."
+    }
+  ]
+}

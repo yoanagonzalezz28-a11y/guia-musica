@@ -1,0 +1,75 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": "Estudio Van Gelder, Englewood Cliffs, Nueva Jersey",
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5DXmUb5WnwvBeNJDgXx3sL",
+    "tituloEnSpotify": "A Love Supreme"
+  },
+  "id": "love-supreme",
+  "titulo": "A Love Supreme",
+  "credito": "John Coltrane",
+  "lideres": [
+    "coltrane"
+  ],
+  "grabacion": {
+    "desde": 1964,
+    "hasta": 1964,
+    "detalle": "9 de diciembre de 1964"
+  },
+  "edicion": {
+    "anio": 1965,
+    "detalle": "Enero de 1965"
+  },
+  "sello": "Impulse!",
+  "musicos": [
+    {
+      "musico": "coltrane",
+      "nombre": "John Coltrane",
+      "instrumento": "saxo tenor y voz"
+    },
+    {
+      "musico": null,
+      "nombre": "McCoy Tyner",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Garrison",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Elvin Jones",
+      "instrumento": "batería, gong y timbales"
+    }
+  ],
+  "corrientes": [
+    "modal"
+  ],
+  "corrienteNota": "Une lo modal con el jazz espiritual que sigue en la corriente free.",
+  "comentario": [
+    "Una suite en cuatro partes, grabada en un solo día y dedicada a Dios. Coltrane incluye un poema en las notas de tapa y, en \"Psalm\", toca como si lo recitara nota por nota. Sus ventas superaron por mucho las habituales de sus discos y marcó de manera decisiva a la generación espiritual del free."
+  ],
+  "ids": {
+    "musicbrainz": "77cf47ba-58cd-3f3d-a5f9-79bf89860421",
+    "discogsMaster": "32287",
+    "wikidata": "Q5106",
+    "wikipedia": "A_Love_Supreme"
+  },
+  "respaldo": [
+    {
+      "fuente": "iverson-tyner",
+      "acceso": "completa",
+      "aporta": "Ethan Iverson analiza la revolución de McCoy Tyner en el piano, clave de este grupo."
+    }
+  ]
+}

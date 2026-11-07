@@ -1,0 +1,84 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": "BLP 1595",
+  "lugar": "Estudio Van Gelder, Hackensack, Nueva Jersey",
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Somethin' Else Cannonball Adderley"
+  },
+  "id": "somethin-else",
+  "titulo": "Somethin' Else",
+  "credito": "Cannonball Adderley",
+  "lideres": [
+    "adderley"
+  ],
+  "grabacion": {
+    "desde": 1958,
+    "hasta": 1958,
+    "detalle": "9 de marzo de 1958"
+  },
+  "edicion": {
+    "anio": 1958,
+    "detalle": "Agosto de 1958"
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "adderley",
+      "nombre": "Cannonball Adderley",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": "miles",
+      "nombre": "Miles Davis",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Hank Jones",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Sam Jones",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "blakey",
+      "nombre": "Art Blakey",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "souljazz"
+  ],
+  "corrienteNota": "Más cerca del hard bop, pero Adderley se volvió la gran figura del soul jazz.",
+  "comentario": [
+    "El único disco de Adderley en Blue Note, con Miles Davis de invitado en una de sus pocas sesiones para el sello. Su \"Autumn Leaves\" es de las versiones más famosas de ese tema. El blues de Adderley ya apunta a lo que haría después con su quinteto. Keepnews se quejó de que Blakey casi no levanta vuelo: es un disco muy contenido."
+  ],
+  "ids": {
+    "musicbrainz": "495c22f5-90b3-3e87-8be1-2c55aef3ed82",
+    "discogsMaster": null,
+    "wikidata": "Q1931410",
+    "wikipedia": "Somethin'_Else_(Cannonball_Adderley_album)"
+  },
+  "respaldo": [
+    {
+      "fuente": "penguin-somethin",
+      "acceso": "indirecta",
+      "aporta": "En la colección esencial de la Penguin Guide. DownBeat le dio cinco estrellas en 1958."
+    },
+    {
+      "fuente": "db-jones",
+      "acceso": "completa",
+      "aporta": "En otra grabación de Adderley, el baterista Willie Jones III lo reconoce sin ver la tapa en su Blindfold Test."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "id": "jimmysmith",
+  "nombre": "Jimmy Smith",
+  "nacimiento": {
+    "anio": 1928,
+    "lugar": "Norristown, Pensilvania"
+  },
+  "muerte": {
+    "anio": 2005
+  },
+  "instrumentos": [
+    "órgano Hammond"
+  ],
+  "corrientes": [
+    "souljazz"
+  ],
+  "resumen": "Popularizó el órgano Hammond B-3, y creó un puente entre el jazz y el soul de los 60.[^wp-jimmysmith]",
+  "epocas": [
+    {
+      "titulo": "Blue Note",
+      "desde": 1956,
+      "hasta": 1963,
+      "texto": "Compró su primer Hammond, alquiló un depósito para practicar y salió un año después. Alfred Lion lo oyó en Filadelfia y lo contrató en el acto.[^wp-jimmysmith]",
+      "discoClave": {
+        "disco": "the-sermon",
+        "explicacion": "El soul jazz en su forma más directa."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-jimmysmith"
+  ],
+  "respaldo": [
+    {
+      "fuente": "wp-souljazz",
+      "acceso": "completa",
+      "aporta": "Lo ubica en el centro del soul jazz."
+    }
+  ]
+}

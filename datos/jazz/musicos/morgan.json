@@ -1,0 +1,57 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX",
+  "id": "morgan",
+  "nombre": "Lee Morgan",
+  "nacimiento": {
+    "anio": 1938,
+    "lugar": "Filadelfia"
+  },
+  "muerte": {
+    "anio": 1972
+  },
+  "instrumentos": [
+    "trompeta"
+  ],
+  "corrientes": [
+    "souljazz",
+    "hard-bop"
+  ],
+  "resumen": "Trompetista clave del hard bop y pilar de Blue Note, famoso desde adolescente. Fue asesinado en 1972, a los 33 años.[^wp-morgan]",
+  "epocas": [
+    {
+      "titulo": "De los Messengers a The Sidewinder",
+      "desde": 1958,
+      "hasta": 1964,
+      "texto": "Se hizo conocido con Blakey, y en 1963 grabó el tema que le dio su mayor éxito.[^wp-morgan]",
+      "discoClave": {
+        "disco": "sidewinder",
+        "explicacion": "Su disco más vendido y un punto de inflexión para Blue Note."
+      },
+      "discos": [
+        "moanin",
+        "the-sermon"
+      ]
+    }
+  ],
+  "epocasPendientes": [
+    "Search for the New Land",
+    "Último grupo, Live at the Lighthouse"
+  ],
+  "fuentes": [
+    "wp-morgan"
+  ],
+  "respaldo": [
+    {
+      "fuente": "hart-morgan",
+      "acceso": "indirecta",
+      "aporta": "El testimonio de Billy Hart sobre el origen casual de su éxito."
+    }
+  ]
+}

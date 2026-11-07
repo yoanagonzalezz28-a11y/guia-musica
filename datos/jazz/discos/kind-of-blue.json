@@ -1,0 +1,96 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": "Estudio de la calle 30 de Columbia, Nueva York",
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1weenld61qoidwYuZ1GESA",
+    "tituloEnSpotify": "Kind Of Blue"
+  },
+  "id": "kind-of-blue",
+  "titulo": "Kind of Blue",
+  "credito": "Miles Davis",
+  "lideres": [
+    "miles"
+  ],
+  "grabacion": {
+    "desde": 1959,
+    "hasta": 1959,
+    "detalle": "2 de marzo y 22 de abril de 1959"
+  },
+  "edicion": {
+    "anio": 1959,
+    "detalle": "17 de agosto de 1959"
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "miles",
+      "nombre": "Miles Davis",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": "adderley",
+      "nombre": "Cannonball Adderley",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": "coltrane",
+      "nombre": "John Coltrane",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": "evans",
+      "nombre": "Bill Evans",
+      "instrumento": "piano",
+      "nota": "Salvo \"Freddie Freeloader\""
+    },
+    {
+      "musico": null,
+      "nombre": "Wynton Kelly",
+      "instrumento": "piano",
+      "nota": "Solo \"Freddie Freeloader\""
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Chambers",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Cobb",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "modal"
+  ],
+  "comentario": [
+    "En vez de correr detrás de acordes que cambian todo el tiempo, los solistas se mueven dentro de escalas que duran muchos compases. Bill Evans, que había dejado el grupo, volvió para esta sesión y su influencia se nota. Es el disco que muchos recomiendan para empezar, y una de las grabaciones más vendidas de la historia del jazz. Su sonido es tan tranquilo que cuesta creer lo que cambió."
+  ],
+  "ids": {
+    "musicbrainz": "8e8a594f-2175-38c7-a871-abb68ec363e7",
+    "discogsMaster": "5460",
+    "wikidata": "Q283221",
+    "wikipedia": "Kind_of_Blue"
+  },
+  "respaldo": [
+    {
+      "fuente": "cobb-kob",
+      "acceso": "indirecta",
+      "aporta": "Jimmy Cobb, su baterista: \"must have been made in heaven\"."
+    },
+    {
+      "fuente": "gioia-coltrane",
+      "acceso": "completa",
+      "aporta": "Gioia recomienda el libro de James Kaplan sobre Davis, Coltrane y Evans, con el relato de cómo Davis contrató a Coltrane."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": "RLP-376",
+  "lugar": "Village Vanguard, Nueva York",
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/20ONXWjxrJhlX3rfNeAbS0",
+    "tituloEnSpotify": "Sunday At The Village Vanguard"
+  },
+  "id": "sunday-vanguard",
+  "titulo": "Sunday at the Village Vanguard",
+  "credito": "Bill Evans Trio",
+  "lideres": [
+    "evans"
+  ],
+  "grabacion": {
+    "desde": 1961,
+    "hasta": 1961,
+    "detalle": "25 de junio de 1961"
+  },
+  "edicion": {
+    "anio": 1961,
+    "detalle": "Octubre de 1961"
+  },
+  "sello": "Riverside",
+  "musicos": [
+    {
+      "musico": "evans",
+      "nombre": "Bill Evans",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Scott LaFaro",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Motian",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "modal"
+  ],
+  "corrienteNota": "Evans ayudó a definir lo modal, aunque este disco se destaca más por la conversación del trío.",
+  "comentario": [
+    "Un piano trío donde el contrabajo y la batería dejan de acompañar y empiezan a conversar con el piano. Diez días después de esta grabación, Scott LaFaro murió en un accidente, a los 25 años. Lo que se escucha es el final de un grupo que recién empezaba. Anatomía del Jazz le dedica un episodio."
+  ],
+  "ids": {
+    "musicbrainz": "79a8fca9-2678-3c9c-a18f-b6f715d2375d",
+    "discogsMaster": "104372",
+    "wikidata": "Q1065855",
+    "wikipedia": "Sunday_at_the_Village_Vanguard"
+  },
+  "respaldo": [
+    {
+      "fuente": "aaj-evans",
+      "acceso": "indirecta",
+      "aporta": "C. Michael Bailey: Evans perfeccionó su visión democrática del trío. Thom Jurek: \"a great place to begin with Evans\"."
+    },
+    {
+      "fuente": "gioia-evans",
+      "acceso": "completa",
+      "aporta": "Ted Gioia, que lo vio en vivo, cuenta el final de su vida y su relación con estos músicos."
+    }
+  ]
+}

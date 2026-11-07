@@ -31,7 +31,7 @@ Cada respaldo dice cómo se llegó a él, y la ficha lo muestra:
 
 | Valor | Significado |
 |---|---|
-| `completa` | Se leyó el texto completo. |
+| `completa` | Se abrió la fuente original y se leyó el pasaje citado. |
 | `extracto` | Solo se vio un extracto o resumen, porque el sitio no permite leerlo. |
 | `indirecta` | Otra fuente lo cita. Por ejemplo, Penguin Guide citada en Wikipedia. |
 

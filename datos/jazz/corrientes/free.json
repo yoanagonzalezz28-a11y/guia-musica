@@ -1,0 +1,104 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "derivaPendiente": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "id": "free",
+  "nombre": "Free jazz",
+  "alias": [
+    "Jazz espiritual",
+    "Free jazz y jazz espiritual"
+  ],
+  "lema": "Sin reglas fijas",
+  "tinta": "#C2185B",
+  "tintaTexto": "#FFFFFF",
+  "periodo": {
+    "desde": 1959,
+    "hasta": 1976,
+    "aproximado": true
+  },
+  "deriva": [
+    "hard-bop",
+    "modal"
+  ],
+  "lugares": [
+    "Nueva York",
+    "Chicago",
+    "Europa"
+  ],
+  "texto": [
+    "A fines de los 50 y comienzos de los 60, algunos músicos sintieron que el bebop y el jazz modal eran demasiado limitantes, y buscaron romper con el tempo regular, las tonalidades y los cambios de acordes.[^wp-free] El nombre viene de *Free Jazz: A Collective Improvisation*, de Ornette Coleman.[^wp-free]",
+    "Muchos críticos vinculan esta música con las tensiones sociales de la época y el movimiento por los derechos civiles.[^wp-free] Como dijo el guitarrista Marc Ribot, Coleman y Ayler no solo liberaban estructuras: también estaban creando otras nuevas.[^wp-free]",
+    "Fue una de las músicas más discutidas del jazz: los elogios convivían con reseñas de cero estrellas.[^deveaux-giddins-ayler] De esa libertad surgió también el jazz espiritual, con A Love Supreme como antecedente, en la música de Alice Coltrane y Pharoah Sanders.[^wp-pharoah]"
+  ],
+  "suena": [
+    "Sin un pulso fijo ni una progresión de acordes a seguir.",
+    "El timbre, el grito y el susurro importan tanto como la nota.",
+    "Los músicos se responden entre sí, sin solista central."
+  ],
+  "hitos": [
+    {
+      "fecha": "nov. 1959",
+      "texto": "Coleman empieza su polémica residencia en el Five Spot.[^wp-ornette]"
+    },
+    {
+      "fecha": "1961",
+      "texto": "Sale *Free Jazz*, que le da nombre a la corriente.[^wp-free]"
+    },
+    {
+      "fecha": "1964",
+      "texto": "Ayler graba *Spiritual Unity* y muere Dolphy.[^wp-ayler][^wp-dolphy]"
+    },
+    {
+      "fecha": "1966",
+      "texto": "Cecil Taylor graba *Unit Structures*."
+    },
+    {
+      "fecha": "1969",
+      "texto": "Pharoah Sanders graba *Karma*."
+    },
+    {
+      "fecha": "2007",
+      "texto": "Coleman gana el Pulitzer de música.[^wp-ornette]"
+    }
+  ],
+  "legado": "Rompió la idea de que el jazz debía tener una forma fija, y de que la belleza pasaba por la afinación. Hoy, su búsqueda espiritual volvió con fuerza entre muchos músicos jóvenes.",
+  "musicos": [
+    "ornette",
+    "dolphy",
+    "ayler",
+    "taylor",
+    "alice",
+    "sanders",
+    "coltrane"
+  ],
+  "musicosPendientes": [
+    "Sun Ra",
+    "Don Cherry",
+    "Carla Bley",
+    "Art Ensemble of Chicago",
+    "Charlie Haden"
+  ],
+  "discosEsenciales": [
+    {
+      "disco": "shape-of-jazz",
+      "porque": "Empieza por acá: es mucho más melódico de lo que dice su fama."
+    },
+    {
+      "disco": "satchidananda",
+      "porque": "La cara más accesible y meditativa."
+    },
+    {
+      "disco": "spiritual-unity",
+      "porque": "Cuando quieras escuchar hasta dónde llegó."
+    },
+    {
+      "disco": "nation-time",
+      "porque": "Free jazz para bailar, fuera de Nueva York."
+    }
+  ]
+}
