@@ -1,0 +1,264 @@
+{
+  "id": "raices-fusion",
+  "nombre": "De las raíces a la fusión",
+  "conductor": "John Harden, en la voz de Omar Pérez (Magazine AMPM)",
+  "descripcion": "Un ensayo en 12 episodios sobre el jazz afronorteamericano, desde sus raíces africanas hasta la fusión de los 70.",
+  "idioma": "es",
+  "web": null,
+  "rss": null,
+  "spotify": "https://open.spotify.com/show/4NwzQkQRG83JDOwjI0RrvS",
+  "episodios": [
+    {
+      "id": "de-las-raices-a-la-fusion-episodio-12",
+      "titulo": "Episodio 12",
+      "codigo": null,
+      "fecha": "2022-06-16",
+      "duracionMin": 29,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/72h6BhCj9TRoYgLLuY10ty"
+      },
+      "original": null,
+      "verificacion": {
+        "estado": "verificado",
+        "fecha": "2026-11-06",
+        "http": "spotify"
+      },
+      "temas": [
+        "Orígenes",
+        "Fusión"
+      ]
+    },
+    {
+      "id": "de-las-raices-a-la-fusion-episodio-11",
+      "titulo": "Episodio 11",
+      "codigo": null,
+      "fecha": "2022-06-02",
+      "duracionMin": 27,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/3cVAYcUb1OzOoh0VC10rCf"
+      },
+      "original": null,
+      "verificacion": {
+        "estado": "verificado",
+        "fecha": "2026-11-06",
+        "http": "spotify"
+      },
+      "temas": [
+        "Orígenes",
+        "Fusión"
+      ]
+    },
+    {
+      "id": "de-las-raices-a-la-fusion-episodio-10",
+      "titulo": "Episodio 10",
+      "codigo": null,
+      "fecha": "2022-05-19",
+      "duracionMin": 49,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/2T9EYG8WN8eLW5npPw6dgk"
+      },
+      "original": null,
+      "verificacion": {
+        "estado": "verificado",
+        "fecha": "2026-11-06",
+        "http": "spotify"
+      },
+      "temas": [
+        "Orígenes",
+        "Fusión"
+      ]
+    },
+    {
+      "id": "de-las-raices-a-la-fusion-episodio-9",
+      "titulo": "Episodio 9",
+      "codigo": null,
+      "fecha": "2022-05-05",
+      "duracionMin": 31,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/4pzj7S0XHQKXqryxmGKBx4"
+      },
+      "original": null,
+      "verificacion": {
+        "estado": "verificado",
+        "fecha": "2026-11-06",
+        "http": "spotify"
+      },
+      "temas": [
+        "Orígenes",
+        "Fusión"
+      ]
+    },
+    {
+      "id": "de-las-raices-a-la-fusion-episodio-8",
+      "titulo": "Episodio 8",
+      "codigo": null,
+      "fecha": "2022-04-21",
+      "duracionMin": 32,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/4pUtSX89I22iXuqaFwlmyH"
+      },
+      "original": null,
+      "verificacion": {
+        "estado": "verificado",
+        "fecha": "2026-11-06",
+        "http": "spotify"
+      },
+      "temas": [
+        "Orígenes",
+        "Fusión"
+      ]
+    },
+    {
+      "id": "de-las-raices-a-la-fusion-episodio-7",
+      "titulo": "Episodio 7",
+      "codigo": null,
+      "fecha": "2022-04-07",
+      "duracionMin": 28,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/06In91lnWuygBpDlT19AG5"
+      },
+      "original": null,
+      "verificacion": {
+        "estado": "verificado",
+        "fecha": "2026-11-06",
+        "http": "spotify"
+      },
+      "temas": [
+        "Orígenes",
+        "Fusión"
+      ]
+    },
+    {
+      "id": "de-las-raices-a-la-fusion-episodio-6",
+      "titulo": "Episodio 6",
+      "codigo": null,
+      "fecha": "2022-03-24",
+      "duracionMin": 38,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/3Yvv2RbG8vjrd7rkEO4hPZ"
+      },
+      "original": null,
+      "verificacion": {
+        "estado": "verificado",
+        "fecha": "2026-11-06",
+        "http": "spotify"
+      },
+      "temas": [
+        "Orígenes",
+        "Fusión"
+      ]
+    },
+    {
+      "id": "de-las-raices-a-la-fusion-episodio-5",
+      "titulo": "Episodio 5",
+      "codigo": null,
+      "fecha": "2022-03-10",
+      "duracionMin": 27,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/6xFFGEHNaDo5Golg0UMxrG"
+      },
+      "original": null,
+      "verificacion": {
+        "estado": "verificado",
+        "fecha": "2026-11-06",
+        "http": "spotify"
+      },
+      "temas": [
+        "Orígenes",
+        "Fusión"
+      ]
+    },
+    {
+      "id": "de-las-raices-a-la-fusion-episodio-4",
+      "titulo": "Episodio 4",
+      "codigo": null,
+      "fecha": "2022-02-24",
+      "duracionMin": 27,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/6JQzpxRM3H4fyfnnyTsPwt"
+      },
+      "original": null,
+      "verificacion": {
+        "estado": "verificado",
+        "fecha": "2026-11-06",
+        "http": "spotify"
+      },
+      "temas": [
+        "Orígenes",
+        "Fusión"
+      ]
+    },
+    {
+      "id": "de-las-raices-a-la-fusion-episodio-3",
+      "titulo": "Episodio 3",
+      "codigo": null,
+      "fecha": "2022-02-10",
+      "duracionMin": 31,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/5CUbCF6k7qw4OQtMRgN4v0"
+      },
+      "original": null,
+      "verificacion": {
+        "estado": "verificado",
+        "fecha": "2026-11-06",
+        "http": "spotify"
+      },
+      "temas": [
+        "Orígenes",
+        "Fusión"
+      ]
+    },
+    {
+      "id": "de-las-raices-a-la-fusion-episodio-2",
+      "titulo": "Episodio 2",
+      "codigo": null,
+      "fecha": "2022-01-27",
+      "duracionMin": 29,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/5wnsUBNKSbBkbV8EQK540j"
+      },
+      "original": null,
+      "verificacion": {
+        "estado": "verificado",
+        "fecha": "2026-11-06",
+        "http": "spotify"
+      },
+      "temas": [
+        "Orígenes",
+        "Fusión"
+      ]
+    },
+    {
+      "id": "de-las-raices-a-la-fusion-episodio-1",
+      "titulo": "Episodio 1",
+      "codigo": null,
+      "fecha": "2022-01-11",
+      "duracionMin": 25,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/2INyYtdlVJxCG1PAK63RD8"
+      },
+      "original": null,
+      "verificacion": {
+        "estado": "verificado",
+        "fecha": "2026-11-06",
+        "http": "spotify"
+      },
+      "temas": [
+        "Orígenes",
+        "Fusión"
+      ]
+    }
+  ]
+}

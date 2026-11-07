@@ -1,7 +1,7 @@
 // Genera el sitio estático en dist/. Sin dependencias: `node scripts/construir.mjs`.
 import fs from 'node:fs';
 import path from 'node:path';
-import { RAIZ, cargarGenero, cargarGeneros, cargarFuentes, validar, discosDe, tocoCon, musicosEnAmbas } from './datos.mjs';
+import { RAIZ, cargarGenero, cargarGeneros, cargarFuentes, validar, discosDe, tocoCon, musicosEnAmbas, episodiosDe } from './datos.mjs';
 
 const DIST = path.join(RAIZ, 'dist');
 const SITIO = 'Banco de música';
@@ -35,6 +35,7 @@ const URL = {
   region: id => `jazz/regiones/${id}/`,
   comparaciones: () => 'jazz/comparar/',
   comparacion: id => `jazz/comparar/${id}/`,
+  podcasts: () => 'jazz/podcasts/',
   marcas: () => 'mis-marcas/',
   acerca: () => 'acerca/',
 };
@@ -68,6 +69,37 @@ const NIVEL_ORDEN = ['musico', 'guia-critica', 'especialista', 'prensa', 'refere
 const NIVEL_TEXTO = { musico: 'Músicos', 'guia-critica': 'Guía crítica', especialista: 'Especialista', prensa: 'Prensa', referencia: 'Referencia' };
 const ACCESO_TEXTO = { completa: 'Texto leído', extracto: 'Solo extracto', indirecta: 'Citado por terceros' };
 const etiquetaRedescubrimiento = () => '<span class="etiqueta">Redescubrimiento</span>';
+
+const fechaCorta = f => (f ? new Date(`${f}T12:00:00Z`).toLocaleDateString('es-AR', { year: 'numeric', month: 'short', day: 'numeric', timeZone: 'UTC' }) : '');
+
+// El orden de prioridad lo pidió Yoana: Spotify exacto, búsqueda en Spotify y, si no está ahí, el link original.
+function accesoEpisodio(e) {
+  if (e.spotify.estado === 'verificado') return { url: e.spotify.url, texto: 'Escuchar en Spotify', estado: 'Link exacto verificado' };
+  if (e.spotify.estado === 'busqueda') return { url: `https://open.spotify.com/search/${encodeURIComponent(e.spotify.consulta)}/episodes`, texto: 'Buscar en Spotify', estado: 'Abre una búsqueda en Spotify' };
+  return { url: e.original, texto: 'Escuchar', estado: 'No confirmado en Spotify' };
+}
+
+function tarjetaEpisodio(e) {
+  const a = accesoEpisodio(e);
+  const mostrarOriginal = e.original && a.url !== e.original;
+  const verificado = e.verificacion.estado === 'verificado';
+  return `<li class="episodio" data-programa="${esc(e.programa.id)}" data-spotify="${e.spotify.estado}">
+    <span class="episodio-titulo">${esc(e.titulo)}</span>
+    <span class="episodio-meta">${esc(e.programa.nombre)}${e.codigo ? ` · ${esc(e.codigo)}` : ''}${e.fecha ? ` · ${esc(fechaCorta(e.fecha))}` : ''}${e.duracionMin ? ` · ${e.duracionMin} min` : ''}</span>
+    <span class="episodio-acciones"><a class="boton boton-chico" href="${esc(a.url)}" rel="noopener">${a.texto}</a>${mostrarOriginal ? ` <a href="${esc(e.original)}" rel="noopener">Link original</a>` : ''}</span>
+    <span class="episodio-estado ${verificado ? 'ok' : 'alerta'}">${a.estado}${verificado ? `. Comprobado el ${esc(e.verificacion.fecha)}` : '. El link no respondió en la última comprobación'}</span>
+  </li>`;
+}
+
+function bloquePodcasts(ctx, tipo, id, visibles = 4) {
+  const lista = episodiosDe(g, tipo, id);
+  if (!lista.length) return '';
+  const resto = lista.slice(visibles);
+  return `<section class="bloque podcasts-ficha"><h2>Para escuchar sobre esto</h2>
+    <ul class="episodios">${lista.slice(0, visibles).map(tarjetaEpisodio).join('')}</ul>
+    ${resto.length ? `<details class="mas-episodios"><summary>Ver ${resto.length} ${resto.length === 1 ? 'episodio más' : 'episodios más'}</summary><ul class="episodios">${resto.map(tarjetaEpisodio).join('')}</ul></details>` : ''}
+    <p class="ayuda"><a href="${ctx.a(URL.podcasts())}">Todos los podcasts</a></p></section>`;
+}
 
 function bloqueRespaldo(x) {
   const lista = [...(x.respaldo || [])].sort((a, b) => NIVEL_ORDEN.indexOf(fuentes[a.fuente].nivel) - NIVEL_ORDEN.indexOf(fuentes[b.fuente].nivel));
@@ -156,7 +188,7 @@ function notasFuentes(ctx, extra = []) {
 }
 
 function pagina(ruta, ctx, { titulo, descripcion, cuerpo, seccion, claseCuerpo = '', sinFuentes = false }) {
-  const nav = [['Corrientes', URL.corrientes(), 'corrientes'], ['Músicos', URL.musicos(), 'musicos'], ['Discos', URL.discos(), 'discos'], ['Regiones', URL.regiones(), 'regiones'], ['Comparar', URL.comparaciones(), 'comparar'], ['Mis marcas', URL.marcas(), 'marcas']];
+  const nav = [['Corrientes', URL.corrientes(), 'corrientes'], ['Músicos', URL.musicos(), 'musicos'], ['Discos', URL.discos(), 'discos'], ['Regiones', URL.regiones(), 'regiones'], ['Comparar', URL.comparaciones(), 'comparar'], ['Podcasts', URL.podcasts(), 'podcasts'], ['Mis marcas', URL.marcas(), 'marcas']];
   const html = `<!doctype html>
 <html lang="es-AR" data-raiz="${ctx.raiz}">
 <head>
@@ -234,6 +266,7 @@ const construir = {
       <section class="bloque portal"><h2>Por dónde seguir</h2><ul class="portal-lista">
         <li><a href="${ctx.a(URL.musicos())}"><strong>${g.musicos.length} músicos</strong>Su carrera por épocas, con un disco clave en cada una.</a></li>
         <li><a href="${ctx.a(URL.discos())}"><strong>${g.discos.length} discos</strong>Filtrá por corriente o tipo, y marcá lo que ya escuchaste.</a></li>
+        <li><a href="${ctx.a(URL.podcasts())}"><strong>${g.episodios.length} episodios</strong>Podcasts en español para escuchar sobre cada ficha.</a></li>
         <li><a href="${ctx.a(URL.regiones())}"><strong>Jazz del mundo</strong>Japón, Cuba y el Río de la Plata, como prueba. Hay ${g.regionesPlanificadas.length} regiones más planificadas.</a></li>
       </ul></section>`,
     });
@@ -279,7 +312,8 @@ const construir = {
       ${discos.some(d => d.redescubrimiento) ? `<section class="bloque"><h2>Para ir más allá</h2><p class="ayuda">Discos poco conocidos que varias fuentes reivindican.</p><ul class="lista-discos">${discos.filter(d => d.redescubrimiento).map(d => filaDisco(ctx, d)).join('')}</ul></section>` : ''}
       <section class="bloque"><h2>Músicos</h2><ul class="lista-musicos">${c.musicos.map(id => tarjetaMusico(ctx, id)).join('')}</ul>
         ${c.musicosPendientes.length ? `<p class="pendientes"><strong>Fichas por escribir:</strong> ${esc(c.musicosPendientes.join(', '))}.</p>` : ''}</section>
-      <section class="bloque"><h2>Todos los discos de esta corriente · ${discos.length}</h2><ul class="lista-discos">${discos.map(d => filaDisco(ctx, d)).join('')}</ul></section>`,
+      <section class="bloque"><h2>Todos los discos de esta corriente · ${discos.length}</h2><ul class="lista-discos">${discos.map(d => filaDisco(ctx, d)).join('')}</ul></section>
+      ${bloquePodcasts(ctx, 'corriente', c.id)}`,
     });
   },
 
@@ -332,6 +366,7 @@ const construir = {
         }).join('')}
       </section>
       <div class="bloque">${bloqueRespaldo(m)}</div>
+      ${bloquePodcasts(ctx, 'musico', m.id)}
       ${otros.length ? `<section class="bloque"><h2>También toca en</h2><ul class="lista-discos">${otros.map(d => filaDisco(ctx, d)).join('')}</ul></section>` : ''}
       ${socios.length ? `<section class="bloque"><h2>Tocó con</h2><p class="ayuda">Sale de los discos cargados, no de toda su carrera.</p><ul class="socios">${socios.map(s => `<li>${enlaceMusico(ctx, s.id)} <span>${s.n} ${s.n === 1 ? 'disco' : 'discos'}</span></li>`).join('')}</ul></section>` : ''}`,
     });
@@ -411,6 +446,7 @@ const construir = {
           </dl></section>
         </aside>
       </div>
+      ${bloquePodcasts(ctx, 'disco', d.id)}
       <section class="fuentes" aria-labelledby="titulo-fuentes"><h2 id="titulo-fuentes">Fuentes de este disco</h2>
         <p>${enlacesFuente.map(([t, u]) => `<a href="${esc(u)}" rel="noopener">${t}</a>`).join(' · ')}</p>
         ${d.discrepancias.length ? `<h3>Dónde no coinciden las fuentes</h3><ul>${d.discrepancias.map(x => `<li>${ctx.texto(x.texto)}</li>`).join('')}</ul>` : ''}
@@ -444,7 +480,8 @@ const construir = {
       <section class="bloque"><h2>Escena actual</h2><p class="ayuda">Músicos activos hoy, con su última actividad que pudimos documentar.</p><ul class="escena">${r.escenaActual.map(e => `<li><div class="escena-cabeza"><strong>${esc(e.nombre)}</strong><span>${esc(e.instrumento)}${e.base ? ` · ${esc(e.base)}` : ''}</span></div><p>${ctx.texto(e.detalle)}</p><p class="respaldo-fuente">Última actividad documentada: ${e.ultimaActividad}. Fuentes: ${e.fuentes.map(f => `<a href="${esc(fuentes[f].url)}" rel="noopener">${esc(fuentes[f].titulo)}</a>`).join(' · ')}</p></li>`).join('')}</ul></section>
       <section class="bloque"><h2>Pioneros</h2>${r.musicos.length ? `<ul class="lista-musicos">${r.musicos.map(id => tarjetaMusico(ctx, id)).join('')}</ul>` : ''}
       ${r.figurasPendientes.length ? `<p class="pendientes"><strong>Fichas por escribir:</strong> ${esc(r.figurasPendientes.join(', '))}.</p>` : ''}</section>
-      ${discos.length ? `<section class="bloque"><h2>Discos</h2><ul class="lista-discos">${discos.map(d => filaDisco(ctx, d)).join('')}</ul></section>` : ''}`,
+      ${discos.length ? `<section class="bloque"><h2>Discos</h2><ul class="lista-discos">${discos.map(d => filaDisco(ctx, d)).join('')}</ul></section>` : ''}
+      ${bloquePodcasts(ctx, 'region', r.id)}`,
     });
   },
 
@@ -487,6 +524,28 @@ const construir = {
     });
   },
 
+  podcasts() {
+    const ruta = URL.podcasts();
+    const ctx = nuevoContexto(ruta);
+    const orden = [...g.podcasts].sort((a, b) => b.episodios.length - a.episodios.length);
+    const total = g.episodios.length;
+    const exactos = g.episodios.filter(e => e.spotify.estado === 'verificado').length;
+    const verificados = g.episodios.filter(e => e.verificacion.estado === 'verificado').length;
+    pagina(ruta, ctx, {
+      titulo: 'Podcasts', descripcion: 'Podcasts y episodios de jazz, sobre todo en español, conectados con cada ficha.', seccion: 'podcasts', sinFuentes: true,
+      cuerpo: `<header class="encabezado"><h1>Podcasts</h1><p>${total} episodios de ${orden.length} programas. ${exactos} tienen el link exacto de Spotify. Los demás abren una búsqueda en Spotify o el link original. Comprobamos que ${verificados} de los ${total} links funcionan.</p></header>
+      <section class="bloque"><h2>Programas</h2><ul class="programas">${orden.map(p => `<li><strong>${esc(p.nombre)}</strong><span class="episodio-meta">${p.episodios.length} episodios${p.conductor ? ` · ${esc(p.conductor)}` : ''}${p.idioma === 'es' ? ' · en español' : ''}</span><p>${esc(p.descripcion)}</p><p class="episodio-acciones">${p.spotify ? `<a class="boton boton-chico" href="${esc(p.spotify)}" rel="noopener">Abrir en Spotify</a>` : ''}${p.web ? ` <a href="${esc(p.web)}" rel="noopener">Sitio del programa</a>` : ''}</p></li>`).join('')}</ul></section>
+      <section class="bloque"><h2>Episodios</h2>
+        <form class="filtros" data-filtros-episodios aria-label="Filtrar episodios">
+          <label>Programa <select name="programa"><option value="">Todos</option>${orden.map(p => `<option value="${esc(p.id)}">${esc(p.nombre)}</option>`).join('')}</select></label>
+          <label>Spotify <select name="spotify"><option value="">Todos</option><option value="verificado">Link exacto</option></select></label>
+          <output class="filtros-cuenta" aria-live="polite" data-cuenta-episodios></output>
+        </form>
+        <ul class="episodios" data-lista-episodios>${[...g.episodios].sort((a, b) => String(b.fecha).localeCompare(String(a.fecha))).map(tarjetaEpisodio).join('')}</ul>
+      </section>`,
+    });
+  },
+
   marcas() {
     const ruta = URL.marcas();
     const ctx = nuevoContexto(ruta);
@@ -519,13 +578,15 @@ const construir = {
         <p>Los años, sellos y músicos se cotejan con MusicBrainz, Discogs y Wikipedia. Estas fuentes a veces no coinciden, sobre todo en los años: muchos discos de los 50 salieron primero en 10 pulgadas y después en 12. Cuando pasa, la ficha lo dice y explica qué fecha usamos.</p>
         <p>Cada disco guarda por separado cuándo se grabó y cuándo se editó, porque en el bebop la diferencia puede ser de una década.</p>
         <h2>Con qué vara se elige</h2>
-        <p>Cada disco y cada músico necesita al menos dos fuentes. Primero buscamos la opinión de otros músicos, después guías críticas y especialistas regionales. Cada ficha aclara si leímos el texto completo, si solo vimos un extracto o si la opinión llega citada por otra fuente: por ejemplo, la <cite>Penguin Guide</cite> aparece citada en Wikipedia.</p>
+        <p>Cada disco y cada músico necesita al menos dos fuentes. Primero buscamos la opinión de otros músicos, como el blog de Ethan Iverson y los Blindfold Test de DownBeat; después críticos, como el Substack de Ted Gioia, y especialistas regionales. Cada ficha aclara si leímos el texto completo, si solo vimos un extracto o si la opinión llega citada por otra fuente: por ejemplo, la <cite>Penguin Guide</cite> aparece citada en Wikipedia.</p>
         <p>La etiqueta <em>Redescubrimiento</em> marca discos o músicos poco conocidos que esas fuentes reivindican, y siempre explica el motivo. Cada región incluye sellos y lugares locales, y también músicos activos hoy, con el año de su última actividad que pudimos documentar.</p>
         <h2>Los textos</h2>
         <p>Son propios y están en borrador. Cada afirmación importante enlaza a la fuente que la respalda. Solo citamos lo que efectivamente consultamos.</p>
         <p><cite>The History of Jazz</cite>, de Ted Gioia, es la referencia principal del proyecto, pero todavía no se cotejó con estos textos. Por eso no aparece citado.</p>
         <h2>Spotify</h2>
         <p>${verificados} de ${g.discos.length} discos tienen un link directo confirmado: comprobamos que el álbum existe y que el título coincide. Puede ser una reedición o una versión ampliada. Los demás abren una búsqueda en Spotify.</p>
+        <h2>Podcasts</h2>
+        <p>Cada episodio indica si tiene el link exacto de Spotify, si abre una búsqueda o si solo está en otra plataforma. La comprobación confirma que el link responde, no el contenido de cada episodio.</p>
         <h2>Tus marcas</h2>
         <p>Lo que marcás se guarda solo en tu navegador: el sitio no tiene cuentas ni recibe esa información.</p>
       </div>`,
@@ -547,6 +608,8 @@ function indiceDeBusqueda() {
     ...g.regiones.map(r => item('Región', r.nombre, r.resumen, URL.region(r.id))),
     ...g.regiones.flatMap(r => r.escenaActual.map(e => item('Escena actual', e.nombre, `${e.instrumento} · ${r.nombre}`, URL.region(r.id)))),
     ...g.comparaciones.map(x => item('Comparación', x.titulo, 'Dos corrientes frente a frente', URL.comparacion(x.id))),
+    ...g.podcasts.map(p => item('Podcast', p.nombre, p.descripcion, URL.podcasts())),
+    ...g.episodios.map(e => item('Episodio', e.titulo, e.programa.nombre, URL.podcasts(), e.temas.join(' '))),
   ];
 }
 
@@ -569,8 +632,9 @@ construir.regiones();
 g.regiones.forEach(construir.region);
 construir.comparaciones();
 g.comparaciones.forEach(construir.comparacion);
+construir.podcasts();
 construir.marcas();
 construir.acerca();
 
-const total = 9 + g.corrientes.length + g.musicos.length + g.discos.length + g.regiones.length + g.comparaciones.length;
+const total = 10 + g.corrientes.length + g.musicos.length + g.discos.length + g.regiones.length + g.comparaciones.length;
 console.log(`Listo: ${total} páginas en dist/.`);

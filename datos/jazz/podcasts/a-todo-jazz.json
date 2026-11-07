@@ -1,0 +1,148 @@
+{
+  "id": "a-todo-jazz",
+  "nombre": "A todo jazz",
+  "conductor": "La batuta",
+  "descripcion": "Un espacio para hablar de jazz y de sus orígenes.",
+  "idioma": "es",
+  "web": null,
+  "rss": null,
+  "spotify": "https://open.spotify.com/show/5iDBIsZVG6iTLD3U4R26GY",
+  "episodios": [
+    {
+      "id": "charly-parker",
+      "titulo": "CHARLY PARKER",
+      "codigo": null,
+      "fecha": "2022-10-19",
+      "duracionMin": 17,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/4nYRfIvS4UnbJGb16SRH5M"
+      },
+      "original": null,
+      "verificacion": {
+        "estado": "verificado",
+        "fecha": "2026-11-06",
+        "http": "spotify"
+      },
+      "temas": []
+    },
+    {
+      "id": "a-todo-jazz-jaco-pastorius",
+      "titulo": "A TODO JAZZ JACO PASTORIUS",
+      "codigo": null,
+      "fecha": "2022-10-11",
+      "duracionMin": 28,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/1gk3tUpEEOcytandHRwW0X"
+      },
+      "original": null,
+      "verificacion": {
+        "estado": "verificado",
+        "fecha": "2026-11-06",
+        "http": "spotify"
+      },
+      "temas": [
+        "Jaco Pastorius",
+        "Fusión"
+      ]
+    },
+    {
+      "id": "5to-capitulo-fulano-banda-chilena-de-jazz-fusion",
+      "titulo": "5to Capitulo FULANO BANDA CHILENA DE \"JAZZ FUSIÓN\"",
+      "codigo": null,
+      "fecha": "2022-06-22",
+      "duracionMin": 32,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/2Kg1Z65e7QHLFnzlgpFh9d"
+      },
+      "original": null,
+      "verificacion": {
+        "estado": "verificado",
+        "fecha": "2026-11-06",
+        "http": "spotify"
+      },
+      "temas": [
+        "Fusión"
+      ]
+    },
+    {
+      "id": "4to-capitulo-john-mclaughlin-the-4th-dimension-the-boston-re",
+      "titulo": "4to capitulo John McLaughlin & The 4th Dimension - The Boston Record (2014)",
+      "codigo": null,
+      "fecha": "2022-06-14",
+      "duracionMin": 11,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/5Rh830D8f2Bo6p4SJmRIu8"
+      },
+      "original": null,
+      "verificacion": {
+        "estado": "verificado",
+        "fecha": "2026-11-06",
+        "http": "spotify"
+      },
+      "temas": [
+        "John McLaughlin",
+        "Fusión"
+      ]
+    },
+    {
+      "id": "jean-luc-ponty-cosmic-messenger",
+      "titulo": "Jean Luc Ponty \"Cosmic Messenger\"",
+      "codigo": null,
+      "fecha": "2022-06-13",
+      "duracionMin": 13,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/3dvj95ChtXB1KKoDIPUAoR"
+      },
+      "original": null,
+      "verificacion": {
+        "estado": "verificado",
+        "fecha": "2026-11-06",
+        "http": "spotify"
+      },
+      "temas": [
+        "Fusión"
+      ]
+    },
+    {
+      "id": "segundo-capitulo-jethro-tull",
+      "titulo": "Segundo capitulo Jethro Tull",
+      "codigo": null,
+      "fecha": "2022-06-05",
+      "duracionMin": 20,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/26daGrMK7fGQap6MW3VoPC"
+      },
+      "original": null,
+      "verificacion": {
+        "estado": "verificado",
+        "fecha": "2026-11-06",
+        "http": "spotify"
+      },
+      "temas": []
+    },
+    {
+      "id": "a-todo-jazz-cap-1",
+      "titulo": "A todo jazz cap 1",
+      "codigo": null,
+      "fecha": "2022-06-03",
+      "duracionMin": 18,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/0sYiR3uJmqkxmX0AuSR8tE"
+      },
+      "original": null,
+      "verificacion": {
+        "estado": "verificado",
+        "fecha": "2026-11-06",
+        "http": "spotify"
+      },
+      "temas": []
+    }
+  ]
+}

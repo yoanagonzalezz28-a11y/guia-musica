@@ -1,0 +1,342 @@
+{
+  "id": "un-poco-de-jazz",
+  "nombre": "Un poco de jazz",
+  "conductor": "Fabricio González Neira (Rialta)",
+  "descripcion": "Un podcast dedicado al jazz que incluye músicos de Canadá, Europa, Asia, África y América Latina, no solo de Estados Unidos.",
+  "idioma": "es",
+  "web": null,
+  "rss": "https://feeds.ivoox.com/feed_fg_f11062796_filtro_1.xml",
+  "spotify": null,
+  "episodios": [
+    {
+      "id": "los-mejores-discos-de-jazz-de-2023-una-muestra-insignificant",
+      "titulo": "Los mejores discos de jazz de 2023: una muestra insignificante (parte 3)",
+      "codigo": null,
+      "fecha": "2024-04-02",
+      "duracionMin": 96,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/mejores-discos-jazz-2023-una-audios-mp3_rf_126900283_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Jazz de hoy"
+      ]
+    },
+    {
+      "id": "los-mejores-discos-de-jazz-de-2023-una-muestra-insignificant-2",
+      "titulo": "Los mejores discos de jazz de 2023: una muestra insignificante (parte 2)",
+      "codigo": null,
+      "fecha": "2024-03-05",
+      "duracionMin": 92,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/mejores-discos-jazz-2023-una-audios-mp3_rf_125376433_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Jazz de hoy"
+      ]
+    },
+    {
+      "id": "los-mejores-discos-de-jazz-de-2023-una-muestra-insignificant-2-2",
+      "titulo": "Los mejores discos de jazz de 2023: una muestra insignificante (parte 1)",
+      "codigo": null,
+      "fecha": "2024-02-09",
+      "duracionMin": 80,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/mejores-discos-jazz-2023-una-audios-mp3_rf_124035240_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Jazz de hoy"
+      ]
+    },
+    {
+      "id": "los-mejores-discos-de-jazz-de-2022-una-muestra-insignificant",
+      "titulo": "Los mejores discos de jazz de 2022: una muestra insignificante (parte 2)",
+      "codigo": null,
+      "fecha": "2023-03-07",
+      "duracionMin": 114,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/mejores-discos-jazz-2022-una-audios-mp3_rf_104180721_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Jazz de hoy"
+      ]
+    },
+    {
+      "id": "los-mejores-discos-de-jazz-de-2022-una-muestra-insignificant-2",
+      "titulo": "Los mejores discos de jazz de 2022: una muestra insignificante (parte 1)",
+      "codigo": null,
+      "fecha": "2023-02-07",
+      "duracionMin": 117,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/mejores-discos-jazz-2022-una-audios-mp3_rf_102738033_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Jazz de hoy"
+      ]
+    },
+    {
+      "id": "eso-es-retro-no-vintage-la-moda-del-neoswing-de-los-90",
+      "titulo": "¡Eso es retro, no vintage!: la moda del neoswing de los 90",
+      "codigo": null,
+      "fecha": "2023-01-03",
+      "duracionMin": 71,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/eso-es-retro-no-vintage-moda-del-audios-mp3_rf_100854008_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Swing"
+      ]
+    },
+    {
+      "id": "jazz-en-japon-tres-instantaneas-parte-3",
+      "titulo": "Jazz en Japón: tres instantáneas (parte 3)",
+      "codigo": null,
+      "fecha": "2022-10-04",
+      "duracionMin": 93,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-japon-tres-instantaneas-parte-3-audios-mp3_rf_93355855_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Japón"
+      ]
+    },
+    {
+      "id": "jazz-en-japon-tres-instantaneas-parte-2",
+      "titulo": "Jazz en Japón: tres instantáneas (parte 2)",
+      "codigo": null,
+      "fecha": "2022-09-06",
+      "duracionMin": 81,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-japon-tres-instantaneas-parte-2-audios-mp3_rf_92032802_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Japón"
+      ]
+    },
+    {
+      "id": "jazz-en-japon-tres-instantaneas-parte-1",
+      "titulo": "Jazz en Japón: tres instantáneas (parte 1)",
+      "codigo": null,
+      "fecha": "2022-08-02",
+      "duracionMin": 73,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-japon-tres-instantaneas-parte-1-audios-mp3_rf_90562283_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Japón"
+      ]
+    },
+    {
+      "id": "trios-de-organo-de-ayer-y-hoy-parte-2",
+      "titulo": "Tríos de órgano de ayer y hoy (parte 2)",
+      "codigo": null,
+      "fecha": "2022-06-07",
+      "duracionMin": 74,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/episodio-9-trios-organo-ayer-y-audios-mp3_rf_88126707_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Soul jazz"
+      ]
+    },
+    {
+      "id": "trios-de-organo-de-ayer-y-hoy-parte-1",
+      "titulo": "Tríos de órgano de ayer y hoy (parte 1)",
+      "codigo": null,
+      "fecha": "2022-05-03",
+      "duracionMin": 59,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/episodio-8-trios-organo-ayer-y-audios-mp3_rf_86573343_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Soul jazz"
+      ]
+    },
+    {
+      "id": "soul-jazz-desde-down-under",
+      "titulo": "Soul jazz desde Down Under",
+      "codigo": null,
+      "fecha": "2022-04-05",
+      "duracionMin": 70,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/episodio-7-soul-jazz-desde-down-under-audios-mp3_rf_85157620_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Soul jazz"
+      ]
+    },
+    {
+      "id": "los-mejores-discos-de-jazz-de-2021-una-muestra-insignificant",
+      "titulo": "Los mejores discos de jazz de 2021: una muestra insignificante (parte 2)",
+      "codigo": null,
+      "fecha": "2022-03-01",
+      "duracionMin": 72,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/episodio-6-los-mejores-discos-jazz-de-audios-mp3_rf_82933129_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Jazz de hoy"
+      ]
+    },
+    {
+      "id": "los-mejores-discos-de-jazz-de-2021-una-muestra-insignificant-2",
+      "titulo": "Los mejores discos de jazz de 2021: una muestra insignificante (parte 1)",
+      "codigo": null,
+      "fecha": "2022-02-01",
+      "duracionMin": 75,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/episodio-5-los-mejores-discos-jazz-de-audios-mp3_rf_81655243_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Jazz de hoy"
+      ]
+    },
+    {
+      "id": "the-tatum-group-masterpieces-seleccion",
+      "titulo": "The Tatum Group Masterpieces (selección)",
+      "codigo": null,
+      "fecha": "2020-10-29",
+      "duracionMin": 73,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/episodio-3-the-tatum-group-masterpieces-seleccion-audios-mp3_rf_58802333_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Art Tatum"
+      ]
+    },
+    {
+      "id": "mixtape-side-b-ella-fitzgerald-count-basie-john-coltrane-art",
+      "titulo": "Mixtape side B: Ella Fitzgerald, Count Basie, John Coltrane, Art Tatum y otros",
+      "codigo": null,
+      "fecha": "2020-10-15",
+      "duracionMin": 62,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/episodio-2-mixtape-side-b-ella-fitzgerald-count-audios-mp3_rf_58004483_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Count Basie",
+        "Ella Fitzgerald",
+        "John Coltrane",
+        "Art Tatum",
+        "Alice Coltrane"
+      ]
+    },
+    {
+      "id": "mixtape-miles-davis-quintet-thelonious-monk-sarah-vaughan-bi",
+      "titulo": "Mixtape: Miles Davis Quintet, Thelonious Monk, Sarah Vaughan, Bill Evans y otros",
+      "codigo": null,
+      "fecha": "2020-10-01",
+      "duracionMin": 59,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/episodio-1-mixtape-miles-davis-quintet-thelonious-monk-audios-mp3_rf_57338765_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Thelonious Monk",
+        "Miles Davis",
+        "Bill Evans",
+        "Sarah Vaughan"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "id": "rutas-del-jazz",
+  "nombre": "Las Rutas del Jazz",
+  "conductor": "Marcelo Bettoni",
+  "descripcion": "Se basa en artículos del autor. El programa aclara que las voces y el desarrollo de los temas se hacen con inteligencia artificial.",
+  "idioma": "es",
+  "web": null,
+  "rss": null,
+  "spotify": "https://open.spotify.com/show/3Tsn9gObIINxI0N0EYVs9u",
+  "episodios": [
+    {
+      "id": "episodio-61-kind-of-blue-el-album-que-abrio-un-nuevo-camino-",
+      "titulo": "Episodio 61. Kind of Blue: el álbum que abrió un nuevo camino para la libertad en el jazz",
+      "codigo": null,
+      "fecha": "2026-07-26",
+      "duracionMin": 17,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/2zU1h4khSt5y6NGKzQONk1"
+      },
+      "original": null,
+      "verificacion": {
+        "estado": "verificado",
+        "fecha": "2026-11-06",
+        "http": "spotify"
+      },
+      "temas": [
+        "Kind of Blue",
+        "Jazz modal"
+      ]
+    },
+    {
+      "id": "episodio-60-cuando-el-jazz-aprendio-a-grabarse-polifonia-blu",
+      "titulo": "Episodio 60 . Cuando el jazz aprendió a grabarse: polifonía, blues y raíces afrocaribeñas en “Livery Stable Blues”",
+      "codigo": null,
+      "fecha": "2026-05-10",
+      "duracionMin": 18,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/76qLDgyS4V5LCMVqxRclqu"
+      },
+      "original": null,
+      "verificacion": {
+        "estado": "verificado",
+        "fecha": "2026-11-06",
+        "http": "spotify"
+      },
+      "temas": [
+        "Livery Stable Blues",
+        "Orígenes"
+      ]
+    },
+    {
+      "id": "episodio-59-el-espacio-fisico-como-instrumento-de-jazz",
+      "titulo": "Episodio 59. El espacio físico como instrumento de jazz",
+      "codigo": null,
+      "fecha": "2026-03-24",
+      "duracionMin": 21,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/4Xj76QxS68lq3UE9TSrxY0"
+      },
+      "original": null,
+      "verificacion": {
+        "estado": "verificado",
+        "fecha": "2026-11-06",
+        "http": "spotify"
+      },
+      "temas": []
+    },
+    {
+      "id": "episodio-58-coltrane-ampliando-su-lenguaje-musical",
+      "titulo": "Episodio 58-Coltrane ampliando su lenguaje musical.",
+      "codigo": null,
+      "fecha": "2026-03-15",
+      "duracionMin": 23,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/5znLyjHH293rQqTSgeUGBv"
+      },
+      "original": null,
+      "verificacion": {
+        "estado": "verificado",
+        "fecha": "2026-11-06",
+        "http": "spotify"
+      },
+      "temas": [
+        "Alice Coltrane"
+      ]
+    },
+    {
+      "id": "episodio-57-el-nombre-imposible-etimologias-mitos-y-derivas-",
+      "titulo": "Episodio 57. El nombre imposible: etimologías, mitos y derivas del término jazz",
+      "codigo": null,
+      "fecha": "2026-02-11",
+      "duracionMin": 15,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/32yE8mtzexNaaEsA4h8J4z"
+      },
+      "original": null,
+      "verificacion": {
+        "estado": "verificado",
+        "fecha": "2026-11-06",
+        "http": "spotify"
+      },
+      "temas": [
+        "Orígenes"
+      ]
+    },
+    {
+      "id": "episodio-56-black-artists-group-y-el-world-saxophone-quartet",
+      "titulo": "Episodio 56 Black Artists Group y el World Saxophone Quartet: colectividad y resistencia sonora",
+      "codigo": null,
+      "fecha": "2026-01-30",
+      "duracionMin": 14,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/6cGNcdfnR87BIxT3oa1ERW"
+      },
+      "original": null,
+      "verificacion": {
+        "estado": "verificado",
+        "fecha": "2026-11-06",
+        "http": "spotify"
+      },
+      "temas": [
+        "Modern Jazz Quartet",
+        "Free jazz"
+      ]
+    },
+    {
+      "id": "episodio-55-musica-comunidad-y-sentido-claves-africanas-para",
+      "titulo": "Episodio 55 -Música, comunidad y sentido: claves africanas para pensar el jazz",
+      "codigo": null,
+      "fecha": "2026-01-18",
+      "duracionMin": 15,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/4bFL0tI5JgJmJFMVNnCf0e"
+      },
+      "original": null,
+      "verificacion": {
+        "estado": "verificado",
+        "fecha": "2026-11-06",
+        "http": "spotify"
+      },
+      "temas": [
+        "Orígenes"
+      ]
+    },
+    {
+      "id": "episodio-54-el-canto-congregacional-como-practica-sonora-y-e",
+      "titulo": "Episodio 54. El canto congregacional como práctica sonora y espacio de disputa cultural4-",
+      "codigo": null,
+      "fecha": "2026-01-04",
+      "duracionMin": 6,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/25JzCjvL4XUZY4NDe57F7U"
+      },
+      "original": null,
+      "verificacion": {
+        "estado": "verificado",
+        "fecha": "2026-11-06",
+        "http": "spotify"
+      },
+      "temas": [
+        "Orígenes"
+      ]
+    },
+    {
+      "id": "episodio-53-cuando-bailar-era-un-acto-politico-los-creoles-e",
+      "titulo": "Episodio 53-Cuando bailar era un acto político: los creoles, el cuerpo y la música en la Nueva Orleans colonial",
+      "codigo": null,
+      "fecha": "2025-12-28",
+      "duracionMin": 7,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/0Gd5p8tCfVxmBIxs05qDSQ"
+      },
+      "original": null,
+      "verificacion": {
+        "estado": "verificado",
+        "fecha": "2026-11-06",
+        "http": "spotify"
+      },
+      "temas": [
+        "Orígenes",
+        "Swing"
+      ]
+    },
+    {
+      "id": "episodio52-entre-el-salon-y-el-cabaret-mujeres-moral-victori",
+      "titulo": "Episodio52.Entre el salón y el cabaret: mujeres, moral victoriana e instrumentos en los orígenes del jazz",
+      "codigo": null,
+      "fecha": "2025-12-14",
+      "duracionMin": 6,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/3V5rlrbO363sJDPe5Rt2Qy"
+      },
+      "original": null,
+      "verificacion": {
+        "estado": "verificado",
+        "fecha": "2026-11-06",
+        "http": "spotify"
+      },
+      "temas": [
+        "Orígenes"
+      ]
+    },
+    {
+      "id": "episodio-51-john-corbett-y-la-improvisacion-libre-escuchar-m",
+      "titulo": "Episodio 51-John Corbett y la Improvisación Libre: Escuchar Más Allá del Habla Musical",
+      "codigo": null,
+      "fecha": "2025-11-30",
+      "duracionMin": 5,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/5QefWyeXqwoPoYxzXw9p2O"
+      },
+      "original": null,
+      "verificacion": {
+        "estado": "verificado",
+        "fecha": "2026-11-06",
+        "http": "spotify"
+      },
+      "temas": [
+        "Free jazz"
+      ]
+    },
+    {
+      "id": "episodio-50-codona-tres-mundos-un-solo-lenguaje-musical",
+      "titulo": "Episodio 50. CODONA: Tres Mundos, Un Solo Lenguaje Musical",
+      "codigo": null,
+      "fecha": "2025-11-20",
+      "duracionMin": 7,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/6gl7iDG4e1VDo8nIgurPPo"
+      },
+      "original": null,
+      "verificacion": {
+        "estado": "verificado",
+        "fecha": "2026-11-06",
+        "http": "spotify"
+      },
+      "temas": [
+        "Jazz del mundo"
+      ]
+    }
+  ]
+}

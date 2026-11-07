@@ -32,4 +32,15 @@ for (const r of g.regiones) {
     console.log(`  ${r.nombre}: ${e.nombre}, ${e.ultimaActividad}${aviso}`);
   }
 }
+const eps = g.episodios;
+const pendientes = new Map();
+eps.forEach(e => e.temasSinFicha.forEach(t => pendientes.set(t, (pendientes.get(t) || 0) + 1)));
+console.log(`\nPodcasts: ${g.podcasts.length} programas y ${eps.length} episodios.`);
+console.log(`  Spotify exacto: ${eps.filter(e => e.spotify.estado === 'verificado').length}. Búsqueda: ${eps.filter(e => e.spotify.estado === 'busqueda').length}. Sin confirmar: ${eps.filter(e => e.spotify.estado === 'sin-confirmar').length}.`);
+console.log(`  Links verificados: ${eps.filter(e => e.verificacion.estado === 'verificado').length}.`);
+console.log(`  Conectados a alguna ficha: ${eps.filter(e => Object.values(e.refs).some(r => r.length)).length}.`);
+const corrientesSin = g.corrientes.filter(c => !eps.some(e => e.refs.corriente.includes(c.id))).map(c => c.nombre);
+const regionesSin = g.regiones.filter(r => !eps.some(e => e.refs.region.includes(r.id))).map(r => r.nombre);
+console.log(`  Corrientes sin episodios: ${corrientesSin.join(', ') || 'ninguna'}.`);
+console.log(`  Regiones sin episodios: ${regionesSin.join(', ') || 'ninguna'}.`);
 console.log('\nGioia: cotejo pendiente en todas las fichas.');

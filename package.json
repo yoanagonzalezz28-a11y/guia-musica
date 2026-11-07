@@ -9,6 +9,7 @@
     "servir": "node scripts/construir.mjs && node scripts/servir.mjs",
     "servir:pages": "node scripts/construir.mjs && node scripts/servir.mjs --base /guia-musica/",
     "verificar": "node scripts/verificar-fuentes.mjs",
-    "auditar": "node scripts/auditar.mjs"
+    "auditar": "node scripts/auditar.mjs",
+    "verificar:podcasts": "node scripts/verificar-podcasts.mjs"
   }
 }

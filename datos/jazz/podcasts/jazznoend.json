@@ -1,0 +1,1686 @@
+{
+  "id": "jazznoend",
+  "nombre": "Radio Jazznoend",
+  "conductor": null,
+  "descripcion": "Un programa mensual con grandes figuras, sellos y escenas, y mucha música brasileña.",
+  "idioma": "es",
+  "web": null,
+  "rss": "https://feeds.ivoox.com/feed_fg_f1136231_filtro_1.xml",
+  "spotify": null,
+  "episodios": [
+    {
+      "id": "elis-regina-essa-mulher",
+      "titulo": "Elis Regina: Essa Mulher",
+      "codigo": null,
+      "fecha": "2026-09-04",
+      "duracionMin": 78,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/elis-regina-essa-mulher-audios-mp3_rf_180037055_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Elis Regina",
+        "Brasil"
+      ]
+    },
+    {
+      "id": "sonny-rollins-el-hombre-de-williamsburg-bridge",
+      "titulo": "Sonny Rollins: El Hombre de Williamsburg Bridge",
+      "codigo": null,
+      "fecha": "2026-06-23",
+      "duracionMin": 96,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/sonny-rollins-el-hombre-williamsburg-bridge-audios-mp3_rf_176114615_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Sonny Rollins"
+      ]
+    },
+    {
+      "id": "holdsworth-beck-la-armonia-secreta",
+      "titulo": "Holdsworth & Beck: La armonía secreta",
+      "codigo": null,
+      "fecha": "2026-05-21",
+      "duracionMin": 90,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/holdsworth-beck-la-armonia-secreta-audios-mp3_rf_174147172_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Allan Holdsworth",
+        "Fusión"
+      ]
+    },
+    {
+      "id": "oscar-peterson-solo-para-mis-amigos",
+      "titulo": "Oscar Peterson: Solo para mis amigos",
+      "codigo": null,
+      "fecha": "2026-04-05",
+      "duracionMin": 67,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/oscar-peterson-solo-para-mis-amigos-audios-mp3_rf_171359383_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Oscar Peterson"
+      ]
+    },
+    {
+      "id": "guitarras-de-brasil",
+      "titulo": "Guitarras de Brasil",
+      "codigo": null,
+      "fecha": "2026-03-01",
+      "duracionMin": 74,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/guitarras-brasil-audios-mp3_rf_169295907_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Brasil"
+      ]
+    },
+    {
+      "id": "astrud-gilberto-la-sensualidad-de-la-bossa-nova",
+      "titulo": "Astrud Gilberto: La sensualidad de la Bossa Nova",
+      "codigo": null,
+      "fecha": "2025-11-08",
+      "duracionMin": 66,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/astrud-gilberto-la-sensualidad-bossa-nova-audios-mp3_rf_162203088_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Astrud Gilberto",
+        "Brasil"
+      ]
+    },
+    {
+      "id": "jazz-impressions-of-japan",
+      "titulo": "Jazz Impressions of Japan",
+      "codigo": null,
+      "fecha": "2025-10-01",
+      "duracionMin": 81,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-impressions-of-japan-audios-mp3_rf_159940197_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Japón"
+      ]
+    },
+    {
+      "id": "love-for-chet-el-legado-de-chet-baker",
+      "titulo": "Love for Chet: El legado de Chet Baker",
+      "codigo": null,
+      "fecha": "2025-08-29",
+      "duracionMin": 84,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/love-for-chet-el-legado-chet-baker-audios-mp3_rf_156525266_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Chet Baker"
+      ]
+    },
+    {
+      "id": "pat-metheny-lyle-mays-fabricantes-de-suenos",
+      "titulo": "Pat Metheny & Lyle Mays: Fabricantes de Sueños",
+      "codigo": null,
+      "fecha": "2025-07-31",
+      "duracionMin": 104,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/pat-metheny-lyle-mays-fabricantes-suenos-audios-mp3_rf_154315280_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Pat Metheny"
+      ]
+    },
+    {
+      "id": "herbie-hancock-wayne-shorter-recuerdos-del-embrujo",
+      "titulo": "Herbie Hancock & Wayne Shorter: Recuerdos del embrujo",
+      "codigo": null,
+      "fecha": "2025-06-28",
+      "duracionMin": 110,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/herbie-hancock-wayne-shorter-recuerdos-del-embrujo-audios-mp3_rf_151281441_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Wayne Shorter",
+        "Herbie Hancock"
+      ]
+    },
+    {
+      "id": "lo-borges-la-leyenda-del-disco-do-tenis",
+      "titulo": "Lô Borges: La leyenda del \"disco do tênis\"",
+      "codigo": null,
+      "fecha": "2025-03-13",
+      "duracionMin": 53,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/lo-borges-la-leyenda-del-disco-do-tenis-audios-mp3_rf_141602780_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Lô Borges",
+        "Brasil"
+      ]
+    },
+    {
+      "id": "bill-evans-en-la-era-del-fender-rhodes",
+      "titulo": "Bill Evans en la era del Fender Rhodes",
+      "codigo": null,
+      "fecha": "2024-12-02",
+      "duracionMin": 68,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/bill-evans-era-del-fender-rhodes-audios-mp3_rf_136495417_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Bill Evans"
+      ]
+    },
+    {
+      "id": "la-musica-libre-de-hermeto-pascoal",
+      "titulo": "La música libre de Hermeto Pascoal",
+      "codigo": null,
+      "fecha": "2024-08-12",
+      "duracionMin": 86,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/musica-libre-hermeto-pascoal-audios-mp3_rf_132720954_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Hermeto Pascoal",
+        "Brasil"
+      ]
+    },
+    {
+      "id": "the-koln-concert-la-magia-que-surgio-del-caos",
+      "titulo": "The Köln Concert: La magia que surgió del caos",
+      "codigo": null,
+      "fecha": "2024-07-12",
+      "duracionMin": 49,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/the-koln-concert-la-magia-surgio-del-audios-mp3_rf_131573115_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "The Köln Concert",
+        "ECM"
+      ]
+    },
+    {
+      "id": "elis-tom-50-anos-de-una-leyenda",
+      "titulo": "Elis & Tom: 50 años de una leyenda",
+      "codigo": null,
+      "fecha": "2024-06-06",
+      "duracionMin": 63,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/elis-tom-50-anos-leyenda-audios-mp3_rf_129964453_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Elis & Tom",
+        "Brasil"
+      ]
+    },
+    {
+      "id": "cannonball-adderley-bill-evans-un-encuentro-improbable",
+      "titulo": "Cannonball Adderley & Bill Evans: Un encuentro improbable",
+      "codigo": null,
+      "fecha": "2024-04-20",
+      "duracionMin": 67,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/cannonball-adderley-bill-evans-un-encuentro-improbable-audios-mp3_rf_127805406_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Bill Evans",
+        "Cannonball Adderley"
+      ]
+    },
+    {
+      "id": "art-blakey-los-mensajeros-de-la-fusion",
+      "titulo": "Art Blakey: Los mensajeros de la fusión",
+      "codigo": null,
+      "fecha": "2024-03-23",
+      "duracionMin": 87,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/art-blakey-los-mensajeros-fusion-audios-mp3_rf_126367996_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Art Blakey",
+        "Fusión"
+      ]
+    },
+    {
+      "id": "vinicius-de-moraes-whisky-y-bohemia-en-la-fusa",
+      "titulo": "Vinicius de Moraes: Whisky y bohemia en La Fusa",
+      "codigo": null,
+      "fecha": "2024-02-19",
+      "duracionMin": 71,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/vinicius-moraes-whisky-bohemia-la-audios-mp3_rf_124493120_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Vinicius de Moraes",
+        "Brasil"
+      ]
+    },
+    {
+      "id": "jazz-en-cadena-de-miles-a-miles-pasando-por-ellington",
+      "titulo": "Jazz en cadena: De Miles a Miles pasando por Ellington",
+      "codigo": null,
+      "fecha": "2024-01-20",
+      "duracionMin": 107,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-cadena-de-miles-a-miles-pasando-audios-mp3_rf_122912372_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Duke Ellington"
+      ]
+    },
+    {
+      "id": "short1-carlos-lyra-influencia-del-jazz",
+      "titulo": "#Short1/Carlos Lyra: Influencia del Jazz",
+      "codigo": null,
+      "fecha": "2023-12-28",
+      "duracionMin": 45,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/short1-carlos-lyra-influencia-del-jazz-audios-mp3_rf_121787472_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Carlos Lyra",
+        "Brasil"
+      ]
+    },
+    {
+      "id": "horace-silver-seis-piezas-de-plata",
+      "titulo": "Horace Silver: Seis piezas de plata",
+      "codigo": null,
+      "fecha": "2023-12-14",
+      "duracionMin": 76,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/horace-silver-seis-piezas-plata-audios-mp3_rf_121112521_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Horace Silver"
+      ]
+    },
+    {
+      "id": "freddie-hubbard-woody-shaw-el-triunfo-de-la-trompeta",
+      "titulo": "Freddie Hubbard & Woody Shaw: El triunfo de la trompeta",
+      "codigo": null,
+      "fecha": "2023-10-10",
+      "duracionMin": 78,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/freddie-hubbard-woody-shaw-el-triunfo-de-audios-mp3_rf_117526484_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Freddie Hubbard"
+      ]
+    },
+    {
+      "id": "electric-hancock-lo-mejor-de-herbie-hancock-en-los-70",
+      "titulo": "Electric Hancock: Lo mejor de Herbie Hancock en los '70",
+      "codigo": null,
+      "fecha": "2023-08-30",
+      "duracionMin": 91,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/electric-hancock-lo-mejor-herbie-hancock-en-audios-mp3_rf_115176386_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Herbie Hancock"
+      ]
+    },
+    {
+      "id": "la-poesia-del-jazz-el-universo-lirico-de-stan-getz",
+      "titulo": "La Poesía del Jazz: El universo lírico de Stan Getz",
+      "codigo": null,
+      "fecha": "2023-07-30",
+      "duracionMin": 100,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/poesia-del-jazz-el-universo-lirico-de-audios-mp3_rf_113386778_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Stan Getz"
+      ]
+    },
+    {
+      "id": "clifford-brown-dos-anos-que-cambiaron-el-jazz",
+      "titulo": "Clifford Brown: Dos años que cambiaron el Jazz",
+      "codigo": null,
+      "fecha": "2023-04-18",
+      "duracionMin": 69,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/clifford-brown-dos-anos-cambiaron-jazz-audios-mp3_rf_106570405_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Clifford Brown"
+      ]
+    },
+    {
+      "id": "wayne-shorter-tras-las-huellas-del-sonador-nocturno",
+      "titulo": "Wayne Shorter: Tras las huellas del soñador nocturno",
+      "codigo": null,
+      "fecha": "2023-03-16",
+      "duracionMin": 104,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/wayne-shorter-tras-huellas-del-sonador-nocturno-audios-mp3_rf_104717416_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Wayne Shorter"
+      ]
+    },
+    {
+      "id": "tom-jobim-tres-discos-para-una-isla-desierta",
+      "titulo": "Tom Jobim: Tres discos para una isla desierta",
+      "codigo": null,
+      "fecha": "2023-02-12",
+      "duracionMin": 80,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/tom-jobim-tres-discos-para-isla-desierta-audios-mp3_rf_102949183_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Antônio Carlos Jobim",
+        "Brasil"
+      ]
+    },
+    {
+      "id": "tony-williams-el-gran-quinteto-de-los-80",
+      "titulo": "Tony Williams: El gran quinteto de los '80",
+      "codigo": null,
+      "fecha": "2023-01-07",
+      "duracionMin": 75,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/tony-williams-el-gran-quinteto-80-audios-mp3_rf_101102020_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Tony Williams"
+      ]
+    },
+    {
+      "id": "mingus-big-band-el-legado-de-un-maestro",
+      "titulo": "Mingus Big Band: El legado de un maestro",
+      "codigo": null,
+      "fecha": "2022-11-22",
+      "duracionMin": 95,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/mingus-big-band-el-legado-maestro-audios-mp3_rf_96749592_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Charles Mingus"
+      ]
+    },
+    {
+      "id": "clube-da-esquina-en-clave-de-jazz",
+      "titulo": "Clube da Esquina: En clave de Jazz",
+      "codigo": null,
+      "fecha": "2022-05-30",
+      "duracionMin": 97,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/clube-da-esquina-en-clave-jazz-audios-mp3_rf_87782173_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Brasil"
+      ]
+    },
+    {
+      "id": "flora-purim-la-decada-prodigiosa",
+      "titulo": "Flora Purim: La década prodigiosa",
+      "codigo": null,
+      "fecha": "2022-04-24",
+      "duracionMin": 87,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/flora-purim-la-decada-prodigiosa-audios-mp3_rf_86139109_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Flora Purim",
+        "Brasil"
+      ]
+    },
+    {
+      "id": "wallace-roney-el-legado-de-miles-davis",
+      "titulo": "Wallace Roney: El Legado de Miles Davis",
+      "codigo": null,
+      "fecha": "2022-03-23",
+      "duracionMin": 94,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/wallace-roney-el-legado-miles-davis-audios-mp3_rf_83936907_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Miles Davis",
+        "Wallace Roney"
+      ]
+    },
+    {
+      "id": "pat-martino-en-la-ciudad-de-los-suenos",
+      "titulo": "Pat Martino: En la ciudad de los sueños",
+      "codigo": null,
+      "fecha": "2022-01-25",
+      "duracionMin": 71,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/pat-martino-en-ciudad-suenos-audios-mp3_rf_81323333_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Pat Martino"
+      ]
+    },
+    {
+      "id": "julio-cortazar-el-latido-del-jazz",
+      "titulo": "Julio Cortazar: El latido del Jazz",
+      "codigo": null,
+      "fecha": "2021-12-19",
+      "duracionMin": 67,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/julio-cortazar-el-latido-del-jazz-audios-mp3_rf_79802389_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Río de la Plata"
+      ]
+    },
+    {
+      "id": "joe-henderson-amanecer-en-tokio",
+      "titulo": "Joe Henderson: Amanecer en Tokio",
+      "codigo": null,
+      "fecha": "2021-11-21",
+      "duracionMin": 78,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/joe-henderson-amanecer-tokio-audios-mp3_rf_78561860_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Joe Henderson",
+        "Japón"
+      ]
+    },
+    {
+      "id": "lee-morgan-bajo-el-signo-de-la-tragedia",
+      "titulo": "Lee Morgan: Bajo el signo de la tragedia",
+      "codigo": null,
+      "fecha": "2021-10-23",
+      "duracionMin": 83,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/lee-morgan-bajo-signo-tragedia-audios-mp3_rf_77221621_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Lee Morgan"
+      ]
+    },
+    {
+      "id": "chet-baker-y-la-bossa-nova-de-paris-a-rio-de-janeiro",
+      "titulo": "Chet Baker y la Bossa Nova: de París a Rio de Janeiro",
+      "codigo": null,
+      "fecha": "2021-06-28",
+      "duracionMin": 68,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/chet-baker-bossa-nova-paris-audios-mp3_rf_72029849_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Chet Baker",
+        "Brasil"
+      ]
+    },
+    {
+      "id": "pat-metheny-la-historia-secreta",
+      "titulo": "Pat Metheny: La historia secreta",
+      "codigo": null,
+      "fecha": "2021-04-25",
+      "duracionMin": 98,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/pat-metheny-la-historia-secreta-audios-mp3_rf_69083080_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Pat Metheny"
+      ]
+    },
+    {
+      "id": "stan-getz-chet-baker-1983-la-gira-maldita",
+      "titulo": "Stan Getz & Chet Baker: 1983. La gira maldita",
+      "codigo": null,
+      "fecha": "2021-03-16",
+      "duracionMin": 70,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/stan-getz-chet-baker-1983-la-gira-audios-mp3_rf_66921705_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Chet Baker",
+        "Stan Getz"
+      ]
+    },
+    {
+      "id": "chick-corea-regreso-a-la-eternidad",
+      "titulo": "Chick Corea: Regreso a la eternidad",
+      "codigo": null,
+      "fecha": "2021-02-16",
+      "duracionMin": 103,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/chick-corea-regreso-a-eternidad-audios-mp3_rf_65508897_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Chick Corea"
+      ]
+    },
+    {
+      "id": "george-benson-guitar-man",
+      "titulo": "George Benson: Guitar Man",
+      "codigo": null,
+      "fecha": "2021-02-02",
+      "duracionMin": 137,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/george-benson-guitar-man-audios-mp3_rf_64811238_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "George Benson"
+      ]
+    },
+    {
+      "id": "miles-davis-en-el-plugged-nickel-historia-de-un-sabotaje",
+      "titulo": "Miles Davis en el Plugged Nickel: Historia de un sabotaje",
+      "codigo": null,
+      "fecha": "2020-12-26",
+      "duracionMin": 87,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/miles-davis-plugged-nickel-historia-de-audios-mp3_rf_63028217_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Miles Davis"
+      ]
+    },
+    {
+      "id": "roy-hargrove-starmaker",
+      "titulo": "Roy Hargrove: Starmaker",
+      "codigo": null,
+      "fecha": "2020-11-27",
+      "duracionMin": 85,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/roy-hargrove-starmaker-audios-mp3_rf_61038786_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Roy Hargrove"
+      ]
+    },
+    {
+      "id": "tom-harrell-una-mente-maravillosa",
+      "titulo": "Tom Harrell: Una Mente Maravillosa",
+      "codigo": null,
+      "fecha": "2020-10-15",
+      "duracionMin": 110,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/tom-harrell-una-mente-maravillosa-audios-mp3_rf_57998085_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Tom Harrell"
+      ]
+    },
+    {
+      "id": "miles-davis-gil-evans-una-leyenda-en-tres-actos",
+      "titulo": "Miles Davis & Gil Evans: Una leyenda en tres actos",
+      "codigo": null,
+      "fecha": "2020-09-15",
+      "duracionMin": 70,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/miles-davis-gil-evans-una-leyenda-en-audios-mp3_rf_56525996_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Miles Davis",
+        "Gil Evans"
+      ]
+    },
+    {
+      "id": "antonio-carlos-jobim-mas-alla-de-la-bossa-nova",
+      "titulo": "Antonio Carlos Jobim: Más allá de la Bossa Nova",
+      "codigo": null,
+      "fecha": "2020-08-07",
+      "duracionMin": 79,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/antonio-carlos-jobim-mas-alla-bossa-audios-mp3_rf_54923683_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Antônio Carlos Jobim",
+        "Brasil"
+      ]
+    },
+    {
+      "id": "marcos-valle-groove-carioca",
+      "titulo": "Marcos Valle: groove carioca",
+      "codigo": null,
+      "fecha": "2020-06-22",
+      "duracionMin": 85,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/marcos-valle-groove-carioca-audios-mp3_rf_52304598_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Marcos Valle",
+        "Brasil"
+      ]
+    },
+    {
+      "id": "adios-a-lee-konitz-el-rey-del-cool-jazz",
+      "titulo": "Adiós a Lee Konitz: El Rey del Cool Jazz",
+      "codigo": null,
+      "fecha": "2020-05-15",
+      "duracionMin": 104,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/adios-a-lee-konitz-el-rey-del-cool-audios-mp3_rf_51064954_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Lee Konitz"
+      ]
+    },
+    {
+      "id": "art-blakey-los-mensajeros-olvidados",
+      "titulo": "Art Blakey: Los Mensajeros Olvidados",
+      "codigo": null,
+      "fecha": "2020-04-04",
+      "duracionMin": 92,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/art-blakey-los-mensajeros-olvidados-audios-mp3_rf_49626330_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Art Blakey"
+      ]
+    },
+    {
+      "id": "la-poesia-del-jazz-pat-metheny",
+      "titulo": "La Poesía del Jazz: Pat Metheny",
+      "codigo": null,
+      "fecha": "2020-02-10",
+      "duracionMin": 96,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/poesia-del-jazz-pat-metheny-audios-mp3_rf_47533079_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Pat Metheny"
+      ]
+    },
+    {
+      "id": "las-dos-vidas-de-pat-martino-segunda-parte-el-regreso",
+      "titulo": "Las dos vidas de Pat Martino. Segunda parte: El Regreso",
+      "codigo": null,
+      "fecha": "2019-12-31",
+      "duracionMin": 89,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/dos-vidas-pat-martino-segunda-parte-audios-mp3_rf_46001252_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Pat Martino"
+      ]
+    },
+    {
+      "id": "las-dos-vidas-de-pat-martino-primera-parte-el-hombre",
+      "titulo": "Las dos vidas de Pat Martino. Primera parte: El Hombre",
+      "codigo": null,
+      "fecha": "2019-11-24",
+      "duracionMin": 87,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/dos-vidas-pat-martino-primera-parte-audios-mp3_rf_44664802_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Pat Martino"
+      ]
+    },
+    {
+      "id": "chega-de-saudade-adios-a-joao-gilberto",
+      "titulo": "Chega de Saudade: Adiós a João Gilberto",
+      "codigo": null,
+      "fecha": "2019-07-23",
+      "duracionMin": 118,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/chega-saudade-adios-a-jo-o-gilberto-audios-mp3_rf_38822319_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "João Gilberto",
+        "Chega de Saudade",
+        "Brasil"
+      ]
+    },
+    {
+      "id": "toninho-horta-aquelas-coisas-todas",
+      "titulo": "Toninho Horta: Aquelas Coisas Todas",
+      "codigo": null,
+      "fecha": "2019-06-13",
+      "duracionMin": 99,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/toninho-horta-aquelas-coisas-todas-audios-mp3_rf_37059548_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Toninho Horta",
+        "Brasil"
+      ]
+    },
+    {
+      "id": "bill-evans-encuentros-legendarios",
+      "titulo": "Bill Evans: Encuentros Legendarios",
+      "codigo": null,
+      "fecha": "2019-04-28",
+      "duracionMin": 82,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/bill-evans-encuentros-legendarios-audios-mp3_rf_35041036_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Bill Evans"
+      ]
+    },
+    {
+      "id": "kenny-wheeler-entre-la-melancolia-y-el-caos",
+      "titulo": "Kenny Wheeler: Entre la melancolía y el caos.",
+      "codigo": null,
+      "fecha": "2019-03-18",
+      "duracionMin": 80,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/kenny-wheeler-entre-melancolia-caos-audios-mp3_rf_33472581_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Kenny Wheeler",
+        "ECM"
+      ]
+    },
+    {
+      "id": "billie-holiday-el-ocaso-de-lady-day",
+      "titulo": "Billie Holiday: El Ocaso de Lady Day",
+      "codigo": null,
+      "fecha": "2019-01-20",
+      "duracionMin": 73,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/billie-holiday-el-ocaso-lady-day-audios-mp3_rf_31620371_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Billie Holiday"
+      ]
+    },
+    {
+      "id": "la-poesia-del-jazz-una-noche-con-miles-davis",
+      "titulo": "La Poesía del Jazz: Una noche con Miles Davis",
+      "codigo": null,
+      "fecha": "2018-12-22",
+      "duracionMin": 65,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/poesia-del-jazz-una-noche-miles-audios-mp3_rf_30976127_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Miles Davis"
+      ]
+    },
+    {
+      "id": "louis-armstrong-duke-ellington-duelo-de-titanes",
+      "titulo": "Louis Armstrong & Duke Ellington: Duelo de Titanes",
+      "codigo": null,
+      "fecha": "2018-10-22",
+      "duracionMin": 94,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/louis-armstrong-duke-ellington-duelo-titanes-audios-mp3_rf_29515500_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Louis Armstrong",
+        "Duke Ellington"
+      ]
+    },
+    {
+      "id": "dexter-gordon-sesiones-legendarias-en-europa",
+      "titulo": "Dexter Gordon: Sesiones legendarias en Europa",
+      "codigo": null,
+      "fecha": "2018-09-16",
+      "duracionMin": 65,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/dexter-gordon-sesiones-legendarias-europa-audios-mp3_rf_28606654_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Dexter Gordon"
+      ]
+    },
+    {
+      "id": "the-pat-metheny-group-la-trilogia-brasilena",
+      "titulo": "The Pat Metheny Group: La Trilogía Brasileña",
+      "codigo": null,
+      "fecha": "2018-06-19",
+      "duracionMin": 72,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/the-pat-metheny-group-la-trilogia-brasilena-audios-mp3_rf_26617679_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Pat Metheny",
+        "Pat Metheny Group",
+        "Brasil"
+      ]
+    },
+    {
+      "id": "el-jazz-en-la-escena-canterbury",
+      "titulo": "El jazz en la Escena Canterbury",
+      "codigo": null,
+      "fecha": "2018-05-08",
+      "duracionMin": 163,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-escena-canterbury-audios-mp3_rf_25858408_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Fusión"
+      ]
+    },
+    {
+      "id": "jaco-pastorius-tres-visiones-de-un-secreto",
+      "titulo": "Jaco Pastorius: Tres visiones de un secreto",
+      "codigo": null,
+      "fecha": "2018-03-22",
+      "duracionMin": 71,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jaco-pastorius-tres-visiones-secreto-audios-mp3_rf_24740827_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Jaco Pastorius",
+        "Fusión"
+      ]
+    },
+    {
+      "id": "miles-davis-bill-evans-sociedad-ilimitada",
+      "titulo": "Miles Davis & Bill Evans: Sociedad Ilimitada",
+      "codigo": null,
+      "fecha": "2018-01-30",
+      "duracionMin": 76,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/miles-davis-bill-evans-sociedad-ilimitada-audios-mp3_rf_23447138_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Miles Davis",
+        "Bill Evans"
+      ]
+    },
+    {
+      "id": "the-incredible-jazz-guitar-of-wes-montgomery",
+      "titulo": "The Incredible Jazz Guitar of Wes Montgomery",
+      "codigo": null,
+      "fecha": "2017-12-17",
+      "duracionMin": 72,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/the-incredible-jazz-guitar-of-wes-montgomery-audios-mp3_rf_22696085_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Wes Montgomery",
+        "The Incredible Jazz Guitar of Wes Montgomery"
+      ]
+    },
+    {
+      "id": "allan-holdsworth-el-hombre-que-cambio-la-guitarra-para-siemp",
+      "titulo": "Allan Holdsworth: El hombre que cambió la guitarra para siempre.",
+      "codigo": null,
+      "fecha": "2017-11-22",
+      "duracionMin": 85,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/allan-holdsworth-el-hombre-cambio-guitarra-audios-mp3_rf_22230023_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Allan Holdsworth",
+        "Fusión"
+      ]
+    },
+    {
+      "id": "leyendas-del-jazz-en-japon-chet-baker-en-tokyo",
+      "titulo": "Leyendas del jazz en Japón: Chet Baker en Tokyo",
+      "codigo": null,
+      "fecha": "2017-10-16",
+      "duracionMin": 61,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/leyendas-del-jazz-japon-chet-baker-en-audios-mp3_rf_21484336_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Chet Baker",
+        "Japón"
+      ]
+    },
+    {
+      "id": "el-jazz-en-la-era-psicodelica",
+      "titulo": "El jazz en la era psicodélica",
+      "codigo": null,
+      "fecha": "2017-08-14",
+      "duracionMin": 72,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-era-psicodelica-audios-mp3_rf_20316638_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Fusión"
+      ]
+    },
+    {
+      "id": "ivan-lins-night-mood",
+      "titulo": "Ivan lins: Night Mood",
+      "codigo": null,
+      "fecha": "2017-06-29",
+      "duracionMin": 62,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/ivan-lins-night-mood-audios-mp3_rf_19542888_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Ivan Lins",
+        "Brasil"
+      ]
+    },
+    {
+      "id": "bill-evans-magia-en-el-village-vanguard",
+      "titulo": "Bill Evans: Magia en el Village Vanguard",
+      "codigo": null,
+      "fecha": "2017-05-17",
+      "duracionMin": 65,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/bill-evans-magia-village-vanguard-audios-mp3_rf_18750809_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Bill Evans"
+      ]
+    },
+    {
+      "id": "la-poesia-del-jazz-thelonious-monk",
+      "titulo": "La PoesÍa del Jazz: Thelonious Monk",
+      "codigo": null,
+      "fecha": "2016-12-10",
+      "duracionMin": 61,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/poesia-del-jazz-thelonious-monk-audios-mp3_rf_14837450_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Thelonious Monk"
+      ]
+    },
+    {
+      "id": "charles-mingus-un-autorretrato-en-tres-colores",
+      "titulo": "Charles Mingus - Un autorretrato en tres colores",
+      "codigo": null,
+      "fecha": "2016-10-03",
+      "duracionMin": 100,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/charles-mingus-un-autorretrato-tres-colores-audios-mp3_rf_13163292_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Charles Mingus"
+      ]
+    },
+    {
+      "id": "freddie-hubbard-one-of-another-kind",
+      "titulo": "Freddie Hubbard - One Of Another Kind",
+      "codigo": null,
+      "fecha": "2016-08-30",
+      "duracionMin": 100,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/freddie-hubbard-one-of-another-kind-audios-mp3_rf_12718414_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Freddie Hubbard"
+      ]
+    },
+    {
+      "id": "francis-albert-sinatra-antonio-carlos-jobim",
+      "titulo": "Francis Albert Sinatra - Antonio Carlos Jobim",
+      "codigo": null,
+      "fecha": "2016-07-09",
+      "duracionMin": 57,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/francis-albert-sinatra-antonio-carlos-jobim-audios-mp3_rf_12170020_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Antônio Carlos Jobim",
+        "Brasil"
+      ]
+    },
+    {
+      "id": "toots-thielemans-un-corazon-brasileno",
+      "titulo": "Toots Thielemans - Un Corazón Brasileño",
+      "codigo": null,
+      "fecha": "2016-05-29",
+      "duracionMin": 91,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/toots-thielemans-un-corazon-brasileno-audios-mp3_rf_11703078_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Toots Thielemans",
+        "Brasil"
+      ]
+    },
+    {
+      "id": "george-coleman-big-george",
+      "titulo": "George Coleman: Big George",
+      "codigo": null,
+      "fecha": "2016-04-17",
+      "duracionMin": 97,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/george-coleman-big-george-audios-mp3_rf_11194976_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Ornette Coleman"
+      ]
+    },
+    {
+      "id": "stan-getz-en-el-cafe-montmartre",
+      "titulo": "Stan Getz en el Café Montmartre",
+      "codigo": null,
+      "fecha": "2016-03-25",
+      "duracionMin": 72,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/stan-getz-cafe-montmartre-audios-mp3_rf_10933737_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Stan Getz"
+      ]
+    },
+    {
+      "id": "stan-getz-los-anos-de-la-bossa-nova",
+      "titulo": "Stan Getz: Los años de la Bossa Nova",
+      "codigo": null,
+      "fecha": "2016-02-22",
+      "duracionMin": 56,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/stan-getz-los-anos-bossa-nova-audios-mp3_rf_10528253_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Stan Getz",
+        "Brasil"
+      ]
+    },
+    {
+      "id": "weather-report-la-era-pastorius",
+      "titulo": "Weather Report. La era Pastorius",
+      "codigo": null,
+      "fecha": "2016-01-25",
+      "duracionMin": 83,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/weather-report-la-era-pastorius-audios-mp3_rf_10193415_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Weather Report",
+        "Jaco Pastorius",
+        "Fusión"
+      ]
+    },
+    {
+      "id": "made-in-japan-el-jazz-en-japon",
+      "titulo": "Made in Japan: el jazz en Japón",
+      "codigo": null,
+      "fecha": "2015-12-14",
+      "duracionMin": 83,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/made-in-japan-jazz-japon-audios-mp3_rf_9720340_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Japón"
+      ]
+    },
+    {
+      "id": "phil-woods-goodbye-mr-woods",
+      "titulo": "Phil woods - Goodbye, Mr. Woods",
+      "codigo": null,
+      "fecha": "2015-11-02",
+      "duracionMin": 105,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/phil-woods-goodbye-mr-woods-audios-mp3_rf_9246076_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Phil Woods"
+      ]
+    },
+    {
+      "id": "bill-evans-la-poesia-del-jazz",
+      "titulo": "Bill evans: la poesÍa del jazz",
+      "codigo": null,
+      "fecha": "2015-09-21",
+      "duracionMin": 57,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/bill-evans-poesia-del-jazz-audios-mp3_rf_8513240_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Bill Evans"
+      ]
+    },
+    {
+      "id": "antonio-carlos-jobim-y-el-jazz",
+      "titulo": "Antonio Carlos Jobim y el Jazz",
+      "codigo": null,
+      "fecha": "2015-08-22",
+      "duracionMin": 102,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/antonio-carlos-jobim-jazz-audios-mp3_rf_7350926_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Antônio Carlos Jobim",
+        "Brasil"
+      ]
+    },
+    {
+      "id": "the-kenny-clarke-francy-boland-big-band",
+      "titulo": "The Kenny Clarke-Francy Boland Big Band",
+      "codigo": null,
+      "fecha": "2015-05-18",
+      "duracionMin": 79,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/the-kenny-clarke-francy-boland-big-band-audios-mp3_rf_4512461_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Kenny Clarke"
+      ]
+    },
+    {
+      "id": "la-larga-noche-de-chet-baker",
+      "titulo": "La Larga Noche de Chet Baker",
+      "codigo": null,
+      "fecha": "2015-01-19",
+      "duracionMin": 45,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/larga-noche-chet-baker-audios-mp3_rf_3972524_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Chet Baker"
+      ]
+    },
+    {
+      "id": "bird-lives-la-musica-de-charlie-parker",
+      "titulo": "Bird lives. La música de Charlie Parker",
+      "codigo": null,
+      "fecha": "2014-12-02",
+      "duracionMin": 45,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/bird-lives-la-musica-charlie-parker-audios-mp3_rf_3808387_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Charlie Parker"
+      ]
+    }
+  ]
+}

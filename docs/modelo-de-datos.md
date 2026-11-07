@@ -135,3 +135,23 @@ El sitio no se construye si:
 - **Temas:** no hay una ficha por tema. "Ko-Ko" aparece solo como texto dentro de un disco.
 - **Clásica:** el modelo no le sirve tal cual, porque ahí una obra tiene muchas grabaciones. Va a necesitar un tipo de ficha "obra", que conviene diseñar en esa etapa.
 - **Podcasts:** los links de la versión anterior todavía no se migraron ni se verificaron.
+
+## Podcasts
+
+Cada programa es un archivo en `datos/jazz/podcasts/`, con sus episodios adentro.
+
+**Programa:** `nombre`, `conductor`, `descripcion`, `idioma`, `pais`, `web`, `rss`, `spotify`.
+
+**Episodio:**
+
+| Campo | Qué guarda |
+|---|---|
+| `titulo`, `codigo`, `fecha`, `duracionMin` | Datos del episodio |
+| `spotify` | `verificado` con link exacto, `busqueda` con una consulta, o `sin-confirmar` |
+| `original` | Link de la plataforma donde se publica |
+| `verificacion` | Estado, código HTTP y fecha de la última comprobación |
+| `temas` | Nombres de músicos, discos, corrientes o regiones |
+
+Los `temas` se conectan solos con una ficha cuando existe. Si todavía no hay ficha, quedan esperando, y el episodio aparece solo cuando se carga.
+
+`npm run verificar:podcasts` vuelve a comprobar todos los links.

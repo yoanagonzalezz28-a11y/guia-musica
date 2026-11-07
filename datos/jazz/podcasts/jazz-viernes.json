@@ -1,0 +1,643 @@
+{
+  "id": "jazz-viernes",
+  "nombre": "Jazz Viernes (Conocimientos Musicales)",
+  "conductor": "David Antón y Pau Hernández",
+  "descripcion": "La sección de jazz de Conocimientos Musicales: episodios cortos por músico, disco o tema.",
+  "idioma": "es",
+  "pais": "España",
+  "web": null,
+  "rss": "https://feeds.ivoox.com/feed_fg_f1843979_filtro_1.xml",
+  "spotify": null,
+  "episodios": [
+    {
+      "id": "34-louis-armstrong-1901-1971",
+      "titulo": "Louis Armstrong (1901-1971)",
+      "codigo": "#34",
+      "fecha": "2022-07-01",
+      "duracionMin": 25,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-viernes-34-louis-armstrong-1901-1971-audios-mp3_rf_88346706_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Louis Armstrong"
+      ]
+    },
+    {
+      "id": "33-1959-ese-ano-maravilloso",
+      "titulo": "1959, ese año maravilloso",
+      "codigo": "#33",
+      "fecha": "2022-06-24",
+      "duracionMin": 20,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-viernes-33-1959-ese-ano-maravilloso-audios-mp3_rf_88346697_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Kind of Blue",
+        "Time Out",
+        "Jazz modal"
+      ]
+    },
+    {
+      "id": "32-summertime-la-cancion-de-jazz-mas-versionada",
+      "titulo": "Summertime, la canción de jazz más versionada",
+      "codigo": "#32",
+      "fecha": "2022-06-17",
+      "duracionMin": 18,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-viernes-32-summertime-cancion-jazz-audios-mp3_rf_88085135_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Summertime\""
+      ]
+    },
+    {
+      "id": "31-quizas-el-mejor-concierto-de-la-historia-del-jazz",
+      "titulo": "(quizás) El Mejor Concierto de la Historia del Jazz",
+      "codigo": "#31",
+      "fecha": "2022-06-10",
+      "duracionMin": 24,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-viernes-31-quizas-el-mejor-concierto-de-audios-mp3_rf_88085153_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": []
+    },
+    {
+      "id": "30-wynton-marsalis-1961",
+      "titulo": "Wynton Marsalis (1961)",
+      "codigo": "#30",
+      "fecha": "2022-06-03",
+      "duracionMin": 20,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-viernes-30-wynton-marsalis-1961-audios-mp3_rf_87734516_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Wynton Marsalis",
+        "Branford Marsalis",
+        "Neotradicionalismo"
+      ]
+    },
+    {
+      "id": "29-autumn-leaves-les-feuilles-mortes",
+      "titulo": "Autumn Leaves (les feuilles mortes)",
+      "codigo": "#29",
+      "fecha": "2022-05-27",
+      "duracionMin": 19,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-viernes-29-autumn-leaves-les-feuilles-mortes-audios-mp3_rf_86987255_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": []
+    },
+    {
+      "id": "28-john-coltrane-1926-1967",
+      "titulo": "John Coltrane (1926-1967)",
+      "codigo": "#28",
+      "fecha": "2022-05-20",
+      "duracionMin": 24,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-viernes-28-john-coltrane-1926-1967-audios-mp3_rf_86935239_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "John Coltrane",
+        "Alice Coltrane"
+      ]
+    },
+    {
+      "id": "27-el-nacimiento-del-jazz-latino",
+      "titulo": "El nacimiento del jazz latino",
+      "codigo": "#27",
+      "fecha": "2022-05-13",
+      "duracionMin": 19,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-viernes-27-el-nacimiento-del-jazz-latino-audios-mp3_rf_86682880_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Orígenes",
+        "Jazz latino"
+      ]
+    },
+    {
+      "id": "26-peggy-gilbert-1905-2007",
+      "titulo": "Peggy Gilbert (1905-2007)",
+      "codigo": "#26",
+      "fecha": "2022-05-06",
+      "duracionMin": 15,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-viernes-26-peggy-gilbert-1905-2007-audios-mp3_rf_86682392_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Peggy Gilbert"
+      ]
+    },
+    {
+      "id": "25-oscar-peterson-1925-2007",
+      "titulo": "Oscar Peterson (1925-2007)",
+      "codigo": "#25",
+      "fecha": "2022-04-08",
+      "duracionMin": 17,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-viernes-25-oscar-peterson-1925-2007-audios-mp3_rf_85073739_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Oscar Peterson"
+      ]
+    },
+    {
+      "id": "24-take-the-a-train",
+      "titulo": "Take the \"A\" Train",
+      "codigo": "#24",
+      "fecha": "2022-04-01",
+      "duracionMin": 17,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-viernes-24-take-the-a-train-audios-mp3_rf_84653973_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Duke Ellington"
+      ]
+    },
+    {
+      "id": "23-jacob-collier-el-genio-moderno",
+      "titulo": "Jacob Collier, el genio moderno",
+      "codigo": "#23",
+      "fecha": "2022-03-25",
+      "duracionMin": 20,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-viernes-23-jacob-collier-genio-moderno-audios-mp3_rf_83456032_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Jacob Collier",
+        "Fusión",
+        "Jazz de hoy"
+      ]
+    },
+    {
+      "id": "22-el-gato-barbieri-1932-2016",
+      "titulo": "El Gato Barbieri (1932-2016)",
+      "codigo": "#22",
+      "fecha": "2022-03-18",
+      "duracionMin": 17,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-viernes-22-el-gato-barbieri-1932-2016-audios-mp3_rf_83450545_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Gato Barbieri",
+        "Río de la Plata"
+      ]
+    },
+    {
+      "id": "21-el-jazz-fusion-de-steps-ahead",
+      "titulo": "El jazz fusión de Steps Ahead",
+      "codigo": "#21",
+      "fecha": "2022-03-11",
+      "duracionMin": 18,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-viernes-21-el-jazz-fusion-steps-audios-mp3_rf_83319332_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Fusión"
+      ]
+    },
+    {
+      "id": "20-dizzy-gillespie-1917-1993",
+      "titulo": "Dizzy Gillespie (1917-1993)",
+      "codigo": "#20",
+      "fecha": "2022-03-04",
+      "duracionMin": 19,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-viernes-20-dizzy-gillespie-1917-1993-audios-mp3_rf_82516324_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Dizzy Gillespie"
+      ]
+    },
+    {
+      "id": "19-kamasi-washington",
+      "titulo": "Kamasi Washington",
+      "codigo": "#19",
+      "fecha": "2022-02-25",
+      "duracionMin": 20,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-viernes-19-kamasi-washington-audios-mp3_rf_82517041_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Kamasi Washington",
+        "Jazz de hoy"
+      ]
+    },
+    {
+      "id": "18-i-remember-clifford-1957",
+      "titulo": "I remember Clifford (1957)",
+      "codigo": "#18",
+      "fecha": "2022-02-18",
+      "duracionMin": 17,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-viernes-18-i-remember-clifford-1957-audios-mp3_rf_82158341_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Clifford Brown"
+      ]
+    },
+    {
+      "id": "17-bud-powell-1924-1966",
+      "titulo": "Bud Powell (1924-1966)",
+      "codigo": "#17",
+      "fecha": "2022-02-11",
+      "duracionMin": 19,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-viernes-17-bud-powell-1924-1966-audios-mp3_rf_81607171_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Bud Powell"
+      ]
+    },
+    {
+      "id": "16-fly-me-to-the-moon-1954",
+      "titulo": "Fly me to the moon (1954)",
+      "codigo": "#16",
+      "fecha": "2022-02-04",
+      "duracionMin": 16,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-viernes-16-fly-me-to-the-moon-audios-mp3_rf_81592507_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": []
+    },
+    {
+      "id": "15-glenn-miller-1904-1944",
+      "titulo": "Glenn Miller (1904-1944)",
+      "codigo": "#15",
+      "fecha": "2022-01-28",
+      "duracionMin": 15,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-viernes-15-glenn-miller-1904-1944-audios-mp3_rf_81219074_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Glenn Miller"
+      ]
+    },
+    {
+      "id": "14-the-bridge-1962-de-sonny-rollins",
+      "titulo": "The Bridge (1962), de Sonny Rollins",
+      "codigo": "#14",
+      "fecha": "2022-01-21",
+      "duracionMin": 16,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-viernes-14-the-bridge-1962-sonny-audios-mp3_rf_80977532_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Sonny Rollins",
+        "The Bridge"
+      ]
+    },
+    {
+      "id": "13-georgia-on-my-mind",
+      "titulo": "Georgia on my mind",
+      "codigo": "#13",
+      "fecha": "2021-12-17",
+      "duracionMin": 18,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-viernes-13-georgia-on-my-mind-audios-mp3_rf_79709399_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": []
+    },
+    {
+      "id": "12-francis-albert-sinatra-antonio-carlos-jobim-1967",
+      "titulo": "Francis Albert Sinatra & Antonio Carlos Jobim (1967)",
+      "codigo": "#12",
+      "fecha": "2021-12-10",
+      "duracionMin": 16,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-viernes-12-francis-albert-sinatra-antonio-audios-mp3_rf_78904944_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Antônio Carlos Jobim",
+        "Brasil"
+      ]
+    },
+    {
+      "id": "11-charlie-parker-1920-1955",
+      "titulo": "Charlie Parker (1920-1955)",
+      "codigo": "#11",
+      "fecha": "2021-12-03",
+      "duracionMin": 21,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-viernes-11-charlie-parker-1920-1955-audios-mp3_rf_78839680_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Charlie Parker"
+      ]
+    },
+    {
+      "id": "10-back-to-black-2006",
+      "titulo": "Back to Black (2006)",
+      "codigo": "#10",
+      "fecha": "2021-11-26",
+      "duracionMin": 18,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-viernes-10-back-to-black-2006-audios-mp3_rf_78234257_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": []
+    },
+    {
+      "id": "9-hello-pops-a-tribute-to-louis-armstrong-2011",
+      "titulo": "Hello Pops! A tribute to Louis Armstrong (2011)",
+      "codigo": "#9",
+      "fecha": "2021-11-19",
+      "duracionMin": 17,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-viernes-9-hello-pops-a-tribute-to-audios-mp3_rf_77916933_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Louis Armstrong"
+      ]
+    },
+    {
+      "id": "8-ella-fitzgerald-1917-1996",
+      "titulo": "Ella Fitzgerald (1917-1996)",
+      "codigo": "#8",
+      "fecha": "2021-11-12",
+      "duracionMin": 22,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-viernes-8-ella-fitzgerald-1917-1996-audios-mp3_rf_77895720_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Ella Fitzgerald"
+      ]
+    },
+    {
+      "id": "7-mack-the-knife-1959",
+      "titulo": "Mack the Knife (1959)",
+      "codigo": "#7",
+      "fecha": "2021-11-05",
+      "duracionMin": 19,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-viernes-7-mack-the-knife-1959-audios-mp3_rf_77249216_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": []
+    },
+    {
+      "id": "6-calle-54-2000",
+      "titulo": "Calle 54 (2000)",
+      "codigo": "#6",
+      "fecha": "2021-10-29",
+      "duracionMin": 19,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-viernes-6-calle-54-2000-audios-mp3_rf_77249196_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Jazz latino"
+      ]
+    },
+    {
+      "id": "5-le-quintette-du-hot-club-de-france",
+      "titulo": "Le Quintette du Hot Club de France",
+      "codigo": "#5",
+      "fecha": "2021-10-22",
+      "duracionMin": 24,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-viernes-5-le-quintette-du-hot-club-audios-mp3_rf_76609666_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Quintette du Hot Club de France",
+        "Django Reinhardt"
+      ]
+    },
+    {
+      "id": "4-watermelon-man-1962",
+      "titulo": "Watermelon Man (1962)",
+      "codigo": "#4",
+      "fecha": "2021-10-15",
+      "duracionMin": 21,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-viernes-4-watermelon-man-1962-audios-mp3_rf_76341296_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Watermelon Man!"
+      ]
+    },
+    {
+      "id": "3-first-time-the-count-meets-the-duke-1961",
+      "titulo": "First Time! The Count meets the Duke (1961)",
+      "codigo": "#3",
+      "fecha": "2021-10-08",
+      "duracionMin": 16,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-viernes-3-first-time-the-count-meets-audios-mp3_rf_76151701_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Duke Ellington",
+        "Count Basie"
+      ]
+    },
+    {
+      "id": "2-tete-montoliu",
+      "titulo": "Tete Montoliu",
+      "codigo": "#2",
+      "fecha": "2021-10-01",
+      "duracionMin": 17,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/jazz-viernes-2-tete-montoliu-audios-mp3_rf_75630242_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Tete Montoliu",
+        "España"
+      ]
+    }
+  ]
+}

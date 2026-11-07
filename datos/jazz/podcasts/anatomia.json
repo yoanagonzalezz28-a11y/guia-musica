@@ -1,0 +1,552 @@
+{
+  "id": "anatomia",
+  "nombre": "Anatomía del Jazz",
+  "conductor": "@elanarca y @Fer_BakyDan",
+  "descripcion": "Un disco clásico por episodio: quién lo grabó, cómo y por qué importa.",
+  "idioma": "es",
+  "web": "https://www.ivoox.com/podcast-anatomia-del-jazz_sq_f11725347_1.html",
+  "rss": "https://feeds.ivoox.com/feed_fg_f11725347_filtro_1.xml",
+  "spotify": "https://open.spotify.com/show/5G0Kg60HFIDeGjGloH6KFF",
+  "episodios": [
+    {
+      "id": "ep-25-disquerias-y-discos-de-jazz",
+      "titulo": "Disquerías y discos de jazz",
+      "codigo": "Ep 25",
+      "fecha": "2025-07-06",
+      "duracionMin": 51,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/7jtSqQWNELIGzvyyPtiUl1"
+      },
+      "original": "https://www.ivoox.com/ep-25-disquerias-discos-jazz-audios-mp3_rf_151905782_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": []
+    },
+    {
+      "id": "ep-24-chets-choice-chet-baker",
+      "titulo": "Chets Choice · Chet Baker",
+      "codigo": "Ep 24",
+      "fecha": "2025-06-01",
+      "duracionMin": 52,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/1xGdmJKV49Zkqq6sOjmdeJ"
+      },
+      "original": "https://www.ivoox.com/ep-24-chets-choice-chet-baker-audios-mp3_rf_148940681_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Chet Baker"
+      ]
+    },
+    {
+      "id": "ep-23-the-shape-of-jazz-to-come-ornette-coleman",
+      "titulo": "The Shape Of Jazz To Come · Ornette Coleman",
+      "codigo": "Ep 23",
+      "fecha": "2025-03-23",
+      "duracionMin": 58,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "Anatomía del Jazz The Shape Of Jazz To Come · Ornette Coleman"
+      },
+      "original": "https://www.ivoox.com/ep-23-the-shape-of-jazz-to-audios-mp3_rf_143623018_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Ornette Coleman",
+        "The Shape of Jazz to Come",
+        "Free jazz"
+      ]
+    },
+    {
+      "id": "ep-22-saxophone-colossus-sonny-rollins",
+      "titulo": "Saxophone Colossus · Sonny Rollins",
+      "codigo": "Ep 22",
+      "fecha": "2024-11-10",
+      "duracionMin": 44,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/7ngVbglBC5o2ag0FofBIjZ"
+      },
+      "original": "https://www.ivoox.com/ep-22-saxophone-colossus-sonny-rollins-audios-mp3_rf_135768823_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Sonny Rollins",
+        "Saxophone Colossus"
+      ]
+    },
+    {
+      "id": "ep-21-solo-pianos-desde-1933-hasta-nuestros-dias",
+      "titulo": "Solo Pianos (desde 1933 hasta nuestros días)",
+      "codigo": "Ep 21",
+      "fecha": "2024-10-02",
+      "duracionMin": 83,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/4hQ3mPltPN6FRV1tqXut0v"
+      },
+      "original": "https://www.ivoox.com/ep-21-solo-pianos-desde-1933-hasta-audios-mp3_rf_134430675_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "ECM"
+      ]
+    },
+    {
+      "id": "ep-20-soul-station-de-hank-mobley",
+      "titulo": "Soul Station de Hank Mobley",
+      "codigo": "Ep 20",
+      "fecha": "2024-06-01",
+      "duracionMin": 37,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/7io4X0f7QZhCrMmyqJTanA"
+      },
+      "original": "https://www.ivoox.com/ep-20-soul-station-hank-mobley-audios-mp3_rf_129714484_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Hard bop",
+        "Hank Mobley",
+        "Soul Station"
+      ]
+    },
+    {
+      "id": "ep-19-la-estetica-de-blue-note",
+      "titulo": "La Estética de Blue Note",
+      "codigo": "Ep 19",
+      "fecha": "2024-05-04",
+      "duracionMin": 50,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "Anatomía del Jazz La Estética de Blue Note"
+      },
+      "original": "https://www.ivoox.com/ep-19-la-estetica-blue-note-audios-mp3_rf_128436759_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Hard bop"
+      ]
+    },
+    {
+      "id": "ep-18-blowin-the-blues-away-horace-silver",
+      "titulo": "Blowin' The Blues Away · Horace Silver",
+      "codigo": "Ep 18",
+      "fecha": "2024-04-01",
+      "duracionMin": 50,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/4vx7ySL6wtweL4kPpqy78r"
+      },
+      "original": "https://www.ivoox.com/ep-18-blowin-the-blues-away-audios-mp3_rf_126815723_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Hard bop",
+        "Horace Silver",
+        "Blowin' the Blues Away"
+      ]
+    },
+    {
+      "id": "ep-17-el-jazz-y-el-cine",
+      "titulo": "El jazz y el cine",
+      "codigo": "Ep 17",
+      "fecha": "2024-03-03",
+      "duracionMin": 60,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/3Ox1cNazPAE5PgKl93vjAt"
+      },
+      "original": "https://www.ivoox.com/ep-17-el-jazz-cine-audios-mp3_rf_125232386_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": []
+    },
+    {
+      "id": "ep-16-charlie-parker-y-el-bebop",
+      "titulo": "Charlie Parker y el Bebop",
+      "codigo": "Ep 16",
+      "fecha": "2024-01-30",
+      "duracionMin": 52,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/0pkeD5BPQr2gxVQRZTVLCX"
+      },
+      "original": "https://www.ivoox.com/ep-16-charlie-parker-bebop-audios-mp3_rf_123446485_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Bebop",
+        "Charlie Parker"
+      ]
+    },
+    {
+      "id": "ep-15-unity-larry-young",
+      "titulo": "Unity · Larry Young",
+      "codigo": "Ep 15",
+      "fecha": "2023-11-03",
+      "duracionMin": 45,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/4NXWSjMEWycFFh0Akiq5Hl"
+      },
+      "original": "https://www.ivoox.com/ep-15-unity-larry-young-audios-mp3_rf_118912320_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Jazz modal"
+      ]
+    },
+    {
+      "id": "ep-14-jazz-de-fin-de-siglo-cruce-con-otros-generos",
+      "titulo": "Jazz de fin de siglo: cruce con otros géneros",
+      "codigo": "Ep 14",
+      "fecha": "2023-10-01",
+      "duracionMin": 52,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "Anatomía del Jazz Jazz de fin de siglo: cruce con otros géneros"
+      },
+      "original": "https://www.ivoox.com/ep-14-jazz-fin-siglo-audios-mp3_rf_116946862_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Jazz de hoy"
+      ]
+    },
+    {
+      "id": "ep-13-lester-young-with-the-oscar-peterson-trio",
+      "titulo": "Lester Young with the Oscar Peterson Trio",
+      "codigo": "Ep 13",
+      "fecha": "2023-09-03",
+      "duracionMin": 38,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "Anatomía del Jazz Lester Young with the Oscar Peterson Trio"
+      },
+      "original": "https://www.ivoox.com/ep-13-lester-young-with-the-oscar-audios-mp3_rf_115373653_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Lester Young",
+        "The President Plays with the Oscar Peterson Trio",
+        "Oscar Peterson"
+      ]
+    },
+    {
+      "id": "ep-12-night-lights-gerry-mulligan",
+      "titulo": "Night Lights · Gerry Mulligan",
+      "codigo": "Ep 12",
+      "fecha": "2023-08-01",
+      "duracionMin": 44,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "Anatomía del Jazz Night Lights · Gerry Mulligan"
+      },
+      "original": "https://www.ivoox.com/ep-12-night-lights-gerry-mulligan-audios-mp3_rf_113561097_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Cool",
+        "Gerry Mulligan",
+        "Night Lights"
+      ]
+    },
+    {
+      "id": "ep-11-versiones-de-round-midnight",
+      "titulo": "Versiones de Round Midnight",
+      "codigo": "Ep 11",
+      "fecha": "2023-07-07",
+      "duracionMin": 56,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "Anatomía del Jazz Versiones de Round Midnight"
+      },
+      "original": "https://www.ivoox.com/ep-11-versiones-round-midnight-audios-mp3_rf_111976293_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Thelonious Monk"
+      ]
+    },
+    {
+      "id": "ep-10-midnight-blue-kenny-burrell",
+      "titulo": "Midnight Blue · Kenny Burrell",
+      "codigo": "Ep 10",
+      "fecha": "2023-06-06",
+      "duracionMin": 35,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "Anatomía del Jazz Midnight Blue · Kenny Burrell"
+      },
+      "original": "https://www.ivoox.com/ep-10-midnight-blue-kenny-burrell-audios-mp3_rf_109846786_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Hard bop"
+      ]
+    },
+    {
+      "id": "ep-9-lady-in-satin-billie-holiday",
+      "titulo": "Lady In Satin · Billie Holiday",
+      "codigo": "Ep 9",
+      "fecha": "2023-05-17",
+      "duracionMin": 44,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "Anatomía del Jazz Lady In Satin · Billie Holiday"
+      },
+      "original": "https://www.ivoox.com/ep-9-lady-in-satin-billie-audios-mp3_rf_108446920_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Swing",
+        "Billie Holiday",
+        "Lady in Satin"
+      ]
+    },
+    {
+      "id": "ep-8-destination-out-jackie-mclean",
+      "titulo": "Destination Out · Jackie McLean",
+      "codigo": "Ep 8",
+      "fecha": "2023-04-28",
+      "duracionMin": 33,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "Anatomía del Jazz Destination Out · Jackie McLean"
+      },
+      "original": "https://www.ivoox.com/ep-8-destination-out-jackie-mclean-audios-mp3_rf_107152408_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Hard bop"
+      ]
+    },
+    {
+      "id": "ep-7-milestones-miles-davis",
+      "titulo": "Milestones · Miles Davis",
+      "codigo": "Ep 7",
+      "fecha": "2023-04-06",
+      "duracionMin": 36,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "Anatomía del Jazz Milestones · Miles Davis"
+      },
+      "original": "https://www.ivoox.com/ep-7-milestones-miles-davis-audios-mp3_rf_105906312_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Jazz modal",
+        "Miles Davis",
+        "Milestones"
+      ]
+    },
+    {
+      "id": "ep-6-the-sidewinder-lee-morgan",
+      "titulo": "The Sidewinder · Lee Morgan",
+      "codigo": "Ep 6",
+      "fecha": "2023-02-20",
+      "duracionMin": 34,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "Anatomía del Jazz The Sidewinder · Lee Morgan"
+      },
+      "original": "https://www.ivoox.com/ep-6-the-sidewinder-lee-morgan-audios-mp3_rf_103381160_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Lee Morgan",
+        "The Sidewinder"
+      ]
+    },
+    {
+      "id": "ep-5-brilliant-corners-thelonious-monk",
+      "titulo": "Brilliant Corners · Thelonious Monk",
+      "codigo": "Ep 5",
+      "fecha": "2023-01-30",
+      "duracionMin": 41,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "Anatomía del Jazz Brilliant Corners · Thelonious Monk"
+      },
+      "original": "https://www.ivoox.com/ep-5-brilliant-corners-thelonious-monk-audios-mp3_rf_102270975_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Thelonious Monk",
+        "Brilliant Corners"
+      ]
+    },
+    {
+      "id": "ep-4-speak-no-evil-wayne-shorter",
+      "titulo": "Speak No Evil · Wayne Shorter",
+      "codigo": "Ep 4",
+      "fecha": "2023-01-16",
+      "duracionMin": 29,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/5NyNdPZZyg8WrRUClbWScW"
+      },
+      "original": "https://www.ivoox.com/ep-4-speak-no-evil-wayne-audios-mp3_rf_101542496_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Wayne Shorter",
+        "Speak No Evil"
+      ]
+    },
+    {
+      "id": "ep-3-the-black-saint-and-the-sinner-lady-charles-mingus",
+      "titulo": "The Black Saint and The Sinner Lady · Charles Mingus",
+      "codigo": "Ep 3",
+      "fecha": "2022-12-28",
+      "duracionMin": 43,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "Anatomía del Jazz The Black Saint and The Sinner Lady · Charles Mingus"
+      },
+      "original": "https://www.ivoox.com/ep-3-the-black-saint-and-the-audios-mp3_rf_100578768_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Charles Mingus",
+        "The Black Saint and the Sinner Lady"
+      ]
+    },
+    {
+      "id": "ep-2-a-love-supreme-john-coltrane",
+      "titulo": "A Love Supreme · John Coltrane",
+      "codigo": "Ep 2",
+      "fecha": "2022-12-12",
+      "duracionMin": 52,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "Anatomía del Jazz A Love Supreme · John Coltrane"
+      },
+      "original": "https://www.ivoox.com/ep-2-a-love-supreme-john-audios-mp3_rf_99422316_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "John Coltrane",
+        "A Love Supreme",
+        "Alice Coltrane"
+      ]
+    },
+    {
+      "id": "ep-1-2-waltz-for-debby-bill-evans",
+      "titulo": "Waltz For Debby · Bill Evans",
+      "codigo": "Ep 1 2",
+      "fecha": "2022-11-25",
+      "duracionMin": 26,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "Anatomía del Jazz Waltz For Debby · Bill Evans"
+      },
+      "original": "https://www.ivoox.com/ep-1-2da-parte-waltz-for-debby-audios-mp3_rf_97005944_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Bill Evans",
+        "Waltz for Debby"
+      ]
+    },
+    {
+      "id": "ep-1-1-sunday-at-the-village-vanguard-bill-evans",
+      "titulo": "Sunday At The Village Vanguard · Bill Evans",
+      "codigo": "Ep 1 1",
+      "fecha": "2022-11-16",
+      "duracionMin": 25,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/2TkUXWrkHWk7ABQ7123ihi"
+      },
+      "original": "https://www.ivoox.com/ep-1-1ra-parte-sunday-at-the-audios-mp3_rf_96509017_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Bill Evans",
+        "Sunday at the Village Vanguard"
+      ]
+    }
+  ]
+}

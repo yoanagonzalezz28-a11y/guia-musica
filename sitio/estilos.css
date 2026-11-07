@@ -329,3 +329,19 @@ h3.rotulo { margin: 16px 0 6px; }
 .notas-anteriores li { padding: 8px; border: 1px solid var(--linea); }
 .notas-anteriores p { margin: 2px 0 6px; font-size: .9375rem; white-space: pre-wrap; overflow-wrap: anywhere; }
 .nota-borrar { padding: 6px 8px; font: 500 .75rem var(--dato); color: var(--tinta); background: transparent; border: 1px solid var(--linea); cursor: pointer; }
+
+/* ---------- Podcasts ---------- */
+.episodios { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 320px), 1fr)); gap: 8px; }
+.episodio { display: grid; gap: 4px; align-content: start; padding: 12px; background: var(--superficie); }
+.episodio-titulo { font-weight: 600; line-height: 1.3; overflow-wrap: anywhere; }
+.episodio-meta { font-size: .875rem; line-height: 1.35; color: var(--gris); }
+.episodio-acciones { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 12px; margin-top: 4px; font-size: .875rem; }
+.episodio-estado { font: 400 .6875rem/1.4 var(--dato); color: var(--gris); }
+.episodio-estado.alerta { color: #a4221a; }
+.boton-chico { padding: 6px 10px; font-size: .75rem; }
+.mas-episodios { margin-top: 10px; }
+.mas-episodios summary { cursor: pointer; font: 500 .875rem var(--dato); padding: 6px 0; }
+.programas { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr)); gap: 8px; }
+.programas li { display: grid; gap: 4px; align-content: start; padding: 14px; background: var(--superficie); }
+.programas strong { font: 700 1.375rem/1.1 var(--display); }
+.programas p { margin: 2px 0; font-size: 1rem; line-height: 1.4; }

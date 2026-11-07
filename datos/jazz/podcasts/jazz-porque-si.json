@@ -1,0 +1,375 @@
+{
+  "id": "jazz-porque-si",
+  "nombre": "Jazz porque sí",
+  "conductor": "Juan Claudio Cifuentes, \"Cifu\" (RTVE Radio Clásica)",
+  "descripcion": "El programa histórico de Cifu en Radio Clásica. RTVE mantiene publicados los últimos 20 episodios del feed.",
+  "idioma": "es",
+  "pais": "España",
+  "web": "https://www.rtve.es/play/audios/jazz-porque-si/",
+  "rss": "http://api.rtve.es/api/programas/1999/audios.rss",
+  "spotify": null,
+  "episodios": [
+    {
+      "id": "the-modern-jazz-quartet-1960",
+      "titulo": "The Modern Jazz Quartet (1960)",
+      "codigo": null,
+      "fecha": "2015-03-28",
+      "duracionMin": 120,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.rtve.es/play/audios/jazz-porque-si/jazz-porque-si-programa-postumo-modern-jazz-quartet-1960/3064921/",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Modern Jazz Quartet"
+      ]
+    },
+    {
+      "id": "thelonious-monk-1963",
+      "titulo": "Thelonious Monk (1963)",
+      "codigo": null,
+      "fecha": "2015-03-28",
+      "duracionMin": 119,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.rtve.es/play/audios/jazz-porque-si/jazz-porque-si-programa-postumo-thelonious-monk-1963/3064920/",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Thelonious Monk"
+      ]
+    },
+    {
+      "id": "thelonious-monk-1917-1982",
+      "titulo": "Thelonious Monk (1917-1982)",
+      "codigo": null,
+      "fecha": "2015-03-28",
+      "duracionMin": 119,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.rtve.es/play/audios/jazz-porque-si/jazz-porque-si-programa-postumo-thelonious-monk-1917-1982/3064880/",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Thelonious Monk"
+      ]
+    },
+    {
+      "id": "horace-silver-1928-2014",
+      "titulo": "Horace Silver (1928-2014)",
+      "codigo": null,
+      "fecha": "2015-03-28",
+      "duracionMin": 119,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.rtve.es/play/audios/jazz-porque-si/jazz-porque-si-programa-postumo-horace-silver-1928-2014/3064878/",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Horace Silver"
+      ]
+    },
+    {
+      "id": "gerry-mulligan-1927-1996",
+      "titulo": "Gerry Mulligan (1927-1996)",
+      "codigo": null,
+      "fecha": "2015-03-28",
+      "duracionMin": 119,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.rtve.es/play/audios/jazz-porque-si/jazz-porque-si-programa-postumo-gerry-mulligan-1927-1996/3064872/",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Gerry Mulligan"
+      ]
+    },
+    {
+      "id": "lester-young",
+      "titulo": "Lester Young",
+      "codigo": null,
+      "fecha": "2015-03-17",
+      "duracionMin": 59,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.rtve.es/play/audios/jazz-porque-si/jazz-porque-si-lester-young-18-03-15/3049800/",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Lester Young"
+      ]
+    },
+    {
+      "id": "philly-joe-jones",
+      "titulo": "Philly Joe Jones",
+      "codigo": null,
+      "fecha": "2015-03-15",
+      "duracionMin": 119,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.rtve.es/play/audios/jazz-porque-si/jazz-porque-si-160315/3045358/",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Philly Joe Jones"
+      ]
+    },
+    {
+      "id": "coleman-hawkins",
+      "titulo": "Coleman Hawkins",
+      "codigo": null,
+      "fecha": "2015-03-10",
+      "duracionMin": 59,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.rtve.es/play/audios/jazz-porque-si/jazz-porque-si-coleman-hawkins-11-03-15/3036938/",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Coleman Hawkins",
+        "Ornette Coleman"
+      ]
+    },
+    {
+      "id": "lee-morgan",
+      "titulo": "Lee Morgan",
+      "codigo": null,
+      "fecha": "2015-03-08",
+      "duracionMin": 119,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.rtve.es/play/audios/jazz-porque-si/jazz-porque-si-lee-morgan-09-03-15/3033306/",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Lee Morgan"
+      ]
+    },
+    {
+      "id": "fats-waller",
+      "titulo": "Fats Waller",
+      "codigo": null,
+      "fecha": "2015-03-03",
+      "duracionMin": 59,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.rtve.es/play/audios/jazz-porque-si/jazz-porque-si-fats-waller-04-03-15/3025079/",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Fats Waller"
+      ]
+    },
+    {
+      "id": "dexter-gordon",
+      "titulo": "Dexter Gordon",
+      "codigo": null,
+      "fecha": "2015-03-01",
+      "duracionMin": 119,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.rtve.es/play/audios/jazz-porque-si/jazz-porque-si-020315/3021145/",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Dexter Gordon"
+      ]
+    },
+    {
+      "id": "duke-ellington-1899-1974",
+      "titulo": "Duke Ellington (1899-1974)",
+      "codigo": null,
+      "fecha": "2015-02-24",
+      "duracionMin": 59,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.rtve.es/play/audios/jazz-porque-si/jazz-porque-si-duke-ellington-1899-1974-25-02-15/3013478/",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Duke Ellington"
+      ]
+    },
+    {
+      "id": "thelonious-monk-1917-1982-2",
+      "titulo": "Thelonious Monk (1917-1982)",
+      "codigo": null,
+      "fecha": "2015-02-22",
+      "duracionMin": 119,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.rtve.es/play/audios/jazz-porque-si/jazz-porque-si-thelonious-monk-1917-1982-23-02-15/3009963/",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Thelonious Monk"
+      ]
+    },
+    {
+      "id": "benny-carter-1980",
+      "titulo": "Benny Carter (1980)",
+      "codigo": null,
+      "fecha": "2015-02-17",
+      "duracionMin": 59,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.rtve.es/play/audios/jazz-porque-si/jazz-porque-si-180215/3002899/",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Benny Carter"
+      ]
+    },
+    {
+      "id": "louie-bellson-1924-2009",
+      "titulo": "Louie Bellson (1924-2009)",
+      "codigo": null,
+      "fecha": "2015-02-15",
+      "duracionMin": 118,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.rtve.es/play/audios/jazz-porque-si/jazz-porque-si-louie-bellson-1924-2009-16-02-15/2999998/",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Louie Bellson"
+      ]
+    },
+    {
+      "id": "billie-holiday-1957-11-02-15",
+      "titulo": "Billie Holiday (1957) -  11/02/15",
+      "codigo": null,
+      "fecha": "2015-02-10",
+      "duracionMin": 59,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.rtve.es/play/audios/jazz-porque-si/jazz-porque-si-billie-holiday-1957-11-02-15/2991758/",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Billie Holiday"
+      ]
+    },
+    {
+      "id": "harold-land",
+      "titulo": "Harold Land",
+      "codigo": null,
+      "fecha": "2015-02-08",
+      "duracionMin": 119,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.rtve.es/play/audios/jazz-porque-si/jazz-porque-si-harold-land-09-02-15/2987979/",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Harold Land"
+      ]
+    },
+    {
+      "id": "django-reinhardt",
+      "titulo": "Django Reinhardt",
+      "codigo": null,
+      "fecha": "2015-02-03",
+      "duracionMin": 55,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.rtve.es/play/audios/jazz-porque-si/jazz-porque-si-040215/2979898/",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Django Reinhardt"
+      ]
+    },
+    {
+      "id": "stan-getz",
+      "titulo": "Stan Getz",
+      "codigo": null,
+      "fecha": "2015-02-01",
+      "duracionMin": 120,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.rtve.es/play/audios/jazz-porque-si/jazz-porque-si-stan-getz-02-02-15/2975926/",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Stan Getz"
+      ]
+    }
+  ]
+}

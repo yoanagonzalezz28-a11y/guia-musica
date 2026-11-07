@@ -1,0 +1,32 @@
+{
+  "id": "la-casica",
+  "nombre": "Podcast La Casica, Historia del Jazz",
+  "conductor": null,
+  "descripcion": "Historia del jazz desde La Casica de Algezares.",
+  "idioma": "es",
+  "web": null,
+  "rss": null,
+  "spotify": "https://open.spotify.com/show/10PNCtjoENEBfD4zJDhxEq",
+  "episodios": [
+    {
+      "id": "podcast-la-casica-el-nacimiento-del-bebop-parte-1",
+      "titulo": "Podcast La Casica. El Nacimiento del Bebop. Parte 1",
+      "codigo": null,
+      "fecha": "2021-08-12",
+      "duracionMin": 86,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/52XnLnBzXftZVtfYRr50Ko"
+      },
+      "original": null,
+      "verificacion": {
+        "estado": "verificado",
+        "fecha": "2026-11-06",
+        "http": "spotify"
+      },
+      "temas": [
+        "Bebop"
+      ]
+    }
+  ]
+}

@@ -146,6 +146,28 @@
     aplicar();
   }
 
+  // ---------- Filtros de la página de podcasts ----------
+  function iniciarFiltrosEpisodios() {
+    const form = document.querySelector('[data-filtros-episodios]');
+    const lista = document.querySelector('[data-lista-episodios]');
+    if (!form || !lista) return;
+    const cuenta = form.querySelector('[data-cuenta-episodios]');
+    const filas = $$('.episodio', lista);
+    const aplicar = () => {
+      const f = new FormData(form);
+      let visibles = 0;
+      for (const fila of filas) {
+        const ok = (!f.get('programa') || fila.dataset.programa === f.get('programa')) && (!f.get('spotify') || fila.dataset.spotify === f.get('spotify'));
+        fila.hidden = !ok;
+        if (ok) visibles++;
+      }
+      cuenta.textContent = `${visibles} ${visibles === 1 ? 'episodio' : 'episodios'}`;
+    };
+    form.addEventListener('change', aplicar);
+    form.addEventListener('submit', e => e.preventDefault());
+    aplicar();
+  }
+
   // ---------- Página "Mis marcas" ----------
   function iniciarPanelMarcas() {
     const lista = document.querySelector('[data-lista-marcas]');
@@ -212,4 +234,5 @@
   pintarChips();
   iniciarFiltros();
   iniciarPanelMarcas();
+  iniciarFiltrosEpisodios();
 })();

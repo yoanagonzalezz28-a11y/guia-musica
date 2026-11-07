@@ -37,9 +37,11 @@ Cada respaldo dice cómo se llegó a él, y la ficha lo muestra:
 
 Nunca se presenta como leída una fuente que no se leyó.
 
-### Gioia
+### Libros pendientes y fuentes abiertas
 
-La cita a Gioia queda bloqueada mientras su estado sea `pendiente`. Eso no frena la publicación: las fichas salen con las fuentes consultadas y una aclaración de cotejo pendiente. Cuando Yoana pase las páginas por capítulo, se cotejan los textos, se cambia el estado a `consultada` y se agregan las citas.
+*The History of Jazz*, de Ted Gioia, la Penguin Guide y Giddins y DeVeaux todavía no se consultaron. La cita al libro de Gioia queda bloqueada mientras su estado sea `pendiente`, pero eso no frena la publicación. Cuando Yoana pase las páginas por capítulo, se cotejan los textos y se agregan las citas.
+
+Mientras tanto se priorizan fuentes abiertas: el blog de Ethan Iverson, The Honest Broker (el Substack de Ted Gioia), All About Jazz y los Blindfold Test publicados en DownBeat. The Honest Broker es otra fuente del mismo autor: citarlo no equivale a cotejar el libro.
 
 ## 3. Redescubrimientos
 
@@ -58,3 +60,10 @@ Además de los pioneros, cada región lista músicos activos con:
 La auditoría avisa cuando el último dato tiene dos años o más. Una fecha vieja no prueba que alguien haya dejado de tocar: es una señal para buscar mejor.
 
 **Comprobar las fechas siempre en la página original.** El buscador fechó en 2026 una nota sobre Daymé Arocena que en realidad era de 2019, y dos notas de DownBeat que eran de 2020 y 2024.
+
+## 5. Podcasts
+
+- Se priorizan los episodios en español, y se aclara el idioma del programa.
+- Cada corriente y cada región nueva debe sumar una búsqueda de episodios.
+- Prioridad de links: Spotify exacto, búsqueda en Spotify si el programa está confirmado ahí y, si no, el link original.
+- "Verificado" significa que el link respondió en la fecha indicada, no que alguien escuchó el episodio. Los temas salen del título y de la descripción del programa.

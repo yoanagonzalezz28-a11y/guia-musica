@@ -1,0 +1,74 @@
+{
+  "id": "historia-hablada",
+  "nombre": "La historia hablada del jazz",
+  "conductor": "Luis Palacios",
+  "descripcion": "Los músicos, los discos y las anécdotas que moldearon el género.",
+  "idioma": "es",
+  "web": null,
+  "rss": null,
+  "spotify": "https://open.spotify.com/show/4GysjXDOLE5ltLbgvaVbYB",
+  "episodios": [
+    {
+      "id": "capitulo-1-el-nacimiento-del-jazz",
+      "titulo": "Capítulo 1. El nacimiento del jazz. ",
+      "codigo": null,
+      "fecha": "2020-05-08",
+      "duracionMin": 26,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/6TKrdMHGBoS575FEeBvJgx"
+      },
+      "original": null,
+      "verificacion": {
+        "estado": "verificado",
+        "fecha": "2026-11-06",
+        "http": "spotify"
+      },
+      "temas": [
+        "Orígenes"
+      ]
+    },
+    {
+      "id": "capitulo-2-los-veintes-las-caracteristicas-del-jazz-y-sus-re",
+      "titulo": "Capítulo 2. Los veintes: las características del jazz y sus representantes",
+      "codigo": null,
+      "fecha": "2020-05-12",
+      "duracionMin": 25,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/5gSghJOJHWpU9iZKNCpJo3"
+      },
+      "original": null,
+      "verificacion": {
+        "estado": "verificado",
+        "fecha": "2026-11-06",
+        "http": "spotify"
+      },
+      "temas": [
+        "Orígenes"
+      ]
+    },
+    {
+      "id": "capitulo-3-los-treintas-benny-goodman-la-big-band-y-el-swing",
+      "titulo": "Capítulo 3. Los treintas: Benny Goodman, la Big Band y el Swing",
+      "codigo": null,
+      "fecha": "2020-05-23",
+      "duracionMin": 29,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/4ebteN32wXltLeWtgHfPe5"
+      },
+      "original": null,
+      "verificacion": {
+        "estado": "verificado",
+        "fecha": "2026-11-06",
+        "http": "spotify"
+      },
+      "temas": [
+        "Orígenes",
+        "Benny Goodman",
+        "Swing"
+      ]
+    }
+  ]
+}

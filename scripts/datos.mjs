@@ -19,6 +19,7 @@ export function cargarGenero(id) {
     musicos: coleccion(path.join(dir, 'musicos')),
     discos: coleccion(path.join(dir, 'discos')),
     comparaciones: coleccion(path.join(dir, 'comparaciones')),
+    podcasts: coleccion(path.join(dir, 'podcasts')),
   };
   g.por = {
     corriente: new Map(g.corrientes.map(x => [x.id, x])),
@@ -26,7 +27,42 @@ export function cargarGenero(id) {
     musico: new Map(g.musicos.map(x => [x.id, x])),
     disco: new Map(g.discos.map(x => [x.id, x])),
   };
+  g.episodios = g.podcasts.flatMap(p => p.episodios.map(e => ({ ...e, programa: p })));
+  resolverTemas(g);
   return g;
+}
+
+const claveTema = s => String(s).toLowerCase().normalize('NFD').replace(/\p{M}/gu, '').replace(/[^a-z0-9]+/g, ' ').trim();
+
+// Un tema se conecta solo con una ficha cuando existe: así un episodio no hay que tocarlo al cargar a su músico.
+function resolverTemas(g) {
+  const indice = new Map();
+  const sumar = (nombre, tipo, id) => {
+    const k = claveTema(nombre);
+    if (!indice.has(k)) indice.set(k, []);
+    indice.get(k).push([tipo, id]);
+  };
+  g.corrientes.forEach(c => [c.nombre, ...(c.alias || [])].forEach(n => sumar(n, 'corriente', c.id)));
+  g.regiones.forEach(r => sumar(r.nombre, 'region', r.id));
+  g.musicos.forEach(m => sumar(m.nombre, 'musico', m.id));
+  g.discos.forEach(d => sumar(d.titulo, 'disco', d.id));
+  for (const e of g.episodios) {
+    e.refs = { corriente: [], region: [], musico: [], disco: [] };
+    e.temasSinFicha = [];
+    for (const t of e.temas) {
+      const hallados = indice.get(claveTema(t));
+      if (!hallados) { e.temasSinFicha.push(t); continue; }
+      hallados.forEach(([tipo, id]) => { if (!e.refs[tipo].includes(id)) e.refs[tipo].push(id); });
+    }
+  }
+}
+
+// Primero lo que se puede escuchar con un toque, y dentro de eso lo más reciente.
+export function episodiosDe(g, tipo, id) {
+  const peso = e => (e.spotify.estado === 'verificado' ? 0 : e.spotify.estado === 'busqueda' ? 1 : 2);
+  return g.episodios
+    .filter(e => e.refs[tipo].includes(id))
+    .sort((a, b) => peso(a) - peso(b) || String(b.fecha).localeCompare(String(a.fecha)));
 }
 
 export const cargarFuentes = () => leer(path.join(RAIZ, 'datos', 'fuentes.json'));
@@ -169,6 +205,23 @@ export function validar(g, fuentes) {
     }
     for (const disco of g.discos) {
       if (disco.lideres.includes(m.id) && !enEpocas.has(disco.id)) err(d, `lidera "${disco.id}" pero no está en ninguna época`);
+    }
+  }
+
+  for (const p of g.podcasts) {
+    const d = `podcast ${p.id}`;
+    if (p._archivo !== `${p.id}.json`) err(d, 'el id no coincide con el archivo');
+    if (!p.nombre || !p.descripcion || !p.idioma) err(d, 'necesita nombre, descripción e idioma');
+    const vistos = new Set();
+    for (const e of p.episodios) {
+      const de = `${d}, ${e.titulo}`;
+      if (vistos.has(e.id)) err(de, 'id de episodio repetido');
+      vistos.add(e.id);
+      if (!['verificado', 'busqueda', 'sin-confirmar'].includes(e.spotify?.estado)) err(de, 'spotify.estado inválido');
+      if (e.spotify?.estado === 'verificado' && !/^https:\/\/open\.spotify\.com\/episode\/[A-Za-z0-9]{22}$/.test(e.spotify.url || '')) err(de, 'link de Spotify con formato inválido');
+      if (e.spotify?.estado === 'busqueda' && !p.spotify) err(de, 'solo se busca en Spotify si el programa está confirmado ahí');
+      if (e.spotify?.estado !== 'verificado' && !e.original) err(de, 'sin Spotify exacto necesita el link original');
+      if (!e.verificacion?.estado) err(de, 'necesita el estado de verificación');
     }
   }
 

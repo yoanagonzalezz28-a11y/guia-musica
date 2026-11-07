@@ -1,0 +1,1591 @@
+{
+  "id": "faro",
+  "nombre": "El Faro del Jazz",
+  "conductor": "Ramón García (Subterránea Radio)",
+  "descripcion": "Especiales por músico, a menudo en varias partes, con muchos discos sonando. Tiene mucha atención a España.",
+  "idioma": "es",
+  "pais": "España",
+  "web": "https://www.ivoox.com/podcast-faro-del-jazz_sq_f1700552_1.html",
+  "rss": "https://feeds.ivoox.com/feed_fg_f1700552_filtro_1.xml",
+  "spotify": "https://open.spotify.com/show/5sDRe5s2mQ1Lp5y6u0mhUG",
+  "episodios": [
+    {
+      "id": "8x03-antonio-serrano-parte-02",
+      "titulo": "Antonio Serrano (Parte 02)",
+      "codigo": "8x03",
+      "fecha": "2026-10-29",
+      "duracionMin": 69,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/2n6Dj0UQzQ8PZmAVOOEBGx"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-8x03-antonio-audios-mp3_rf_182995773_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Antonio Serrano"
+      ]
+    },
+    {
+      "id": "8x02-antonio-serrano-parte-01",
+      "titulo": "Antonio Serrano (Parte 01)",
+      "codigo": "8x02",
+      "fecha": "2026-10-04",
+      "duracionMin": 93,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/2LPqXeXz9TtqeQpEU3KKlt"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-8x02-antonio-audios-mp3_rf_181642105_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Antonio Serrano"
+      ]
+    },
+    {
+      "id": "8x01-coltrane-un-paso-de-gigante",
+      "titulo": "Coltrane, un paso de gigante",
+      "codigo": "8x01",
+      "fecha": "2026-08-30",
+      "duracionMin": 125,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 8x01 Coltrane, un paso de gigante"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-8x01-coltrane-audios-mp3_rf_179709804_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "John Coltrane",
+        "Alice Coltrane"
+      ]
+    },
+    {
+      "id": "7x09-chet-baker-parte-3",
+      "titulo": "Chet Baker (Parte 3)",
+      "codigo": "7x09",
+      "fecha": "2026-07-27",
+      "duracionMin": 143,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 7x09 Chet Baker (Parte 3)"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-7x09-chet-audios-mp3_rf_177963556_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Chet Baker"
+      ]
+    },
+    {
+      "id": "7x08-al-di-meola",
+      "titulo": "Al Di Meola",
+      "codigo": "7x08",
+      "fecha": "2026-06-26",
+      "duracionMin": 140,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 7x08 Al Di Meola"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-7x08-al-audios-mp3_rf_176335538_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Al Di Meola"
+      ]
+    },
+    {
+      "id": "7x07-el-piano-de-dave-brubeck-parte-2",
+      "titulo": "El piano de Dave Brubeck (Parte 2)",
+      "codigo": "7x07",
+      "fecha": "2026-06-08",
+      "duracionMin": 104,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 7x07 El piano de Dave Brubeck (Parte 2)"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-7x07-el-audios-mp3_rf_175167295_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Dave Brubeck"
+      ]
+    },
+    {
+      "id": "7x06-chet-baker-parte-2",
+      "titulo": "Chet Baker (Parte 2)",
+      "codigo": "7x06",
+      "fecha": "2026-05-08",
+      "duracionMin": 123,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 7x06 Chet Baker (Parte 2)"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-7x06-chet-audios-mp3_rf_173382198_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Chet Baker"
+      ]
+    },
+    {
+      "id": "7x05-chet-baker-parte-1",
+      "titulo": "Chet Baker (Parte 1)",
+      "codigo": "7x05",
+      "fecha": "2026-03-22",
+      "duracionMin": 131,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 7x05 Chet Baker (Parte 1)"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-7x05-chet-audios-mp3_rf_170551302_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Chet Baker"
+      ]
+    },
+    {
+      "id": "7x04-el-piano-de-dave-brubeck-parte-1",
+      "titulo": "El piano de Dave Brubeck (Parte 1)",
+      "codigo": "7x04",
+      "fecha": "2026-03-08",
+      "duracionMin": 89,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 7x04 El piano de Dave Brubeck (Parte 1)"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-7x04-el-audios-mp3_rf_169722139_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Dave Brubeck"
+      ]
+    },
+    {
+      "id": "7x03-un-paseo-por-the-eddy",
+      "titulo": "Un paseo por The Eddy",
+      "codigo": "7x03",
+      "fecha": "2026-01-16",
+      "duracionMin": 97,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 7x03 Un paseo por The Eddy"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-7x03-un-audios-mp3_rf_166871787_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": []
+    },
+    {
+      "id": "7x02-hiromi-uehara-una-explosion-sonora",
+      "titulo": "Hiromi Uehara, una explosión sonora",
+      "codigo": "7x02",
+      "fecha": "2025-11-26",
+      "duracionMin": 192,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/116xqZfQlFPGp01mnYYXRb"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-7x02-hiromi-audios-mp3_rf_163348707_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Hiromi",
+        "Japón"
+      ]
+    },
+    {
+      "id": "7x01-jacky-terrasson-parte-01",
+      "titulo": "Jacky Terrasson (Parte 01)",
+      "codigo": "7x01",
+      "fecha": "2025-10-19",
+      "duracionMin": 76,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/3HpOynLwdBxNvY0Psqkkbp"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-7x01-jacky-audios-mp3_rf_160925334_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Jacky Terrasson"
+      ]
+    },
+    {
+      "id": "6x08-al-foster-collaborations",
+      "titulo": "Al Foster Collaborations",
+      "codigo": "6x08",
+      "fecha": "2025-06-03",
+      "duracionMin": 115,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 6x08 Al Foster Collaborations"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-6x08-al-audios-mp3_rf_149096887_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Al Foster"
+      ]
+    },
+    {
+      "id": "6x07-phil-woods-el-bopper-impecable",
+      "titulo": "Phil Woods, el bopper impecable",
+      "codigo": "6x07",
+      "fecha": "2025-04-14",
+      "duracionMin": 144,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 6x07 Phil Woods, el bopper impecable"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-6x07-phil-audios-mp3_rf_144952073_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Phil Woods"
+      ]
+    },
+    {
+      "id": "6x06-andres-olaegui-camino-del-guadalquivir",
+      "titulo": "Andrés Olaegui, camino del Guadalquivir",
+      "codigo": "6x06",
+      "fecha": "2025-03-05",
+      "duracionMin": 155,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 6x06 Andrés Olaegui, camino del Guadalquivir"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-6x06-andres-audios-mp3_rf_141097961_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": []
+    },
+    {
+      "id": "6x05-universo-ornette-parte-2",
+      "titulo": "Universo Ornette (Parte 2)",
+      "codigo": "6x05",
+      "fecha": "2025-01-30",
+      "duracionMin": 127,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 6x05 Universo Ornette (Parte 2)"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-6x05-universo-audios-mp3_rf_139035604_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Ornette Coleman",
+        "Free jazz"
+      ]
+    },
+    {
+      "id": "6x04-universo-ornette-parte-1",
+      "titulo": "Universo Ornette (Parte 1)",
+      "codigo": "6x04",
+      "fecha": "2024-12-08",
+      "duracionMin": 136,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 6x04 Universo Ornette (Parte 1)"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-6x04-universo-audios-mp3_rf_136689612_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Ornette Coleman",
+        "Free jazz"
+      ]
+    },
+    {
+      "id": "6x03-chano-dominguez-monografico-parte-4",
+      "titulo": "Chano Domínguez - Monográfico (Parte 4)",
+      "codigo": "6x03",
+      "fecha": "2024-11-05",
+      "duracionMin": 130,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 6x03 Chano Domínguez - Monográfico (Parte 4)"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-6x03-chano-audios-mp3_rf_135595884_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Chano Domínguez",
+        "España"
+      ]
+    },
+    {
+      "id": "6x02-ella-fitzgerald-parte-2",
+      "titulo": "Ella Fitzgerald (Parte 2)",
+      "codigo": "6x02",
+      "fecha": "2024-09-29",
+      "duracionMin": 70,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 6x02 Ella Fitzgerald (Parte 2)"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-6x02-ella-audios-mp3_rf_134293801_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Ella Fitzgerald"
+      ]
+    },
+    {
+      "id": "6x01-ella-fitzgerald-parte-1",
+      "titulo": "Ella Fitzgerald (Parte 1)",
+      "codigo": "6x01",
+      "fecha": "2024-09-02",
+      "duracionMin": 128,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 6x01 Ella Fitzgerald (Parte 1)"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-6x01-ella-audios-mp3_rf_133392817_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Ella Fitzgerald"
+      ]
+    },
+    {
+      "id": "5x08-chano-dominguez-monografico-parte-3",
+      "titulo": "Chano Domínguez - Monográfico (Parte 3)",
+      "codigo": "5x08",
+      "fecha": "2024-08-19",
+      "duracionMin": 136,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 5x08 Chano Domínguez - Monográfico (Parte 3)"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-5x08-chano-audios-mp3_rf_132950883_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Chano Domínguez",
+        "España"
+      ]
+    },
+    {
+      "id": "5x07-chano-dominguez-monografico-parte-2",
+      "titulo": "Chano Domínguez - Monográfico (Parte 2)",
+      "codigo": "5x07",
+      "fecha": "2024-07-28",
+      "duracionMin": 129,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 5x07 Chano Domínguez - Monográfico (Parte 2)"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-5x07-chano-audios-mp3_rf_132134086_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Chano Domínguez",
+        "España"
+      ]
+    },
+    {
+      "id": "5x06-chano-dominguez-monografico-parte-1",
+      "titulo": "Chano Domínguez - Monográfico (Parte 1)",
+      "codigo": "5x06",
+      "fecha": "2024-07-14",
+      "duracionMin": 160,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 5x06 Chano Domínguez - Monográfico (Parte 1)"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-5x06-chano-audios-mp3_rf_131604707_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Chano Domínguez",
+        "España"
+      ]
+    },
+    {
+      "id": "5x05-yellowjackets-monografico-parte-2",
+      "titulo": "Yellowjackets - Monográfico (Parte 2)",
+      "codigo": "5x05",
+      "fecha": "2024-05-26",
+      "duracionMin": 119,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 5x05 Yellowjackets - Monográfico (Parte 2)"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-5x05-yellowjackets-audios-mp3_rf_129417168_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Yellowjackets",
+        "Fusión"
+      ]
+    },
+    {
+      "id": "5x04-especial-yellowjackets-parte-1-1981-1990",
+      "titulo": "Especial Yellowjackets (Parte 1, 1981-1990)",
+      "codigo": "5x04",
+      "fecha": "2024-04-14",
+      "duracionMin": 154,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 5x04 Especial Yellowjackets (Parte 1, 1981-1990)"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-5x04-especial-audios-mp3_rf_127499320_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Yellowjackets",
+        "Fusión"
+      ]
+    },
+    {
+      "id": "5x03-las-coplas-de-martirio-y-chano",
+      "titulo": "Las coplas de Martirio y Chano",
+      "codigo": "5x03",
+      "fecha": "2024-01-24",
+      "duracionMin": 94,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 5x03 Las coplas de Martirio y Chano"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-5x03-las-audios-mp3_rf_123166103_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Chano Domínguez"
+      ]
+    },
+    {
+      "id": "5x02-andrea-motis-tradicion-y-evolucion",
+      "titulo": "Andrea Motis, tradición y evolución",
+      "codigo": "5x02",
+      "fecha": "2023-11-01",
+      "duracionMin": 120,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 5x02 Andrea Motis, tradición y evolución"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-5x02-andrea-audios-mp3_rf_118804551_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Andrea Motis",
+        "España"
+      ]
+    },
+    {
+      "id": "5x01-especial-almerijazz-2023",
+      "titulo": "Especial AlmeriJazz 2023",
+      "codigo": "5x01",
+      "fecha": "2023-10-17",
+      "duracionMin": 140,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 5x01 Especial AlmeriJazz 2023"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-5x01-especial-audios-mp3_rf_117929114_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "España"
+      ]
+    },
+    {
+      "id": "4x09-jazz-y-the-beatles",
+      "titulo": "Jazz y The Beatles",
+      "codigo": "4x09",
+      "fecha": "2023-08-06",
+      "duracionMin": 135,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 4x09 Jazz y The Beatles"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-4x09-jazz-audios-mp3_rf_113784824_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": []
+    },
+    {
+      "id": "4x08-jazz-y-literatura-el-faro-de-recondito",
+      "titulo": "Jazz y literatura: El faro de Recóndito",
+      "codigo": "4x08",
+      "fecha": "2023-07-05",
+      "duracionMin": 126,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 4x08 Jazz y literatura: El faro de Recóndito"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-4x08-jazz-audios-mp3_rf_111808380_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": []
+    },
+    {
+      "id": "4x07-cecile-mclorin-salvant",
+      "titulo": "Cecile McLorin Salvant",
+      "codigo": "4x07",
+      "fecha": "2023-05-27",
+      "duracionMin": 127,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 4x07 Cecile McLorin Salvant"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-4x07-cecile-audios-mp3_rf_109086420_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Cécile McLorin Salvant",
+        "Jazz de hoy"
+      ]
+    },
+    {
+      "id": "4x06-john-helliwell-en-el-mundo-del-jazz",
+      "titulo": "John Helliwell en el mundo del jazz",
+      "codigo": "4x06",
+      "fecha": "2023-03-30",
+      "duracionMin": 191,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/75uhRcPXWkJnDdU2FcP2d3"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-4x06-john-audios-mp3_rf_105467569_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": []
+    },
+    {
+      "id": "4x05-el-jazz-en-la-musica-de-burt-bacharach-y-hal-david",
+      "titulo": "El jazz en la música de Burt Bacharach y Hal David",
+      "codigo": "4x05",
+      "fecha": "2023-02-16",
+      "duracionMin": 132,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 4x05 El jazz en la música de Burt Bacharach y Hal David"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-4x05-el-audios-mp3_rf_103222113_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": []
+    },
+    {
+      "id": "4x04-gerry-mulligan-parte-2",
+      "titulo": "Gerry Mulligan (Parte 2)",
+      "codigo": "4x04",
+      "fecha": "2023-02-05",
+      "duracionMin": 121,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 4x04 Gerry Mulligan (Parte 2)"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-4x04-gerry-audios-mp3_rf_102573532_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Cool",
+        "Gerry Mulligan"
+      ]
+    },
+    {
+      "id": "4x03-gerry-mulligan-el-fresco-del-pelo-rojo-parte-1",
+      "titulo": "Gerry Mulligan, el fresco del pelo rojo (Parte 1)",
+      "codigo": "4x03",
+      "fecha": "2023-01-03",
+      "duracionMin": 104,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 4x03 Gerry Mulligan, el fresco del pelo rojo (Parte 1)"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-4x03-gerry-audios-mp3_rf_100855275_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Cool",
+        "Gerry Mulligan"
+      ]
+    },
+    {
+      "id": "4x02-paul-stocker-incansable-viajero-del-jazz",
+      "titulo": "Paul Stocker, incansable viajero del jazz",
+      "codigo": "4x02",
+      "fecha": "2022-11-30",
+      "duracionMin": 182,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 4x02 Paul Stocker, incansable viajero del jazz"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-4x02-paul-audios-mp3_rf_97280275_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": []
+    },
+    {
+      "id": "4x01-especial-almerijazz-2022",
+      "titulo": "Especial Almerijazz 2022",
+      "codigo": "4x01",
+      "fecha": "2022-10-21",
+      "duracionMin": 138,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 4x01 Especial Almerijazz 2022"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-4x01-especial-audios-mp3_rf_94441197_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "España"
+      ]
+    },
+    {
+      "id": "3x10-especial-herbie-hancock-parte-3-1973-1978",
+      "titulo": "Especial Herbie Hancock (Parte 3, 1973-1978)",
+      "codigo": "3x10",
+      "fecha": "2022-08-14",
+      "duracionMin": 140,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 3x10 Especial Herbie Hancock (Parte 3, 1973-1978)"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-3x10-especial-audios-mp3_rf_91058287_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Herbie Hancock",
+        "Fusión"
+      ]
+    },
+    {
+      "id": "3x09-especial-herbie-hancock-parte-2-1968-1972",
+      "titulo": "Especial Herbie Hancock (Parte 2, 1968-1972)",
+      "codigo": "3x09",
+      "fecha": "2022-07-20",
+      "duracionMin": 149,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/3dpj9F0OH8UMe88STXTTDo"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-3x09-especial-audios-mp3_rf_90059972_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Herbie Hancock"
+      ]
+    },
+    {
+      "id": "3x08-especial-mas-jazz-de-verano",
+      "titulo": "Especial Más Jazz de verano",
+      "codigo": "3x08",
+      "fecha": "2022-07-14",
+      "duracionMin": 69,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 3x08 Especial Más Jazz de verano"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-3x08-especial-audios-mp3_rf_89809453_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": []
+    },
+    {
+      "id": "3x07-especial-herbie-hancock-parte-1-1962-1968",
+      "titulo": "Especial Herbie Hancock (Parte 1, 1962-1968)",
+      "codigo": "3x07",
+      "fecha": "2022-06-22",
+      "duracionMin": 123,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 3x07 Especial Herbie Hancock (Parte 1, 1962-1968)"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-3x07-especial-audios-mp3_rf_88866162_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Herbie Hancock"
+      ]
+    },
+    {
+      "id": "3x06-especial-charles-loos",
+      "titulo": "Especial Charles Loos",
+      "codigo": "3x06",
+      "fecha": "2022-04-02",
+      "duracionMin": 112,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 3x06 Especial Charles Loos"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-3x06-especial-audios-mp3_rf_85042859_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": []
+    },
+    {
+      "id": "3x05-reivindicando-a-roy-eldridge",
+      "titulo": "Reivindicando a Roy Eldridge",
+      "codigo": "3x05",
+      "fecha": "2022-02-28",
+      "duracionMin": 139,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 3x05 Reivindicando a Roy Eldridge"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-3x05-reivindicando-audios-mp3_rf_82863318_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Swing"
+      ]
+    },
+    {
+      "id": "3x04-record-a-jordi-sabates",
+      "titulo": "Record a Jordi Sabatés",
+      "codigo": "3x04",
+      "fecha": "2022-01-15",
+      "duracionMin": 146,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 3x04 Record a Jordi Sabatés"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-3x04-record-audios-mp3_rf_80897375_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "España"
+      ]
+    },
+    {
+      "id": "3x03-mas-free-jazz",
+      "titulo": "Más Free Jazz",
+      "codigo": "3x03",
+      "fecha": "2021-11-24",
+      "duracionMin": 106,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 3x03 Más Free Jazz"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-3x03-mas-audios-mp3_rf_78737408_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Free jazz"
+      ]
+    },
+    {
+      "id": "3x02-especial-dave-weckl",
+      "titulo": "Especial Dave Weckl",
+      "codigo": "3x02",
+      "fecha": "2021-10-16",
+      "duracionMin": 125,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 3x02 Especial Dave Weckl"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-3x02-especial-audios-mp3_rf_76891797_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Dave Weckl"
+      ]
+    },
+    {
+      "id": "3x01-especial-carlos-sir-charles-gonzalez",
+      "titulo": "Especial Carlos 'Sir Charles' González",
+      "codigo": "3x01",
+      "fecha": "2021-09-18",
+      "duracionMin": 168,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 3x01 Especial Carlos 'Sir Charles' González"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-3x01-especial-audios-mp3_rf_75630489_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "España"
+      ]
+    },
+    {
+      "id": "2x11-especial-verano-mas-jazz-latino",
+      "titulo": "Especial Verano Más Jazz Latino",
+      "codigo": "2x11",
+      "fecha": "2021-07-15",
+      "duracionMin": 87,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 2x11 Especial Verano Más Jazz Latino"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-2x11-especial-audios-mp3_rf_72840653_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Jazz latino"
+      ]
+    },
+    {
+      "id": "2x10-especial-the-changes",
+      "titulo": "Especial The Changes",
+      "codigo": "2x10",
+      "fecha": "2021-05-31",
+      "duracionMin": 180,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 2x10 Especial The Changes"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-2x10-especial-audios-mp3_rf_70751077_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": []
+    },
+    {
+      "id": "2x09-especial-the-brecker-brothers",
+      "titulo": "Especial The Brecker Brothers",
+      "codigo": "2x09",
+      "fecha": "2021-05-04",
+      "duracionMin": 196,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 2x09 Especial The Brecker Brothers"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-2x09-especial-audios-mp3_rf_69492412_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Brecker Brothers",
+        "Michael Brecker",
+        "Fusión"
+      ]
+    },
+    {
+      "id": "2x08-michael-brecker-parte-2",
+      "titulo": "Michael Brecker Parte 2",
+      "codigo": "2x08",
+      "fecha": "2021-03-28",
+      "duracionMin": 203,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 2x08 Michael Brecker Parte 2"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-2x08-michael-audios-mp3_rf_67490522_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Michael Brecker"
+      ]
+    },
+    {
+      "id": "2x07-michael-brecker-parte-1",
+      "titulo": "Michael Brecker Parte 1",
+      "codigo": "2x07",
+      "fecha": "2021-03-02",
+      "duracionMin": 175,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 2x07 Michael Brecker Parte 1"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-2x07-michael-audios-mp3_rf_66180354_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Michael Brecker"
+      ]
+    },
+    {
+      "id": "2x06-especial-mas-jazz-numero-50",
+      "titulo": "Especial Más Jazz número 50",
+      "codigo": "2x06",
+      "fecha": "2021-01-30",
+      "duracionMin": 149,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 2x06 Especial Más Jazz número 50"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-2x06-especial-audios-mp3_rf_64661244_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": []
+    },
+    {
+      "id": "2x05-la-melodia-de-las-balas-jazz-y-literatura",
+      "titulo": "La melodía de las balas (Jazz y literatura)",
+      "codigo": "2x05",
+      "fecha": "2020-12-29",
+      "duracionMin": 135,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 2x05 La melodía de las balas (Jazz y literatura)"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-2x05-la-audios-mp3_rf_63148725_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": []
+    },
+    {
+      "id": "2x04-especial-flamenco-jazz-o-jazz-flamenco",
+      "titulo": "Especial flamenco jazz (o jazz flamenco)",
+      "codigo": "2x04",
+      "fecha": "2020-11-27",
+      "duracionMin": 136,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 2x04 Especial flamenco jazz (o jazz flamenco)"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-2x04-especial-audios-mp3_rf_61037835_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "España"
+      ]
+    },
+    {
+      "id": "2x03-tigran-hamasyan-parte-2",
+      "titulo": "Tigran Hamasyan (Parte 2)",
+      "codigo": "2x03",
+      "fecha": "2020-10-30",
+      "duracionMin": 133,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 2x03 Tigran Hamasyan (Parte 2)"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-2x03-tigran-audios-mp3_rf_58899988_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Tigran Hamasyan",
+        "Jazz de hoy"
+      ]
+    },
+    {
+      "id": "2x02-tigran-hamasyan-parte-1",
+      "titulo": "Tigran Hamasyan (Parte 1)",
+      "codigo": "2x02",
+      "fecha": "2020-09-02",
+      "duracionMin": 125,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 2x02 Tigran Hamasyan (Parte 1)"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-2x02-tigran-audios-mp3_rf_57091785_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Tigran Hamasyan",
+        "Jazz de hoy"
+      ]
+    },
+    {
+      "id": "2x01-pat-metheny-group-parte-3",
+      "titulo": "Pat Metheny Group (Parte 3)",
+      "codigo": "2x01",
+      "fecha": "2020-09-01",
+      "duracionMin": 252,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 2x01 Pat Metheny Group (Parte 3)"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-2x01-pat-audios-mp3_rf_55908280_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Pat Metheny",
+        "Pat Metheny Group"
+      ]
+    },
+    {
+      "id": "1xs01-the-bad-plus-alma-de-jazz-corazon-de-rock",
+      "titulo": "The Bad Plus. Alma de jazz, corazón de rock",
+      "codigo": "1xS01",
+      "fecha": "2020-08-07",
+      "duracionMin": 104,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 1xS01 The Bad Plus. Alma de jazz, corazón de rock"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-1xs01-the-audios-mp3_rf_54928245_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "The Bad Plus",
+        "Jazz de hoy"
+      ]
+    },
+    {
+      "id": "1x20-especial-1er-aniversario-mezquida-perez-cruz-c-saiz-rei",
+      "titulo": "Especial 1er aniversario (Mezquida & Perez Cruz / C. Saiz / Reinaldo & Garcia)",
+      "codigo": "1x20",
+      "fecha": "2020-06-14",
+      "duracionMin": 142,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 1x20 Especial 1er aniversario (Mezquida & Perez Cruz / C. Saiz / Reinaldo"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-1x20-especial-audios-mp3_rf_52043670_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Nubya Garcia"
+      ]
+    },
+    {
+      "id": "1x19-pat-metheny-group-parte-2",
+      "titulo": "Pat Metheny Group (Parte 2)",
+      "codigo": "1x19",
+      "fecha": "2020-05-16",
+      "duracionMin": 175,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 1x19 Pat Metheny Group (Parte 2)"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-1x19-pat-audios-mp3_rf_51107916_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Pat Metheny",
+        "Pat Metheny Group"
+      ]
+    },
+    {
+      "id": "1x18-keith-jarrett-monografico-parte-4",
+      "titulo": "Keith Jarrett - Monográfico Parte 4",
+      "codigo": "1x18",
+      "fecha": "2020-04-25",
+      "duracionMin": 136,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 1x18 Keith Jarrett - Monográfico Parte 4"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-1x18-keith-audios-mp3_rf_50414770_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Keith Jarrett",
+        "ECM"
+      ]
+    },
+    {
+      "id": "1x17-keith-jarrett-monografico-parte-3",
+      "titulo": "Keith Jarrett - Monográfico Parte 3",
+      "codigo": "1x17",
+      "fecha": "2020-03-29",
+      "duracionMin": 106,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 1x17 Keith Jarrett - Monográfico Parte 3"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-1x17-keith-audios-mp3_rf_49405029_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Keith Jarrett",
+        "ECM"
+      ]
+    },
+    {
+      "id": "1x16-pat-metheny-group-parte-1",
+      "titulo": "Pat Metheny Group (Parte 1)",
+      "codigo": "1x16",
+      "fecha": "2020-03-08",
+      "duracionMin": 232,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 1x16 Pat Metheny Group (Parte 1)"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-1x16-pat-audios-mp3_rf_48651282_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Pat Metheny",
+        "Pat Metheny Group"
+      ]
+    },
+    {
+      "id": "1x15-big-bands-de-rock",
+      "titulo": "Big Bands de Rock",
+      "codigo": "1x15",
+      "fecha": "2020-02-19",
+      "duracionMin": 155,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 1x15 Big Bands de Rock"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-1x15-big-audios-mp3_rf_47980413_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Fusión"
+      ]
+    },
+    {
+      "id": "1x14-carla-bley-monografico-parte-2",
+      "titulo": "Carla Bley - Monográfico (Parte 2)",
+      "codigo": "1x14",
+      "fecha": "2020-01-29",
+      "duracionMin": 142,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 1x14 Carla Bley - Monográfico (Parte 2)"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-1x14-carla-audios-mp3_rf_47127842_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Carla Bley"
+      ]
+    },
+    {
+      "id": "1x13-especial-pianistas-mas-jazz-n-48",
+      "titulo": "Especial Pianistas (Mas Jazz nº 48)",
+      "codigo": "1x13",
+      "fecha": "2020-01-08",
+      "duracionMin": 144,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 1x13 Especial Pianistas (Mas Jazz nº 48)"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-1x13-especial-audios-mp3_rf_46289009_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": []
+    },
+    {
+      "id": "1x12-carla-bley-monografico-parte-1",
+      "titulo": "Carla Bley - Monográfico (Parte 1)",
+      "codigo": "1x12",
+      "fecha": "2019-12-17",
+      "duracionMin": 200,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 1x12 Carla Bley - Monográfico (Parte 1)"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-1x12-carla-audios-mp3_rf_45574144_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Carla Bley"
+      ]
+    },
+    {
+      "id": "1x11-keith-jarrett-monografico-parte-2",
+      "titulo": "Keith Jarrett - Monográfico Parte 2",
+      "codigo": "1x11",
+      "fecha": "2019-11-25",
+      "duracionMin": 121,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 1x11 Keith Jarrett - Monográfico Parte 2"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-1x11-keith-audios-mp3_rf_44696057_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Keith Jarrett",
+        "ECM"
+      ]
+    },
+    {
+      "id": "1x10-kurt-elling-la-otra-voz",
+      "titulo": "Kurt Elling, la otra voz",
+      "codigo": "1x10",
+      "fecha": "2019-11-04",
+      "duracionMin": 206,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 1x10 Kurt Elling, la otra voz"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-1x10-kurt-audios-mp3_rf_43874117_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Kurt Elling"
+      ]
+    },
+    {
+      "id": "1x09-jazznesis-parte-2",
+      "titulo": "Jazznesis Parte 2",
+      "codigo": "1x09",
+      "fecha": "2019-10-14",
+      "duracionMin": 108,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 1x09 Jazznesis Parte 2"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-1x09-jazznesis-audios-mp3_rf_43048389_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Orígenes"
+      ]
+    },
+    {
+      "id": "1x08-especial-keith-jarrett-parte-01",
+      "titulo": "Especial Keith Jarrett Parte 01",
+      "codigo": "1x08",
+      "fecha": "2019-09-23",
+      "duracionMin": 130,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 1x08 Especial Keith Jarrett Parte 01"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-1x08-especial-audios-mp3_rf_41843740_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Keith Jarrett",
+        "ECM"
+      ]
+    },
+    {
+      "id": "1x07-jazznesis-parte-01",
+      "titulo": "Jazznesis Parte 01",
+      "codigo": "1x07",
+      "fecha": "2019-09-02",
+      "duracionMin": 119,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 1x07 Jazznesis Parte 01"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-1x07-jazznesis-audios-mp3_rf_40757541_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Orígenes"
+      ]
+    },
+    {
+      "id": "1x06-especial-festivales-de-verano-2019-vitoria-y-munijazz",
+      "titulo": "Especial Festivales de Verano 2019 (Vitoria y Munijazz)",
+      "codigo": "1x06",
+      "fecha": "2019-07-30",
+      "duracionMin": 130,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 1x06 Especial Festivales de Verano 2019 (Vitoria y Munijazz)"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-1x06-especial-audios-mp3_rf_39159327_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": []
+    },
+    {
+      "id": "1x05-especial-chick-corea-parte-2",
+      "titulo": "Especial Chick Corea (Parte 2)",
+      "codigo": "1x05",
+      "fecha": "2019-07-08",
+      "duracionMin": 216,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 1x05 Especial Chick Corea (Parte 2)"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-1x05-especial-audios-mp3_rf_38156247_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Chick Corea"
+      ]
+    },
+    {
+      "id": "1x04-el-corazon-espanol-de-chick-corea-parte-1",
+      "titulo": "El corazon español de Chick Corea (Parte 1)",
+      "codigo": "1x04",
+      "fecha": "2019-06-19",
+      "duracionMin": 200,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 1x04 El corazon español de Chick Corea (Parte 1)"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-1x04-el-audios-mp3_rf_37319533_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Chick Corea"
+      ]
+    },
+    {
+      "id": "1x03-los-origenes-del-jazz-rock",
+      "titulo": "Los orígenes del jazz rock",
+      "codigo": "1x03",
+      "fecha": "2019-06-03",
+      "duracionMin": 131,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 1x03 Los orígenes del jazz rock"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-1x03-los-audios-mp3_rf_36621856_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "Fusión",
+        "Orígenes"
+      ]
+    },
+    {
+      "id": "1x02-cuando-el-jazz-se-colo-en-espana",
+      "titulo": "Cuando el jazz se colo en España",
+      "codigo": "1x02",
+      "fecha": "2019-05-20",
+      "duracionMin": 143,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 1x02 Cuando el jazz se colo en España"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-1x02-cuando-audios-mp3_rf_36092080_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": [
+        "España"
+      ]
+    },
+    {
+      "id": "1x01-y-se-hizo-la-luz",
+      "titulo": "Y se hizo la luz",
+      "codigo": "1x01",
+      "fecha": "2019-05-06",
+      "duracionMin": 143,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "El Faro del Jazz 1x01 Y se hizo la luz"
+      },
+      "original": "https://www.ivoox.com/faro-del-jazz-1x01-y-audios-mp3_rf_35429530_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-06"
+      },
+      "temas": []
+    }
+  ]
+}
