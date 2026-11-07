@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "tain-watts",
+  "nombre": "Jeff \"Tain\" Watts",
+  "nacimiento": {
+    "anio": 1960,
+    "lugar": "Pittsburgh"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "batería"
+  ],
+  "corrientes": [
+    "neotrad",
+    "hoy"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Baterista del primer quinteto de Wynton Marsalis y del cuarteto de Branford Marsalis durante décadas. Su toque denso y polirrítmico viene de Elvin Jones.",
+  "epocas": [
+    {
+      "titulo": "Neotradicionalismo",
+      "desde": 1999,
+      "hasta": 2002,
+      "texto": "",
+      "discoClave": {
+        "disco": "citizen-tain",
+        "explicacion": "Su debut como líder, con Branford y Wynton Marsalis y Kenny Kirkland."
+      },
+      "discos": [
+        "bar-talk"
+      ]
+    },
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2007,
+      "hasta": 2007,
+      "texto": "",
+      "discoClave": {
+        "disco": "folk-s-songs",
+        "explicacion": "Canciones propias con un humor muy suyo."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-jeff-tain-watts"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "citizen-tain",
+    "bar-talk",
+    "folk-s-songs",
+    "black-codes",
+    "renaissance"
+  ]
+}

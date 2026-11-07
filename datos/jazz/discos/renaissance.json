@@ -37,6 +37,11 @@
       "musico": "branford",
       "nombre": "Branford Marsalis",
       "instrumento": "saxo"
+    },
+    {
+      "musico": "tain-watts",
+      "nombre": "Jeff \"Tain\" Watts",
+      "instrumento": "batería"
     }
   ],
   "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",

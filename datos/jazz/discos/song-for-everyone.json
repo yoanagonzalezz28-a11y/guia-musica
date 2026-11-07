@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "india"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Song for Everyone L. Shankar"
+  },
+  "id": "song-for-everyone",
+  "titulo": "Song for Everyone",
+  "credito": "L. Shankar",
+  "lideres": [
+    "shankar"
+  ],
+  "grabacion": {
+    "desde": 1985,
+    "hasta": 1985,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1985,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "shankar",
+      "nombre": "L. Shankar",
+      "instrumento": "violín"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "Con Jan Garbarek, Zakir Hussain y Trilok Gurtu."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

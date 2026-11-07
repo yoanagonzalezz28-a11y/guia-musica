@@ -1,7 +1,7 @@
 {
   "revision": {
     "estado": "borrador",
-    "gioia": "pendiente"
+    "gioia": "cotejado"
   },
   "derivaPendiente": [],
   "regiones": [
@@ -86,6 +86,13 @@
     {
       "disco": "unity",
       "porque": "Un órgano que no suena como esperás."
+    }
+  ],
+  "respaldo": [
+    {
+      "fuente": "gioia",
+      "acceso": "completa",
+      "aporta": "Cap. \"La transición del jazz: Miles, Coltrane, Evans, Dolphy\", p. 495: la reputación del sexteto de Davis de fines de los 50 se apoya sobre todo en Kind of Blue, y en \"Milestones\" ya había ensayado la improvisación sobre modos."
     }
   ]
 }

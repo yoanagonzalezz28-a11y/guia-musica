@@ -1,7 +1,7 @@
 {
   "revision": {
     "estado": "borrador",
-    "gioia": "pendiente"
+    "gioia": "cotejado"
   },
   "derivaPendiente": [],
   "regiones": [
@@ -87,6 +87,13 @@
     {
       "disco": "hip-twist",
       "porque": "La reina del órgano, tocando con elegancia."
+    }
+  ],
+  "respaldo": [
+    {
+      "fuente": "gioia",
+      "acceso": "completa",
+      "aporta": "Cap. \"Hard bop, post-bop y soul jazz\", p. 522: en \"Sandu\", del quinteto de Brown y Roach, oye una pieza teñida de gospel que anticipa la faceta soul jazz del hard bop."
     }
   ]
 }

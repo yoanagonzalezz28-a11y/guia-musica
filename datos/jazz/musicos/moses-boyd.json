@@ -1,0 +1,50 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "moses-boyd",
+  "nombre": "Moses Boyd",
+  "nacimiento": {
+    "anio": 1991,
+    "lugar": "Londres"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "batería",
+    "producción"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "regiones": [
+    "reino-unido"
+  ],
+  "spotify": null,
+  "resumen": "Baterista y productor londinense que mezcla el jazz con el grime, el afrobeat y la electrónica.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2018,
+      "hasta": 2020,
+      "texto": "",
+      "discoClave": {
+        "disco": "displaced-diaspora",
+        "explicacion": "Con músicos de la escena del sur de Londres."
+      },
+      "discos": [
+        "dark-matter"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-moses-boyd"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "displaced-diaspora",
+    "dark-matter",
+    "dem-ones"
+  ]
+}

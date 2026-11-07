@@ -51,7 +51,7 @@
       "instrumento": "contrabajo"
     },
     {
-      "musico": null,
+      "musico": "tain-watts",
       "nombre": "Jeff \"Tain\" Watts",
       "instrumento": "batería"
     },
@@ -60,6 +60,11 @@
       "nombre": "Ron Carter",
       "instrumento": "contrabajo",
       "nota": "\"Aural Oasis\""
+    },
+    {
+      "musico": "tain-watts",
+      "nombre": "Jeff \"Tain\" Watts",
+      "instrumento": "batería"
     }
   ],
   "corrientes": [

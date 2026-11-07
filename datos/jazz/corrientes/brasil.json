@@ -1,7 +1,7 @@
 {
   "revision": {
     "estado": "borrador",
-    "gioia": "pendiente"
+    "gioia": "cotejado"
   },
   "derivaPendiente": [],
   "regiones": [
@@ -44,6 +44,10 @@
     {
       "fecha": "Fines de los 50",
       "texto": "Elizeth Cardoso graba los primeros temas de Jobim y Vinicius con João Gilberto.[^wp-bossa]"
+    },
+    {
+      "fecha": "1962",
+      "texto": "*Jazz Samba*, de Stan Getz y Charlie Byrd, llega al primer puesto de la lista de álbumes de Billboard.[^gioia]"
     },
     {
       "fecha": "1964",
@@ -94,6 +98,13 @@
     {
       "disco": "embalo",
       "porque": "El samba jazz en su mejor momento."
+    }
+  ],
+  "respaldo": [
+    {
+      "fuente": "gioia",
+      "acceso": "completa",
+      "aporta": "Cap. \"Jazz tradicional y cool jazz\", p. 473: \"Desafinado\", de Getz, llegó al puesto quince de los simples de Billboard en 1962, y Jazz Samba pasó más de un año en la lista de álbumes, donde llegó al primer puesto."
     }
   ]
 }

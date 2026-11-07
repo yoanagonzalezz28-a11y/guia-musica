@@ -1,7 +1,7 @@
 {
   "revision": {
     "estado": "borrador",
-    "gioia": "pendiente"
+    "gioia": "cotejado"
   },
   "derivaPendiente": [],
   "id": "manouche",
@@ -76,5 +76,12 @@
       "porque": "La tradición tocada hoy."
     }
   ],
-  "sinRedescubrimiento": "Falta todavía identificar un disco olvidado del estilo con buen respaldo."
+  "sinRedescubrimiento": "Falta todavía identificar un disco olvidado del estilo con buen respaldo.",
+  "respaldo": [
+    {
+      "fuente": "gioia",
+      "acceso": "completa",
+      "aporta": "Cap. \"Los combos de jazz de los años treinta\", p. 284: el Quintette du Hot Club de France fue uno de los grupos de jazz más importantes de su época, con una perspectiva europea que venía de la música gitana, la música clásica y el folclore."
+    }
+  ]
 }

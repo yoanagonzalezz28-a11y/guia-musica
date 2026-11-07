@@ -1,7 +1,7 @@
 {
   "revision": {
     "estado": "borrador",
-    "gioia": "pendiente"
+    "gioia": "cotejado"
   },
   "derivaPendiente": [],
   "regiones": [
@@ -94,6 +94,18 @@
     {
       "disco": "irakere-1979",
       "porque": "La voz propia de Cuba."
+    }
+  ],
+  "respaldo": [
+    {
+      "fuente": "gioia",
+      "acceso": "completa",
+      "aporta": "Cap. \"El asentamiento del bebop\", p. 368: Mario Bauzá dejó Cuba por Nueva York en 1930 y Machito llegó en 1937; sus Afro-Cubans fueron pioneros en unir la armonía del jazz con los ritmos cubanos."
+    },
+    {
+      "fuente": "gioia",
+      "acceso": "completa",
+      "aporta": "Cap. \"El nacimiento del bebop\", p. 351: Gillespie decía de Bauzá: \"Mario era como mi padre\"; fue quien alimentó su interés por la música afrocubana y luego le presentó a Chano Pozo."
     }
   ]
 }

@@ -37,6 +37,11 @@
       "musico": "binker-moses",
       "nombre": "Binker and Moses",
       "instrumento": "grupo"
+    },
+    {
+      "musico": "moses-boyd",
+      "nombre": "Moses Boyd",
+      "instrumento": "batería"
     }
   ],
   "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",

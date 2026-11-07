@@ -1,0 +1,49 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "urbaniak",
+  "nombre": "Michał Urbaniak",
+  "nacimiento": {
+    "anio": 1943,
+    "lugar": "Varsovia"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "violín",
+    "saxo"
+  ],
+  "corrientes": [
+    "fusion"
+  ],
+  "regiones": [
+    "europa-este"
+  ],
+  "spotify": null,
+  "resumen": "Violinista y saxofonista polaco que se instaló en Nueva York en los 70 y fue pionero del violín eléctrico en la fusión. Tocó con Miles Davis en *Tutu*.",
+  "epocas": [
+    {
+      "titulo": "Fusión",
+      "desde": 1974,
+      "hasta": 1974,
+      "texto": "",
+      "discoClave": {
+        "disco": "fusion-urbaniak",
+        "explicacion": "Violín eléctrico y folclore polaco: su llegada a Estados Unidos."
+      },
+      "discos": [
+        "atma"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-micha-urbaniak"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "fusion-urbaniak",
+    "atma"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "orlando-julius",
+  "nombre": "Orlando Julius",
+  "nacimiento": {
+    "anio": 1943,
+    "lugar": "Ikole, Nigeria"
+  },
+  "muerte": {
+    "anio": 2014
+  },
+  "instrumentos": [
+    "saxo",
+    "voz"
+  ],
+  "corrientes": [
+    "mundo"
+  ],
+  "regiones": [
+    "nigeria"
+  ],
+  "spotify": null,
+  "resumen": "Saxofonista nigeriano que mezcló el highlife con el soul estadounidense antes que Fela Kuti, y es uno de los antecedentes del afrobeat.",
+  "epocas": [
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 1966,
+      "hasta": 2014,
+      "texto": "",
+      "discoClave": {
+        "disco": "super-afro-soul",
+        "explicacion": "Highlife y soul con vientos: uno de los antecedentes del afrobeat."
+      },
+      "discos": [
+        "jaiyede-afro"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-orlando-julius"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "super-afro-soul",
+    "jaiyede-afro"
+  ]
+}

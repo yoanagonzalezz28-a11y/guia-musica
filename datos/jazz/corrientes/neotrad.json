@@ -1,7 +1,7 @@
 {
   "revision": {
     "estado": "borrador",
-    "gioia": "pendiente"
+    "gioia": "cotejado"
   },
   "derivaPendiente": [],
   "regiones": [
@@ -83,6 +83,13 @@
     {
       "disco": "kenny-kirkland",
       "porque": "El pianista que estaba detrás."
+    }
+  ],
+  "respaldo": [
+    {
+      "fuente": "gioia",
+      "acceso": "completa",
+      "aporta": "Cap. \"Hard bop, post-bop y soul jazz\", p. 559: describe el neotradicionalismo de los 80 y 90 como un regreso a estilos anteriores: Nueva Orleans, Ellington o el Miles Davis de mediados de los 60."
     }
   ]
 }

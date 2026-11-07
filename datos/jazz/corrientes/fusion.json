@@ -1,7 +1,7 @@
 {
   "revision": {
     "estado": "borrador",
-    "gioia": "pendiente"
+    "gioia": "cotejado"
   },
   "derivaPendiente": [],
   "regiones": [
@@ -90,6 +90,13 @@
     {
       "disco": "emergency",
       "porque": "La versión cruda, casi punk, antes de Bitches Brew."
+    }
+  ],
+  "respaldo": [
+    {
+      "fuente": "gioia",
+      "acceso": "completa",
+      "aporta": "Cap. \"Hard bop, post-bop y soul jazz\", p. 557: Bitches Brew, de 1969, es la gran ruptura con el pasado, preparada por el uso creciente de instrumentos eléctricos en las sesiones anteriores de Davis."
     }
   ]
 }

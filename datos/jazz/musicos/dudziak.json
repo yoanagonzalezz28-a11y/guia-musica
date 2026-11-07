@@ -1,0 +1,49 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "dudziak",
+  "nombre": "Urszula Dudziak",
+  "nacimiento": {
+    "anio": 1943,
+    "lugar": "Straconka, Polonia"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "voz",
+    "electrónica"
+  ],
+  "corrientes": [
+    "fusion"
+  ],
+  "regiones": [
+    "europa-este"
+  ],
+  "spotify": null,
+  "resumen": "Cantante polaca que usaba la voz como un instrumento, con efectos electrónicos y un registro enorme. Su tema \"Papaya\" fue un éxito en América Latina.",
+  "epocas": [
+    {
+      "titulo": "Fusión",
+      "desde": 1972,
+      "hasta": 1975,
+      "texto": "",
+      "discoClave": {
+        "disco": "newborn-light",
+        "explicacion": "Dúo con el pianista Adam Makowicz: voz y piano eléctrico en libertad."
+      },
+      "discos": [
+        "urszula"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-urszula-dudziak"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "newborn-light",
+    "urszula"
+  ]
+}

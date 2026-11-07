@@ -223,7 +223,7 @@ function notasFuentes(ctx, extra = []) {
   if (!items && !extra.length) return '';
   return `<section class="fuentes" aria-labelledby="titulo-fuentes"><h2 id="titulo-fuentes">Fuentes</h2>
     ${items ? `<ol>${items}</ol>` : ''}${extra.join('')}
-    <p class="aviso-gioia">Texto propio, en borrador. Falta cotejarlo con <cite>The History of Jazz</cite>, de Ted Gioia.</p></section>`;
+    <p class="aviso-gioia">${ctx.citas.includes('gioia') ? 'Texto propio, cotejado con <cite>Historia del jazz</cite>, de Ted Gioia.' : 'Texto propio, en borrador. Falta cotejarlo con <cite>Historia del jazz</cite>, de Ted Gioia.'}</p></section>`;
 }
 
 function pagina(ruta, ctx, { titulo, descripcion, cuerpo, seccion, claseCuerpo = '', sinFuentes = false }) {
@@ -359,11 +359,16 @@ const construir = {
   musicos() {
     const ruta = URL.musicos();
     const ctx = nuevoContexto(ruta);
-    const orden = [...g.musicos].sort((a, b) => a.nacimiento.anio - b.nacimiento.anio);
+    const orden = [...g.musicos].sort((a, b) => (a.nacimiento.anio ?? 9999) - (b.nacimiento.anio ?? 9999) || a.nombre.localeCompare(b.nombre));
     pagina(ruta, ctx, {
       titulo: 'Músicos', descripcion: 'Músicos organizados por épocas, con un disco clave explicado en cada una.', seccion: 'musicos', sinFuentes: true,
-      cuerpo: `<header class="encabezado"><h1>Músicos</h1><p>Ordenados por año de nacimiento. Cada ficha recorre la carrera por épocas, con un disco clave en cada una.</p></header>
-      <ul class="lista-musicos">${orden.map(m => tarjetaMusico(ctx, m.id)).join('')}</ul>`,
+      cuerpo: `<header class="encabezado"><h1>Músicos</h1><p>${g.musicos.length} músicos y grupos, ordenados por año de nacimiento. Cada ficha recorre la carrera por épocas y propone cinco discos.</p></header>
+      <form class="filtros" data-filtros-musicos aria-label="Filtrar músicos">
+        <label>Corriente <select name="corriente"><option value="">Todas</option>${porDecada(g.corrientes).flatMap(([, l]) => l).map(c => `<option value="${c.id}">${esc(c.nombre)}</option>`).join('')}</select></label>
+        <label>Instrumento <select name="instrumento"><option value="">Todos</option>${INSTRUMENTOS.map(([v, n]) => `<option value="${v}">${n}</option>`).join('')}</select></label>
+        <output class="filtros-cuenta" aria-live="polite" data-cuenta-musicos></output>
+      </form>
+      <ul class="lista-musicos" data-lista-musicos>${orden.map(m => tarjetaMusico(ctx, m.id)).join('')}</ul>`,
     });
   },
 
@@ -493,7 +498,7 @@ const construir = {
         <p>${enlacesFuente.map(([t, u]) => `<a href="${esc(u)}" rel="noopener">${t}</a>`).join(' · ')}</p>
         ${d.discrepancias.length ? `<h3>Dónde no coinciden las fuentes</h3><ul>${d.discrepancias.map(x => `<li>${ctx.texto(x.texto)}</li>`).join('')}</ul>` : ''}
         ${ctx.citas.length ? `<ol>${ctx.citas.map((id, i) => `<li id="fuente-${i + 1}"><a href="${esc(fuentes[id].url)}" rel="noopener">${esc(fuentes[id].titulo)}</a></li>`).join('')}</ol>` : ''}
-        <p class="aviso-gioia">Comentario propio, en borrador. Falta cotejarlo con <cite>The History of Jazz</cite>, de Ted Gioia.</p>
+        <p class="aviso-gioia">Comentario propio, en borrador. Falta cotejarlo con <cite>Historia del jazz</cite>, de Ted Gioia.</p>
       </section>`,
     });
   },
@@ -637,9 +642,14 @@ const construir = {
   },
 };
 
+// El jazz vocal no es una corriente sino una forma de tocar que atraviesa todas: se filtra por instrumento.
+const INSTRUMENTOS = [['voz', 'Voz'], ['piano', 'Piano y teclados'], ['saxo', 'Saxo'], ['trompeta', 'Trompeta y fliscorno'], ['trombon', 'Trombón y tuba'], ['clarinete', 'Clarinete y flauta'], ['guitarra', 'Guitarra'], ['bajo', 'Contrabajo y bajo'], ['bateria', 'Batería y percusión'], ['vibrafono', 'Vibráfono'], ['organo', 'Órgano'], ['cuerdas', 'Violín, oud y otras cuerdas'], ['composicion', 'Composición y dirección'], ['grupo', 'Grupos']];
+const FAMILIAS = { voz: /voz|canto/, piano: /piano|teclad|sintetiz|electr/, saxo: /saxo/, trompeta: /trompeta|corneta|flisc/, trombon: /tromb|tuba/, clarinete: /clarin|flaut|oboe/, guitarra: /guitarra/, bajo: /contrabajo|bajo/, bateria: /bater|percus|conga|tabla|timbal/, vibrafono: /vibr/, organo: /órgano|organo/, cuerdas: /viol|oud|arpa|bandone|sitar|acorde/, composicion: /compos|direcc|arreglo/, grupo: /grupo|trío|trio/ };
+const familiasDe = m => Object.entries(FAMILIAS).filter(([, re]) => m.instrumentos.some(i => re.test(i.toLowerCase()))).map(([k]) => k);
+
 function tarjetaMusico(ctx, id) {
   const m = g.por.musico.get(id);
-  return `<li class="tarjeta-musico"><a href="${ctx.a(URL.musico(id))}"><strong>${esc(m.nombre)}</strong><span>${esc(aniosVida(m))} · ${esc(m.instrumentos[0])}</span></a></li>`;
+  return `<li class="tarjeta-musico" data-corriente="${esc(m.corrientes.join(' '))}" data-instrumento="${esc(familiasDe(m).join(' '))}"><a href="${ctx.a(URL.musico(id))}"><strong>${esc(m.nombre)}</strong><span>${esc(aniosVida(m))} · ${esc(m.instrumentos[0])}</span></a></li>`;
 }
 
 function indiceDeBusqueda() {

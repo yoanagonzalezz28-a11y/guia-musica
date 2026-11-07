@@ -1,12 +1,12 @@
 {
   "gioia": {
     "tipo": "libro",
-    "titulo": "Ted Gioia, The History of Jazz (Oxford University Press)",
+    "titulo": "Ted Gioia, Historia del jazz (Turner, Madrid, 2012; traducción de Jaime Siles de The History of Jazz, Oxford University Press, 1997)",
     "url": null,
-    "consultada": null,
-    "estado": "pendiente",
-    "nota": "Referencia principal del proyecto. Todavía no se cotejó ningún texto con el libro, y por eso ninguna ficha lo cita.",
-    "nivel": "guia-critica"
+    "consultada": "2026-11-07",
+    "estado": "consultada",
+    "nivel": "guia-critica",
+    "nota": "Referencia principal del proyecto. Se cita por capítulo y página de la edición castellana; el libro llega hasta fines de los años 90."
   },
   "wp-bebop": {
     "tipo": "wikipedia",
@@ -4733,6 +4733,78 @@
     "nivel": "referencia",
     "titulo": "Biréli Lagrène (Wikipedia en inglés)",
     "url": "https://en.wikipedia.org/wiki/Bir%C3%A9li_Lagr%C3%A8ne",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-buddy-bolden": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Buddy Bolden (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Buddy_Bolden",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-jeff-tain-watts": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Jeff \"Tain\" Watts (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Jeff_%22Tain%22_Watts",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-mahmoud-ahmed": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Mahmoud Ahmed (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Mahmoud_Ahmed",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-juan-tizol": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Juan Tizol (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Juan_Tizol",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-l-shankar": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "L. Shankar (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/L._Shankar",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-micha-urbaniak": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Michał Urbaniak (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Micha%C5%82_Urbaniak",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-urszula-dudziak": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Urszula Dudziak (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Urszula_Dudziak",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-orlando-julius": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Orlando Julius (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Orlando_Julius",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-moses-boyd": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Moses Boyd (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Moses_Boyd",
     "consultada": "2026-11-07",
     "estado": "consultada"
   }

@@ -1,7 +1,7 @@
 {
   "revision": {
     "estado": "borrador",
-    "gioia": "pendiente"
+    "gioia": "cotejado"
   },
   "derivaPendiente": [],
   "id": "acid",
@@ -83,5 +83,12 @@
       "porque": "La guitarra de jazz sobre bases de hip hop."
     }
   ],
-  "sinRedescubrimiento": "Todavía no hay un disco del acid jazz que la crítica considere olvidado y que valga la pena rescatar; se revisará con más tiempo."
+  "sinRedescubrimiento": "Todavía no hay un disco del acid jazz que la crítica considere olvidado y que valga la pena rescatar; se revisará con más tiempo.",
+  "respaldo": [
+    {
+      "fuente": "gioia",
+      "acceso": "completa",
+      "aporta": "Cap. \"Fusión jazz-rock, fusión mundial y fusión clásica\", p. 620: el acid jazz tomaba elementos del soul, el jazz, el rap y el house; fue internacional desde el principio y se hizo popular primero en Londres a fines de los 80."
+    }
+  ]
 }

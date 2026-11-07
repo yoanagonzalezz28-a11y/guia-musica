@@ -35,6 +35,11 @@
       "musico": "zakir",
       "nombre": "Zakir Hussain",
       "instrumento": "tabla"
+    },
+    {
+      "musico": "shankar",
+      "nombre": "L. Shankar",
+      "instrumento": "violín"
     }
   ],
   "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",

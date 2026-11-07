@@ -1,7 +1,7 @@
 {
   "revision": {
     "estado": "borrador",
-    "gioia": "pendiente"
+    "gioia": "cotejado"
   },
   "derivaPendiente": [],
   "regiones": [
@@ -117,6 +117,18 @@
     {
       "disco": "astigmatic",
       "porque": "El jazz europeo encuentra su voz."
+    }
+  ],
+  "respaldo": [
+    {
+      "fuente": "gioia",
+      "acceso": "completa",
+      "aporta": "Cap. \"Fusión jazz-rock, fusión mundial y fusión clásica\", p. 606: abre el capítulo con la idea de que el jazz siempre fue una música de fusión."
+    },
+    {
+      "fuente": "gioia",
+      "acceso": "completa",
+      "aporta": "Cap. \"La transición del jazz: Miles, Coltrane, Evans, Dolphy\", p. 508: Coltrane estudió las músicas de la India, África y América Latina mucho antes de que se hablara de world music."
     }
   ]
 }

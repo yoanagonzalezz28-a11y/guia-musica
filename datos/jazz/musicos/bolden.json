@@ -1,0 +1,33 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "bolden",
+  "nombre": "Buddy Bolden",
+  "nacimiento": {
+    "anio": 1877,
+    "lugar": "Nueva Orleans"
+  },
+  "muerte": {
+    "anio": 1931
+  },
+  "instrumentos": [
+    "corneta"
+  ],
+  "corrientes": [
+    "origenes"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Cornetista de Nueva Orleans considerado, según la leyenda y testimonios sueltos, el primer músico de jazz. Tocaba en el Globe Hall, a la vista de Congo Square, y su música, más áspera que la de las bandas criollas, atraía a los jóvenes afroamericanos. No dejó ninguna grabación conocida: fue internado en 1907 y pasó el resto de su vida en un hospital psiquiátrico.",
+  "epocas": [],
+  "fuentes": [
+    "wp-buddy-bolden"
+  ],
+  "respaldo": [],
+  "discosEsenciales": []
+}

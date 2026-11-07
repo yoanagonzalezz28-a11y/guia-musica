@@ -86,7 +86,7 @@
       "instrumento": "trompeta, violín y voz"
     },
     {
-      "musico": null,
+      "musico": "tizol",
       "nombre": "Juan Tizol",
       "instrumento": "trombón a válvulas"
     },
@@ -94,6 +94,11 @@
       "musico": null,
       "nombre": "Ivie Anderson",
       "instrumento": "voz"
+    },
+    {
+      "musico": "tizol",
+      "nombre": "Juan Tizol",
+      "instrumento": "trombón"
     }
   ],
   "personalNota": "Lista parcial.",

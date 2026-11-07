@@ -90,6 +90,13 @@
   ],
   "revision": {
     "estado": "borrador",
-    "gioia": "pendiente"
-  }
+    "gioia": "cotejado"
+  },
+  "respaldo": [
+    {
+      "fuente": "gioia",
+      "acceso": "completa",
+      "aporta": "Cap. \"Hard bop, post-bop y soul jazz\", p. 519: abre el capítulo con la llegada de Max Roach a California en 1953, el comienzo del quinteto con Clifford Brown."
+    }
+  ]
 }

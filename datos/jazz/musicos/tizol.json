@@ -1,0 +1,39 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "tizol",
+  "nombre": "Juan Tizol",
+  "nacimiento": {
+    "anio": 1900,
+    "lugar": "Vega Baja, Puerto Rico"
+  },
+  "muerte": {
+    "anio": 1984
+  },
+  "instrumentos": [
+    "trombón",
+    "composición"
+  ],
+  "corrientes": [
+    "swing",
+    "latino"
+  ],
+  "regiones": [
+    "puerto-rico",
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Trombonista puertorriqueño de la orquesta de Duke Ellington. Compuso \"Caravan\" y \"Perdido\", dos de los temas más tocados del jazz, y fue de los primeros en llevar colores latinos a una big band.",
+  "epocas": [],
+  "fuentes": [
+    "wp-juan-tizol"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "caravan",
+    "never-no-lament"
+  ]
+}

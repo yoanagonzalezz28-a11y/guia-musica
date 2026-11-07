@@ -90,6 +90,13 @@
   ],
   "revision": {
     "estado": "borrador",
-    "gioia": "pendiente"
-  }
+    "gioia": "cotejado"
+  },
+  "respaldo": [
+    {
+      "fuente": "gioia",
+      "acceso": "completa",
+      "aporta": "Cap. \"Las big bands\", p. 256: ubica en el Minton's Playhouse de Harlem las jam sessions donde un grupo de músicos de vanguardia estaba creando el bebop."
+    }
+  ]
 }

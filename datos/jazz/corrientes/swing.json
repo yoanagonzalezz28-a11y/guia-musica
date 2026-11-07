@@ -1,7 +1,7 @@
 {
   "revision": {
     "estado": "borrador",
-    "gioia": "pendiente"
+    "gioia": "cotejado"
   },
   "derivaPendiente": [],
   "regiones": [
@@ -45,6 +45,10 @@
     {
       "fecha": "ago. 1935",
       "texto": "Goodman triunfa en el Palomar Ballroom de Los Ángeles.[^wp-goodman]"
+    },
+    {
+      "fecha": "21 ago. 1935",
+      "texto": "Benny Goodman en el Palomar Ballroom, la fecha que suele marcar el inicio de la era del swing.[^gioia]"
     },
     {
       "fecha": "1936",
@@ -100,6 +104,13 @@
     {
       "disco": "zodiac-suite",
       "porque": "Lo que se perdió el relato oficial."
+    }
+  ],
+  "respaldo": [
+    {
+      "fuente": "gioia",
+      "acceso": "completa",
+      "aporta": "Cap. \"El rey del swing\", p. 232: la actuación de Benny Goodman en el Palomar Ballroom de Los Ángeles, el 21 de agosto de 1935, es la fecha que suele marcarse como nacimiento de la era del swing, aunque fue el resultado de meses de trabajo."
     }
   ]
 }

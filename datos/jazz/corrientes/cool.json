@@ -25,7 +25,8 @@
     "El cool nace como reacción al bop, con tempos moderados, un tono más liviano y una actitud más reflexiva. Suele usar arreglos formales y elementos de la música clásica.[^wp-cool] La etiqueta llegó después: el término empezó a usarse hacia 1953.[^wp-cool]",
     "Su punto de partida más citado es el noneto de Miles Davis, que surgió de las charlas en el sótano de Gil Evans en la calle 55 de Nueva York.[^db-cool] A la vez, Lennie Tristano y sus alumnos, Lee Konitz y Warne Marsh, buscaban en otra dirección: en vez de copiar a Parker, volvían a Lester Young y a las líneas largas.[^iverson-konitz][^iverson-18]",
     "La idea cruzó el país. En California, el cuarteto sin piano de Gerry Mulligan con Chet Baker se volvió un foco del jazz de la Costa Oeste.[^loc-mulligan] El cuarteto de Dave Brubeck, por su parte, grabó en 1953 un concierto en la universidad de Oberlin que marcó la entrada del jazz como tema de estudio en esa institución.[^giddins-oberlin]",
-    "No fue un estilo uniforme: reúne grupos muy distintos entre sí, y Mark Gridley lo divide en cuatro subcorrientes.[^wp-cool] Kevin Whitehead señala la enorme influencia del noneto de Davis en el jazz blanco de la Costa Oeste.[^npr-konitz] Algunos críticos leen el hard bop, en parte, como una respuesta a esta música.[^wp-hardbop]"
+    "No fue un estilo uniforme: reúne grupos muy distintos entre sí, y Mark Gridley lo divide en cuatro subcorrientes.[^wp-cool] Kevin Whitehead señala la enorme influencia del noneto de Davis en el jazz blanco de la Costa Oeste.[^npr-konitz] Algunos críticos leen el hard bop, en parte, como una respuesta a esta música.[^wp-hardbop]",
+    "Ted Gioia recuerda que el modelo de esas sesiones fue la orquesta de Claude Thornhill, para la que arreglaba Gil Evans.[^gioia]"
   ],
   "suena": [
     "Saxos y trompetas casi sin vibrato, con un sonido suave y aireado.",
@@ -96,6 +97,13 @@
   ],
   "revision": {
     "estado": "borrador",
-    "gioia": "pendiente"
-  }
+    "gioia": "cotejado"
+  },
+  "respaldo": [
+    {
+      "fuente": "gioia",
+      "acceso": "completa",
+      "aporta": "Cap. \"Jazz tradicional y cool jazz\", p. 464: la orquesta de Claude Thornhill de 1946–47 fue el modelo reconocido de las sesiones de Miles Davis, y el título Birth of the Cool lo puso Pete Rugolo, productor de Capitol."
+    }
+  ]
 }

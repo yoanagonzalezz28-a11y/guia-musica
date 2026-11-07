@@ -1,7 +1,7 @@
 {
   "revision": {
     "estado": "borrador",
-    "gioia": "pendiente"
+    "gioia": "cotejado"
   },
   "derivaPendiente": [],
   "regiones": [
@@ -92,6 +92,18 @@
     {
       "disco": "morton-loc",
       "porque": "Un testigo que cuenta la historia en primera persona, con todas sus exageraciones."
+    }
+  ],
+  "respaldo": [
+    {
+      "fuente": "gioia",
+      "acceso": "completa",
+      "aporta": "Cap. \"Buddy Bolden, el enigmático padre del jazz\", p. 64: repasa la polémica sobre el lugar de la Original Dixieland Jazz Band: unos la ponen en el origen del jazz y otros la consideran una variante tosca del ragtime."
+    },
+    {
+      "fuente": "gioia",
+      "acceso": "completa",
+      "aporta": "Cap. \"La africanización de la música americana\", p. 8: presenta a Buddy Bolden como el primer músico de jazz según la leyenda y testimonios sueltos."
     }
   ]
 }

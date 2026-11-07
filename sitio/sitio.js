@@ -146,6 +146,29 @@
     aplicar();
   }
 
+  // ---------- Filtros de la lista de músicos ----------
+  function iniciarFiltrosMusicos() {
+    const form = document.querySelector('[data-filtros-musicos]');
+    const lista = document.querySelector('[data-lista-musicos]');
+    if (!form || !lista) return;
+    const cuenta = form.querySelector('[data-cuenta-musicos]');
+    const filas = $$('.tarjeta-musico', lista);
+    const aplicar = () => {
+      const f = new FormData(form);
+      let visibles = 0;
+      for (const fila of filas) {
+        const ok = (!f.get('corriente') || fila.dataset.corriente.split(' ').includes(f.get('corriente')))
+          && (!f.get('instrumento') || fila.dataset.instrumento.split(' ').includes(f.get('instrumento')));
+        fila.hidden = !ok;
+        if (ok) visibles++;
+      }
+      cuenta.textContent = `${visibles} ${visibles === 1 ? 'músico' : 'músicos'}`;
+    };
+    form.addEventListener('change', aplicar);
+    form.addEventListener('submit', e => e.preventDefault());
+    aplicar();
+  }
+
   // ---------- Filtros de la página de podcasts ----------
   function iniciarFiltrosEpisodios() {
     const form = document.querySelector('[data-filtros-episodios]');
@@ -233,6 +256,7 @@
   iniciarFichaMarcas();
   pintarChips();
   iniciarFiltros();
+  iniciarFiltrosMusicos();
   iniciarPanelMarcas();
   iniciarFiltrosEpisodios();
 })();

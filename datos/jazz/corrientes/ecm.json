@@ -1,7 +1,7 @@
 {
   "revision": {
     "estado": "borrador",
-    "gioia": "pendiente"
+    "gioia": "cotejado"
   },
   "derivaPendiente": [],
   "regiones": [],
@@ -31,7 +31,8 @@
   "texto": [
     "ECM se fundó en Múnich en 1969. Su lema, \"the most beautiful sound next to silence\", salió de una reseña de 1971 en la revista canadiense Coda.[^wp-ecm] Manfred Eicher produjo la inmensa mayoría de sus discos, y sus artistas suelen negarse a respetar las fronteras entre géneros.[^wp-ecm]",
     "Ted Gioia señala a Jan Garbarek como el modelo de un jazz europeo seguro de sí mismo, que dejó de mirar a Estados Unidos.[^gioia-garbarek] El sello, de todos modos, nunca fue solo nórdico: allí grabó Keith Jarrett, y debutó Pat Metheny.[^wp-jarrett][^wp-metheny]",
-    "Conviene desconfiar de la idea de un único \"sonido ECM\". Los primeros discos de Garbarek son ásperos, muy cerca del free, antes de lo que se conoció como la estética ECM.[^am-afric]"
+    "Conviene desconfiar de la idea de un único \"sonido ECM\". Los primeros discos de Garbarek son ásperos, muy cerca del free, antes de lo que se conoció como la estética ECM.[^am-afric]",
+    "Ted Gioia traza una línea que va de Bill Evans al sonido del sello, y recuerda la polémica que generó la llegada del Art Ensemble of Chicago, por las raíces opuestas de las dos músicas.[^gioia]"
   ],
   "suena": [
     "Grabaciones muy claras, con mucho aire alrededor de cada instrumento.",
@@ -88,6 +89,18 @@
     {
       "disco": "gnu-high",
       "porque": "Una joya de grupo, menos conocida."
+    }
+  ],
+  "respaldo": [
+    {
+      "fuente": "gioia",
+      "acceso": "completa",
+      "aporta": "Cap. \"La transición del jazz: Miles, Coltrane, Evans, Dolphy\", p. 501: señala una línea que va de Bill Evans al sonido de tintes clásicos de ECM, que pasó al primer plano en los 70."
+    },
+    {
+      "fuente": "gioia",
+      "acceso": "completa",
+      "aporta": "Cap. \"El free jazz y el jazz posmoderno\", p. 596: cuenta la polémica cuando el Art Ensemble of Chicago empezó a grabar para ECM: muchos veían el sonido europeo del sello y el de la AACM como incompatibles."
     }
   ]
 }

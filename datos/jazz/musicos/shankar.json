@@ -1,0 +1,50 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "shankar",
+  "nombre": "L. Shankar",
+  "nacimiento": {
+    "anio": 1950,
+    "lugar": "Madrás"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "violín"
+  ],
+  "corrientes": [
+    "mundo"
+  ],
+  "regiones": [
+    "india"
+  ],
+  "spotify": null,
+  "resumen": "Violinista indio de formación clásica carnática, que con John McLaughlin y Zakir Hussain fundó Shakti, uno de los primeros grupos en unir de verdad el jazz y la música de la India.",
+  "epocas": [
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 1980,
+      "hasta": 1985,
+      "texto": "",
+      "discoClave": {
+        "disco": "who-s-to-know",
+        "explicacion": "Su debut en ECM: un raga largo, con Zakir Hussain."
+      },
+      "discos": [
+        "song-for-everyone"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-l-shankar"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "shakti",
+    "who-s-to-know",
+    "song-for-everyone",
+    "this-moment"
+  ]
+}

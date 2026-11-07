@@ -1,0 +1,45 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "mahmoud-ahmed",
+  "nombre": "Mahmoud Ahmed",
+  "nacimiento": {
+    "anio": 1941,
+    "lugar": "Addis Abeba"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "voz"
+  ],
+  "corrientes": [
+    "mundo"
+  ],
+  "regiones": [
+    "etiopia"
+  ],
+  "spotify": null,
+  "resumen": "Uno de los grandes cantantes de la edad de oro de la música de Addis Abeba, con un estilo vocal lleno de ornamentos y una banda de vientos y órgano muy cercana al soul y al jazz.",
+  "epocas": [
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 1999,
+      "hasta": 1999,
+      "texto": "",
+      "discoClave": {
+        "disco": "ethiopiques-vol-7-ere-mela-mela",
+        "explicacion": "Grabaciones de mediados de los 70 con la Ibex Band: la voz etíope con vientos de soul jazz."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-mahmoud-ahmed"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "ethiopiques-vol-7-ere-mela-mela"
+  ]
+}
