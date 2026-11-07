@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "sudafrica"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Timelessness Bheki Mseleku"
+  },
+  "id": "timelessness",
+  "titulo": "Timelessness",
+  "credito": "Bheki Mseleku",
+  "lideres": [
+    "mseleku"
+  ],
+  "grabacion": {
+    "desde": 1994,
+    "hasta": 1994,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1994,
+    "detalle": null
+  },
+  "sello": "Verve",
+  "musicos": [
+    {
+      "musico": "mseleku",
+      "nombre": "Bheki Mseleku",
+      "instrumento": "piano, saxo"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "Con Joe Henderson y Pharoah Sanders."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,50 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "mekurya",
+  "nombre": "Getatchew Mekurya",
+  "nacimiento": {
+    "anio": 1935,
+    "lugar": "Etiopía"
+  },
+  "muerte": {
+    "anio": 2016
+  },
+  "instrumentos": [
+    "saxo tenor"
+  ],
+  "corrientes": [
+    "mundo"
+  ],
+  "regiones": [
+    "etiopia"
+  ],
+  "spotify": null,
+  "resumen": "Saxofonista etíope que trasladó al saxo el *shellela*, un canto guerrero tradicional, con un sonido salvaje que hizo pensar en Albert Ayler.",
+  "epocas": [
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 2003,
+      "hasta": 2006,
+      "texto": "",
+      "discoClave": {
+        "disco": "ethiopiques-vol-14-negus-of-ethiopian-sax",
+        "explicacion": "Recopilación de sus grabaciones de los 70."
+      },
+      "discos": [
+        "moa-anbessa"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-getatchew-mekurya"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "ethiopiques-vol-14-negus-of-ethiopian-sax",
+    "moa-anbessa"
+  ]
+}

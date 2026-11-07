@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
+    }
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6PB7xNvr7gi7pQD8mZWujh",
+    "tituloEnSpotify": "Madera, Cuero y Unas Campanas (Colegiales Trío)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "madera-cuero-y-unas-campanas",
+  "titulo": "Madera, cuero y unas campanas",
+  "credito": "Colegiales Trío",
+  "lideres": [
+    "iaies"
+  ],
+  "grabacion": {
+    "desde": 2019,
+    "hasta": 2019,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2019,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "iaies",
+      "nombre": "Adrián Iaies",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Trío de piano porteño, entre el tango y el jazz."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

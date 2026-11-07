@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
+    }
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4iTCCTwB3PY5DJQIL1q5El",
+    "tituloEnSpotify": "El Silenciero",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "el-silenciero",
+  "titulo": "El silenciero",
+  "credito": "Andrés Hayes",
+  "lideres": [
+    "hayes"
+  ],
+  "grabacion": {
+    "desde": 2008,
+    "hasta": 2008,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2008,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "hayes",
+      "nombre": "Andrés Hayes",
+      "instrumento": "saxo"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Otro de sus discos con grupo, de temas propios."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,45 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "lopez-furst",
+  "nombre": "Baby López Furst",
+  "nacimiento": {
+    "anio": 1938,
+    "lugar": "Buenos Aires"
+  },
+  "muerte": {
+    "anio": 1985
+  },
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "rioplat"
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "spotify": "https://open.spotify.com/artist/6gZQ1gJJ069kkcJogwx5l7",
+  "resumen": "Pianista porteño, figura del jazz argentino de los 60 y 70.",
+  "epocas": [
+    {
+      "titulo": "Jazz rioplatense",
+      "desde": 2005,
+      "hasta": 2005,
+      "texto": "",
+      "discoClave": {
+        "disco": "jazz-argentino",
+        "explicacion": "Piano trío del jazz porteño clásico."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [],
+  "respaldo": [],
+  "discosEsenciales": [
+    "jazz-argentino"
+  ]
+}

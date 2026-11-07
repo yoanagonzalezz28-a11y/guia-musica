@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "ofarrill",
+  "nombre": "Chico O'Farrill",
+  "nacimiento": {
+    "anio": 1921,
+    "lugar": "La Habana"
+  },
+  "muerte": {
+    "anio": 2001
+  },
+  "instrumentos": [
+    "arreglos",
+    "composición",
+    "trompeta"
+  ],
+  "corrientes": [
+    "latino"
+  ],
+  "regiones": [
+    "cuba",
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Arreglador y compositor cubano, uno de los grandes orquestadores del jazz afrocubano. Escribió para Machito, Dizzy Gillespie, Stan Kenton y Count Basie, y en los 90 volvió a dirigir su propia orquesta en Nueva York.",
+  "epocas": [
+    {
+      "titulo": "Jazz latino",
+      "desde": 1995,
+      "hasta": 1999,
+      "texto": "",
+      "discoClave": {
+        "disco": "pure-emotion",
+        "explicacion": "Su regreso con big band en Nueva York, con arreglos de una enorme riqueza."
+      },
+      "discos": [
+        "heart-of-a-legend"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-chico-o-farrill"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "afro-cuban-jazz-suite",
+    "pure-emotion",
+    "heart-of-a-legend"
+  ]
+}

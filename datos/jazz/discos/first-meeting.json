@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "europa-este"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "First Meeting Miroslav Vitouš"
+  },
+  "id": "first-meeting",
+  "titulo": "First Meeting",
+  "credito": "Miroslav Vitouš",
+  "lideres": [
+    "vitous"
+  ],
+  "grabacion": {
+    "desde": 1980,
+    "hasta": 1980,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1980,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "vitous",
+      "nombre": "Miroslav Vitouš",
+      "instrumento": "contrabajo"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Con John Surman y Kenny Kirkland."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

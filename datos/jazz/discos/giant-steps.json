@@ -10,8 +10,10 @@
   "catalogo": null,
   "lugar": "Atlantic Studios, Nueva York",
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Giant Steps John Coltrane"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t",
+    "tituloEnSpotify": "Giant Steps (Mono)",
+    "deLaDiscotecaDeYoana": true
   },
   "id": "giant-steps",
   "titulo": "Giant Steps",

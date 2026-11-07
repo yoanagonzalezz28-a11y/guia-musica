@@ -1,0 +1,46 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "tsuyoshi-yamamoto",
+  "nombre": "Tsuyoshi Yamamoto",
+  "nacimiento": {
+    "anio": 1948,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "mundo"
+  ],
+  "regiones": [
+    "japon"
+  ],
+  "spotify": "https://open.spotify.com/artist/2FMVHbUsxMXDcucz9v8ARi",
+  "resumen": "Pianista japonés del sello Three Blind Mice, de un lirismo bluesero y elegante.",
+  "epocas": [
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 1974,
+      "hasta": 1974,
+      "texto": "",
+      "discoClave": {
+        "disco": "misty-yamamoto",
+        "explicacion": "Baladas en trío, grabadas con un sonido de enorme calidad."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-tsuyoshi-yamamoto"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "midnight-sugar",
+    "misty-yamamoto"
+  ]
+}

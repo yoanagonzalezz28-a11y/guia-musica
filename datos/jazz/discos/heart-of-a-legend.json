@@ -1,0 +1,57 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "cuba",
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Heart of a Legend Chico O'Farrill"
+  },
+  "id": "heart-of-a-legend",
+  "titulo": "Heart of a Legend",
+  "credito": "Chico O'Farrill",
+  "lideres": [
+    "ofarrill"
+  ],
+  "grabacion": {
+    "desde": 1999,
+    "hasta": 1999,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1999,
+    "detalle": null
+  },
+  "sello": "Milestone",
+  "musicos": [
+    {
+      "musico": "ofarrill",
+      "nombre": "Chico O'Farrill",
+      "instrumento": "arreglos, composición, trompeta"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "latino"
+  ],
+  "comentario": [
+    "Con Cachao y Gato Barbieri entre los invitados."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

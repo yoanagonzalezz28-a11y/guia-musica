@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "europa-este"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Jazz Raga Gábor Szabó"
+  },
+  "id": "jazz-raga",
+  "titulo": "Jazz Raga",
+  "credito": "Gábor Szabó",
+  "lideres": [
+    "szabo"
+  ],
+  "grabacion": {
+    "desde": 1967,
+    "hasta": 1967,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1967,
+    "detalle": null
+  },
+  "sello": "Impulse!",
+  "musicos": [
+    {
+      "musico": "szabo",
+      "nombre": "Gábor Szabó",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "Toca también el sitar: raga y jazz."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

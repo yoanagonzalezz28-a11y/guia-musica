@@ -1,0 +1,51 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "hailu",
+  "nombre": "Hailu Mergia",
+  "nacimiento": {
+    "anio": 1946,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "teclados",
+    "acordeón"
+  ],
+  "corrientes": [
+    "mundo"
+  ],
+  "regiones": [
+    "etiopia"
+  ],
+  "spotify": null,
+  "resumen": "Tecladista de la Walias Band, de la edad de oro de la música de Addis Abeba. Durante años manejó un taxi en Washington, hasta que sus discos fueron redescubiertos.",
+  "epocas": [
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 1977,
+      "hasta": 2018,
+      "texto": "",
+      "discoClave": {
+        "disco": "tche-belew",
+        "explicacion": "Con la Walias Band: funk y etiojazz."
+      },
+      "discos": [
+        "hailu-mergia-and-his-classical-instrument",
+        "lala-belu"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-hailu-mergia"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "tche-belew",
+    "hailu-mergia-and-his-classical-instrument",
+    "lala-belu"
+  ]
+}

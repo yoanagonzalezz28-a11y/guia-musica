@@ -10,8 +10,10 @@
   "catalogo": "BLP 4195",
   "lugar": "Estudio Van Gelder, Englewood Cliffs, Nueva Jersey",
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Maiden Voyage Herbie Hancock"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf",
+    "tituloEnSpotify": "Maiden Voyage (Remastered 1999/Rudy Van Gelder Edition)",
+    "deLaDiscotecaDeYoana": true
   },
   "id": "maiden-voyage",
   "titulo": "Maiden Voyage",

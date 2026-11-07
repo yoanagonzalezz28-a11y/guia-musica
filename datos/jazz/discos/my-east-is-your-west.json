@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "india"
+  ],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1lsysC4SWo3gdT6rXNnwJg",
+    "tituloEnSpotify": "My East Is Your West (feat. Upaj Collective) [Live]",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "my-east-is-your-west",
+  "titulo": "My East Is Your West",
+  "credito": "Sarathy Korwar",
+  "lideres": [
+    "korwar"
+  ],
+  "grabacion": {
+    "desde": 2018,
+    "hasta": 2018,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2018,
+    "detalle": null
+  },
+  "sello": "Gearbox",
+  "musicos": [
+    {
+      "musico": "korwar",
+      "nombre": "Sarathy Korwar",
+      "instrumento": "batería, tabla"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "En vivo, con el Upaj Collective: versiones de jazz espiritual y de música india."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

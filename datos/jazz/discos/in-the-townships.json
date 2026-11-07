@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "sudafrica"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "In the Townships Dudu Pukwana"
+  },
+  "id": "in-the-townships",
+  "titulo": "In the Townships",
+  "credito": "Dudu Pukwana",
+  "lideres": [
+    "pukwana"
+  ],
+  "grabacion": {
+    "desde": 1973,
+    "hasta": 1973,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1973,
+    "detalle": null
+  },
+  "sello": "Caroline",
+  "musicos": [
+    {
+      "musico": "pukwana",
+      "nombre": "Dudu Pukwana",
+      "instrumento": "saxo alto"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "Con su grupo Spear: el sonido de los townships en Londres."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1VUdsgwh9tgYdTKX7LHYcS",
+    "tituloEnSpotify": "Flamenco Sketches",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "flamenco-sketches",
+  "titulo": "Flamenco Sketches",
+  "credito": "Chano Domínguez",
+  "lideres": [
+    "chano-dominguez"
+  ],
+  "grabacion": {
+    "desde": 2012,
+    "hasta": 2012,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2012,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "chano-dominguez",
+      "nombre": "Chano Domínguez",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "latino"
+  ],
+  "comentario": [
+    "*Kind of Blue* y otros temas de Miles pasados por el flamenco."
+  ],
+  "ids": {
+    "musicbrainz": "5c910ade-e5ed-40c2-8577-b5ccd7e15c30",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

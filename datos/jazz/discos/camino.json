@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
+    }
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6sIwEICZAmGjQqZ9UcRYsl",
+    "tituloEnSpotify": "Camino",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "camino",
+  "titulo": "Camino",
+  "credito": "Hernán Jacinto",
+  "lideres": [
+    "jacinto"
+  ],
+  "grabacion": {
+    "desde": 2015,
+    "hasta": 2015,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2015,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "jacinto",
+      "nombre": "Hernán Jacinto",
+      "instrumento": "piano, teclados"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Piano y grupo con influencias del folclore."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "nigeria"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3pfynOJzm6LDQMyt03g0Up",
+    "tituloEnSpotify": "Rejoice (Special Edition)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "rejoice",
+  "titulo": "Rejoice",
+  "credito": "Tony Allen",
+  "lideres": [
+    "tony-allen"
+  ],
+  "grabacion": {
+    "desde": 2020,
+    "hasta": 2020,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2020,
+    "detalle": null
+  },
+  "sello": "World Circuit",
+  "musicos": [
+    {
+      "musico": "tony-allen",
+      "nombre": "Tony Allen",
+      "instrumento": "batería"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "Con Hugh Masekela, grabado años antes y editado tras la muerte del trompetista."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

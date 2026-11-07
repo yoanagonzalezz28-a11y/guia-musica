@@ -1,0 +1,57 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "rio-de-la-plata",
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Jazz Meets the Symphony Lalo Schifrin"
+  },
+  "id": "jazz-meets-the-symphony",
+  "titulo": "Jazz Meets the Symphony",
+  "credito": "Lalo Schifrin",
+  "lideres": [
+    "schifrin"
+  ],
+  "grabacion": {
+    "desde": 1993,
+    "hasta": 1993,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1993,
+    "detalle": null
+  },
+  "sello": "Atlantic",
+  "musicos": [
+    {
+      "musico": "schifrin",
+      "nombre": "Lalo Schifrin",
+      "instrumento": "piano, composición, arreglos"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Orquesta sinfónica y jazz, con Ray Brown y Grady Tate."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

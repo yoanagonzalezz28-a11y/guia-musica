@@ -1,0 +1,51 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "david-sanchez",
+  "nombre": "David Sánchez",
+  "nacimiento": {
+    "anio": 1968,
+    "lugar": "Guaynabo, Puerto Rico"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "saxo tenor"
+  ],
+  "corrientes": [
+    "latino"
+  ],
+  "regiones": [
+    "puerto-rico"
+  ],
+  "spotify": null,
+  "resumen": "Saxofonista puertorriqueño, discípulo de Dizzy Gillespie, que une el tenor de Coltrane con la bomba y la plena.",
+  "epocas": [
+    {
+      "titulo": "Jazz latino",
+      "desde": 1998,
+      "hasta": 2008,
+      "texto": "",
+      "discoClave": {
+        "disco": "obsesion",
+        "explicacion": "Temas latinoamericanos con arreglos de Carlos Franzetti."
+      },
+      "discos": [
+        "coral",
+        "cultural-survival"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-david-sanchez-musician"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "obsesion",
+    "coral",
+    "cultural-survival",
+    "habana"
+  ]
+}

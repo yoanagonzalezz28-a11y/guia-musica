@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
+    }
+  ],
+  "regiones": [
+    "cuba"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/66ddMl9jBOyoSeM9WLQgjh",
+    "tituloEnSpotify": "Transparency",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "transparency",
+  "titulo": "Transparency",
+  "credito": "Dafnis Prieto",
+  "lideres": [
+    "dafnis-prieto"
+  ],
+  "grabacion": {
+    "desde": 2020,
+    "hasta": 2020,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2020,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "dafnis-prieto",
+      "nombre": "Dafnis Prieto",
+      "instrumento": "batería, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "latino"
+  ],
+  "comentario": [
+    "Con su sexteto."
+  ],
+  "ids": {
+    "musicbrainz": "2ca4bc71-dec4-4173-85d3-71bdf671aa4d",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,46 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "chano-dominguez",
+  "nombre": "Chano Domínguez",
+  "nacimiento": {
+    "anio": 1960,
+    "lugar": "Cádiz"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "latino"
+  ],
+  "regiones": [],
+  "spotify": "https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI",
+  "resumen": "Pianista gaditano que cruzó el flamenco con el jazz. Apareció en la película *Calle 54*, de Fernando Trueba.",
+  "epocas": [
+    {
+      "titulo": "Jazz latino",
+      "desde": 1996,
+      "hasta": 2012,
+      "texto": "",
+      "discoClave": {
+        "disco": "flamenco-sketches",
+        "explicacion": "*Kind of Blue* y otros temas de Miles pasados por el flamenco."
+      },
+      "discos": [
+        "hecho-a-mano"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-chano-dominguez"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "flamenco-sketches",
+    "hecho-a-mano"
+  ]
+}

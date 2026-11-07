@@ -10,8 +10,10 @@
   "catalogo": null,
   "lugar": "Estudio Van Gelder, Englewood Cliffs, Nueva Jersey",
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Unit Structures Cecil Taylor"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2GQNkSoyBPwTkpuzn8niec",
+    "tituloEnSpotify": "Unit Structures",
+    "deLaDiscotecaDeYoana": true
   },
   "id": "unit-structures",
   "titulo": "Unit Structures",

@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "brasil"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4m7DmqHfFKU77UUFcG2bnH",
+    "tituloEnSpotify": "Azimuth",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "azimuth",
+  "titulo": "Azimuth",
+  "credito": "Azimuth",
+  "lideres": [
+    "azimuth"
+  ],
+  "grabacion": {
+    "desde": 1975,
+    "hasta": 1975,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1975,
+    "detalle": null
+  },
+  "sello": "Som Livre",
+  "musicos": [
+    {
+      "musico": "azimuth",
+      "nombre": "Azimuth",
+      "instrumento": "grupo"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "brasil"
+  ],
+  "comentario": [
+    "Su debut, con \"Linha do Horizonte\": sintetizadores y samba."
+  ],
+  "ids": {
+    "musicbrainz": "66acd556-5184-4b4b-9766-0934177b640a",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

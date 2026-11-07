@@ -1,0 +1,48 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "plachta",
+  "nombre": "Alan Plachta",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "guitarra",
+    "composición"
+  ],
+  "corrientes": [
+    "rioplat",
+    "hoy"
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "spotify": "https://open.spotify.com/artist/0LIpCAgTqGSTqtSUrcWOny",
+  "resumen": "Guitarrista de la escena actual que trabaja entre Buenos Aires y Montevideo.",
+  "epocas": [
+    {
+      "titulo": "Jazz rioplatense",
+      "desde": 2011,
+      "hasta": 2019,
+      "texto": "",
+      "discoClave": {
+        "disco": "colectivo-argentino-uruguayo",
+        "explicacion": "Un proyecto que junta músicos de las dos orillas."
+      },
+      "discos": [
+        "la-cocina-magnetica"
+      ]
+    }
+  ],
+  "fuentes": [],
+  "respaldo": [],
+  "discosEsenciales": [
+    "colectivo-argentino-uruguayo",
+    "la-cocina-magnetica"
+  ]
+}

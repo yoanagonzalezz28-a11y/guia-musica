@@ -43,7 +43,7 @@
       "instrumento": "piano"
     },
     {
-      "musico": null,
+      "musico": "pukwana",
       "nombre": "Dudu Pukwana",
       "instrumento": "saxo alto"
     },
@@ -58,7 +58,7 @@
       "instrumento": "trompeta de bolsillo"
     },
     {
-      "musico": null,
+      "musico": "dyani",
       "nombre": "Johnny Dyani",
       "instrumento": "contrabajo"
     },
@@ -66,6 +66,11 @@
       "musico": null,
       "nombre": "Louis Moholo",
       "instrumento": "batería"
+    },
+    {
+      "musico": "pukwana",
+      "nombre": "Dudu Pukwana",
+      "instrumento": "saxo alto"
     }
   ],
   "corrientes": [

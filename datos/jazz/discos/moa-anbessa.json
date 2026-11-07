@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "etiopia"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Moa Anbessa Getatchew Mekurya"
+  },
+  "id": "moa-anbessa",
+  "titulo": "Moa Anbessa",
+  "credito": "Getatchew Mekurya",
+  "lideres": [
+    "mekurya"
+  ],
+  "grabacion": {
+    "desde": 2006,
+    "hasta": 2006,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2006,
+    "detalle": null
+  },
+  "sello": "Terp",
+  "musicos": [
+    {
+      "musico": "mekurya",
+      "nombre": "Getatchew Mekurya",
+      "instrumento": "saxo tenor"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "Con la banda holandesa The Ex: free y punk."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

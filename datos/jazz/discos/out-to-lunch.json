@@ -10,8 +10,10 @@
   "catalogo": "BLP 4163",
   "lugar": "Estudio Van Gelder, Englewood Cliffs, Nueva Jersey",
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Out to Lunch Eric Dolphy"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3PIVqZzL1PnrxFZDzuT1aX",
+    "tituloEnSpotify": "Out To Lunch (The Rudy Van Gelder Edition)",
+    "deLaDiscotecaDeYoana": true
   },
   "id": "out-to-lunch",
   "titulo": "Out to Lunch!",

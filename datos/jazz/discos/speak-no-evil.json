@@ -15,8 +15,10 @@
   "catalogo": null,
   "lugar": "Estudio Van Gelder, Englewood Cliffs, Nueva Jersey",
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Speak No Evil Wayne Shorter"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU",
+    "tituloEnSpotify": "Speak No Evil (The Rudy Van Gelder Edition)",
+    "deLaDiscotecaDeYoana": true
   },
   "id": "speak-no-evil",
   "titulo": "Speak No Evil",

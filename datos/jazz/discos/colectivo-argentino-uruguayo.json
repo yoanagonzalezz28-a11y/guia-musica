@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
+    }
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7aDp7xJjCkw5pnfeWQfkwH",
+    "tituloEnSpotify": "Colectivo Argentino Uruguayo",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "colectivo-argentino-uruguayo",
+  "titulo": "Colectivo Argentino Uruguayo",
+  "credito": "Alan Plachta",
+  "lideres": [
+    "plachta"
+  ],
+  "grabacion": {
+    "desde": 2011,
+    "hasta": 2011,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2011,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "plachta",
+      "nombre": "Alan Plachta",
+      "instrumento": "guitarra, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Un proyecto que junta músicos de las dos orillas."
+  ],
+  "ids": {
+    "musicbrainz": "e6f540de-020e-4533-b53e-47abe559adec",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

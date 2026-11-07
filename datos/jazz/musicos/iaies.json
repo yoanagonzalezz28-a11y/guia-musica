@@ -1,0 +1,43 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "iaies",
+  "nombre": "Adrián Iaies",
+  "nacimiento": {
+    "anio": 1960,
+    "lugar": "Buenos Aires"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "rioplat"
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "spotify": "https://open.spotify.com/artist/38yosjfq6EXdWuWbLSKulh",
+  "resumen": "Pianista porteño que cruza el jazz con el tango. Dirigió el Festival de Jazz de Buenos Aires.",
+  "epocas": [
+    {
+      "titulo": "Jazz rioplatense",
+      "desde": 2019,
+      "hasta": 2019,
+      "texto": "",
+      "discoClave": {
+        "disco": "madera-cuero-y-unas-campanas",
+        "explicacion": "Trío de piano porteño, entre el tango y el jazz."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [],
+  "respaldo": [],
+  "discosEsenciales": [
+    "madera-cuero-y-unas-campanas"
+  ]
+}

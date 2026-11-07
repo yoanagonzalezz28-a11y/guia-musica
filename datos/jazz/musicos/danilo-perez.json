@@ -1,0 +1,65 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "danilo-perez",
+  "nombre": "Danilo Pérez",
+  "nacimiento": {
+    "anio": 1965,
+    "lugar": "Ciudad de Panamá"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano",
+    "composición"
+  ],
+  "corrientes": [
+    "latino",
+    "hoy"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/6nPiCm3jwXHrOsMbTDoc4E",
+  "resumen": "Pianista panameño que tocó con Dizzy Gillespie y fue durante quince años parte del cuarteto de Wayne Shorter. Une el jazz con la música panameña y caribeña.",
+  "epocas": [
+    {
+      "titulo": "Jazz latino",
+      "desde": 1996,
+      "hasta": 2010,
+      "texto": "",
+      "discoClave": {
+        "disco": "panamonk",
+        "explicacion": "Monk con ritmos panameños."
+      },
+      "discos": [
+        "motherland",
+        "providencia"
+      ]
+    },
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2015,
+      "hasta": 2015,
+      "texto": "",
+      "discoClave": {
+        "disco": "children-of-the-light",
+        "explicacion": "Trío con John Patitucci y Brian Blade, la base del cuarteto de Shorter."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-danilo-perez"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "panamonk",
+    "motherland",
+    "providencia",
+    "children-of-the-light",
+    "footprints-live"
+  ]
+}

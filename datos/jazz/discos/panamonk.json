@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "PanaMonk Danilo Pérez"
+  },
+  "id": "panamonk",
+  "titulo": "PanaMonk",
+  "credito": "Danilo Pérez",
+  "lideres": [
+    "danilo-perez"
+  ],
+  "grabacion": {
+    "desde": 1996,
+    "hasta": 1996,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1996,
+    "detalle": null
+  },
+  "sello": "Impulse!",
+  "musicos": [
+    {
+      "musico": "danilo-perez",
+      "nombre": "Danilo Pérez",
+      "instrumento": "piano, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "latino"
+  ],
+  "comentario": [
+    "Monk con ritmos panameños."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

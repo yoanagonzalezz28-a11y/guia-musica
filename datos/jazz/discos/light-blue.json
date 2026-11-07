@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
+    }
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1RXiTPfAqZikGwKCRNhvUk",
+    "tituloEnSpotify": "Light Blue",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "light-blue",
+  "titulo": "Light Blue",
+  "credito": "Ernesto Jodos",
+  "lideres": [
+    "jodos"
+  ],
+  "grabacion": {
+    "desde": 2012,
+    "hasta": 2012,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2012,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "jodos",
+      "nombre": "Ernesto Jodos",
+      "instrumento": "piano, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Piano de grupo con un lenguaje muy suyo."
+  ],
+  "ids": {
+    "musicbrainz": "cd0ebad5-3153-408e-9da2-323e7f96ec03",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

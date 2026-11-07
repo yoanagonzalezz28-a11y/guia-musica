@@ -1,0 +1,67 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "schifrin",
+  "nombre": "Lalo Schifrin",
+  "nacimiento": {
+    "anio": 1932,
+    "lugar": "Buenos Aires"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano",
+    "composición",
+    "arreglos"
+  ],
+  "corrientes": [
+    "rioplat",
+    "latino"
+  ],
+  "regiones": [
+    "rio-de-la-plata",
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Pianista y compositor porteño que tocó con Dizzy Gillespie y después se volvió uno de los grandes compositores de Hollywood, autor del tema de *Misión imposible*.",
+  "epocas": [
+    {
+      "titulo": "Jazz brasileño",
+      "desde": 1962,
+      "hasta": 1962,
+      "texto": "",
+      "discoClave": {
+        "disco": "bossa-nova-new-brazilian-jazz",
+        "explicacion": "La bossa nova vista desde el jazz de Nueva York."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Jazz rioplatense",
+      "desde": 1967,
+      "hasta": 1993,
+      "texto": "",
+      "discoClave": {
+        "disco": "mission-impossible",
+        "explicacion": "El tema en compás de 5/4 que se volvió uno de los más famosos de la televisión."
+      },
+      "discos": [
+        "bullitt",
+        "jazz-meets-the-symphony"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-lalo-schifrin"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "gillespiana",
+    "bossa-nova-new-brazilian-jazz",
+    "mission-impossible",
+    "bullitt",
+    "jazz-meets-the-symphony"
+  ]
+}

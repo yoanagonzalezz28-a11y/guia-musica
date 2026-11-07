@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
+    }
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4HOdms8urlVRxKfdd9flql",
+    "tituloEnSpotify": "Son Dos",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "son-dos",
+  "titulo": "Son dos",
+  "credito": "Ramiro Flores",
+  "lideres": [
+    "ramiro-flores"
+  ],
+  "grabacion": {
+    "desde": 2012,
+    "hasta": 2012,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2012,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "ramiro-flores",
+      "nombre": "Ramiro Flores",
+      "instrumento": "saxo, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Un formato más íntimo."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

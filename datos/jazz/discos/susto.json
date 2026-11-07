@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "japon"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Susto Masabumi Kikuchi"
+  },
+  "id": "susto",
+  "titulo": "Susto",
+  "credito": "Masabumi Kikuchi",
+  "lideres": [
+    "kikuchi"
+  ],
+  "grabacion": {
+    "desde": 1981,
+    "hasta": 1981,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1981,
+    "detalle": null
+  },
+  "sello": "CBS/Sony",
+  "musicos": [
+    {
+      "musico": "kikuchi",
+      "nombre": "Masabumi Kikuchi",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "fusion"
+  ],
+  "comentario": [
+    "Jazz eléctrico con funk y electrónica: un disco de culto."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -48,7 +48,7 @@
       "instrumento": "saxos alto y soprano"
     },
     {
-      "musico": null,
+      "musico": "david-sanchez",
       "nombre": "David Sánchez",
       "instrumento": "saxos tenor y soprano"
     },
@@ -81,6 +81,11 @@
       "musico": null,
       "nombre": "José Luis \"Changuito\" Quintana",
       "instrumento": "timbales"
+    },
+    {
+      "musico": "david-sanchez",
+      "nombre": "David Sánchez",
+      "instrumento": "saxo tenor"
     }
   ],
   "personalNota": "Lista parcial.",

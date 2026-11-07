@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
+    }
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0YIdJlNDggyPgR5MUyVozG",
+    "tituloEnSpotify": "Fragmentos del mundo",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "fragmentos-del-mundo",
+  "titulo": "Fragmentos del mundo",
+  "credito": "Ernesto Jodos",
+  "lideres": [
+    "jodos"
+  ],
+  "grabacion": {
+    "desde": 2011,
+    "hasta": 2011,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2011,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "jodos",
+      "nombre": "Ernesto Jodos",
+      "instrumento": "piano, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Piano de armonía moderna, entre el jazz de Nueva York y lo porteño."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

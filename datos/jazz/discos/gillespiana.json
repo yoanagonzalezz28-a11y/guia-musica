@@ -1,0 +1,55 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "rio-de-la-plata",
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Gillespiana Dizzy Gillespie"
+  },
+  "id": "gillespiana",
+  "titulo": "Gillespiana",
+  "credito": "Dizzy Gillespie",
+  "lideres": [],
+  "grabacion": {
+    "desde": 1960,
+    "hasta": 1960,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1960,
+    "detalle": null
+  },
+  "sello": "Verve",
+  "musicos": [
+    {
+      "musico": "schifrin",
+      "nombre": "Lalo Schifrin",
+      "instrumento": "piano, composición, arreglos"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "latino"
+  ],
+  "comentario": [
+    "La suite que Schifrin escribió para Gillespie: big band, percusión latina y mucha ambición."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

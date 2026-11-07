@@ -1,0 +1,48 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "jacinto",
+  "nombre": "Hernán Jacinto",
+  "nacimiento": {
+    "anio": null,
+    "lugar": "Buenos Aires"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano",
+    "teclados"
+  ],
+  "corrientes": [
+    "rioplat",
+    "hoy"
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "spotify": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl",
+  "resumen": "Pianista y tecladista porteño de la escena actual, entre el jazz, el folclore y la música brasileña.",
+  "epocas": [
+    {
+      "titulo": "Jazz rioplatense",
+      "desde": 2011,
+      "hasta": 2015,
+      "texto": "",
+      "discoClave": {
+        "disco": "camino",
+        "explicacion": "Piano y grupo con influencias del folclore."
+      },
+      "discos": [
+        "lua"
+      ]
+    }
+  ],
+  "fuentes": [],
+  "respaldo": [],
+  "discosEsenciales": [
+    "camino",
+    "lua"
+  ]
+}

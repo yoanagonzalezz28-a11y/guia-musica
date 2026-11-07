@@ -79,19 +79,25 @@
     "holiday",
     "young",
     "williams",
-    "fitzgerald"
+    "fitzgerald",
+    "hawkins",
+    "tatum",
+    "django",
+    "fletcher-henderson",
+    "webster",
+    "hodges",
+    "waller",
+    "benny-carter",
+    "webb",
+    "buddy-rich",
+    "garner",
+    "grappelli",
+    "jo-jones",
+    "krupa",
+    "nat-cole",
+    "tizol"
   ],
-  "musicosPendientes": [
-    "Coleman Hawkins",
-    "Art Tatum",
-    "Django Reinhardt",
-    "Fletcher Henderson",
-    "Ben Webster",
-    "Johnny Hodges",
-    "Fats Waller",
-    "Benny Carter",
-    "Chick Webb"
-  ],
+  "musicosPendientes": [],
   "discosEsenciales": [
     {
       "disco": "never-no-lament",

@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "cuba"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Sounds of Space Alfredo Rodríguez"
+  },
+  "id": "sounds-of-space",
+  "titulo": "Sounds of Space",
+  "credito": "Alfredo Rodríguez",
+  "lideres": [
+    "alfredo-rodriguez"
+  ],
+  "grabacion": {
+    "desde": 2012,
+    "hasta": 2012,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2012,
+    "detalle": null
+  },
+  "sello": "Mack Avenue",
+  "musicos": [
+    {
+      "musico": "alfredo-rodriguez",
+      "nombre": "Alfredo Rodríguez",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "latino"
+  ],
+  "comentario": [
+    "Su debut, producido por Quincy Jones."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

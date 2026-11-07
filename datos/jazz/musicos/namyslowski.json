@@ -1,0 +1,51 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "namyslowski",
+  "nombre": "Zbigniew Namysłowski",
+  "nacimiento": {
+    "anio": 1939,
+    "lugar": "Varsovia"
+  },
+  "muerte": {
+    "anio": 2022
+  },
+  "instrumentos": [
+    "saxo alto"
+  ],
+  "corrientes": [
+    "mundo"
+  ],
+  "regiones": [
+    "europa-este"
+  ],
+  "spotify": null,
+  "resumen": "Saxofonista polaco que tocó con Krzysztof Komeda y mezcló el jazz con el folclore polaco.",
+  "epocas": [
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 1964,
+      "hasta": 1973,
+      "texto": "",
+      "discoClave": {
+        "disco": "winobranie",
+        "explicacion": "Folclore polaco y jazz moderno: uno de los discos clave del jazz de su país."
+      },
+      "discos": [
+        "lola"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-zbigniew-namys-owski"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "winobranie",
+    "lola",
+    "astigmatic"
+  ]
+}

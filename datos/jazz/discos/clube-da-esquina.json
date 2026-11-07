@@ -37,6 +37,11 @@
       "musico": "milton",
       "nombre": "Milton Nascimento",
       "instrumento": "voz, guitarra, composición"
+    },
+    {
+      "musico": "toninho-horta",
+      "nombre": "Toninho Horta",
+      "instrumento": "guitarra"
     }
   ],
   "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",

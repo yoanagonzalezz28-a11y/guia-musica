@@ -11,11 +11,22 @@
     "mundo"
   ],
   "musicos": [
-    "fukui"
+    "fukui",
+    "isao-suzuki",
+    "hino",
+    "kikuchi",
+    "akiyoshi",
+    "tsuyoshi-yamamoto"
   ],
   "discos": [
     "scenery",
-    "midnight-sugar"
+    "midnight-sugar",
+    "blow-up",
+    "mellow-dream",
+    "misty-yamamoto",
+    "ryo-fukui-in-new-york",
+    "sunrise",
+    "susto"
   ],
   "sellos": [
     {
@@ -31,13 +42,7 @@
       "texto": "El club que Fukui tuvo con su esposa, Yasuko."
     }
   ],
-  "figurasPendientes": [
-    "Isao Suzuki",
-    "Terumasa Hino",
-    "Masabumi Kikuchi",
-    "Toshiko Akiyoshi",
-    "Tsuyoshi Yamamoto"
-  ],
+  "figurasPendientes": [],
   "escenaActual": [
     {
       "nombre": "Satoko Fujii",

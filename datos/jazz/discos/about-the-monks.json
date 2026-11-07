@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "cuba"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3qwngFIA2IpAJKb8qXicAO",
+    "tituloEnSpotify": "About the Monks",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "about-the-monks",
+  "titulo": "About the Monks",
+  "credito": "Dafnis Prieto",
+  "lideres": [
+    "dafnis-prieto"
+  ],
+  "grabacion": {
+    "desde": 2005,
+    "hasta": 2005,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2005,
+    "detalle": null
+  },
+  "sello": "Zoho",
+  "musicos": [
+    {
+      "musico": "dafnis-prieto",
+      "nombre": "Dafnis Prieto",
+      "instrumento": "batería, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "latino"
+  ],
+  "comentario": [
+    "Su debut: batería cubana con jazz moderno."
+  ],
+  "ids": {
+    "musicbrainz": "df89f16e-eecf-3c65-8062-6717957d741e",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

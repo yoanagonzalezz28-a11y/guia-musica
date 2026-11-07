@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
+    }
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0Jm4WmRMz3UrUxr4llIcrK",
+    "tituloEnSpotify": "Envés",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "enves",
+  "titulo": "Envés",
+  "credito": "Javier Malosetti",
+  "lideres": [
+    "malosetti"
+  ],
+  "grabacion": {
+    "desde": 2014,
+    "hasta": 2014,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2014,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "malosetti",
+      "nombre": "Javier Malosetti",
+      "instrumento": "bajo, guitarra, voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Un disco más íntimo y jazzero."
+  ],
+  "ids": {
+    "musicbrainz": "50b2f922-8482-45b1-8dd7-3c0470bda837",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

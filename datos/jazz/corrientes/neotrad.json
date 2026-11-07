@@ -60,17 +60,20 @@
     "marsalis",
     "kirkland",
     "hargrove",
-    "blakey"
+    "blakey",
+    "branford",
+    "terence",
+    "redman",
+    "roney",
+    "mroberts",
+    "payton",
+    "brecker",
+    "kenny-garrett",
+    "lovano",
+    "mcbride",
+    "tain-watts"
   ],
-  "musicosPendientes": [
-    "Branford Marsalis",
-    "Terence Blanchard",
-    "Joshua Redman",
-    "Wallace Roney",
-    "Marcus Roberts",
-    "Nicholas Payton",
-    "Jeff \"Tain\" Watts"
-  ],
+  "musicosPendientes": [],
   "discosEsenciales": [
     {
       "disco": "black-codes",

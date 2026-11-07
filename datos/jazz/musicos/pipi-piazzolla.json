@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "pipi-piazzolla",
+  "nombre": "Pipi Piazzolla",
+  "nacimiento": {
+    "anio": null,
+    "lugar": "Buenos Aires"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "batería",
+    "composición"
+  ],
+  "corrientes": [
+    "rioplat",
+    "hoy"
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "spotify": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B",
+  "resumen": "Baterista porteño, nieto de Astor Piazzolla, que lidera Escalandrum, uno de los grupos más reconocidos del jazz argentino actual.",
+  "epocas": [
+    {
+      "titulo": "Jazz rioplatense",
+      "desde": 2002,
+      "hasta": 2019,
+      "texto": "",
+      "discoClave": {
+        "disco": "estados-alterados",
+        "explicacion": "Escalandrum en un disco de jazz moderno con raíces porteñas."
+      },
+      "discos": [
+        "studio-2",
+        "piazzolla-plays-piazzolla",
+        "rata",
+        "transmutacion"
+      ]
+    }
+  ],
+  "fuentes": [],
+  "respaldo": [],
+  "discosEsenciales": [
+    "estados-alterados",
+    "studio-2",
+    "piazzolla-plays-piazzolla",
+    "rata",
+    "transmutacion"
+  ]
+}

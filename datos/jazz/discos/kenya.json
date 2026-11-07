@@ -72,6 +72,11 @@
       "musico": null,
       "nombre": "Carlos \"Patato\" Valdés",
       "instrumento": "percusión"
+    },
+    {
+      "musico": "bauza",
+      "nombre": "Mario Bauzá",
+      "instrumento": "trompeta"
     }
   ],
   "personalNota": "Lista parcial: la sección de percusión era de siete músicos.",

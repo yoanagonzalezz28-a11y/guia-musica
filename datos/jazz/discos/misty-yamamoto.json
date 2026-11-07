@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "japon"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Misty Tsuyoshi Yamamoto"
+  },
+  "id": "misty-yamamoto",
+  "titulo": "Misty",
+  "credito": "Tsuyoshi Yamamoto",
+  "lideres": [
+    "tsuyoshi-yamamoto"
+  ],
+  "grabacion": {
+    "desde": 1974,
+    "hasta": 1974,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1974,
+    "detalle": null
+  },
+  "sello": "Three Blind Mice",
+  "musicos": [
+    {
+      "musico": "tsuyoshi-yamamoto",
+      "nombre": "Tsuyoshi Yamamoto",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "Baladas en trío, grabadas con un sonido de enorme calidad."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

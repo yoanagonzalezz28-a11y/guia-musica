@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1Hs8NpKEKWDT9q4raFaByq",
+    "tituloEnSpotify": "Providencia",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "providencia",
+  "titulo": "Providencia",
+  "credito": "Danilo Pérez",
+  "lideres": [
+    "danilo-perez"
+  ],
+  "grabacion": {
+    "desde": 2010,
+    "hasta": 2010,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2010,
+    "detalle": null
+  },
+  "sello": "Mack Avenue",
+  "musicos": [
+    {
+      "musico": "danilo-perez",
+      "nombre": "Danilo Pérez",
+      "instrumento": "piano, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "latino"
+  ],
+  "comentario": [
+    "Con su trío y vientos: Panamá y el jazz moderno."
+  ],
+  "ids": {
+    "musicbrainz": "7efcbca7-b917-4813-81f5-ecfb0beadb9a",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

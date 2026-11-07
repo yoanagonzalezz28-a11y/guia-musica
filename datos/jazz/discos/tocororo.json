@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "cuba"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1e2GBOtPyLu7iuNm4EvFKG",
+    "tituloEnSpotify": "Tocororo",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "tocororo",
+  "titulo": "Tocororo",
+  "credito": "Alfredo Rodríguez",
+  "lideres": [
+    "alfredo-rodriguez"
+  ],
+  "grabacion": {
+    "desde": 2016,
+    "hasta": 2016,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2016,
+    "detalle": null
+  },
+  "sello": "Mack Avenue",
+  "musicos": [
+    {
+      "musico": "alfredo-rodriguez",
+      "nombre": "Alfredo Rodríguez",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "latino"
+  ],
+  "comentario": [
+    "Con invitados como Ibrahim Maalouf."
+  ],
+  "ids": {
+    "musicbrainz": "2bb52176-af70-4c4b-9faf-edfaba17673c",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

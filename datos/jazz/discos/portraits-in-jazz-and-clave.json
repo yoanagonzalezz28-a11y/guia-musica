@@ -1,0 +1,57 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos",
+    "puerto-rico"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Portraits in Jazz and Clave Ray Barretto"
+  },
+  "id": "portraits-in-jazz-and-clave",
+  "titulo": "Portraits in Jazz and Clave",
+  "credito": "Ray Barretto",
+  "lideres": [
+    "barretto"
+  ],
+  "grabacion": {
+    "desde": 2000,
+    "hasta": 2000,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2000,
+    "detalle": null
+  },
+  "sello": "RCA Victor",
+  "musicos": [
+    {
+      "musico": "barretto",
+      "nombre": "Ray Barretto",
+      "instrumento": "congas"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "latino"
+  ],
+  "comentario": [
+    "Con Kenny Burrell y Joe Lovano: estándares con conga."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

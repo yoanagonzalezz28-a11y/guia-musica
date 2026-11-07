@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "sudafrica"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Spirits Rejoice! Louis Moholo-Moholo"
+  },
+  "id": "spirits-rejoice",
+  "titulo": "Spirits Rejoice!",
+  "credito": "Louis Moholo-Moholo",
+  "lideres": [
+    "moholo"
+  ],
+  "grabacion": {
+    "desde": 1978,
+    "hasta": 1978,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1978,
+    "detalle": null
+  },
+  "sello": "Ogun",
+  "musicos": [
+    {
+      "musico": "moholo",
+      "nombre": "Louis Moholo-Moholo",
+      "instrumento": "batería"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "free"
+  ],
+  "comentario": [
+    "Con Evan Parker y Kenny Wheeler: free jazz con raíz sudafricana."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

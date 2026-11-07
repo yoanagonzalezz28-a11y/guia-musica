@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "makhathini",
+  "nombre": "Nduduzo Makhathini",
+  "nacimiento": {
+    "anio": 1982,
+    "lugar": "Pietermaritzburg"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano",
+    "voz"
+  ],
+  "corrientes": [
+    "mundo",
+    "hoy"
+  ],
+  "regiones": [
+    "sudafrica"
+  ],
+  "spotify": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft",
+  "resumen": "Pianista sudafricano, figura de la escena actual, que une el jazz con las tradiciones espirituales zulúes.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2020,
+      "hasta": 2026,
+      "texto": "",
+      "discoClave": {
+        "disco": "modes-of-communication-letters-from-the-underworld",
+        "explicacion": "Su debut en Blue Note."
+      },
+      "discos": [
+        "in-the-spirit-of-ntu",
+        "unomkhubulwane",
+        "the-myth-we-choose"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-nduduzo-makhathini"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "modes-of-communication-letters-from-the-underworld",
+    "in-the-spirit-of-ntu",
+    "unomkhubulwane",
+    "the-myth-we-choose"
+  ]
+}

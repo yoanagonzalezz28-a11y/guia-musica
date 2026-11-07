@@ -1,0 +1,57 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "cuba",
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Pure Emotion Chico O'Farrill"
+  },
+  "id": "pure-emotion",
+  "titulo": "Pure Emotion",
+  "credito": "Chico O'Farrill",
+  "lideres": [
+    "ofarrill"
+  ],
+  "grabacion": {
+    "desde": 1995,
+    "hasta": 1995,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1995,
+    "detalle": null
+  },
+  "sello": "Milestone",
+  "musicos": [
+    {
+      "musico": "ofarrill",
+      "nombre": "Chico O'Farrill",
+      "instrumento": "arreglos, composición, trompeta"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "latino"
+  ],
+  "comentario": [
+    "Su regreso con big band en Nueva York, con arreglos de una enorme riqueza."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

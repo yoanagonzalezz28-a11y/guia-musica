@@ -63,17 +63,21 @@
     "parker",
     "gillespie",
     "monk",
-    "roach"
+    "roach",
+    "powell",
+    "sarah",
+    "dexter",
+    "clarke",
+    "peterson",
+    "navarro",
+    "dameron",
+    "flanagan",
+    "hank-jones",
+    "haynes",
+    "milt-jackson",
+    "pass"
   ],
-  "musicosPendientes": [
-    "Bud Powell",
-    "Sarah Vaughan",
-    "Dexter Gordon",
-    "Kenny Clarke",
-    "Oscar Peterson",
-    "Fats Navarro",
-    "Tadd Dameron"
-  ],
+  "musicosPendientes": [],
   "discosEsenciales": [
     {
       "disco": "charlie-parker-story",

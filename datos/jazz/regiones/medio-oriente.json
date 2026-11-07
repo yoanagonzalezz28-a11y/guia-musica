@@ -16,18 +16,37 @@
   "musicos": [
     "abou-khalil",
     "brahem",
-    "abdul-malik"
+    "abdul-malik",
+    "youssef",
+    "maalouf",
+    "avishai",
+    "hekselman",
+    "maestro",
+    "tzur"
   ],
   "discos": [
     "jazz-sahara",
     "blue-camel",
-    "thimar"
+    "thimar",
+    "ask-for-chaos",
+    "blue-maqams",
+    "here-be-dragons",
+    "homes",
+    "human",
+    "isabela",
+    "khomsa",
+    "le-pas-du-chat-noir",
+    "my-prophet",
+    "shai-maestro-trio",
+    "souvenance",
+    "the-dream-thief",
+    "the-road-to-ithaca",
+    "the-stone-skipper",
+    "this-just-in",
+    "translator-s-note"
   ],
   "figurasPendientes": [
-    "Dhafer Youssef",
-    "Ibrahim Maalouf",
-    "Tarek Yamani",
-    "Avishai Cohen"
+    "Tarek Yamani"
   ],
   "sellos": [
     {

@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
+    }
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4ZbNIN2qAQz5QIySaY784j",
+    "tituloEnSpotify": "Ten",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "ten-malosetti",
+  "titulo": "Ten",
+  "credito": "Javier Malosetti",
+  "lideres": [
+    "malosetti"
+  ],
+  "grabacion": {
+    "desde": 2010,
+    "hasta": 2010,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2010,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "malosetti",
+      "nombre": "Javier Malosetti",
+      "instrumento": "bajo, guitarra, voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Groove y funk con mucho bajo."
+  ],
+  "ids": {
+    "musicbrainz": "1a98b080-4141-4f86-9ef3-a51462910df9",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

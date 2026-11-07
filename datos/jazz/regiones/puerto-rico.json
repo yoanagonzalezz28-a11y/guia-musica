@@ -15,17 +15,30 @@
   ],
   "musicos": [
     "palmieri",
-    "zenon"
+    "zenon",
+    "puente",
+    "tizol",
+    "barretto",
+    "david-sanchez"
   ],
   "discos": [
     "sun-of-latin-music",
-    "vanguardia-subterranea"
+    "vanguardia-subterranea",
+    "acid",
+    "azucar-pa-ti",
+    "barretto",
+    "caravan",
+    "coral",
+    "cultural-survival",
+    "el-arte-del-bolero-vol-3",
+    "harlem-river-drive",
+    "obsesion",
+    "palo-pa-rumba",
+    "portraits-in-jazz-and-clave",
+    "sonero-the-music-of-ismael-rivera",
+    "tipico"
   ],
   "figurasPendientes": [
-    "Tito Puente",
-    "Juan Tizol",
-    "Ray Barretto",
-    "David Sánchez",
     "Papo Vázquez"
   ],
   "sellos": [

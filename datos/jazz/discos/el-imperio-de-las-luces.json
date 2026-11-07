@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
+    }
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1gXaGvDPjuiQSxZeyJrX8n",
+    "tituloEnSpotify": "El Imperio de las Luces",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "el-imperio-de-las-luces",
+  "titulo": "El imperio de las luces",
+  "credito": "Andrés Hayes",
+  "lideres": [
+    "hayes"
+  ],
+  "grabacion": {
+    "desde": 2013,
+    "hasta": 2013,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2013,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "hayes",
+      "nombre": "Andrés Hayes",
+      "instrumento": "saxo"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Saxo y grupo en un disco de jazz porteño contemporáneo."
+  ],
+  "ids": {
+    "musicbrainz": "29e5b27a-d82a-4794-86ce-553302c21ef5",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

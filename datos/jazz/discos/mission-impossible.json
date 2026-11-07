@@ -1,0 +1,57 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "rio-de-la-plata",
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Mission: Impossible Lalo Schifrin"
+  },
+  "id": "mission-impossible",
+  "titulo": "Mission: Impossible",
+  "credito": "Lalo Schifrin",
+  "lideres": [
+    "schifrin"
+  ],
+  "grabacion": {
+    "desde": 1967,
+    "hasta": 1967,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1967,
+    "detalle": null
+  },
+  "sello": "Dot",
+  "musicos": [
+    {
+      "musico": "schifrin",
+      "nombre": "Lalo Schifrin",
+      "instrumento": "piano, composición, arreglos"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "El tema en compás de 5/4 que se volvió uno de los más famosos de la televisión."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

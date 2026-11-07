@@ -32,7 +32,7 @@
   "lugar": "Aoi Studio, Tokio",
   "musicos": [
     {
-      "musico": null,
+      "musico": "tsuyoshi-yamamoto",
       "nombre": "Tsuyoshi Yamamoto",
       "instrumento": "piano"
     },
@@ -46,6 +46,11 @@
       "musico": null,
       "nombre": "Tetsujiro Obara",
       "instrumento": "batería"
+    },
+    {
+      "musico": "tsuyoshi-yamamoto",
+      "nombre": "Tsuyoshi Yamamoto",
+      "instrumento": "piano"
     }
   ],
   "corrientes": [

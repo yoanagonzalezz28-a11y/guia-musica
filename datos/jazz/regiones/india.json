@@ -14,16 +14,25 @@
     "mundo"
   ],
   "musicos": [
-    "harriott"
+    "harriott",
+    "zakir",
+    "shankar",
+    "korwar"
   ],
   "discos": [
-    "indo-jazz-suite"
+    "indo-jazz-suite",
+    "abstract",
+    "day-to-day",
+    "free-form",
+    "indo-jazz-fusions",
+    "more-arriving",
+    "my-east-is-your-west",
+    "song-for-everyone",
+    "southern-horizons",
+    "who-s-to-know"
   ],
   "figurasPendientes": [
     "Louiz Banks",
-    "Shakti",
-    "L. Shankar",
-    "Zakir Hussain",
     "Braz Gonsalves"
   ],
   "sellos": [

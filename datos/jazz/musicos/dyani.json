@@ -1,0 +1,51 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "dyani",
+  "nombre": "Johnny Dyani",
+  "nacimiento": {
+    "anio": 1945,
+    "lugar": "East London, Sudáfrica"
+  },
+  "muerte": {
+    "anio": 1986
+  },
+  "instrumentos": [
+    "contrabajo"
+  ],
+  "corrientes": [
+    "mundo",
+    "free"
+  ],
+  "regiones": [
+    "sudafrica"
+  ],
+  "spotify": null,
+  "resumen": "Contrabajista de los Blue Notes que vivió en Dinamarca y grabó para el sello SteepleChase.",
+  "epocas": [
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 1978,
+      "hasta": 1979,
+      "texto": "",
+      "discoClave": {
+        "disco": "witchdoctor-s-son",
+        "explicacion": "Con Dudu Pukwana y John Tchicai: raíces sudafricanas y jazz libre."
+      },
+      "discos": [
+        "song-for-biko"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-johnny-dyani"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "witchdoctor-s-son",
+    "song-for-biko"
+  ]
+}

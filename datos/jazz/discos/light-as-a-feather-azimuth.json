@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz da 1973; acá se usa 1979."
+    }
+  ],
+  "regiones": [
+    "brasil"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2wkmxijYToqAr0ATgcNSsn",
+    "tituloEnSpotify": "Light As A Feather (Deluxe Edition)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "light-as-a-feather-azimuth",
+  "titulo": "Light as a Feather",
+  "credito": "Azimuth",
+  "lideres": [
+    "azimuth"
+  ],
+  "grabacion": {
+    "desde": 1979,
+    "hasta": 1979,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1979,
+    "detalle": null
+  },
+  "sello": "Milestone",
+  "musicos": [
+    {
+      "musico": "azimuth",
+      "nombre": "Azimuth",
+      "instrumento": "grupo"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "brasil"
+  ],
+  "comentario": [
+    "Con \"Jazz Carnival\", un éxito en las pistas inglesas."
+  ],
+  "ids": {
+    "musicbrainz": "bd0ad2df-0cb0-33e5-8619-fcee0dc0502a",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

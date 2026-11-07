@@ -1,0 +1,46 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "lopez-ruiz",
+  "nombre": "Jorge López Ruiz",
+  "nacimiento": {
+    "anio": 1935,
+    "lugar": "Buenos Aires"
+  },
+  "muerte": {
+    "anio": 2018
+  },
+  "instrumentos": [
+    "contrabajo",
+    "composición"
+  ],
+  "corrientes": [
+    "rioplat"
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "spotify": "https://open.spotify.com/artist/4YodKr9jquVtUcSmB0gQEf",
+  "resumen": "Contrabajista y compositor porteño. Su *Bronca Buenos Aires* es uno de los discos más importantes de la historia del jazz argentino.",
+  "epocas": [
+    {
+      "titulo": "Jazz rioplatense",
+      "desde": 1971,
+      "hasta": 1971,
+      "texto": "",
+      "discoClave": {
+        "disco": "bronca-buenos-aires",
+        "explicacion": "Una suite sobre la ciudad, con voces y orquesta: jazz argentino de vanguardia, de una época de enorme tensión política."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [],
+  "respaldo": [],
+  "discosEsenciales": [
+    "bronca-buenos-aires"
+  ]
+}

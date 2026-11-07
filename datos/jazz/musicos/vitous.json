@@ -1,0 +1,60 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "vitous",
+  "nombre": "Miroslav Vitouš",
+  "nacimiento": {
+    "anio": 1947,
+    "lugar": "Praga"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "contrabajo"
+  ],
+  "corrientes": [
+    "fusion",
+    "ecm"
+  ],
+  "regiones": [
+    "europa-este"
+  ],
+  "spotify": null,
+  "resumen": "Contrabajista checo, cofundador de Weather Report, de técnica clásica y gran libertad.",
+  "epocas": [
+    {
+      "titulo": "Fusión",
+      "desde": 1970,
+      "hasta": 1970,
+      "texto": "",
+      "discoClave": {
+        "disco": "infinite-search",
+        "explicacion": "Con John McLaughlin y Herbie Hancock: fusión temprana y libre."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 1980,
+      "hasta": 1980,
+      "texto": "",
+      "discoClave": {
+        "disco": "first-meeting",
+        "explicacion": "Con John Surman y Kenny Kirkland."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-miroslav-vitous"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "infinite-search",
+    "now-he-sings-now-he-sobs",
+    "weather-report",
+    "first-meeting"
+  ]
+}

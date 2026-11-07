@@ -1,0 +1,47 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "alfredo-rodriguez",
+  "nombre": "Alfredo Rodríguez",
+  "nacimiento": {
+    "anio": 1985,
+    "lugar": "La Habana"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "latino",
+    "hoy"
+  ],
+  "regiones": [
+    "cuba"
+  ],
+  "spotify": "https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O",
+  "resumen": "Pianista cubano apadrinado por Quincy Jones, de una técnica rapidísima y una mezcla de jazz, música clásica y ritmos cubanos.",
+  "epocas": [
+    {
+      "titulo": "Jazz latino",
+      "desde": 2012,
+      "hasta": 2016,
+      "texto": "",
+      "discoClave": {
+        "disco": "sounds-of-space",
+        "explicacion": "Su debut, producido por Quincy Jones."
+      },
+      "discos": [
+        "tocororo"
+      ]
+    }
+  ],
+  "fuentes": [],
+  "respaldo": [],
+  "discosEsenciales": [
+    "sounds-of-space",
+    "tocororo"
+  ]
+}

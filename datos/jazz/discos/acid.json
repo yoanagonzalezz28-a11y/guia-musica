@@ -1,0 +1,57 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos",
+    "puerto-rico"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Acid Ray Barretto"
+  },
+  "id": "acid",
+  "titulo": "Acid",
+  "credito": "Ray Barretto",
+  "lideres": [
+    "barretto"
+  ],
+  "grabacion": {
+    "desde": 1968,
+    "hasta": 1968,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1968,
+    "detalle": null
+  },
+  "sello": "Fania",
+  "musicos": [
+    {
+      "musico": "barretto",
+      "nombre": "Ray Barretto",
+      "instrumento": "congas"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "latino"
+  ],
+  "comentario": [
+    "Boogaloo, salsa y jazz: un disco clave del sonido latino de Nueva York."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

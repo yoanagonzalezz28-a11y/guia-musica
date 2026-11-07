@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "elis",
+  "nombre": "Elis Regina",
+  "nacimiento": {
+    "anio": 1945,
+    "lugar": "Porto Alegre"
+  },
+  "muerte": {
+    "anio": 1982
+  },
+  "instrumentos": [
+    "voz"
+  ],
+  "corrientes": [
+    "brasil"
+  ],
+  "regiones": [
+    "brasil"
+  ],
+  "spotify": null,
+  "resumen": "Considerada por muchos la mayor cantante de Brasil. Con Tom Jobim grabó uno de los discos fundamentales de la música brasileña.",
+  "epocas": [
+    {
+      "titulo": "Jazz brasileño",
+      "desde": 1972,
+      "hasta": 1982,
+      "texto": "",
+      "discoClave": {
+        "disco": "elis-and-tom-regina",
+        "explicacion": "Con Antônio Carlos Jobim, grabado en Los Ángeles: \"Águas de Março\" en su versión definitiva."
+      },
+      "discos": [
+        "elis",
+        "falso-brilhante",
+        "montreux-jazz-festival"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-elis-regina"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "elis-and-tom-regina",
+    "elis",
+    "falso-brilhante",
+    "montreux-jazz-festival"
+  ]
+}

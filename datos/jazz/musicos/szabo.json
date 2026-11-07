@@ -1,0 +1,55 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "szabo",
+  "nombre": "Gábor Szabó",
+  "nacimiento": {
+    "anio": 1936,
+    "lugar": "Budapest"
+  },
+  "muerte": {
+    "anio": 1982
+  },
+  "instrumentos": [
+    "guitarra"
+  ],
+  "corrientes": [
+    "souljazz",
+    "mundo"
+  ],
+  "regiones": [
+    "europa-este"
+  ],
+  "spotify": "https://open.spotify.com/artist/38CPjAAqYV8lTYi6clzbjG",
+  "resumen": "Guitarrista húngaro que llegó a Estados Unidos tras la revolución de 1956. Mezcló el jazz con la música húngara, el raga indio y el pop psicodélico.",
+  "epocas": [
+    {
+      "titulo": "Soul jazz",
+      "desde": 1966,
+      "hasta": 1968,
+      "texto": "",
+      "discoClave": {
+        "disco": "spellbinder",
+        "explicacion": "Con Ron Carter y Chico Hamilton: con \"Gypsy Queen\", que luego tocó Santana."
+      },
+      "discos": [
+        "jazz-raga",
+        "bacchanal",
+        "dreams"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-gabor-szabo"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "spellbinder",
+    "jazz-raga",
+    "bacchanal",
+    "dreams"
+  ]
+}

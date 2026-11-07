@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3MfRfzHErnaUPzpfQPrZ2i",
+    "tituloEnSpotify": "Bronca Buenos Aires",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "bronca-buenos-aires",
+  "titulo": "Bronca Buenos Aires",
+  "credito": "Jorge López Ruiz",
+  "lideres": [
+    "lopez-ruiz"
+  ],
+  "grabacion": {
+    "desde": 1971,
+    "hasta": 1971,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1971,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "lopez-ruiz",
+      "nombre": "Jorge López Ruiz",
+      "instrumento": "contrabajo, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Una suite sobre la ciudad, con voces y orquesta: jazz argentino de vanguardia, de una época de enorme tensión política."
+  ],
+  "ids": {
+    "musicbrainz": "6b2027dc-8796-4e42-9e27-6691f49bc01b",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

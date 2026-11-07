@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "etiopia"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Éthiopiques, Vol. 14: Negus of Ethiopian Sax Getatchew Mekurya"
+  },
+  "id": "ethiopiques-vol-14-negus-of-ethiopian-sax",
+  "titulo": "Éthiopiques, Vol. 14: Negus of Ethiopian Sax",
+  "credito": "Getatchew Mekurya",
+  "lideres": [
+    "mekurya"
+  ],
+  "grabacion": {
+    "desde": 2003,
+    "hasta": 2003,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2003,
+    "detalle": null
+  },
+  "sello": "Buda Musique",
+  "musicos": [
+    {
+      "musico": "mekurya",
+      "nombre": "Getatchew Mekurya",
+      "instrumento": "saxo tenor"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "Recopilación de sus grabaciones de los 70."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

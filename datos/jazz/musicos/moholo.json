@@ -1,0 +1,47 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "moholo",
+  "nombre": "Louis Moholo-Moholo",
+  "nacimiento": {
+    "anio": 1940,
+    "lugar": "Ciudad del Cabo"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "batería"
+  ],
+  "corrientes": [
+    "mundo",
+    "free"
+  ],
+  "regiones": [
+    "sudafrica"
+  ],
+  "spotify": null,
+  "resumen": "Baterista de los Blue Notes y de la Brotherhood of Breath, último sobreviviente de aquel grupo exiliado en Londres.",
+  "epocas": [
+    {
+      "titulo": "Free jazz",
+      "desde": 1978,
+      "hasta": 1978,
+      "texto": "",
+      "discoClave": {
+        "disco": "spirits-rejoice",
+        "explicacion": "Con Evan Parker y Kenny Wheeler: free jazz con raíz sudafricana."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-louis-moholo"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "spirits-rejoice",
+    "blue-notes-for-mongezi"
+  ]
+}

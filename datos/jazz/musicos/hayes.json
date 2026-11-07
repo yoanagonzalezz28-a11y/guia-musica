@@ -1,0 +1,50 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "hayes",
+  "nombre": "Andrés Hayes",
+  "nacimiento": {
+    "anio": null,
+    "lugar": "Buenos Aires"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "saxo"
+  ],
+  "corrientes": [
+    "rioplat",
+    "hoy"
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "spotify": "https://open.spotify.com/artist/0FKxcGGzdKtRWhU6t7nrC5",
+  "resumen": "Saxofonista porteño con una larga trayectoria en la escena de Buenos Aires y varios discos a su nombre.",
+  "epocas": [
+    {
+      "titulo": "Jazz rioplatense",
+      "desde": 2008,
+      "hasta": 2019,
+      "texto": "",
+      "discoClave": {
+        "disco": "el-imperio-de-las-luces",
+        "explicacion": "Saxo y grupo en un disco de jazz porteño contemporáneo."
+      },
+      "discos": [
+        "el-silenciero",
+        "marea-alta"
+      ]
+    }
+  ],
+  "fuentes": [],
+  "respaldo": [],
+  "discosEsenciales": [
+    "luces-hoy",
+    "el-imperio-de-las-luces",
+    "el-silenciero",
+    "marea-alta"
+  ]
+}

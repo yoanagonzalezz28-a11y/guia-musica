@@ -10,8 +10,10 @@
   "catalogo": null,
   "lugar": "BMG Recording Studios, Nueva York",
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Diamond in the Rough Roy Hargrove"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5hrMaqrOtNiHewGCItWPNf",
+    "tituloEnSpotify": "Diamond In The Rough",
+    "deLaDiscotecaDeYoana": true
   },
   "id": "diamond-rough",
   "titulo": "Diamond in the Rough",

@@ -1,0 +1,48 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "levin",
+  "nombre": "Gonzalo Levin",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "saxo",
+    "composición"
+  ],
+  "corrientes": [
+    "rioplat",
+    "hoy"
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "spotify": "https://open.spotify.com/artist/4OKAcxJYd2tWC4D2E2Qp75",
+  "resumen": "Saxofonista y compositor argentino que dirige un octeto.",
+  "epocas": [
+    {
+      "titulo": "Jazz rioplatense",
+      "desde": 2014,
+      "hasta": 2019,
+      "texto": "",
+      "discoClave": {
+        "disco": "arbol",
+        "explicacion": "Composiciones para grupo con un aire contemporáneo."
+      },
+      "discos": [
+        "gonzalo-levin-octeto"
+      ]
+    }
+  ],
+  "fuentes": [],
+  "respaldo": [],
+  "discosEsenciales": [
+    "arbol",
+    "gonzalo-levin-octeto"
+  ]
+}

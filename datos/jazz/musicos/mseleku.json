@@ -1,0 +1,49 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "mseleku",
+  "nombre": "Bheki Mseleku",
+  "nacimiento": {
+    "anio": 1955,
+    "lugar": "Durban"
+  },
+  "muerte": {
+    "anio": 2008
+  },
+  "instrumentos": [
+    "piano",
+    "saxo"
+  ],
+  "corrientes": [
+    "mundo"
+  ],
+  "regiones": [
+    "sudafrica"
+  ],
+  "spotify": null,
+  "resumen": "Pianista y saxofonista sudafricano, de un lirismo espiritual muy influido por Coltrane.",
+  "epocas": [
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 1994,
+      "hasta": 1994,
+      "texto": "",
+      "discoClave": {
+        "disco": "timelessness",
+        "explicacion": "Con Joe Henderson y Pharoah Sanders."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-bheki-mseleku"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "celebration",
+    "timelessness"
+  ]
+}

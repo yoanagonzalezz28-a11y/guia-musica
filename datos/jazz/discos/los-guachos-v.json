@@ -12,8 +12,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Los Guachos V Guillermo Klein"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/01qBCcpGlPtzlCbyVxWOH5",
+    "tituloEnSpotify": "Los Guachos V",
+    "deLaDiscotecaDeYoana": true
   },
   "id": "los-guachos-v",
   "titulo": "Los Guachos V",

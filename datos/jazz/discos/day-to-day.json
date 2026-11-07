@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "india"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3yHFnO5am00saXw3WPBNpD",
+    "tituloEnSpotify": "Day To Day",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "day-to-day",
+  "titulo": "Day to Day",
+  "credito": "Sarathy Korwar",
+  "lideres": [
+    "korwar"
+  ],
+  "grabacion": {
+    "desde": 2016,
+    "hasta": 2016,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2016,
+    "detalle": null
+  },
+  "sello": "Ninja Tune",
+  "musicos": [
+    {
+      "musico": "korwar",
+      "nombre": "Sarathy Korwar",
+      "instrumento": "batería, tabla"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "Con músicos sidis: jazz espiritual y raíces indias."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

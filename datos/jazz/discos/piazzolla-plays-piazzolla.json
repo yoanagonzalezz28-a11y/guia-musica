@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Piazzolla Plays Piazzolla Escalandrum"
+  },
+  "id": "piazzolla-plays-piazzolla",
+  "titulo": "Piazzolla Plays Piazzolla",
+  "credito": "Escalandrum",
+  "lideres": [
+    "pipi-piazzolla"
+  ],
+  "grabacion": {
+    "desde": 2011,
+    "hasta": 2011,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2011,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "pipi-piazzolla",
+      "nombre": "Pipi Piazzolla",
+      "instrumento": "batería, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Escalandrum toca la música de su abuelo."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

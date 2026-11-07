@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Hecho a mano Chano Domínguez"
+  },
+  "id": "hecho-a-mano",
+  "titulo": "Hecho a mano",
+  "credito": "Chano Domínguez",
+  "lideres": [
+    "chano-dominguez"
+  ],
+  "grabacion": {
+    "desde": 1996,
+    "hasta": 1996,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1996,
+    "detalle": null
+  },
+  "sello": "Nuba",
+  "musicos": [
+    {
+      "musico": "chano-dominguez",
+      "nombre": "Chano Domínguez",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "latino"
+  ],
+  "comentario": [
+    "Su trío flamenco-jazz."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

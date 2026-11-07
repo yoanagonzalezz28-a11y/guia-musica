@@ -1,0 +1,52 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "korwar",
+  "nombre": "Sarathy Korwar",
+  "nacimiento": {
+    "anio": 1988,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "batería",
+    "tabla"
+  ],
+  "corrientes": [
+    "mundo",
+    "hoy"
+  ],
+  "regiones": [
+    "india"
+  ],
+  "spotify": "https://open.spotify.com/artist/5GzH8EsRPqgNjNo3oBfRvk",
+  "resumen": "Baterista y percusionista de origen indio, criado en India y radicado en Londres. Une el jazz espiritual con la música de la comunidad sidi de la India.",
+  "epocas": [
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 2016,
+      "hasta": 2019,
+      "texto": "",
+      "discoClave": {
+        "disco": "day-to-day",
+        "explicacion": "Con músicos sidis: jazz espiritual y raíces indias."
+      },
+      "discos": [
+        "my-east-is-your-west",
+        "more-arriving"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-sarathy-korwar"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "day-to-day",
+    "my-east-is-your-west",
+    "more-arriving"
+  ]
+}

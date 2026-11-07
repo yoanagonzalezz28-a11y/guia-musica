@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "nigeria"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6Di99uGNb1ITzZVPigCpES",
+    "tituloEnSpotify": "A Tribute To Art Blakey And The Jazz Messengers",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "a-tribute-to-art-blakey-and-the-jazz-messengers",
+  "titulo": "A Tribute to Art Blakey and the Jazz Messengers",
+  "credito": "Tony Allen",
+  "lideres": [
+    "tony-allen"
+  ],
+  "grabacion": {
+    "desde": 2017,
+    "hasta": 2017,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2017,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "tony-allen",
+      "nombre": "Tony Allen",
+      "instrumento": "batería"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "Homenaje a Blakey, su primer modelo como baterista."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

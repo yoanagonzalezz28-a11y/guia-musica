@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "brasil"
+  ],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Montreux Jazz Festival Elis Regina"
+  },
+  "id": "montreux-jazz-festival",
+  "titulo": "Montreux Jazz Festival",
+  "credito": "Elis Regina",
+  "lideres": [
+    "elis"
+  ],
+  "grabacion": {
+    "desde": 1982,
+    "hasta": 1982,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1982,
+    "detalle": null
+  },
+  "sello": "WEA",
+  "musicos": [
+    {
+      "musico": "elis",
+      "nombre": "Elis Regina",
+      "instrumento": "voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "brasil"
+  ],
+  "comentario": [
+    "En vivo en Montreux en 1979, con Hermeto Pascoal."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

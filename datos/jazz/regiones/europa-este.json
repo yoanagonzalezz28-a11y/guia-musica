@@ -14,19 +14,44 @@
     "mundo"
   ],
   "musicos": [
-    "komeda"
+    "komeda",
+    "stanko",
+    "namyslowski",
+    "urbaniak",
+    "dudziak",
+    "vitous",
+    "szabo",
+    "wasilewski"
   ],
   "discos": [
-    "astigmatic"
+    "astigmatic",
+    "arctic-riff",
+    "atma",
+    "bacchanal",
+    "balladyna",
+    "ballet-etudes-the-music-of-komeda",
+    "dark-eyes",
+    "dreams",
+    "first-meeting",
+    "from-the-green-hill",
+    "fusion-urbaniak",
+    "homage",
+    "infinite-search",
+    "january",
+    "jazz-raga",
+    "litania",
+    "lola",
+    "newborn-light",
+    "rosemary-s-baby",
+    "soul-of-things",
+    "spark-of-life",
+    "spellbinder",
+    "trio",
+    "urszula",
+    "weather-report",
+    "winobranie"
   ],
-  "figurasPendientes": [
-    "Tomasz Stańko",
-    "Zbigniew Namysłowski",
-    "Michał Urbaniak",
-    "Urszula Dudziak",
-    "Miroslav Vitouš",
-    "Gábor Szabó"
-  ],
+  "figurasPendientes": [],
   "sellos": [
     {
       "nombre": "Muza / Polskie Nagrania",

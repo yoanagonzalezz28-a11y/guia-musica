@@ -1,0 +1,57 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "rio-de-la-plata",
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Bossa Nova: New Brazilian Jazz Lalo Schifrin"
+  },
+  "id": "bossa-nova-new-brazilian-jazz",
+  "titulo": "Bossa Nova: New Brazilian Jazz",
+  "credito": "Lalo Schifrin",
+  "lideres": [
+    "schifrin"
+  ],
+  "grabacion": {
+    "desde": 1962,
+    "hasta": 1962,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1962,
+    "detalle": null
+  },
+  "sello": "Audio Fidelity",
+  "musicos": [
+    {
+      "musico": "schifrin",
+      "nombre": "Lalo Schifrin",
+      "instrumento": "piano, composición, arreglos"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "brasil"
+  ],
+  "comentario": [
+    "La bossa nova vista desde el jazz de Nueva York."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "barretto",
+  "nombre": "Ray Barretto",
+  "nacimiento": {
+    "anio": 1929,
+    "lugar": "Nueva York"
+  },
+  "muerte": {
+    "anio": 2006
+  },
+  "instrumentos": [
+    "congas"
+  ],
+  "corrientes": [
+    "latino"
+  ],
+  "regiones": [
+    "estados-unidos",
+    "puerto-rico"
+  ],
+  "spotify": null,
+  "resumen": "Conguero neoyorquino de familia puertorriqueña. Tocó en decenas de discos de jazz y después fue una figura de la salsa en Fania.",
+  "epocas": [
+    {
+      "titulo": "Jazz latino",
+      "desde": 1968,
+      "hasta": 2000,
+      "texto": "",
+      "discoClave": {
+        "disco": "acid",
+        "explicacion": "Boogaloo, salsa y jazz: un disco clave del sonido latino de Nueva York."
+      },
+      "discos": [
+        "barretto",
+        "portraits-in-jazz-and-clave"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-ray-barretto"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "acid",
+    "barretto",
+    "portraits-in-jazz-and-clave",
+    "midnight-blue"
+  ]
+}

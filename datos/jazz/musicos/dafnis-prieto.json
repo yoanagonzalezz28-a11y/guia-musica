@@ -1,0 +1,52 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "dafnis-prieto",
+  "nombre": "Dafnis Prieto",
+  "nacimiento": {
+    "anio": 1974,
+    "lugar": "Santa Clara, Cuba"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "batería",
+    "composición"
+  ],
+  "corrientes": [
+    "latino",
+    "hoy"
+  ],
+  "regiones": [
+    "cuba"
+  ],
+  "spotify": "https://open.spotify.com/artist/302l4hTP8dV5GWHpEyHVP8",
+  "resumen": "Baterista y compositor cubano radicado en Estados Unidos, de una técnica polirrítmica deslumbrante. Recibió la beca MacArthur.",
+  "epocas": [
+    {
+      "titulo": "Jazz latino",
+      "desde": 2005,
+      "hasta": 2020,
+      "texto": "",
+      "discoClave": {
+        "disco": "about-the-monks",
+        "explicacion": "Su debut: batería cubana con jazz moderno."
+      },
+      "discos": [
+        "back-to-the-sunset",
+        "transparency"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-dafnis-prieto"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "about-the-monks",
+    "back-to-the-sunset",
+    "transparency"
+  ]
+}

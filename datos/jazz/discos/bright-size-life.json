@@ -10,8 +10,10 @@
   "catalogo": null,
   "lugar": "Tonstudio Bauer, Ludwigsburg",
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Bright Size Life Pat Metheny"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1wyaHGxXkIGaLGSQTTgKzw",
+    "tituloEnSpotify": "Bright Size Life",
+    "deLaDiscotecaDeYoana": true
   },
   "id": "bright-size-life",
   "titulo": "Bright Size Life",

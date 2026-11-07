@@ -27,7 +27,7 @@
   "lugar": "Fortmusic Studios, Buenos Aires",
   "musicos": [
     {
-      "musico": null,
+      "musico": "hayes",
       "nombre": "Andrés Hayes",
       "instrumento": "saxo y composición"
     },
@@ -65,6 +65,11 @@
       "musico": null,
       "nombre": "Facundo Flores",
       "instrumento": "percusión"
+    },
+    {
+      "musico": "hayes",
+      "nombre": "Andrés Hayes",
+      "instrumento": "saxo"
     }
   ],
   "corrientes": [

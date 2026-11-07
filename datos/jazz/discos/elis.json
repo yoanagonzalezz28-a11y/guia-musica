@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "brasil"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Elis Elis Regina"
+  },
+  "id": "elis",
+  "titulo": "Elis",
+  "credito": "Elis Regina",
+  "lideres": [
+    "elis"
+  ],
+  "grabacion": {
+    "desde": 1972,
+    "hasta": 1972,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1972,
+    "detalle": null
+  },
+  "sello": "Philips",
+  "musicos": [
+    {
+      "musico": "elis",
+      "nombre": "Elis Regina",
+      "instrumento": "voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "brasil"
+  ],
+  "comentario": [
+    "Con \"Casa no Campo\" y \"Águas de Março\": su madurez como intérprete."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

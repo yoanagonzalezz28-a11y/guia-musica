@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "bauza",
+  "nombre": "Mario Bauzá",
+  "nacimiento": {
+    "anio": 1911,
+    "lugar": "La Habana"
+  },
+  "muerte": {
+    "anio": 1993
+  },
+  "instrumentos": [
+    "trompeta",
+    "saxo",
+    "arreglos"
+  ],
+  "corrientes": [
+    "latino"
+  ],
+  "regiones": [
+    "cuba",
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "El arquitecto del jazz afrocubano. Tocó con Chick Webb y Cab Calloway, le presentó a Gillespie a Chano Pozo y compuso \"Tanga\", el primer tema de jazz basado en la clave.",
+  "epocas": [
+    {
+      "titulo": "Jazz latino",
+      "desde": 1992,
+      "hasta": 1994,
+      "texto": "",
+      "discoClave": {
+        "disco": "tanga",
+        "explicacion": "Grabado a sus ochenta años, con una big band: la historia del jazz afrocubano contada por su creador."
+      },
+      "discos": [
+        "my-time-is-now",
+        "944-columbus"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-mario-bauza"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "tanga",
+    "my-time-is-now",
+    "944-columbus",
+    "kenya"
+  ]
+}

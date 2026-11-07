@@ -1,0 +1,48 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "ramiro-flores",
+  "nombre": "Ramiro Flores",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "saxo",
+    "composición"
+  ],
+  "corrientes": [
+    "rioplat",
+    "hoy"
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "spotify": "https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t",
+  "resumen": "Saxofonista argentino de la escena actual.",
+  "epocas": [
+    {
+      "titulo": "Jazz rioplatense",
+      "desde": 2012,
+      "hasta": 2016,
+      "texto": "",
+      "discoClave": {
+        "disco": "el-jardin-de-ordonez",
+        "explicacion": "Jazz de grupo con temas propios."
+      },
+      "discos": [
+        "son-dos"
+      ]
+    }
+  ],
+  "fuentes": [],
+  "respaldo": [],
+  "discosEsenciales": [
+    "el-jardin-de-ordonez",
+    "son-dos"
+  ]
+}

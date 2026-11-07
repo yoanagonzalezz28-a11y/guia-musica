@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "tony-allen",
+  "nombre": "Tony Allen",
+  "nacimiento": {
+    "anio": 1940,
+    "lugar": "Lagos"
+  },
+  "muerte": {
+    "anio": 2020
+  },
+  "instrumentos": [
+    "batería"
+  ],
+  "corrientes": [
+    "mundo"
+  ],
+  "regiones": [
+    "nigeria"
+  ],
+  "spotify": "https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi",
+  "resumen": "Baterista y director musical de Africa 70, la banda de Fela Kuti. Fela dijo que sin Tony Allen no habría afrobeat, y Brian Eno lo llamó \"tal vez el mejor baterista que haya existido\".",
+  "epocas": [
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 1975,
+      "hasta": 2020,
+      "texto": "",
+      "discoClave": {
+        "disco": "jealousy",
+        "explicacion": "Su primer disco como líder, con Africa 70."
+      },
+      "discos": [
+        "progress",
+        "black-voices",
+        "a-tribute-to-art-blakey-and-the-jazz-messengers",
+        "rejoice"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-tony-allen-musician"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "jealousy",
+    "progress",
+    "black-voices",
+    "a-tribute-to-art-blakey-and-the-jazz-messengers",
+    "rejoice"
+  ]
+}

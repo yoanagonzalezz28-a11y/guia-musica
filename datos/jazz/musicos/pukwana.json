@@ -1,0 +1,52 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "pukwana",
+  "nombre": "Dudu Pukwana",
+  "nacimiento": {
+    "anio": 1938,
+    "lugar": "Port Elizabeth"
+  },
+  "muerte": {
+    "anio": 1990
+  },
+  "instrumentos": [
+    "saxo alto"
+  ],
+  "corrientes": [
+    "mundo",
+    "free"
+  ],
+  "regiones": [
+    "sudafrica"
+  ],
+  "spotify": null,
+  "resumen": "Saxofonista alto de los Blue Notes, exiliado en Londres. Su sonido mezclaba el kwela y el mbaqanga sudafricanos con el free jazz.",
+  "epocas": [
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 1973,
+      "hasta": 1977,
+      "texto": "",
+      "discoClave": {
+        "disco": "in-the-townships",
+        "explicacion": "Con su grupo Spear: el sonido de los townships en Londres."
+      },
+      "discos": [
+        "diamond-express"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-dudu-pukwana"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "in-the-townships",
+    "diamond-express",
+    "very-urgent"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos",
+    "puerto-rico"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Barretto Ray Barretto"
+  },
+  "id": "barretto",
+  "titulo": "Barretto",
+  "credito": "Ray Barretto",
+  "lideres": [
+    "barretto"
+  ],
+  "grabacion": {
+    "desde": 1975,
+    "hasta": 1975,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1975,
+    "detalle": null
+  },
+  "sello": "Fania",
+  "musicos": [
+    {
+      "musico": "barretto",
+      "nombre": "Ray Barretto",
+      "instrumento": "congas"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "latino"
+  ],
+  "comentario": [
+    "Con \"Guararé\": salsa dura."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

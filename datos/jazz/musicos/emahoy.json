@@ -1,0 +1,48 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "emahoy",
+  "nombre": "Emahoy Tsegué-Maryam Guèbrou",
+  "nacimiento": {
+    "anio": 1923,
+    "lugar": "Addis Abeba"
+  },
+  "muerte": {
+    "anio": 2023
+  },
+  "instrumentos": [
+    "piano",
+    "composición"
+  ],
+  "corrientes": [
+    "mundo"
+  ],
+  "regiones": [
+    "etiopia"
+  ],
+  "spotify": null,
+  "resumen": "Monja y pianista etíope que compuso piezas para piano de una melancolía única, entre la música clásica, el blues y la liturgia etíope. Vivió sus últimas décadas en Jerusalén.",
+  "epocas": [
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 2006,
+      "hasta": 2006,
+      "texto": "",
+      "discoClave": {
+        "disco": "ethiopiques-vol-21-emahoy",
+        "explicacion": "Sus piezas para piano solo: lentas, ondulantes, inolvidables."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-emahoy-tsegue-maryam-guebrou"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "ethiopiques-vol-21-emahoy"
+  ]
+}

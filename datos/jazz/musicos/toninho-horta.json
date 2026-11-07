@@ -1,0 +1,53 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "toninho-horta",
+  "nombre": "Toninho Horta",
+  "nacimiento": {
+    "anio": 1948,
+    "lugar": "Belo Horizonte"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "guitarra",
+    "voz",
+    "composición"
+  ],
+  "corrientes": [
+    "brasil"
+  ],
+  "regiones": [
+    "brasil"
+  ],
+  "spotify": null,
+  "resumen": "Guitarrista y compositor del Clube da Esquina, de armonías muy ricas, admirado por Pat Metheny.",
+  "epocas": [
+    {
+      "titulo": "Jazz brasileño",
+      "desde": 1980,
+      "hasta": 1989,
+      "texto": "",
+      "discoClave": {
+        "disco": "terra-dos-passaros",
+        "explicacion": "Su primer disco: canciones y armonías de Minas Gerais."
+      },
+      "discos": [
+        "diamond-land",
+        "moonstone"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-toninho-horta"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "terra-dos-passaros",
+    "diamond-land",
+    "moonstone",
+    "clube-da-esquina"
+  ]
+}

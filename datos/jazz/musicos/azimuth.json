@@ -1,0 +1,51 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "azimuth",
+  "nombre": "Azimuth",
+  "nacimiento": {
+    "anio": null,
+    "lugar": "Río de Janeiro"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "grupo"
+  ],
+  "corrientes": [
+    "brasil",
+    "fusion"
+  ],
+  "regiones": [
+    "brasil"
+  ],
+  "spotify": "https://open.spotify.com/artist/5vzYbyfjJQqEZHqQdESKjS",
+  "resumen": "Trío brasileño de teclados, bajo y batería, de un jazz funk suave y luminoso que ellos llamaron \"samba doido\".",
+  "epocas": [
+    {
+      "titulo": "Jazz brasileño",
+      "desde": 1975,
+      "hasta": 1980,
+      "texto": "",
+      "discoClave": {
+        "disco": "azimuth",
+        "explicacion": "Su debut, con \"Linha do Horizonte\": sintetizadores y samba."
+      },
+      "discos": [
+        "light-as-a-feather-azimuth",
+        "outubro"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-azimuth-band"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "azimuth",
+    "light-as-a-feather-azimuth",
+    "outubro"
+  ]
+}

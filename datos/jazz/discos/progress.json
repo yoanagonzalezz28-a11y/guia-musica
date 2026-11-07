@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "nigeria"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Progress Tony Allen"
+  },
+  "id": "progress",
+  "titulo": "Progress",
+  "credito": "Tony Allen",
+  "lideres": [
+    "tony-allen"
+  ],
+  "grabacion": {
+    "desde": 1977,
+    "hasta": 1977,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1977,
+    "detalle": null
+  },
+  "sello": "Phonogram",
+  "musicos": [
+    {
+      "musico": "tony-allen",
+      "nombre": "Tony Allen",
+      "instrumento": "batería"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "Afrobeat con un groove más abierto."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -37,6 +37,11 @@
       "musico": "haynes",
       "nombre": "Roy Haynes",
       "instrumento": "batería"
+    },
+    {
+      "musico": "vitous",
+      "nombre": "Miroslav Vitouš",
+      "instrumento": "contrabajo"
     }
   ],
   "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",

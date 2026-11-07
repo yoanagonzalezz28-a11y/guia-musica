@@ -10,8 +10,10 @@
   "catalogo": "BLP 1595",
   "lugar": "Estudio Van Gelder, Hackensack, Nueva Jersey",
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Somethin' Else Cannonball Adderley"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om",
+    "tituloEnSpotify": "Somethin' Else (Rudy Van Gelder Edition)",
+    "deLaDiscotecaDeYoana": true
   },
   "id": "somethin-else",
   "titulo": "Somethin' Else",

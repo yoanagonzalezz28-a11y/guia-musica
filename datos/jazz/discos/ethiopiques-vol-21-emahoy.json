@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "etiopia"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Éthiopiques, Vol. 21: Emahoy Emahoy Tsegué-Maryam Guèbrou"
+  },
+  "id": "ethiopiques-vol-21-emahoy",
+  "titulo": "Éthiopiques, Vol. 21: Emahoy",
+  "credito": "Emahoy Tsegué-Maryam Guèbrou",
+  "lideres": [
+    "emahoy"
+  ],
+  "grabacion": {
+    "desde": 2006,
+    "hasta": 2006,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2006,
+    "detalle": null
+  },
+  "sello": "Buda Musique",
+  "musicos": [
+    {
+      "musico": "emahoy",
+      "nombre": "Emahoy Tsegué-Maryam Guèbrou",
+      "instrumento": "piano, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "Sus piezas para piano solo: lentas, ondulantes, inolvidables."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

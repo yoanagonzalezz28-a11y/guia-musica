@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "europa-este"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/21c7ulNJzCSDIelgGBA1QF",
+    "tituloEnSpotify": "Bacchanal",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "bacchanal",
+  "titulo": "Bacchanal",
+  "credito": "Gábor Szabó",
+  "lideres": [
+    "szabo"
+  ],
+  "grabacion": {
+    "desde": 1968,
+    "hasta": 1968,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1968,
+    "detalle": null
+  },
+  "sello": "Skye",
+  "musicos": [
+    {
+      "musico": "szabo",
+      "nombre": "Gábor Szabó",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "souljazz"
+  ],
+  "comentario": [
+    "Versiones de pop psicodélico con su guitarra hipnótica."
+  ],
+  "ids": {
+    "musicbrainz": "f8636c58-3310-3f2d-924b-1f2c7728a8dd",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

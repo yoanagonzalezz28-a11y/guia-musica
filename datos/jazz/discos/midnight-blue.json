@@ -39,6 +39,11 @@
       "musico": "burrell",
       "nombre": "Kenny Burrell",
       "instrumento": "guitarra"
+    },
+    {
+      "musico": "barretto",
+      "nombre": "Ray Barretto",
+      "instrumento": "congas"
     }
   ],
   "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",

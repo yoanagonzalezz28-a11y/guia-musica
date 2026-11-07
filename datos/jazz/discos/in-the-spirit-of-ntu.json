@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "sudafrica"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3UnSb3V4gzrt2ofjYfsLDl",
+    "tituloEnSpotify": "In The Spirit Of Ntu",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "in-the-spirit-of-ntu",
+  "titulo": "In the Spirit of Ntu",
+  "credito": "Nduduzo Makhathini",
+  "lideres": [
+    "makhathini"
+  ],
+  "grabacion": {
+    "desde": 2022,
+    "hasta": 2022,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2022,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "makhathini",
+      "nombre": "Nduduzo Makhathini",
+      "instrumento": "piano, voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Con su grupo: espiritual y libre."
+  ],
+  "ids": {
+    "musicbrainz": "30951a11-da8b-4c1c-a035-2786c2d445ab",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

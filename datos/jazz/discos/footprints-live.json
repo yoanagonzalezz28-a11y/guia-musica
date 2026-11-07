@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Footprints Live! Wayne Shorter"
+  },
+  "id": "footprints-live",
+  "titulo": "Footprints Live!",
+  "credito": "Wayne Shorter",
+  "lideres": [],
+  "grabacion": {
+    "desde": 2002,
+    "hasta": 2002,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2002,
+    "detalle": null
+  },
+  "sello": "Verve",
+  "musicos": [
+    {
+      "musico": "danilo-perez",
+      "nombre": "Danilo Pérez",
+      "instrumento": "piano, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "neotrad"
+  ],
+  "comentario": [
+    "El cuarteto de Wayne Shorter en vivo."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

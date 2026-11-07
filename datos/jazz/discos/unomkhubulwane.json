@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "sudafrica"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "uNomkhubulwane Nduduzo Makhathini"
+  },
+  "id": "unomkhubulwane",
+  "titulo": "uNomkhubulwane",
+  "credito": "Nduduzo Makhathini",
+  "lideres": [
+    "makhathini"
+  ],
+  "grabacion": {
+    "desde": 2024,
+    "hasta": 2024,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2024,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "makhathini",
+      "nombre": "Nduduzo Makhathini",
+      "instrumento": "piano, voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Trío dedicado a una divinidad zulú."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

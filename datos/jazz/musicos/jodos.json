@@ -1,0 +1,50 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "jodos",
+  "nombre": "Ernesto Jodos",
+  "nacimiento": {
+    "anio": null,
+    "lugar": "Buenos Aires"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano",
+    "composición"
+  ],
+  "corrientes": [
+    "rioplat",
+    "hoy"
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "spotify": "https://open.spotify.com/artist/7CMEUsgU1PmgGWgJbxXEKb",
+  "resumen": "Pianista porteño y uno de los grandes maestros del jazz en Buenos Aires, de lenguaje moderno y muy personal.",
+  "epocas": [
+    {
+      "titulo": "Jazz rioplatense",
+      "desde": 2011,
+      "hasta": 2019,
+      "texto": "",
+      "discoClave": {
+        "disco": "fragmentos-del-mundo",
+        "explicacion": "Piano de armonía moderna, entre el jazz de Nueva York y lo porteño."
+      },
+      "discos": [
+        "la-mirada-detenida",
+        "light-blue"
+      ]
+    }
+  ],
+  "fuentes": [],
+  "respaldo": [],
+  "discosEsenciales": [
+    "fragmentos-del-mundo",
+    "la-mirada-detenida",
+    "light-blue"
+  ]
+}

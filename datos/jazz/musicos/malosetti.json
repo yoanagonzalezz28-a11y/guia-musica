@@ -1,0 +1,49 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "malosetti",
+  "nombre": "Javier Malosetti",
+  "nacimiento": {
+    "anio": null,
+    "lugar": "Buenos Aires"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "bajo",
+    "guitarra",
+    "voz"
+  ],
+  "corrientes": [
+    "rioplat",
+    "fusion"
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "spotify": "https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV",
+  "resumen": "Bajista y multiinstrumentista porteño, hijo del guitarrista Walter Malosetti, que mezcla jazz, funk y blues.",
+  "epocas": [
+    {
+      "titulo": "Jazz rioplatense",
+      "desde": 2010,
+      "hasta": 2014,
+      "texto": "",
+      "discoClave": {
+        "disco": "ten-malosetti",
+        "explicacion": "Groove y funk con mucho bajo."
+      },
+      "discos": [
+        "enves"
+      ]
+    }
+  ],
+  "fuentes": [],
+  "respaldo": [],
+  "discosEsenciales": [
+    "ten-malosetti",
+    "enves"
+  ]
+}

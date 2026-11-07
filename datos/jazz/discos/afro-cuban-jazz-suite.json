@@ -1,0 +1,55 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "cuba",
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Afro-Cuban Jazz Suite Machito and His Afro-Cuban Orchestra"
+  },
+  "id": "afro-cuban-jazz-suite",
+  "titulo": "Afro-Cuban Jazz Suite",
+  "credito": "Machito and His Afro-Cuban Orchestra",
+  "lideres": [],
+  "grabacion": {
+    "desde": 1950,
+    "hasta": 1950,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1950,
+    "detalle": null
+  },
+  "sello": "Clef",
+  "musicos": [
+    {
+      "musico": "ofarrill",
+      "nombre": "Chico O'Farrill",
+      "instrumento": "arreglos, composición, trompeta"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "latino"
+  ],
+  "comentario": [
+    "Su suite para la orquesta de Machito, con Charlie Parker, Flip Phillips y Buddy Rich como solistas."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

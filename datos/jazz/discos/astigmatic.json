@@ -44,7 +44,7 @@
       "instrumento": "trompeta"
     },
     {
-      "musico": null,
+      "musico": "namyslowski",
       "nombre": "Zbigniew Namysłowski",
       "instrumento": "saxo alto"
     },
@@ -52,6 +52,11 @@
       "musico": null,
       "nombre": "Günter Lenz",
       "instrumento": "contrabajo"
+    },
+    {
+      "musico": "namyslowski",
+      "nombre": "Zbigniew Namysłowski",
+      "instrumento": "saxo alto"
     }
   ],
   "personalNota": "Lista parcial.",

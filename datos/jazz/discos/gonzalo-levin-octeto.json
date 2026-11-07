@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
+    }
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4yUZO7ACPvLSai6t1Ctykn",
+    "tituloEnSpotify": "Gonzalo Levin Octeto",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "gonzalo-levin-octeto",
+  "titulo": "Gonzalo Levin Octeto",
+  "credito": "Gonzalo Levin",
+  "lideres": [
+    "levin"
+  ],
+  "grabacion": {
+    "desde": 2014,
+    "hasta": 2014,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2014,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "levin",
+      "nombre": "Gonzalo Levin",
+      "instrumento": "saxo, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "El octeto: arreglos amplios y escritura cuidada."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

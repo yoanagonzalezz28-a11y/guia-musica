@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
+    }
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6t7ajkFism3z8iKREL1Keg",
+    "tituloEnSpotify": "Jazz Argentino",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "jazz-argentino",
+  "titulo": "Jazz argentino",
+  "credito": "Baby López Furst",
+  "lideres": [
+    "lopez-furst"
+  ],
+  "grabacion": {
+    "desde": 2005,
+    "hasta": 2005,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2005,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "lopez-furst",
+      "nombre": "Baby López Furst",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Piano trío del jazz porteño clásico."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

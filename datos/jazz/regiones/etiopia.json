@@ -14,17 +14,26 @@
     "mundo"
   ],
   "musicos": [
-    "mulatu"
+    "mulatu",
+    "mekurya",
+    "hailu",
+    "mahmoud-ahmed",
+    "emahoy"
   ],
   "discos": [
-    "mulatu-of-ethiopia"
+    "mulatu-of-ethiopia",
+    "ethiopiques-vol-14-negus-of-ethiopian-sax",
+    "ethiopiques-vol-21-emahoy",
+    "ethiopiques-vol-4-ethio-jazz-and-musique-instrumen",
+    "ethiopiques-vol-7-ere-mela-mela",
+    "hailu-mergia-and-his-classical-instrument",
+    "lala-belu",
+    "moa-anbessa",
+    "mulatu-plays-mulatu",
+    "mulatu-steps-ahead",
+    "tche-belew"
   ],
-  "figurasPendientes": [
-    "Getatchew Mekurya",
-    "Hailu Mergia",
-    "Mahmoud Ahmed",
-    "Emahoy Tsegué-Maryam Guèbrou"
-  ],
+  "figurasPendientes": [],
   "sellos": [
     {
       "nombre": "Amha Records",

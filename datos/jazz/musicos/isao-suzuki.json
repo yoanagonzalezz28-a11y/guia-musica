@@ -1,0 +1,48 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "isao-suzuki",
+  "nombre": "Isao Suzuki",
+  "nacimiento": {
+    "anio": 1933,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 2022
+  },
+  "instrumentos": [
+    "contrabajo",
+    "violonchelo"
+  ],
+  "corrientes": [
+    "mundo"
+  ],
+  "regiones": [
+    "japon"
+  ],
+  "spotify": null,
+  "resumen": "Contrabajista japonés, figura de la escena de los 70 y del sello Three Blind Mice.",
+  "epocas": [
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 1973,
+      "hasta": 1973,
+      "texto": "",
+      "discoClave": {
+        "disco": "blow-up",
+        "explicacion": "Uno de los discos más famosos del sello: contrabajo y grabación de primer nivel."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-isao-suzuki"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "blow-up"
+  ]
+}

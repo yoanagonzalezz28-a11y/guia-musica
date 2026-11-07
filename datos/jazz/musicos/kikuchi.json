@@ -1,0 +1,60 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "kikuchi",
+  "nombre": "Masabumi Kikuchi",
+  "nacimiento": {
+    "anio": 1939,
+    "lugar": "Tokio"
+  },
+  "muerte": {
+    "anio": 2015
+  },
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "mundo",
+    "ecm"
+  ],
+  "regiones": [
+    "japon"
+  ],
+  "spotify": null,
+  "resumen": "Pianista japonés de una enorme libertad, que tocó con Gil Evans, Elvin Jones y Paul Motian.",
+  "epocas": [
+    {
+      "titulo": "Fusión",
+      "desde": 1981,
+      "hasta": 1981,
+      "texto": "",
+      "discoClave": {
+        "disco": "susto",
+        "explicacion": "Jazz eléctrico con funk y electrónica: un disco de culto."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 2012,
+      "hasta": 2012,
+      "texto": "",
+      "discoClave": {
+        "disco": "sunrise",
+        "explicacion": "Trío con Thomas Morgan y Paul Motian, grabado en 2009."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-masabumi-kikuchi"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "susto",
+    "sunrise"
+  ]
+}
