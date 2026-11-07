@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2Yvf8IhTvyc8CdQek3M1Jb",
+    "tituloEnSpotify": "Seven Seas",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "seven-seas",
+  "titulo": "Seven Seas",
+  "credito": "Avishai Cohen",
+  "lideres": [
+    "avishai"
+  ],
+  "grabacion": {
+    "desde": 2011,
+    "hasta": 2011,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2011,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "avishai",
+      "nombre": "Avishai Cohen",
+      "instrumento": "contrabajo, voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Ensamble con vientos y voces: el lado más mediterráneo."
+  ],
+  "ids": {
+    "musicbrainz": "471659f6-4cb8-46c3-81ec-a4d39fbb5c23",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

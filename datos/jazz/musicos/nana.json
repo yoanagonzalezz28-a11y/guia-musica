@@ -1,0 +1,53 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "nana",
+  "nombre": "Naná Vasconcelos",
+  "nacimiento": {
+    "anio": 1944,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 2016
+  },
+  "instrumentos": [
+    "percusión"
+  ],
+  "corrientes": [
+    "brasil"
+  ],
+  "regiones": [
+    "brasil"
+  ],
+  "spotify": null,
+  "resumen": "Percusionista de Recife, maestro del berimbau, que tocó con Egberto Gismonti, Pat Metheny y Don Cherry.",
+  "epocas": [
+    {
+      "titulo": "Jazz brasileño",
+      "desde": 1972,
+      "hasta": 1986,
+      "texto": "",
+      "discoClave": {
+        "disco": "saudades",
+        "explicacion": "Berimbau y orquesta de cuerdas."
+      },
+      "discos": [
+        "africadeus",
+        "bush-dance"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-nana-vasconcelos"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "saudades",
+    "africadeus",
+    "codona",
+    "bush-dance"
+  ]
+}

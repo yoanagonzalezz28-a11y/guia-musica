@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2Y3GMEYJXkQ7Ur29s2FL9z",
+    "tituloEnSpotify": "Home Boy, Sister Out",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "home-boy-sister-out",
+  "titulo": "Home Boy, Sister Out",
+  "credito": "Don Cherry",
+  "lideres": [
+    "cherry"
+  ],
+  "grabacion": {
+    "desde": 1985,
+    "hasta": 1985,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1985,
+    "detalle": null
+  },
+  "sello": "Barclay",
+  "musicos": [
+    {
+      "musico": "cherry",
+      "nombre": "Don Cherry",
+      "instrumento": "trompeta, corneta de bolsillo"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "Su lado más pop y bailable, entre el rap y la música africana."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

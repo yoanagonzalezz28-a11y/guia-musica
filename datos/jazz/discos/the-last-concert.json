@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7f56FsWhFwXchIQgxGYZNz",
+    "tituloEnSpotify": "The Last Concert (with WDR Big Band)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "the-last-concert",
+  "titulo": "The Last Concert",
+  "credito": "Modern Jazz Quartet",
+  "lideres": [
+    "mjq"
+  ],
+  "grabacion": {
+    "desde": 1974,
+    "hasta": 1974,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1974,
+    "detalle": null
+  },
+  "sello": "Atlantic",
+  "musicos": [
+    {
+      "musico": "mjq",
+      "nombre": "Modern Jazz Quartet",
+      "instrumento": "piano, vibráfono, contrabajo, batería"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "cool"
+  ],
+  "comentario": [
+    "Su despedida en el Avery Fisher Hall: el cuarteto repasa su historia con una precisión intacta."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "shirley",
+  "nombre": "Shirley Scott",
+  "nacimiento": {
+    "anio": 1934,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 2002
+  },
+  "instrumentos": [
+    "órgano"
+  ],
+  "corrientes": [
+    "souljazz"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Organista de Filadelfia, figura del soul jazz, que grabó muchos discos con su marido, el saxofonista Stanley Turrentine.",
+  "epocas": [
+    {
+      "titulo": "Soul jazz",
+      "desde": 1961,
+      "hasta": 1970,
+      "texto": "",
+      "discoClave": {
+        "disco": "blue-flames",
+        "explicacion": "Órgano y tenor con Turrentine."
+      },
+      "discos": [
+        "shirley-scott-plays-horace-silver",
+        "queen-of-the-organ",
+        "something",
+        "hip-soul"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-shirley-scott"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "blue-flames",
+    "shirley-scott-plays-horace-silver",
+    "queen-of-the-organ",
+    "something",
+    "hip-soul"
+  ]
+}

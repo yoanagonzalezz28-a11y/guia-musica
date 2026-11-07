@@ -1,0 +1,66 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "terence",
+  "nombre": "Terence Blanchard",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "trompeta",
+    "composición"
+  ],
+  "corrientes": [
+    "neotrad"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Trompetista de Nueva Orleans que pasó por los Jazz Messengers, compone la música de las películas de Spike Lee y fue el primer compositor negro estrenado en la Metropolitan Opera. Llevó el jazz al cine y a la ópera.",
+  "epocas": [
+    {
+      "titulo": "Neotradicionalismo",
+      "desde": 1992,
+      "hasta": 2007,
+      "texto": "Estudió en Nueva Orleans con Ellis Marsalis y en 1982 reemplazó a Wynton Marsalis en los Jazz Messengers de Art Blakey. Después formó un quinteto con el saxofonista Donald Harrison. Desde *Jungle Fever* (1991) compuso la música de muchas películas de Spike Lee, entre ellas *Malcolm X* y *BlacKkKlansman*. *A Tale of God's Will* (2007) es un réquiem por el huracán Katrina. Su ópera *Fire Shut Up in My Bones* fue en 2021 la primera de un compositor negro en la Metropolitan Opera de Nueva York.",
+      "discoClave": {
+        "disco": "malcolm-x-banda-sonora",
+        "explicacion": "Orquesta y jazz para la película de Spike Lee."
+      },
+      "discos": [
+        "a-tale-of-god-s-will-a-requiem-for-katrina",
+        "black-hope"
+      ]
+    },
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2015,
+      "hasta": 2021,
+      "texto": "",
+      "discoClave": {
+        "disco": "absence",
+        "explicacion": "Homenaje a Wayne Shorter con el Turtle Island Quartet."
+      },
+      "discos": [
+        "breathless"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-terence-blanchard"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "malcolm-x-banda-sonora",
+    "a-tale-of-god-s-will-a-requiem-for-katrina",
+    "absence",
+    "breathless",
+    "black-hope"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "odjb",
+  "nombre": "Original Dixieland Jass Band",
+  "nacimiento": {
+    "anio": 1916,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 1925
+  },
+  "instrumentos": [
+    "quinteto"
+  ],
+  "corrientes": [
+    "origenes"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Banda de músicos blancos de Nueva Orleans que en 1917 grabó en Nueva York el primer disco de jazz y lo volvió una moda.",
+  "epocas": [
+    {
+      "titulo": "Orígenes",
+      "desde": 1917,
+      "hasta": 1918,
+      "texto": "",
+      "discoClave": {
+        "disco": "livery-stable-blues",
+        "explicacion": "El primer disco de jazz: con imitaciones de animales."
+      },
+      "discos": [
+        "tiger-rag"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-original-dixieland-jass-band"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "livery-stable-blues",
+    "tiger-rag"
+  ]
+}

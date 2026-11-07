@@ -1,0 +1,65 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "redman",
+  "nombre": "Joshua Redman",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "saxo tenor"
+  ],
+  "corrientes": [
+    "neotrad"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Hijo del saxofonista Dewey Redman. Ganó el concurso Thelonious Monk en 1991 y eligió el jazz en lugar de la facultad de Derecho. Fue la cara del jazz acústico de los 90 y un puente con la generación de Mehldau.",
+  "epocas": [
+    {
+      "titulo": "Neotradicionalismo",
+      "desde": 1993,
+      "hasta": 1994,
+      "texto": "Hijo del saxofonista Dewey Redman, que tocaba con Ornette Coleman y Keith Jarrett, creció en Berkeley. Se graduó en Harvard y fue aceptado en la facultad de Derecho de Yale, pero en 1991 ganó el concurso Thelonious Monk y eligió el jazz. Sus primeros discos para Warner lo pusieron al frente de su generación. Grabó con Brad Mehldau, Christian McBride y Brian Blade *MoodSwing* (1994), formó el trío eléctrico Elastic y fue director del SFJAZZ Collective.",
+      "discoClave": {
+        "disco": "wish",
+        "explicacion": "Con Pat Metheny, Charlie Haden y Billy Higgins."
+      },
+      "discos": [
+        "moodswing"
+      ]
+    },
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2016,
+      "hasta": 2020,
+      "texto": "",
+      "discoClave": {
+        "disco": "roundagain",
+        "explicacion": "Reunión de su cuarteto de los 90 con Brad Mehldau, Christian McBride y Brian Blade."
+      },
+      "discos": [
+        "still-dreaming",
+        "nearness"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-joshua-redman"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "wish",
+    "moodswing",
+    "roundagain",
+    "still-dreaming",
+    "nearness"
+  ]
+}

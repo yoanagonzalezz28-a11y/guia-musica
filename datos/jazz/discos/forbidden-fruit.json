@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4RbQ26sdoiyxPKkdkGTyp2",
+    "tituloEnSpotify": "Forbidden Fruit",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "forbidden-fruit",
+  "titulo": "Forbidden Fruit",
+  "credito": "Nina Simone",
+  "lideres": [
+    "nina"
+  ],
+  "grabacion": {
+    "desde": 1961,
+    "hasta": 1961,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1961,
+    "detalle": null
+  },
+  "sello": "Colpix",
+  "musicos": [
+    {
+      "musico": "nina",
+      "nombre": "Nina Simone",
+      "instrumento": "piano, voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "souljazz"
+  ],
+  "comentario": [
+    "Piano clásico y blues: el estilo que la distinguió desde el principio."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

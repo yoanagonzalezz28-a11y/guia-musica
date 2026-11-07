@@ -1,0 +1,53 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "milton",
+  "nombre": "Milton Nascimento",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "voz",
+    "guitarra",
+    "composición"
+  ],
+  "corrientes": [
+    "brasil"
+  ],
+  "regiones": [
+    "brasil"
+  ],
+  "spotify": null,
+  "resumen": "Cantante y compositor de Minas Gerais, figura del Clube da Esquina. Wayne Shorter grabó con él *Native Dancer* (1975).",
+  "epocas": [
+    {
+      "titulo": "Jazz brasileño",
+      "desde": 1972,
+      "hasta": 1975,
+      "texto": "",
+      "discoClave": {
+        "disco": "clube-da-esquina",
+        "explicacion": "Con Lô Borges: MPB, rock y jazz de Minas Gerais, uno de los discos más importantes de Brasil."
+      },
+      "discos": [
+        "minas",
+        "milagre-dos-peixes"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-milton-nascimento"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "native-dancer",
+    "clube-da-esquina",
+    "minas",
+    "milagre-dos-peixes"
+  ]
+}

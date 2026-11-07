@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Mingus Mingus Mingus Mingus Mingus Charles Mingus"
+  },
+  "id": "mingus-mingus-mingus-mingus-mingus",
+  "titulo": "Mingus Mingus Mingus Mingus Mingus",
+  "credito": "Charles Mingus",
+  "lideres": [
+    "mingus"
+  ],
+  "grabacion": {
+    "desde": 1964,
+    "hasta": 1964,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1964,
+    "detalle": null
+  },
+  "sello": "Impulse!",
+  "musicos": [
+    {
+      "musico": "mingus",
+      "nombre": "Charles Mingus",
+      "instrumento": "contrabajo, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Regraba sus clásicos con una banda grande y muy cargada de vientos: \"II B.S.\" y \"Better Get Hit in Yo' Soul\" en versiones más feroces."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Mingus_Mingus_Mingus_Mingus_Mingus"
+  },
+  "respaldo": []
+}

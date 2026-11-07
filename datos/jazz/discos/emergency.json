@@ -30,7 +30,7 @@
   "sello": "Polydor",
   "musicos": [
     {
-      "musico": null,
+      "musico": "tonyw",
       "nombre": "Tony Williams",
       "instrumento": "batería y voz"
     },
@@ -43,6 +43,11 @@
       "musico": null,
       "nombre": "Larry Young",
       "instrumento": "órgano"
+    },
+    {
+      "musico": "tonyw",
+      "nombre": "Tony Williams",
+      "instrumento": "batería"
     }
   ],
   "corrientes": [

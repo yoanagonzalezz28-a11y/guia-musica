@@ -1,0 +1,55 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "bechet",
+  "nombre": "Sidney Bechet",
+  "nacimiento": {
+    "anio": 1897,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 1959
+  },
+  "instrumentos": [
+    "saxo soprano",
+    "clarinete"
+  ],
+  "corrientes": [
+    "origenes"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk",
+  "resumen": "Uno de los primeros grandes solistas del jazz, antes incluso que Armstrong, con un vibrato amplio y muy expresivo. Desde 1950 vivió en Francia, donde fue una estrella. Hizo del saxo soprano un instrumento solista, décadas antes de que lo retomara Coltrane.",
+  "epocas": [
+    {
+      "titulo": "Orígenes",
+      "desde": 1937,
+      "hasta": 1955,
+      "texto": "Clarinetista y saxofonista soprano de Nueva Orleans. En 1919 viajó a Europa con la orquesta de Will Marion Cook, y el director suizo Ernest Ansermet escribió sobre él uno de los primeros textos que trataron a un jazzista como un artista serio. En los 20 grabó con Armstrong en los Blue Five de Clarence Williams, y en los 40 fue una figura del revival del jazz de Nueva Orleans. En 1950 se instaló en Francia, donde se convirtió en una celebridad popular. Murió en las afueras de París en 1959.",
+      "discoClave": {
+        "disco": "summertime",
+        "explicacion": "Uno de los primeros éxitos del sello Blue Note: soprano con vibrato amplio sobre el tema de Gershwin."
+      },
+      "discos": [
+        "petite-fleur",
+        "classic-sides-1931-1937",
+        "saga-jazz-from-new-orleans-to-paris"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-sidney-bechet"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "summertime",
+    "petite-fleur",
+    "classic-sides-1931-1937",
+    "saga-jazz-from-new-orleans-to-paris"
+  ]
+}

@@ -2975,5 +2975,725 @@
     "url": "https://en.wikipedia.org/wiki/Chano_Pozo",
     "consultada": "2026-11-06",
     "estado": "consultada"
+  },
+  "wp-sidney-bechet": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Sidney Bechet (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Sidney_Bechet",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-bud-powell": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Bud Powell (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Bud_Powell",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-charles-mingus": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Charles Mingus (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Charles_Mingus",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-avishai-cohen-bassist": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Avishai Cohen (bassist) (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Avishai_Cohen_(bassist)",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-hugo-fattoruso": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Hugo Fattoruso (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Hugo_Fattoruso",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-art-tatum": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Art Tatum (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Art_Tatum",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-sarah-vaughan": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Sarah Vaughan (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Sarah_Vaughan",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-chucho-valdes": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Chucho Valdés (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Chucho_Valdés",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-antonio-carlos-jobim": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Antônio Carlos Jobim (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Antônio_Carlos_Jobim",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-carla-bley": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Carla Bley (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Carla_Bley",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-esperanza-spalding": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Esperanza Spalding (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Esperanza_Spalding",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-coleman-hawkins": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Coleman Hawkins (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Coleman_Hawkins",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-django-reinhardt": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Django Reinhardt (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Django_Reinhardt",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-ben-webster": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Ben Webster (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Ben_Webster",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-johnny-hodges": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Johnny Hodges (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Johnny_Hodges",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-dexter-gordon": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Dexter Gordon (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Dexter_Gordon",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-kenny-clarke": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Kenny Clarke (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Kenny_Clarke",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-oscar-peterson": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Oscar Peterson (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Oscar_Peterson",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-stan-getz": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Stan Getz (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Stan_Getz",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-paul-desmond": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Paul Desmond (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Paul_Desmond",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-gil-evans": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Gil Evans (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Gil_Evans",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-modern-jazz-quartet": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Modern Jazz Quartet (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Modern_Jazz_Quartet",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-hank-mobley": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Hank Mobley (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Hank_Mobley",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-wes-montgomery": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Wes Montgomery (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Wes_Montgomery",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-freddie-hubbard": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Freddie Hubbard (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Freddie_Hubbard",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-joe-henderson": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Joe Henderson (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Joe_Henderson",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-abbey-lincoln": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Abbey Lincoln (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Abbey_Lincoln",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-mccoy-tyner": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/McCoy Tyner (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/McCoy_Tyner",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-elvin-jones": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Elvin Jones (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Elvin_Jones",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-tony-williams": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Tony Williams (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Tony_Williams",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-ron-carter": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Ron Carter (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Ron_Carter",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-ahmad-jamal": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Ahmad Jamal (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Ahmad_Jamal",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-sun-ra": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Sun Ra (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Sun_Ra",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-don-cherry": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Don Cherry (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Don_Cherry",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-art-ensemble-of-chicago": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Art Ensemble of Chicago (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Art_Ensemble_of_Chicago",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-shirley-scott": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Shirley Scott (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Shirley_Scott",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-roy-ayers": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Roy Ayers (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Roy_Ayers",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-nina-simone": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Nina Simone (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Nina_Simone",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-mongo-santamaria": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Mongo Santamaría (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Mongo_Santamar%C3%ADa",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-cal-tjader": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Cal Tjader (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Cal_Tjader",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-bebo-valdes": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Bebo Valdés (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Bebo_Vald%C3%A9s",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-paquito-d-rivera": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Paquito D'Rivera (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Paquito_D%27Rivera",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-gonzalo-rubalcaba": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Gonzalo Rubalcaba (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Gonzalo_Rubalcaba",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-joao-gilberto": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/João Gilberto (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Jo%C3%A3o_Gilberto",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-airto-moreira": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Airto Moreira (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Airto_Moreira",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-flora-purim": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Flora Purim (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Flora_Purim",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-jaco-pastorius": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Jaco Pastorius (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Jaco_Pastorius",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-charlie-haden": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Charlie Haden (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Charlie_Haden",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-tord-gustavsen": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Tord Gustavsen (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Tord_Gustavsen",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-hugh-masekela": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Hugh Masekela (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Hugh_Masekela",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-toshiko-akiyoshi": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Toshiko Akiyoshi (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Toshiko_Akiyoshi",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-branford-marsalis": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Branford Marsalis (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Branford_Marsalis",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-joshua-redman": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Joshua Redman (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Joshua_Redman",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-ruben-rada": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Rubén Rada (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Rub%C3%A9n_Rada",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-eduardo-mateo": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Eduardo Mateo (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Eduardo_Mateo",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-hiromi-uehara": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Hiromi Uehara (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Hiromi_Uehara",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-tigran-hamasyan": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Tigran Hamasyan (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Tigran_Hamasyan",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-makaya-mccraven": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Makaya McCraven (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Makaya_McCraven",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-nubya-garcia": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Nubya Garcia (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Nubya_Garcia",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-terence-blanchard": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Terence Blanchard (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Terence_Blanchard",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-original-dixieland-jass-band": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Original Dixieland Jass Band (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Original_Dixieland_Jass_Band",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-kid-ory": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Kid Ory (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Kid_Ory",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-johnny-dodds": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Johnny Dodds (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Johnny_Dodds",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-james-p-johnson": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/James P. Johnson (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/James_P._Johnson",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-fats-waller": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Fats Waller (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Fats_Waller",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-fats-navarro": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Fats Navarro (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Fats_Navarro",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-tadd-dameron": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Tadd Dameron (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Tadd_Dameron",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-tito-puente": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Tito Puente (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Tito_Puente",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-chano-pozo": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Chano Pozo (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Chano_Pozo",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-arturo-sandoval": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Arturo Sandoval (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Arturo_Sandoval",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-baden-powell": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Baden Powell (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Baden_Powell",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-nana-vasconcelos": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Naná Vasconcelos (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Nan%C3%A1_Vasconcelos",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-milton-nascimento": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Milton Nascimento (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Milton_Nascimento",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-bobby-hutcherson": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Bobby Hutcherson (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Bobby_Hutcherson",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-ramsey-lewis": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Ramsey Lewis (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Ramsey_Lewis",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-les-mccann": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Les McCann (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Les_McCann",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-dhafer-youssef": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Dhafer Youssef (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Dhafer_Youssef",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-zakir-hussain": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Zakir Hussain (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Zakir_Hussain",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-ibrahim-maalouf": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Ibrahim Maalouf (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Ibrahim_Maalouf",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-terumasa-hino": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Terumasa Hino (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Terumasa_Hino",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-billy-cobham": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Billy Cobham (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Billy_Cobham",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-stanley-clarke": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Stanley Clarke (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Stanley_Clarke",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-jaime-roos": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Jaime Roos (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Jaime_Roos",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-osvaldo-fattoruso": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Osvaldo Fattoruso (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Osvaldo_Fattoruso",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-bobo-stenson": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Bobo Stenson (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Bobo_Stenson",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-mathias-eick": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Mathias Eick (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Mathias_Eick",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-ralph-towner": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Ralph Towner (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Ralph_Towner",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-wallace-roney": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Wallace Roney (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Wallace_Roney",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-marcus-roberts": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Marcus Roberts (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Marcus_Roberts",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
+  },
+  "wp-special-search-nicholas-payton": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Special:Search/Nicholas Payton (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Special:Search/Nicholas_Payton",
+    "consultada": "2026-11-07",
+    "estado": "consultada"
   }
 }

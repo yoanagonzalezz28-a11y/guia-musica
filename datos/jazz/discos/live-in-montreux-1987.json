@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/45xmOgVCn04My5STAOwckE",
+    "tituloEnSpotify": "Live in Montreux 1987 (Live 1987)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "live-in-montreux-1987",
+  "titulo": "Live in Montreux 1987",
+  "credito": "Billy Cobham",
+  "lideres": [
+    "cobham"
+  ],
+  "grabacion": {
+    "desde": 1987,
+    "hasta": 1987,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1987,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "cobham",
+      "nombre": "Billy Cobham",
+      "instrumento": "batería"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "fusion"
+  ],
+  "comentario": [
+    "En vivo: solos de batería que llenan el escenario."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

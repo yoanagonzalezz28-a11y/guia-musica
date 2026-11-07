@@ -1,0 +1,66 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "jamal",
+  "nombre": "Ahmad Jamal",
+  "nacimiento": {
+    "anio": 1930,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 2023
+  },
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "modal"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O",
+  "resumen": "Pianista de Pittsburgh que trabajaba con el silencio y el espacio. Miles Davis lo admiraba y tomó ideas de su trío. Su disco en vivo de 1958 se vendió como un disco pop.",
+  "epocas": [
+    {
+      "titulo": "Cool",
+      "desde": 1956,
+      "hasta": 1956,
+      "texto": "",
+      "discoClave": {
+        "disco": "count-em-88",
+        "explicacion": "Trío de mediados de los 50: espacio, pausas y dinámica que tanto admiró Miles Davis."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Jazz modal",
+      "desde": 1958,
+      "hasta": 1970,
+      "texto": "",
+      "discoClave": {
+        "disco": "at-the-pershing-but-not-for-me",
+        "explicacion": "Incluye su versión de \"Poinciana\"."
+      },
+      "discos": [
+        "the-awakening",
+        "alhambra",
+        "ahmad-jamal-at-the-blackhawk"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-ahmad-jamal"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "at-the-pershing-but-not-for-me",
+    "the-awakening",
+    "alhambra",
+    "count-em-88",
+    "ahmad-jamal-at-the-blackhawk"
+  ]
+}

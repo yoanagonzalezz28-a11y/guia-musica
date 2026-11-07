@@ -1,0 +1,66 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "wes",
+  "nombre": "Wes Montgomery",
+  "nacimiento": {
+    "anio": 1923,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 1968
+  },
+  "instrumentos": [
+    "guitarra"
+  ],
+  "corrientes": [
+    "hard-bop"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Guitarrista autodidacta de Indianápolis que tocaba con el pulgar y armaba los solos en octavas y en acordes.",
+  "epocas": [
+    {
+      "titulo": "Hard bop",
+      "desde": 1960,
+      "hasta": 1966,
+      "texto": "",
+      "discoClave": {
+        "disco": "the-incredible-jazz-guitar-of-wes-montgomery",
+        "explicacion": "Con Tommy Flanagan: \"Four on Six\", \"West Coast Blues\"."
+      },
+      "discos": [
+        "full-house",
+        "smokin-at-the-half-note",
+        "tequila"
+      ]
+    },
+    {
+      "titulo": "Soul jazz",
+      "desde": 1967,
+      "hasta": 1967,
+      "texto": "",
+      "discoClave": {
+        "disco": "a-day-in-the-life",
+        "explicacion": "Producido por Creed Taylor: versiones de los Beatles con cuerdas, su gran éxito comercial."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-wes-montgomery"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "the-incredible-jazz-guitar-of-wes-montgomery",
+    "full-house",
+    "smokin-at-the-half-note",
+    "a-day-in-the-life",
+    "tequila"
+  ]
+}

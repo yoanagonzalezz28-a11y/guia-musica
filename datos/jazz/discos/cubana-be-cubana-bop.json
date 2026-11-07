@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "cuba"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Cubana Be / Cubana Bop Dizzy Gillespie"
+  },
+  "id": "cubana-be-cubana-bop",
+  "titulo": "Cubana Be / Cubana Bop",
+  "credito": "Dizzy Gillespie",
+  "lideres": [],
+  "grabacion": {
+    "desde": 1947,
+    "hasta": 1947,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1947,
+    "detalle": null
+  },
+  "sello": "Victor",
+  "musicos": [
+    {
+      "musico": "chanopozo",
+      "nombre": "Chano Pozo",
+      "instrumento": "conga, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "latino"
+  ],
+  "comentario": [
+    "La pieza de George Russell para la big band de Gillespie, con Pozo en congas y canto."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

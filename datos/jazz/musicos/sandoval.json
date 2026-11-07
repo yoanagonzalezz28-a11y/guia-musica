@@ -1,0 +1,52 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "sandoval",
+  "nombre": "Arturo Sandoval",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "trompeta"
+  ],
+  "corrientes": [
+    "latino"
+  ],
+  "regiones": [
+    "cuba"
+  ],
+  "spotify": null,
+  "resumen": "Trompetista de Irakere, de agudos impresionantes y protegido de Dizzy Gillespie. Se exilió en 1990 y se instaló en Miami.",
+  "epocas": [
+    {
+      "titulo": "Jazz latino",
+      "desde": 1986,
+      "hasta": 2012,
+      "texto": "",
+      "discoClave": {
+        "disco": "flight-to-freedom",
+        "explicacion": "Su primer disco en Estados Unidos."
+      },
+      "discos": [
+        "tumbaito",
+        "danzon",
+        "dear-diz-every-day-i-think-of-you"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-arturo-sandoval"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "flight-to-freedom",
+    "tumbaito",
+    "danzon",
+    "dear-diz-every-day-i-think-of-you"
+  ]
+}

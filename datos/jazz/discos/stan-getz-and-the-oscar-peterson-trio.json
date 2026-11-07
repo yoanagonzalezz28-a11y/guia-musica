@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD",
+    "tituloEnSpotify": "Stan Getz And The Oscar Peterson Trio",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "stan-getz-and-the-oscar-peterson-trio",
+  "titulo": "Stan Getz and the Oscar Peterson Trio",
+  "credito": "Stan Getz",
+  "lideres": [
+    "getz"
+  ],
+  "grabacion": {
+    "desde": 1957,
+    "hasta": 1957,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1957,
+    "detalle": null
+  },
+  "sello": "Verve",
+  "musicos": [
+    {
+      "musico": "getz",
+      "nombre": "Stan Getz",
+      "instrumento": "saxo tenor"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "cool"
+  ],
+  "comentario": [
+    "Getz y el trío de Peterson sin batería: baladas y swing con su sonido más tibio."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Stan_Getz_and_the_Oscar_Peterson_Trio"
+  },
+  "respaldo": []
+}

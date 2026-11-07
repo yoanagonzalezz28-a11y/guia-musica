@@ -1,0 +1,57 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "peterson",
+  "nombre": "Oscar Peterson",
+  "nacimiento": {
+    "anio": 1925,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 2007
+  },
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "bebop"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Pianista canadiense de técnica arrolladora, heredero de Art Tatum. Su trío con Ray Brown fue uno de los más grabados del jazz.",
+  "epocas": [
+    {
+      "titulo": "Bebop",
+      "desde": 1961,
+      "hasta": 1974,
+      "texto": "",
+      "discoClave": {
+        "disco": "night-train",
+        "explicacion": "El trío con Ray Brown y Ed Thigpen, en blues y estándares."
+      },
+      "discos": [
+        "we-get-requests",
+        "oscar-peterson-trio-plus-one",
+        "oscar-peterson-and-dizzy-gillespie",
+        "soul-espanol",
+        "the-trio"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-oscar-peterson"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "night-train",
+    "we-get-requests",
+    "oscar-peterson-trio-plus-one",
+    "oscar-peterson-and-dizzy-gillespie",
+    "soul-espanol"
+  ]
+}

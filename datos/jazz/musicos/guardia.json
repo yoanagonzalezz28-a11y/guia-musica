@@ -1,0 +1,46 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "guardia",
+  "nombre": "Manolo Guardia",
+  "nacimiento": {
+    "anio": 1936,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 2008
+  },
+  "instrumentos": [
+    "piano",
+    "arreglos"
+  ],
+  "corrientes": [
+    "rioplat"
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "spotify": null,
+  "resumen": "Pianista y arreglador uruguayo. En 1965 grabó con el Grupo del Plata el LP *Candombe*, un antecedente del candombe con lenguaje de jazz.",
+  "epocas": [
+    {
+      "titulo": "Jazz rioplatense",
+      "desde": 1965,
+      "hasta": 1965,
+      "texto": "",
+      "discoClave": {
+        "disco": "candombe-grupo-del-plata",
+        "explicacion": "Candombe arreglado con armonía moderna."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [],
+  "respaldo": [],
+  "discosEsenciales": [
+    "candombe-grupo-del-plata"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6kkXNkmh8FfOvBOvP4U2VD",
+    "tituloEnSpotify": "Smokin' At The Half Note",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "smokin-at-the-half-note",
+  "titulo": "Smokin' at the Half Note",
+  "credito": "Wes Montgomery",
+  "lideres": [
+    "wes"
+  ],
+  "grabacion": {
+    "desde": 1965,
+    "hasta": 1965,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1965,
+    "detalle": null
+  },
+  "sello": "Verve",
+  "musicos": [
+    {
+      "musico": "wes",
+      "nombre": "Wes Montgomery",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Con el trío de Wynton Kelly: Pat Metheny lo considera el mejor disco de guitarra de jazz."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Smokin%27_at_the_Half_Note"
+  },
+  "respaldo": []
+}

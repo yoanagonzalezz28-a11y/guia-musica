@@ -1,0 +1,64 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "cobham",
+  "nombre": "Billy Cobham",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "batería"
+  ],
+  "corrientes": [
+    "fusion"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Baterista nacido en Panamá, de la Mahavishnu Orchestra, con un estilo potente que unió el jazz y el rock.",
+  "epocas": [
+    {
+      "titulo": "Fusión",
+      "desde": 1973,
+      "hasta": 1987,
+      "texto": "",
+      "discoClave": {
+        "disco": "spectrum",
+        "explicacion": "Su debut, con Tommy Bolin y Jan Hammer."
+      },
+      "discos": [
+        "crosswinds",
+        "total-eclipse",
+        "live-in-montreux-1987"
+      ]
+    },
+    {
+      "titulo": "Jazz latino",
+      "desde": 2008,
+      "hasta": 2008,
+      "texto": "",
+      "discoClave": {
+        "disco": "de-cuba-y-de-panama",
+        "explicacion": "Ritmos de Cuba y de Panamá, su país natal."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-billy-cobham"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "spectrum",
+    "crosswinds",
+    "total-eclipse",
+    "live-in-montreux-1987",
+    "de-cuba-y-de-panama"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": true,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "The Fabulous Fats Navarro Fats Navarro"
+  },
+  "id": "the-fabulous-fats-navarro",
+  "titulo": "The Fabulous Fats Navarro",
+  "credito": "Fats Navarro",
+  "lideres": [
+    "navarro"
+  ],
+  "grabacion": {
+    "desde": 1947,
+    "hasta": 1949,
+    "detalle": "Sesiones de 1947 a 1949"
+  },
+  "edicion": {
+    "anio": 1949,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "navarro",
+      "nombre": "Fats Navarro",
+      "instrumento": "trompeta"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "bebop"
+  ],
+  "comentario": [
+    "Sesiones con Tadd Dameron y Bud Powell."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

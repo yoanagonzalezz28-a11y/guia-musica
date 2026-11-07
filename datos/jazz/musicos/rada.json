@@ -1,0 +1,52 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "rada",
+  "nombre": "Rubén Rada",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "voz",
+    "percusión",
+    "composición"
+  ],
+  "corrientes": [
+    "rioplat"
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "spotify": null,
+  "resumen": "Cantante y percusionista montevideano de El Kinto y Tótem. Llevó el candombe al jazz con Opa, con Explossion en Buenos Aires y en *Montevideo* (1996). Es la voz del candombe y quien lo llevó al jazz, al rock y al funk.",
+  "epocas": [
+    {
+      "titulo": "Jazz rioplatense",
+      "desde": 1969,
+      "hasta": 1996,
+      "texto": "Nació en Montevideo en 1943. Su primer grupo profesional fue El Kinto, con Eduardo Mateo, donde nació el candombe beat. Después formó Tótem (1970–73), que llevó el candombe al rock y al funk. En Estados Unidos grabó con Opa *Magic Time* (1977), donde compuso con Hugo Fattoruso \"Montevideo\". Desde 1980 vivió en Buenos Aires y tocó en el grupo de jazz Explossion. En 1996 grabó el disco *Montevideo* con músicos de jazz de Nueva York. Es una de las figuras más populares de la música uruguaya.",
+      "discoClave": {
+        "disco": "magic-time-opa-rada",
+        "explicacion": "Con Opa; incluye \"Montevideo\"."
+      },
+      "discos": [
+        "montevideo",
+        "rada"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-ruben-rada"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "magic-time-opa-rada",
+    "montevideo",
+    "rada"
+  ]
+}

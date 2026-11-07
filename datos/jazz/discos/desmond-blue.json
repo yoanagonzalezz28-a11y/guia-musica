@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6w6jA35lueTrk0l6sipJ58",
+    "tituloEnSpotify": "Desmond Blue",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "desmond-blue",
+  "titulo": "Desmond Blue",
+  "credito": "Paul Desmond",
+  "lideres": [
+    "desmond"
+  ],
+  "grabacion": {
+    "desde": 1962,
+    "hasta": 1962,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1962,
+    "detalle": null
+  },
+  "sello": "RCA Victor",
+  "musicos": [
+    {
+      "musico": "desmond",
+      "nombre": "Paul Desmond",
+      "instrumento": "saxo alto"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "cool"
+  ],
+  "comentario": [
+    "Su alto con cuerdas: melodías largas, sin exceso de dulzura."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

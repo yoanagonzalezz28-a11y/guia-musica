@@ -44,12 +44,12 @@
       "instrumento": "trompeta"
     },
     {
-      "musico": null,
+      "musico": "henderson",
       "nombre": "Joe Henderson",
       "instrumento": "saxo tenor"
     },
     {
-      "musico": null,
+      "musico": "elvin",
       "nombre": "Elvin Jones",
       "instrumento": "batería"
     }

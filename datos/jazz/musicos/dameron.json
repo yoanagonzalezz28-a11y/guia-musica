@@ -1,0 +1,53 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "dameron",
+  "nombre": "Tadd Dameron",
+  "nacimiento": {
+    "anio": 1917,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 1965
+  },
+  "instrumentos": [
+    "piano",
+    "composición"
+  ],
+  "corrientes": [
+    "bebop"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Compositor y arreglador del bebop, autor de \"Hot House\" y \"Lady Bird\", con un lirismo poco común en el estilo.",
+  "epocas": [
+    {
+      "titulo": "Bebop",
+      "desde": 1956,
+      "hasta": 1962,
+      "texto": "",
+      "discoClave": {
+        "disco": "the-magic-touch",
+        "explicacion": "Sus temas con una orquesta de estrellas."
+      },
+      "discos": [
+        "mating-call",
+        "fontainebleau"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-tadd-dameron"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "the-magic-touch",
+    "mating-call",
+    "fontainebleau"
+  ]
+}

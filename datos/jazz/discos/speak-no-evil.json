@@ -41,7 +41,7 @@
       "instrumento": "saxo tenor"
     },
     {
-      "musico": null,
+      "musico": "hubbard",
       "nombre": "Freddie Hubbard",
       "instrumento": "trompeta",
       "nota": "Salvo \"Infant Eyes\""
@@ -52,12 +52,12 @@
       "instrumento": "piano"
     },
     {
-      "musico": null,
+      "musico": "ronc",
       "nombre": "Ron Carter",
       "instrumento": "contrabajo"
     },
     {
-      "musico": null,
+      "musico": "elvin",
       "nombre": "Elvin Jones",
       "instrumento": "batería"
     }

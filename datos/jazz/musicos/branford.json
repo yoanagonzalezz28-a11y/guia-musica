@@ -1,0 +1,65 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "branford",
+  "nombre": "Branford Marsalis",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "saxo"
+  ],
+  "corrientes": [
+    "neotrad"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Hermano mayor de Wynton. Tocó con Sting y dirigió la banda de *The Tonight Show*, y su cuarteto es uno de los más sólidos del jazz actual. Muestra que se puede venir de la tradición y moverse con libertad por el pop, el hip hop y la clásica.",
+  "epocas": [
+    {
+      "titulo": "Neotradicionalismo",
+      "desde": 1987,
+      "hasta": 2004,
+      "texto": "Nació en 1960, hijo mayor del pianista Ellis Marsalis. Tocó en los Jazz Messengers y en el primer quinteto de su hermano Wynton, y en 1985 se fue con Sting para grabar *The Dream of the Blue Turtles*. Dirigió la banda de *The Tonight Show* a comienzos de los 90 y el proyecto de hip hop Buckshot LeFonque. Desde los 2000 su cuarteto, con el pianista Joey Calderazzo, es uno de los grupos estables más sólidos del jazz. También toca música clásica y compuso para cine y teatro.",
+      "discoClave": {
+        "disco": "trio-jeepy",
+        "explicacion": "Trío sin piano con Milt Hinton."
+      },
+      "discos": [
+        "requiem",
+        "renaissance",
+        "footsteps-of-our-fathers",
+        "eternal"
+      ]
+    },
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2019,
+      "hasta": 2019,
+      "texto": "",
+      "discoClave": {
+        "disco": "the-secret-between-the-shadow-and-the-soul",
+        "explicacion": "El cuarteto con Joey Calderazzo, después de veinte años juntos."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-branford-marsalis"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "trio-jeepy",
+    "requiem",
+    "renaissance",
+    "footsteps-of-our-fathers",
+    "eternal"
+  ]
+}

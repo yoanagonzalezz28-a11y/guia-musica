@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "cuba"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Tjader Plays Mambo Cal Tjader"
+  },
+  "id": "tjader-plays-mambo",
+  "titulo": "Tjader Plays Mambo",
+  "credito": "Cal Tjader",
+  "lideres": [
+    "tjader"
+  ],
+  "grabacion": {
+    "desde": 1954,
+    "hasta": 1954,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1954,
+    "detalle": null
+  },
+  "sello": "Fantasy",
+  "musicos": [
+    {
+      "musico": "tjader",
+      "nombre": "Cal Tjader",
+      "instrumento": "vibráfono"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "latino"
+  ],
+  "comentario": [
+    "Su primer disco latino: el vibráfono del cool se pasa al mambo."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

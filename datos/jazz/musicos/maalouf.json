@@ -1,0 +1,52 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "maalouf",
+  "nombre": "Ibrahim Maalouf",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "trompeta"
+  ],
+  "corrientes": [
+    "mundo"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Trompetista franco-libanés que toca una trompeta de cuatro pistones, creada por su padre para los cuartos de tono de la música árabe.",
+  "epocas": [
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 2011,
+      "hasta": 2020,
+      "texto": "",
+      "discoClave": {
+        "disco": "diagnostic",
+        "explicacion": "Jazz, rock y maqam árabe."
+      },
+      "discos": [
+        "40-melodies",
+        "kalthoum",
+        "illusions"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-ibrahim-maalouf"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "diagnostic",
+    "40-melodies",
+    "kalthoum",
+    "illusions"
+  ]
+}

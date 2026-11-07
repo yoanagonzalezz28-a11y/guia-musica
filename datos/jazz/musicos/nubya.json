@@ -1,0 +1,52 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "nubya",
+  "nombre": "Nubya Garcia",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "saxo tenor"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Saxofonista de la escena de Londres, con raíces caribeñas, que mezcla jazz espiritual, dub y ritmos afrocaribeños.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2017,
+      "hasta": 2024,
+      "texto": "",
+      "discoClave": {
+        "disco": "source",
+        "explicacion": "Su primer disco largo."
+      },
+      "discos": [
+        "nubya-s-5ive",
+        "odyssey",
+        "source-we-move"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-nubya-garcia"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "source",
+    "nubya-s-5ive",
+    "odyssey",
+    "source-we-move"
+  ]
+}

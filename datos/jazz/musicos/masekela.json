@@ -1,0 +1,55 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "masekela",
+  "nombre": "Hugh Masekela",
+  "nacimiento": {
+    "anio": 1939,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 2018
+  },
+  "instrumentos": [
+    "trompeta",
+    "fliscorno"
+  ],
+  "corrientes": [
+    "mundo"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Trompetista de los Jazz Epistles que se exilió en 1960. Llegó al número uno en Estados Unidos con \"Grazing in the Grass\" (1968), y \"Bring Him Back Home\" (1987) fue un himno contra el apartheid. Llevó el jazz sudafricano al mundo y lo unió a la lucha contra el apartheid.",
+  "epocas": [
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 1968,
+      "hasta": 1994,
+      "texto": "Nació en 1939 en Witbank y recibió su primera trompeta del sacerdote anglicano Trevor Huddleston, opositor al apartheid. En 1959 formó los Jazz Epistles y en 1960, tras la masacre de Sharpeville, se exilió. Estudió en la Manhattan School of Music de Nueva York. Su \"Grazing in the Grass\" llegó al número uno en Estados Unidos en 1968, y tocó en el festival de Monterey Pop. Grabó en Ghana con músicos de África occidental. \"Bring Him Back Home\" (1987) fue un himno por la liberación de Mandela. Volvió a Sudáfrica a comienzos de los 90 y murió en 2018.",
+      "discoClave": {
+        "disco": "the-promise-of-a-future",
+        "explicacion": "Incluye \"Grazing in the Grass\"."
+      },
+      "discos": [
+        "home-is-where-the-music-is",
+        "hope",
+        "introducing-hedzoleh-soundz"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-hugh-masekela"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "the-promise-of-a-future",
+    "home-is-where-the-music-is",
+    "hope",
+    "introducing-hedzoleh-soundz"
+  ]
+}

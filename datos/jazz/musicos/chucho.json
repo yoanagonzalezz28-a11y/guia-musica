@@ -1,0 +1,55 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "chucho",
+  "nombre": "Chucho Valdés",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano",
+    "composición"
+  ],
+  "corrientes": [
+    "latino"
+  ],
+  "regiones": [
+    "cuba"
+  ],
+  "spotify": null,
+  "resumen": "Pianista cubano, hijo de Bebo Valdés, que en 1973 fundó Irakere. Une el virtuosismo del piano de jazz con la percusión ritual afrocubana y la música clásica. Es la figura central del jazz cubano desde los años 70.",
+  "epocas": [
+    {
+      "titulo": "Jazz latino",
+      "desde": 1972,
+      "hasta": 2018,
+      "texto": "Nació en Quivicán en 1941 y creció entre músicos: su padre Bebo era pianista y arreglador de la Cuba de los 50, y se exilió en 1960. En 1964 grabó sus primeras sesiones como líder en La Habana, y en 1967 fue fundador de la Orquesta Cubana de Música Moderna. En *Jazz batá* (1972) probó un trío con tambores batá en lugar de batería. En 1973 fundó Irakere, con Paquito D'Rivera y Arturo Sandoval, que mezcló jazz, funk y música ritual afrocubana y ganó un Grammy en 1980. Desde los 90 grabó para Blue Note, como *Briyumba Palo Congo* (1999). En 2008 grabó con su padre el dúo *Juntos para siempre*, y en la década de 2010 formó los Afro-Cuban Messengers.",
+      "discoClave": {
+        "disco": "jazz-bata",
+        "explicacion": "Piano, contrabajo y tambores batá."
+      },
+      "discos": [
+        "briyumba-palo-congo",
+        "live-at-the-village-vanguard",
+        "juntos-para-siempre",
+        "jazz-bata-2"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-chucho-valdes"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "jazz-bata",
+    "irakere-1979",
+    "briyumba-palo-congo",
+    "live-at-the-village-vanguard",
+    "juntos-para-siempre"
+  ]
+}

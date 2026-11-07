@@ -1,0 +1,49 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "chanopozo",
+  "nombre": "Chano Pozo",
+  "nacimiento": {
+    "anio": 1915,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 1948
+  },
+  "instrumentos": [
+    "conga",
+    "composición"
+  ],
+  "corrientes": [
+    "latino"
+  ],
+  "regiones": [
+    "cuba"
+  ],
+  "spotify": null,
+  "resumen": "Conguero habanero que en 1947 entró a la big band de Dizzy Gillespie, tocó en el Carnegie Hall y compuso con Dizzy \"Manteca\" y \"Tin Tin Deo\". Murió baleado en Harlem a los 33 años.",
+  "epocas": [
+    {
+      "titulo": "Jazz latino",
+      "desde": 1947,
+      "hasta": 1947,
+      "texto": "",
+      "discoClave": {
+        "disco": "manteca-dizzy-gillespie",
+        "explicacion": "El primer estándar de jazz sobre la clave."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-chano-pozo"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "manteca-dizzy-gillespie",
+    "cubana-be-cubana-bop"
+  ]
+}

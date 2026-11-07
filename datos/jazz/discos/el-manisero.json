@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz da 2004; acá se usa 1960."
+    }
+  ],
+  "regiones": [
+    "cuba"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": "06072",
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/35GjYQu1NvqoJz1uXbtddK",
+    "tituloEnSpotify": "El Manisero",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "el-manisero",
+  "titulo": "El Manisero",
+  "credito": "Bebo Valdés",
+  "lideres": [
+    "bebo"
+  ],
+  "grabacion": {
+    "desde": 1960,
+    "hasta": 1960,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1960,
+    "detalle": null
+  },
+  "sello": "Pimienta Records",
+  "musicos": [
+    {
+      "musico": "bebo",
+      "nombre": "Bebo Valdés",
+      "instrumento": "piano, arreglos"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "latino"
+  ],
+  "comentario": [
+    "Grabaciones de su orquesta en los 50: el mambo y el son en versión de baile."
+  ],
+  "ids": {
+    "musicbrainz": "ae9226be-0279-4d2d-849c-b288f78b30f0",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

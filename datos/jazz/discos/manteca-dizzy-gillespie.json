@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "cuba"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Manteca (Dizzy Gillespie) Chano Pozo"
+  },
+  "id": "manteca-dizzy-gillespie",
+  "titulo": "Manteca (Dizzy Gillespie)",
+  "credito": "Chano Pozo",
+  "lideres": [
+    "chanopozo"
+  ],
+  "grabacion": {
+    "desde": 1947,
+    "hasta": 1947,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1947,
+    "detalle": null
+  },
+  "sello": "Victor",
+  "musicos": [
+    {
+      "musico": "chanopozo",
+      "nombre": "Chano Pozo",
+      "instrumento": "conga, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "latino"
+  ],
+  "comentario": [
+    "El primer estándar de jazz sobre la clave."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

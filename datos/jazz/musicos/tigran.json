@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "tigran",
+  "nombre": "Tigran Hamasyan",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Pianista armenio que cruza el jazz con la música folclórica y sacra de Armenia y el metal progresivo.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2015,
+      "hasta": 2022,
+      "texto": "",
+      "discoClave": {
+        "disco": "luys-i-luso",
+        "explicacion": "Himnos armenios antiguos con coro y piano."
+      },
+      "discos": [
+        "mockroot",
+        "for-gyumri",
+        "the-call-within",
+        "standart"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-tigran-hamasyan"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "luys-i-luso",
+    "mockroot",
+    "for-gyumri",
+    "the-call-within",
+    "standart"
+  ]
+}

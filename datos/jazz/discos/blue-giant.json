@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc",
+    "tituloEnSpotify": "BLUE GIANT (オリジナル・サウンドトラック)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "blue-giant",
+  "titulo": "Blue Giant",
+  "credito": "Hiromi",
+  "lideres": [
+    "hiromi"
+  ],
+  "grabacion": {
+    "desde": 2023,
+    "hasta": 2023,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2023,
+    "detalle": null
+  },
+  "sello": "Universal",
+  "musicos": [
+    {
+      "musico": "hiromi",
+      "nombre": "Hiromi",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Banda sonora de la película de animación sobre un saxofonista japonés."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

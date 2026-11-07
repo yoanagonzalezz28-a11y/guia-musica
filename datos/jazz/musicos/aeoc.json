@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "aeoc",
+  "nombre": "Art Ensemble of Chicago",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "colectivo"
+  ],
+  "corrientes": [
+    "free"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Grupo salido de la AACM de Chicago, con decenas de percusiones en escena y la consigna \"Great Black Music: Ancient to the Future\".",
+  "epocas": [
+    {
+      "titulo": "Free jazz",
+      "desde": 1969,
+      "hasta": 1982,
+      "texto": "",
+      "discoClave": {
+        "disco": "full-force",
+        "explicacion": "Free, blues y percusión ritual."
+      },
+      "discos": [
+        "les-stances-a-sophie",
+        "people-in-sorrow",
+        "urban-bushmen",
+        "nice-guys"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-art-ensemble-of-chicago"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "full-force",
+    "les-stances-a-sophie",
+    "people-in-sorrow",
+    "urban-bushmen",
+    "nice-guys"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "paquito",
+  "nombre": "Paquito D'Rivera",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "saxo",
+    "clarinete"
+  ],
+  "corrientes": [
+    "latino"
+  ],
+  "regiones": [
+    "cuba"
+  ],
+  "spotify": null,
+  "resumen": "Saxofonista y clarinetista cubano, cofundador de Irakere. Se exilió en 1980 y une jazz, música cubana y clásica. Es el gran clarinetista del jazz latino y un puente entre Cuba, Brasil y la música clásica.",
+  "epocas": [
+    {
+      "titulo": "Jazz latino",
+      "desde": 1979,
+      "hasta": 1996,
+      "texto": "Nació en La Habana en 1948, hijo de un saxofonista clásico, y tocó desde niño. Fue parte de la Orquesta Cubana de Música Moderna y en 1973 cofundó Irakere con Chucho Valdés. En 1980, durante una gira por España, pidió asilo y se instaló en Nueva York, donde Dizzy Gillespie lo sumó a su United Nation Orchestra. Alterna jazz latino, choro, tango y música clásica, en saxo alto y clarinete, y ganó numerosos Grammys.",
+      "discoClave": {
+        "disco": "paquito-blowin",
+        "explicacion": "Su primer disco en Estados Unidos."
+      },
+      "discos": [
+        "tico-tico",
+        "paquito-d-rivera-presents-why-not",
+        "portraits-of-cuba",
+        "en-finlandia"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-paquito-d-rivera"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "paquito-blowin",
+    "tico-tico",
+    "paquito-d-rivera-presents-why-not",
+    "portraits-of-cuba",
+    "en-finlandia"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/620p4tcAC1PAmDUY8Vk5KT",
+    "tituloEnSpotify": "Bossa Antigua",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "bossa-antigua",
+  "titulo": "Bossa Antigua",
+  "credito": "Paul Desmond",
+  "lideres": [
+    "desmond"
+  ],
+  "grabacion": {
+    "desde": 1965,
+    "hasta": 1965,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1965,
+    "detalle": null
+  },
+  "sello": "RCA Victor",
+  "musicos": [
+    {
+      "musico": "desmond",
+      "nombre": "Paul Desmond",
+      "instrumento": "saxo alto"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "cool"
+  ],
+  "comentario": [
+    "Con Jim Hall: el alto más suave del jazz sobre ritmos de bossa, casi en susurro."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Bossa_Antigua"
+  },
+  "respaldo": []
+}

@@ -1,0 +1,52 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "django",
+  "nombre": "Django Reinhardt",
+  "nacimiento": {
+    "anio": 1910,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 1953
+  },
+  "instrumentos": [
+    "guitarra"
+  ],
+  "corrientes": [
+    "swing"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Guitarrista manouche nacido en Bélgica. Un incendio le dejó dos dedos de la mano izquierda casi inutilizados y desarrolló una técnica propia. Con el violinista Stéphane Grappelli fundó el Quintette du Hot Club de France y el jazz manouche.",
+  "epocas": [
+    {
+      "titulo": "Swing",
+      "desde": 0,
+      "hasta": 1961,
+      "texto": "",
+      "discoClave": {
+        "disco": "quintette-du-hot-club-de-france",
+        "explicacion": "Swing con guitarras, violín y contrabajo, sin batería."
+      },
+      "discos": [
+        "djangology",
+        "nuages"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-django-reinhardt"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "quintette-du-hot-club-de-france",
+    "djangology",
+    "nuages"
+  ]
+}

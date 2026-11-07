@@ -30,7 +30,7 @@
       "instrumento": "batería"
     },
     {
-      "musico": null,
+      "musico": "abbey",
       "nombre": "Abbey Lincoln",
       "instrumento": "voz"
     },
@@ -50,7 +50,7 @@
       "instrumento": "saxo tenor"
     },
     {
-      "musico": null,
+      "musico": "hawkins",
       "nombre": "Coleman Hawkins",
       "instrumento": "saxo tenor",
       "nota": "Solo \"Driva' Man\""
@@ -74,6 +74,11 @@
       "musico": null,
       "nombre": "Tomas du Vall",
       "instrumento": "percusión"
+    },
+    {
+      "musico": "abbey",
+      "nombre": "Abbey Lincoln",
+      "instrumento": "voz"
     }
   ],
   "corrientes": [

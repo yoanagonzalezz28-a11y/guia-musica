@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Crazy and Mixed Up Sarah Vaughan"
+  },
+  "id": "crazy-and-mixed-up",
+  "titulo": "Crazy and Mixed Up",
+  "credito": "Sarah Vaughan",
+  "lideres": [
+    "sarah"
+  ],
+  "grabacion": {
+    "desde": 1982,
+    "hasta": 1982,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1982,
+    "detalle": null
+  },
+  "sello": "Pablo",
+  "musicos": [
+    {
+      "musico": "sarah",
+      "nombre": "Sarah Vaughan",
+      "instrumento": "voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "bebop"
+  ],
+  "comentario": [
+    "Disco tardío con Joe Pass y Roland Hanna: la voz más grave y madura, con un scat de una agilidad que todavía impresiona."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "cuba"
+  ],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "El Rey Tito Puente"
+  },
+  "id": "el-rey",
+  "titulo": "El Rey",
+  "credito": "Tito Puente",
+  "lideres": [
+    "puente"
+  ],
+  "grabacion": {
+    "desde": 1984,
+    "hasta": 1984,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1984,
+    "detalle": null
+  },
+  "sello": "Concord Picante",
+  "musicos": [
+    {
+      "musico": "puente",
+      "nombre": "Tito Puente",
+      "instrumento": "timbales, vibráfono"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "latino"
+  ],
+  "comentario": [
+    "En vivo con su grupo de jazz latino: timbales y vibráfono."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

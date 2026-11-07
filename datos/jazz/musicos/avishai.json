@@ -1,0 +1,55 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "avishai",
+  "nombre": "Avishai Cohen",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "contrabajo",
+    "voz"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l",
+  "resumen": "Contrabajista israelí que tocó con Chick Corea. Sus tríos mezclan melodías de Medio Oriente y del Mediterráneo con la tradición del piano trío. Llevó el contrabajo al frente y abrió el jazz a las músicas del Mediterráneo.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 1998,
+      "hasta": 2022,
+      "texto": "Nació en Israel en 1970. Empezó con el piano y pasó al bajo a los 14 años, inspirado por Jaco Pastorius. En 1992 se mudó a Nueva York, donde tocó en el subte y en grupos de jazz latino con Danilo Pérez. Chick Corea lo escuchó, lo sumó a su sexteto Origin (1996–2003) y editó sus primeros discos. De regreso en Israel, sus tríos y ensambles combinaron el piano trío con canciones tradicionales en hebreo y ladino, y fueron muy populares en Europa. No confundir con el trompetista israelí del mismo nombre, que graba para ECM.",
+      "discoClave": {
+        "disco": "adama",
+        "explicacion": "Debut en el sello de Chick Corea, en cuyo sexteto Origin tocaba desde 1996."
+      },
+      "discos": [
+        "gently-disturbed",
+        "aurora",
+        "seven-seas",
+        "shifting-sands"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-avishai-cohen-bassist"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "adama",
+    "gently-disturbed",
+    "aurora",
+    "seven-seas",
+    "shifting-sands"
+  ]
+}

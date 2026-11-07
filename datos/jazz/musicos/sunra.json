@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "sunra",
+  "nombre": "Sun Ra",
+  "nacimiento": {
+    "anio": 1914,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 1993
+  },
+  "instrumentos": [
+    "piano",
+    "sintetizador",
+    "composición"
+  ],
+  "corrientes": [
+    "free"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Director de big band que decía venir de Saturno. Con su Arkestra mezcló swing, free, electrónica temprana y teatro.",
+  "epocas": [
+    {
+      "titulo": "Free jazz",
+      "desde": 1959,
+      "hasta": 1978,
+      "texto": "",
+      "discoClave": {
+        "disco": "jazz-in-silhouette",
+        "explicacion": "La Arkestra entre el swing y el espacio."
+      },
+      "discos": [
+        "space-is-the-place",
+        "lanquidity",
+        "the-heliocentric-worlds-of-sun-ra-vol-1",
+        "sound-sun-pleasure"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-sun-ra"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "jazz-in-silhouette",
+    "space-is-the-place",
+    "lanquidity",
+    "the-heliocentric-worlds-of-sun-ra-vol-1",
+    "sound-sun-pleasure"
+  ]
+}

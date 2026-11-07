@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "waller",
+  "nombre": "Fats Waller",
+  "nacimiento": {
+    "anio": 1904,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 1943
+  },
+  "instrumentos": [
+    "piano",
+    "órgano",
+    "voz"
+  ],
+  "corrientes": [
+    "swing"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Pianista de stride, alumno de James P. Johnson, cantante con mucho humor y autor de \"Ain't Misbehavin'\" y \"Honeysuckle Rose\".",
+  "epocas": [
+    {
+      "titulo": "Swing",
+      "desde": 1929,
+      "hasta": 1943,
+      "texto": "",
+      "discoClave": {
+        "disco": "ain-t-misbehavin",
+        "explicacion": "Su tema más famoso, en piano solo."
+      },
+      "discos": [
+        "fats-waller-and-his-rhythm",
+        "handful-of-keys",
+        "ain-t-misbehavin-the-best-of-fats-waller"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-fats-waller"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "ain-t-misbehavin",
+    "fats-waller-and-his-rhythm",
+    "handful-of-keys",
+    "ain-t-misbehavin-the-best-of-fats-waller"
+  ]
+}

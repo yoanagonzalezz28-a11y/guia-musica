@@ -1,0 +1,55 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "mccraven",
+  "nombre": "Makaya McCraven",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "batería",
+    "producción"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Baterista y productor de Chicago que graba improvisaciones en vivo y después las edita como un productor de beats.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2015,
+      "hasta": 2022,
+      "texto": "",
+      "discoClave": {
+        "disco": "universal-beings",
+        "explicacion": "Sesiones en Chicago, Nueva York, Londres y Los Ángeles."
+      },
+      "discos": [
+        "in-the-moment",
+        "we-re-new-again",
+        "deciphering-the-message",
+        "in-these-times"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-makaya-mccraven"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "universal-beings",
+    "in-the-moment",
+    "we-re-new-again",
+    "deciphering-the-message",
+    "in-these-times"
+  ]
+}

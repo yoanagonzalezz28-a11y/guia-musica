@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "clarke",
+  "nombre": "Kenny Clarke",
+  "nacimiento": {
+    "anio": 1914,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 1985
+  },
+  "instrumentos": [
+    "batería"
+  ],
+  "corrientes": [
+    "bebop"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "En las jam sessions de Minton's pasó el pulso de la batería al platillo y usó el bombo para acentos: la base rítmica del bebop. Fue el primer baterista del Modern Jazz Quartet y desde 1956 vivió en París.",
+  "epocas": [
+    {
+      "titulo": "Bebop",
+      "desde": 1955,
+      "hasta": 1962,
+      "texto": "",
+      "discoClave": {
+        "disco": "bohemia-after-dark",
+        "explicacion": "Con Cannonball y Nat Adderley en su primer año en Nueva York."
+      },
+      "discos": [
+        "telefunken-blues",
+        "klook-s-clique",
+        "kenny-clarke-francy-boland-big-band-jazz-is-univer"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-kenny-clarke"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "bohemia-after-dark",
+    "telefunken-blues",
+    "klook-s-clique",
+    "kenny-clarke-francy-boland-big-band-jazz-is-univer"
+  ]
+}

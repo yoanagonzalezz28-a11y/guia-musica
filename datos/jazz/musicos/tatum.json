@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "tatum",
+  "nombre": "Art Tatum",
+  "nacimiento": {
+    "anio": 1909,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 1956
+  },
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "swing"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq",
+  "resumen": "Pianista casi ciego de Toledo, Ohio, con una técnica que asombraba por igual a músicos de jazz y de música clásica. Sus reharmonizaciones y pasajes rapidísimos anticipan el bebop. Es la vara con la que se mide la técnica en el piano de jazz.",
+  "epocas": [
+    {
+      "titulo": "Swing",
+      "desde": 0,
+      "hasta": 1968,
+      "texto": "Nació con cataratas: casi ciego de un ojo y con poca vista en el otro. Aprendió de oído, copiando rollos de pianola y discos. En 1932 llegó a Nueva York como acompañante de la cantante Adelaide Hall, y en 1933 grabó \"Tiger Rag\" a una velocidad que parecía imposible. Tomaba canciones populares y las desarmaba con cambios de armonía y de tempo dentro de cada estribillo. Prefería tocar solo o en trío; en los 40 tuvo uno con Tiny Grimes en guitarra y Slam Stewart en contrabajo. Entre 1953 y 1956 el productor Norman Granz le grabó más de cien piezas solo, y sesiones con Ben Webster, Benny Carter y otros. Los músicos del bebop lo estudiaban: Charlie Parker trabajó de lavaplatos en un local donde tocaba Tatum para poder escucharlo. Murió en 1956, a los 47 años.",
+      "discoClave": {
+        "disco": "piano-starts-here",
+        "explicacion": "Las grabaciones de 1933, con \"Tiger Rag\", y un concierto de 1949: el mejor lugar para empezar."
+      },
+      "discos": [
+        "the-tatum-solo-masterpieces",
+        "the-art-tatum-ben-webster-quartet",
+        "the-tatum-group-masterpieces"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-art-tatum"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "piano-starts-here",
+    "the-tatum-solo-masterpieces",
+    "the-art-tatum-ben-webster-quartet",
+    "the-tatum-group-masterpieces"
+  ]
+}

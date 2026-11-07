@@ -36,7 +36,7 @@
       "instrumento": "guitarra eléctrica"
     },
     {
-      "musico": null,
+      "musico": "jaco",
       "nombre": "Jaco Pastorius",
       "instrumento": "bajo eléctrico"
     },
@@ -44,6 +44,11 @@
       "musico": null,
       "nombre": "Bob Moses",
       "instrumento": "batería"
+    },
+    {
+      "musico": "jaco",
+      "nombre": "Jaco Pastorius",
+      "instrumento": "bajo eléctrico"
     }
   ],
   "corrientes": [

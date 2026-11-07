@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": true,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "The Tatum Solo Masterpieces Art Tatum"
+  },
+  "id": "the-tatum-solo-masterpieces",
+  "titulo": "The Tatum Solo Masterpieces",
+  "credito": "Art Tatum",
+  "lideres": [
+    "tatum"
+  ],
+  "grabacion": {
+    "desde": 1953,
+    "hasta": 1955,
+    "detalle": "Sesiones de 1953 a 1955"
+  },
+  "edicion": {
+    "anio": 1955,
+    "detalle": null
+  },
+  "sello": "Clef / Pablo",
+  "musicos": [
+    {
+      "musico": "tatum",
+      "nombre": "Art Tatum",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "La serie de piano solo que le grabó Norman Granz."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

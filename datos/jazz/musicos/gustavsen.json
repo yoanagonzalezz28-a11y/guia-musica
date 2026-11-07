@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "gustavsen",
+  "nombre": "Tord Gustavsen",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "ecm"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Pianista noruego de ECM: baladas lentas, himnos y gospel con acento nórdico.",
+  "epocas": [
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 2003,
+      "hasta": 2018,
+      "texto": "",
+      "discoClave": {
+        "disco": "changing-places",
+        "explicacion": "Su primer disco en trío."
+      },
+      "discos": [
+        "the-ground",
+        "being-there",
+        "extended-circle",
+        "the-other-side"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-tord-gustavsen"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "changing-places",
+    "the-ground",
+    "being-there",
+    "extended-circle",
+    "the-other-side"
+  ]
+}

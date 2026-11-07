@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "The Heliocentric Worlds of Sun Ra, Vol. 1 Sun Ra"
+  },
+  "id": "the-heliocentric-worlds-of-sun-ra-vol-1",
+  "titulo": "The Heliocentric Worlds of Sun Ra, Vol. 1",
+  "credito": "Sun Ra",
+  "lideres": [
+    "sunra"
+  ],
+  "grabacion": {
+    "desde": 1965,
+    "hasta": 1965,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1965,
+    "detalle": null
+  },
+  "sello": "ESP-Disk",
+  "musicos": [
+    {
+      "musico": "sunra",
+      "nombre": "Sun Ra",
+      "instrumento": "piano, sintetizador, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "free"
+  ],
+  "comentario": [
+    "Abstracto y percusivo, con timbales y marimba: su lado más radical."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "The_Heliocentric_Worlds_of_Sun_Ra,_Volume_One"
+  },
+  "respaldo": []
+}

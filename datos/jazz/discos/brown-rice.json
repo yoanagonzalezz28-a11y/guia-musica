@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Brown Rice Don Cherry"
+  },
+  "id": "brown-rice",
+  "titulo": "Brown Rice",
+  "credito": "Don Cherry",
+  "lideres": [
+    "cherry"
+  ],
+  "grabacion": {
+    "desde": 1975,
+    "hasta": 1975,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1975,
+    "detalle": null
+  },
+  "sello": "Horizon",
+  "musicos": [
+    {
+      "musico": "cherry",
+      "nombre": "Don Cherry",
+      "instrumento": "trompeta, corneta de bolsillo"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "free"
+  ],
+  "comentario": [
+    "Jazz espiritual con voces y ritmos de varias partes del mundo."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Brown_Rice_(album)"
+  },
+  "respaldo": []
+}

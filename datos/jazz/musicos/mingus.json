@@ -1,0 +1,81 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "mingus",
+  "nombre": "Charles Mingus",
+  "nacimiento": {
+    "anio": 1922,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 1979
+  },
+  "instrumentos": [
+    "contrabajo",
+    "composición"
+  ],
+  "corrientes": [
+    "hard-bop"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H",
+  "resumen": "Contrabajista y compositor de carácter volcánico. Mezclaba gospel, blues, Ellington y música de protesta, en grupos que improvisaban de forma colectiva. Junto a Ellington, es el compositor más ambicioso del jazz.",
+  "epocas": [
+    {
+      "titulo": "Hard bop",
+      "desde": 1956,
+      "hasta": 1974,
+      "texto": "Nació en Arizona en 1922 y creció en Watts, Los Ángeles. Empezó con el violonchelo y pasó al contrabajo. Tocó con Louis Armstrong, Lionel Hampton y el trío de Red Norvo. En 1952 fundó con Max Roach el sello Debut, uno de los primeros manejados por músicos, que editó el concierto de Massey Hall.",
+      "discoClave": {
+        "disco": "pithecanthropus-erectus",
+        "explicacion": "Pieza en cuatro movimientos con secciones improvisadas en grupo: Mingus dicta las partes de memoria, no las escribe."
+      },
+      "discos": [
+        "mingus-ah-um",
+        "mingus-at-carnegie-hall",
+        "the-clown",
+        "charles-mingus-and-the-newport-rebels"
+      ]
+    },
+    {
+      "titulo": "Free jazz",
+      "desde": 1961,
+      "hasta": 1961,
+      "texto": "En su Jazz Workshop enseñaba las partes cantándolas, no en partitura, para que los músicos tocaran con libertad. Escribió \"Fables of Faubus\" contra Orval Faubus, el gobernador de Arkansas que en 1957 bloqueó la integración de una escuela en Little Rock. Columbia no permitió grabar la letra, y Mingus la grabó en 1960 para el sello Candid. Publicó la autobiografía *Beneath the Underdog* (1971). Murió en México en 1979, y su obra gigante *Epitaph* se estrenó recién en 1989.",
+      "discoClave": {
+        "disco": "charles-mingus-presents-charles-mingus",
+        "explicacion": "Cuarteto con Eric Dolphy; acá sí está \"Original Faubus Fables\" con letra."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Jazz modal",
+      "desde": 1963,
+      "hasta": 1964,
+      "texto": "",
+      "discoClave": {
+        "disco": "the-black-saint-and-the-sinner-lady",
+        "explicacion": "Suite para once músicos, escrita como un ballet: su obra más ambiciosa."
+      },
+      "discos": [
+        "mingus-mingus-mingus-mingus-mingus"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-charles-mingus"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "mingus-ah-um",
+    "pithecanthropus-erectus",
+    "charles-mingus-presents-charles-mingus",
+    "the-black-saint-and-the-sinner-lady",
+    "mingus-mingus-mingus-mingus-mingus"
+  ]
+}

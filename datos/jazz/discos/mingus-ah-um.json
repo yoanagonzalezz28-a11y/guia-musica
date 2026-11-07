@@ -1,0 +1,62 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA",
+    "tituloEnSpotify": "Mingus Ah Um",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "mingus-ah-um",
+  "titulo": "Mingus Ah Um",
+  "credito": "Charles Mingus",
+  "lideres": [
+    "mingus"
+  ],
+  "grabacion": {
+    "desde": 1959,
+    "hasta": 1959,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1959,
+    "detalle": null
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "mingus",
+      "nombre": "Charles Mingus",
+      "instrumento": "contrabajo, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "\"Goodbye Pork Pie Hat\" homenajea a Lester Young; \"Better Git It in Your Soul\" sale del gospel; \"Fables of Faubus\" se grabó sin su letra contra el racismo porque Columbia la prohibió."
+  ],
+  "resenaExtensa": [
+    "Lo grabaron en mayo de 1959 en el estudio de Columbia en Nueva York, con John Handy, Booker Ervin y Shafi Hadi en saxos, Jimmy Knepper y Willie Dennis en trombón, Horace Parlan en piano y Dannie Richmond en batería.",
+    "Es el mismo año de *Kind of Blue*, *Time Out* y *The Shape of Jazz to Come*, y es la puerta de entrada más amable a Mingus: cada tema cabe en pocos minutos, pero ya tiene todo lo que lo define, la improvisación colectiva, el grito del gospel y la sátira política."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Mingus_Ah_Um"
+  },
+  "respaldo": []
+}

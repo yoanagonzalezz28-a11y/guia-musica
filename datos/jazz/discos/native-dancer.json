@@ -39,7 +39,7 @@
       "instrumento": "saxos soprano y tenor, y piano"
     },
     {
-      "musico": null,
+      "musico": "milton",
       "nombre": "Milton Nascimento",
       "instrumento": "voz y guitarra"
     },
@@ -52,6 +52,11 @@
       "musico": "hancock",
       "nombre": "Herbie Hancock",
       "instrumento": "piano y teclados"
+    },
+    {
+      "musico": "milton",
+      "nombre": "Milton Nascimento",
+      "instrumento": "voz"
     }
   ],
   "personalNota": "Lista parcial.",

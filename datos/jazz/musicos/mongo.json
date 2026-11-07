@@ -1,0 +1,66 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "mongo",
+  "nombre": "Mongo Santamaría",
+  "nacimiento": {
+    "anio": 1917,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 2003
+  },
+  "instrumentos": [
+    "congas"
+  ],
+  "corrientes": [
+    "latino"
+  ],
+  "regiones": [
+    "cuba"
+  ],
+  "spotify": null,
+  "resumen": "Conguero cubano que pasó por las orquestas de Pérez Prado y Tito Puente. Grabó \"Afro Blue\" en 1959 y en 1963 tuvo un éxito con su versión de \"Watermelon Man\". Llevó la conga al centro del jazz y del soul.",
+  "epocas": [
+    {
+      "titulo": "Jazz latino",
+      "desde": 1959,
+      "hasta": 1972,
+      "texto": "Ramón \"Mongo\" Santamaría nació en La Habana en 1917. Tocó en la orquesta de Pérez Prado y a comienzos de los 50 llegó a Nueva York, donde tocó con Tito Puente. Después se sumó al grupo de Cal Tjader en California.",
+      "discoClave": {
+        "disco": "mongo",
+        "explicacion": "La primera grabación de \"Afro Blue\"."
+      },
+      "discos": [
+        "afro-roots",
+        "sabroso",
+        "mongo-at-the-village-gate"
+      ]
+    },
+    {
+      "titulo": "Soul jazz",
+      "desde": 1963,
+      "hasta": 1963,
+      "texto": "En 1959 grabó \"Afro Blue\", el primer estándar de jazz construido sobre un polirritmo de tres contra dos, que Coltrane tocó después en vivo. En 1963 su versión de \"Watermelon Man\" de Herbie Hancock entró al top 10. Su grupo mezcló jazz, pachanga, soul y boogaloo, y por él pasaron Chick Corea y Hubert Laws. Murió en Miami en 2003.",
+      "discoClave": {
+        "disco": "watermelon-man",
+        "explicacion": "El éxito con el tema de Hancock."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-mongo-santamaria"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "mongo",
+    "watermelon-man",
+    "afro-roots",
+    "sabroso",
+    "mongo-at-the-village-gate"
+  ]
+}

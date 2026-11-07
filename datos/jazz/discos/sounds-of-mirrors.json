@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4RgbDDGwmTiA8ypNDSoEc6",
+    "tituloEnSpotify": "Sounds Of Mirrors",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "sounds-of-mirrors",
+  "titulo": "Sounds of Mirrors",
+  "credito": "Dhafer Youssef",
+  "lideres": [
+    "youssef"
+  ],
+  "grabacion": {
+    "desde": 2018,
+    "hasta": 2018,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2018,
+    "detalle": null
+  },
+  "sello": "Anteprima",
+  "musicos": [
+    {
+      "musico": "youssef",
+      "nombre": "Dhafer Youssef",
+      "instrumento": "oud, voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "Con Zakir Hussain: oud y tabla."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

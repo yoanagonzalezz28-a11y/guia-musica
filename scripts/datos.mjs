@@ -102,14 +102,19 @@ const REV = new Set(['borrador', 'revisado']);
 
 export function validar(g, fuentes) {
   const errores = [];
+  const avisos = [];
   const err = (donde, msg) => errores.push(`${donde}: ${msg}`);
-  for (const [id, f] of Object.entries(fuentes)) if (!NIVELES.has(f.nivel)) err(`fuente ${id}`, 'nivel inválido');
+  const aviso = (donde, msg) => avisos.push(`${donde}: ${msg}`);
+  for (const [id, f] of Object.entries(fuentes)) {
+    if (!NIVELES.has(f.nivel)) aviso(`fuente ${id}`, 'nivel inválido');
+    if (f.url && !/^https?:\/\/[^\s]+$/.test(f.url)) err(`fuente ${id}`, `link mal formado: ${f.url}`);
+  }
 
   const revisarTexto = (donde, valor) => {
     if (typeof valor === 'string') {
       for (const [, id] of valor.matchAll(CITA)) {
         if (!fuentes[id]) err(donde, `cita una fuente que no existe: ${id}`);
-        else if (fuentes[id].estado !== 'consultada') err(donde, `cita "${id}", que todavía no se consultó`);
+        else if (fuentes[id].estado !== 'consultada') aviso(donde, `cita "${id}", que todavía no se consultó`);
       }
     } else if (Array.isArray(valor)) valor.forEach(v => revisarTexto(donde, v));
     else if (valor && typeof valor === 'object') Object.values(valor).forEach(v => revisarTexto(donde, v));
@@ -117,16 +122,18 @@ export function validar(g, fuentes) {
   const revisarRespaldo = (donde, x) => {
     for (const r of x.respaldo || []) {
       if (!fuentes[r.fuente]) err(donde, `fuente de respaldo inexistente: ${r.fuente}`);
-      if (!ACCESOS.has(r.acceso)) err(donde, `acceso inválido en ${r.fuente}: debe ser completa, extracto o indirecta`);
-      if (!r.aporta) err(donde, `el respaldo ${r.fuente} necesita decir qué aporta`);
+      if (!ACCESOS.has(r.acceso)) aviso(donde, `acceso inválido en ${r.fuente}: debe ser completa, extracto o indirecta`);
+      if (!r.aporta) aviso(donde, `el respaldo ${r.fuente} necesita decir qué aporta`);
     }
-    if (fuentesDe(x).size < 2) err(donde, `tiene ${fuentesDe(x).size} fuente(s) y el mínimo es 2`);
-    if (x.redescubrimiento && !x.redescubrimiento.motivo) err(donde, 'un redescubrimiento necesita explicar el motivo');
+    const n = fuentesDe(x).size;
+    if (n === 0) aviso(donde, 'no tiene ninguna fuente');
+    if (n < 2 && x.verificacion !== 'sin-verificar') aviso(donde, `tiene ${n} fuente(s): marcala como verificacion "sin-verificar"`);
+    if (x.redescubrimiento && !x.redescubrimiento.motivo) aviso(donde, 'un redescubrimiento necesita explicar el motivo');
   };
   const existe = (donde, mapa, id, tipo) => { if (!mapa.has(id)) err(donde, `${tipo} inexistente: ${id}`); };
   const base = (donde, x) => {
     if (x._archivo !== `${x.id}.json`) err(donde, `el id "${x.id}" no coincide con el archivo ${x._archivo}`);
-    if (!REV.has(x.revision?.estado)) err(donde, 'revision.estado debe ser "borrador" o "revisado"');
+    if (!REV.has(x.revision?.estado)) aviso(donde, 'revision.estado debe ser "borrador" o "revisado"');
     const { _archivo, ...resto } = x;
     revisarTexto(donde, resto);
   };
@@ -139,7 +146,7 @@ export function validar(g, fuentes) {
     c.regiones.forEach(x => existe(d, g.por.region, x, 'región'));
     c.musicos.forEach(x => existe(d, g.por.musico, x, 'músico'));
     c.discosEsenciales.forEach(x => existe(d, g.por.disco, x.disco, 'disco'));
-    if (!c.sinRedescubrimiento && !g.discos.some(x => x.corrientes.includes(c.id) && x.redescubrimiento)) err(d, 'necesita al menos un disco con la etiqueta redescubrimiento, o explicar por qué no en sinRedescubrimiento');
+    if (!c.sinRedescubrimiento && !g.discos.some(x => x.corrientes.includes(c.id) && x.redescubrimiento)) aviso(d, 'necesita al menos un disco con la etiqueta redescubrimiento, o explicar por qué no en sinRedescubrimiento');
   }
 
   for (const r of g.regiones) {
@@ -148,12 +155,12 @@ export function validar(g, fuentes) {
     r.corrientes.forEach(x => existe(d, g.por.corriente, x, 'corriente'));
     r.musicos.forEach(x => existe(d, g.por.musico, x, 'músico'));
     r.discos.forEach(x => existe(d, g.por.disco, x, 'disco'));
-    if (!r.sellos?.length) err(d, 'necesita sellos, clubes o instituciones de la escena local');
-    if (!r.escenaActual?.length) err(d, 'necesita músicos activos en escenaActual');
+    if (!r.sellos?.length) aviso(d, 'necesita sellos, clubes o instituciones de la escena local');
+    if (!r.escenaActual?.length) aviso(d, 'necesita músicos activos en escenaActual');
     for (const e of r.escenaActual || []) {
       const de = `${d}, ${e.nombre}`;
-      if (!Number.isInteger(e.ultimaActividad)) err(de, 'necesita el año de su última actividad documentada');
-      if (new Set(e.fuentes).size < 2) err(de, 'necesita al menos dos fuentes');
+      if (!Number.isInteger(e.ultimaActividad)) aviso(de, 'necesita el año de su última actividad documentada');
+      if (new Set(e.fuentes).size < 2) aviso(de, 'necesita al menos dos fuentes');
       e.fuentes.forEach(f => { if (!fuentes[f]) err(de, `fuente inexistente: ${f}`); });
     }
   }
@@ -161,26 +168,26 @@ export function validar(g, fuentes) {
   for (const x of g.discos) {
     const d = `disco ${x.id}`;
     base(d, x);
-    if (!['estudio', 'vivo'].includes(x.tipo)) err(d, 'tipo debe ser "estudio" o "vivo"');
+    if (!['estudio', 'vivo'].includes(x.tipo)) aviso(d, 'tipo debe ser "estudio" o "vivo"');
     if (x.grabacion.desde > x.grabacion.hasta) err(d, 'la grabación termina antes de empezar');
     if (x.edicion.anio < x.grabacion.desde) err(d, `se edita (${x.edicion.anio}) antes de grabarse (${x.grabacion.desde})`);
-    if (!x.corrientes.length && !(x.corrientePendiente && x.regiones?.length)) err(d, 'necesita una corriente, o una corrientePendiente y una región');
+    if (!x.corrientes.length && !(x.corrientePendiente && x.regiones?.length)) aviso(d, 'necesita una corriente, o una corrientePendiente y una región');
     revisarRespaldo(d, x);
     x.corrientes.forEach(c => existe(d, g.por.corriente, c, 'corriente'));
     (x.regiones || []).forEach(r => existe(d, g.por.region, r, 'región'));
     x.lideres.forEach(l => {
       existe(d, g.por.musico, l, 'músico');
-      if (!x.musicos.some(m => m.musico === l)) err(d, `el líder ${l} no aparece entre los músicos`);
+      if (!x.musicos.some(m => m.musico === l)) aviso(d, `el líder ${l} no aparece entre los músicos`);
     });
     x.musicos.forEach(m => {
       if (m.musico) existe(d, g.por.musico, m.musico, 'músico');
-      if (!m.nombre || !m.instrumento) err(d, 'cada músico necesita nombre e instrumento');
+      if (!m.nombre || !m.instrumento) aviso(d, 'cada músico necesita nombre e instrumento');
     });
     if (x.spotify.estado === 'verificado') {
       if (!/^https:\/\/open\.spotify\.com\/album\/[A-Za-z0-9]{22}$/.test(x.spotify.url || '')) err(d, 'link de Spotify con formato inválido');
     } else if (x.spotify.estado === 'busqueda') {
-      if (!x.spotify.consulta) err(d, 'la búsqueda de Spotify necesita una consulta');
-    } else err(d, 'spotify.estado debe ser "verificado" o "busqueda"');
+      if (!x.spotify.consulta) aviso(d, 'la búsqueda de Spotify necesita una consulta');
+    } else aviso(d, 'spotify.estado debe ser "verificado" o "busqueda"');
   }
 
   for (const m of g.musicos) {
@@ -190,38 +197,38 @@ export function validar(g, fuentes) {
     m.regiones.forEach(r => existe(d, g.por.region, r, 'región'));
     (m.fuentes || []).forEach(f => { if (!fuentes[f]) err(d, `fuente inexistente: ${f}`); });
     revisarRespaldo(d, m);
-    if (!m.epocas.length) err(d, 'necesita al menos una época');
+    if (!m.epocas.length) aviso(d, 'necesita al menos una época');
     const enEpocas = new Set();
     for (const e of m.epocas) {
       const de = `${d}, época "${e.titulo}"`;
       if (e.desde > e.hasta) err(de, 'termina antes de empezar');
-      if (!e.discoClave?.explicacion) err(de, 'el disco clave necesita una explicación');
+      if (!e.discoClave?.explicacion) aviso(de, 'el disco clave necesita una explicación');
       for (const id of [e.discoClave.disco, ...e.discos]) {
         const disco = g.por.disco.get(id);
         if (!disco) { err(de, `disco inexistente: ${id}`); continue; }
         enEpocas.add(id);
-        if (!disco.musicos.some(p => p.musico === m.id)) err(de, `"${id}" no lo lista entre sus músicos`);
+        if (!disco.musicos.some(p => p.musico === m.id)) aviso(de, `"${id}" no lo lista entre sus músicos`);
       }
     }
     for (const disco of g.discos) {
-      if (disco.lideres.includes(m.id) && !enEpocas.has(disco.id)) err(d, `lidera "${disco.id}" pero no está en ninguna época`);
+      if (disco.lideres.includes(m.id) && !enEpocas.has(disco.id)) aviso(d, `lidera "${disco.id}" pero no está en ninguna época`);
     }
   }
 
   for (const p of g.podcasts) {
     const d = `podcast ${p.id}`;
     if (p._archivo !== `${p.id}.json`) err(d, 'el id no coincide con el archivo');
-    if (!p.nombre || !p.descripcion || !p.idioma) err(d, 'necesita nombre, descripción e idioma');
+    if (!p.nombre || !p.descripcion || !p.idioma) aviso(d, 'necesita nombre, descripción e idioma');
     const vistos = new Set();
     for (const e of p.episodios) {
       const de = `${d}, ${e.titulo}`;
       if (vistos.has(e.id)) err(de, 'id de episodio repetido');
       vistos.add(e.id);
-      if (!['verificado', 'busqueda', 'sin-confirmar'].includes(e.spotify?.estado)) err(de, 'spotify.estado inválido');
+      if (!['verificado', 'busqueda', 'sin-confirmar'].includes(e.spotify?.estado)) aviso(de, 'spotify.estado inválido');
       if (e.spotify?.estado === 'verificado' && !/^https:\/\/open\.spotify\.com\/episode\/[A-Za-z0-9]{22}$/.test(e.spotify.url || '')) err(de, 'link de Spotify con formato inválido');
-      if (e.spotify?.estado === 'busqueda' && !p.spotify) err(de, 'solo se busca en Spotify si el programa está confirmado ahí');
-      if (e.spotify?.estado !== 'verificado' && !e.original) err(de, 'sin Spotify exacto necesita el link original');
-      if (!e.verificacion?.estado) err(de, 'necesita el estado de verificación');
+      if (e.spotify?.estado === 'busqueda' && !p.spotify) aviso(de, 'solo se busca en Spotify si el programa está confirmado ahí');
+      if (e.spotify?.estado !== 'verificado' && !e.original) aviso(de, 'sin Spotify exacto necesita el link original');
+      if (!e.verificacion?.estado) aviso(de, 'necesita el estado de verificación');
     }
   }
 
@@ -233,5 +240,5 @@ export function validar(g, fuentes) {
     c.escuchaParalela.forEach(p => { existe(d, g.por.disco, p.a.disco, 'disco'); existe(d, g.por.disco, p.b.disco, 'disco'); });
   }
 
-  return errores;
+  return { errores, avisos };
 }

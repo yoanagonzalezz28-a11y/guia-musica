@@ -1,0 +1,67 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "ayers",
+  "nombre": "Roy Ayers",
+  "nacimiento": {
+    "anio": 1940,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 2025
+  },
+  "instrumentos": [
+    "vibráfono"
+  ],
+  "corrientes": [
+    "souljazz"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Vibrafonista de Los Ángeles que llevó el jazz al funk y al soul. \"Everybody Loves the Sunshine\" (1976) es uno de los temas más sampleados.",
+  "epocas": [
+    {
+      "titulo": "Hard bop",
+      "desde": 1967,
+      "hasta": 1968,
+      "texto": "",
+      "discoClave": {
+        "disco": "virgo-vibes",
+        "explicacion": "Antes del funk: un vibrafonista de hard bop con Joe Henderson."
+      },
+      "discos": [
+        "stoned-soul-picnic"
+      ]
+    },
+    {
+      "titulo": "Soul jazz",
+      "desde": 1975,
+      "hasta": 1976,
+      "texto": "",
+      "discoClave": {
+        "disco": "everybody-loves-the-sunshine",
+        "explicacion": "Groove luminoso y voces soul."
+      },
+      "discos": [
+        "vibrations",
+        "mystic-voyage"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-roy-ayers"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "everybody-loves-the-sunshine",
+    "vibrations",
+    "mystic-voyage",
+    "virgo-vibes",
+    "stoned-soul-picnic"
+  ]
+}

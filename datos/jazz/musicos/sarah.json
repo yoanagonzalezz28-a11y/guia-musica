@@ -1,0 +1,66 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "sarah",
+  "nombre": "Sarah Vaughan",
+  "nacimiento": {
+    "anio": 1924,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 1990
+  },
+  "instrumentos": [
+    "voz"
+  ],
+  "corrientes": [
+    "bebop"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Cantante de Newark que entró al bebop desde adentro: cantaba y tocaba el piano en la orquesta de Earl Hines junto a Parker y Gillespie. Tenía un registro de casi tres octavas y lo usaba como un instrumentista. Es la voz del bebop.",
+  "epocas": [
+    {
+      "titulo": "Bebop",
+      "desde": 1954,
+      "hasta": 1982,
+      "texto": "Creció cantando en la iglesia de Newark y en 1942 ganó el concurso de aficionados del Apollo. Billy Eckstine la recomendó a Earl Hines, en cuya orquesta estaban Parker y Gillespie, y después la siguió a su propia big band, la gran orquesta del bebop. En 1945 grabó \"Lover Man\" con Parker y Gillespie.",
+      "discoClave": {
+        "disco": "sarah-vaughan-with-clifford-brown",
+        "explicacion": "Con la trompeta de Clifford Brown: \"Lullaby of Birdland\"."
+      },
+      "discos": [
+        "at-mister-kelly-s",
+        "after-hours-at-the-london-house",
+        "crazy-and-mixed-up"
+      ]
+    },
+    {
+      "titulo": "Jazz brasileño",
+      "desde": 1987,
+      "hasta": 1987,
+      "texto": "La llamaban \"Sassy\" y \"The Divine One\". En los 50 grabó discos pop para Mercury y discos de jazz para su sello EmArcy, como el de 1954 con Clifford Brown. Siguió grabando hasta los 80, cuando hizo un disco con canciones brasileñas de Milton Nascimento y otros. Murió en 1990.",
+      "discoClave": {
+        "disco": "brazilian-romance",
+        "explicacion": "Canciones de Milton Nascimento y Dori Caymmi."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-sarah-vaughan"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "sarah-vaughan-with-clifford-brown",
+    "at-mister-kelly-s",
+    "after-hours-at-the-london-house",
+    "brazilian-romance",
+    "crazy-and-mixed-up"
+  ]
+}

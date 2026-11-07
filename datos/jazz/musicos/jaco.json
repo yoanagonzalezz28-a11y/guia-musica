@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "jaco",
+  "nombre": "Jaco Pastorius",
+  "nacimiento": {
+    "anio": 1951,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 1987
+  },
+  "instrumentos": [
+    "bajo eléctrico"
+  ],
+  "corrientes": [
+    "fusion"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Revolucionó el bajo eléctrico sin trastes, con un sonido cantante y armónicos. Estuvo en Weather Report a fines de los 70.",
+  "epocas": [
+    {
+      "titulo": "Fusión",
+      "desde": 1976,
+      "hasta": 1983,
+      "texto": "",
+      "discoClave": {
+        "disco": "jaco-pastorius",
+        "explicacion": "Su debut: \"Donna Lee\" en bajo solo."
+      },
+      "discos": [
+        "word-of-mouth",
+        "invitation"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-jaco-pastorius"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "jaco-pastorius",
+    "word-of-mouth",
+    "invitation",
+    "heavy-weather",
+    "bright-size-life"
+  ]
+}

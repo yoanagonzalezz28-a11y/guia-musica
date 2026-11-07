@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "airto",
+  "nombre": "Airto Moreira",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "percusión"
+  ],
+  "corrientes": [
+    "brasil"
+  ],
+  "regiones": [
+    "brasil"
+  ],
+  "spotify": null,
+  "resumen": "Percusionista del Quarteto Novo que en 1970–71 tocó con Miles Davis y después en Return to Forever. Llevó la percusión brasileña al jazz y produjo los discos de Opa.",
+  "epocas": [
+    {
+      "titulo": "Jazz brasileño",
+      "desde": 1970,
+      "hasta": 1975,
+      "texto": "",
+      "discoClave": {
+        "disco": "free",
+        "explicacion": "Con Chick Corea, Keith Jarrett y Hubert Laws."
+      },
+      "discos": [
+        "fingers",
+        "identity",
+        "seeds-on-the-ground",
+        "natural-feelings"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-airto-moreira"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "free",
+    "fingers",
+    "identity",
+    "seeds-on-the-ground",
+    "natural-feelings"
+  ]
+}

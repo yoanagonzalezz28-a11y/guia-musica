@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO",
+    "tituloEnSpotify": "The Awakening",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "the-awakening",
+  "titulo": "The Awakening",
+  "credito": "Ahmad Jamal",
+  "lideres": [
+    "jamal"
+  ],
+  "grabacion": {
+    "desde": 1970,
+    "hasta": 1970,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1970,
+    "detalle": null
+  },
+  "sello": "Impulse!",
+  "musicos": [
+    {
+      "musico": "jamal",
+      "nombre": "Ahmad Jamal",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "modal"
+  ],
+  "comentario": [
+    "Trío con Jamil Nasser: un Jamal más moderno, abierto a lo modal."
+  ],
+  "ids": {
+    "musicbrainz": "b3b34cd9-0c9b-37dd-80a1-0f74e80f18fe",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

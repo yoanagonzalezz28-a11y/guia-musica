@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1fmpVhkD6k4Tvimi0FILWE",
+    "tituloEnSpotify": "Saga Jazz: From New Orleans to Paris (& Vice Versa)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "saga-jazz-from-new-orleans-to-paris",
+  "titulo": "Saga Jazz: From New Orleans to Paris",
+  "credito": "Sidney Bechet",
+  "lideres": [
+    "bechet"
+  ],
+  "grabacion": {
+    "desde": 1955,
+    "hasta": 1955,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1955,
+    "detalle": null
+  },
+  "sello": "Saga Jazz",
+  "musicos": [
+    {
+      "musico": "bechet",
+      "nombre": "Sidney Bechet",
+      "instrumento": "saxo soprano, clarinete"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "origenes"
+  ],
+  "comentario": [
+    "Un recorrido por su vida, de Nueva Orleans a París: sirve para escuchar cómo su sonido se mantuvo igual en dos continentes."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,65 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "akiyoshi",
+  "nombre": "Toshiko Akiyoshi",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano",
+    "composición"
+  ],
+  "corrientes": [
+    "mundo"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Pianista japonesa descubierta por Oscar Peterson en Tokio en 1953 y primera estudiante japonesa de Berklee. En 1973 formó con Lew Tabackin una big band que sumaba sonidos de la música japonesa. Fue la primera gran compositora de big band asiática y una pionera para las mujeres en el jazz.",
+  "epocas": [
+    {
+      "titulo": "Bebop",
+      "desde": 1956,
+      "hasta": 1956,
+      "texto": "",
+      "discoClave": {
+        "disco": "toshiko-akiyoshi-trio",
+        "explicacion": "Su primer disco en Estados Unidos: una pianista de bebop formada escuchando a Bud Powell."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 1974,
+      "hasta": 1976,
+      "texto": "Nació en 1929 en Manchuria, en una familia japonesa, y volvió a Japón después de la guerra. Oscar Peterson la escuchó en un club de Tokio en 1953 y convenció a Norman Granz de grabarla. En 1956 fue la primera estudiante japonesa de Berklee. En 1973, en Los Ángeles, formó con el saxofonista Lew Tabackin, su marido, una big band de 16 músicos para la que compuso y arregló todo el repertorio, con sonidos y temas de la cultura japonesa. Fue una de las pocas mujeres al frente de una big band, y en 2007 fue nombrada NEA Jazz Master.",
+      "discoClave": {
+        "disco": "kogun",
+        "explicacion": "El primer disco de la big band."
+      },
+      "discos": [
+        "insights",
+        "long-yellow-road",
+        "tales-of-a-courtesan"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-toshiko-akiyoshi"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "kogun",
+    "insights",
+    "long-yellow-road",
+    "toshiko-akiyoshi-trio",
+    "tales-of-a-courtesan"
+  ]
+}

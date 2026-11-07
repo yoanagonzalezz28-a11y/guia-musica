@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/47nWcb5GzhgGNzJuCJgiPN",
+    "tituloEnSpotify": "Jaco Pastorius",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "jaco-pastorius",
+  "titulo": "Jaco Pastorius",
+  "credito": "Jaco Pastorius",
+  "lideres": [
+    "jaco"
+  ],
+  "grabacion": {
+    "desde": 1976,
+    "hasta": 1976,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1976,
+    "detalle": null
+  },
+  "sello": "Epic",
+  "musicos": [
+    {
+      "musico": "jaco",
+      "nombre": "Jaco Pastorius",
+      "instrumento": "bajo eléctrico"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "fusion"
+  ],
+  "comentario": [
+    "Su debut: \"Donna Lee\" en bajo solo."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

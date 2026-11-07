@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "The Gil Evans Orchestra Plays the Music of Jimi Hendrix Gil Evans"
+  },
+  "id": "the-gil-evans-orchestra-plays-the-music-of-jimi-he",
+  "titulo": "The Gil Evans Orchestra Plays the Music of Jimi Hendrix",
+  "credito": "Gil Evans",
+  "lideres": [
+    "gilevans"
+  ],
+  "grabacion": {
+    "desde": 1974,
+    "hasta": 1974,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1974,
+    "detalle": null
+  },
+  "sello": "RCA",
+  "musicos": [
+    {
+      "musico": "gilevans",
+      "nombre": "Gil Evans",
+      "instrumento": "arreglos, piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "fusion"
+  ],
+  "comentario": [
+    "Hendrix para orquesta de jazz eléctrica."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

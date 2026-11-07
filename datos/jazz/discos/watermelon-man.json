@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "cuba"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/10GZnnxipfTbVcdZwsAWdL",
+    "tituloEnSpotify": "Watermelon Man",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "watermelon-man",
+  "titulo": "Watermelon Man!",
+  "credito": "Mongo Santamaría",
+  "lideres": [
+    "mongo"
+  ],
+  "grabacion": {
+    "desde": 1963,
+    "hasta": 1963,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1963,
+    "detalle": null
+  },
+  "sello": "Battle",
+  "musicos": [
+    {
+      "musico": "mongo",
+      "nombre": "Mongo Santamaría",
+      "instrumento": "congas"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "souljazz"
+  ],
+  "comentario": [
+    "El éxito con el tema de Hancock."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

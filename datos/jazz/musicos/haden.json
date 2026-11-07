@@ -1,0 +1,87 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "haden",
+  "nombre": "Charlie Haden",
+  "nacimiento": {
+    "anio": 1937,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 2014
+  },
+  "instrumentos": [
+    "contrabajo"
+  ],
+  "corrientes": [
+    "ecm"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Contrabajista del cuarteto de Ornette Coleman y del cuarteto americano de Keith Jarrett. Fundó la Liberation Music Orchestra y grabó dúos íntimos. Su contrabajo, simple y profundo, sostuvo tanto el free como las baladas más íntimas.",
+  "epocas": [
+    {
+      "titulo": "Free jazz",
+      "desde": 1970,
+      "hasta": 1970,
+      "texto": "Nació en Iowa en 1937 y de chico cantaba en el programa de radio de música country de su familia. Una polio le afectó la voz y se pasó al contrabajo. Se fue a Los Ángeles y en 1959 grabó con Ornette Coleman *The Shape of Jazz to Come*.",
+      "discoClave": {
+        "disco": "liberation-music-orchestra",
+        "explicacion": "Jazz político con arreglos de Carla Bley."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Swing",
+      "desde": 1979,
+      "hasta": 1979,
+      "texto": "",
+      "discoClave": {
+        "disco": "gitane",
+        "explicacion": "Dúo con el guitarrista Christian Escoudé: el swing manouche de Django, a dos voces."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Cool",
+      "desde": 1987,
+      "hasta": 1987,
+      "texto": "",
+      "discoClave": {
+        "disco": "quartet-west",
+        "explicacion": "El Los Ángeles de los años 40, en un cuarteto de una nostalgia muy cinematográfica."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 1997,
+      "hasta": 2006,
+      "texto": "Tocó en el cuarteto americano de Keith Jarrett y fundó la Liberation Music Orchestra (1969), con arreglos de Carla Bley y canciones de la Guerra Civil Española. Su Quartet West recreó el sonido del cine negro, y grabó dúos con Pat Metheny, Hank Jones y Gonzalo Rubalcaba, entre otros. Murió en 2014.",
+      "discoClave": {
+        "disco": "beyond-the-missouri-sky",
+        "explicacion": "Dúo con Pat Metheny."
+      },
+      "discos": [
+        "heartplay",
+        "nocturne"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-charlie-haden"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "shape-of-jazz",
+    "liberation-music-orchestra",
+    "beyond-the-missouri-sky",
+    "gitane",
+    "heartplay"
+  ]
+}

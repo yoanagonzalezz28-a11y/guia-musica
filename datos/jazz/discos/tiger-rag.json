@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Tiger Rag Original Dixieland Jass Band"
+  },
+  "id": "tiger-rag",
+  "titulo": "Tiger Rag",
+  "credito": "Original Dixieland Jass Band",
+  "lideres": [
+    "odjb"
+  ],
+  "grabacion": {
+    "desde": 1918,
+    "hasta": 1918,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1918,
+    "detalle": null
+  },
+  "sello": "Victor",
+  "musicos": [
+    {
+      "musico": "odjb",
+      "nombre": "Original Dixieland Jass Band",
+      "instrumento": "quinteto"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "origenes"
+  ],
+  "comentario": [
+    "Una de las piezas más tocadas del jazz temprano, en una de sus primeras grabaciones."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

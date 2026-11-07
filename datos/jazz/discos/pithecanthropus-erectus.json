@@ -1,0 +1,59 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Pithecanthropus Erectus Charles Mingus"
+  },
+  "id": "pithecanthropus-erectus",
+  "titulo": "Pithecanthropus Erectus",
+  "credito": "Charles Mingus",
+  "lideres": [
+    "mingus"
+  ],
+  "grabacion": {
+    "desde": 1956,
+    "hasta": 1956,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1956,
+    "detalle": null
+  },
+  "sello": "Atlantic",
+  "musicos": [
+    {
+      "musico": "mingus",
+      "nombre": "Charles Mingus",
+      "instrumento": "contrabajo, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Pieza en cuatro movimientos con secciones improvisadas en grupo: Mingus dicta las partes de memoria, no las escribe."
+  ],
+  "resenaExtensa": [
+    "Mingus lo pensó como una historia de la humanidad: el ascenso, el orgullo y la caída del hombre."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

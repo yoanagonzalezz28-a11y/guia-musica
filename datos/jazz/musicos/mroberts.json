@@ -1,0 +1,50 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "mroberts",
+  "nombre": "Marcus Roberts",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "neotrad"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Pianista ciego de Florida, del grupo de Wynton Marsalis en los 80, que reinterpreta la tradición del stride a Monk.",
+  "epocas": [
+    {
+      "titulo": "Neotradicionalismo",
+      "desde": 1990,
+      "hasta": 1994,
+      "texto": "",
+      "discoClave": {
+        "disco": "alone-with-three-giants",
+        "explicacion": "Temas de Jelly Roll Morton, Ellington y Monk."
+      },
+      "discos": [
+        "deep-in-the-shed",
+        "gershwin-for-lovers"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-marcus-roberts"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "alone-with-three-giants",
+    "deep-in-the-shed",
+    "gershwin-for-lovers"
+  ]
+}

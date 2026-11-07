@@ -36,12 +36,12 @@
       "instrumento": "clarinete bajo, flauta y saxo alto"
     },
     {
-      "musico": null,
+      "musico": "hubbard",
       "nombre": "Freddie Hubbard",
       "instrumento": "trompeta"
     },
     {
-      "musico": null,
+      "musico": "hutcherson",
       "nombre": "Bobby Hutcherson",
       "instrumento": "vibráfono"
     },
@@ -51,7 +51,7 @@
       "instrumento": "contrabajo"
     },
     {
-      "musico": null,
+      "musico": "tonyw",
       "nombre": "Tony Williams",
       "instrumento": "batería"
     }

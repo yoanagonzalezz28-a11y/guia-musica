@@ -1,0 +1,52 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "zakir",
+  "nombre": "Zakir Hussain",
+  "nacimiento": {
+    "anio": 1951,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 2024
+  },
+  "instrumentos": [
+    "tabla"
+  ],
+  "corrientes": [
+    "mundo"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "El gran tablista indio, de Shakti y de colaboraciones con músicos de jazz como John McLaughlin y Charles Lloyd.",
+  "epocas": [
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 1987,
+      "hasta": 2007,
+      "texto": "",
+      "discoClave": {
+        "disco": "making-music",
+        "explicacion": "Con McLaughlin, Jan Garbarek y Hariprasad Chaurasia."
+      },
+      "discos": [
+        "global-drum-project"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-zakir-hussain"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "making-music",
+    "shakti",
+    "global-drum-project",
+    "this-moment"
+  ]
+}

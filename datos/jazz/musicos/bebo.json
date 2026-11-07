@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "bebo",
+  "nombre": "Bebo Valdés",
+  "nacimiento": {
+    "anio": 1918,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 2013
+  },
+  "instrumentos": [
+    "piano",
+    "arreglos"
+  ],
+  "corrientes": [
+    "latino"
+  ],
+  "regiones": [
+    "cuba"
+  ],
+  "spotify": null,
+  "resumen": "Pianista y arreglador de la Cuba de los 50 y padre de Chucho. Se exilió en 1960 y vivió décadas en Suecia. A los 80 años volvió a grabar, y *Lágrimas negras* (2003), con Diego el Cigala, fue un éxito. Une la Cuba dorada de los 50 con el jazz latino de hoy.",
+  "epocas": [
+    {
+      "titulo": "Jazz latino",
+      "desde": 1960,
+      "hasta": 2004,
+      "texto": "Ramón \"Bebo\" Valdés nació en Quivicán en 1918. Fue pianista y arreglador del cabaret Tropicana de La Habana en los 40 y 50, creó el ritmo batanga y en 1952 participó en una de las primeras descargas de jazz cubano grabadas. En 1960 dejó Cuba y desde 1963 vivió en Estocolmo, casi retirado, tocando el piano en hoteles. En los 90 Paquito D'Rivera lo convenció de volver a grabar con *Bebo Rides Again*. Apareció en la película *Calle 54* (2000) de Fernando Trueba, y *Lágrimas negras* (2003), con Diego el Cigala, fue un éxito internacional. Murió en 2013.",
+      "discoClave": {
+        "disco": "bebo-rides-again",
+        "explicacion": "La vuelta, a los 76 años, con Paquito D'Rivera."
+      },
+      "discos": [
+        "el-manisero",
+        "el-arte-del-sabor",
+        "bebo-de-cuba"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-bebo-valdes"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "bebo-rides-again",
+    "lagrimas-negras",
+    "el-manisero",
+    "el-arte-del-sabor",
+    "bebo-de-cuba"
+  ]
+}

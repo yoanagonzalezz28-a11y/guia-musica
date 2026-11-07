@@ -1,0 +1,59 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "The Amazing Bud Powell, Vol. 1 Bud Powell"
+  },
+  "id": "the-amazing-bud-powell-vol-1",
+  "titulo": "The Amazing Bud Powell, Vol. 1",
+  "credito": "Bud Powell",
+  "lideres": [
+    "powell"
+  ],
+  "grabacion": {
+    "desde": 1956,
+    "hasta": 1956,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1956,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "powell",
+      "nombre": "Bud Powell",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "bebop"
+  ],
+  "comentario": [
+    "Sesiones de 1949 y 1951, con \"Un Poco Loco\": el piano bebop en su forma más feroz."
+  ],
+  "resenaExtensa": [
+    "En la sesión de 1949 tocan un joven Sonny Rollins y Fats Navarro."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

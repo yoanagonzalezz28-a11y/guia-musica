@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "towner",
+  "nombre": "Ralph Towner",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "guitarra"
+  ],
+  "corrientes": [
+    "ecm"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Guitarrista del grupo Oregon que llevó la guitarra clásica y la de doce cuerdas al sonido de ECM.",
+  "epocas": [
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 1973,
+      "hasta": 2006,
+      "texto": "",
+      "discoClave": {
+        "disco": "solstice",
+        "explicacion": "Con Jan Garbarek, Eberhard Weber y Jon Christensen."
+      },
+      "discos": [
+        "matchbook",
+        "diary",
+        "ana",
+        "time-line"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-ralph-towner"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "solstice",
+    "matchbook",
+    "diary",
+    "ana",
+    "time-line"
+  ]
+}

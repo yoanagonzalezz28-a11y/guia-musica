@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "getz",
+  "nombre": "Stan Getz",
+  "nacimiento": {
+    "anio": 1927,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 1991
+  },
+  "instrumentos": [
+    "saxo tenor"
+  ],
+  "corrientes": [
+    "cool"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Tenor de sonido suave, heredero de Lester Young, que pasó por la orquesta de Woody Herman y llevó la bossa nova a Estados Unidos. Su sonido es la definición del tenor suave, y fue el puente entre el jazz y la bossa nova.",
+  "epocas": [
+    {
+      "titulo": "Cool",
+      "desde": 1957,
+      "hasta": 1964,
+      "texto": "Nació en Filadelfia en 1927 y creció en el Bronx. A los 16 años ya tocaba en big bands, y en la orquesta de Woody Herman fue uno de los \"Four Brothers\", la sección de saxos inspirada en Lester Young; su solo en \"Early Autumn\" (1948) lo hizo famoso. Por su sonido le decían \"The Sound\". Pasó años marcados por la heroína y vivió en Dinamarca a fines de los 50. A la vuelta grabó *Focus* (1961) y, con Charlie Byrd, *Jazz Samba* (1962), que abrió la ola de la bossa nova; *Getz/Gilberto* (1964) ganó el Grammy al álbum del año. Siguió grabando hasta su muerte en 1991.",
+      "discoClave": {
+        "disco": "focus",
+        "explicacion": "Improvisa sobre una suite para cuerdas de Eddie Sauter."
+      },
+      "discos": [
+        "stan-getz-and-the-oscar-peterson-trio",
+        "stan-getz-and-bill-evans"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-stan-getz"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "focus",
+    "jazz-samba",
+    "getz-gilberto",
+    "stan-getz-and-the-oscar-peterson-trio",
+    "stan-getz-and-bill-evans"
+  ]
+}

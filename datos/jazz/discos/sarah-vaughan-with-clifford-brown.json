@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Sarah Vaughan with Clifford Brown Sarah Vaughan"
+  },
+  "id": "sarah-vaughan-with-clifford-brown",
+  "titulo": "Sarah Vaughan with Clifford Brown",
+  "credito": "Sarah Vaughan",
+  "lideres": [
+    "sarah"
+  ],
+  "grabacion": {
+    "desde": 1954,
+    "hasta": 1954,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1954,
+    "detalle": null
+  },
+  "sello": "EmArcy",
+  "musicos": [
+    {
+      "musico": "sarah",
+      "nombre": "Sarah Vaughan",
+      "instrumento": "voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "bebop"
+  ],
+  "comentario": [
+    "Con la trompeta de Clifford Brown: \"Lullaby of Birdland\"."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

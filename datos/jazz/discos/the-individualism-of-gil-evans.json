@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "The Individualism of Gil Evans Gil Evans"
+  },
+  "id": "the-individualism-of-gil-evans",
+  "titulo": "The Individualism of Gil Evans",
+  "credito": "Gil Evans",
+  "lideres": [
+    "gilevans"
+  ],
+  "grabacion": {
+    "desde": 1964,
+    "hasta": 1964,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1964,
+    "detalle": null
+  },
+  "sello": "Verve",
+  "musicos": [
+    {
+      "musico": "gilevans",
+      "nombre": "Gil Evans",
+      "instrumento": "arreglos, piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "cool"
+  ],
+  "comentario": [
+    "Orquestaciones amplias y misteriosas, con Wayne Shorter y Kenny Burrell entre los músicos."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "The_Individualism_of_Gil_Evans"
+  },
+  "respaldo": []
+}

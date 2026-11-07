@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "brasil"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "O Amor, o Sorriso e a Flor João Gilberto"
+  },
+  "id": "o-amor-o-sorriso-e-a-flor",
+  "titulo": "O Amor, o Sorriso e a Flor",
+  "credito": "João Gilberto",
+  "lideres": [
+    "joao"
+  ],
+  "grabacion": {
+    "desde": 1960,
+    "hasta": 1960,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1960,
+    "detalle": null
+  },
+  "sello": "Odeon",
+  "musicos": [
+    {
+      "musico": "joao",
+      "nombre": "João Gilberto",
+      "instrumento": "guitarra, voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "brasil"
+  ],
+  "comentario": [
+    "Su segundo disco: voz casi hablada y guitarra que estiliza el samba, con \"Samba de uma Nota Só\"."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "O_Amor,_o_Sorriso_e_a_Flor"
+  },
+  "respaldo": []
+}

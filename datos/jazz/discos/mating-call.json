@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/10UhtK2nSh8AZRt1Iaf8nA",
+    "tituloEnSpotify": "Mating Call [RVG Remaster]",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "mating-call",
+  "titulo": "Mating Call",
+  "credito": "Tadd Dameron",
+  "lideres": [
+    "dameron"
+  ],
+  "grabacion": {
+    "desde": 1957,
+    "hasta": 1957,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1957,
+    "detalle": null
+  },
+  "sello": "Prestige",
+  "musicos": [
+    {
+      "musico": "dameron",
+      "nombre": "Tadd Dameron",
+      "instrumento": "piano, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "bebop"
+  ],
+  "comentario": [
+    "Con John Coltrane: Dameron al piano y como compositor de todos los temas."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Mating_Call"
+  },
+  "respaldo": []
+}

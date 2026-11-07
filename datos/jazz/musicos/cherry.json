@@ -1,0 +1,67 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "cherry",
+  "nombre": "Don Cherry",
+  "nacimiento": {
+    "anio": 1936,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 1995
+  },
+  "instrumentos": [
+    "trompeta",
+    "corneta de bolsillo"
+  ],
+  "corrientes": [
+    "free"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Trompetista del cuarteto de Ornette Coleman. Después recorrió músicas del mundo y fue pionero del jazz con raíces africanas e indias.",
+  "epocas": [
+    {
+      "titulo": "Free jazz",
+      "desde": 1966,
+      "hasta": 1975,
+      "texto": "",
+      "discoClave": {
+        "disco": "complete-communion",
+        "explicacion": "Suite continua con Gato Barbieri en saxo."
+      },
+      "discos": [
+        "symphony-for-improvisers",
+        "mu-first-part",
+        "brown-rice"
+      ]
+    },
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 1985,
+      "hasta": 1985,
+      "texto": "",
+      "discoClave": {
+        "disco": "home-boy-sister-out",
+        "explicacion": "Su lado más pop y bailable, entre el rap y la música africana."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-don-cherry"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "complete-communion",
+    "symphony-for-improvisers",
+    "mu-first-part",
+    "brown-rice",
+    "home-boy-sister-out"
+  ]
+}

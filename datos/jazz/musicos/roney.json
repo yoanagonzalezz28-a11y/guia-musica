@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "roney",
+  "nombre": "Wallace Roney",
+  "nacimiento": {
+    "anio": 1960,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 2020
+  },
+  "instrumentos": [
+    "trompeta"
+  ],
+  "corrientes": [
+    "neotrad"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Trompetista de los Jazz Messengers y del grupo de Tony Williams, el único alumno directo de Miles Davis. Murió de COVID-19 en 2020.",
+  "epocas": [
+    {
+      "titulo": "Neotradicionalismo",
+      "desde": 1990,
+      "hasta": 2016,
+      "texto": "",
+      "discoClave": {
+        "disco": "misterios",
+        "explicacion": "Quinteto con cuerdas."
+      },
+      "discos": [
+        "the-standard-bearer",
+        "village",
+        "a-place-in-time"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-wallace-roney"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "misterios",
+    "the-standard-bearer",
+    "village",
+    "a-place-in-time"
+  ]
+}

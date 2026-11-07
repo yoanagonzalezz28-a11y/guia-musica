@@ -1,0 +1,59 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Charles Mingus Presents Charles Mingus Charles Mingus"
+  },
+  "id": "charles-mingus-presents-charles-mingus",
+  "titulo": "Charles Mingus Presents Charles Mingus",
+  "credito": "Charles Mingus",
+  "lideres": [
+    "mingus"
+  ],
+  "grabacion": {
+    "desde": 1961,
+    "hasta": 1961,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1961,
+    "detalle": null
+  },
+  "sello": "Candid",
+  "musicos": [
+    {
+      "musico": "mingus",
+      "nombre": "Charles Mingus",
+      "instrumento": "contrabajo, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "free"
+  ],
+  "comentario": [
+    "Cuarteto con Eric Dolphy; acá sí está \"Original Faubus Fables\" con letra."
+  ],
+  "resenaExtensa": [
+    "Se grabó en estudio para el sello Candid, pero Mingus lo presenta como si fuera un club, y le pide al \"público\" que no aplauda ni haga ruido con los vasos."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Mingus_Ah_Um"
+  },
+  "respaldo": []
+}

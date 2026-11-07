@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Duke Ellington Meets Coleman Hawkins Coleman Hawkins"
+  },
+  "id": "duke-ellington-meets-coleman-hawkins",
+  "titulo": "Duke Ellington Meets Coleman Hawkins",
+  "credito": "Coleman Hawkins",
+  "lideres": [
+    "hawkins"
+  ],
+  "grabacion": {
+    "desde": 1962,
+    "hasta": 1962,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1962,
+    "detalle": null
+  },
+  "sello": "Impulse!",
+  "musicos": [
+    {
+      "musico": "hawkins",
+      "nombre": "Coleman Hawkins",
+      "instrumento": "saxo tenor"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "Dos fundadores del jazz se encuentran por fin en un estudio; \"Mood Indigo\" con Hawkins al frente es una maravilla."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Duke_Ellington_Meets_Coleman_Hawkins"
+  },
+  "respaldo": []
+}

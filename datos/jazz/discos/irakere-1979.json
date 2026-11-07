@@ -32,19 +32,24 @@
   "lugar": "Newport y Montreux",
   "musicos": [
     {
-      "musico": null,
+      "musico": "chucho",
       "nombre": "Chucho Valdés",
       "instrumento": "piano y dirección"
     },
     {
-      "musico": null,
+      "musico": "paquito",
       "nombre": "Paquito D'Rivera",
       "instrumento": "saxo"
     },
     {
-      "musico": null,
+      "musico": "sandoval",
       "nombre": "Arturo Sandoval",
       "instrumento": "trompeta"
+    },
+    {
+      "musico": "chucho",
+      "nombre": "Chucho Valdés",
+      "instrumento": "piano"
     }
   ],
   "personalNota": "Lista parcial: son integrantes de esa época, pero no encontramos la formación completa de los conciertos.",

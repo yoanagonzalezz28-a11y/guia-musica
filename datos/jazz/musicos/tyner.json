@@ -1,0 +1,68 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "tyner",
+  "nombre": "McCoy Tyner",
+  "nacimiento": {
+    "anio": 1938,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 2020
+  },
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "modal"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Pianista del cuarteto clásico de Coltrane (1960–65). Sus acordes por cuartas y su mano izquierda poderosa marcaron el piano modal. Definió el sonido del piano modal.",
+  "epocas": [
+    {
+      "titulo": "Jazz modal",
+      "desde": 1962,
+      "hasta": 1967,
+      "texto": "Nació en Filadelfia en 1938 y conoció de joven a Coltrane en su ciudad. Entre 1960 y 1965 fue el pianista del cuarteto clásico de Coltrane, con Jimmy Garrison y Elvin Jones: *My Favorite Things*, *Crescent*, *A Love Supreme*.",
+      "discoClave": {
+        "disco": "the-real-mccoy",
+        "explicacion": "Con Joe Henderson, Ron Carter y Elvin Jones."
+      },
+      "discos": [
+        "inception",
+        "reaching-fourth",
+        "nights-of-ballads-and-blues"
+      ]
+    },
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 1972,
+      "hasta": 1972,
+      "texto": "Su forma de acompañar, con acordes por cuartas y una mano izquierda pesada, se volvió el sonido del piano modal. Como líder grabó en Blue Note y después en Milestone, con discos como *Sahara* (1972). Tocó hasta poco antes de su muerte, en 2020.",
+      "discoClave": {
+        "disco": "sahara",
+        "explicacion": "Tyner con koto, flautas y percusión: modal con sabor africano y asiático."
+      },
+      "discos": [
+        "extensions"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-mccoy-tyner"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "love-supreme",
+    "the-real-mccoy",
+    "sahara",
+    "inception",
+    "reaching-fourth"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Nuages Django Reinhardt"
+  },
+  "id": "nuages",
+  "titulo": "Nuages",
+  "credito": "Django Reinhardt",
+  "lideres": [
+    "django"
+  ],
+  "grabacion": {
+    "desde": 1940,
+    "hasta": 1940,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1940,
+    "detalle": null
+  },
+  "sello": "Swing",
+  "musicos": [
+    {
+      "musico": "django",
+      "nombre": "Django Reinhardt",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "La balada que se volvió casi un himno en la Francia ocupada, con Hubert Rostaing en clarinete."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

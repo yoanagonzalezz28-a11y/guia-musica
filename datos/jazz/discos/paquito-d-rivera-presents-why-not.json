@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "cuba"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Paquito D'Rivera Presents Why Not! Paquito D'Rivera"
+  },
+  "id": "paquito-d-rivera-presents-why-not",
+  "titulo": "Paquito D'Rivera Presents Why Not!",
+  "credito": "Paquito D'Rivera",
+  "lideres": [
+    "paquito"
+  ],
+  "grabacion": {
+    "desde": 1984,
+    "hasta": 1984,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1984,
+    "detalle": null
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "paquito",
+      "nombre": "Paquito D'Rivera",
+      "instrumento": "saxo, clarinete"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "latino"
+  ],
+  "comentario": [
+    "Su saxo alto brillante, entre el bebop y la música cubana."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

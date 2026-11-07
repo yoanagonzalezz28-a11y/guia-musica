@@ -359,3 +359,16 @@ h3.rotulo { margin: 16px 0 6px; }
   .cron-texto, .cron-der .cron-texto { padding: 0; text-align: left; white-space: normal; }
 }
 .cronologia i { display: block; margin-left: var(--x); width: var(--w); height: clamp(12px, 2vw, 20px); background: var(--tinta-c); margin-top: 2px; }
+
+/* Corrientes agrupadas por década */
+.decada { margin-top: 32px; }
+.decada .tarjetas { margin-top: 10px; }
+/* Cinco discos con reseña */
+.lista-resenas { list-style: none; padding: 0; margin: 16px 0 0; display: grid; gap: 18px; }
+.lista-resenas li { border-left: 8px solid var(--tinta-c); padding: 2px 0 4px 14px; }
+.lista-resenas h3 { margin: 0 0 6px; font-size: 1.375rem; }
+.lista-resenas h3 a { color: var(--tinta); }
+.lista-resenas p { margin: 0 0 8px; max-width: 68ch; }
+.lista-resenas details { margin: 4px 0 10px; max-width: 68ch; }
+.lista-resenas summary { cursor: pointer; font: 400 .8125rem var(--dato); }
+.discografia-completa { margin: 32px 0 0; }

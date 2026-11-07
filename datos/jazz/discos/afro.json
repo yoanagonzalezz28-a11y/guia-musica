@@ -45,7 +45,7 @@
       "instrumento": "trombón"
     },
     {
-      "musico": null,
+      "musico": "mobley",
       "nombre": "Hank Mobley",
       "instrumento": "saxo tenor"
     },
@@ -70,7 +70,7 @@
       "instrumento": "congas y percusión"
     },
     {
-      "musico": null,
+      "musico": "mongo",
       "nombre": "Mongo Santamaría",
       "instrumento": "congas"
     },

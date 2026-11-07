@@ -1,0 +1,53 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "youssef",
+  "nombre": "Dhafer Youssef",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "oud",
+    "voz"
+  ],
+  "corrientes": [
+    "mundo"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Cantante y oudista tunecino que une el canto sufí con el jazz nórdico y la electrónica.",
+  "epocas": [
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 1999,
+      "hasta": 2018,
+      "texto": "",
+      "discoClave": {
+        "disco": "abu-nawas-rhapsody",
+        "explicacion": "Con Tigran Hamasyan en piano."
+      },
+      "discos": [
+        "birds-requiem",
+        "sounds-of-mirrors",
+        "malak"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-dhafer-youssef"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "abu-nawas-rhapsody",
+    "birds-requiem",
+    "sounds-of-mirrors",
+    "malak"
+  ]
+}

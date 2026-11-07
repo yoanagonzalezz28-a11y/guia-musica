@@ -42,7 +42,7 @@
       "instrumento": "guitarras"
     },
     {
-      "musico": null,
+      "musico": "sclarke",
       "nombre": "Stanley Clarke",
       "instrumento": "bajo"
     },
@@ -50,6 +50,11 @@
       "musico": null,
       "nombre": "Lenny White",
       "instrumento": "batería"
+    },
+    {
+      "musico": "sclarke",
+      "nombre": "Stanley Clarke",
+      "instrumento": "contrabajo"
     }
   ],
   "corrientes": [

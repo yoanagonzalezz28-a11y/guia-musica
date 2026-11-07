@@ -1,0 +1,57 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "puente",
+  "nombre": "Tito Puente",
+  "nacimiento": {
+    "anio": 1923,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 2000
+  },
+  "instrumentos": [
+    "timbales",
+    "vibráfono"
+  ],
+  "corrientes": [
+    "latino"
+  ],
+  "regiones": [
+    "cuba"
+  ],
+  "spotify": null,
+  "resumen": "Timbalero neoyorquino de familia puertorriqueña, el \"Rey del Mambo\", figura del salón Palladium y autor de \"Oye cómo va\".",
+  "epocas": [
+    {
+      "titulo": "Jazz latino",
+      "desde": 1958,
+      "hasta": 1985,
+      "texto": "",
+      "discoClave": {
+        "disco": "dance-mania",
+        "explicacion": "Mambo y chachachá para bailar."
+      },
+      "discos": [
+        "top-percussion",
+        "el-rey",
+        "mambo-diablo",
+        "oye-como-va"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-tito-puente"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "dance-mania",
+    "top-percussion",
+    "el-rey",
+    "mambo-diablo",
+    "oye-como-va"
+  ]
+}

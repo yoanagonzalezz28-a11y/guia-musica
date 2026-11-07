@@ -48,7 +48,7 @@
       "nota": "Segunda corneta"
     },
     {
-      "musico": null,
+      "musico": "dodds",
       "nombre": "Johnny Dodds",
       "instrumento": "clarinete"
     },
@@ -61,6 +61,11 @@
       "musico": null,
       "nombre": "Lil Hardin Armstrong",
       "instrumento": "piano"
+    },
+    {
+      "musico": "dodds",
+      "nombre": "Johnny Dodds",
+      "instrumento": "clarinete"
     }
   ],
   "personalNota": "Lista parcial: faltan la base rítmica y las variantes de cada sesión.",

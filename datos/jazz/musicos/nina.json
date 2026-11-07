@@ -1,0 +1,57 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "nina",
+  "nombre": "Nina Simone",
+  "nacimiento": {
+    "anio": 1933,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 2003
+  },
+  "instrumentos": [
+    "piano",
+    "voz"
+  ],
+  "corrientes": [
+    "souljazz"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Pianista de formación clásica que cantó jazz, blues, soul y canción de protesta, como \"Mississippi Goddam\". Su primer disco incluye \"My Baby Just Cares for Me\".",
+  "epocas": [
+    {
+      "titulo": "Soul jazz",
+      "desde": 1959,
+      "hasta": 1966,
+      "texto": "",
+      "discoClave": {
+        "disco": "little-girl-blue",
+        "explicacion": "Su debut en trío."
+      },
+      "discos": [
+        "i-put-a-spell-on-you",
+        "wild-is-the-wind",
+        "nina-simone-in-concert",
+        "forbidden-fruit"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-nina-simone"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "little-girl-blue",
+    "i-put-a-spell-on-you",
+    "wild-is-the-wind",
+    "nina-simone-in-concert",
+    "forbidden-fruit"
+  ]
+}

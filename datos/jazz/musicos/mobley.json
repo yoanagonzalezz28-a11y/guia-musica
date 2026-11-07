@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "mobley",
+  "nombre": "Hank Mobley",
+  "nacimiento": {
+    "anio": 1930,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 1986
+  },
+  "instrumentos": [
+    "saxo tenor"
+  ],
+  "corrientes": [
+    "hard-bop"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Tenor de sonido redondo, una presencia constante en Blue Note; Miles Davis lo tuvo en su quinteto en 1961.",
+  "epocas": [
+    {
+      "titulo": "Hard bop",
+      "desde": 1960,
+      "hasta": 1965,
+      "texto": "",
+      "discoClave": {
+        "disco": "soul-station",
+        "explicacion": "Cuarteto con Wynton Kelly, Paul Chambers y Art Blakey."
+      },
+      "discos": [
+        "roll-call",
+        "workout",
+        "no-room-for-squares",
+        "the-turnaround"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-hank-mobley"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "soul-station",
+    "roll-call",
+    "workout",
+    "no-room-for-squares",
+    "the-turnaround"
+  ]
+}

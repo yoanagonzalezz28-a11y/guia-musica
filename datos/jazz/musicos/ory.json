@@ -1,0 +1,52 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "ory",
+  "nombre": "Kid Ory",
+  "nacimiento": {
+    "anio": 1886,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 1973
+  },
+  "instrumentos": [
+    "trombón"
+  ],
+  "corrientes": [
+    "origenes"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Trombonista de Nueva Orleans cuya banda empleó a King Oliver y a Louis Armstrong; tocó en los Hot Five.",
+  "epocas": [
+    {
+      "titulo": "Orígenes",
+      "desde": 1926,
+      "hasta": 1955,
+      "texto": "",
+      "discoClave": {
+        "disco": "muskrat-ramble-louis-armstrong-hot-five",
+        "explicacion": "Su tema más conocido, con Armstrong."
+      },
+      "discos": [
+        "kid-ory-s-creole-jazz-band-1944-45",
+        "kid-ory-plays-the-blues"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-kid-ory"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "muskrat-ramble-louis-armstrong-hot-five",
+    "kid-ory-s-creole-jazz-band-1944-45",
+    "kid-ory-plays-the-blues"
+  ]
+}

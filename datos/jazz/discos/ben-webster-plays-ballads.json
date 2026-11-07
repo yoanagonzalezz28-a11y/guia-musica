@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG",
+    "tituloEnSpotify": "Ben Webster Plays Ballads Remastered",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "ben-webster-plays-ballads",
+  "titulo": "Ben Webster Plays Ballads",
+  "credito": "Ben Webster",
+  "lideres": [
+    "webster"
+  ],
+  "grabacion": {
+    "desde": 1978,
+    "hasta": 1978,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1978,
+    "detalle": null
+  },
+  "sello": "Storyville",
+  "musicos": [
+    {
+      "musico": "webster",
+      "nombre": "Ben Webster",
+      "instrumento": "saxo tenor"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "Grabaciones de sus años en Copenhague: baladas lentas, con el vibrato y el soplido que lo hacían inconfundible."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

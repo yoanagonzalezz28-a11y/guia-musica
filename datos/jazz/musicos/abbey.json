@@ -1,0 +1,76 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "abbey",
+  "nombre": "Abbey Lincoln",
+  "nacimiento": {
+    "anio": 1930,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 2010
+  },
+  "instrumentos": [
+    "voz",
+    "composición"
+  ],
+  "corrientes": [
+    "hard-bop"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Cantante que pasó del club nocturno al compromiso político junto a Max Roach, su marido, en *We Insist!*. Después compuso su propio repertorio.",
+  "epocas": [
+    {
+      "titulo": "Hard bop",
+      "desde": 1959,
+      "hasta": 1961,
+      "texto": "",
+      "discoClave": {
+        "disco": "straight-ahead",
+        "explicacion": "Con Eric Dolphy, Coleman Hawkins y Max Roach."
+      },
+      "discos": [
+        "abbey-is-blue"
+      ]
+    },
+    {
+      "titulo": "Neotradicionalismo",
+      "desde": 1990,
+      "hasta": 1990,
+      "texto": "",
+      "discoClave": {
+        "disco": "the-world-is-falling-down",
+        "explicacion": "Con Clark Terry y Jackie McLean: su regreso con fuerza en los 90."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2007,
+      "hasta": 2007,
+      "texto": "",
+      "discoClave": {
+        "disco": "abbey-sings-abbey",
+        "explicacion": "Sus propias canciones, revisitadas al final de su vida con una voz gastada y conmovedora."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-abbey-lincoln"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "straight-ahead",
+    "we-insist",
+    "abbey-is-blue",
+    "abbey-sings-abbey",
+    "the-world-is-falling-down"
+  ]
+}

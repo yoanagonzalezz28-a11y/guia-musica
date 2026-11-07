@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "joao",
+  "nombre": "João Gilberto",
+  "nacimiento": {
+    "anio": 1931,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 2019
+  },
+  "instrumentos": [
+    "guitarra",
+    "voz"
+  ],
+  "corrientes": [
+    "brasil"
+  ],
+  "regiones": [
+    "brasil"
+  ],
+  "spotify": null,
+  "resumen": "Inventor de la manera de tocar la bossa nova en la guitarra y de cantarla casi en susurro. Su guitarra y su voz son la bossa nova.",
+  "epocas": [
+    {
+      "titulo": "Jazz brasileño",
+      "desde": 1959,
+      "hasta": 1977,
+      "texto": "Nació en Juazeiro, Bahía, en 1931, y a fines de los 40 fue a Río a cantar en grupos vocales. Pasó años ensayando casi encerrado hasta encontrar una forma de tocar la guitarra que resumía el ritmo del samba, y un canto suave, sin vibrato. Su disco *Chega de Saudade* (1959), con canciones de Jobim y Vinicius de Moraes, se considera el nacimiento de la bossa nova. Grabó con Stan Getz *Getz/Gilberto* (1964), con su entonces esposa Astrud. Era famoso por su perfeccionismo y por exigir silencio total en los conciertos. Murió en Río en 2019.",
+      "discoClave": {
+        "disco": "chega-de-saudade",
+        "explicacion": "El disco que dio nacimiento a la bossa nova."
+      },
+      "discos": [
+        "joao-gilberto",
+        "o-amor-o-sorriso-e-a-flor",
+        "amoroso"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-joao-gilberto"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "chega-de-saudade",
+    "getz-gilberto",
+    "joao-gilberto",
+    "o-amor-o-sorriso-e-a-flor",
+    "amoroso"
+  ]
+}

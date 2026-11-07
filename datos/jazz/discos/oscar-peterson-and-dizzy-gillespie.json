@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/62voq6L1jl1rjwFfqyF1wP",
+    "tituloEnSpotify": "Oscar Peterson & Dizzy Gillespie",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "oscar-peterson-and-dizzy-gillespie",
+  "titulo": "Oscar Peterson & Dizzy Gillespie",
+  "credito": "Oscar Peterson",
+  "lideres": [
+    "peterson"
+  ],
+  "grabacion": {
+    "desde": 1974,
+    "hasta": 1974,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1974,
+    "detalle": null
+  },
+  "sello": "Pablo",
+  "musicos": [
+    {
+      "musico": "peterson",
+      "nombre": "Oscar Peterson",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "bebop"
+  ],
+  "comentario": [
+    "Dúo de piano y trompeta, sin red: dos virtuosos que se escuchan y se desafían."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

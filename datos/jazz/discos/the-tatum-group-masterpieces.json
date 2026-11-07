@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "The Tatum Group Masterpieces Art Tatum"
+  },
+  "id": "the-tatum-group-masterpieces",
+  "titulo": "The Tatum Group Masterpieces",
+  "credito": "Art Tatum",
+  "lideres": [
+    "tatum"
+  ],
+  "grabacion": {
+    "desde": 1955,
+    "hasta": 1955,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1955,
+    "detalle": null
+  },
+  "sello": "Pablo",
+  "musicos": [
+    {
+      "musico": "tatum",
+      "nombre": "Art Tatum",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "Las sesiones con Benny Carter, Roy Eldridge, Lionel Hampton y otros: Tatum en pequeño grupo, siempre a punto de tapar a todos."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -42,12 +42,12 @@
       "instrumento": "saxo alto"
     },
     {
-      "musico": null,
+      "musico": "cherry",
       "nombre": "Don Cherry",
       "instrumento": "corneta"
     },
     {
-      "musico": null,
+      "musico": "haden",
       "nombre": "Charlie Haden",
       "instrumento": "contrabajo"
     },
@@ -55,6 +55,11 @@
       "musico": null,
       "nombre": "Billy Higgins",
       "instrumento": "batería"
+    },
+    {
+      "musico": "haden",
+      "nombre": "Charlie Haden",
+      "instrumento": "contrabajo"
     }
   ],
   "corrientes": [

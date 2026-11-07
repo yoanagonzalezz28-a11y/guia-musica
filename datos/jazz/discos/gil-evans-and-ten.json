@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Gil Evans & Ten Gil Evans"
+  },
+  "id": "gil-evans-and-ten",
+  "titulo": "Gil Evans & Ten",
+  "credito": "Gil Evans",
+  "lideres": [
+    "gilevans"
+  ],
+  "grabacion": {
+    "desde": 1957,
+    "hasta": 1957,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1957,
+    "detalle": null
+  },
+  "sello": "Prestige",
+  "musicos": [
+    {
+      "musico": "gilevans",
+      "nombre": "Gil Evans",
+      "instrumento": "arreglos, piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "cool"
+  ],
+  "comentario": [
+    "Su primer disco a nombre propio: once músicos que suenan como una orquesta entera, con colores de corno y fagot."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Gil_Evans_%26_Ten"
+  },
+  "respaldo": []
+}

@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr",
+    "tituloEnSpotify": "Piano Starts Here",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "piano-starts-here",
+  "titulo": "Piano Starts Here",
+  "credito": "Art Tatum",
+  "lideres": [
+    "tatum"
+  ],
+  "grabacion": {
+    "desde": 1968,
+    "hasta": 1968,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1968,
+    "detalle": null
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "tatum",
+      "nombre": "Art Tatum",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "Las grabaciones de 1933, con \"Tiger Rag\", y un concierto de 1949: el mejor lugar para empezar."
+  ],
+  "ids": {
+    "musicbrainz": "1e493068-b80b-30c5-85f2-38009dd6a6c0",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

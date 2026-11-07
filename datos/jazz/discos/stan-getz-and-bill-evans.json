@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ",
+    "tituloEnSpotify": "Stan Getz & Bill Evans",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "stan-getz-and-bill-evans",
+  "titulo": "Stan Getz & Bill Evans",
+  "credito": "Stan Getz",
+  "lideres": [
+    "getz"
+  ],
+  "grabacion": {
+    "desde": 1964,
+    "hasta": 1964,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1964,
+    "detalle": null
+  },
+  "sello": "Verve",
+  "musicos": [
+    {
+      "musico": "getz",
+      "nombre": "Stan Getz",
+      "instrumento": "saxo tenor"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "cool"
+  ],
+  "comentario": [
+    "Encuentro de dos líricos con Elvin Jones y Ron Carter: quedó guardado más de diez años."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Stan_Getz_%26_Bill_Evans"
+  },
+  "respaldo": []
+}

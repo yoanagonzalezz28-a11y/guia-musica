@@ -1,0 +1,57 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "esperanza",
+  "nombre": "Esperanza Spalding",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "contrabajo",
+    "voz",
+    "composición"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Contrabajista, cantante y compositora de Portland. En 2011 ganó el Grammy a artista revelación, algo inédito para una música de jazz. Combina contrabajo, voz y composición con una libertad que viene del jazz, la música brasileña y el funk.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2006,
+      "hasta": 2021,
+      "texto": "Nació en Portland en 1984. Estudió con becas en Portland State y en Berklee, y en 2005, con 20 años, pasó a ser una de las profesoras más jóvenes de la historia de Berklee. Su primer disco, *Junjo*, es de 2006. Con *Chamber Music Society* (2010) llegó al top 40 de Billboard, y al año siguiente ganó el Grammy a artista revelación. *Radio Music Society* (2012), *12 Little Spells* (2018) y *Songwrights Apothecary Lab* (2021) ganaron el Grammy al mejor disco vocal de jazz. Con Wayne Shorter creó la ópera *Iphigenia*, de la que escribió el libreto. Fue profesora en Harvard entre 2017 y 2022.",
+      "discoClave": {
+        "disco": "junjo",
+        "explicacion": "Su debut en trío, con ecos de la música brasileña."
+      },
+      "discos": [
+        "chamber-music-society",
+        "radio-music-society",
+        "12-little-spells",
+        "songwrights-apothecary-lab",
+        "esperanza"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-esperanza-spalding"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "junjo",
+    "chamber-music-society",
+    "radio-music-society",
+    "12-little-spells",
+    "songwrights-apothecary-lab"
+  ]
+}

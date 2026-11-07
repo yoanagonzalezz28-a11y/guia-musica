@@ -1,0 +1,67 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "gilevans",
+  "nombre": "Gil Evans",
+  "nacimiento": {
+    "anio": 1912,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 1988
+  },
+  "instrumentos": [
+    "arreglos",
+    "piano"
+  ],
+  "corrientes": [
+    "cool"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Arreglador nacido en Toronto que usó la orquesta como una paleta de colores. Con Miles Davis grabó *Miles Ahead*, *Porgy and Bess* y *Sketches of Spain*. Cambió la manera de escribir para orquesta en el jazz.",
+  "epocas": [
+    {
+      "titulo": "Cool",
+      "desde": 1957,
+      "hasta": 1964,
+      "texto": "Nació en Toronto en 1912 y fue casi autodidacta. En los 40 arreglaba para la orquesta de Claude Thornhill, que usaba cornos y tuba con un sonido suave y suspendido. En su departamento de Nueva York, Miles Davis, Gerry Mulligan y John Lewis planearon *Birth of the Cool*.",
+      "discoClave": {
+        "disco": "sketches-of-spain-miles-davis",
+        "explicacion": "El *Concierto de Aranjuez* y saetas, arreglados para Miles."
+      },
+      "discos": [
+        "out-of-the-cool",
+        "gil-evans-and-ten",
+        "the-individualism-of-gil-evans"
+      ]
+    },
+    {
+      "titulo": "Fusión",
+      "desde": 1974,
+      "hasta": 1974,
+      "texto": "Con Miles grabó tres discos orquestales: *Miles Ahead* (1957), *Porgy and Bess* (1958) y *Sketches of Spain* (1960). En los 70 tocó la música de Jimi Hendrix con su orquesta, que ya tenía sintetizadores y guitarras eléctricas. Murió en 1988 en Cuernavaca, México.",
+      "discoClave": {
+        "disco": "the-gil-evans-orchestra-plays-the-music-of-jimi-he",
+        "explicacion": "Hendrix para orquesta de jazz eléctrica."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-gil-evans"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "sketches-of-spain-miles-davis",
+    "out-of-the-cool",
+    "the-gil-evans-orchestra-plays-the-music-of-jimi-he",
+    "gil-evans-and-ten",
+    "the-individualism-of-gil-evans"
+  ]
+}

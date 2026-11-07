@@ -1,0 +1,49 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "ofattoruso",
+  "nombre": "Osvaldo Fattoruso",
+  "nacimiento": {
+    "anio": 1948,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 2012
+  },
+  "instrumentos": [
+    "batería",
+    "voz"
+  ],
+  "corrientes": [
+    "rioplat"
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "spotify": null,
+  "resumen": "Baterista de Los Shakers y de Opa, hermano de Hugo; llevó el toque del candombe a la batería.",
+  "epocas": [
+    {
+      "titulo": "Jazz rioplatense",
+      "desde": 1976,
+      "hasta": 1976,
+      "texto": "",
+      "discoClave": {
+        "disco": "goldenwings-opa",
+        "explicacion": "Candombe y fusión con Opa."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-osvaldo-fattoruso"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "goldenwings-opa",
+    "magic-time-opa"
+  ]
+}

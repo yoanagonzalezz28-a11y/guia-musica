@@ -1,0 +1,53 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "flora",
+  "nombre": "Flora Purim",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "voz"
+  ],
+  "corrientes": [
+    "brasil"
+  ],
+  "regiones": [
+    "brasil"
+  ],
+  "spotify": null,
+  "resumen": "Cantante brasileña del primer Return to Forever (1972) y, con Airto, su marido, un puente entre Brasil y la fusión.",
+  "epocas": [
+    {
+      "titulo": "Jazz brasileño",
+      "desde": 1973,
+      "hasta": 1978,
+      "texto": "",
+      "discoClave": {
+        "disco": "butterfly-dreams",
+        "explicacion": "Su debut en Estados Unidos."
+      },
+      "discos": [
+        "stories-to-tell",
+        "open-your-eyes-you-can-fly",
+        "everyday-everynight"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-flora-purim"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "butterfly-dreams",
+    "stories-to-tell",
+    "open-your-eyes-you-can-fly",
+    "light-as-a-feather",
+    "everyday-everynight"
+  ]
+}

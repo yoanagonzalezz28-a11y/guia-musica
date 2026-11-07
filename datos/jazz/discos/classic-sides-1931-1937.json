@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5Ioh6fKCVPAyEqxUFk22DF",
+    "tituloEnSpotify": "Classic Sides 1931-1937 (CD A)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "classic-sides-1931-1937",
+  "titulo": "Classic Sides 1931-1937",
+  "credito": "Sidney Bechet",
+  "lideres": [
+    "bechet"
+  ],
+  "grabacion": {
+    "desde": 1937,
+    "hasta": 1937,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1937,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "bechet",
+      "nombre": "Sidney Bechet",
+      "instrumento": "saxo soprano, clarinete"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "origenes"
+  ],
+  "comentario": [
+    "Grabaciones de los años 30 con sus New Orleans Feetwarmers: clarinete y soprano empujando a todo el grupo."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

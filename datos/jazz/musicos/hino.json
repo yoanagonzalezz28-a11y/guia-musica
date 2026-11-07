@@ -1,0 +1,48 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "hino",
+  "nombre": "Terumasa Hino",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "trompeta"
+  ],
+  "corrientes": [
+    "mundo"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Trompetista japonés que pasó del hard bop al jazz modal y la fusión; uno de los nombres del jazz japonés que hoy se redescubre.",
+  "epocas": [
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 1965,
+      "hasta": 1979,
+      "texto": "",
+      "discoClave": {
+        "disco": "city-connection",
+        "explicacion": "Fusión grabada en Nueva York."
+      },
+      "discos": [
+        "hi-nology"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-terumasa-hino"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "city-connection",
+    "hi-nology"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Jazz Giant Bud Powell"
+  },
+  "id": "jazz-giant",
+  "titulo": "Jazz Giant",
+  "credito": "Bud Powell",
+  "lideres": [
+    "powell"
+  ],
+  "grabacion": {
+    "desde": 1956,
+    "hasta": 1956,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1956,
+    "detalle": null
+  },
+  "sello": "Norgran",
+  "musicos": [
+    {
+      "musico": "powell",
+      "nombre": "Bud Powell",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "bebop"
+  ],
+  "comentario": [
+    "Trío de 1949–50: líneas de mano derecha a velocidad de saxo, acordes cortos en la izquierda."
+  ],
+  "resenaExtensa": [
+    "Con Ray Brown o Curly Russell en contrabajo y Max Roach en batería."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

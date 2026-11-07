@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "hubbard",
+  "nombre": "Freddie Hubbard",
+  "nacimiento": {
+    "anio": 1938,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 2008
+  },
+  "instrumentos": [
+    "trompeta"
+  ],
+  "corrientes": [
+    "hard-bop"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Trompetista de Indianápolis que pasó por los Jazz Messengers y por discos clave del modal y el free, como *Maiden Voyage* y *Free Jazz*. En los 70 grabó para CTI.",
+  "epocas": [
+    {
+      "titulo": "Hard bop",
+      "desde": 1961,
+      "hasta": 1970,
+      "texto": "",
+      "discoClave": {
+        "disco": "hub-tones",
+        "explicacion": "Hard bop con Herbie Hancock."
+      },
+      "discos": [
+        "red-clay",
+        "goin-up",
+        "backlash",
+        "the-night-of-the-cookers-vol-1"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-freddie-hubbard"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "hub-tones",
+    "red-clay",
+    "goin-up",
+    "backlash",
+    "the-night-of-the-cookers-vol-1"
+  ]
+}

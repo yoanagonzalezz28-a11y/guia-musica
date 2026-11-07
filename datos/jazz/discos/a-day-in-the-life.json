@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5Z6DQMOjrC5DK1pQ3RBdZ5",
+    "tituloEnSpotify": "A Day In The Life",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "a-day-in-the-life",
+  "titulo": "A Day in the Life",
+  "credito": "Wes Montgomery",
+  "lideres": [
+    "wes"
+  ],
+  "grabacion": {
+    "desde": 1967,
+    "hasta": 1967,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1967,
+    "detalle": null
+  },
+  "sello": "A&M",
+  "musicos": [
+    {
+      "musico": "wes",
+      "nombre": "Wes Montgomery",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "souljazz"
+  ],
+  "comentario": [
+    "Producido por Creed Taylor: versiones de los Beatles con cuerdas, su gran éxito comercial."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "A_Day_in_the_Life_(Wes_Montgomery_album)"
+  },
+  "respaldo": []
+}

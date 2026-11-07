@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "desmond",
+  "nombre": "Paul Desmond",
+  "nacimiento": {
+    "anio": 1924,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 1977
+  },
+  "instrumentos": [
+    "saxo alto"
+  ],
+  "corrientes": [
+    "cool"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Saxo alto del cuarteto de Dave Brubeck y autor de \"Take Five\". Su sonido seco y lírico es uno de los más reconocibles del cool.",
+  "epocas": [
+    {
+      "titulo": "Cool",
+      "desde": 1962,
+      "hasta": 1965,
+      "texto": "",
+      "discoClave": {
+        "disco": "take-ten",
+        "explicacion": "Con Jim Hall en guitarra."
+      },
+      "discos": [
+        "bossa-antigua",
+        "desmond-blue",
+        "two-of-a-mind",
+        "glad-to-be-unhappy"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-paul-desmond"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "take-ten",
+    "bossa-antigua",
+    "desmond-blue",
+    "two-of-a-mind",
+    "glad-to-be-unhappy"
+  ]
+}

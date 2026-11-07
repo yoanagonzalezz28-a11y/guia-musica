@@ -1,0 +1,64 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "ronc",
+  "nombre": "Ron Carter",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "contrabajo"
+  ],
+  "corrientes": [
+    "modal"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Contrabajista del segundo quinteto de Miles Davis y uno de los músicos más grabados en la historia del jazz.",
+  "epocas": [
+    {
+      "titulo": "Jazz modal",
+      "desde": 1965,
+      "hasta": 1965,
+      "texto": "",
+      "discoClave": {
+        "disco": "e-s-p-miles-davis",
+        "explicacion": "El primer disco del segundo quinteto."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Hard bop",
+      "desde": 1973,
+      "hasta": 1982,
+      "texto": "",
+      "discoClave": {
+        "disco": "etudes",
+        "explicacion": "Cuarteto con Bill Evans (el saxofonista), Kenny Barron y Tony Williams: contrabajo como voz principal."
+      },
+      "discos": [
+        "all-blues",
+        "spanish-blue",
+        "blues-farm"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-ron-carter"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "e-s-p-miles-davis",
+    "etudes",
+    "all-blues",
+    "spanish-blue",
+    "blues-farm"
+  ]
+}

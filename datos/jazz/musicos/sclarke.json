@@ -1,0 +1,52 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "sclarke",
+  "nombre": "Stanley Clarke",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "contrabajo",
+    "bajo eléctrico"
+  ],
+  "corrientes": [
+    "fusion"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Bajista de Return to Forever que llevó el bajo eléctrico al frente como instrumento solista.",
+  "epocas": [
+    {
+      "titulo": "Fusión",
+      "desde": 1974,
+      "hasta": 1976,
+      "texto": "",
+      "discoClave": {
+        "disco": "school-days",
+        "explicacion": "Bajo eléctrico como protagonista."
+      },
+      "discos": [
+        "stanley-clarke",
+        "journey-to-love"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-stanley-clarke"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "school-days",
+    "stanley-clarke",
+    "journey-to-love",
+    "romantic-warrior"
+  ]
+}

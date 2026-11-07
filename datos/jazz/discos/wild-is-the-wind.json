@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr",
+    "tituloEnSpotify": "Wild Is The Wind",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "wild-is-the-wind",
+  "titulo": "Wild Is the Wind",
+  "credito": "Nina Simone",
+  "lideres": [
+    "nina"
+  ],
+  "grabacion": {
+    "desde": 1966,
+    "hasta": 1966,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1966,
+    "detalle": null
+  },
+  "sello": "Philips",
+  "musicos": [
+    {
+      "musico": "nina",
+      "nombre": "Nina Simone",
+      "instrumento": "piano, voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "souljazz"
+  ],
+  "comentario": [
+    "Con \"Four Women\": canciones de una intensidad política y personal enorme."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Wild_Is_the_Wind_(album)"
+  },
+  "respaldo": []
+}

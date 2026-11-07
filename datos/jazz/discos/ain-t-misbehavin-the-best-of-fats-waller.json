@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": true,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Ain't Misbehavin': The Best of Fats Waller Fats Waller"
+  },
+  "id": "ain-t-misbehavin-the-best-of-fats-waller",
+  "titulo": "Ain't Misbehavin': The Best of Fats Waller",
+  "credito": "Fats Waller",
+  "lideres": [
+    "waller"
+  ],
+  "grabacion": {
+    "desde": 1943,
+    "hasta": 1943,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1943,
+    "detalle": null
+  },
+  "sello": "RCA",
+  "musicos": [
+    {
+      "musico": "waller",
+      "nombre": "Fats Waller",
+      "instrumento": "piano, órgano, voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "Sus canciones más famosas, como \"Honeysuckle Rose\"."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

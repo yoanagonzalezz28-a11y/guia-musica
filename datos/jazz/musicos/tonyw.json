@@ -1,0 +1,75 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "tonyw",
+  "nombre": "Tony Williams",
+  "nacimiento": {
+    "anio": 1945,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 1997
+  },
+  "instrumentos": [
+    "batería"
+  ],
+  "corrientes": [
+    "modal"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Entró al segundo quinteto de Miles Davis a los 17 años. Después fundó Lifetime, una de las primeras bandas de fusión.",
+  "epocas": [
+    {
+      "titulo": "Free jazz",
+      "desde": 1964,
+      "hasta": 1964,
+      "texto": "",
+      "discoClave": {
+        "disco": "life-time",
+        "explicacion": "Su debut a los 19 años, mientras tocaba con Miles: piezas abiertas, casi libres."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Fusión",
+      "desde": 1970,
+      "hasta": 1975,
+      "texto": "",
+      "discoClave": {
+        "disco": "turn-it-over",
+        "explicacion": "Lifetime con Jack Bruce en bajo: fusión con el volumen del rock."
+      },
+      "discos": [
+        "believe-it"
+      ]
+    },
+    {
+      "titulo": "Neotradicionalismo",
+      "desde": 1986,
+      "hasta": 1986,
+      "texto": "",
+      "discoClave": {
+        "disco": "civilization",
+        "explicacion": "Quinteto acústico con Wallace Roney: Tony Williams en el jazz de los 80."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-tony-williams"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "emergency",
+    "life-time",
+    "turn-it-over",
+    "believe-it",
+    "civilization"
+  ]
+}

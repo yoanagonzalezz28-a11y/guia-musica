@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Rada Rubén Rada"
+  },
+  "id": "rada",
+  "titulo": "Rada",
+  "credito": "Rubén Rada",
+  "lideres": [
+    "rada"
+  ],
+  "grabacion": {
+    "desde": 1969,
+    "hasta": 1969,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1969,
+    "detalle": null
+  },
+  "sello": "De la Planta",
+  "musicos": [
+    {
+      "musico": "rada",
+      "nombre": "Rubén Rada",
+      "instrumento": "voz, percusión, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Su primer disco solista: candombe, beat y jazz en Montevideo."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

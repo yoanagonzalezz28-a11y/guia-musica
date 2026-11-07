@@ -1,0 +1,61 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6Sts4Yh7KsDFwq2yTWrGGV",
+    "tituloEnSpotify": "The Black Saint And The Sinner Lady",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "the-black-saint-and-the-sinner-lady",
+  "titulo": "The Black Saint and the Sinner Lady",
+  "credito": "Charles Mingus",
+  "lideres": [
+    "mingus"
+  ],
+  "grabacion": {
+    "desde": 1963,
+    "hasta": 1963,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1963,
+    "detalle": null
+  },
+  "sello": "Impulse!",
+  "musicos": [
+    {
+      "musico": "mingus",
+      "nombre": "Charles Mingus",
+      "instrumento": "contrabajo, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "modal"
+  ],
+  "comentario": [
+    "Suite para once músicos, escrita como un ballet: su obra más ambiciosa."
+  ],
+  "resenaExtensa": [
+    "Lo editó Impulse!. Las notas de tapa incluyen un texto del psicólogo de Mingus, el doctor Edmund Pollock."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

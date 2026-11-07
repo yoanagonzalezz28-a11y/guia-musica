@@ -37,7 +37,7 @@
       "instrumento": "saxo tenor y voz"
     },
     {
-      "musico": null,
+      "musico": "tyner",
       "nombre": "McCoy Tyner",
       "instrumento": "piano"
     },
@@ -47,9 +47,14 @@
       "instrumento": "contrabajo"
     },
     {
-      "musico": null,
+      "musico": "elvin",
       "nombre": "Elvin Jones",
       "instrumento": "batería, gong y timbales"
+    },
+    {
+      "musico": "tyner",
+      "nombre": "McCoy Tyner",
+      "instrumento": "piano"
     }
   ],
   "corrientes": [

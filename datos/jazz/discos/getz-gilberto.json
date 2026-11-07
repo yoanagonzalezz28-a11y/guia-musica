@@ -32,17 +32,17 @@
   "sello": "Verve",
   "musicos": [
     {
-      "musico": null,
+      "musico": "getz",
       "nombre": "Stan Getz",
       "instrumento": "saxo tenor"
     },
     {
-      "musico": null,
+      "musico": "joao",
       "nombre": "João Gilberto",
       "instrumento": "guitarra y voz"
     },
     {
-      "musico": null,
+      "musico": "jobim",
       "nombre": "Antônio Carlos Jobim",
       "instrumento": "piano"
     },
@@ -61,6 +61,21 @@
       "nombre": "Astrud Gilberto",
       "instrumento": "voz",
       "nota": "en dos temas"
+    },
+    {
+      "musico": "jobim",
+      "nombre": "Antônio Carlos Jobim",
+      "instrumento": "piano"
+    },
+    {
+      "musico": "getz",
+      "nombre": "Stan Getz",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": "joao",
+      "nombre": "João Gilberto",
+      "instrumento": "guitarra"
     }
   ],
   "corrientes": [

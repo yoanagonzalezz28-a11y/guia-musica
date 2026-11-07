@@ -1,0 +1,64 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "fattoruso",
+  "nombre": "Hugo Fattoruso",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano",
+    "voz"
+  ],
+  "corrientes": [
+    "rioplat"
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "spotify": "https://open.spotify.com/artist/6QDyLE9MsKNhEwDcgd86F9",
+  "resumen": "Músico uruguayo, de Los Shakers a Opa, el grupo que formó en Estados Unidos con su hermano Osvaldo y Ringo Thielmann. Su música une el candombe con el jazz. Es el gran puente entre el candombe y el jazz.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 1968,
+      "hasta": 2021,
+      "texto": "Nació en Montevideo en 1943 y de chico tocaba jazz tradicional con su hermano Osvaldo en los Hot Blowers. En los 60 formó Los Shakers, el gran grupo beat rioplatense, que triunfó en Buenos Aires con un sonido inspirado en los Beatles.",
+      "discoClave": {
+        "disco": "la-conferencia-secreta-del-toto-s-bar-los-shakers",
+        "explicacion": "Su etapa beat, el disco más ambicioso de Los Shakers."
+      },
+      "discos": [
+        "trio-fattoruso",
+        "recorriendo-uruguay"
+      ]
+    },
+    {
+      "titulo": "Fusión",
+      "desde": 1977,
+      "hasta": 1977,
+      "texto": "En 1969 se fue a Estados Unidos y con Osvaldo y George \"Ringo\" Thielmann formó Opa, pionera en cruzar el candombe con el jazz y el funk, cerca de la escena de Airto Moreira. En Brasil tocó con Milton Nascimento, entre otros. De vuelta en Uruguay siguió con el Trío Fattoruso y con el dúo Dos Orientales, junto al percusionista japonés Yahiro Tomohiro.",
+      "discoClave": {
+        "disco": "magic-time-opa",
+        "explicacion": "Segundo disco de Opa."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-hugo-fattoruso"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "la-conferencia-secreta-del-toto-s-bar-los-shakers",
+    "goldenwings",
+    "magic-time-opa",
+    "trio-fattoruso",
+    "recorriendo-uruguay"
+  ]
+}

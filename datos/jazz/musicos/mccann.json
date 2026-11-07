@@ -1,0 +1,55 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "mccann",
+  "nombre": "Les McCann",
+  "nacimiento": {
+    "anio": 1935,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 2023
+  },
+  "instrumentos": [
+    "piano",
+    "voz"
+  ],
+  "corrientes": [
+    "souljazz"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Pianista y cantante de soul jazz; con Eddie Harris grabó en Montreux *Swiss Movement* (1969) y \"Compared to What\".",
+  "epocas": [
+    {
+      "titulo": "Soul jazz",
+      "desde": 1960,
+      "hasta": 1972,
+      "texto": "",
+      "discoClave": {
+        "disco": "swiss-movement",
+        "explicacion": "En vivo en Montreux con Eddie Harris."
+      },
+      "discos": [
+        "les-mccann-plays-the-truth",
+        "invitation-to-openness",
+        "much-les"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-les-mccann"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "swiss-movement",
+    "les-mccann-plays-the-truth",
+    "invitation-to-openness",
+    "much-les"
+  ]
+}

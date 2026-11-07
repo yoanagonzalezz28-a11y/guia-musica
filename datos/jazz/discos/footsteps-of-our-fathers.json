@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Footsteps of Our Fathers Branford Marsalis"
+  },
+  "id": "footsteps-of-our-fathers",
+  "titulo": "Footsteps of Our Fathers",
+  "credito": "Branford Marsalis",
+  "lideres": [
+    "branford"
+  ],
+  "grabacion": {
+    "desde": 2002,
+    "hasta": 2002,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2002,
+    "detalle": null
+  },
+  "sello": "Marsalis Music",
+  "musicos": [
+    {
+      "musico": "branford",
+      "nombre": "Branford Marsalis",
+      "instrumento": "saxo"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "neotrad"
+  ],
+  "comentario": [
+    "Versiones de *A Love Supreme* y obras de Rollins y Ornette: homenaje a sus maestros."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

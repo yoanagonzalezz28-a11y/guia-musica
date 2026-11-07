@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Carolina Shout James P. Johnson"
+  },
+  "id": "carolina-shout",
+  "titulo": "Carolina Shout",
+  "credito": "James P. Johnson",
+  "lideres": [
+    "jpjohnson"
+  ],
+  "grabacion": {
+    "desde": 1921,
+    "hasta": 1921,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1921,
+    "detalle": null
+  },
+  "sello": "OKeh",
+  "musicos": [
+    {
+      "musico": "jpjohnson",
+      "nombre": "James P. Johnson",
+      "instrumento": "piano, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "origenes"
+  ],
+  "comentario": [
+    "La pieza que todos los pianistas de stride tenían que aprender."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

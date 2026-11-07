@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "payton",
+  "nombre": "Nicholas Payton",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "trompeta"
+  ],
+  "corrientes": [
+    "neotrad"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Trompetista de Nueva Orleans, de la generación que siguió a Wynton, con raíces en Armstrong.",
+  "epocas": [
+    {
+      "titulo": "Neotradicionalismo",
+      "desde": 1996,
+      "hasta": 1998,
+      "texto": "",
+      "discoClave": {
+        "disco": "gumbo-nouveau",
+        "explicacion": "Clásicos de Nueva Orleans con lenguaje moderno."
+      },
+      "discos": [
+        "payton-s-place"
+      ]
+    },
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2011,
+      "hasta": 2017,
+      "texto": "",
+      "discoClave": {
+        "disco": "bitches",
+        "explicacion": "Lo hace todo él solo: neo soul, jazz y voces."
+      },
+      "discos": [
+        "afro-caribbean-mixtape"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-nicholas-payton"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "gumbo-nouveau",
+    "payton-s-place",
+    "bitches",
+    "afro-caribbean-mixtape"
+  ]
+}

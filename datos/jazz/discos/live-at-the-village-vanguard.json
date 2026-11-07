@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "cuba"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0lPEQYIzR3rQAwwUuoTBl6",
+    "tituloEnSpotify": "Live at the Village Vanguard",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "live-at-the-village-vanguard",
+  "titulo": "Live at the Village Vanguard",
+  "credito": "Chucho Valdés",
+  "lideres": [
+    "chucho"
+  ],
+  "grabacion": {
+    "desde": 2000,
+    "hasta": 2000,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2000,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "chucho",
+      "nombre": "Chucho Valdés",
+      "instrumento": "piano, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "latino"
+  ],
+  "comentario": [
+    "Grammy al mejor disco de jazz latino."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Chucho_Vald%C3%A9s"
+  },
+  "respaldo": []
+}

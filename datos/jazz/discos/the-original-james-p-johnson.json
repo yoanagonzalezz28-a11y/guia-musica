@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "The Original James P. Johnson James P. Johnson"
+  },
+  "id": "the-original-james-p-johnson",
+  "titulo": "The Original James P. Johnson",
+  "credito": "James P. Johnson",
+  "lideres": [
+    "jpjohnson"
+  ],
+  "grabacion": {
+    "desde": 1945,
+    "hasta": 1945,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1945,
+    "detalle": null
+  },
+  "sello": "Folkways",
+  "musicos": [
+    {
+      "musico": "jpjohnson",
+      "nombre": "James P. Johnson",
+      "instrumento": "piano, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "origenes"
+  ],
+  "comentario": [
+    "Piano solo de los 40: stride, blues y piezas propias."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

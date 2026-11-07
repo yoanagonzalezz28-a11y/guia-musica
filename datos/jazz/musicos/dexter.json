@@ -1,0 +1,66 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "dexter",
+  "nombre": "Dexter Gordon",
+  "nacimiento": {
+    "anio": 1923,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 1990
+  },
+  "instrumentos": [
+    "saxo tenor"
+  ],
+  "corrientes": [
+    "bebop"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "El primer gran tenor del bebop. En los 60 vivió en Copenhague y en 1986 protagonizó la película *Round Midnight*, que le valió una nominación al Oscar.",
+  "epocas": [
+    {
+      "titulo": "Bebop",
+      "desde": 1962,
+      "hasta": 1964,
+      "texto": "",
+      "discoClave": {
+        "disco": "go",
+        "explicacion": "Su disco más querido, con Sonny Clark."
+      },
+      "discos": [
+        "a-swingin-affair",
+        "our-man-in-paris",
+        "one-flight-up"
+      ]
+    },
+    {
+      "titulo": "Hard bop",
+      "desde": 1977,
+      "hasta": 1977,
+      "texto": "",
+      "discoClave": {
+        "disco": "homecoming-live-at-the-village-vanguard",
+        "explicacion": "Su regreso a Estados Unidos después de catorce años en Europa: un concierto celebrado como un acontecimiento."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-dexter-gordon"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "go",
+    "a-swingin-affair",
+    "our-man-in-paris",
+    "one-flight-up",
+    "homecoming-live-at-the-village-vanguard"
+  ]
+}

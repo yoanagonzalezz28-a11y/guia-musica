@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Petite Fleur Sidney Bechet"
+  },
+  "id": "petite-fleur",
+  "titulo": "Petite Fleur",
+  "credito": "Sidney Bechet",
+  "lideres": [
+    "bechet"
+  ],
+  "grabacion": {
+    "desde": 1952,
+    "hasta": 1952,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1952,
+    "detalle": null
+  },
+  "sello": "Vogue",
+  "musicos": [
+    {
+      "musico": "bechet",
+      "nombre": "Sidney Bechet",
+      "instrumento": "saxo soprano, clarinete"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "origenes"
+  ],
+  "comentario": [
+    "Grabado en Francia, fue un éxito masivo allá. Melodía simple, todo el interés está en el sonido y el vibrato."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

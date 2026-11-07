@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Body and Soul Coleman Hawkins"
+  },
+  "id": "body-and-soul",
+  "titulo": "Body and Soul",
+  "credito": "Coleman Hawkins",
+  "lideres": [
+    "hawkins"
+  ],
+  "grabacion": {
+    "desde": 1939,
+    "hasta": 1939,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1939,
+    "detalle": null
+  },
+  "sello": "Bluebird",
+  "musicos": [
+    {
+      "musico": "hawkins",
+      "nombre": "Coleman Hawkins",
+      "instrumento": "saxo tenor"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "Dos estribillos de improvisación que se volvieron un éxito."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

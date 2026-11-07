@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "baden",
+  "nombre": "Baden Powell",
+  "nacimiento": {
+    "anio": 1937,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 2000
+  },
+  "instrumentos": [
+    "guitarra"
+  ],
+  "corrientes": [
+    "brasil"
+  ],
+  "regiones": [
+    "brasil"
+  ],
+  "spotify": null,
+  "resumen": "Guitarrista de técnica clásica que con Vinicius de Moraes compuso los afro-sambas, canciones sobre ritmos y cantos del candomblé bahiano.",
+  "epocas": [
+    {
+      "titulo": "Jazz brasileño",
+      "desde": 1963,
+      "hasta": 1966,
+      "texto": "",
+      "discoClave": {
+        "disco": "os-afro-sambas",
+        "explicacion": "Las canciones con Vinicius."
+      },
+      "discos": [
+        "baden-powell-swings-with-jimmy-pratt",
+        "tempo-feliz",
+        "le-monde-musical-de-baden-powell"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-baden-powell"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "os-afro-sambas",
+    "baden-powell-swings-with-jimmy-pratt",
+    "tempo-feliz",
+    "le-monde-musical-de-baden-powell"
+  ]
+}

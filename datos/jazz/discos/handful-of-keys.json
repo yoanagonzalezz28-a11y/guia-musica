@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Handful of Keys Fats Waller"
+  },
+  "id": "handful-of-keys",
+  "titulo": "Handful of Keys",
+  "credito": "Fats Waller",
+  "lideres": [
+    "waller"
+  ],
+  "grabacion": {
+    "desde": 1929,
+    "hasta": 1929,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1929,
+    "detalle": null
+  },
+  "sello": "Victor",
+  "musicos": [
+    {
+      "musico": "waller",
+      "nombre": "Fats Waller",
+      "instrumento": "piano, órgano, voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "origenes"
+  ],
+  "comentario": [
+    "Piano solo: el stride llevado al virtuosismo."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

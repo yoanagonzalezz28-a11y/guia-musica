@@ -9,7 +9,8 @@ const fuentes = cargarFuentes();
 const generos = cargarGeneros();
 const g = cargarGenero('jazz');
 
-const errores = validar(g, fuentes);
+const { errores, avisos } = validar(g, fuentes);
+if (avisos.length) console.log(`${avisos.length} aviso(s) que no bloquean. Detalle: npm run auditar.`);
 if (errores.length) {
   console.error(`No se construyó el sitio. ${errores.length} error(es) en los datos:\n- ${errores.join('\n- ')}`);
   process.exit(1);
@@ -116,6 +117,18 @@ const enlaceSpotify = d => d.spotify.estado === 'verificado'
   ? { url: d.spotify.url, texto: 'Escuchar en Spotify', verificado: true }
   : { url: `https://open.spotify.com/search/${encodeURIComponent(d.spotify.consulta)}/albums`, texto: 'Buscar en Spotify', verificado: false };
 
+// Los discos importantes de un músico: los elegidos en discosEsenciales o, si no hay, sus discos clave y los que lidera.
+function cincoDiscos(ctx, m) {
+  const ids = m.discosEsenciales?.length ? m.discosEsenciales : [...new Set([...m.epocas.map(e => e.discoClave.disco), ...m.epocas.flatMap(e => e.discos)])];
+  const lista = ids.map(id => g.por.disco.get(id)).filter(Boolean).slice(0, 5);
+  if (!lista.length) return '';
+  return `<section class="bloque cinco-discos"><h2>${lista.length === 5 ? 'Cinco discos' : 'Discos para empezar'}</h2><ol class="lista-resenas">${lista.map(d => `<li style="${tintaVars(corrienteDe(d))}">
+    <h3><a href="${ctx.a(URL.disco(d.id))}">${esc(d.titulo)}</a> <span class="fila-disco-meta">${anioDisco(d)}${d.sello ? ` · ${esc(d.sello)}` : ''}</span></h3>
+    <p>${ctx.texto(d.comentario[0] || '')}</p>
+    ${d.resenaExtensa?.length ? `<details><summary>Leer la reseña completa</summary>${d.resenaExtensa.map(p => `<p>${ctx.texto(p)}</p>`).join('')}</details>` : ''}
+    <a class="enlace-externo" href="${esc(enlaceSpotify(d).url)}" rel="noopener">${enlaceSpotify(d).texto}</a></li>`).join('')}</ol></section>`;
+}
+
 function filaDisco(ctx, d, extra = '') {
   const c = corrienteDe(d);
   return `<li class="fila-disco" style="${tintaVars(c)}" data-corriente="${esc(d.corrientes.join(' '))}" data-tipo="${d.tipo}" data-redescubrimiento="${d.redescubrimiento ? 'si' : 'no'}" data-marca-fila="disco:${d.id}">
@@ -129,7 +142,15 @@ function filaDisco(ctx, d, extra = '') {
 // La firma visual del sitio: cada corriente es una barra de tinta a escala de tiempo.
 // Donde dos barras se pisan aparece el color de la mezcla, igual que en una impresión a dos tintas.
 // El titular grande se achica según su palabra más larga, para que nunca desborde en un celular.
-const largoTitular = nombre => Math.max(...nombre.split(/s+/).map(p => p.length));
+const largoTitular = nombre => Math.max(...nombre.split(/\s+/).map(p => p.length));
+
+// Agrupa las corrientes por la década en que empiezan, en orden cronológico.
+function porDecada(corrientes) {
+  const orden = [...corrientes].sort((x, y) => x.periodo.desde - y.periodo.desde || x.periodo.hasta - y.periodo.hasta);
+  const grupos = new Map();
+  for (const c of orden) { const d = Math.floor(c.periodo.desde / 10) * 10; const k = d >= 2000 ? `${d}` : `${String(d).slice(2)}`; if (!grupos.has(k)) grupos.set(k, []); grupos.get(k).push(c); }
+  return [...grupos];
+}
 
 function cronologia(corrientes, [ini, fin], ctx) {
   const pos = a => ((a - ini) / (fin - ini)) * 100;
@@ -295,8 +316,8 @@ const construir = {
     const ctx = nuevoContexto(ruta);
     pagina(ruta, ctx, {
       titulo: 'Corrientes', descripcion: 'Las corrientes del jazz cargadas hasta ahora.', seccion: 'corrientes', sinFuentes: true,
-      cuerpo: `<header class="encabezado"><h1>Corrientes</h1><p>Hay ${g.corrientes.length} cargadas. Las demás se van sumando por etapas.</p></header>
-      <ul class="tarjetas">${g.corrientes.map(c => `<li class="tarjeta-tinta" style="${tintaVars(c)}"><a href="${ctx.a(URL.corriente(c.id))}"><span class="tarjeta-anios">c. ${rangoAnios(c.periodo.desde, c.periodo.hasta)}</span><strong>${esc(c.nombre)}</strong><span>${esc(c.lema)}</span></a></li>`).join('')}</ul>`,
+      cuerpo: `<header class="encabezado"><h1>Corrientes</h1><p>${g.corrientes.length} corrientes, ordenadas por el año en que empiezan. Las que conviven en el tiempo quedan una al lado de la otra.</p></header>
+      ${porDecada(g.corrientes).map(([dec, lista]) => `<section class="decada"><h2 class="rotulo">Empiezan en los ${dec}</h2><ul class="tarjetas">${lista.map(c => `<li class="tarjeta-tinta" style="${tintaVars(c)}"><a href="${ctx.a(URL.corriente(c.id))}"><span class="tarjeta-anios">c. ${rangoAnios(c.periodo.desde, c.periodo.hasta)}</span><strong>${esc(c.nombre)}</strong><span>${esc(c.lema)}</span></a></li>`).join('')}</ul></section>`).join('')}`,
     });
   },
 
@@ -383,10 +404,12 @@ const construir = {
             </div></article>`;
         }).join('')}
       </section>
+      ${cincoDiscos(ctx, m)}
       <div class="bloque">${bloqueRespaldo(m)}</div>
       ${bloquePodcasts(ctx, 'musico', m.id)}
       ${otros.length ? `<section class="bloque"><h2>También toca en</h2><ul class="lista-discos">${otros.map(d => filaDisco(ctx, d)).join('')}</ul></section>` : ''}
-      ${socios.length ? `<section class="bloque"><h2>Tocó con</h2><p class="ayuda">Sale de los discos cargados, no de toda su carrera.</p><ul class="socios">${socios.map(s => `<li>${enlaceMusico(ctx, s.id)} <span>${s.n} ${s.n === 1 ? 'disco' : 'discos'}</span></li>`).join('')}</ul></section>` : ''}`,
+      ${socios.length ? `<section class="bloque"><h2>Tocó con</h2><p class="ayuda">Sale de los discos cargados, no de toda su carrera.</p><ul class="socios">${socios.map(s => `<li>${enlaceMusico(ctx, s.id)} <span>${s.n} ${s.n === 1 ? 'disco' : 'discos'}</span></li>`).join('')}</ul></section>` : ''}
+      <p class="discografia-completa"><a class="boton" href="${esc(spotify)}" rel="noopener">Ir a la discografía completa${m.spotify ? '' : ' (búsqueda en Spotify)'}</a></p>`,
     });
   },
 
@@ -431,6 +454,7 @@ const construir = {
       <div class="columnas">
         <div class="lectura">
           ${d.comentario.map(p => `<p>${ctx.texto(p)}</p>`).join('')}
+          ${d.resenaExtensa?.length ? `<h3 class="rotulo">En detalle</h3>${d.resenaExtensa.map(p => `<p>${ctx.texto(p)}</p>`).join('')}` : ''}
           ${d.redescubrimiento ? `<p class="nota-datos"><strong>Por qué es un redescubrimiento.</strong> ${ctx.texto(d.redescubrimiento.motivo)}</p>` : ''}
           <p><a class="boton" href="${esc(sp.url)}" rel="noopener">${sp.texto}</a></p>
           ${sp.verificado

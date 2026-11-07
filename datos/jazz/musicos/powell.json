@@ -1,0 +1,66 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "powell",
+  "nombre": "Bud Powell",
+  "nacimiento": {
+    "anio": 1924,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 1966
+  },
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "bebop"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6",
+  "resumen": "Trasladó al piano el lenguaje veloz de Charlie Parker: líneas en la mano derecha y acordes cortos en la izquierda. Su vida estuvo marcada por internaciones y vivió sus últimos años en París. Definió cómo suena el piano trío moderno.",
+  "epocas": [
+    {
+      "titulo": "Bebop",
+      "desde": 1956,
+      "hasta": 1956,
+      "texto": "Creció en Harlem y de adolescente frecuentaba Minton's, donde Monk lo protegió y lo apoyó. Tocó en la orquesta de Cootie Williams. En 1945 recibió una golpiza policial en Filadelfia, y desde entonces sufrió crisis y largas internaciones psiquiátricas.",
+      "discoClave": {
+        "disco": "the-amazing-bud-powell-vol-1",
+        "explicacion": "Sesiones de 1949 y 1951, con \"Un Poco Loco\": el piano bebop en su forma más feroz."
+      },
+      "discos": [
+        "jazz-giant",
+        "the-amazing-bud-powell-vol-2",
+        "the-genius-of-bud-powell"
+      ]
+    },
+    {
+      "titulo": "Hard bop",
+      "desde": 1959,
+      "hasta": 1959,
+      "texto": "Sus mejores grabaciones son de 1949–51, para Blue Note y Verve. En 1959 se mudó a París, donde tocó con Kenny Clarke y lo cuidó su amigo Francis Paudras. Esa historia inspiró la película *Round Midnight* (1986), de Bertrand Tavernier. Murió en Nueva York en 1966.",
+      "discoClave": {
+        "disco": "the-scene-changes",
+        "explicacion": "Todo material propio, incluye \"Cleopatra's Dream\"."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-bud-powell"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "the-amazing-bud-powell-vol-1",
+    "jazz-giant",
+    "the-scene-changes",
+    "the-amazing-bud-powell-vol-2",
+    "the-genius-of-bud-powell"
+  ]
+}

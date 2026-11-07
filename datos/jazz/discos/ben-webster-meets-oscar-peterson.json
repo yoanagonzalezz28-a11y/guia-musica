@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ",
+    "tituloEnSpotify": "Ben Webster Meets Oscar Peterson",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "ben-webster-meets-oscar-peterson",
+  "titulo": "Ben Webster Meets Oscar Peterson",
+  "credito": "Ben Webster",
+  "lideres": [
+    "webster"
+  ],
+  "grabacion": {
+    "desde": 1959,
+    "hasta": 1959,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1959,
+    "detalle": null
+  },
+  "sello": "Verve",
+  "musicos": [
+    {
+      "musico": "webster",
+      "nombre": "Ben Webster",
+      "instrumento": "saxo tenor"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "Baladas susurradas con el trío de Peterson: un sonido que es casi solo aire."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Ben_Webster_Meets_Oscar_Peterson"
+  },
+  "respaldo": []
+}

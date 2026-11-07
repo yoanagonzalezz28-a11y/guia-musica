@@ -27,7 +27,7 @@
   "lugar": null,
   "musicos": [
     {
-      "musico": null,
+      "musico": "fattoruso",
       "nombre": "Hugo Fattoruso",
       "instrumento": "teclados y voz"
     },
@@ -50,6 +50,11 @@
       "musico": null,
       "nombre": "David Amaro",
       "instrumento": "guitarra"
+    },
+    {
+      "musico": "fattoruso",
+      "nombre": "Hugo Fattoruso",
+      "instrumento": "piano"
     }
   ],
   "corrientes": [

@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0KGHyCya07zjceVwQ33O7x",
+    "tituloEnSpotify": "Sound Sun Pleasure",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "sound-sun-pleasure",
+  "titulo": "Sound Sun Pleasure!!",
+  "credito": "Sun Ra",
+  "lideres": [
+    "sunra"
+  ],
+  "grabacion": {
+    "desde": 1970,
+    "hasta": 1970,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1970,
+    "detalle": null
+  },
+  "sello": "El Saturn",
+  "musicos": [
+    {
+      "musico": "sunra",
+      "nombre": "Sun Ra",
+      "instrumento": "piano, sintetizador, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "Grabaciones de fines de los 50: el Sun Ra más cercano al swing de Fletcher Henderson."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

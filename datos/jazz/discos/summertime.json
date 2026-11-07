@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Summertime Sidney Bechet"
+  },
+  "id": "summertime",
+  "titulo": "Summertime",
+  "credito": "Sidney Bechet",
+  "lideres": [
+    "bechet"
+  ],
+  "grabacion": {
+    "desde": 1939,
+    "hasta": 1939,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1939,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "bechet",
+      "nombre": "Sidney Bechet",
+      "instrumento": "saxo soprano, clarinete"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "origenes"
+  ],
+  "comentario": [
+    "Uno de los primeros éxitos del sello Blue Note: soprano con vibrato amplio sobre el tema de Gershwin."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "brasil"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Stone Flower Antônio Carlos Jobim"
+  },
+  "id": "stone-flower",
+  "titulo": "Stone Flower",
+  "credito": "Antônio Carlos Jobim",
+  "lideres": [
+    "jobim"
+  ],
+  "grabacion": {
+    "desde": 1970,
+    "hasta": 1970,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1970,
+    "detalle": null
+  },
+  "sello": "CTI",
+  "musicos": [
+    {
+      "musico": "jobim",
+      "nombre": "Antônio Carlos Jobim",
+      "instrumento": "piano, guitarra, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "brasil"
+  ],
+  "comentario": [
+    "Producido por Creed Taylor con arreglos de Eumir Deodato: Jobim más oscuro y rítmico, con \"Tereza My Love\" y \"Brazil\"."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Stone_Flower"
+  },
+  "respaldo": []
+}

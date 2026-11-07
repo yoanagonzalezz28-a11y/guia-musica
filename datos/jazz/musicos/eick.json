@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "eick",
+  "nombre": "Mathias Eick",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "trompeta"
+  ],
+  "corrientes": [
+    "ecm"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Trompetista noruego de ECM, de melodías claras y nostálgicas.",
+  "epocas": [
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 2008,
+      "hasta": 2025,
+      "texto": "",
+      "discoClave": {
+        "disco": "skala",
+        "explicacion": "Trompeta nórdica con dos baterías."
+      },
+      "discos": [
+        "ravensburg",
+        "the-door",
+        "when-we-leave",
+        "lullaby"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-mathias-eick"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "skala",
+    "ravensburg",
+    "the-door",
+    "when-we-leave",
+    "lullaby"
+  ]
+}

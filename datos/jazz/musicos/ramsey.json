@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "ramsey",
+  "nombre": "Ramsey Lewis",
+  "nacimiento": {
+    "anio": 1935,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 2022
+  },
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "souljazz"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Pianista de Chicago cuyo trío llegó al top 5 con \"The 'In' Crowd\" (1965), un éxito del soul jazz.",
+  "epocas": [
+    {
+      "titulo": "Soul jazz",
+      "desde": 1965,
+      "hasta": 1974,
+      "texto": "",
+      "discoClave": {
+        "disco": "the-in-crowd",
+        "explicacion": "En vivo, con el aplauso del público como parte del groove."
+      },
+      "discos": [
+        "wade-in-the-water",
+        "sun-goddess",
+        "hang-on-ramsey"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-ramsey-lewis"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "the-in-crowd",
+    "wade-in-the-water",
+    "sun-goddess",
+    "hang-on-ramsey"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "mjq",
+  "nombre": "Modern Jazz Quartet",
+  "nacimiento": {
+    "anio": 1952,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 1997
+  },
+  "instrumentos": [
+    "piano",
+    "vibráfono",
+    "contrabajo",
+    "batería"
+  ],
+  "corrientes": [
+    "cool"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "John Lewis, Milt Jackson, Percy Heath y, desde 1955, Connie Kay: bebop con forma de música de cámara y guiños a Bach.",
+  "epocas": [
+    {
+      "titulo": "Cool",
+      "desde": 1956,
+      "hasta": 1974,
+      "texto": "",
+      "discoClave": {
+        "disco": "django",
+        "explicacion": "El tema de John Lewis en homenaje a Django Reinhardt."
+      },
+      "discos": [
+        "fontessa",
+        "no-sun-in-venice",
+        "pyramid",
+        "the-last-concert"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-modern-jazz-quartet"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "django",
+    "fontessa",
+    "no-sun-in-venice",
+    "pyramid",
+    "the-last-concert"
+  ]
+}

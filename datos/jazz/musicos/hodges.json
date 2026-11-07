@@ -1,0 +1,66 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "hodges",
+  "nombre": "Johnny Hodges",
+  "nacimiento": {
+    "anio": 1906,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 1970
+  },
+  "instrumentos": [
+    "saxo alto"
+  ],
+  "corrientes": [
+    "swing"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "El saxo alto de la orquesta de Ellington durante casi cuarenta años, famoso por su tono dulce y sus glissandos.",
+  "epocas": [
+    {
+      "titulo": "Swing",
+      "desde": 1956,
+      "hasta": 1965,
+      "texto": "",
+      "discoClave": {
+        "disco": "back-to-back",
+        "explicacion": "Blues con Ellington al piano."
+      },
+      "discos": [
+        "not-so-dukish",
+        "johnny-hodges-and-the-ellington-men",
+        "everybody-knows-johnny-hodges"
+      ]
+    },
+    {
+      "titulo": "Soul jazz",
+      "desde": 1961,
+      "hasta": 1961,
+      "texto": "",
+      "discoClave": {
+        "disco": "blue-hodge",
+        "explicacion": "Con el organista Wild Bill Davis: blues lentos y rhythm and blues, muy cerca del soul jazz."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-johnny-hodges"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "back-to-back",
+    "not-so-dukish",
+    "johnny-hodges-and-the-ellington-men",
+    "blue-hodge",
+    "everybody-knows-johnny-hodges"
+  ]
+}

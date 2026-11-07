@@ -1,0 +1,59 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "jobim",
+  "nombre": "Antônio Carlos Jobim",
+  "nacimiento": {
+    "anio": 1927,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 1994
+  },
+  "instrumentos": [
+    "piano",
+    "guitarra",
+    "composición"
+  ],
+  "corrientes": [
+    "brasil"
+  ],
+  "regiones": [
+    "brasil"
+  ],
+  "spotify": null,
+  "resumen": "Compositor carioca, autor de buena parte del repertorio de la bossa nova: \"Garota de Ipanema\", \"Desafinado\", \"Corcovado\", \"Wave\", \"Águas de Março\". Es el compositor brasileño más tocado por los músicos de jazz.",
+  "epocas": [
+    {
+      "titulo": "Jazz brasileño",
+      "desde": 1963,
+      "hasta": 1976,
+      "texto": "Estudió piano clásico y trabajó como arreglador en la discográfica Odeon. Con el poeta Vinicius de Moraes escribió la obra de teatro *Orfeu da Conceição* (1956), base de la película *Orfeu Negro*, y las canciones que João Gilberto grabó en *Chega de Saudade* (1959), con arreglos del propio Jobim. Tocó en el concierto de bossa nova del Carnegie Hall (1962) y en *Getz/Gilberto*. En 1967 grabó un disco con Frank Sinatra y su propio *Wave*. En los 70 hizo discos orquestales, como *Stone Flower* y *Matita Perê*, y el clásico *Elis & Tom* (1974) con Elis Regina. Murió en Nueva York en 1994.",
+      "discoClave": {
+        "disco": "the-composer-of-desafinado-plays",
+        "explicacion": "Sus temas como instrumentista, con arreglos de Claus Ogerman."
+      },
+      "discos": [
+        "wave",
+        "matita-pere",
+        "elis-and-tom",
+        "stone-flower",
+        "urubu"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-antonio-carlos-jobim"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "the-composer-of-desafinado-plays",
+    "getz-gilberto",
+    "wave",
+    "matita-pere",
+    "elis-and-tom"
+  ]
+}

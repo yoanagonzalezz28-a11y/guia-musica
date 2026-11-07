@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "webster",
+  "nombre": "Ben Webster",
+  "nacimiento": {
+    "anio": 1909,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 1973
+  },
+  "instrumentos": [
+    "saxo tenor"
+  ],
+  "corrientes": [
+    "swing"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Tenor de la orquesta de Ellington a comienzos de los 40, con un sonido áspero en los temas rápidos y casi un susurro de aire en las baladas.",
+  "epocas": [
+    {
+      "titulo": "Swing",
+      "desde": 1953,
+      "hasta": 1978,
+      "texto": "",
+      "discoClave": {
+        "disco": "soulville",
+        "explicacion": "Baladas y blues con Oscar Peterson."
+      },
+      "discos": [
+        "ben-webster-meets-oscar-peterson",
+        "king-of-the-tenors",
+        "the-soul-of-ben-webster",
+        "ben-webster-plays-ballads"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-ben-webster"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "soulville",
+    "ben-webster-meets-oscar-peterson",
+    "king-of-the-tenors",
+    "the-soul-of-ben-webster",
+    "ben-webster-plays-ballads"
+  ]
+}

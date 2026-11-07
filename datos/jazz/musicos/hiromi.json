@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "hiromi",
+  "nombre": "Hiromi",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Pianista japonesa formada en Berklee y apadrinada por Ahmad Jamal: virtuosismo, rock progresivo y humor.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2003,
+      "hasta": 2023,
+      "texto": "",
+      "discoClave": {
+        "disco": "another-mind",
+        "explicacion": "Su debut."
+      },
+      "discos": [
+        "spiral",
+        "alive",
+        "spectrum-hiromi",
+        "blue-giant"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-hiromi-uehara"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "another-mind",
+    "spiral",
+    "alive",
+    "spectrum-hiromi",
+    "blue-giant"
+  ]
+}

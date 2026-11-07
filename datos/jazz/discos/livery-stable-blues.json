@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Livery Stable Blues Original Dixieland Jass Band"
+  },
+  "id": "livery-stable-blues",
+  "titulo": "Livery Stable Blues",
+  "credito": "Original Dixieland Jass Band",
+  "lideres": [
+    "odjb"
+  ],
+  "grabacion": {
+    "desde": 1917,
+    "hasta": 1917,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1917,
+    "detalle": null
+  },
+  "sello": "Victor",
+  "musicos": [
+    {
+      "musico": "odjb",
+      "nombre": "Original Dixieland Jass Band",
+      "instrumento": "quinteto"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "origenes"
+  ],
+  "comentario": [
+    "El primer disco de jazz: con imitaciones de animales."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

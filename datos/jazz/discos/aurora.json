@@ -1,0 +1,61 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2kjUBu5EyRskL5I42nMl3D",
+    "tituloEnSpotify": "Aurora",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "aurora",
+  "titulo": "Aurora",
+  "credito": "Avishai Cohen",
+  "lideres": [
+    "avishai"
+  ],
+  "grabacion": {
+    "desde": 2009,
+    "hasta": 2009,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2009,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "avishai",
+      "nombre": "Avishai Cohen",
+      "instrumento": "contrabajo, voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Canta en hebreo, ladino e inglés."
+  ],
+  "resenaExtensa": [
+    "Su debut en Blue Note."
+  ],
+  "ids": {
+    "musicbrainz": "26d8f021-9a02-35ee-8b44-3701774c4458",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

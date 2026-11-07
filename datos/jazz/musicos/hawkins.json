@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "hawkins",
+  "nombre": "Coleman Hawkins",
+  "nacimiento": {
+    "anio": 1904,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 1969
+  },
+  "instrumentos": [
+    "saxo tenor"
+  ],
+  "corrientes": [
+    "swing"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Convirtió el saxo tenor en instrumento solista en la orquesta de Fletcher Henderson. Su \"Body and Soul\" de 1939 es un solo de referencia que ya piensa en acordes, como después el bebop.",
+  "epocas": [
+    {
+      "titulo": "Swing",
+      "desde": 1939,
+      "hasta": 1962,
+      "texto": "",
+      "discoClave": {
+        "disco": "body-and-soul",
+        "explicacion": "Dos estribillos de improvisación que se volvieron un éxito."
+      },
+      "discos": [
+        "the-hawk-flies-high",
+        "today-and-now",
+        "duke-ellington-meets-coleman-hawkins",
+        "coleman-hawkins-encounters-ben-webster"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-coleman-hawkins"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "body-and-soul",
+    "the-hawk-flies-high",
+    "today-and-now",
+    "duke-ellington-meets-coleman-hawkins",
+    "coleman-hawkins-encounters-ben-webster"
+  ]
+}

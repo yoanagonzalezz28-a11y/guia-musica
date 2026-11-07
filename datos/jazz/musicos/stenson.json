@@ -1,0 +1,53 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "stenson",
+  "nombre": "Bobo Stenson",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "ecm"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Pianista sueco, uno de los tríos más finos de ECM; tocó con Jan Garbarek y Charles Lloyd.",
+  "epocas": [
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 1998,
+      "hasta": 2018,
+      "texto": "",
+      "discoClave": {
+        "disco": "serenity",
+        "explicacion": "Trío con Anders Jormin y Jon Christensen."
+      },
+      "discos": [
+        "war-orphans",
+        "goodbye",
+        "contra-la-indecision"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-bobo-stenson"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "serenity",
+    "war-orphans",
+    "goodbye",
+    "contra-la-indecision",
+    "witchi-tai-to"
+  ]
+}

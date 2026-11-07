@@ -1,0 +1,51 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "jpjohnson",
+  "nombre": "James P. Johnson",
+  "nacimiento": {
+    "anio": 1894,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 1955
+  },
+  "instrumentos": [
+    "piano",
+    "composición"
+  ],
+  "corrientes": [
+    "origenes"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Padre del piano stride de Harlem, maestro de Fats Waller y autor de \"Charleston\" (1923).",
+  "epocas": [
+    {
+      "titulo": "Orígenes",
+      "desde": 1921,
+      "hasta": 1945,
+      "texto": "",
+      "discoClave": {
+        "disco": "carolina-shout",
+        "explicacion": "La pieza que todos los pianistas de stride tenían que aprender."
+      },
+      "discos": [
+        "the-original-james-p-johnson"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-james-p-johnson"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "carolina-shout",
+    "the-original-james-p-johnson"
+  ]
+}

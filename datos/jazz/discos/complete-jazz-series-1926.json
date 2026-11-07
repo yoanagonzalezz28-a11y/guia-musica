@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": true,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5Ut3l3lahFGUWPSHHckAkN",
+    "tituloEnSpotify": "Complete Jazz Series 1926",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "complete-jazz-series-1926",
+  "titulo": "Complete Jazz Series 1926",
+  "credito": "Johnny Dodds",
+  "lideres": [
+    "dodds"
+  ],
+  "grabacion": {
+    "desde": 1926,
+    "hasta": 1926,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1926,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "dodds",
+      "nombre": "Johnny Dodds",
+      "instrumento": "clarinete"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "origenes"
+  ],
+  "comentario": [
+    "Sus sesiones de 1926: el clarinete que formó a Benny Goodman."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

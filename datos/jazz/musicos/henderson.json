@@ -1,0 +1,86 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "henderson",
+  "nombre": "Joe Henderson",
+  "nacimiento": {
+    "anio": 1937,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 2001
+  },
+  "instrumentos": [
+    "saxo tenor"
+  ],
+  "corrientes": [
+    "hard-bop"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Tenor de Ohio con un sonido muy personal, entre el hard bop y la vanguardia. Compuso \"Recorda Me\" y en los 90 volvió a la fama con discos de homenaje.",
+  "epocas": [
+    {
+      "titulo": "Hard bop",
+      "desde": 1963,
+      "hasta": 1963,
+      "texto": "",
+      "discoClave": {
+        "disco": "page-one",
+        "explicacion": "Incluye \"Recorda Me\" y \"Blue Bossa\"."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Jazz modal",
+      "desde": 1966,
+      "hasta": 1966,
+      "texto": "",
+      "discoClave": {
+        "disco": "inner-urge",
+        "explicacion": "Con McCoy Tyner y Elvin Jones: el tenor más inquieto de Blue Note, con sus líneas que se retuercen."
+      },
+      "discos": [
+        "mode-for-joe"
+      ]
+    },
+    {
+      "titulo": "Free jazz",
+      "desde": 1973,
+      "hasta": 1973,
+      "texto": "",
+      "discoClave": {
+        "disco": "the-elements",
+        "explicacion": "Con Alice Coltrane y Charlie Haden: espiritual, con percusiones y efectos."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Neotradicionalismo",
+      "desde": 1992,
+      "hasta": 1992,
+      "texto": "",
+      "discoClave": {
+        "disco": "lush-life-the-music-of-billy-strayhorn",
+        "explicacion": "Homenaje a Strayhorn que lo devolvió a la fama: tenor maduro, en dúos y grupos chicos."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-joe-henderson"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "page-one",
+    "inner-urge",
+    "mode-for-joe",
+    "the-elements",
+    "lush-life-the-music-of-billy-strayhorn"
+  ]
+}

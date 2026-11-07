@@ -1,0 +1,52 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "navarro",
+  "nombre": "Fats Navarro",
+  "nacimiento": {
+    "anio": 1923,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 1950
+  },
+  "instrumentos": [
+    "trompeta"
+  ],
+  "corrientes": [
+    "bebop"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Trompetista de sonido amplio y líneas limpias, modelo de Clifford Brown; murió de tuberculosis a los 26 años.",
+  "epocas": [
+    {
+      "titulo": "Bebop",
+      "desde": 0,
+      "hasta": 1957,
+      "texto": "",
+      "discoClave": {
+        "disco": "the-fabulous-fats-navarro",
+        "explicacion": "Sesiones con Tadd Dameron y Bud Powell."
+      },
+      "discos": [
+        "the-fabulous-fats-navarro-vol-2",
+        "goin-to-minton-s"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-fats-navarro"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "the-fabulous-fats-navarro",
+    "the-fabulous-fats-navarro-vol-2",
+    "goin-to-minton-s"
+  ]
+}

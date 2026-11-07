@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "elvin",
+  "nombre": "Elvin Jones",
+  "nacimiento": {
+    "anio": 1927,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 2004
+  },
+  "instrumentos": [
+    "batería"
+  ],
+  "corrientes": [
+    "modal"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Baterista del cuarteto de Coltrane, con un swing de polirritmos en tresillos que cambió la batería de jazz.",
+  "epocas": [
+    {
+      "titulo": "Jazz modal",
+      "desde": 1965,
+      "hasta": 1972,
+      "texto": "",
+      "discoClave": {
+        "disco": "puttin-it-together",
+        "explicacion": "Trío sin piano con Joe Farrell y Jimmy Garrison."
+      },
+      "discos": [
+        "heavy-sounds",
+        "live-at-the-lighthouse",
+        "dear-john-c",
+        "the-ultimate-elvin-jones"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-elvin-jones"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "puttin-it-together",
+    "heavy-sounds",
+    "live-at-the-lighthouse",
+    "dear-john-c",
+    "the-ultimate-elvin-jones"
+  ]
+}

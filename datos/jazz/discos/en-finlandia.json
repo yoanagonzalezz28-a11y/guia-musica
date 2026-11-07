@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "cuba"
+  ],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6kUoUAgKcAmspwLowHzHu9",
+    "tituloEnSpotify": "En Finlandia (Remasterizado)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "en-finlandia",
+  "titulo": "En Finlandia",
+  "credito": "Paquito D'Rivera",
+  "lideres": [
+    "paquito"
+  ],
+  "grabacion": {
+    "desde": 1979,
+    "hasta": 1979,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1979,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "paquito",
+      "nombre": "Paquito D'Rivera",
+      "instrumento": "saxo, clarinete"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "latino"
+  ],
+  "comentario": [
+    "Paquito en vivo en Finlandia: saxo alto brillante entre el bebop y la música cubana."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

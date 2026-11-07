@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Muskrat Ramble (Louis Armstrong Hot Five) Kid Ory"
+  },
+  "id": "muskrat-ramble-louis-armstrong-hot-five",
+  "titulo": "Muskrat Ramble (Louis Armstrong Hot Five)",
+  "credito": "Kid Ory",
+  "lideres": [
+    "ory"
+  ],
+  "grabacion": {
+    "desde": 1926,
+    "hasta": 1926,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1926,
+    "detalle": null
+  },
+  "sello": "OKeh",
+  "musicos": [
+    {
+      "musico": "ory",
+      "nombre": "Kid Ory",
+      "instrumento": "trombón"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "origenes"
+  ],
+  "comentario": [
+    "Su tema más conocido, con Armstrong."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

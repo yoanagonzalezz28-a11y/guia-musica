@@ -1,0 +1,51 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "dodds",
+  "nombre": "Johnny Dodds",
+  "nacimiento": {
+    "anio": 1892,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 1940
+  },
+  "instrumentos": [
+    "clarinete"
+  ],
+  "corrientes": [
+    "origenes"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Clarinetista de la Creole Jazz Band de King Oliver y de los Hot Five de Armstrong, de sonido grueso y bluesero.",
+  "epocas": [
+    {
+      "titulo": "Orígenes",
+      "desde": 1926,
+      "hasta": 1927,
+      "texto": "",
+      "discoClave": {
+        "disco": "wild-man-blues-louis-armstrong",
+        "explicacion": "Clarinete y corneta en diálogo."
+      },
+      "discos": [
+        "complete-jazz-series-1926"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-johnny-dodds"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "wild-man-blues-louis-armstrong",
+    "creole-jazz-band",
+    "complete-jazz-series-1926"
+  ]
+}

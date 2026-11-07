@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "tjader",
+  "nombre": "Cal Tjader",
+  "nacimiento": {
+    "anio": 1925,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 1982
+  },
+  "instrumentos": [
+    "vibráfono"
+  ],
+  "corrientes": [
+    "latino"
+  ],
+  "regiones": [
+    "cuba"
+  ],
+  "spotify": null,
+  "resumen": "Vibrafonista californiano, el músico no latino más asociado al jazz latino.",
+  "epocas": [
+    {
+      "titulo": "Jazz latino",
+      "desde": 1954,
+      "hasta": 1966,
+      "texto": "",
+      "discoClave": {
+        "disco": "soul-sauce",
+        "explicacion": "Vibráfono y percusión cubana."
+      },
+      "discos": [
+        "monterey-concerts",
+        "los-ritmos-calientes",
+        "tjader-plays-mambo",
+        "el-sonido-nuevo"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-cal-tjader"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "soul-sauce",
+    "monterey-concerts",
+    "los-ritmos-calientes",
+    "tjader-plays-mambo",
+    "el-sonido-nuevo"
+  ]
+}

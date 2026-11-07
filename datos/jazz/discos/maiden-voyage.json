@@ -36,7 +36,7 @@
       "instrumento": "piano"
     },
     {
-      "musico": null,
+      "musico": "hubbard",
       "nombre": "Freddie Hubbard",
       "instrumento": "trompeta"
     },
@@ -46,12 +46,12 @@
       "instrumento": "saxo tenor"
     },
     {
-      "musico": null,
+      "musico": "ronc",
       "nombre": "Ron Carter",
       "instrumento": "contrabajo"
     },
     {
-      "musico": null,
+      "musico": "tonyw",
       "nombre": "Tony Williams",
       "instrumento": "batería"
     }

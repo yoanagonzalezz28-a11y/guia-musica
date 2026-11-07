@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "brasil"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2wkmxijYToqAr0ATgcNSsn",
+    "tituloEnSpotify": "Light As A Feather (Deluxe Edition)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "light-as-a-feather",
+  "titulo": "Light as a Feather",
+  "credito": "Return to Forever",
+  "lideres": [],
+  "grabacion": {
+    "desde": 1973,
+    "hasta": 1973,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1973,
+    "detalle": null
+  },
+  "sello": "Polydor",
+  "musicos": [
+    {
+      "musico": "flora",
+      "nombre": "Flora Purim",
+      "instrumento": "voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "fusion"
+  ],
+  "comentario": [
+    "Con Return to Forever, de Chick Corea: \"Spain\" y \"500 Miles High\" con su voz."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

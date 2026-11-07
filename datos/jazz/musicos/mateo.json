@@ -1,0 +1,52 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "mateo",
+  "nombre": "Eduardo Mateo",
+  "nacimiento": {
+    "anio": 1940,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 1990
+  },
+  "instrumentos": [
+    "guitarra",
+    "voz",
+    "composición"
+  ],
+  "corrientes": [
+    "rioplat"
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "spotify": null,
+  "resumen": "Guitarrista y compositor de El Kinto, figura de culto de la música uruguaya. Con Chichito Cabral desarrolló el \"toco\", un patrón rítmico que marcó la música de su país. Su guitarra y sus canciones son una raíz de la música uruguaya moderna.",
+  "epocas": [
+    {
+      "titulo": "Jazz rioplatense",
+      "desde": 1972,
+      "hasta": 1984,
+      "texto": "Nació en Montevideo en 1940. A mediados de los 60 se unió al grupo que sería El Kinto, donde con Rubén Rada creó el candombe beat, y armó buena parte de los arreglos vocales y armónicos. Con el percusionista Chichito Cabral desarrolló el \"toco\", un patrón rítmico que se volvió típico de la música uruguaya. Grabó poco y de forma irregular: *Mateo solo bien se lame* (1972) es un disco de culto. Murió en 1990, y hoy se lo considera uno de los grandes compositores de su país.",
+      "discoClave": {
+        "disco": "mateo-solo-bien-se-lame",
+        "explicacion": "Su disco solista, una referencia de la canción uruguaya."
+      },
+      "discos": [
+        "cuerpo-y-alma"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-eduardo-mateo"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "mateo-solo-bien-se-lame",
+    "cuerpo-y-alma"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "brasil"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Clube da Esquina Milton Nascimento"
+  },
+  "id": "clube-da-esquina",
+  "titulo": "Clube da Esquina",
+  "credito": "Milton Nascimento",
+  "lideres": [
+    "milton"
+  ],
+  "grabacion": {
+    "desde": 1972,
+    "hasta": 1972,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1972,
+    "detalle": null
+  },
+  "sello": "EMI-Odeon",
+  "musicos": [
+    {
+      "musico": "milton",
+      "nombre": "Milton Nascimento",
+      "instrumento": "voz, guitarra, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "brasil"
+  ],
+  "comentario": [
+    "Con Lô Borges: MPB, rock y jazz de Minas Gerais, uno de los discos más importantes de Brasil."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Clube_da_Esquina_(album)"
+  },
+  "respaldo": []
+}

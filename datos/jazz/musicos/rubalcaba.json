@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "rubalcaba",
+  "nombre": "Gonzalo Rubalcaba",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "latino"
+  ],
+  "regiones": [
+    "cuba"
+  ],
+  "spotify": null,
+  "resumen": "Pianista habanero que se dio a conocer internacionalmente a fines de los 80 con el apoyo de Dizzy Gillespie y Charlie Haden. Técnica clásica y clave cubana.",
+  "epocas": [
+    {
+      "titulo": "Jazz latino",
+      "desde": 1990,
+      "hasta": 2006,
+      "texto": "",
+      "discoClave": {
+        "disco": "discovery-live-at-montreux",
+        "explicacion": "Trío con Charlie Haden y Paul Motian."
+      },
+      "discos": [
+        "the-blessing",
+        "supernova",
+        "solo",
+        "suite-4-y-20"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-gonzalo-rubalcaba"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "discovery-live-at-montreux",
+    "the-blessing",
+    "supernova",
+    "solo",
+    "suite-4-y-20"
+  ]
+}

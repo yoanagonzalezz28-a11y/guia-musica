@@ -1,0 +1,66 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "hutcherson",
+  "nombre": "Bobby Hutcherson",
+  "nacimiento": {
+    "anio": 1941,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 2016
+  },
+  "instrumentos": [
+    "vibráfono"
+  ],
+  "corrientes": [
+    "modal"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Vibrafonista de la vanguardia de Blue Note en los 60: tocó en *Out to Lunch!* y grabó discos propios de formas abiertas.",
+  "epocas": [
+    {
+      "titulo": "Jazz modal",
+      "desde": 1965,
+      "hasta": 1966,
+      "texto": "",
+      "discoClave": {
+        "disco": "dialogue",
+        "explicacion": "Con Freddie Hubbard, Sam Rivers y Andrew Hill."
+      },
+      "discos": [
+        "happenings",
+        "components",
+        "stick-up"
+      ]
+    },
+    {
+      "titulo": "Soul jazz",
+      "desde": 1971,
+      "hasta": 1971,
+      "texto": "",
+      "discoClave": {
+        "disco": "san-francisco",
+        "explicacion": "Con Harold Land: groove, flauta y vibráfono."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-special-search-bobby-hutcherson"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "dialogue",
+    "happenings",
+    "components",
+    "stick-up",
+    "san-francisco"
+  ]
+}

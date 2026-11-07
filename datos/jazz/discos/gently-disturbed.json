@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1YpYJkg18DHN92lVz9qcYC",
+    "tituloEnSpotify": "Gently Disturbed",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "gently-disturbed",
+  "titulo": "Gently Disturbed",
+  "credito": "Avishai Cohen",
+  "lideres": [
+    "avishai"
+  ],
+  "grabacion": {
+    "desde": 2008,
+    "hasta": 2008,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2008,
+    "detalle": null
+  },
+  "sello": "Razdaz",
+  "musicos": [
+    {
+      "musico": "avishai",
+      "nombre": "Avishai Cohen",
+      "instrumento": "contrabajo, voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Trío con Shai Maestro y Mark Guiliana: compases irregulares y melodías de Medio Oriente."
+  ],
+  "ids": {
+    "musicbrainz": "5fb9d62e-33cd-3090-9d69-854cdf855b3d",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}
