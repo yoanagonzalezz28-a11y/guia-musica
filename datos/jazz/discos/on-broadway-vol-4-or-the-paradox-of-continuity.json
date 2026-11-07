@@ -54,5 +54,60 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "The Last Dance",
+      "duracion": 314
+    },
+    {
+      "titulo": "Tea for Two",
+      "duracion": 248
+    },
+    {
+      "titulo": "In a Shanty in Old Shanty Town",
+      "duracion": 188
+    },
+    {
+      "titulo": "1. Never Let Me Go",
+      "duracion": 428
+    },
+    {
+      "titulo": "2. Never Let Me Go",
+      "duracion": 298
+    },
+    {
+      "titulo": "Folks Who Live on the Hill",
+      "duracion": 296
+    },
+    {
+      "titulo": "Everything Happens to Me",
+      "duracion": 238
+    },
+    {
+      "titulo": "Last Night When We Were Young",
+      "duracion": 486
+    },
+    {
+      "titulo": "Born to Be Blue",
+      "duracion": 337
+    },
+    {
+      "titulo": "Brother Can You Spare a Dime",
+      "duracion": 166
+    },
+    {
+      "titulo": "I Loves You Porgy",
+      "duracion": 491
+    },
+    {
+      "titulo": "You're Getting to Be a Habit with Me",
+      "duracion": 234
+    },
+    {
+      "titulo": "How Long Has This Been Going On",
+      "duracion": 244
+    }
+  ],
+  "temasFuente": "Spotify"
 }

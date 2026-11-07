@@ -52,5 +52,24 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "More Colours",
+      "duracion": 402
+    },
+    {
+      "titulo": "The Colours Of Chloë",
+      "duracion": 471
+    },
+    {
+      "titulo": "An Evening With Vincent Van Ritz",
+      "duracion": 351
+    },
+    {
+      "titulo": "No Motion Picture",
+      "duracion": 1178
+    }
+  ],
+  "temasFuente": "Spotify"
 }

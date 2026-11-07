@@ -54,5 +54,44 @@
     "wikidata": null,
     "wikipedia": "Eastern_Sounds"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "The Plum Blossom - Remastered 2023",
+      "duracion": 304
+    },
+    {
+      "titulo": "Blues For The Orient - Remastered 2023",
+      "duracion": 341
+    },
+    {
+      "titulo": "Ching Miau - Remastered 2023",
+      "duracion": 200
+    },
+    {
+      "titulo": "Don't Blame Me - Remastered 2023",
+      "duracion": 297
+    },
+    {
+      "titulo": "Love Theme From Spartacus - Remastered 2023",
+      "duracion": 255
+    },
+    {
+      "titulo": "Snafu - Remastered 2023",
+      "duracion": 342
+    },
+    {
+      "titulo": "Purple Flower - Remastered 2023",
+      "duracion": 272
+    },
+    {
+      "titulo": "Love Theme From The Robe - Remastered 2023",
+      "duracion": 242
+    },
+    {
+      "titulo": "The Three Faces Of Balal - Remastered 2023",
+      "duracion": 144
+    }
+  ],
+  "temasFuente": "Spotify"
 }

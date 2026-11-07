@@ -54,5 +54,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Anna",
+      "duracion": 236
+    },
+    {
+      "titulo": "If...",
+      "duracion": 181
+    },
+    {
+      "titulo": "La Pasionaria",
+      "duracion": 499
+    },
+    {
+      "titulo": "Snow",
+      "duracion": 361
+    },
+    {
+      "titulo": "Silence",
+      "duracion": 379
+    },
+    {
+      "titulo": "Child's Song",
+      "duracion": 482
+    },
+    {
+      "titulo": "Nocturne",
+      "duracion": 154
+    },
+    {
+      "titulo": "For Turiya",
+      "duracion": 675
+    }
+  ],
+  "temasFuente": "Spotify"
 }

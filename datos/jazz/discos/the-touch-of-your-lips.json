@@ -54,5 +54,36 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "I waited for you",
+      "duracion": 488
+    },
+    {
+      "titulo": "But not for me",
+      "duracion": 365
+    },
+    {
+      "titulo": "Autumn in New York",
+      "duracion": 358
+    },
+    {
+      "titulo": "Blue room",
+      "duracion": 520
+    },
+    {
+      "titulo": "The touch of your lips",
+      "duracion": 500
+    },
+    {
+      "titulo": "Star eyes",
+      "duracion": 346
+    },
+    {
+      "titulo": "Autumn in New York",
+      "duracion": 287
+    }
+  ],
+  "temasFuente": "Spotify"
 }

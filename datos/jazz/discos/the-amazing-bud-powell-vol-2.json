@@ -54,5 +54,68 @@
     "wikidata": null,
     "wikipedia": "The_Amazing_Bud_Powell"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Autumn In New York - Rudy Van Gelder/24 Bit Mastering/1998 Digital Remaster",
+      "duracion": 175
+    },
+    {
+      "titulo": "Reets And I - Rudy Van Gelder/24 Bit Mastering/1998 Digital Remaster",
+      "duracion": 203
+    },
+    {
+      "titulo": "Sure Thing - Rudy Van Gelder/24 Bit Mastering/1998 Digital Remaster",
+      "duracion": 161
+    },
+    {
+      "titulo": "Collard Greens And Black-Eyed Peas - Rudy Van Gelder/24 Bit Mastering/1998 Digital Remaster",
+      "duracion": 184
+    },
+    {
+      "titulo": "Polka Dots And Moonbeams - Remastered 1998 / Rudy Van Gelder Edition",
+      "duracion": 244
+    },
+    {
+      "titulo": "I Want To Be Happy - Rudy Van Gelder/24 Bit Mastering/1998 Digital Remaster",
+      "duracion": 174
+    },
+    {
+      "titulo": "Audrey - Rudy Van Gelder/24 Bit Mastering/1998 Digital Remaster",
+      "duracion": 178
+    },
+    {
+      "titulo": "Glass Enclosure - Rudy Van Gelder/24 Bit Mastering/1998 Digital Remaster",
+      "duracion": 145
+    },
+    {
+      "titulo": "I've Got You Under My Skin - Rudy Van Gelder/24 Bit Mastering/2001 Digital Remaster",
+      "duracion": 157
+    },
+    {
+      "titulo": "Autumn In New York - Alternate Take #1/Rudy Van Gelder/24Bit Mastering/2001 Digital Remaster",
+      "duracion": 133
+    },
+    {
+      "titulo": "Autumn In New York - Alternate Take #2/Rudy Van Gelder/24Bit Mastering/2001 Digital Remaster",
+      "duracion": 179
+    },
+    {
+      "titulo": "Reets And I - Alternate Take #1/Rudy Van Gelder/24Bit Mastering/2001 Digital Remaster",
+      "duracion": 154
+    },
+    {
+      "titulo": "Reets And I - Alternate Take #2/Rudy Van Gelder/24Bit Mastering/2001 Digital Remaster",
+      "duracion": 194
+    },
+    {
+      "titulo": "Sure Thing - Alternate Take/Rudy Van Gelder/24Bit Mastering/2001 Digital Remaster",
+      "duracion": 166
+    },
+    {
+      "titulo": "Collard Greens And Black-Eye Peas - Alternate Take/Rudy Van Gelder/24Bit Mastering/2001 Digital Remaster",
+      "duracion": 131
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": "Art_Pepper_Meets_the_Rhythm_Section"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "You'd Be So Nice to Come Home To",
+      "duracion": 328
+    },
+    {
+      "titulo": "Red Pepper Blues",
+      "duracion": 221
+    },
+    {
+      "titulo": "Imagination",
+      "duracion": 356
+    },
+    {
+      "titulo": "Waltz Me Blues",
+      "duracion": 179
+    },
+    {
+      "titulo": "Straight Life",
+      "duracion": 244
+    },
+    {
+      "titulo": "Jazz Me Blues",
+      "duracion": 290
+    },
+    {
+      "titulo": "Tin Tin Deo",
+      "duracion": 467
+    },
+    {
+      "titulo": "Star Eyes",
+      "duracion": 315
+    },
+    {
+      "titulo": "Birk's Works",
+      "duracion": 260
+    },
+    {
+      "titulo": "The Man I Love",
+      "duracion": 392
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -54,5 +54,36 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "The Awakening",
+      "duracion": 382
+    },
+    {
+      "titulo": "I Love Music",
+      "duracion": 442
+    },
+    {
+      "titulo": "Patterns",
+      "duracion": 378
+    },
+    {
+      "titulo": "Dolphin Dance",
+      "duracion": 309
+    },
+    {
+      "titulo": "You're My Everything",
+      "duracion": 284
+    },
+    {
+      "titulo": "Stolen Moments",
+      "duracion": 392
+    },
+    {
+      "titulo": "Wave",
+      "duracion": 266
+    }
+  ],
+  "temasFuente": "Spotify"
 }

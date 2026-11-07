@@ -54,5 +54,112 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Got The Bench, Got The Park",
+      "duracion": 195
+    },
+    {
+      "titulo": "In A Caf",
+      "duracion": 171
+    },
+    {
+      "titulo": "Loveless Love",
+      "duracion": 200
+    },
+    {
+      "titulo": "Basement Blues",
+      "duracion": 201
+    },
+    {
+      "titulo": "Wha'd Ya Do To Me",
+      "duracion": 185
+    },
+    {
+      "titulo": "Roll On, Mississippi, Roll On",
+      "duracion": 186
+    },
+    {
+      "titulo": "Sweetie Dear",
+      "duracion": 173
+    },
+    {
+      "titulo": "I Want You Tonight",
+      "duracion": 189
+    },
+    {
+      "titulo": "I've Found A New Baby",
+      "duracion": 194
+    },
+    {
+      "titulo": "Lay Your Racket",
+      "duracion": 198
+    },
+    {
+      "titulo": "Maple Leaf Rag",
+      "duracion": 178
+    },
+    {
+      "titulo": "Shag",
+      "duracion": 188
+    },
+    {
+      "titulo": "Under The Creole Moon",
+      "duracion": 203
+    },
+    {
+      "titulo": "The Old Ark Is Moverin'",
+      "duracion": 186
+    },
+    {
+      "titulo": "Loveless Love",
+      "duracion": 180
+    },
+    {
+      "titulo": "Polka Dot Rag",
+      "duracion": 174
+    },
+    {
+      "titulo": "That's What Love Did To Me",
+      "duracion": 188
+    },
+    {
+      "titulo": "You Can't Live In Harlem",
+      "duracion": 146
+    },
+    {
+      "titulo": "I Wonder Who Made Rhythm",
+      "duracion": 194
+    },
+    {
+      "titulo": "Tain't A Fit Night For Man Or Beast",
+      "duracion": 156
+    },
+    {
+      "titulo": "I Take To You",
+      "duracion": 166
+    },
+    {
+      "titulo": "Rhythm Of The Broadway Moon",
+      "duracion": 174
+    },
+    {
+      "titulo": "Bandanna Days",
+      "duracion": 176
+    },
+    {
+      "titulo": "I'm Just Wild About Harry",
+      "duracion": 174
+    },
+    {
+      "titulo": "Dear Old Southland",
+      "duracion": 183
+    },
+    {
+      "titulo": "Okey-Doke",
+      "duracion": 176
+    }
+  ],
+  "temasFuente": "Spotify"
 }

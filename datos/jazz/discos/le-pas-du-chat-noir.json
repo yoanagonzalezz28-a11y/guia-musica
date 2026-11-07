@@ -54,5 +54,56 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Le pas du chat noir",
+      "duracion": 482
+    },
+    {
+      "titulo": "De tout ton coeur",
+      "duracion": 461
+    },
+    {
+      "titulo": "Leila au pays du carrousel",
+      "duracion": 397
+    },
+    {
+      "titulo": "Pique-nique à Nagpur",
+      "duracion": 254
+    },
+    {
+      "titulo": "C'est ailleurs",
+      "duracion": 485
+    },
+    {
+      "titulo": "Toi qui sais",
+      "duracion": 363
+    },
+    {
+      "titulo": "L'arbre qui voit",
+      "duracion": 373
+    },
+    {
+      "titulo": "Un point bleu",
+      "duracion": 112
+    },
+    {
+      "titulo": "Les ailes du Bourak",
+      "duracion": 294
+    },
+    {
+      "titulo": "Rue du Départ",
+      "duracion": 365
+    },
+    {
+      "titulo": "Leila au pays du carrousel - Var.",
+      "duracion": 340
+    },
+    {
+      "titulo": "Déjà la nuit",
+      "duracion": 310
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -54,5 +54,52 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Wind Flower",
+      "duracion": 267
+    },
+    {
+      "titulo": "Circling",
+      "duracion": 362
+    },
+    {
+      "titulo": "Uplifted Heart",
+      "duracion": 407
+    },
+    {
+      "titulo": "Moments",
+      "duracion": 281
+    },
+    {
+      "titulo": "Continental Cliff",
+      "duracion": 288
+    },
+    {
+      "titulo": "Throw It Away",
+      "duracion": 350
+    },
+    {
+      "titulo": "Respected Destroyer",
+      "duracion": 329
+    },
+    {
+      "titulo": "Two Hearts (Lawns)",
+      "duracion": 281
+    },
+    {
+      "titulo": "Unchanged",
+      "duracion": 259
+    },
+    {
+      "titulo": "Ima",
+      "duracion": 330
+    },
+    {
+      "titulo": "Rounds (Live)",
+      "duracion": 483
+    }
+  ],
+  "temasFuente": "Spotify"
 }

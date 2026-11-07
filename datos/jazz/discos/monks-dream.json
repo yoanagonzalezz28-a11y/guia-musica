@@ -80,5 +80,56 @@
       "acceso": "indirecta",
       "aporta": "Pete Welding le dio cinco estrellas en DownBeat."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Monk's Dream - Take 8",
+      "duracion": 385
+    },
+    {
+      "titulo": "Body and Soul",
+      "duracion": 268
+    },
+    {
+      "titulo": "Bright Mississippi - Take 1",
+      "duracion": 516
+    },
+    {
+      "titulo": "Five Spot Blues",
+      "duracion": 194
+    },
+    {
+      "titulo": "Blue Bolivar Blues - Take 2",
+      "duracion": 451
+    },
+    {
+      "titulo": "Just a Gigolo",
+      "duracion": 148
+    },
+    {
+      "titulo": "Bye-Ya",
+      "duracion": 323
+    },
+    {
+      "titulo": "Sweet and Lovely",
+      "duracion": 472
+    },
+    {
+      "titulo": "Monk's Dream - Take 3",
+      "duracion": 314
+    },
+    {
+      "titulo": "Body and Soul - Take 1",
+      "duracion": 305
+    },
+    {
+      "titulo": "Bright Mississippi - Take 3",
+      "duracion": 620
+    },
+    {
+      "titulo": "Blue Bolivar Blues - Take 1",
+      "duracion": 372
+    }
+  ],
+  "temasFuente": "Spotify"
 }

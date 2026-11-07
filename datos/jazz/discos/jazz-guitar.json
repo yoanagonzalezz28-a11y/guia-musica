@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Stompin' At The Savoy",
+      "duracion": 281
+    },
+    {
+      "titulo": "Things Ain't What They Used To Be",
+      "duracion": 350
+    },
+    {
+      "titulo": "This Is Always",
+      "duracion": 172
+    },
+    {
+      "titulo": "Thanks For The Memory",
+      "duracion": 319
+    },
+    {
+      "titulo": "Tangerine",
+      "duracion": 273
+    },
+    {
+      "titulo": "Stella By Starlight",
+      "duracion": 240
+    },
+    {
+      "titulo": "9:20 Special",
+      "duracion": 346
+    },
+    {
+      "titulo": "Deep In A Dream",
+      "duracion": 276
+    },
+    {
+      "titulo": "Look For The Silver Lining",
+      "duracion": 308
+    },
+    {
+      "titulo": "Seven Come Eleven",
+      "duracion": 271
+    }
+  ],
+  "temasFuente": "Spotify"
 }

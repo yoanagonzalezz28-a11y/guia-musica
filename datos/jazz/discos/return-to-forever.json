@@ -54,5 +54,24 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Return To Forever",
+      "duracion": 725
+    },
+    {
+      "titulo": "Crystal Silence",
+      "duracion": 415
+    },
+    {
+      "titulo": "What Game Shall We Play Today",
+      "duracion": 266
+    },
+    {
+      "titulo": "Sometime Ago / La Fiesta",
+      "duracion": 1394
+    }
+  ],
+  "temasFuente": "Spotify"
 }

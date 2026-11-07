@@ -54,5 +54,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Caravan",
+      "duracion": 418
+    },
+    {
+      "titulo": "Mozambique",
+      "duracion": 426
+    },
+    {
+      "titulo": "Autumn Leaves",
+      "duracion": 442
+    },
+    {
+      "titulo": "Close Your Eyes",
+      "duracion": 323
+    },
+    {
+      "titulo": "Blues for Bird",
+      "duracion": 750
+    },
+    {
+      "titulo": "Dizzy Atmosphere",
+      "duracion": 291
+    },
+    {
+      "titulo": "Alone Together",
+      "duracion": 314
+    },
+    {
+      "titulo": "Con Alma",
+      "duracion": 315
+    }
+  ],
+  "temasFuente": "Spotify"
 }

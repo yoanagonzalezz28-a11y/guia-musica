@@ -54,5 +54,44 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Cité De La Musique",
+      "duracion": 351
+    },
+    {
+      "titulo": "Introducción Y Milonga Del Ausente",
+      "duracion": 490
+    },
+    {
+      "titulo": "El Rio Y El Abuelo",
+      "duracion": 421
+    },
+    {
+      "titulo": "Zurdo",
+      "duracion": 499
+    },
+    {
+      "titulo": "Romance",
+      "duracion": 304
+    },
+    {
+      "titulo": "Winter",
+      "duracion": 520
+    },
+    {
+      "titulo": "How My Heart Sings",
+      "duracion": 322
+    },
+    {
+      "titulo": "Gorrión",
+      "duracion": 199
+    },
+    {
+      "titulo": "Coral Para Mi Pequeno Y Lejano Pueblo",
+      "duracion": 505
+    }
+  ],
+  "temasFuente": "Spotify"
 }

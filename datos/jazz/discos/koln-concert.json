@@ -60,5 +60,24 @@
       "acceso": "indirecta",
       "aporta": "En la colección esencial de la Penguin Guide. Tom Hull: lo consagró como el principal pianista de su generación."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Köln, January 24, 1975, Part I - Live",
+      "duracion": 1562
+    },
+    {
+      "titulo": "Köln, January 24, 1975, Part II a - Live",
+      "duracion": 895
+    },
+    {
+      "titulo": "Köln, January 24, 1975, Part II b - Live",
+      "duracion": 1094
+    },
+    {
+      "titulo": "Köln, January 24, 1975, Part II c - Live",
+      "duracion": 417
+    }
+  ],
+  "temasFuente": "Spotify"
 }

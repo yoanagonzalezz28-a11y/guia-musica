@@ -55,5 +55,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Academia",
+      "duracion": 507
+    },
+    {
+      "titulo": "Cantor",
+      "duracion": 527
+    },
+    {
+      "titulo": "Ciclo",
+      "duracion": 482
+    },
+    {
+      "titulo": "Tipico",
+      "duracion": 527
+    },
+    {
+      "titulo": "Sangre de Mi Sangre",
+      "duracion": 418
+    },
+    {
+      "titulo": "Corteza",
+      "duracion": 429
+    },
+    {
+      "titulo": "Entre las Raices",
+      "duracion": 337
+    },
+    {
+      "titulo": "Las Ramas",
+      "duracion": 468
+    }
+  ],
+  "temasFuente": "Spotify"
 }

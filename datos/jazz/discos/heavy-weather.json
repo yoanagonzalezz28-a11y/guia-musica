@@ -85,5 +85,40 @@
       "acceso": "completa",
       "aporta": "Explica cómo Zawinul se volvió el principal compositor del grupo."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Birdland",
+      "duracion": 359
+    },
+    {
+      "titulo": "A Remark You Made",
+      "duracion": 412
+    },
+    {
+      "titulo": "Teen Town",
+      "duracion": 172
+    },
+    {
+      "titulo": "Harlequin",
+      "duracion": 240
+    },
+    {
+      "titulo": "Rumba Mama",
+      "duracion": 131
+    },
+    {
+      "titulo": "Palladium",
+      "duracion": 289
+    },
+    {
+      "titulo": "The Juggler",
+      "duracion": 305
+    },
+    {
+      "titulo": "Havona",
+      "duracion": 361
+    }
+  ],
+  "temasFuente": "Spotify"
 }

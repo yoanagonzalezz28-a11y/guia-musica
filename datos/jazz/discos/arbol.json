@@ -59,5 +59,44 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Por Ejemplo",
+      "duracion": 258
+    },
+    {
+      "titulo": "Hurry!",
+      "duracion": 344
+    },
+    {
+      "titulo": "Canción para Renacer",
+      "duracion": 398
+    },
+    {
+      "titulo": "Para",
+      "duracion": 317
+    },
+    {
+      "titulo": "Pescador de Maravillas",
+      "duracion": 373
+    },
+    {
+      "titulo": "Esa Tristeza",
+      "duracion": 299
+    },
+    {
+      "titulo": "Cuerpo y Alma",
+      "duracion": 253
+    },
+    {
+      "titulo": "Pensamiento de Caracol",
+      "duracion": 263
+    },
+    {
+      "titulo": "Me Enenés?",
+      "duracion": 331
+    }
+  ],
+  "temasFuente": "Spotify"
 }

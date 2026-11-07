@@ -54,5 +54,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Ziandi",
+      "duracion": 443
+    },
+    {
+      "titulo": "J Bhai",
+      "duracion": 498
+    },
+    {
+      "titulo": "Lucky Seven",
+      "duracion": 647
+    },
+    {
+      "titulo": "Suvarna",
+      "duracion": 482
+    },
+    {
+      "titulo": "Island Feeling",
+      "duracion": 432
+    },
+    {
+      "titulo": "Bedouin Trail",
+      "duracion": 463
+    },
+    {
+      "titulo": "Good Hope",
+      "duracion": 501
+    },
+    {
+      "titulo": "Mazad",
+      "duracion": 520
+    }
+  ],
+  "temasFuente": "Spotify"
 }

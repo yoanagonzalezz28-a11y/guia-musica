@@ -59,5 +59,44 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Steve",
+      "duracion": 378
+    },
+    {
+      "titulo": "River Plate",
+      "duracion": 323
+    },
+    {
+      "titulo": "Aura",
+      "duracion": 237
+    },
+    {
+      "titulo": "Adiós",
+      "duracion": 306
+    },
+    {
+      "titulo": "Monumental",
+      "duracion": 318
+    },
+    {
+      "titulo": "Lolo",
+      "duracion": 278
+    },
+    {
+      "titulo": "Naima",
+      "duracion": 299
+    },
+    {
+      "titulo": "Violeta en Tren",
+      "duracion": 213
+    },
+    {
+      "titulo": "Evidence",
+      "duracion": 269
+    }
+  ],
+  "temasFuente": "Spotify"
 }

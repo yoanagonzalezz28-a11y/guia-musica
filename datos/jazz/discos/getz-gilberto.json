@@ -101,5 +101,48 @@
       "acceso": "completa",
       "aporta": "Advierte que es un error pensar que su armonía salió del jazz: hubo una evolución paralela."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "The Girl From Ipanema",
+      "duracion": 325
+    },
+    {
+      "titulo": "Doralice",
+      "duracion": 166
+    },
+    {
+      "titulo": "Para Machuchar Meu Coracao",
+      "duracion": 306
+    },
+    {
+      "titulo": "Desafinado",
+      "duracion": 256
+    },
+    {
+      "titulo": "Corcovado (Quiet Nights Of Quiet Stars)",
+      "duracion": 257
+    },
+    {
+      "titulo": "Só Danço Samba",
+      "duracion": 226
+    },
+    {
+      "titulo": "O Grande Amor",
+      "duracion": 327
+    },
+    {
+      "titulo": "Vivo Sonhando",
+      "duracion": 184
+    },
+    {
+      "titulo": "The Girl From Ipanema - Single Version",
+      "duracion": 175
+    },
+    {
+      "titulo": "Corcovado (Quiet Nights Of Quiet Stars) - Single Version",
+      "duracion": 141
+    }
+  ],
+  "temasFuente": "Spotify"
 }

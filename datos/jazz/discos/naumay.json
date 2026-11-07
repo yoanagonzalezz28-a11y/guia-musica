@@ -66,5 +66,36 @@
       "acceso": "extracto",
       "aporta": "Confirma el origen del disco y el trabajo de Ibarra con el candombe."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "REM",
+      "duracion": 538
+    },
+    {
+      "titulo": "Angkor",
+      "duracion": 613
+    },
+    {
+      "titulo": "Indigo",
+      "duracion": 618
+    },
+    {
+      "titulo": "Océanos",
+      "duracion": 553
+    },
+    {
+      "titulo": "Pepper Blade",
+      "duracion": 591
+    },
+    {
+      "titulo": "Te Abracé en la Noche",
+      "duracion": 513
+    },
+    {
+      "titulo": "Nair - Candombe 5",
+      "duracion": 513
+    }
+  ],
+  "temasFuente": "Spotify"
 }

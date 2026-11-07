@@ -54,5 +54,52 @@
     "wikidata": null,
     "wikipedia": "Ella_and_Louis"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Can't We Be Friends?",
+      "duracion": 227
+    },
+    {
+      "titulo": "Isn't This A Lovely Day?",
+      "duracion": 377
+    },
+    {
+      "titulo": "Moonlight In Vermont",
+      "duracion": 223
+    },
+    {
+      "titulo": "They Can't Take That Away From Me",
+      "duracion": 280
+    },
+    {
+      "titulo": "Under A Blanket Of Blue",
+      "duracion": 258
+    },
+    {
+      "titulo": "Tenderly",
+      "duracion": 311
+    },
+    {
+      "titulo": "A Foggy Day",
+      "duracion": 273
+    },
+    {
+      "titulo": "Stars Fell On Alabama",
+      "duracion": 214
+    },
+    {
+      "titulo": "Cheek To Cheek",
+      "duracion": 353
+    },
+    {
+      "titulo": "The Nearness Of You",
+      "duracion": 342
+    },
+    {
+      "titulo": "April In Paris",
+      "duracion": 393
+    }
+  ],
+  "temasFuente": "Spotify"
 }

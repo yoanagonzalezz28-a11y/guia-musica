@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Dead Indeed",
+      "duracion": 450
+    },
+    {
+      "titulo": "Vilderness 1",
+      "duracion": 469
+    },
+    {
+      "titulo": "Kakonita",
+      "duracion": 300
+    },
+    {
+      "titulo": "Merciful 1",
+      "duracion": 63
+    },
+    {
+      "titulo": "Ligotage",
+      "duracion": 404
+    },
+    {
+      "titulo": "Trip",
+      "duracion": 384
+    },
+    {
+      "titulo": "Vilderness 2",
+      "duracion": 296
+    },
+    {
+      "titulo": "Tragamar",
+      "duracion": 286
+    },
+    {
+      "titulo": "Solid Ether",
+      "duracion": 313
+    },
+    {
+      "titulo": "Merciful 2",
+      "duracion": 74
+    }
+  ],
+  "temasFuente": "Spotify"
 }

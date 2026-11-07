@@ -62,5 +62,32 @@
     "wikidata": null,
     "wikipedia": "Belonging_(Keith_Jarrett_album)"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Spiral Dance",
+      "duracion": 247
+    },
+    {
+      "titulo": "Blossom",
+      "duracion": 732
+    },
+    {
+      "titulo": "'Long As You Know You're Living Yours",
+      "duracion": 371
+    },
+    {
+      "titulo": "Belonging",
+      "duracion": 132
+    },
+    {
+      "titulo": "The Windup",
+      "duracion": 503
+    },
+    {
+      "titulo": "Solstice",
+      "duracion": 793
+    }
+  ],
+  "temasFuente": "Spotify"
 }

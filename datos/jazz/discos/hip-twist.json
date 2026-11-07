@@ -76,5 +76,36 @@
       "acceso": "extracto",
       "aporta": "Douglas Payne elogia su toque, uno de los más gráciles y líricos aplicados al Hammond."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Hip Twist",
+      "duracion": 317
+    },
+    {
+      "titulo": "At Last",
+      "duracion": 328
+    },
+    {
+      "titulo": "Rippin' An' Runnin'",
+      "duracion": 320
+    },
+    {
+      "titulo": "The Very Thought Of You",
+      "duracion": 229
+    },
+    {
+      "titulo": "Violent Blues",
+      "duracion": 373
+    },
+    {
+      "titulo": "That's All",
+      "duracion": 378
+    },
+    {
+      "titulo": "All Tore Down",
+      "duracion": 332
+    }
+  ],
+  "temasFuente": "Spotify"
 }

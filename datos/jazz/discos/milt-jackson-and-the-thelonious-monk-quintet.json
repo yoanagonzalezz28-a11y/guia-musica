@@ -54,5 +54,76 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Tahiti",
+      "duracion": 210
+    },
+    {
+      "titulo": "Lillie",
+      "duracion": 196
+    },
+    {
+      "titulo": "Lillie - Alternate Take",
+      "duracion": 199
+    },
+    {
+      "titulo": "Bags' Groove",
+      "duracion": 186
+    },
+    {
+      "titulo": "What's New",
+      "duracion": 191
+    },
+    {
+      "titulo": "What's New - Alternate Take",
+      "duracion": 194
+    },
+    {
+      "titulo": "Don't Get Around Much Anymore",
+      "duracion": 182
+    },
+    {
+      "titulo": "Don't Get Around Much Anymore - Alternate Take",
+      "duracion": 181
+    },
+    {
+      "titulo": "On The Scene",
+      "duracion": 164
+    },
+    {
+      "titulo": "Evidence",
+      "duracion": 155
+    },
+    {
+      "titulo": "Misterioso",
+      "duracion": 203
+    },
+    {
+      "titulo": "Misterioso - Alternate Take",
+      "duracion": 166
+    },
+    {
+      "titulo": "Epistrophy",
+      "duracion": 188
+    },
+    {
+      "titulo": "I Mean You",
+      "duracion": 167
+    },
+    {
+      "titulo": "All The Things You Are",
+      "duracion": 181
+    },
+    {
+      "titulo": "I Should Care - Alternate Take",
+      "duracion": 183
+    },
+    {
+      "titulo": "I Should Care",
+      "duracion": 180
+    }
+  ],
+  "temasFuente": "Spotify"
 }

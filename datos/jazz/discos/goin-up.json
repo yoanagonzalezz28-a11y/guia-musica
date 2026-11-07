@@ -54,5 +54,32 @@
     "wikidata": null,
     "wikipedia": "Goin%27_Up"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Asiatic Raes - Remastered",
+      "duracion": 406
+    },
+    {
+      "titulo": "The Changing Scene - 1997 Remastered",
+      "duracion": 350
+    },
+    {
+      "titulo": "Karioka",
+      "duracion": 376
+    },
+    {
+      "titulo": "A Peck A Sec. - 1997 Remastered",
+      "duracion": 350
+    },
+    {
+      "titulo": "I Wished I Knew - 1997 Remastered",
+      "duracion": 469
+    },
+    {
+      "titulo": "Blues For Brenda - 1997 Remastered",
+      "duracion": 420
+    }
+  ],
+  "temasFuente": "Spotify"
 }

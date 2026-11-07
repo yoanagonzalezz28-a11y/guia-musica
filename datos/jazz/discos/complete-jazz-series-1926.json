@@ -54,5 +54,104 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Bohunkus Blues (05-?-26)",
+      "duracion": 175
+    },
+    {
+      "titulo": "Buddy Burton's Jazz (05-?-26)",
+      "duracion": 158
+    },
+    {
+      "titulo": "Perdido Street Blues (07-13-26)",
+      "duracion": 190
+    },
+    {
+      "titulo": "Gate Mouth (07-13-26)",
+      "duracion": 187
+    },
+    {
+      "titulo": "Too Tight (07-13-26)",
+      "duracion": 177
+    },
+    {
+      "titulo": "Papa Dip (07-13-26)",
+      "duracion": 174
+    },
+    {
+      "titulo": "Mixed Salad (07-14-26)",
+      "duracion": 191
+    },
+    {
+      "titulo": "I Can't Say (07-14-26)",
+      "duracion": 190
+    },
+    {
+      "titulo": "Flat Foot (07-14-26)",
+      "duracion": 205
+    },
+    {
+      "titulo": "Mad Dog (07-14-26)",
+      "duracion": 169
+    },
+    {
+      "titulo": "Messin Around (7/8-?-26)",
+      "duracion": 177
+    },
+    {
+      "titulo": "Adams Apple (7/8-?-26)",
+      "duracion": 176
+    },
+    {
+      "titulo": "East Coast Trot (08-?-26)",
+      "duracion": 178
+    },
+    {
+      "titulo": "Chicago Buzz (08-?-26)",
+      "duracion": 166
+    },
+    {
+      "titulo": "Idle Hour Special (09-16-26)",
+      "duracion": 176
+    },
+    {
+      "titulo": "47th Street Stomp (09-16-26)",
+      "duracion": 181
+    },
+    {
+      "titulo": "Stock Yards Strut (09-?-26)",
+      "duracion": 151
+    },
+    {
+      "titulo": "Salty Dog (09-?-26)",
+      "duracion": 165
+    },
+    {
+      "titulo": "Ape Man (10-?-26)",
+      "duracion": 158
+    },
+    {
+      "titulo": "Your Folks (10-?-26)",
+      "duracion": 164
+    },
+    {
+      "titulo": "House Rent Rag (12-11-26)",
+      "duracion": 184
+    },
+    {
+      "titulo": "Memphis Shake (12-11-26)",
+      "duracion": 197
+    },
+    {
+      "titulo": "Carpet Alley- Breakdown (12-11-26)",
+      "duracion": 161
+    },
+    {
+      "titulo": "Hen Party Blues (12-11-26)",
+      "duracion": 199
+    }
+  ],
+  "temasFuente": "Spotify"
 }

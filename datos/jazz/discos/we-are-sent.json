@@ -61,5 +61,52 @@
       "acceso": "completa",
       "aporta": "Explica su formación en Tomorrow's Warriors y la escena del sudeste de Londres."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "They Who Must Die",
+      "duracion": 609
+    },
+    {
+      "titulo": "You’ve Been Called",
+      "duracion": 389
+    },
+    {
+      "titulo": "Go My Heart, Go To Heaven",
+      "duracion": 398
+    },
+    {
+      "titulo": "Behold, The Deceiver",
+      "duracion": 360
+    },
+    {
+      "titulo": "Run, The Darkness Will Pass",
+      "duracion": 247
+    },
+    {
+      "titulo": "The Coming Of The Strange Ones",
+      "duracion": 388
+    },
+    {
+      "titulo": "Beasts Too Spoke Of Suffering",
+      "duracion": 177
+    },
+    {
+      "titulo": "We Will Work (On Redefining Manhood)",
+      "duracion": 323
+    },
+    {
+      "titulo": "’Til The Freedom Comes Home",
+      "duracion": 426
+    },
+    {
+      "titulo": "Finally, The Man Cried",
+      "duracion": 347
+    },
+    {
+      "titulo": "Teach Me How To Be Vulnerable",
+      "duracion": 166
+    }
+  ],
+  "temasFuente": "Spotify"
 }

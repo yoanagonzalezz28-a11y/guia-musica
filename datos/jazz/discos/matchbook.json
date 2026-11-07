@@ -54,5 +54,44 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Drifting Petals",
+      "duracion": 317
+    },
+    {
+      "titulo": "Some Other Time",
+      "duracion": 377
+    },
+    {
+      "titulo": "Brotherhood",
+      "duracion": 72
+    },
+    {
+      "titulo": "Icarus",
+      "duracion": 353
+    },
+    {
+      "titulo": "Song For A Friend",
+      "duracion": 311
+    },
+    {
+      "titulo": "Matchbook",
+      "duracion": 274
+    },
+    {
+      "titulo": "1 x 6",
+      "duracion": 58
+    },
+    {
+      "titulo": "Aurora",
+      "duracion": 311
+    },
+    {
+      "titulo": "Goodbye Pork Pie Hat",
+      "duracion": 266
+    }
+  ],
+  "temasFuente": "Spotify"
 }

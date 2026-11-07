@@ -72,5 +72,72 @@
       "acceso": "completa",
       "aporta": "En otro tema, la cantante Gabrielle Cavassa: \"Billie Holiday is my favorite singer in the world... She makes me feel so sad and so tender, and also so human\"."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "I'm a Fool to Want You",
+      "duracion": 205
+    },
+    {
+      "titulo": "For Heaven's Sake",
+      "duracion": 209
+    },
+    {
+      "titulo": "You Don't Know What Love Is",
+      "duracion": 230
+    },
+    {
+      "titulo": "I Get Along Without You Very Well",
+      "duracion": 180
+    },
+    {
+      "titulo": "For All We Know",
+      "duracion": 175
+    },
+    {
+      "titulo": "Violets for Your Furs",
+      "duracion": 206
+    },
+    {
+      "titulo": "You've Changed",
+      "duracion": 200
+    },
+    {
+      "titulo": "It's Easy to Remember",
+      "duracion": 243
+    },
+    {
+      "titulo": "But Beautiful",
+      "duracion": 271
+    },
+    {
+      "titulo": "Glad to Be Unhappy",
+      "duracion": 248
+    },
+    {
+      "titulo": "I'll Be Around",
+      "duracion": 206
+    },
+    {
+      "titulo": "The End of a Love Affair - Mono Take 4 with Vocal Overdub Take 8",
+      "duracion": 293
+    },
+    {
+      "titulo": "I'm a Fool to Want You - Mono Take 3",
+      "duracion": 207
+    },
+    {
+      "titulo": "I'm a Fool to Want You (with Ray Ellis & His Orchestra) - Take 2 [Alternate]",
+      "duracion": 206
+    },
+    {
+      "titulo": "The End of a Love Affair - The Audio Story",
+      "duracion": 593
+    },
+    {
+      "titulo": "The End of a Love Affair - Stereo Take 4 with Vocal Overdub Take 8",
+      "duracion": 288
+    }
+  ],
+  "temasFuente": "Spotify"
 }

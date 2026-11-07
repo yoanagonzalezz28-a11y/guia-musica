@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "You & The Night & The Music",
+      "duracion": 342
+    },
+    {
+      "titulo": "Floating",
+      "duracion": 349
+    },
+    {
+      "titulo": "West Virginia Rose",
+      "duracion": 122
+    },
+    {
+      "titulo": "Home Fries",
+      "duracion": 352
+    },
+    {
+      "titulo": "Far Away",
+      "duracion": 395
+    },
+    {
+      "titulo": "Arcata",
+      "duracion": 387
+    },
+    {
+      "titulo": "A Speech to the Sea",
+      "duracion": 424
+    },
+    {
+      "titulo": "Autumn Haze",
+      "duracion": 366
+    },
+    {
+      "titulo": "If Ever I Would Leave You",
+      "duracion": 371
+    },
+    {
+      "titulo": "Let's Cool One",
+      "duracion": 410
+    }
+  ],
+  "temasFuente": "Spotify"
 }

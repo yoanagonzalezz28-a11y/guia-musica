@@ -54,5 +54,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Alabama",
+      "duracion": 412
+    },
+    {
+      "titulo": "In Movement",
+      "duracion": 562
+    },
+    {
+      "titulo": "Two Jimmys",
+      "duracion": 494
+    },
+    {
+      "titulo": "Blue In Green",
+      "duracion": 358
+    },
+    {
+      "titulo": "Serpentine Fire",
+      "duracion": 542
+    },
+    {
+      "titulo": "Lydia",
+      "duracion": 287
+    },
+    {
+      "titulo": "Rashied",
+      "duracion": 348
+    },
+    {
+      "titulo": "Soulful Ballad",
+      "duracion": 263
+    }
+  ],
+  "temasFuente": "Spotify"
 }

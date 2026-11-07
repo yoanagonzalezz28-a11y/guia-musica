@@ -54,5 +54,44 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "My Second Childhood",
+      "duracion": 280
+    },
+    {
+      "titulo": "The Forgotten Village",
+      "duracion": 381
+    },
+    {
+      "titulo": "The Dream Thief",
+      "duracion": 509
+    },
+    {
+      "titulo": "A Moon’s Tale",
+      "duracion": 157
+    },
+    {
+      "titulo": "Lifeline",
+      "duracion": 235
+    },
+    {
+      "titulo": "Choral",
+      "duracion": 231
+    },
+    {
+      "titulo": "New River, New Water",
+      "duracion": 420
+    },
+    {
+      "titulo": "These Foolish Things (Remind Me Of You)",
+      "duracion": 264
+    },
+    {
+      "titulo": "What Else Needs To Happen?",
+      "duracion": 416
+    }
+  ],
+  "temasFuente": "Spotify"
 }

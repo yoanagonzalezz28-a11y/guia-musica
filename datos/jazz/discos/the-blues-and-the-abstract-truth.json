@@ -54,5 +54,32 @@
     "wikidata": null,
     "wikipedia": "The_Blues_and_the_Abstract_Truth"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Stolen Moments",
+      "duracion": 526
+    },
+    {
+      "titulo": "Hoe Down",
+      "duracion": 282
+    },
+    {
+      "titulo": "Cascades",
+      "duracion": 331
+    },
+    {
+      "titulo": "Yearnin'",
+      "duracion": 383
+    },
+    {
+      "titulo": "Butch And Butch",
+      "duracion": 274
+    },
+    {
+      "titulo": "Teenie's Blues",
+      "duracion": 394
+    }
+  ],
+  "temasFuente": "Spotify"
 }

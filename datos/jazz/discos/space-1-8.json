@@ -54,5 +54,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Space 1",
+      "duracion": 248
+    },
+    {
+      "titulo": "Space 2",
+      "duracion": 294
+    },
+    {
+      "titulo": "Space 3",
+      "duracion": 75
+    },
+    {
+      "titulo": "Space 4",
+      "duracion": 380
+    },
+    {
+      "titulo": "Space 5",
+      "duracion": 240
+    },
+    {
+      "titulo": "Space 6",
+      "duracion": 269
+    },
+    {
+      "titulo": "Space 7",
+      "duracion": 101
+    },
+    {
+      "titulo": "Space 8",
+      "duracion": 1052
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -59,5 +59,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Airun",
+      "duracion": 353
+    },
+    {
+      "titulo": "Luz",
+      "duracion": 351
+    },
+    {
+      "titulo": "Naomh Beagnait",
+      "duracion": 339
+    },
+    {
+      "titulo": "Añoranzas Montevideanas",
+      "duracion": 422
+    },
+    {
+      "titulo": "Evolución",
+      "duracion": 367
+    },
+    {
+      "titulo": "Calma",
+      "duracion": 335
+    },
+    {
+      "titulo": "Allegro, Vivace e Con Brio",
+      "duracion": 201
+    },
+    {
+      "titulo": "Elba",
+      "duracion": 264
+    }
+  ],
+  "temasFuente": "Spotify"
 }

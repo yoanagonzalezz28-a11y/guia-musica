@@ -54,5 +54,56 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Holding On",
+      "duracion": 302
+    },
+    {
+      "titulo": "Don’t Lose Your Steam",
+      "duracion": 198
+    },
+    {
+      "titulo": "Take Me To The Alley",
+      "duracion": 317
+    },
+    {
+      "titulo": "Day Dream",
+      "duracion": 232
+    },
+    {
+      "titulo": "Consequence Of Love",
+      "duracion": 200
+    },
+    {
+      "titulo": "In Fashion",
+      "duracion": 275
+    },
+    {
+      "titulo": "More Than A Woman",
+      "duracion": 211
+    },
+    {
+      "titulo": "In Heaven",
+      "duracion": 258
+    },
+    {
+      "titulo": "Insanity",
+      "duracion": 337
+    },
+    {
+      "titulo": "Don't Be A Fool",
+      "duracion": 272
+    },
+    {
+      "titulo": "Fan The Flames",
+      "duracion": 252
+    },
+    {
+      "titulo": "French African Queen",
+      "duracion": 225
+    }
+  ],
+  "temasFuente": "Spotify"
 }

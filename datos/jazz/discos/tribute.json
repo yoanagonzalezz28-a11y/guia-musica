@@ -54,5 +54,28 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Victoria",
+      "duracion": 325
+    },
+    {
+      "titulo": "Tuesday Ends Saturday",
+      "duracion": 398
+    },
+    {
+      "titulo": "War Orphans",
+      "duracion": 447
+    },
+    {
+      "titulo": "Sod House",
+      "duracion": 591
+    },
+    {
+      "titulo": "Song For Ché",
+      "duracion": 513
+    }
+  ],
+  "temasFuente": "Spotify"
 }

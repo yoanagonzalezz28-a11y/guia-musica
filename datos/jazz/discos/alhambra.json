@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "We Kiss in a Shadow",
+      "duracion": 300
+    },
+    {
+      "titulo": "Sweet and Lovely",
+      "duracion": 246
+    },
+    {
+      "titulo": "The Party's Over",
+      "duracion": 241
+    },
+    {
+      "titulo": "Love for Sale",
+      "duracion": 245
+    },
+    {
+      "titulo": "Snow Fall",
+      "duracion": 156
+    },
+    {
+      "titulo": "Broadway",
+      "duracion": 469
+    },
+    {
+      "titulo": "Willow Weep for Me",
+      "duracion": 241
+    },
+    {
+      "titulo": "Autumn Leaves",
+      "duracion": 231
+    },
+    {
+      "titulo": "Isn't It Romantic",
+      "duracion": 269
+    },
+    {
+      "titulo": "The Breeze and I",
+      "duracion": 140
+    }
+  ],
+  "temasFuente": "Spotify"
 }

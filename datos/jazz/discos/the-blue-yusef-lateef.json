@@ -54,5 +54,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Juba Juba - Remastered",
+      "duracion": 263
+    },
+    {
+      "titulo": "Like It Is - Remastered",
+      "duracion": 453
+    },
+    {
+      "titulo": "Othelia - Remastered",
+      "duracion": 276
+    },
+    {
+      "titulo": "Moon Cup - Remastered",
+      "duracion": 196
+    },
+    {
+      "titulo": "Back Home - Remastered",
+      "duracion": 301
+    },
+    {
+      "titulo": "Get Over, Get off and Get On - Remastered",
+      "duracion": 226
+    },
+    {
+      "titulo": "Six Miles Next Door - Remastered",
+      "duracion": 287
+    },
+    {
+      "titulo": "Sun Dog - Remastered",
+      "duracion": 185
+    }
+  ],
+  "temasFuente": "Spotify"
 }

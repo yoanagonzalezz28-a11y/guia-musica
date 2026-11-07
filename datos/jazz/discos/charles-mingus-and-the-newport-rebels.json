@@ -54,5 +54,32 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Lock 'Em Up",
+      "duracion": 405
+    },
+    {
+      "titulo": "Re-Incarnation of a Love Bird",
+      "duracion": 420
+    },
+    {
+      "titulo": "Bugs",
+      "duracion": 511
+    },
+    {
+      "titulo": "Mysterious Blues",
+      "duracion": 521
+    },
+    {
+      "titulo": "Body and Soul",
+      "duracion": 650
+    },
+    {
+      "titulo": "R and R",
+      "duracion": 712
+    }
+  ],
+  "temasFuente": "Spotify"
 }

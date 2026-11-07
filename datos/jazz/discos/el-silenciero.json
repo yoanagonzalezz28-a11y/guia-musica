@@ -59,5 +59,36 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Draman Veis",
+      "duracion": 273
+    },
+    {
+      "titulo": "Se",
+      "duracion": 441
+    },
+    {
+      "titulo": "Hare Krishna Free Lance",
+      "duracion": 333
+    },
+    {
+      "titulo": "Compuerta 19",
+      "duracion": 293
+    },
+    {
+      "titulo": "El Silenciero",
+      "duracion": 417
+    },
+    {
+      "titulo": "Considerando",
+      "duracion": 323
+    },
+    {
+      "titulo": "Un Irlandés Errante",
+      "duracion": 403
+    }
+  ],
+  "temasFuente": "Spotify"
 }

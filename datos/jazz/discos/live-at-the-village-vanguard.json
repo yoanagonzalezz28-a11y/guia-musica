@@ -54,5 +54,52 @@
     "wikidata": null,
     "wikipedia": "Chucho_Vald%C3%A9s"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Golondrinas",
+      "duracion": 346
+    },
+    {
+      "titulo": "Dulzura distante",
+      "duracion": 231
+    },
+    {
+      "titulo": "Cartas de amor que se queman",
+      "duracion": 323
+    },
+    {
+      "titulo": "Argentina",
+      "duracion": 293
+    },
+    {
+      "titulo": "O Sacrum Convivium-Phase",
+      "duracion": 693
+    },
+    {
+      "titulo": "Moreira",
+      "duracion": 363
+    },
+    {
+      "titulo": "Brazadas",
+      "duracion": 331
+    },
+    {
+      "titulo": "Milonga Triste",
+      "duracion": 307
+    },
+    {
+      "titulo": "Zamba del arribeño",
+      "duracion": 341
+    },
+    {
+      "titulo": "Se me va la voz",
+      "duracion": 245
+    },
+    {
+      "titulo": "Eternauta",
+      "duracion": 433
+    }
+  ],
+  "temasFuente": "Spotify"
 }

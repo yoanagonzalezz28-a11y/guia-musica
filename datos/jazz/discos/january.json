@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "The First Touch",
+      "duracion": 254
+    },
+    {
+      "titulo": "Vignette",
+      "duracion": 485
+    },
+    {
+      "titulo": "Cinema Paradiso",
+      "duracion": 510
+    },
+    {
+      "titulo": "Diamonds And Pearls",
+      "duracion": 346
+    },
+    {
+      "titulo": "Balladyna",
+      "duracion": 406
+    },
+    {
+      "titulo": "King Korn",
+      "duracion": 405
+    },
+    {
+      "titulo": "The Cat",
+      "duracion": 598
+    },
+    {
+      "titulo": "January",
+      "duracion": 518
+    },
+    {
+      "titulo": "The Young And Cinema",
+      "duracion": 548
+    },
+    {
+      "titulo": "New York 2007",
+      "duracion": 166
+    }
+  ],
+  "temasFuente": "Spotify"
 }

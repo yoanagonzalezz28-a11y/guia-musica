@@ -55,5 +55,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Burrito Hill",
+      "duracion": 328
+    },
+    {
+      "titulo": "Globo",
+      "duracion": 377
+    },
+    {
+      "titulo": "Niños",
+      "duracion": 295
+    },
+    {
+      "titulo": "Mariana",
+      "duracion": 388
+    },
+    {
+      "titulo": "Mareados",
+      "duracion": 242
+    },
+    {
+      "titulo": "ArteSano",
+      "duracion": 333
+    },
+    {
+      "titulo": "Moreira",
+      "duracion": 382
+    },
+    {
+      "titulo": "The Habit of Memory",
+      "duracion": 197
+    },
+    {
+      "titulo": "Piano Sonata Op. 22 (1st Mouvement)",
+      "duracion": 327
+    },
+    {
+      "titulo": "Carrera",
+      "duracion": 264
+    }
+  ],
+  "temasFuente": "Spotify"
 }

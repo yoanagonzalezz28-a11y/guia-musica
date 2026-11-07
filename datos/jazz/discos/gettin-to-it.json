@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "In A Hurry",
+      "duracion": 275
+    },
+    {
+      "titulo": "The Shade Of The Cedar Tree",
+      "duracion": 459
+    },
+    {
+      "titulo": "Too Close For Comfort",
+      "duracion": 350
+    },
+    {
+      "titulo": "Sitting On A Cloud",
+      "duracion": 347
+    },
+    {
+      "titulo": "Splanky",
+      "duracion": 255
+    },
+    {
+      "titulo": "Gettin' To It",
+      "duracion": 331
+    },
+    {
+      "titulo": "Stars Fell On Alabama",
+      "duracion": 323
+    },
+    {
+      "titulo": "Black Moon",
+      "duracion": 318
+    },
+    {
+      "titulo": "King Freddie Of Hubbard",
+      "duracion": 459
+    },
+    {
+      "titulo": "Night Train",
+      "duracion": 219
+    }
+  ],
+  "temasFuente": "Spotify"
 }

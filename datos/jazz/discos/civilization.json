@@ -59,5 +59,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Geo Rose",
+      "duracion": 446
+    },
+    {
+      "titulo": "Warrior",
+      "duracion": 334
+    },
+    {
+      "titulo": "Ancient Eyes",
+      "duracion": 327
+    },
+    {
+      "titulo": "Soweto Nights",
+      "duracion": 399
+    },
+    {
+      "titulo": "The Slump",
+      "duracion": 389
+    },
+    {
+      "titulo": "Civilization",
+      "duracion": 269
+    },
+    {
+      "titulo": "Mutants On The Beach",
+      "duracion": 356
+    },
+    {
+      "titulo": "Citadel",
+      "duracion": 403
+    }
+  ],
+  "temasFuente": "Spotify"
 }

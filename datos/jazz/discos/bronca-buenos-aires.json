@@ -54,5 +54,24 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "La Ciudad Vacia (Primer movimiento)",
+      "duracion": 548
+    },
+    {
+      "titulo": "Relatos (Segundo movimiento)",
+      "duracion": 497
+    },
+    {
+      "titulo": "Amor Buenos Aires (Tercer movimiento)",
+      "duracion": 526
+    },
+    {
+      "titulo": "Bronca Buenos Aires (Cuarto movimiento)",
+      "duracion": 444
+    }
+  ],
+  "temasFuente": "Spotify"
 }

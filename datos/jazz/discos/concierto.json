@@ -54,5 +54,44 @@
     "wikidata": null,
     "wikipedia": "Concierto_(Jim_Hall_album)"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "You'd Be So Nice To Come Home To",
+      "duracion": 426
+    },
+    {
+      "titulo": "Two's Blues",
+      "duracion": 230
+    },
+    {
+      "titulo": "The Answer Is Yes",
+      "duracion": 459
+    },
+    {
+      "titulo": "Concierto De Aranjuez",
+      "duracion": 1160
+    },
+    {
+      "titulo": "Rock Skippin'",
+      "duracion": 370
+    },
+    {
+      "titulo": "Unfinished Business",
+      "duracion": 156
+    },
+    {
+      "titulo": "You'd Be So Nice To Come Home To - alt. take",
+      "duracion": 447
+    },
+    {
+      "titulo": "The Answer Is Yes - alt. take",
+      "duracion": 334
+    },
+    {
+      "titulo": "Rock Skippin' - alt. take",
+      "duracion": 363
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -54,5 +54,44 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Invocation",
+      "duracion": 128
+    },
+    {
+      "titulo": "Hold It",
+      "duracion": 410
+    },
+    {
+      "titulo": "The Nerve",
+      "duracion": 510
+    },
+    {
+      "titulo": "Koutomé",
+      "duracion": 408
+    },
+    {
+      "titulo": "Circuits",
+      "duracion": 566
+    },
+    {
+      "titulo": "Green Pastures",
+      "duracion": 505
+    },
+    {
+      "titulo": "Queens of Brooklyn",
+      "duracion": 215
+    },
+    {
+      "titulo": "Exclamation",
+      "duracion": 437
+    },
+    {
+      "titulo": "Pressed For Time",
+      "duracion": 515
+    }
+  ],
+  "temasFuente": "Spotify"
 }

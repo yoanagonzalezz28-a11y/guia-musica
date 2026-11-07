@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Mode VI",
+      "duracion": 309
+    },
+    {
+      "titulo": "Casino",
+      "duracion": 485
+    },
+    {
+      "titulo": "Lost In A Dream",
+      "duracion": 399
+    },
+    {
+      "titulo": "Blue Midnight",
+      "duracion": 369
+    },
+    {
+      "titulo": "Be Careful It's My Heart",
+      "duracion": 178
+    },
+    {
+      "titulo": "Bird Song",
+      "duracion": 412
+    },
+    {
+      "titulo": "Ten",
+      "duracion": 270
+    },
+    {
+      "titulo": "Drum Music",
+      "duracion": 367
+    },
+    {
+      "titulo": "Abacus",
+      "duracion": 266
+    },
+    {
+      "titulo": "Cathedral Song",
+      "duracion": 389
+    }
+  ],
+  "temasFuente": "Spotify"
 }

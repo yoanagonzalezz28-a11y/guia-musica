@@ -60,5 +60,44 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Criolla",
+      "duracion": 337
+    },
+    {
+      "titulo": "Push Me Not",
+      "duracion": 251
+    },
+    {
+      "titulo": "Si vos me queres",
+      "duracion": 287
+    },
+    {
+      "titulo": "Telmo's Tune",
+      "duracion": 274
+    },
+    {
+      "titulo": "Amor profundo",
+      "duracion": 262
+    },
+    {
+      "titulo": "Burrito Mirror",
+      "duracion": 321
+    },
+    {
+      "titulo": "Camello",
+      "duracion": 324
+    },
+    {
+      "titulo": "Quiero",
+      "duracion": 267
+    },
+    {
+      "titulo": "A Navarro",
+      "duracion": 365
+    }
+  ],
+  "temasFuente": "Spotify"
 }

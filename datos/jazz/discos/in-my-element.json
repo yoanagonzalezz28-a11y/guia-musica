@@ -54,5 +54,52 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "G&B",
+      "duracion": 510
+    },
+    {
+      "titulo": "Of Dreams To Come",
+      "duracion": 491
+    },
+    {
+      "titulo": "F.T.B.",
+      "duracion": 357
+    },
+    {
+      "titulo": "Y'Outta Praise Him Intro",
+      "duracion": 216
+    },
+    {
+      "titulo": "Y'Outta Praise Him",
+      "duracion": 406
+    },
+    {
+      "titulo": "Beatrice",
+      "duracion": 537
+    },
+    {
+      "titulo": "Maiden Voyage / Everything In Its Right Place",
+      "duracion": 524
+    },
+    {
+      "titulo": "J Dillalude",
+      "duracion": 267
+    },
+    {
+      "titulo": "Silly Rabbit",
+      "duracion": 440
+    },
+    {
+      "titulo": "One For 'Grew (For Mulgrew Miller)",
+      "duracion": 394
+    },
+    {
+      "titulo": "Tribute",
+      "duracion": 223
+    }
+  ],
+  "temasFuente": "Spotify"
 }

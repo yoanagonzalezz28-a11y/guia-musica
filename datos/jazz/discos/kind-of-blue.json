@@ -96,5 +96,28 @@
   "resenaExtensa": [
     "Davis llegó a las dos sesiones de marzo y abril de 1959 con apenas unos bocetos: escalas y climas, no canciones terminadas. Con él estaban John Coltrane, Cannonball Adderley, Bill Evans (Wynton Kelly en \"Freddie Freeloader\"), Paul Chambers y Jimmy Cobb.",
     "Importa porque cambió la manera de improvisar: en vez de recorrer acordes a toda velocidad, como en el bebop, cada músico se queda en un modo y construye una melodía. Coltrane y Evans tomaron caminos muy distintos a partir de esta idea."
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
+      "duracion": 548
+    },
+    {
+      "titulo": "Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers)",
+      "duracion": 588
+    },
+    {
+      "titulo": "Blue in Green (feat. John Coltrane & Bill Evans)",
+      "duracion": 336
+    },
+    {
+      "titulo": "All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
+      "duracion": 693
+    },
+    {
+      "titulo": "Flamenco Sketches (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
+      "duracion": 561
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -59,5 +59,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Ll#10",
+      "duracion": 389
+    },
+    {
+      "titulo": "Doppelgänger",
+      "duracion": 286
+    },
+    {
+      "titulo": "La orilla de tu cielo",
+      "duracion": 298
+    },
+    {
+      "titulo": "Modos de existencia",
+      "duracion": 406
+    },
+    {
+      "titulo": "Mi diez",
+      "duracion": 420
+    },
+    {
+      "titulo": "La mirada detenida",
+      "duracion": 378
+    },
+    {
+      "titulo": "Ta ta ta",
+      "duracion": 271
+    },
+    {
+      "titulo": "La mirada detenida - Versión alternativa",
+      "duracion": 350
+    }
+  ],
+  "temasFuente": "Spotify"
 }

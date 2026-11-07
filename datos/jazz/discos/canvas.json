@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Rise And Shine",
+      "duracion": 460
+    },
+    {
+      "titulo": "Canvas",
+      "duracion": 600
+    },
+    {
+      "titulo": "Portrait Of An Angel",
+      "duracion": 327
+    },
+    {
+      "titulo": "Enoch's Meditation",
+      "duracion": 495
+    },
+    {
+      "titulo": "Centelude",
+      "duracion": 68
+    },
+    {
+      "titulo": "Jelly's Da Beener",
+      "duracion": 468
+    },
+    {
+      "titulo": "Chant",
+      "duracion": 499
+    },
+    {
+      "titulo": "Riot",
+      "duracion": 382
+    },
+    {
+      "titulo": "North Portland",
+      "duracion": 353
+    },
+    {
+      "titulo": "I Remember",
+      "duracion": 359
+    }
+  ],
+  "temasFuente": "Spotify"
 }

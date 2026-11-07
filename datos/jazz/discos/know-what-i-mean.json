@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": "Know_What_I_Mean%3F"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Waltz For Debby",
+      "duracion": 312
+    },
+    {
+      "titulo": "Goodbye",
+      "duracion": 374
+    },
+    {
+      "titulo": "Who Cares? - Take 5",
+      "duracion": 356
+    },
+    {
+      "titulo": "Who Cares? - (Take 4)",
+      "duracion": 356
+    },
+    {
+      "titulo": "Venice",
+      "duracion": 173
+    },
+    {
+      "titulo": "Toy",
+      "duracion": 307
+    },
+    {
+      "titulo": "Elsa",
+      "duracion": 350
+    },
+    {
+      "titulo": "Nancy (With The Laughing Face)",
+      "duracion": 245
+    },
+    {
+      "titulo": "Know What I Mean? - Re-take 7",
+      "duracion": 293
+    },
+    {
+      "titulo": "Know What I Mean? - (Take 12)",
+      "duracion": 422
+    }
+  ],
+  "temasFuente": "Spotify"
 }

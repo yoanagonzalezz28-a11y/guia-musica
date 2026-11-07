@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Peace One",
+      "duracion": 438
+    },
+    {
+      "titulo": "Peace Two",
+      "duracion": 735
+    },
+    {
+      "titulo": "Goodbye Pork Pie Hat",
+      "duracion": 200
+    },
+    {
+      "titulo": "Something Spiritual",
+      "duracion": 209
+    },
+    {
+      "titulo": "Hearts and Flowers",
+      "duracion": 131
+    },
+    {
+      "titulo": "Phillip Lane",
+      "duracion": 157
+    },
+    {
+      "titulo": "Waltz For Bill Evans",
+      "duracion": 121
+    },
+    {
+      "titulo": "Follow Your Heart",
+      "duracion": 199
+    },
+    {
+      "titulo": "Song For My Mother",
+      "duracion": 154
+    },
+    {
+      "titulo": "Blue In Green",
+      "duracion": 158
+    }
+  ],
+  "temasFuente": "Spotify"
 }

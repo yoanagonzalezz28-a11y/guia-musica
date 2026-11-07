@@ -54,5 +54,36 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Stardust - Remastered",
+      "duracion": 379
+    },
+    {
+      "titulo": "Cry Me a River - Remastered",
+      "duracion": 251
+    },
+    {
+      "titulo": "For Heavens Sake - Remastered",
+      "duracion": 467
+    },
+    {
+      "titulo": "Greensleaves - Remastered",
+      "duracion": 141
+    },
+    {
+      "titulo": "My Romance - Remastered",
+      "duracion": 512
+    },
+    {
+      "titulo": "Willow Weep for Me - Remastered",
+      "duracion": 315
+    },
+    {
+      "titulo": "Old Folks - Remastered",
+      "duracion": 446
+    }
+  ],
+  "temasFuente": "Spotify"
 }

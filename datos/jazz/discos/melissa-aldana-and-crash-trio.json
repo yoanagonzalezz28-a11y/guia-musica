@@ -52,5 +52,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "M&M",
+      "duracion": 298
+    },
+    {
+      "titulo": "Turning",
+      "duracion": 345
+    },
+    {
+      "titulo": "You'e My Everything",
+      "duracion": 334
+    },
+    {
+      "titulo": "Bring Him Home",
+      "duracion": 310
+    },
+    {
+      "titulo": "Tirapi'",
+      "duracion": 369
+    },
+    {
+      "titulo": "Peace, Love & Music",
+      "duracion": 350
+    },
+    {
+      "titulo": "Perd'n",
+      "duracion": 260
+    },
+    {
+      "titulo": "New Points",
+      "duracion": 399
+    },
+    {
+      "titulo": "Dear Joe",
+      "duracion": 237
+    },
+    {
+      "titulo": "Ask Me Now",
+      "duracion": 255
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -75,5 +75,36 @@
       "acceso": "extracto",
       "aporta": "Integra desde 2005 el registro de preservación de la Biblioteca del Congreso."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Blue Rondo à la Turk",
+      "duracion": 404
+    },
+    {
+      "titulo": "Strange Meadow Lark",
+      "duracion": 442
+    },
+    {
+      "titulo": "Take Five",
+      "duracion": 324
+    },
+    {
+      "titulo": "Three to Get Ready",
+      "duracion": 324
+    },
+    {
+      "titulo": "Kathy's Waltz",
+      "duracion": 288
+    },
+    {
+      "titulo": "Everybody's Jumpin'",
+      "duracion": 263
+    },
+    {
+      "titulo": "Pick up Sticks",
+      "duracion": 256
+    }
+  ],
+  "temasFuente": "Spotify"
 }

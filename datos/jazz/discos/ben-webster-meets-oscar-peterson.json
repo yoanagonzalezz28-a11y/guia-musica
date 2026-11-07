@@ -54,5 +54,36 @@
     "wikidata": null,
     "wikipedia": "Ben_Webster_Meets_Oscar_Peterson"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "The Touch Of Your Lips",
+      "duracion": 377
+    },
+    {
+      "titulo": "When Your Lover Has Gone",
+      "duracion": 237
+    },
+    {
+      "titulo": "Bye Bye Blackbird",
+      "duracion": 403
+    },
+    {
+      "titulo": "How Deep Is The Ocean (How High Is The Sky)",
+      "duracion": 153
+    },
+    {
+      "titulo": "In The Wee Small Hours Of The Morning",
+      "duracion": 191
+    },
+    {
+      "titulo": "Sunday",
+      "duracion": 235
+    },
+    {
+      "titulo": "This Can't Be Love",
+      "duracion": 591
+    }
+  ],
+  "temasFuente": "Spotify"
 }

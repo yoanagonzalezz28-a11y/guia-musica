@@ -91,5 +91,60 @@
       "acceso": "completa",
       "aporta": "Ante otro disco suyo, Double Booked (2009), Butcher Brown lo reconoce enseguida: \"It was a big deal when this went public\"."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Lift Off / Mic Check",
+      "duracion": 237
+    },
+    {
+      "titulo": "Afro Blue",
+      "duracion": 308
+    },
+    {
+      "titulo": "Cherish The Day",
+      "duracion": 352
+    },
+    {
+      "titulo": "Always Shine",
+      "duracion": 322
+    },
+    {
+      "titulo": "Gonna Be Alright (F.T.B.)",
+      "duracion": 370
+    },
+    {
+      "titulo": "Move Love",
+      "duracion": 198
+    },
+    {
+      "titulo": "Ah Yeah",
+      "duracion": 309
+    },
+    {
+      "titulo": "The Consequences Of Jealousy",
+      "duracion": 367
+    },
+    {
+      "titulo": "Why Do We Try",
+      "duracion": 392
+    },
+    {
+      "titulo": "Black Radio",
+      "duracion": 326
+    },
+    {
+      "titulo": "Letter To Hermione",
+      "duracion": 292
+    },
+    {
+      "titulo": "Smells Like Teen Spirit - Bonus Track",
+      "duracion": 445
+    },
+    {
+      "titulo": "Twice - Bonus Track",
+      "duracion": 331
+    }
+  ],
+  "temasFuente": "Spotify"
 }

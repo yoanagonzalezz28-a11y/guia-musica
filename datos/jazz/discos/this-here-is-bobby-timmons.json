@@ -54,5 +54,44 @@
     "wikidata": null,
     "wikipedia": "This_Here_Is_Bobby_Timmons"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "This Here",
+      "duracion": 205
+    },
+    {
+      "titulo": "Moanin'",
+      "duracion": 302
+    },
+    {
+      "titulo": "Lush Life",
+      "duracion": 141
+    },
+    {
+      "titulo": "The Party's Over",
+      "duracion": 249
+    },
+    {
+      "titulo": "Prelude To A Kiss",
+      "duracion": 199
+    },
+    {
+      "titulo": "Dat Dere",
+      "duracion": 321
+    },
+    {
+      "titulo": "My Funny Valentine",
+      "duracion": 303
+    },
+    {
+      "titulo": "Come Rain Or Come Shine",
+      "duracion": 268
+    },
+    {
+      "titulo": "Joy Ride",
+      "duracion": 237
+    }
+  ],
+  "temasFuente": "Spotify"
 }

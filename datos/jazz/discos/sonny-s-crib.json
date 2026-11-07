@@ -54,5 +54,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "With A Song In My Heart - Remastered 1998",
+      "duracion": 475
+    },
+    {
+      "titulo": "Speak Low - Remastered 1998",
+      "duracion": 411
+    },
+    {
+      "titulo": "Come Rain Or Come Shine - Remastered 1998",
+      "duracion": 449
+    },
+    {
+      "titulo": "Sonny's Crib - Remastered 1998",
+      "duracion": 811
+    },
+    {
+      "titulo": "News For Lulu - Remastered 1998",
+      "duracion": 515
+    },
+    {
+      "titulo": "With A Song in My Heart - Alternate Take / Remastered 1998",
+      "duracion": 528
+    },
+    {
+      "titulo": "Speak Low - Remastered",
+      "duracion": 418
+    },
+    {
+      "titulo": "Sonny's Crib - Alternate Take / Remastered 1998",
+      "duracion": 593
+    }
+  ],
+  "temasFuente": "Spotify"
 }

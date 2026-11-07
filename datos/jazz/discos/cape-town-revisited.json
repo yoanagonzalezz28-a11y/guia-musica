@@ -54,5 +54,68 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Damara Blue",
+      "duracion": 246
+    },
+    {
+      "titulo": "Someday Soon Sweet Samba",
+      "duracion": 286
+    },
+    {
+      "titulo": "Cape Town To Congo Square 1: African Street Parade",
+      "duracion": 456
+    },
+    {
+      "titulo": "Cape Town To Congo Square 2: District Six Carnival",
+      "duracion": 124
+    },
+    {
+      "titulo": "Song For Sathima",
+      "duracion": 207
+    },
+    {
+      "titulo": "Cape Town To Congo Square 3: Too-Kah",
+      "duracion": 120
+    },
+    {
+      "titulo": "Tintinyana",
+      "duracion": 227
+    },
+    {
+      "titulo": "Tuang Guru",
+      "duracion": 376
+    },
+    {
+      "titulo": "Eleventh Hour",
+      "duracion": 236
+    },
+    {
+      "titulo": "Water From An Ancient Well",
+      "duracion": 342
+    },
+    {
+      "titulo": "Tsakwe / Royal Blue",
+      "duracion": 200
+    },
+    {
+      "titulo": "Soweto",
+      "duracion": 248
+    },
+    {
+      "titulo": "The Mountain",
+      "duracion": 137
+    },
+    {
+      "titulo": "The Wedding",
+      "duracion": 132
+    },
+    {
+      "titulo": "Barakaat (The Blessing)",
+      "duracion": 181
+    }
+  ],
+  "temasFuente": "Spotify"
 }

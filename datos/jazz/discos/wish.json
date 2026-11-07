@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Turnaround",
+      "duracion": 385
+    },
+    {
+      "titulo": "Soul Dance",
+      "duracion": 393
+    },
+    {
+      "titulo": "Make Sure You're Sure",
+      "duracion": 326
+    },
+    {
+      "titulo": "The Deserving Many",
+      "duracion": 340
+    },
+    {
+      "titulo": "We Had a Sister",
+      "duracion": 347
+    },
+    {
+      "titulo": "Moose the Mooche",
+      "duracion": 212
+    },
+    {
+      "titulo": "Tears in Heaven",
+      "duracion": 202
+    },
+    {
+      "titulo": "Whittlin'",
+      "duracion": 323
+    },
+    {
+      "titulo": "Wish - Live",
+      "duracion": 445
+    },
+    {
+      "titulo": "Blues for Pat - Live",
+      "duracion": 727
+    }
+  ],
+  "temasFuente": "Spotify"
 }

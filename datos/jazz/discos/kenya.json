@@ -106,5 +106,56 @@
       "acceso": "completa",
       "aporta": "Chick Corea recuerda cómo iba del Birdland al Palladium a escuchar a Tito Puente: \"Machito used to work there, too\"."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Wild Jungle - 2000 Remaster",
+      "duracion": 168
+    },
+    {
+      "titulo": "Congo Mulence - 2000 Remaster",
+      "duracion": 177
+    },
+    {
+      "titulo": "Kenya - 2000 Remaster",
+      "duracion": 209
+    },
+    {
+      "titulo": "Oyeme - 2000 Remaster",
+      "duracion": 194
+    },
+    {
+      "titulo": "Holiday - 2000 Remaster",
+      "duracion": 169
+    },
+    {
+      "titulo": "Cannonology - 2000 Remaster",
+      "duracion": 152
+    },
+    {
+      "titulo": "Frenzy - 2000 Remaster",
+      "duracion": 163
+    },
+    {
+      "titulo": "Blues a La Machito - 2000 Remaster",
+      "duracion": 183
+    },
+    {
+      "titulo": "Conversation - 2000 Remaster",
+      "duracion": 178
+    },
+    {
+      "titulo": "Tin Tin Deo - 2000 Remaster",
+      "duracion": 177
+    },
+    {
+      "titulo": "Minor Rama - 2000 Remaster",
+      "duracion": 183
+    },
+    {
+      "titulo": "Tururato - 2000 Remaster",
+      "duracion": 191
+    }
+  ],
+  "temasFuente": "Spotify"
 }

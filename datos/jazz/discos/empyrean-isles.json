@@ -54,5 +54,32 @@
     "wikidata": null,
     "wikipedia": "Empyrean_Isles"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "One Finger Snap - Remastered",
+      "duracion": 441
+    },
+    {
+      "titulo": "Oliloqui Valley - Remastered",
+      "duracion": 511
+    },
+    {
+      "titulo": "Cantaloupe Island - Remastered 1999/Rudy Van Gelder Edition",
+      "duracion": 334
+    },
+    {
+      "titulo": "The Egg - Remastered",
+      "duracion": 841
+    },
+    {
+      "titulo": "One Finger Snap - Alternate Take / Remastered",
+      "duracion": 457
+    },
+    {
+      "titulo": "Oliloqui Valley - Alternate Take / Remastered",
+      "duracion": 647
+    }
+  ],
+  "temasFuente": "Spotify"
 }

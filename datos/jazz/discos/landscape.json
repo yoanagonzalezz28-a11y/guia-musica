@@ -54,5 +54,36 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Hush-a-Bye",
+      "duracion": 457
+    },
+    {
+      "titulo": "Spring Is Here",
+      "duracion": 488
+    },
+    {
+      "titulo": "Kojo No Tsuki",
+      "duracion": 518
+    },
+    {
+      "titulo": "Ringo Oiwake",
+      "duracion": 360
+    },
+    {
+      "titulo": "Calypso",
+      "duracion": 277
+    },
+    {
+      "titulo": "Dear Old Stockholm",
+      "duracion": 358
+    },
+    {
+      "titulo": "Sunset",
+      "duracion": 356
+    }
+  ],
+  "temasFuente": "Spotify"
 }

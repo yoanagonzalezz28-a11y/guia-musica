@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "The Garden",
+      "duracion": 438
+    },
+    {
+      "titulo": "Born to Trouble",
+      "duracion": 241
+    },
+    {
+      "titulo": "Striving After Wind",
+      "duracion": 279
+    },
+    {
+      "titulo": "O Ephraim",
+      "duracion": 322
+    },
+    {
+      "titulo": "St. Mark Is Howling in the City of Night",
+      "duracion": 380
+    },
+    {
+      "titulo": "The Prophet is a Fool",
+      "duracion": 408
+    },
+    {
+      "titulo": "Make It All Go Away",
+      "duracion": 272
+    },
+    {
+      "titulo": "Deep Water",
+      "duracion": 313
+    },
+    {
+      "titulo": "Proverb of Ashes",
+      "duracion": 258
+    },
+    {
+      "titulo": "Finding Gabriel",
+      "duracion": 426
+    }
+  ],
+  "temasFuente": "Spotify"
 }

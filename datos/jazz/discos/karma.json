@@ -101,5 +101,16 @@
       "acceso": "indirecta",
       "aporta": "Jazzwise lo cuenta entre los \"100 Jazz Albums That Shook The World\", y Pitchfork lo ubica entre los grandes discos de los 60."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "The Creator Has A Master Plan",
+      "duracion": 1967
+    },
+    {
+      "titulo": "Colors",
+      "duracion": 338
+    }
+  ],
+  "temasFuente": "Spotify"
 }

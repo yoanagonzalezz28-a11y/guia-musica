@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Confession",
+      "duracion": 32
+    },
+    {
+      "titulo": "Sleeping Giant",
+      "duracion": 423
+    },
+    {
+      "titulo": "Braves One",
+      "duracion": 598
+    },
+    {
+      "titulo": "Painting",
+      "duracion": 303
+    },
+    {
+      "titulo": "Silent Voice",
+      "duracion": 320
+    },
+    {
+      "titulo": "Angelo",
+      "duracion": 268
+    },
+    {
+      "titulo": "Lethal Athlete",
+      "duracion": 174
+    },
+    {
+      "titulo": "The Flying Shepherd",
+      "duracion": 300
+    },
+    {
+      "titulo": "Kalimankou Denkou",
+      "duracion": 297
+    },
+    {
+      "titulo": "One for AC",
+      "duracion": 694
+    }
+  ],
+  "temasFuente": "Spotify"
 }

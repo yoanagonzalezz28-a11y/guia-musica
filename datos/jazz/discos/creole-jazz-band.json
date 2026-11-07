@@ -92,5 +92,68 @@
       "acceso": "completa",
       "aporta": "Reconstruye a Oliver como pionero del uso de sordinas y mentor de Armstrong."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Snake Rag - Remastered",
+      "duracion": 199
+    },
+    {
+      "titulo": "Sweet Lovin' Man - Remastered",
+      "duracion": 166
+    },
+    {
+      "titulo": "High Society Rag - Remastered",
+      "duracion": 180
+    },
+    {
+      "titulo": "Sobbin' Blues - Remastered",
+      "duracion": 192
+    },
+    {
+      "titulo": "Where Did You Stay Last Night - Remastered",
+      "duracion": 152
+    },
+    {
+      "titulo": "Dipper Mouth Blues - Remastered",
+      "duracion": 138
+    },
+    {
+      "titulo": "Jazzin' Babies Blues - Remastered",
+      "duracion": 180
+    },
+    {
+      "titulo": "Buddy's Habits - Remastered",
+      "duracion": 185
+    },
+    {
+      "titulo": "Tears - Remastered",
+      "duracion": 192
+    },
+    {
+      "titulo": "I Ain't Gonna Tell Nobody - Remastered",
+      "duracion": 195
+    },
+    {
+      "titulo": "Room Rent Blues - Remastered",
+      "duracion": 171
+    },
+    {
+      "titulo": "Riverside Blues - Remastered",
+      "duracion": 173
+    },
+    {
+      "titulo": "Sweet Baby Doll - Remastered",
+      "duracion": 177
+    },
+    {
+      "titulo": "Workin' Man Blues - Remastered",
+      "duracion": 178
+    },
+    {
+      "titulo": "Mabel's Dream - Remastered",
+      "duracion": 166
+    }
+  ],
+  "temasFuente": "Spotify"
 }

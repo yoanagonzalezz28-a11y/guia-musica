@@ -54,5 +54,36 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Asiko",
+      "duracion": 476
+    },
+    {
+      "titulo": "Get Together",
+      "duracion": 355
+    },
+    {
+      "titulo": "Black Voices - Wawwp Mix",
+      "duracion": 455
+    },
+    {
+      "titulo": "The Same Blood",
+      "duracion": 492
+    },
+    {
+      "titulo": "Asiko - In A Silent Mix",
+      "duracion": 569
+    },
+    {
+      "titulo": "Black Voices",
+      "duracion": 349
+    },
+    {
+      "titulo": "Ariya",
+      "duracion": 422
+    }
+  ],
+  "temasFuente": "Spotify"
 }

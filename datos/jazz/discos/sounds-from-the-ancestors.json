@@ -54,5 +54,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "It’s Time to Come Home",
+      "duracion": 589
+    },
+    {
+      "titulo": "Hargrove",
+      "duracion": 314
+    },
+    {
+      "titulo": "When the Days Were Different",
+      "duracion": 488
+    },
+    {
+      "titulo": "For Art’s Sake",
+      "duracion": 485
+    },
+    {
+      "titulo": "What Was That?",
+      "duracion": 512
+    },
+    {
+      "titulo": "Soldiers of the Fields / Soldats des Champs",
+      "duracion": 655
+    },
+    {
+      "titulo": "Sounds from the Ancestors",
+      "duracion": 430
+    },
+    {
+      "titulo": "It’s Time to Come Home - Original",
+      "duracion": 587
+    }
+  ],
+  "temasFuente": "Spotify"
 }

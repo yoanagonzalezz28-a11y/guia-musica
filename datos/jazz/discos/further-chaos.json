@@ -59,5 +59,32 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Seoul Crushing",
+      "duracion": 478
+    },
+    {
+      "titulo": "Toe Stepping Waltz",
+      "duracion": 375
+    },
+    {
+      "titulo": "The Hunting",
+      "duracion": 332
+    },
+    {
+      "titulo": "A Part of the View",
+      "duracion": 468
+    },
+    {
+      "titulo": "Teen Town",
+      "duracion": 351
+    },
+    {
+      "titulo": "Body and Soul",
+      "duracion": 378
+    }
+  ],
+  "temasFuente": "Spotify"
 }

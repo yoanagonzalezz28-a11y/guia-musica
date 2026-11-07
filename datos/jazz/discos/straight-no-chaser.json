@@ -54,5 +54,44 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Locomotive",
+      "duracion": 400
+    },
+    {
+      "titulo": "I Didn't Know About You",
+      "duracion": 413
+    },
+    {
+      "titulo": "Straight, No Chaser",
+      "duracion": 689
+    },
+    {
+      "titulo": "Japanese Folk Song",
+      "duracion": 1003
+    },
+    {
+      "titulo": "Between the Devil and the Deep Blue Sea",
+      "duracion": 457
+    },
+    {
+      "titulo": "We See",
+      "duracion": 698
+    },
+    {
+      "titulo": "This Is My Story, This Is My Song",
+      "duracion": 102
+    },
+    {
+      "titulo": "I Didn't Know About You - take 1",
+      "duracion": 410
+    },
+    {
+      "titulo": "Green Chimneys",
+      "duracion": 393
+    }
+  ],
+  "temasFuente": "Spotify"
 }

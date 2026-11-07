@@ -76,5 +76,20 @@
       "acceso": "completa",
       "aporta": "Ethan Iverson analiza la revolución de McCoy Tyner en el piano, clave de este grupo."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "A Love Supreme Part I: Acknowledgement",
+      "duracion": 470
+    },
+    {
+      "titulo": "A Love Supreme Part II - Resolution",
+      "duracion": 443
+    },
+    {
+      "titulo": "A Love Supreme, Part III: Pursuance",
+      "duracion": 1074
+    }
+  ],
+  "temasFuente": "Spotify"
 }

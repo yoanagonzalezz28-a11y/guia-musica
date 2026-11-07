@@ -80,5 +80,24 @@
       "acceso": "completa",
       "aporta": "Ante otro tema de Hancock, de 1975: \"If this isn't Herbie, this is someone who loves Herbie\"."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Chameleon",
+      "duracion": 945
+    },
+    {
+      "titulo": "Watermelon Man",
+      "duracion": 390
+    },
+    {
+      "titulo": "Sly",
+      "duracion": 621
+    },
+    {
+      "titulo": "Vein Melter",
+      "duracion": 549
+    }
+  ],
+  "temasFuente": "Spotify"
 }

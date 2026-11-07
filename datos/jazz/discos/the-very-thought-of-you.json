@@ -54,5 +54,72 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "The Very Thought Of You",
+      "duracion": 229
+    },
+    {
+      "titulo": "But Beautiful",
+      "duracion": 207
+    },
+    {
+      "titulo": "Impossible",
+      "duracion": 189
+    },
+    {
+      "titulo": "I Wish I Knew The Way To Your Heart (Notorious)",
+      "duracion": 194
+    },
+    {
+      "titulo": "I Found A Million Dollar Baby (In A Five And Ten Cent Store)",
+      "duracion": 170
+    },
+    {
+      "titulo": "Magnificent Obsession",
+      "duracion": 234
+    },
+    {
+      "titulo": "My Heart Tells Me (Should I Believe My Heart?)",
+      "duracion": 252
+    },
+    {
+      "titulo": "Paradise",
+      "duracion": 193
+    },
+    {
+      "titulo": "This Is All I Ask",
+      "duracion": 270
+    },
+    {
+      "titulo": "Cherie, I Love You",
+      "duracion": 210
+    },
+    {
+      "titulo": "Making Believe You're Here",
+      "duracion": 219
+    },
+    {
+      "titulo": "Cherchez La Femme",
+      "duracion": 159
+    },
+    {
+      "titulo": "For All We Know",
+      "duracion": 196
+    },
+    {
+      "titulo": "The More I See You",
+      "duracion": 206
+    },
+    {
+      "titulo": "Don't Blame Me",
+      "duracion": 236
+    },
+    {
+      "titulo": "There Is No Greater Love",
+      "duracion": 184
+    }
+  ],
+  "temasFuente": "Spotify"
 }

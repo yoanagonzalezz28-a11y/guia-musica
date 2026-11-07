@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Unonkanyamba",
+      "duracion": 551
+    },
+    {
+      "titulo": "Mama",
+      "duracion": 421
+    },
+    {
+      "titulo": "Amathongo",
+      "duracion": 386
+    },
+    {
+      "titulo": "Nyonini Le?",
+      "duracion": 363
+    },
+    {
+      "titulo": "Emlilweni",
+      "duracion": 394
+    },
+    {
+      "titulo": "Re-Amathambo",
+      "duracion": 423
+    },
+    {
+      "titulo": "Abantwana Belanga",
+      "duracion": 413
+    },
+    {
+      "titulo": "Omnyama",
+      "duracion": 513
+    },
+    {
+      "titulo": "Senze' Nina",
+      "duracion": 349
+    },
+    {
+      "titulo": "Ntu",
+      "duracion": 286
+    }
+  ],
+  "temasFuente": "Spotify"
 }

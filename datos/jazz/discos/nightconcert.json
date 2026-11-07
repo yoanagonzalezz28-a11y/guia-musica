@@ -54,5 +54,72 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Where or When",
+      "duracion": 258
+    },
+    {
+      "titulo": "Easy to Love",
+      "duracion": 261
+    },
+    {
+      "titulo": "On Green Dolphin Street",
+      "duracion": 288
+    },
+    {
+      "titulo": "Theme from \"A New Kind of Love\" (All Yours)",
+      "duracion": 338
+    },
+    {
+      "titulo": "Night and Day",
+      "duracion": 293
+    },
+    {
+      "titulo": "Cheek to Cheek",
+      "duracion": 329
+    },
+    {
+      "titulo": "My Funny Valentine",
+      "duracion": 500
+    },
+    {
+      "titulo": "Gypsy in My Soul",
+      "duracion": 324
+    },
+    {
+      "titulo": "That Amsterdam Swing",
+      "duracion": 368
+    },
+    {
+      "titulo": "Over the Rainbow",
+      "duracion": 300
+    },
+    {
+      "titulo": "What is This Thing Called Love",
+      "duracion": 286
+    },
+    {
+      "titulo": "Laura",
+      "duracion": 321
+    },
+    {
+      "titulo": "When Your Lover Has Gone",
+      "duracion": 277
+    },
+    {
+      "titulo": "No More Shadows",
+      "duracion": 334
+    },
+    {
+      "titulo": "'S Wonderful",
+      "duracion": 256
+    },
+    {
+      "titulo": "Thanks for the Memory",
+      "duracion": 54
+    }
+  ],
+  "temasFuente": "Spotify"
 }

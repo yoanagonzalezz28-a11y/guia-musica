@@ -54,5 +54,52 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Birds Canticum \"Birds Requiem\" Suite",
+      "duracion": 196
+    },
+    {
+      "titulo": "Sweet Blasphemy",
+      "duracion": 364
+    },
+    {
+      "titulo": "Blending Souls & Shades (To Shiraz)",
+      "duracion": 570
+    },
+    {
+      "titulo": "Ascetic Mood",
+      "duracion": 340
+    },
+    {
+      "titulo": "Fuga Hirundinum \"Birds Requiem\" Suite",
+      "duracion": 259
+    },
+    {
+      "titulo": "Khira \"Indicium Divinum\" Elegy for My Mother",
+      "duracion": 236
+    },
+    {
+      "titulo": "39th Gülay (To Istanbul)",
+      "duracion": 409
+    },
+    {
+      "titulo": "Archaic Feathers \"Birds Requiem\" Suite",
+      "duracion": 180
+    },
+    {
+      "titulo": "Sevdah (To Jon Hassell)",
+      "duracion": 480
+    },
+    {
+      "titulo": "Ascetic Journey",
+      "duracion": 541
+    },
+    {
+      "titulo": "Whirling Birds Ceremony \"Birds Requiem\" Suite",
+      "duracion": 286
+    }
+  ],
+  "temasFuente": "Spotify"
 }

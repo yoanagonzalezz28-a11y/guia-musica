@@ -54,5 +54,24 @@
     "wikidata": null,
     "wikipedia": "Una_Mas"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Una Mas (One More Time) - Remasted 1998/ Rudy Van Gelder Edition",
+      "duracion": 920
+    },
+    {
+      "titulo": "Straight Ahead - Remasted 1998/ Rudy Van Gelder Edition",
+      "duracion": 539
+    },
+    {
+      "titulo": "Sao Paulo - Remastered",
+      "duracion": 440
+    },
+    {
+      "titulo": "If Ever I Would Leave You - Remasted 1998/ Rudy Van Gelder Edition",
+      "duracion": 309
+    }
+  ],
+  "temasFuente": "Spotify"
 }

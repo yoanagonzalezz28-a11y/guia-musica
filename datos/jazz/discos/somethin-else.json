@@ -87,5 +87,32 @@
       "acceso": "completa",
       "aporta": "En otra grabación de Adderley, el baterista Willie Jones III lo reconoce sin ver la tapa en su Blindfold Test."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Autumn Leaves",
+      "duracion": 660
+    },
+    {
+      "titulo": "Love For Sale",
+      "duracion": 425
+    },
+    {
+      "titulo": "Somethin' Else",
+      "duracion": 494
+    },
+    {
+      "titulo": "One For Daddy-O",
+      "duracion": 505
+    },
+    {
+      "titulo": "Dancing In The Dark",
+      "duracion": 247
+    },
+    {
+      "titulo": "Bangoon (aka Alison's Uncle)",
+      "duracion": 309
+    }
+  ],
+  "temasFuente": "Spotify"
 }

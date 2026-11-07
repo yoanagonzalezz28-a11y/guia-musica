@@ -138,5 +138,52 @@
   "resenaExtensa": [
     "Las grabaciones salieron primero como simples y recién en 1957 se juntaron en un LP. Los arreglos son de Gil Evans, Gerry Mulligan y John Lewis, y entre los músicos están Lee Konitz, J. J. Johnson y Max Roach.",
     "Fue la respuesta más clara al vértigo del bebop: tempos medios, timbres oscuros y mucha escritura. De acá sale buena parte del cool de la costa oeste."
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Move",
+      "duracion": 154
+    },
+    {
+      "titulo": "Jeru",
+      "duracion": 194
+    },
+    {
+      "titulo": "Moon Dreams",
+      "duracion": 200
+    },
+    {
+      "titulo": "Venus De Milo",
+      "duracion": 193
+    },
+    {
+      "titulo": "Budo",
+      "duracion": 156
+    },
+    {
+      "titulo": "Deception",
+      "duracion": 169
+    },
+    {
+      "titulo": "Godchild",
+      "duracion": 190
+    },
+    {
+      "titulo": "Boplicity",
+      "duracion": 182
+    },
+    {
+      "titulo": "Rocker",
+      "duracion": 187
+    },
+    {
+      "titulo": "Israel",
+      "duracion": 138
+    },
+    {
+      "titulo": "Rouge",
+      "duracion": 196
+    }
+  ],
+  "temasFuente": "Spotify"
 }

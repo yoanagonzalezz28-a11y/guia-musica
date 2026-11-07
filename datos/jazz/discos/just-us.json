@@ -54,5 +54,36 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Down Home (Remastered)",
+      "duracion": 451
+    },
+    {
+      "titulo": "Sweet and Lovely (Remastered)",
+      "duracion": 422
+    },
+    {
+      "titulo": "As Long as There's Music (Remastered)",
+      "duracion": 227
+    },
+    {
+      "titulo": "Well Now (Remastered)",
+      "duracion": 121
+    },
+    {
+      "titulo": "Cymbalism (Remastered)",
+      "duracion": 424
+    },
+    {
+      "titulo": "Con Alma (Remastered)",
+      "duracion": 395
+    },
+    {
+      "titulo": "Speak Low (Remastered)",
+      "duracion": 428
+    }
+  ],
+  "temasFuente": "Spotify"
 }

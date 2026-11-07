@@ -54,5 +54,92 @@
     "wikidata": null,
     "wikipedia": "Solo_Monk"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Dinah (Take 2)",
+      "duracion": 149
+    },
+    {
+      "titulo": "I Surrender, Dear",
+      "duracion": 225
+    },
+    {
+      "titulo": "Sweet And Lovely (Take 2)",
+      "duracion": 181
+    },
+    {
+      "titulo": "North Of The Sunset",
+      "duracion": 113
+    },
+    {
+      "titulo": "Ruby, My Dear",
+      "duracion": 340
+    },
+    {
+      "titulo": "I'm Confessin' (That I Love You)",
+      "duracion": 157
+    },
+    {
+      "titulo": "I Hadn't Anyone Till You",
+      "duracion": 199
+    },
+    {
+      "titulo": "Everything Happens To Me (Take 3)",
+      "duracion": 210
+    },
+    {
+      "titulo": "Monk's Point",
+      "duracion": 138
+    },
+    {
+      "titulo": "I Should Care",
+      "duracion": 117
+    },
+    {
+      "titulo": "Ask Me Now",
+      "duracion": 278
+    },
+    {
+      "titulo": "These Foolish Things (Remind Me Of You)",
+      "duracion": 214
+    },
+    {
+      "titulo": "Introspection",
+      "duracion": 132
+    },
+    {
+      "titulo": "Darn That Dream",
+      "duracion": 219
+    },
+    {
+      "titulo": "Dinah (Take 1)",
+      "duracion": 143
+    },
+    {
+      "titulo": "Sweet And Lovely (Take 1)",
+      "duracion": 197
+    },
+    {
+      "titulo": "Ruby, My Dear (Take 1)",
+      "duracion": 285
+    },
+    {
+      "titulo": "I'm Confessin' (That I Love You) (Take 1)",
+      "duracion": 161
+    },
+    {
+      "titulo": "I Hadn't Anyone Till You (Take 2)",
+      "duracion": 198
+    },
+    {
+      "titulo": "Everything Happens To Me (Re-Take 1)",
+      "duracion": 318
+    },
+    {
+      "titulo": "Ask Me Now (Take 1)",
+      "duracion": 224
+    }
+  ],
+  "temasFuente": "Spotify"
 }

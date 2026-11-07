@@ -52,5 +52,44 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "When the World Was One",
+      "duracion": 456
+    },
+    {
+      "titulo": "A Far Away Place",
+      "duracion": 470
+    },
+    {
+      "titulo": "Falling Water",
+      "duracion": 565
+    },
+    {
+      "titulo": "Patterns",
+      "duracion": 500
+    },
+    {
+      "titulo": "Kiyomizu-Dera",
+      "duracion": 413
+    },
+    {
+      "titulo": "Sagano Bamboo Forest",
+      "duracion": 632
+    },
+    {
+      "titulo": "Tribute to Alice Coltrane",
+      "duracion": 766
+    },
+    {
+      "titulo": "Jura - Bonus Track",
+      "duracion": 488
+    },
+    {
+      "titulo": "Tribute to Alice Coltrane (Alternate Take) - Bonus Track",
+      "duracion": 578
+    }
+  ],
+  "temasFuente": "Spotify"
 }

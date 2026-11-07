@@ -54,5 +54,32 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Siren's Song",
+      "duracion": 254
+    },
+    {
+      "titulo": "O",
+      "duracion": 409
+    },
+    {
+      "titulo": "Azimuth",
+      "duracion": 739
+    },
+    {
+      "titulo": "The Tunnel",
+      "duracion": 558
+    },
+    {
+      "titulo": "Greek Triangle",
+      "duracion": 125
+    },
+    {
+      "titulo": "Jacob",
+      "duracion": 527
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -63,5 +63,64 @@
       "acceso": "completa",
       "aporta": "Howard Mandel, en DownBeat, oye en él a Ellington, Sun Ra, James Brown y Eddie Palmieri."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Mulatu - Stereo Master",
+      "duracion": 304
+    },
+    {
+      "titulo": "Mascaram Setaba - Stereo Master",
+      "duracion": 168
+    },
+    {
+      "titulo": "Dewel - Stereo Master",
+      "duracion": 253
+    },
+    {
+      "titulo": "Kulunmanqueleshi - Stereo Master",
+      "duracion": 132
+    },
+    {
+      "titulo": "Kasalefkut-hulu - Stereo Master",
+      "duracion": 146
+    },
+    {
+      "titulo": "Munaye - Stereo Version",
+      "duracion": 213
+    },
+    {
+      "titulo": "Chifara - Stereo Master",
+      "duracion": 428
+    },
+    {
+      "titulo": "Mulatu - Mono Master",
+      "duracion": 332
+    },
+    {
+      "titulo": "Mascaram Setaba - Mono Master",
+      "duracion": 186
+    },
+    {
+      "titulo": "Dewel - Mono Master",
+      "duracion": 256
+    },
+    {
+      "titulo": "Kulunmanqueleshi - Mono Master",
+      "duracion": 132
+    },
+    {
+      "titulo": "Kasalefkut-hulu - Mono Master",
+      "duracion": 149
+    },
+    {
+      "titulo": "Munaye - Mono Master",
+      "duracion": 325
+    },
+    {
+      "titulo": "Chifara - Mono Master",
+      "duracion": 452
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -54,5 +54,32 @@
     "wikidata": null,
     "wikipedia": "Workout_(album)"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Workout - Remastered 2005",
+      "duracion": 604
+    },
+    {
+      "titulo": "Uh Huh - Remastered 2005",
+      "duracion": 648
+    },
+    {
+      "titulo": "Smokin' - Remastered 2005",
+      "duracion": 452
+    },
+    {
+      "titulo": "The Best Things In Life Are Free - Remastered 2005",
+      "duracion": 319
+    },
+    {
+      "titulo": "Greasin' Easy - Remastered 2005",
+      "duracion": 422
+    },
+    {
+      "titulo": "Three Coins In The Fountain - Remastered 2005",
+      "duracion": 326
+    }
+  ],
+  "temasFuente": "Spotify"
 }

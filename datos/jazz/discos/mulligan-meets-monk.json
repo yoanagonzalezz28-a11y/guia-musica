@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "'Round Midnight",
+      "duracion": 508
+    },
+    {
+      "titulo": "Rhythm-a-ning",
+      "duracion": 319
+    },
+    {
+      "titulo": "Sweet And Lovely",
+      "duracion": 438
+    },
+    {
+      "titulo": "Decidedly (Take 4)",
+      "duracion": 355
+    },
+    {
+      "titulo": "Straight, No Chaser (Take 3)",
+      "duracion": 419
+    },
+    {
+      "titulo": "I Mean You (Take 4)",
+      "duracion": 414
+    },
+    {
+      "titulo": "Decidedly (Take 5, Alternate)",
+      "duracion": 399
+    },
+    {
+      "titulo": "Straight, No Chaser (Take 1, Alternate)",
+      "duracion": 330
+    },
+    {
+      "titulo": "I Mean You (Take 1, Alternate)",
+      "duracion": 385
+    },
+    {
+      "titulo": "I Mean You (Take 2, Alternate)",
+      "duracion": 391
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -107,5 +107,52 @@
       "acceso": "completa",
       "aporta": "Terry Teachout: \"Pretty much all of The Atomic Mr. Basie\"."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "The Kid from Red Bank",
+      "duracion": 162
+    },
+    {
+      "titulo": "Duet",
+      "duracion": 253
+    },
+    {
+      "titulo": "After Supper",
+      "duracion": 205
+    },
+    {
+      "titulo": "Flight of the Foo Birds",
+      "duracion": 205
+    },
+    {
+      "titulo": "Double-O",
+      "duracion": 168
+    },
+    {
+      "titulo": "Teddy the Toad",
+      "duracion": 201
+    },
+    {
+      "titulo": "Whirly-Bird",
+      "duracion": 232
+    },
+    {
+      "titulo": "Midnite Blue",
+      "duracion": 269
+    },
+    {
+      "titulo": "Splanky",
+      "duracion": 217
+    },
+    {
+      "titulo": "Fantail",
+      "duracion": 177
+    },
+    {
+      "titulo": "Lil' Darlin'",
+      "duracion": 288
+    }
+  ],
+  "temasFuente": "Spotify"
 }

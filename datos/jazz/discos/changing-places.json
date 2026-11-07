@@ -54,5 +54,60 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Deep As Love",
+      "duracion": 354
+    },
+    {
+      "titulo": "Graceful Touch",
+      "duracion": 230
+    },
+    {
+      "titulo": "IGN",
+      "duracion": 274
+    },
+    {
+      "titulo": "Melted Matter",
+      "duracion": 325
+    },
+    {
+      "titulo": "At A Glance",
+      "duracion": 259
+    },
+    {
+      "titulo": "Song Of Yearning",
+      "duracion": 497
+    },
+    {
+      "titulo": "Turning Point",
+      "duracion": 348
+    },
+    {
+      "titulo": "Interlude",
+      "duracion": 62
+    },
+    {
+      "titulo": "Where Breathing Starts",
+      "duracion": 529
+    },
+    {
+      "titulo": "Going Places",
+      "duracion": 333
+    },
+    {
+      "titulo": "Your Eyes",
+      "duracion": 308
+    },
+    {
+      "titulo": "Graceful Touch - Var.",
+      "duracion": 274
+    },
+    {
+      "titulo": "Song Of Yearning - Solo",
+      "duracion": 119
+    }
+  ],
+  "temasFuente": "Spotify"
 }

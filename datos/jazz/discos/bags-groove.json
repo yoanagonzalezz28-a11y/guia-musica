@@ -59,5 +59,36 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Bags' Groove - Take 1 / RVG Remastered 2008",
+      "duracion": 675
+    },
+    {
+      "titulo": "Bags' Groove - Take 2 / RVG Remastered 2008",
+      "duracion": 562
+    },
+    {
+      "titulo": "Airegin - RVG Remastered 2008",
+      "duracion": 300
+    },
+    {
+      "titulo": "Oleo - RVG Remastered 2008",
+      "duracion": 312
+    },
+    {
+      "titulo": "But Not For Me - Take 1 / RVG Remastered 2008",
+      "duracion": 277
+    },
+    {
+      "titulo": "Doxy - RVG Remastered 2008",
+      "duracion": 294
+    },
+    {
+      "titulo": "But Not For Me - Take 2 / RVG Remastered 2008",
+      "duracion": 344
+    }
+  ],
+  "temasFuente": "Spotify"
 }

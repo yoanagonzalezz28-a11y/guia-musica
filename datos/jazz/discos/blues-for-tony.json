@@ -52,5 +52,52 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Blues For Tony",
+      "duracion": 672
+    },
+    {
+      "titulo": "The Fifth",
+      "duracion": 538
+    },
+    {
+      "titulo": "It Must Be Jazz",
+      "duracion": 518
+    },
+    {
+      "titulo": "Fred",
+      "duracion": 596
+    },
+    {
+      "titulo": "Guitar Intro",
+      "duracion": 215
+    },
+    {
+      "titulo": "Pud Wud",
+      "duracion": 599
+    },
+    {
+      "titulo": "Looking Glass",
+      "duracion": 607
+    },
+    {
+      "titulo": "To Jaki, George And Thad",
+      "duracion": 291
+    },
+    {
+      "titulo": "San Michele",
+      "duracion": 691
+    },
+    {
+      "titulo": "Protocosmos",
+      "duracion": 346
+    },
+    {
+      "titulo": "Red Alert",
+      "duracion": 350
+    }
+  ],
+  "temasFuente": "Spotify"
 }

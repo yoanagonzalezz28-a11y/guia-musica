@@ -59,5 +59,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Donde quiera que tu vayas",
+      "duracion": 90
+    },
+    {
+      "titulo": "Anaquel",
+      "duracion": 86
+    },
+    {
+      "titulo": "Cajita musical",
+      "duracion": 178
+    },
+    {
+      "titulo": "Un soliloquio",
+      "duracion": 151
+    },
+    {
+      "titulo": "La cocinera",
+      "duracion": 176
+    },
+    {
+      "titulo": "De una simple lluvia",
+      "duracion": 139
+    },
+    {
+      "titulo": "La chica de la ventana",
+      "duracion": 221
+    },
+    {
+      "titulo": "No es demasiado",
+      "duracion": 261
+    }
+  ],
+  "temasFuente": "Spotify"
 }

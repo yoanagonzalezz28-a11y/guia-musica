@@ -52,5 +52,36 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Invocation",
+      "duracion": 648
+    },
+    {
+      "titulo": "Prelude to Bach",
+      "duracion": 256
+    },
+    {
+      "titulo": "Dance of the Elders",
+      "duracion": 357
+    },
+    {
+      "titulo": "Liebeslied",
+      "duracion": 460
+    },
+    {
+      "titulo": "Folksong",
+      "duracion": 297
+    },
+    {
+      "titulo": "Cantus Bradus",
+      "duracion": 292
+    },
+    {
+      "titulo": "Amelia",
+      "duracion": 423
+    }
+  ],
+  "temasFuente": "Spotify"
 }

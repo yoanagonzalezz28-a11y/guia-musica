@@ -54,5 +54,28 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Útviklingssang",
+      "duracion": 476
+    },
+    {
+      "titulo": "Vashkar",
+      "duracion": 443
+    },
+    {
+      "titulo": "Les trois lagons (d'après Henri Matisse)",
+      "duracion": 899
+    },
+    {
+      "titulo": "Wildlife",
+      "duracion": 695
+    },
+    {
+      "titulo": "The Girl Who Cried Champagne",
+      "duracion": 865
+    }
+  ],
+  "temasFuente": "Spotify"
 }

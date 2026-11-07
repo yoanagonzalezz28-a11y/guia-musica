@@ -54,5 +54,32 @@
     "wikidata": null,
     "wikipedia": "No_Sun_in_Venice"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "The Golden Striker",
+      "duracion": 220
+    },
+    {
+      "titulo": "One Never Knows",
+      "duracion": 552
+    },
+    {
+      "titulo": "The Rose Truc",
+      "duracion": 298
+    },
+    {
+      "titulo": "Cortege",
+      "duracion": 450
+    },
+    {
+      "titulo": "Venice",
+      "duracion": 269
+    },
+    {
+      "titulo": "Three Windows",
+      "duracion": 404
+    }
+  ],
+  "temasFuente": "Spotify"
 }

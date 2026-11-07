@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Raincheck",
+      "duracion": 300
+    },
+    {
+      "titulo": "Lament",
+      "duracion": 310
+    },
+    {
+      "titulo": "Willow Weep For Me",
+      "duracion": 365
+    },
+    {
+      "titulo": "Caravan",
+      "duracion": 384
+    },
+    {
+      "titulo": "That TIred Routine Called Love",
+      "duracion": 410
+    },
+    {
+      "titulo": "Glad To Be Happy",
+      "duracion": 288
+    },
+    {
+      "titulo": "St. Louis Blues",
+      "duracion": 395
+    },
+    {
+      "titulo": "Mean Streets",
+      "duracion": 253
+    },
+    {
+      "titulo": "I'm Old Fashioned",
+      "duracion": 343
+    },
+    {
+      "titulo": "Voce Abuso",
+      "duracion": 292
+    }
+  ],
+  "temasFuente": "Spotify"
 }

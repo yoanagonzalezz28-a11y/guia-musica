@@ -59,5 +59,48 @@
     "wikidata": null,
     "wikipedia": "Undercurrent_(Bill_Evans_and_Jim_Hall_album)"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "My Funny Valentine",
+      "duracion": 324
+    },
+    {
+      "titulo": "I Hear A Rhapsody",
+      "duracion": 280
+    },
+    {
+      "titulo": "Dream Gypsy",
+      "duracion": 275
+    },
+    {
+      "titulo": "Romain",
+      "duracion": 324
+    },
+    {
+      "titulo": "Skating In Central Park",
+      "duracion": 324
+    },
+    {
+      "titulo": "Darn That Dream",
+      "duracion": 310
+    },
+    {
+      "titulo": "Stairway To The Stars",
+      "duracion": 341
+    },
+    {
+      "titulo": "I'm Gettin' Sentimental Over You",
+      "duracion": 257
+    },
+    {
+      "titulo": "My Funny Valentine - Alt. Take",
+      "duracion": 417
+    },
+    {
+      "titulo": "Romain - Alt. Take",
+      "duracion": 325
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Travelers",
+      "duracion": 335
+    },
+    {
+      "titulo": "Peaceful Warrior",
+      "duracion": 580
+    },
+    {
+      "titulo": "Nemesis",
+      "duracion": 375
+    },
+    {
+      "titulo": "Riddle Me This",
+      "duracion": 163
+    },
+    {
+      "titulo": "Into The Labyrinth",
+      "duracion": 173
+    },
+    {
+      "titulo": "Karma",
+      "duracion": 486
+    },
+    {
+      "titulo": "Roadside Distraction",
+      "duracion": 164
+    },
+    {
+      "titulo": "Harvesting Dance",
+      "duracion": 575
+    },
+    {
+      "titulo": "Praise",
+      "duracion": 284
+    },
+    {
+      "titulo": "Afterglow",
+      "duracion": 165
+    }
+  ],
+  "temasFuente": "Spotify"
 }

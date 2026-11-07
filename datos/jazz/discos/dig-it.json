@@ -54,5 +54,24 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Billie's Bounce",
+      "duracion": 563
+    },
+    {
+      "titulo": "Crazy Rhythm - Instrumental",
+      "duracion": 205
+    },
+    {
+      "titulo": "CTA - Instrumental",
+      "duracion": 280
+    },
+    {
+      "titulo": "Lazy Mae - Instrumental",
+      "duracion": 967
+    }
+  ],
+  "temasFuente": "Spotify"
 }

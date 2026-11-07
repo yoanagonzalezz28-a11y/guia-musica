@@ -110,5 +110,36 @@
   "resenaExtensa": [
     "Se grabó en tres días de agosto de 1969, con dos baterías, dos o tres teclados eléctricos, clarinete bajo y guitarra. Teo Macero cortó y pegó las tomas como si fueran cinta de un collage.",
     "Importa porque de esa sala salieron Weather Report, Return to Forever y la Mahavishnu Orchestra: medio mapa de la fusión de los 70."
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Pharaoh's Dance",
+      "duracion": 1204
+    },
+    {
+      "titulo": "Bitches Brew",
+      "duracion": 1619
+    },
+    {
+      "titulo": "Spanish Key",
+      "duracion": 1052
+    },
+    {
+      "titulo": "John McLaughlin",
+      "duracion": 263
+    },
+    {
+      "titulo": "Miles Runs the Voodoo Down",
+      "duracion": 841
+    },
+    {
+      "titulo": "Sanctuary",
+      "duracion": 656
+    },
+    {
+      "titulo": "Feio",
+      "duracion": 709
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -52,5 +52,36 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "The Pilgrim And The Stars",
+      "duracion": 583
+    },
+    {
+      "titulo": "Parks",
+      "duracion": 105
+    },
+    {
+      "titulo": "Bella",
+      "duracion": 557
+    },
+    {
+      "titulo": "Pesce Naufrago",
+      "duracion": 312
+    },
+    {
+      "titulo": "Surprise Hotel",
+      "duracion": 112
+    },
+    {
+      "titulo": "By The Sea",
+      "duracion": 286
+    },
+    {
+      "titulo": "Blancasnow",
+      "duracion": 410
+    }
+  ],
+  "temasFuente": "Spotify"
 }

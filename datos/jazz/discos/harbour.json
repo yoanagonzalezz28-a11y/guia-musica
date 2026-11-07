@@ -59,5 +59,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "The Mariner's Cross",
+      "duracion": 195
+    },
+    {
+      "titulo": "Ice-free",
+      "duracion": 188
+    },
+    {
+      "titulo": "The Lighthouse On The Horizon",
+      "duracion": 440
+    },
+    {
+      "titulo": "Hunters Point Drydocks",
+      "duracion": 271
+    },
+    {
+      "titulo": "Arriving at Ellis Island",
+      "duracion": 229
+    },
+    {
+      "titulo": "Dancing Dhow Deckhands",
+      "duracion": 356
+    },
+    {
+      "titulo": "Like A Ship in The Harbour",
+      "duracion": 251
+    },
+    {
+      "titulo": "The White Lion Docks in Point Comfort",
+      "duracion": 244
+    },
+    {
+      "titulo": "Port of Call",
+      "duracion": 234
+    },
+    {
+      "titulo": "The Beaches of Lesbos",
+      "duracion": 311
+    }
+  ],
+  "temasFuente": "Spotify"
 }

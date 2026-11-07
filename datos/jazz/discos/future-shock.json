@@ -54,5 +54,36 @@
     "wikidata": null,
     "wikipedia": "Future_Shock"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Rockit",
+      "duracion": 328
+    },
+    {
+      "titulo": "Future Shock",
+      "duracion": 485
+    },
+    {
+      "titulo": "TFS",
+      "duracion": 346
+    },
+    {
+      "titulo": "Earth Beat",
+      "duracion": 313
+    },
+    {
+      "titulo": "Autodrive",
+      "duracion": 388
+    },
+    {
+      "titulo": "Rough",
+      "duracion": 420
+    },
+    {
+      "titulo": "Mega Mix (Includes: Rockit, Autodrive, Future Shock, TFS, Rough, & Chameleon)",
+      "duracion": 378
+    }
+  ],
+  "temasFuente": "Spotify"
 }

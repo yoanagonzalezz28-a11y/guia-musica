@@ -59,5 +59,64 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Lentecitos",
+      "duracion": 173
+    },
+    {
+      "titulo": "Fuera Mi Cabeza",
+      "duracion": 120
+    },
+    {
+      "titulo": "Hoja En Blanco",
+      "duracion": 259
+    },
+    {
+      "titulo": "La Sordera Es Ley",
+      "duracion": 162
+    },
+    {
+      "titulo": "Humo Del Porvenir",
+      "duracion": 231
+    },
+    {
+      "titulo": "Solista",
+      "duracion": 161
+    },
+    {
+      "titulo": "Los Minutos",
+      "duracion": 247
+    },
+    {
+      "titulo": "Manual Para Cantar",
+      "duracion": 215
+    },
+    {
+      "titulo": "Espejos",
+      "duracion": 246
+    },
+    {
+      "titulo": "Buscando Los Diamantes",
+      "duracion": 127
+    },
+    {
+      "titulo": "Arlequín",
+      "duracion": 222
+    },
+    {
+      "titulo": "De Locura Y Amor",
+      "duracion": 163
+    },
+    {
+      "titulo": "Tramo Digital",
+      "duracion": 249
+    },
+    {
+      "titulo": "Pobre Serafín",
+      "duracion": 331
+    }
+  ],
+  "temasFuente": "Spotify"
 }

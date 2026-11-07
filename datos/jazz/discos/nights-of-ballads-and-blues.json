@@ -54,5 +54,40 @@
     "wikidata": null,
     "wikipedia": "Nights_of_Ballads_%26_Blues"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Satin Doll",
+      "duracion": 340
+    },
+    {
+      "titulo": "We'll Be Together Again",
+      "duracion": 220
+    },
+    {
+      "titulo": "'Round Midnight",
+      "duracion": 383
+    },
+    {
+      "titulo": "For Heaven's Sake",
+      "duracion": 229
+    },
+    {
+      "titulo": "Star Eyes",
+      "duracion": 304
+    },
+    {
+      "titulo": "Blue Monk",
+      "duracion": 323
+    },
+    {
+      "titulo": "Groove Waltz",
+      "duracion": 331
+    },
+    {
+      "titulo": "Days Of Wine And Roses",
+      "duracion": 201
+    }
+  ],
+  "temasFuente": "Spotify"
 }

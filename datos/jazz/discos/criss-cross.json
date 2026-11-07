@@ -54,5 +54,56 @@
     "wikidata": null,
     "wikipedia": "Criss-Cross_(album)"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Hackensack",
+      "duracion": 253
+    },
+    {
+      "titulo": "Tea for Two",
+      "duracion": 227
+    },
+    {
+      "titulo": "Criss Cross",
+      "duracion": 281
+    },
+    {
+      "titulo": "Eronel",
+      "duracion": 270
+    },
+    {
+      "titulo": "Rhythm-A-Ning",
+      "duracion": 233
+    },
+    {
+      "titulo": "Don't Blame Me (Retake 1)",
+      "duracion": 425
+    },
+    {
+      "titulo": "Think of One",
+      "duracion": 365
+    },
+    {
+      "titulo": "Crepuscule with Nellie",
+      "duracion": 166
+    },
+    {
+      "titulo": "Pannonica",
+      "duracion": 405
+    },
+    {
+      "titulo": "Coming On the Hudson",
+      "duracion": 451
+    },
+    {
+      "titulo": "Tea For Two (Take 9)",
+      "duracion": 312
+    },
+    {
+      "titulo": "Eronel (Take 3)",
+      "duracion": 359
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -54,5 +54,40 @@
     "wikidata": null,
     "wikipedia": "No_Room_for_Squares"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Three Way Split - Remastered 2000 / Rudy Van Gelder Edition",
+      "duracion": 470
+    },
+    {
+      "titulo": "Carolyn - Remastered 2000 / Rudy Van Gelder Edition",
+      "duracion": 331
+    },
+    {
+      "titulo": "Up A Step - Remastered 2000 / Rudy Van Gelder Edition",
+      "duracion": 512
+    },
+    {
+      "titulo": "No Room For Squares - Remastered 2000 / Rudy Van Gelder Edition",
+      "duracion": 418
+    },
+    {
+      "titulo": "Me 'N You - Remastered 2000 / Rudy Van Gelder Edition",
+      "duracion": 438
+    },
+    {
+      "titulo": "Old World, New Imports - Remastered 2000 / Rudy Van Gelder Edition",
+      "duracion": 368
+    },
+    {
+      "titulo": "Carolyn - Alternate Take / Remastered 2000 / Rudy Van Gelder Edition",
+      "duracion": 335
+    },
+    {
+      "titulo": "No Room For Squares - Alternate Take / Remastered 2000 / Rudy Van Gelder Edition",
+      "duracion": 406
+    }
+  ],
+  "temasFuente": "Spotify"
 }

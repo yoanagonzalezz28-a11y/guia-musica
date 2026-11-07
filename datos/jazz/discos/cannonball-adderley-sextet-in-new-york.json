@@ -54,5 +54,32 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Introduction - Gemini",
+      "duracion": 822
+    },
+    {
+      "titulo": "Planet Earth",
+      "duracion": 481
+    },
+    {
+      "titulo": "Dizzy's Business",
+      "duracion": 421
+    },
+    {
+      "titulo": "Syn-anthesia",
+      "duracion": 424
+    },
+    {
+      "titulo": "Scotch and Water",
+      "duracion": 355
+    },
+    {
+      "titulo": "Cannon's Theme",
+      "duracion": 197
+    }
+  ],
+  "temasFuente": "Spotify"
 }

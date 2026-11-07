@@ -82,5 +82,36 @@
       "acceso": "completa",
       "aporta": "Cuenta que el octeto de Mulligan le dio la idea de formar el suyo, y su posterior disco con él."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Tanguedia III",
+      "duracion": 279
+    },
+    {
+      "titulo": "Milonga Del Angel",
+      "duracion": 391
+    },
+    {
+      "titulo": "Concierto Para Quinteto",
+      "duracion": 547
+    },
+    {
+      "titulo": "Milonga Loca",
+      "duracion": 189
+    },
+    {
+      "titulo": "Michelangelo '70",
+      "duracion": 172
+    },
+    {
+      "titulo": "Contrabajissimo",
+      "duracion": 620
+    },
+    {
+      "titulo": "Mumuki",
+      "duracion": 574
+    }
+  ],
+  "temasFuente": "Spotify"
 }

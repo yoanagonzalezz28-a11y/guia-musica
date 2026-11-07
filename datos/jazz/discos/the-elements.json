@@ -59,5 +59,24 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Fire",
+      "duracion": 668
+    },
+    {
+      "titulo": "Air",
+      "duracion": 598
+    },
+    {
+      "titulo": "Water",
+      "duracion": 453
+    },
+    {
+      "titulo": "Earth",
+      "duracion": 794
+    }
+  ],
+  "temasFuente": "Spotify"
 }

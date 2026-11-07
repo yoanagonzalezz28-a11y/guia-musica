@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": "A_Day_in_the_Life_(Wes_Montgomery_album)"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "A Day In The Life",
+      "duracion": 350
+    },
+    {
+      "titulo": "Watch What Happens",
+      "duracion": 165
+    },
+    {
+      "titulo": "When A Man Loves A Woman",
+      "duracion": 175
+    },
+    {
+      "titulo": "California Nights",
+      "duracion": 152
+    },
+    {
+      "titulo": "Angel",
+      "duracion": 169
+    },
+    {
+      "titulo": "Eleanor Rigby",
+      "duracion": 188
+    },
+    {
+      "titulo": "Willow Weep For Me",
+      "duracion": 275
+    },
+    {
+      "titulo": "Windy",
+      "duracion": 143
+    },
+    {
+      "titulo": "Trust In Me",
+      "duracion": 268
+    },
+    {
+      "titulo": "The Joker",
+      "duracion": 206
+    }
+  ],
+  "temasFuente": "Spotify"
 }

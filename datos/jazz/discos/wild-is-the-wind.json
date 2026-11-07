@@ -54,5 +54,52 @@
     "wikidata": null,
     "wikipedia": "Wild_Is_the_Wind_(album)"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "I Love Your Lovin' Ways",
+      "duracion": 156
+    },
+    {
+      "titulo": "Four Women",
+      "duracion": 265
+    },
+    {
+      "titulo": "What More Can I Say?",
+      "duracion": 169
+    },
+    {
+      "titulo": "Lilac Wine",
+      "duracion": 254
+    },
+    {
+      "titulo": "That's All I Ask",
+      "duracion": 148
+    },
+    {
+      "titulo": "Break Down And Let It All Out",
+      "duracion": 157
+    },
+    {
+      "titulo": "Why Keep On Breaking My Heart",
+      "duracion": 155
+    },
+    {
+      "titulo": "Wild Is The Wind",
+      "duracion": 417
+    },
+    {
+      "titulo": "Black Is The Color Of My True Love's Hair",
+      "duracion": 204
+    },
+    {
+      "titulo": "If I Should Lose You",
+      "duracion": 236
+    },
+    {
+      "titulo": "Either Way I Lose",
+      "duracion": 166
+    }
+  ],
+  "temasFuente": "Spotify"
 }

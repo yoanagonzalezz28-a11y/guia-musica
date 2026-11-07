@@ -54,5 +54,64 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "To Mickey's Memory",
+      "duracion": 315
+    },
+    {
+      "titulo": "Slightly Above Moderate",
+      "duracion": 421
+    },
+    {
+      "titulo": "Halema",
+      "duracion": 233
+    },
+    {
+      "titulo": "Revelation",
+      "duracion": 240
+    },
+    {
+      "titulo": "Something For Liza",
+      "duracion": 248
+    },
+    {
+      "titulo": "Lucius Lu",
+      "duracion": 337
+    },
+    {
+      "titulo": "Worrying The Life Out Of Me",
+      "duracion": 181
+    },
+    {
+      "titulo": "Medium Rock",
+      "duracion": 333
+    },
+    {
+      "titulo": "To Mickey's Memory - Alternate Take",
+      "duracion": 326
+    },
+    {
+      "titulo": "Jumpin' Off A Clef",
+      "duracion": 298
+    },
+    {
+      "titulo": "Chippyin'",
+      "duracion": 202
+    },
+    {
+      "titulo": "Pawnee Junction",
+      "duracion": 242
+    },
+    {
+      "titulo": "Music To Dance By",
+      "duracion": 277
+    },
+    {
+      "titulo": "Line For Lyons",
+      "duracion": 169
+    }
+  ],
+  "temasFuente": "Spotify"
 }

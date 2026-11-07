@@ -54,5 +54,32 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Snake Hip Waltz",
+      "duracion": 297
+    },
+    {
+      "titulo": "Here's That Rainy Day",
+      "duracion": 220
+    },
+    {
+      "titulo": "East 9th Street",
+      "duracion": 386
+    },
+    {
+      "titulo": "July 10th",
+      "duracion": 474
+    },
+    {
+      "titulo": "Divine Revelation",
+      "duracion": 1498
+    },
+    {
+      "titulo": "July 10th - Alternate Take",
+      "duracion": 411
+    }
+  ],
+  "temasFuente": "Spotify"
 }

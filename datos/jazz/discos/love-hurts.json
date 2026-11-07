@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "In Heaven",
+      "duracion": 275
+    },
+    {
+      "titulo": "Tomorrow Is The Question",
+      "duracion": 217
+    },
+    {
+      "titulo": "The Windup",
+      "duracion": 244
+    },
+    {
+      "titulo": "Love Hurts",
+      "duracion": 286
+    },
+    {
+      "titulo": "In Circles",
+      "duracion": 270
+    },
+    {
+      "titulo": "Encore (A)",
+      "duracion": 285
+    },
+    {
+      "titulo": "Lullaby",
+      "duracion": 226
+    },
+    {
+      "titulo": "Trudgin'",
+      "duracion": 238
+    },
+    {
+      "titulo": "I’m Getting Sentimental Over You",
+      "duracion": 247
+    },
+    {
+      "titulo": "Crying",
+      "duracion": 334
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -54,5 +54,28 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Aragatz",
+      "duracion": 262
+    },
+    {
+      "titulo": "Rays of Light",
+      "duracion": 227
+    },
+    {
+      "titulo": "The American",
+      "duracion": 394
+    },
+    {
+      "titulo": "Self - Portrait",
+      "duracion": 168
+    },
+    {
+      "titulo": "Revolving - Prayer",
+      "duracion": 723
+    }
+  ],
+  "temasFuente": "Spotify"
 }

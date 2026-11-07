@@ -54,5 +54,44 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Brazil",
+      "duracion": 425
+    },
+    {
+      "titulo": "Latin America",
+      "duracion": 375
+    },
+    {
+      "titulo": "Triste",
+      "duracion": 294
+    },
+    {
+      "titulo": "Tres Palabras",
+      "duracion": 356
+    },
+    {
+      "titulo": "Perfidia",
+      "duracion": 339
+    },
+    {
+      "titulo": "The Vision",
+      "duracion": 391
+    },
+    {
+      "titulo": "Besame Mucho",
+      "duracion": 476
+    },
+    {
+      "titulo": "Serenata",
+      "duracion": 331
+    },
+    {
+      "titulo": "Latino Blue",
+      "duracion": 233
+    }
+  ],
+  "temasFuente": "Spotify"
 }

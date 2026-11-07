@@ -55,5 +55,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "La Gloria Eres Tú",
+      "duracion": 498
+    },
+    {
+      "titulo": "Señora",
+      "duracion": 370
+    },
+    {
+      "titulo": "El Día que Me Quieras",
+      "duracion": 395
+    },
+    {
+      "titulo": "Un Amor de la Calle",
+      "duracion": 366
+    },
+    {
+      "titulo": "Sombras",
+      "duracion": 340
+    },
+    {
+      "titulo": "Convergencia",
+      "duracion": 365
+    },
+    {
+      "titulo": "Verdad Amarga",
+      "duracion": 339
+    },
+    {
+      "titulo": "De Qué Callada Manera",
+      "duracion": 397
+    }
+  ],
+  "temasFuente": "Spotify"
 }

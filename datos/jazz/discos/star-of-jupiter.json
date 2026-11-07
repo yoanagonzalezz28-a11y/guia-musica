@@ -54,5 +54,56 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Gamma Band",
+      "duracion": 423
+    },
+    {
+      "titulo": "Welcome Home",
+      "duracion": 286
+    },
+    {
+      "titulo": "Something, Sometime",
+      "duracion": 381
+    },
+    {
+      "titulo": "Mr. Hope",
+      "duracion": 330
+    },
+    {
+      "titulo": "Heavenly Bodies",
+      "duracion": 685
+    },
+    {
+      "titulo": "Homage a'mitch",
+      "duracion": 465
+    },
+    {
+      "titulo": "Spirit Kiss",
+      "duracion": 519
+    },
+    {
+      "titulo": "Kurt1",
+      "duracion": 411
+    },
+    {
+      "titulo": "Under It All",
+      "duracion": 447
+    },
+    {
+      "titulo": "A Shifting Design",
+      "duracion": 359
+    },
+    {
+      "titulo": "Deja Vu",
+      "duracion": 654
+    },
+    {
+      "titulo": "Star of Jupiter",
+      "duracion": 536
+    }
+  ],
+  "temasFuente": "Spotify"
 }

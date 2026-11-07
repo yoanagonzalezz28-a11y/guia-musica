@@ -55,5 +55,68 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Velera",
+      "duracion": 142
+    },
+    {
+      "titulo": "Roy Allan",
+      "duracion": 228
+    },
+    {
+      "titulo": "Brian's Bounce",
+      "duracion": 297
+    },
+    {
+      "titulo": "The Nearness Of You",
+      "duracion": 424
+    },
+    {
+      "titulo": "Lament For Love",
+      "duracion": 241
+    },
+    {
+      "titulo": "Another Level",
+      "duracion": 384
+    },
+    {
+      "titulo": "A Dream Of You",
+      "duracion": 372
+    },
+    {
+      "titulo": "Pas De Trois",
+      "duracion": 519
+    },
+    {
+      "titulo": "Polka Dots And Moonbeams",
+      "duracion": 336
+    },
+    {
+      "titulo": "The Challenge",
+      "duracion": 226
+    },
+    {
+      "titulo": "Ethiopia",
+      "duracion": 216
+    },
+    {
+      "titulo": "Nostalgia",
+      "duracion": 360
+    },
+    {
+      "titulo": "Thirteenth Floor",
+      "duracion": 357
+    },
+    {
+      "titulo": "Firm Roots",
+      "duracion": 411
+    },
+    {
+      "titulo": "The Trial",
+      "duracion": 218
+    }
+  ],
+  "temasFuente": "Spotify"
 }

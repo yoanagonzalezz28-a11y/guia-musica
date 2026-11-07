@@ -54,5 +54,56 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Formwela 1",
+      "duracion": 215
+    },
+    {
+      "titulo": "Formwela 2 [Feat. Ganavya]",
+      "duracion": 370
+    },
+    {
+      "titulo": "Formwela 3",
+      "duracion": 426
+    },
+    {
+      "titulo": "Formwela 4",
+      "duracion": 260
+    },
+    {
+      "titulo": "Formwela 5 [Feat. Corey King]",
+      "duracion": 212
+    },
+    {
+      "titulo": "Formwela 6 [Feat. Corey King]",
+      "duracion": 191
+    },
+    {
+      "titulo": "Formwela 7",
+      "duracion": 206
+    },
+    {
+      "titulo": "Formwela 8",
+      "duracion": 700
+    },
+    {
+      "titulo": "Formwela 9",
+      "duracion": 272
+    },
+    {
+      "titulo": "Formwela 10",
+      "duracion": 209
+    },
+    {
+      "titulo": "Formwela 11",
+      "duracion": 189
+    },
+    {
+      "titulo": "Formwela 13",
+      "duracion": 404
+    }
+  ],
+  "temasFuente": "Spotify"
 }

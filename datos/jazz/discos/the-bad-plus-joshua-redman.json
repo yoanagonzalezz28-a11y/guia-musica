@@ -54,5 +54,44 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "As This Moment Slips Away",
+      "duracion": 413
+    },
+    {
+      "titulo": "Beauty Has It Hard",
+      "duracion": 421
+    },
+    {
+      "titulo": "County Seat",
+      "duracion": 183
+    },
+    {
+      "titulo": "The Mending",
+      "duracion": 251
+    },
+    {
+      "titulo": "Dirty Blonde",
+      "duracion": 332
+    },
+    {
+      "titulo": "Faith Through Error",
+      "duracion": 198
+    },
+    {
+      "titulo": "Lack the Faith But Not the Wine",
+      "duracion": 433
+    },
+    {
+      "titulo": "Friend or Foe",
+      "duracion": 516
+    },
+    {
+      "titulo": "Silence Is the Question",
+      "duracion": 811
+    }
+  ],
+  "temasFuente": "Spotify"
 }

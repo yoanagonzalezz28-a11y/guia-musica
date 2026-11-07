@@ -55,5 +55,52 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Intro / Maelo a Capella",
+      "duracion": 85
+    },
+    {
+      "titulo": "Quítate de la Vía, Perico",
+      "duracion": 428
+    },
+    {
+      "titulo": "Las Tumbas",
+      "duracion": 461
+    },
+    {
+      "titulo": "El Negro Bembón",
+      "duracion": 497
+    },
+    {
+      "titulo": "La Gata Montesa",
+      "duracion": 436
+    },
+    {
+      "titulo": "Traigo Salsa",
+      "duracion": 313
+    },
+    {
+      "titulo": "Las Caras Lindas",
+      "duracion": 461
+    },
+    {
+      "titulo": "Hola",
+      "duracion": 281
+    },
+    {
+      "titulo": "Colobó",
+      "duracion": 359
+    },
+    {
+      "titulo": "Si Te Contara",
+      "duracion": 400
+    },
+    {
+      "titulo": "El Nazareno",
+      "duracion": 483
+    }
+  ],
+  "temasFuente": "Spotify"
 }

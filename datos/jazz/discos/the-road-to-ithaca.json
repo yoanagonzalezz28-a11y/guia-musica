@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Gal",
+      "duracion": 549
+    },
+    {
+      "titulo": "Cinéma G",
+      "duracion": 238
+    },
+    {
+      "titulo": "Let Sound Be Sound",
+      "duracion": 115
+    },
+    {
+      "titulo": "Paradox",
+      "duracion": 492
+    },
+    {
+      "titulo": "Untold",
+      "duracion": 331
+    },
+    {
+      "titulo": "Invisible Thread",
+      "duracion": 285
+    },
+    {
+      "titulo": "Zvuv (The Fly)",
+      "duracion": 530
+    },
+    {
+      "titulo": "The Other Road",
+      "duracion": 240
+    },
+    {
+      "titulo": "Vertigo",
+      "duracion": 244
+    },
+    {
+      "titulo": "Malka Moma",
+      "duracion": 218
+    }
+  ],
+  "temasFuente": "Spotify"
 }

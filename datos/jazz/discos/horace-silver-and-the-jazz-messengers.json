@@ -89,5 +89,40 @@
       "acceso": "completa",
       "aporta": "NPR elige el solo de Kenny Dorham en \"The Preacher\"."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Room 608",
+      "duracion": 322
+    },
+    {
+      "titulo": "Creepin' In",
+      "duracion": 446
+    },
+    {
+      "titulo": "Stop Time",
+      "duracion": 247
+    },
+    {
+      "titulo": "To Whom It May Concern",
+      "duracion": 311
+    },
+    {
+      "titulo": "Hippy",
+      "duracion": 325
+    },
+    {
+      "titulo": "The Preacher",
+      "duracion": 258
+    },
+    {
+      "titulo": "Hankerin'",
+      "duracion": 319
+    },
+    {
+      "titulo": "Doodlin'",
+      "duracion": 405
+    }
+  ],
+  "temasFuente": "Spotify"
 }

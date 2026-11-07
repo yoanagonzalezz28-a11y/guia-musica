@@ -54,5 +54,72 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Across The Universe",
+      "duracion": 354
+    },
+    {
+      "titulo": "Revolution",
+      "duracion": 231
+    },
+    {
+      "titulo": "Nowhere Man",
+      "duracion": 314
+    },
+    {
+      "titulo": "Imagine",
+      "duracion": 292
+    },
+    {
+      "titulo": "Please, Please Me",
+      "duracion": 127
+    },
+    {
+      "titulo": "You've Got To Hide Your Love Away",
+      "duracion": 311
+    },
+    {
+      "titulo": "Hold On (Hold On John)",
+      "duracion": 236
+    },
+    {
+      "titulo": "In My Life",
+      "duracion": 245
+    },
+    {
+      "titulo": "Come Together",
+      "duracion": 310
+    },
+    {
+      "titulo": "Julia",
+      "duracion": 211
+    },
+    {
+      "titulo": "Woman",
+      "duracion": 261
+    },
+    {
+      "titulo": "Number 9 Dreams (#9 Dreams)",
+      "duracion": 222
+    },
+    {
+      "titulo": "Love",
+      "duracion": 138
+    },
+    {
+      "titulo": "Beautiful Boy",
+      "duracion": 208
+    },
+    {
+      "titulo": "Mother",
+      "duracion": 413
+    },
+    {
+      "titulo": "Give Peace A Chance",
+      "duracion": 218
+    }
+  ],
+  "temasFuente": "Spotify"
 }

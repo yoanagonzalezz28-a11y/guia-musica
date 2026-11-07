@@ -54,5 +54,56 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Median",
+      "duracion": 358
+    },
+    {
+      "titulo": "Honey in Your Head",
+      "duracion": 223
+    },
+    {
+      "titulo": "Framework 2",
+      "duracion": 200
+    },
+    {
+      "titulo": "Framework 1",
+      "duracion": 204
+    },
+    {
+      "titulo": "Another Stitch",
+      "duracion": 100
+    },
+    {
+      "titulo": "A Sudden Rash",
+      "duracion": 316
+    },
+    {
+      "titulo": "Angels Ahead",
+      "duracion": 297
+    },
+    {
+      "titulo": "Funeral",
+      "duracion": 269
+    },
+    {
+      "titulo": "Nearly Invisible Stitches",
+      "duracion": 404
+    },
+    {
+      "titulo": "Framework 3",
+      "duracion": 231
+    },
+    {
+      "titulo": "True Love Waits (Radiohead)",
+      "duracion": 224
+    },
+    {
+      "titulo": "Excavation (Bonus Track)",
+      "duracion": 274
+    }
+  ],
+  "temasFuente": "Spotify"
 }

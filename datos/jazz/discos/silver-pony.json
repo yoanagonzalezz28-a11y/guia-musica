@@ -54,5 +54,52 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Lover Come Back To Me",
+      "duracion": 411
+    },
+    {
+      "titulo": "Went Down To St. James Infirmary",
+      "duracion": 432
+    },
+    {
+      "titulo": "A Night In Seville",
+      "duracion": 180
+    },
+    {
+      "titulo": "Beneath A Silver Moon",
+      "duracion": 399
+    },
+    {
+      "titulo": "Saddle Up My Pony",
+      "duracion": 572
+    },
+    {
+      "titulo": "If It's Magic",
+      "duracion": 274
+    },
+    {
+      "titulo": "Forty Days And Forty Nights",
+      "duracion": 298
+    },
+    {
+      "titulo": "Silver Pony",
+      "duracion": 37
+    },
+    {
+      "titulo": "A Day In The Life Of A Fool",
+      "duracion": 456
+    },
+    {
+      "titulo": "Blackbird",
+      "duracion": 401
+    },
+    {
+      "titulo": "Watch The Sunrise",
+      "duracion": 212
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "A Street in Bombay (feat. Upaj Collective) - Live",
+      "duracion": 997
+    },
+    {
+      "titulo": "Creator Has a Masterplan (feat. Upaj Collective) - Live",
+      "duracion": 570
+    },
+    {
+      "titulo": "Mind Ecology (feat. Upaj Collective) - Live",
+      "duracion": 505
+    },
+    {
+      "titulo": "Malkauns, Pt. 1 (feat. Upaj Collective) - Live",
+      "duracion": 467
+    },
+    {
+      "titulo": "Malkauns, Pt. 2 (feat. Upaj Collective) - Live",
+      "duracion": 816
+    },
+    {
+      "titulo": "Journey in Satchidanada (feat. Upaj Collective) - Live",
+      "duracion": 625
+    },
+    {
+      "titulo": "Hajj (feat. Upaj Collective) - Live",
+      "duracion": 736
+    },
+    {
+      "titulo": "Earth (feat. Upaj Collective) - Live",
+      "duracion": 881
+    },
+    {
+      "titulo": "Mishrank (feat. Upaj Collective) - Live",
+      "duracion": 621
+    },
+    {
+      "titulo": "Utopia and Visions (feat. Upaj Collective) - Live",
+      "duracion": 436
+    }
+  ],
+  "temasFuente": "Spotify"
 }

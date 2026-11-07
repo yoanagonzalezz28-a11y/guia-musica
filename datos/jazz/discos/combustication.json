@@ -54,5 +54,56 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Sugar Craft",
+      "duracion": 203
+    },
+    {
+      "titulo": "Just Like I Pictured It",
+      "duracion": 208
+    },
+    {
+      "titulo": "Start-Stop",
+      "duracion": 398
+    },
+    {
+      "titulo": "Nocturne",
+      "duracion": 243
+    },
+    {
+      "titulo": "Hey-Hee-Hi-Ho",
+      "duracion": 195
+    },
+    {
+      "titulo": "Whatever Happened To Gus",
+      "duracion": 266
+    },
+    {
+      "titulo": "Latin Shuffle",
+      "duracion": 545
+    },
+    {
+      "titulo": "Everyday People",
+      "duracion": 327
+    },
+    {
+      "titulo": "Coconut Boogaloo",
+      "duracion": 237
+    },
+    {
+      "titulo": "Church Of Logic",
+      "duracion": 399
+    },
+    {
+      "titulo": "No Ke Ano Ahiahi",
+      "duracion": 288
+    },
+    {
+      "titulo": "Hypnotized",
+      "duracion": 817
+    }
+  ],
+  "temasFuente": "Spotify"
 }

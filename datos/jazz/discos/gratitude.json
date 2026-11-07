@@ -54,5 +54,60 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "The Source",
+      "duracion": 398
+    },
+    {
+      "titulo": "Shadow",
+      "duracion": 348
+    },
+    {
+      "titulo": "Sun King",
+      "duracion": 420
+    },
+    {
+      "titulo": "High Noon",
+      "duracion": 500
+    },
+    {
+      "titulo": "Eurydice",
+      "duracion": 361
+    },
+    {
+      "titulo": "The Mind's Eye Intro",
+      "duracion": 44
+    },
+    {
+      "titulo": "The Mind's Eye",
+      "duracion": 434
+    },
+    {
+      "titulo": "Gratitude",
+      "duracion": 186
+    },
+    {
+      "titulo": "The Visitor",
+      "duracion": 459
+    },
+    {
+      "titulo": "Body And Soul (For Coleman Hawkins)",
+      "duracion": 329
+    },
+    {
+      "titulo": "Star Eyes",
+      "duracion": 323
+    },
+    {
+      "titulo": "Vox Humana",
+      "duracion": 325
+    },
+    {
+      "titulo": "What's New",
+      "duracion": 145
+    }
+  ],
+  "temasFuente": "Spotify"
 }

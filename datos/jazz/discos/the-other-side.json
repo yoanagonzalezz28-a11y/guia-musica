@@ -54,5 +54,56 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "The Tunnel",
+      "duracion": 365
+    },
+    {
+      "titulo": "Kirken, den er et gammelt hus",
+      "duracion": 313
+    },
+    {
+      "titulo": "Re-Melt",
+      "duracion": 317
+    },
+    {
+      "titulo": "Duality",
+      "duracion": 277
+    },
+    {
+      "titulo": "Ingen vinner frem til den evige ro",
+      "duracion": 234
+    },
+    {
+      "titulo": "Taste And See",
+      "duracion": 195
+    },
+    {
+      "titulo": "Schlafes Bruder",
+      "duracion": 295
+    },
+    {
+      "titulo": "Jesu, meine Freude / Jesus, det eneste",
+      "duracion": 272
+    },
+    {
+      "titulo": "The Other Side",
+      "duracion": 205
+    },
+    {
+      "titulo": "O Traurigkeit",
+      "duracion": 214
+    },
+    {
+      "titulo": "Left Over Lullaby No. 4",
+      "duracion": 148
+    },
+    {
+      "titulo": "Curves",
+      "duracion": 380
+    }
+  ],
+  "temasFuente": "Spotify"
 }

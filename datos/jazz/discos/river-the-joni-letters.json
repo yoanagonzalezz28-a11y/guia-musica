@@ -54,5 +54,56 @@
     "wikidata": null,
     "wikipedia": "River:_The_Joni_Letters"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Court And Spark",
+      "duracion": 455
+    },
+    {
+      "titulo": "Edith And The Kingpin",
+      "duracion": 392
+    },
+    {
+      "titulo": "Both Sides Now",
+      "duracion": 458
+    },
+    {
+      "titulo": "River",
+      "duracion": 325
+    },
+    {
+      "titulo": "Sweet Bird",
+      "duracion": 495
+    },
+    {
+      "titulo": "The Tea Leaf Prophecy (Lay Down Your Arms)",
+      "duracion": 394
+    },
+    {
+      "titulo": "Solitude",
+      "duracion": 342
+    },
+    {
+      "titulo": "Amelia",
+      "duracion": 446
+    },
+    {
+      "titulo": "Nefertiti",
+      "duracion": 450
+    },
+    {
+      "titulo": "The Jungle Line",
+      "duracion": 301
+    },
+    {
+      "titulo": "A Case Of You - Short Version",
+      "duracion": 456
+    },
+    {
+      "titulo": "All I Want",
+      "duracion": 255
+    }
+  ],
+  "temasFuente": "Spotify"
 }

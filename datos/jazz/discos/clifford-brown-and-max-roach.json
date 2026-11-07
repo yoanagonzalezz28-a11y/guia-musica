@@ -95,5 +95,52 @@
       "acceso": "completa",
       "aporta": "NPR presenta al quinteto como el grupo de bop por excelencia de su tiempo, en una entrevista a Roach."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Delilah",
+      "duracion": 487
+    },
+    {
+      "titulo": "Parisian Thoroughfare",
+      "duracion": 439
+    },
+    {
+      "titulo": "Daahoud",
+      "duracion": 245
+    },
+    {
+      "titulo": "Joy Spring",
+      "duracion": 411
+    },
+    {
+      "titulo": "Jordu",
+      "duracion": 470
+    },
+    {
+      "titulo": "The Blues Walk - Alternate Take",
+      "duracion": 407
+    },
+    {
+      "titulo": "What Am I Here For?",
+      "duracion": 191
+    },
+    {
+      "titulo": "These Foolish Things",
+      "duracion": 229
+    },
+    {
+      "titulo": "The Blues Walk",
+      "duracion": 414
+    },
+    {
+      "titulo": "Daahoud - Alternate Take",
+      "duracion": 249
+    },
+    {
+      "titulo": "Joy Spring - Alternate Take",
+      "duracion": 404
+    }
+  ],
+  "temasFuente": "Spotify"
 }

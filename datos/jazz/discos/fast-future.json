@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Fast Future",
+      "duracion": 354
+    },
+    {
+      "titulo": "No Eyes",
+      "duracion": 356
+    },
+    {
+      "titulo": "Love and Living",
+      "duracion": 570
+    },
+    {
+      "titulo": "Midnight Light",
+      "duracion": 399
+    },
+    {
+      "titulo": "54 Cymru Beats",
+      "duracion": 136
+    },
+    {
+      "titulo": "Love What is Mortal",
+      "duracion": 357
+    },
+    {
+      "titulo": "Underground City",
+      "duracion": 419
+    },
+    {
+      "titulo": "This Side of Sunrise",
+      "duracion": 272
+    },
+    {
+      "titulo": "Blur",
+      "duracion": 88
+    },
+    {
+      "titulo": "Squeeze Through",
+      "duracion": 383
+    }
+  ],
+  "temasFuente": "Spotify"
 }

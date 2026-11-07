@@ -52,5 +52,52 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Introducción",
+      "duracion": 141
+    },
+    {
+      "titulo": "Unstatic",
+      "duracion": 315
+    },
+    {
+      "titulo": "Flame & Co",
+      "duracion": 356
+    },
+    {
+      "titulo": "City",
+      "duracion": 237
+    },
+    {
+      "titulo": "Blossom",
+      "duracion": 349
+    },
+    {
+      "titulo": "Daze Days",
+      "duracion": 274
+    },
+    {
+      "titulo": "Rolling",
+      "duracion": 363
+    },
+    {
+      "titulo": "Ride Me Up",
+      "duracion": 291
+    },
+    {
+      "titulo": "Trickle",
+      "duracion": 263
+    },
+    {
+      "titulo": "Out of Sight",
+      "duracion": 255
+    },
+    {
+      "titulo": "Presentation",
+      "duracion": 199
+    }
+  ],
+  "temasFuente": "Spotify"
 }

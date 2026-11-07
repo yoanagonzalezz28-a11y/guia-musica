@@ -54,5 +54,64 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "The Reluctant Bride",
+      "duracion": 269
+    },
+    {
+      "titulo": "Tale Of Saverio",
+      "duracion": 314
+    },
+    {
+      "titulo": "Joyful Departure",
+      "duracion": 238
+    },
+    {
+      "titulo": "Green And Golden",
+      "duracion": 306
+    },
+    {
+      "titulo": "I Knew It Was You",
+      "duracion": 243
+    },
+    {
+      "titulo": "Les Douzilles",
+      "duracion": 409
+    },
+    {
+      "titulo": "Veldt",
+      "duracion": 142
+    },
+    {
+      "titulo": "Seven Pieces For Twelve Strings: Between The Clouds",
+      "duracion": 67
+    },
+    {
+      "titulo": "Seven Pieces For Twelve Strings: Child On The Porch",
+      "duracion": 96
+    },
+    {
+      "titulo": "Seven Pieces For Twelve Strings: Carib Crib (1)",
+      "duracion": 116
+    },
+    {
+      "titulo": "Seven Pieces For Twelve Strings: Slavic Mood",
+      "duracion": 104
+    },
+    {
+      "titulo": "Seven Pieces For Twelve Strings: Carib Crib (2)",
+      "duracion": 113
+    },
+    {
+      "titulo": "Seven Pieces For Twelve Strings: Toru",
+      "duracion": 205
+    },
+    {
+      "titulo": "Seven Pieces For Twelve Strings: Sage Brush Rider",
+      "duracion": 244
+    }
+  ],
+  "temasFuente": "Spotify"
 }

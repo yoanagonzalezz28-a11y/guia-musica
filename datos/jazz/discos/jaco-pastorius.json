@@ -54,5 +54,52 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Donna Lee",
+      "duracion": 147
+    },
+    {
+      "titulo": "Come On, Come Over",
+      "duracion": 233
+    },
+    {
+      "titulo": "Continuum",
+      "duracion": 273
+    },
+    {
+      "titulo": "Kuru/Speak Like A Child",
+      "duracion": 462
+    },
+    {
+      "titulo": "Portrait of Tracy",
+      "duracion": 142
+    },
+    {
+      "titulo": "Opus Pocus",
+      "duracion": 329
+    },
+    {
+      "titulo": "Okonkole y Trompa",
+      "duracion": 265
+    },
+    {
+      "titulo": "(Used To Be A) Cha-Cha",
+      "duracion": 537
+    },
+    {
+      "titulo": "Forgotten Love",
+      "duracion": 134
+    },
+    {
+      "titulo": "(Used To Be A) Cha-Cha",
+      "duracion": 529
+    },
+    {
+      "titulo": "6/4 Jam",
+      "duracion": 265
+    }
+  ],
+  "temasFuente": "Spotify"
 }

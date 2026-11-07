@@ -54,5 +54,36 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Sleepless Nights (feat. Phoelix)",
+      "duracion": 179
+    },
+    {
+      "titulo": "Love You Bad (feat. Phoelix)",
+      "duracion": 168
+    },
+    {
+      "titulo": "From My Heart and My Soul (feat. Phoelix)",
+      "duracion": 150
+    },
+    {
+      "titulo": "First Responders",
+      "duracion": 290
+    },
+    {
+      "titulo": "The Mighty Tree (feat. Kamasi Washington)",
+      "duracion": 175
+    },
+    {
+      "titulo": "Freeze Tag (feat. Phoelix)",
+      "duracion": 192
+    },
+    {
+      "titulo": "LUV U",
+      "duracion": 230
+    }
+  ],
+  "temasFuente": "Spotify"
 }

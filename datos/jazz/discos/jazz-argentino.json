@@ -59,5 +59,36 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Israel",
+      "duracion": 259
+    },
+    {
+      "titulo": "Los Viejos",
+      "duracion": 257
+    },
+    {
+      "titulo": "My Bonnie",
+      "duracion": 303
+    },
+    {
+      "titulo": "Una Abeja Durmiente",
+      "duracion": 303
+    },
+    {
+      "titulo": "Sometime Ago",
+      "duracion": 387
+    },
+    {
+      "titulo": "Al Este del Sol",
+      "duracion": 311
+    },
+    {
+      "titulo": "Cartas de Amor",
+      "duracion": 341
+    }
+  ],
+  "temasFuente": "Spotify"
 }

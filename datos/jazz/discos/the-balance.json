@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Dreamtime",
+      "duracion": 246
+    },
+    {
+      "titulo": "Nisa",
+      "duracion": 397
+    },
+    {
+      "titulo": "Jabula",
+      "duracion": 223
+    },
+    {
+      "titulo": "Tuang Guru",
+      "duracion": 311
+    },
+    {
+      "titulo": "Tonegawa",
+      "duracion": 213
+    },
+    {
+      "titulo": "Song For Sathima",
+      "duracion": 251
+    },
+    {
+      "titulo": "ZB2",
+      "duracion": 124
+    },
+    {
+      "titulo": "Skippy",
+      "duracion": 335
+    },
+    {
+      "titulo": "Devotion",
+      "duracion": 176
+    },
+    {
+      "titulo": "The Balance",
+      "duracion": 184
+    }
+  ],
+  "temasFuente": "Spotify"
 }

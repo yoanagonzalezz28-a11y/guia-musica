@@ -54,5 +54,72 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "After You've Gone",
+      "duracion": 166
+    },
+    {
+      "titulo": "China Boy",
+      "duracion": 149
+    },
+    {
+      "titulo": "Rose Room",
+      "duracion": 166
+    },
+    {
+      "titulo": "Tiger Rag",
+      "duracion": 204
+    },
+    {
+      "titulo": "Oh, Lady Be Good",
+      "duracion": 182
+    },
+    {
+      "titulo": "Shivers",
+      "duracion": 169
+    },
+    {
+      "titulo": "Dinah",
+      "duracion": 161
+    },
+    {
+      "titulo": "Tea For Two",
+      "duracion": 184
+    },
+    {
+      "titulo": "Avalon",
+      "duracion": 164
+    },
+    {
+      "titulo": "Runnin' Wild",
+      "duracion": 156
+    },
+    {
+      "titulo": "Whispering",
+      "duracion": 201
+    },
+    {
+      "titulo": "Who",
+      "duracion": 192
+    },
+    {
+      "titulo": "Sweet Sue - Just You",
+      "duracion": 198
+    },
+    {
+      "titulo": "The Blues In My Flat",
+      "duracion": 205
+    },
+    {
+      "titulo": "Nobody's Sweetheart",
+      "duracion": 165
+    },
+    {
+      "titulo": "Boy Meets Goy (Grand Slam)",
+      "duracion": 171
+    }
+  ],
+  "temasFuente": "Spotify"
 }

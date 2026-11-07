@@ -59,5 +59,32 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Song for George Garzone",
+      "duracion": 384
+    },
+    {
+      "titulo": "El Elogio de la Sombra",
+      "duracion": 349
+    },
+    {
+      "titulo": "El Imperio de las Luces",
+      "duracion": 328
+    },
+    {
+      "titulo": "Gratitud",
+      "duracion": 384
+    },
+    {
+      "titulo": "El Otro Lado",
+      "duracion": 341
+    },
+    {
+      "titulo": "Sudeste",
+      "duracion": 377
+    }
+  ],
+  "temasFuente": "Spotify"
 }

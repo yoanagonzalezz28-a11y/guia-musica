@@ -54,5 +54,52 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "On Green Dolphin Street",
+      "duracion": 322
+    },
+    {
+      "titulo": "Mr. Walker",
+      "duracion": 266
+    },
+    {
+      "titulo": "Speak Low",
+      "duracion": 480
+    },
+    {
+      "titulo": "A Child Is Born",
+      "duracion": 328
+    },
+    {
+      "titulo": "If I Were a Bell",
+      "duracion": 351
+    },
+    {
+      "titulo": "Billie's Bounce",
+      "duracion": 318
+    },
+    {
+      "titulo": "Lotus Blossom",
+      "duracion": 387
+    },
+    {
+      "titulo": "Confirmation",
+      "duracion": 293
+    },
+    {
+      "titulo": "We'll Be Together Again",
+      "duracion": 413
+    },
+    {
+      "titulo": "Stella by Starlight",
+      "duracion": 290
+    },
+    {
+      "titulo": "Eleanor",
+      "duracion": 290
+    }
+  ],
+  "temasFuente": "Spotify"
 }

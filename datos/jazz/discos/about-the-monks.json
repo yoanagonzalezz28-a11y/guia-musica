@@ -54,5 +54,44 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "About the Monks",
+      "duracion": 323
+    },
+    {
+      "titulo": "Tumba Francesca",
+      "duracion": 456
+    },
+    {
+      "titulo": "Ironico Arlequin",
+      "duracion": 224
+    },
+    {
+      "titulo": "Danzon Santa Clara",
+      "duracion": 485
+    },
+    {
+      "titulo": "On and On",
+      "duracion": 492
+    },
+    {
+      "titulo": "Trio Absolute",
+      "duracion": 171
+    },
+    {
+      "titulo": "Mechanical Movement",
+      "duracion": 378
+    },
+    {
+      "titulo": "Interrupted Question",
+      "duracion": 397
+    },
+    {
+      "titulo": "Conga en Ti",
+      "duracion": 213
+    }
+  ],
+  "temasFuente": "Spotify"
 }

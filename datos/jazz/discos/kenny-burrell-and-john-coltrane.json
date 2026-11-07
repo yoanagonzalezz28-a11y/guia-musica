@@ -54,5 +54,28 @@
     "wikidata": null,
     "wikipedia": "Kenny_Burrell_%26_John_Coltrane"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Freight Trane",
+      "duracion": 439
+    },
+    {
+      "titulo": "I Never Knew",
+      "duracion": 423
+    },
+    {
+      "titulo": "Lyresto",
+      "duracion": 341
+    },
+    {
+      "titulo": "Why Was I Born? - Rudy Van Gelder Remaster 1958",
+      "duracion": 191
+    },
+    {
+      "titulo": "Big Paul",
+      "duracion": 845
+    }
+  ],
+  "temasFuente": "Spotify"
 }

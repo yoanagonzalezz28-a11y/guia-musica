@@ -54,5 +54,56 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "40's",
+      "duracion": 230
+    },
+    {
+      "titulo": "Peru",
+      "duracion": 175
+    },
+    {
+      "titulo": "Japan",
+      "duracion": 251
+    },
+    {
+      "titulo": "Ryland",
+      "duracion": 196
+    },
+    {
+      "titulo": "Double Stops",
+      "duracion": 110
+    },
+    {
+      "titulo": "Gardens",
+      "duracion": 237
+    },
+    {
+      "titulo": "Century",
+      "duracion": 175
+    },
+    {
+      "titulo": "Where or When",
+      "duracion": 142
+    },
+    {
+      "titulo": "Missouri",
+      "duracion": 252
+    },
+    {
+      "titulo": "Red Prairie Dawn",
+      "duracion": 171
+    },
+    {
+      "titulo": "Day and Age",
+      "duracion": 161
+    },
+    {
+      "titulo": "Lullaby",
+      "duracion": 180
+    }
+  ],
+  "temasFuente": "Spotify"
 }

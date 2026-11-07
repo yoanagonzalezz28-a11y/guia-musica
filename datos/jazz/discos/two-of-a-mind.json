@@ -54,5 +54,52 @@
     "wikidata": null,
     "wikipedia": "Two_of_a_Mind"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "All the Things You Are",
+      "duracion": 351
+    },
+    {
+      "titulo": "Stardust",
+      "duracion": 503
+    },
+    {
+      "titulo": "Two of a Mind",
+      "duracion": 348
+    },
+    {
+      "titulo": "Blight of the Fumble Bee",
+      "duracion": 395
+    },
+    {
+      "titulo": "The Way You Look Tonight",
+      "duracion": 441
+    },
+    {
+      "titulo": "Out of Nowhere",
+      "duracion": 404
+    },
+    {
+      "titulo": "Easy Living",
+      "duracion": 422
+    },
+    {
+      "titulo": "All The Things You Are - alternate take",
+      "duracion": 417
+    },
+    {
+      "titulo": "The Way You Look Tonight - alternate take",
+      "duracion": 468
+    },
+    {
+      "titulo": "Untitled Blues Waltz",
+      "duracion": 586
+    },
+    {
+      "titulo": "Untitled Blues Waltz - Alternate Version",
+      "duracion": 99
+    }
+  ],
+  "temasFuente": "Spotify"
 }

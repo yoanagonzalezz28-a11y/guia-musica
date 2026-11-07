@@ -77,5 +77,28 @@
       "acceso": "indirecta",
       "aporta": "Corona y máxima puntuación en la Penguin Guide: \"a slightly tentative masterpiece\"."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Hat And Beard",
+      "duracion": 505
+    },
+    {
+      "titulo": "Something Sweet, Something Tender - Remastered 1998/Rudy Van Gelder Edition",
+      "duracion": 364
+    },
+    {
+      "titulo": "Gazzelloni - Remastered 1998/Rudy Van Gelder Edition",
+      "duracion": 443
+    },
+    {
+      "titulo": "Out To Lunch - Remastered 1998/Rudy Van Gelder Edition",
+      "duracion": 729
+    },
+    {
+      "titulo": "Straight Up And Down - Remastered 1998/Rudy Van Gelder Edition",
+      "duracion": 499
+    }
+  ],
+  "temasFuente": "Spotify"
 }

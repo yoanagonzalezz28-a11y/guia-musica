@@ -54,5 +54,124 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Impressions",
+      "duracion": 106
+    },
+    {
+      "titulo": "Omelet rice",
+      "duracion": 75
+    },
+    {
+      "titulo": "Day by day",
+      "duracion": 102
+    },
+    {
+      "titulo": "Kawakita blues",
+      "duracion": 91
+    },
+    {
+      "titulo": "Ambition",
+      "duracion": 157
+    },
+    {
+      "titulo": "BLUE GIANT - Cello & Piano",
+      "duracion": 76
+    },
+    {
+      "titulo": "Motivation",
+      "duracion": 56
+    },
+    {
+      "titulo": "In search of...",
+      "duracion": 66
+    },
+    {
+      "titulo": "The beginning",
+      "duracion": 90
+    },
+    {
+      "titulo": "Monologue",
+      "duracion": 146
+    },
+    {
+      "titulo": "Forward",
+      "duracion": 105
+    },
+    {
+      "titulo": "Another autumn",
+      "duracion": 152
+    },
+    {
+      "titulo": "Next step",
+      "duracion": 69
+    },
+    {
+      "titulo": "Challenge",
+      "duracion": 75
+    },
+    {
+      "titulo": "Kick off",
+      "duracion": 87
+    },
+    {
+      "titulo": "Samba five",
+      "duracion": 246
+    },
+    {
+      "titulo": "N.E.W.",
+      "duracion": 346
+    },
+    {
+      "titulo": "Recollection",
+      "duracion": 160
+    },
+    {
+      "titulo": "No way out",
+      "duracion": 102
+    },
+    {
+      "titulo": "New day",
+      "duracion": 246
+    },
+    {
+      "titulo": "Reunion",
+      "duracion": 125
+    },
+    {
+      "titulo": "Count on me",
+      "duracion": 258
+    },
+    {
+      "titulo": "Faith",
+      "duracion": 63
+    },
+    {
+      "titulo": "Nostalgia",
+      "duracion": 108
+    },
+    {
+      "titulo": "What it takes",
+      "duracion": 127
+    },
+    {
+      "titulo": "WE WILL",
+      "duracion": 312
+    },
+    {
+      "titulo": "From here",
+      "duracion": 147
+    },
+    {
+      "titulo": "FIRST NOTE",
+      "duracion": 465
+    },
+    {
+      "titulo": "BLUE GIANT",
+      "duracion": 219
+    }
+  ],
+  "temasFuente": "Spotify"
 }

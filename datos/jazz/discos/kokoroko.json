@@ -54,5 +54,24 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Adwa",
+      "duracion": 357
+    },
+    {
+      "titulo": "Ti-de",
+      "duracion": 372
+    },
+    {
+      "titulo": "Uman",
+      "duracion": 312
+    },
+    {
+      "titulo": "Abusey Junction",
+      "duracion": 424
+    }
+  ],
+  "temasFuente": "Spotify"
 }

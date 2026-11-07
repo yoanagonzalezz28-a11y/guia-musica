@@ -52,5 +52,52 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Swing Piece",
+      "duracion": 295
+    },
+    {
+      "titulo": "Keep On Trippin’",
+      "duracion": 334
+    },
+    {
+      "titulo": "Senses",
+      "duracion": 253
+    },
+    {
+      "titulo": "Being Ben",
+      "duracion": 263
+    },
+    {
+      "titulo": "Une larme dans ton sourire",
+      "duracion": 147
+    },
+    {
+      "titulo": "Springtime Dancing",
+      "duracion": 250
+    },
+    {
+      "titulo": "Out Take Number 9",
+      "duracion": 128
+    },
+    {
+      "titulo": "Shine And Blue",
+      "duracion": 293
+    },
+    {
+      "titulo": "Stay With You",
+      "duracion": 271
+    },
+    {
+      "titulo": "Flower Skin",
+      "duracion": 263
+    },
+    {
+      "titulo": "Urban Shadow",
+      "duracion": 178
+    }
+  ],
+  "temasFuente": "Spotify"
 }

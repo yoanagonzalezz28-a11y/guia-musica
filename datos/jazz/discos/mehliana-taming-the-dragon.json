@@ -54,5 +54,56 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Taming the Dragon",
+      "duracion": 402
+    },
+    {
+      "titulo": "Luxe",
+      "duracion": 341
+    },
+    {
+      "titulo": "You Can't Go Back Now",
+      "duracion": 345
+    },
+    {
+      "titulo": "The Dreamer",
+      "duracion": 324
+    },
+    {
+      "titulo": "Elegy for Amelia E.",
+      "duracion": 454
+    },
+    {
+      "titulo": "Sleeping Giant",
+      "duracion": 378
+    },
+    {
+      "titulo": "Hungry Ghost",
+      "duracion": 302
+    },
+    {
+      "titulo": "Gainsbourg",
+      "duracion": 473
+    },
+    {
+      "titulo": "Just Call Me Nige",
+      "duracion": 342
+    },
+    {
+      "titulo": "Sassyassed Sassafrass",
+      "duracion": 353
+    },
+    {
+      "titulo": "Swimming",
+      "duracion": 299
+    },
+    {
+      "titulo": "London Gloaming",
+      "duracion": 298
+    }
+  ],
+  "temasFuente": "Spotify"
 }

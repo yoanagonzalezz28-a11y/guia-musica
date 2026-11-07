@@ -59,5 +59,44 @@
     "wikidata": null,
     "wikipedia": "Overseas_(album)"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Relaxin' At Camarillo",
+      "duracion": 198
+    },
+    {
+      "titulo": "Chelsea Bridge",
+      "duracion": 227
+    },
+    {
+      "titulo": "Eclypso",
+      "duracion": 378
+    },
+    {
+      "titulo": "Beats Up",
+      "duracion": 262
+    },
+    {
+      "titulo": "Skal Brothers",
+      "duracion": 153
+    },
+    {
+      "titulo": "Little Rock",
+      "duracion": 425
+    },
+    {
+      "titulo": "Verdandi",
+      "duracion": 134
+    },
+    {
+      "titulo": "Dalarna",
+      "duracion": 280
+    },
+    {
+      "titulo": "Willow Weep For Me",
+      "duracion": 382
+    }
+  ],
+  "temasFuente": "Spotify"
 }

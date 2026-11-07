@@ -54,5 +54,108 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Easy Living",
+      "duracion": 216
+    },
+    {
+      "titulo": "Whisper Not",
+      "duracion": 324
+    },
+    {
+      "titulo": "Stella by Starlight",
+      "duracion": 294
+    },
+    {
+      "titulo": "Serenata",
+      "duracion": 213
+    },
+    {
+      "titulo": "In Love in Vain",
+      "duracion": 439
+    },
+    {
+      "titulo": "I Fall in Love Too Easily",
+      "duracion": 289
+    },
+    {
+      "titulo": "Sonny's Back",
+      "duracion": 248
+    },
+    {
+      "titulo": "Ruby, My Dear",
+      "duracion": 313
+    },
+    {
+      "titulo": "You're Not the Kind",
+      "duracion": 260
+    },
+    {
+      "titulo": "It Ain't Necessarily So",
+      "duracion": 270
+    },
+    {
+      "titulo": "Blues on My Mind",
+      "duracion": 449
+    },
+    {
+      "titulo": "Mad About the Boy",
+      "duracion": 439
+    },
+    {
+      "titulo": "Stablemates",
+      "duracion": 347
+    },
+    {
+      "titulo": "The Touch",
+      "duracion": 319
+    },
+    {
+      "titulo": "Richie's Dilemma",
+      "duracion": 315
+    },
+    {
+      "titulo": "Little Karin",
+      "duracion": 219
+    },
+    {
+      "titulo": "Thursday's Theme",
+      "duracion": 458
+    },
+    {
+      "titulo": "Mox Nix",
+      "duracion": 244
+    },
+    {
+      "titulo": "(I'm Afraid) The Masquerade Is Over",
+      "duracion": 282
+    },
+    {
+      "titulo": "Just in Time",
+      "duracion": 326
+    },
+    {
+      "titulo": "This Nearly Was Mine",
+      "duracion": 389
+    },
+    {
+      "titulo": "My Romance",
+      "duracion": 451
+    },
+    {
+      "titulo": "Out of This World",
+      "duracion": 231
+    },
+    {
+      "titulo": "Killer Joe",
+      "duracion": 254
+    },
+    {
+      "titulo": "Along Came Betty",
+      "duracion": 332
+    }
+  ],
+  "temasFuente": "Spotify"
 }

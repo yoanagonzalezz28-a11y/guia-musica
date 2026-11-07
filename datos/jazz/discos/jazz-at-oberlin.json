@@ -70,5 +70,28 @@
       "acceso": "indirecta",
       "aporta": "Gary Giddins: estaría en muchas listas de los mejores discos de la década. Nat Hentoff lo ubica entre lo mejor de Brubeck."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "These Foolish Things - Live",
+      "duracion": 393
+    },
+    {
+      "titulo": "Perdido - Live",
+      "duracion": 471
+    },
+    {
+      "titulo": "Stardust - Live At Finney Chapel / 1953",
+      "duracion": 390
+    },
+    {
+      "titulo": "The Way You Look Tonight - Live",
+      "duracion": 463
+    },
+    {
+      "titulo": "How High The Moon - Live",
+      "duracion": 542
+    }
+  ],
+  "temasFuente": "Spotify"
 }

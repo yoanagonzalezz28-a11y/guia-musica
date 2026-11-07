@@ -52,5 +52,36 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Harmony with Nature",
+      "duracion": 552
+    },
+    {
+      "titulo": "Joyful Spirits of the Universe",
+      "duracion": 641
+    },
+    {
+      "titulo": "Canopy & Stars",
+      "duracion": 472
+    },
+    {
+      "titulo": "Mindfulness Meditations",
+      "duracion": 170
+    },
+    {
+      "titulo": "Tropical Landscapes",
+      "duracion": 508
+    },
+    {
+      "titulo": "Salute to the Sun",
+      "duracion": 661
+    },
+    {
+      "titulo": "The Energy of Life",
+      "duracion": 440
+    }
+  ],
+  "temasFuente": "Spotify"
 }

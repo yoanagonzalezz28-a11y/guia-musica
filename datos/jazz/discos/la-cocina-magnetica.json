@@ -59,5 +59,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Cuatro Puentes",
+      "duracion": 514
+    },
+    {
+      "titulo": "Senegal",
+      "duracion": 308
+    },
+    {
+      "titulo": "Arrayán",
+      "duracion": 245
+    },
+    {
+      "titulo": "En la Frontera 1",
+      "duracion": 91
+    },
+    {
+      "titulo": "El Deambulador",
+      "duracion": 386
+    },
+    {
+      "titulo": "Sincronía",
+      "duracion": 479
+    },
+    {
+      "titulo": "Los Luminosos",
+      "duracion": 351
+    },
+    {
+      "titulo": "En la Frontera 2",
+      "duracion": 103
+    }
+  ],
+  "temasFuente": "Spotify"
 }

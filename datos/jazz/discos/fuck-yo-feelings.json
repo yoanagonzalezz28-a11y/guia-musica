@@ -54,5 +54,84 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Intro [Feat. Affion Crockett]",
+      "duracion": 287
+    },
+    {
+      "titulo": "This Changes Everything [Feat. Buddy, Denzel Curry, Terrace Martin, James Poyser]",
+      "duracion": 257
+    },
+    {
+      "titulo": "Gone [Feat. YBN Cordae, Bilal, Herbie Hancock]",
+      "duracion": 224
+    },
+    {
+      "titulo": "Let Me In [Feat. Mick Jenkins]",
+      "duracion": 280
+    },
+    {
+      "titulo": "In Case You Forgot",
+      "duracion": 102
+    },
+    {
+      "titulo": "Indulging In Such",
+      "duracion": 244
+    },
+    {
+      "titulo": "Fuck Yo Feelings",
+      "duracion": 150
+    },
+    {
+      "titulo": "Endangered Black Woman [Feat. Andra Day & Staceyann Chin]",
+      "duracion": 225
+    },
+    {
+      "titulo": "Expectations [Feat. Baby Rose, Rapsody, James Poyser]",
+      "duracion": 295
+    },
+    {
+      "titulo": "All I Do [Feat. SiR, Bridget Kelly, Song Bird]",
+      "duracion": 413
+    },
+    {
+      "titulo": "Aah Whoa [Feat. Muhsinah & Queen Sheba]",
+      "duracion": 175
+    },
+    {
+      "titulo": "I Want You",
+      "duracion": 168
+    },
+    {
+      "titulo": "Trade In Bars Yo [Feat. Herbie Hancock]",
+      "duracion": 102
+    },
+    {
+      "titulo": "DAF Fall Out",
+      "duracion": 121
+    },
+    {
+      "titulo": "Sunshine",
+      "duracion": 113
+    },
+    {
+      "titulo": "Liquid Swords",
+      "duracion": 277
+    },
+    {
+      "titulo": "DAF FTF",
+      "duracion": 273
+    },
+    {
+      "titulo": "Treal [Feat. Yasiin Bey]",
+      "duracion": 447
+    },
+    {
+      "titulo": "Cold",
+      "duracion": 120
+    }
+  ],
+  "temasFuente": "Spotify"
 }

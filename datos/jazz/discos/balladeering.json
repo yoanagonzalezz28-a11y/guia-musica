@@ -54,5 +54,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Weightless",
+      "duracion": 332
+    },
+    {
+      "titulo": "Evening Song",
+      "duracion": 280
+    },
+    {
+      "titulo": "Vraa",
+      "duracion": 435
+    },
+    {
+      "titulo": "Starting Point / Acoustic Version",
+      "duracion": 259
+    },
+    {
+      "titulo": "Greenland",
+      "duracion": 438
+    },
+    {
+      "titulo": "Terrace Place",
+      "duracion": 301
+    },
+    {
+      "titulo": "Sort",
+      "duracion": 240
+    },
+    {
+      "titulo": "Starting Point / Electric Version",
+      "duracion": 367
+    }
+  ],
+  "temasFuente": "Spotify"
 }

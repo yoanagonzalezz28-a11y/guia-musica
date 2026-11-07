@@ -54,5 +54,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Chords (Live)",
+      "duracion": 981
+    },
+    {
+      "titulo": "The Remedy (Live)",
+      "duracion": 697
+    },
+    {
+      "titulo": "Flute (Live)",
+      "duracion": 864
+    },
+    {
+      "titulo": "A Life Unfolds (Live)",
+      "duracion": 1072
+    },
+    {
+      "titulo": "View from Moscow (Live)",
+      "duracion": 771
+    },
+    {
+      "titulo": "Terra Nova (Live)",
+      "duracion": 703
+    },
+    {
+      "titulo": "Safe Corners (Live)",
+      "duracion": 1032
+    },
+    {
+      "titulo": "Myron's World (Live)",
+      "duracion": 1153
+    }
+  ],
+  "temasFuente": "Spotify"
 }

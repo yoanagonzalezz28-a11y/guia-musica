@@ -54,5 +54,52 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Seattle",
+      "duracion": 171
+    },
+    {
+      "titulo": "Chutzpan",
+      "duracion": 310
+    },
+    {
+      "titulo": "Lo Baiom Velo Balyla",
+      "duracion": 325
+    },
+    {
+      "titulo": "Pinzin Kinzin",
+      "duracion": 390
+    },
+    {
+      "titulo": "Puncha Puncha",
+      "duracion": 233
+    },
+    {
+      "titulo": "Eleven Wives",
+      "duracion": 316
+    },
+    {
+      "titulo": "Gently Disturbed",
+      "duracion": 228
+    },
+    {
+      "titulo": "The Ever Evolving Etude",
+      "duracion": 376
+    },
+    {
+      "titulo": "Variations in G Minor",
+      "duracion": 333
+    },
+    {
+      "titulo": "Umray",
+      "duracion": 343
+    },
+    {
+      "titulo": "Structure in Emotion",
+      "duracion": 381
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -93,5 +93,380 @@
       "acceso": "extracto",
       "aporta": "Ethan Iverson propone cantar estos solos como base de la enseñanza del jazz, en lugar de arrancar por transcripciones dificilísimas."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Gut Bucket Blues",
+      "duracion": 160
+    },
+    {
+      "titulo": "My Heart",
+      "duracion": 143
+    },
+    {
+      "titulo": "Yes! I'm in the Barrel",
+      "duracion": 156
+    },
+    {
+      "titulo": "Come Back, Sweet Papa",
+      "duracion": 146
+    },
+    {
+      "titulo": "Georgia Grind",
+      "duracion": 152
+    },
+    {
+      "titulo": "Heebie Jeebies",
+      "duracion": 172
+    },
+    {
+      "titulo": "Cornet Chop Suey",
+      "duracion": 175
+    },
+    {
+      "titulo": "Oriental Strut",
+      "duracion": 179
+    },
+    {
+      "titulo": "You're Next",
+      "duracion": 195
+    },
+    {
+      "titulo": "Muskrat Ramble",
+      "duracion": 150
+    },
+    {
+      "titulo": "Don't Forget To Mess Around",
+      "duracion": 182
+    },
+    {
+      "titulo": "I'm Gonna Gitcha",
+      "duracion": 163
+    },
+    {
+      "titulo": "Droppin' Shucks",
+      "duracion": 170
+    },
+    {
+      "titulo": "Who'sit",
+      "duracion": 164
+    },
+    {
+      "titulo": "The King of the Zulus",
+      "duracion": 183
+    },
+    {
+      "titulo": "Big Fat Ma and Skinny Pa",
+      "duracion": 178
+    },
+    {
+      "titulo": "Lonesome Blues",
+      "duracion": 182
+    },
+    {
+      "titulo": "Sweet Little Papa",
+      "duracion": 163
+    },
+    {
+      "titulo": "Jazz Lips",
+      "duracion": 180
+    },
+    {
+      "titulo": "Skid-Dat-De-Dat",
+      "duracion": 182
+    },
+    {
+      "titulo": "Big Butter And Egg Man",
+      "duracion": 177
+    },
+    {
+      "titulo": "Sunset Cafe Stomp",
+      "duracion": 163
+    },
+    {
+      "titulo": "You Made Me Love You",
+      "duracion": 171
+    },
+    {
+      "titulo": "Irish Black Bottom",
+      "duracion": 158
+    },
+    {
+      "titulo": "Pause Track",
+      "duracion": 4
+    },
+    {
+      "titulo": "Put 'Em Down Blues",
+      "duracion": 192
+    },
+    {
+      "titulo": "Ory's Creole Trombone",
+      "duracion": 182
+    },
+    {
+      "titulo": "The Last Time",
+      "duracion": 207
+    },
+    {
+      "titulo": "Struttin' with Some Barbecue - 78 rpm Version",
+      "duracion": 184
+    },
+    {
+      "titulo": "Got No Blues",
+      "duracion": 204
+    },
+    {
+      "titulo": "Once In a While",
+      "duracion": 196
+    },
+    {
+      "titulo": "I'm Not Rough",
+      "duracion": 182
+    },
+    {
+      "titulo": "Hotter Than That",
+      "duracion": 182
+    },
+    {
+      "titulo": "Savoy Blues",
+      "duracion": 205
+    },
+    {
+      "titulo": "He Likes It Slow",
+      "duracion": 161
+    },
+    {
+      "titulo": "Gambler's Dream",
+      "duracion": 144
+    },
+    {
+      "titulo": "Sunshine Baby",
+      "duracion": 164
+    },
+    {
+      "titulo": "Adam and Eve Had the Blues",
+      "duracion": 194
+    },
+    {
+      "titulo": "Put It Where I Can Get It",
+      "duracion": 174
+    },
+    {
+      "titulo": "Wash Woman Blues",
+      "duracion": 176
+    },
+    {
+      "titulo": "I've Stopped My Man",
+      "duracion": 171
+    },
+    {
+      "titulo": "Georgia Bo Bo",
+      "duracion": 181
+    },
+    {
+      "titulo": "Drop That Sack (Common Take)",
+      "duracion": 166
+    },
+    {
+      "titulo": "Drop That Sack (Common Take) - rare take",
+      "duracion": 164
+    },
+    {
+      "titulo": "Cornet Chop Suey - in Eb",
+      "duracion": 196
+    },
+    {
+      "titulo": "Pause Track",
+      "duracion": 4
+    },
+    {
+      "titulo": "Willie the Weeper",
+      "duracion": 186
+    },
+    {
+      "titulo": "Wild Man Blues",
+      "duracion": 189
+    },
+    {
+      "titulo": "Alligator Crawl",
+      "duracion": 181
+    },
+    {
+      "titulo": "Potato Head Blues",
+      "duracion": 175
+    },
+    {
+      "titulo": "Melancholy",
+      "duracion": 180
+    },
+    {
+      "titulo": "Weary Blues",
+      "duracion": 178
+    },
+    {
+      "titulo": "Twelfth Street Rag",
+      "duracion": 183
+    },
+    {
+      "titulo": "Keyhole Blues",
+      "duracion": 206
+    },
+    {
+      "titulo": "S.O.L. Blues",
+      "duracion": 173
+    },
+    {
+      "titulo": "Gully Low Blues",
+      "duracion": 194
+    },
+    {
+      "titulo": "That's When I'll Come Back to You",
+      "duracion": 175
+    },
+    {
+      "titulo": "Chicago Breakdown",
+      "duracion": 198
+    },
+    {
+      "titulo": "Weary Blues",
+      "duracion": 168
+    },
+    {
+      "titulo": "New Orleans Stomp",
+      "duracion": 164
+    },
+    {
+      "titulo": "Wild Man Blues (Dodds - Rare Take) - Dodds-common take",
+      "duracion": 181
+    },
+    {
+      "titulo": "Wild Man Blues (Dodds - Rare Take)",
+      "duracion": 186
+    },
+    {
+      "titulo": "Melancholy (Dodds - Rare Take) - common take",
+      "duracion": 185
+    },
+    {
+      "titulo": "Melancholy (Dodds - Rare Take)",
+      "duracion": 201
+    },
+    {
+      "titulo": "You're a Real Sweetheart",
+      "duracion": 189
+    },
+    {
+      "titulo": "Too Busy",
+      "duracion": 174
+    },
+    {
+      "titulo": "Was It a Dream?",
+      "duracion": 179
+    },
+    {
+      "titulo": "Last Night I Dreamed You Kissed Me",
+      "duracion": 189
+    },
+    {
+      "titulo": "Pause Track",
+      "duracion": 4
+    },
+    {
+      "titulo": "Fireworks",
+      "duracion": 187
+    },
+    {
+      "titulo": "Skip the Gutter",
+      "duracion": 187
+    },
+    {
+      "titulo": "A Monday Date",
+      "duracion": 191
+    },
+    {
+      "titulo": "Don't Jive Me",
+      "duracion": 167
+    },
+    {
+      "titulo": "West End Blues",
+      "duracion": 199
+    },
+    {
+      "titulo": "Sugar Foot Strut",
+      "duracion": 199
+    },
+    {
+      "titulo": "Two Deuces",
+      "duracion": 176
+    },
+    {
+      "titulo": "Squeeze Me",
+      "duracion": 202
+    },
+    {
+      "titulo": "Knee Drops",
+      "duracion": 204
+    },
+    {
+      "titulo": "No (Papa, No)",
+      "duracion": 171
+    },
+    {
+      "titulo": "Basin Street Blues",
+      "duracion": 195
+    },
+    {
+      "titulo": "No One Else But You",
+      "duracion": 200
+    },
+    {
+      "titulo": "Beau Koo Jack",
+      "duracion": 179
+    },
+    {
+      "titulo": "Save It, Pretty Mama",
+      "duracion": 194
+    },
+    {
+      "titulo": "Muggles",
+      "duracion": 170
+    },
+    {
+      "titulo": "Heah Me Talkin' To Ya?",
+      "duracion": 196
+    },
+    {
+      "titulo": "St. James Infirmary",
+      "duracion": 192
+    },
+    {
+      "titulo": "Tight Like This",
+      "duracion": 192
+    },
+    {
+      "titulo": "Weather Bird",
+      "duracion": 165
+    },
+    {
+      "titulo": "I Can't Give You Anything But Love (Common Take)",
+      "duracion": 203
+    },
+    {
+      "titulo": "I Can't Give You Anything But Love - rare take",
+      "duracion": 206
+    },
+    {
+      "titulo": "Mahogany Hall Stomp",
+      "duracion": 194
+    },
+    {
+      "titulo": "Knockin' A Jug - 78 rpm Version",
+      "duracion": 194
+    },
+    {
+      "titulo": "Pause Track",
+      "duracion": 4
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -54,5 +54,56 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "When It Rains",
+      "duracion": 397
+    },
+    {
+      "titulo": "You're Vibing Me",
+      "duracion": 208
+    },
+    {
+      "titulo": "Dusty McNugget",
+      "duracion": 343
+    },
+    {
+      "titulo": "Dropjes",
+      "duracion": 238
+    },
+    {
+      "titulo": "Paranoid Android",
+      "duracion": 545
+    },
+    {
+      "titulo": "Franklin Avenue",
+      "duracion": 222
+    },
+    {
+      "titulo": "Sabbath",
+      "duracion": 282
+    },
+    {
+      "titulo": "Dear Prudence",
+      "duracion": 322
+    },
+    {
+      "titulo": "Free Willy",
+      "duracion": 306
+    },
+    {
+      "titulo": "Alvarado",
+      "duracion": 240
+    },
+    {
+      "titulo": "Wave / Mother Nature's Son",
+      "duracion": 389
+    },
+    {
+      "titulo": "I Do",
+      "duracion": 438
+    }
+  ],
+  "temasFuente": "Spotify"
 }

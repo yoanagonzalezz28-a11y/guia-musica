@@ -54,5 +54,44 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Bhajan",
+      "duracion": 283
+    },
+    {
+      "titulo": "Bismillah",
+      "duracion": 485
+    },
+    {
+      "titulo": "Dreaming",
+      "duracion": 275
+    },
+    {
+      "titulo": "Eyes Closed",
+      "duracion": 211
+    },
+    {
+      "titulo": "Hail",
+      "duracion": 229
+    },
+    {
+      "titulo": "Indefinite Leave To Remain",
+      "duracion": 350
+    },
+    {
+      "titulo": "Karam",
+      "duracion": 336
+    },
+    {
+      "titulo": "Lost Parade",
+      "duracion": 73
+    },
+    {
+      "titulo": "Mawra - Transcendence",
+      "duracion": 298
+    }
+  ],
+  "temasFuente": "Spotify"
 }

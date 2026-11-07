@@ -54,5 +54,32 @@
     "wikidata": null,
     "wikipedia": "The_Turnaround!"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "The Turnaround - Remastered 2000/Rudy Van Gelder Edition",
+      "duracion": 496
+    },
+    {
+      "titulo": "East Of The Village - Remastered 2000/Rudy Van Gelder Edition",
+      "duracion": 404
+    },
+    {
+      "titulo": "The Good Life - Remastered 2000/Rudy Van Gelder Edition",
+      "duracion": 309
+    },
+    {
+      "titulo": "Straight Ahead - Remastered 2000/Rudy Van Gelder Edition",
+      "duracion": 423
+    },
+    {
+      "titulo": "My Sin - Remastered 2000/Rudy Van Gelder Edition",
+      "duracion": 413
+    },
+    {
+      "titulo": "Pat 'N Chat - Remastered 2000/Rudy Van Gelder Edition",
+      "duracion": 389
+    }
+  ],
+  "temasFuente": "Spotify"
 }

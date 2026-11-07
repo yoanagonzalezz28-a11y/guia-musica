@@ -54,5 +54,44 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Passage",
+      "duracion": 376
+    },
+    {
+      "titulo": "A Cosmic Rhythm With Each Stroke: All Becomes Alive",
+      "duracion": 549
+    },
+    {
+      "titulo": "A Cosmic Rhythm With Each Stroke: The Empty Mind Receives",
+      "duracion": 295
+    },
+    {
+      "titulo": "A Cosmic Rhythm With Each Stroke: Labyrinths",
+      "duracion": 403
+    },
+    {
+      "titulo": "A Cosmic Rhythm With Each Stroke: A Divine Courage",
+      "duracion": 553
+    },
+    {
+      "titulo": "A Cosmic Rhythm With Each Stroke: Uncut Emeralds",
+      "duracion": 463
+    },
+    {
+      "titulo": "A Cosmic Rhythm With Each Stroke: A Cold Fire",
+      "duracion": 355
+    },
+    {
+      "titulo": "A Cosmic Rhythm With Each Stroke: Notes On Water",
+      "duracion": 478
+    },
+    {
+      "titulo": "Marian Anderson",
+      "duracion": 504
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -71,5 +71,40 @@
       "acceso": "indirecta",
       "aporta": "Martin Taylor, citado en la Penguin Guide: \"a turning point in jazz\"."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Bright Size Life",
+      "duracion": 286
+    },
+    {
+      "titulo": "Sirabhorn",
+      "duracion": 327
+    },
+    {
+      "titulo": "Unity Village",
+      "duracion": 223
+    },
+    {
+      "titulo": "Missouri Uncompromised",
+      "duracion": 256
+    },
+    {
+      "titulo": "Midwestern Nights Dream",
+      "duracion": 366
+    },
+    {
+      "titulo": "Unquity Road",
+      "duracion": 216
+    },
+    {
+      "titulo": "Omaha Celebration",
+      "duracion": 258
+    },
+    {
+      "titulo": "Round Trip / Broadway Blues",
+      "duracion": 301
+    }
+  ],
+  "temasFuente": "Spotify"
 }

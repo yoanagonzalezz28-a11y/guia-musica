@@ -54,5 +54,24 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "These Are Soulful Days - Rudy Van Gelder Edition / 2002 Remaster",
+      "duracion": 565
+    },
+    {
+      "titulo": "The Lion And The Wolf - Rudy Van Gelder Edition / 2002 Remaster",
+      "duracion": 581
+    },
+    {
+      "titulo": "Midtown Blues - Rudy Van Gelder Edition / 2002 Remaster",
+      "duracion": 730
+    },
+    {
+      "titulo": "Nakatini Suite - Rudy Van Gelder Edition / 2002 Remaster",
+      "duracion": 490
+    }
+  ],
+  "temasFuente": "Spotify"
 }

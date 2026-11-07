@@ -52,5 +52,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Murmuration",
+      "duracion": 253
+    },
+    {
+      "titulo": "Garden Dog Barbecue",
+      "duracion": 225
+    },
+    {
+      "titulo": "Kamaloka",
+      "duracion": 321
+    },
+    {
+      "titulo": "Fort",
+      "duracion": 197
+    },
+    {
+      "titulo": "One Percent",
+      "duracion": 336
+    },
+    {
+      "titulo": "Home",
+      "duracion": 322
+    },
+    {
+      "titulo": "The Letter",
+      "duracion": 374
+    },
+    {
+      "titulo": "To Drown in You",
+      "duracion": 388
+    },
+    {
+      "titulo": "Shock and Awe",
+      "duracion": 193
+    },
+    {
+      "titulo": "Hopopono",
+      "duracion": 235
+    }
+  ],
+  "temasFuente": "Spotify"
 }

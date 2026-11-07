@@ -59,5 +59,80 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Hombre Cabecilla",
+      "duracion": 197
+    },
+    {
+      "titulo": "Hado",
+      "duracion": 144
+    },
+    {
+      "titulo": "Pequeña Canción",
+      "duracion": 67
+    },
+    {
+      "titulo": "Ladrarán",
+      "duracion": 105
+    },
+    {
+      "titulo": "Hoy el Sur",
+      "duracion": 134
+    },
+    {
+      "titulo": "Bichos",
+      "duracion": 226
+    },
+    {
+      "titulo": "Veintidós",
+      "duracion": 136
+    },
+    {
+      "titulo": "Llegaste a mi Jardín",
+      "duracion": 112
+    },
+    {
+      "titulo": "Cristal",
+      "duracion": 297
+    },
+    {
+      "titulo": "Se Diluye",
+      "duracion": 124
+    },
+    {
+      "titulo": "Luna de Verano",
+      "duracion": 141
+    },
+    {
+      "titulo": "Evolución Cotidiana",
+      "duracion": 172
+    },
+    {
+      "titulo": "Blanca",
+      "duracion": 105
+    },
+    {
+      "titulo": "Como el Agua Caer",
+      "duracion": 200
+    },
+    {
+      "titulo": "Canción de Lucas",
+      "duracion": 178
+    },
+    {
+      "titulo": "Princesa de Mar",
+      "duracion": 91
+    },
+    {
+      "titulo": "El Tren",
+      "duracion": 136
+    },
+    {
+      "titulo": "No te vi",
+      "duracion": 272
+    }
+  ],
+  "temasFuente": "Spotify"
 }

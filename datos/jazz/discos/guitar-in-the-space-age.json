@@ -54,5 +54,64 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Pipeline",
+      "duracion": 426
+    },
+    {
+      "titulo": "Turn, Turn, Turn",
+      "duracion": 161
+    },
+    {
+      "titulo": "Messin' with the Kid",
+      "duracion": 179
+    },
+    {
+      "titulo": "Surfer Girl",
+      "duracion": 254
+    },
+    {
+      "titulo": "Rumble",
+      "duracion": 296
+    },
+    {
+      "titulo": "The Shortest Day",
+      "duracion": 297
+    },
+    {
+      "titulo": "Rebel Rouser",
+      "duracion": 219
+    },
+    {
+      "titulo": "Baja",
+      "duracion": 218
+    },
+    {
+      "titulo": "Cannonball Rag",
+      "duracion": 177
+    },
+    {
+      "titulo": "Tired of Waiting for You",
+      "duracion": 362
+    },
+    {
+      "titulo": "Reflections from the Moon",
+      "duracion": 202
+    },
+    {
+      "titulo": "Bryant's Boogie",
+      "duracion": 189
+    },
+    {
+      "titulo": "Lift Off",
+      "duracion": 138
+    },
+    {
+      "titulo": "Telstar",
+      "duracion": 195
+    }
+  ],
+  "temasFuente": "Spotify"
 }

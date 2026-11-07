@@ -54,5 +54,92 @@
     "wikidata": null,
     "wikipedia": "Dave_Digs_Disney"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Alice in Wonderland - Mono Version",
+      "duracion": 566
+    },
+    {
+      "titulo": "Give a Little Whistle - Mono Version",
+      "duracion": 454
+    },
+    {
+      "titulo": "Heigh-Ho (The Dwarfs' Marching Song) - Mono Version",
+      "duracion": 236
+    },
+    {
+      "titulo": "When You Wish Upon a Star - Mono Version",
+      "duracion": 290
+    },
+    {
+      "titulo": "Some Day My Prince Will Come - Mono Version",
+      "duracion": 497
+    },
+    {
+      "titulo": "One Song - Mono Version",
+      "duracion": 300
+    },
+    {
+      "titulo": "Very Good Advice - Mono Version",
+      "duracion": 332
+    },
+    {
+      "titulo": "So This Is Love - Mono Version",
+      "duracion": 355
+    },
+    {
+      "titulo": "Alice in Wonderland - Stereo Version",
+      "duracion": 565
+    },
+    {
+      "titulo": "Give A Little Whistle - Stereo Version",
+      "duracion": 454
+    },
+    {
+      "titulo": "Heigh-Ho (The Dwarfs' Marching Song) - Stereo Version",
+      "duracion": 262
+    },
+    {
+      "titulo": "When You Wish Upon a Star - Stereo Version",
+      "duracion": 293
+    },
+    {
+      "titulo": "Someday My Prince Will Come - Stereo Version",
+      "duracion": 493
+    },
+    {
+      "titulo": "One Song - Stereo Version",
+      "duracion": 294
+    },
+    {
+      "titulo": "Very Good Advice - Stereo Version",
+      "duracion": 333
+    },
+    {
+      "titulo": "So This Is Love - previously unreleased alternate take",
+      "duracion": 272
+    },
+    {
+      "titulo": "Heigh-Ho (The Dwarfs' Marching Song) - alternate take",
+      "duracion": 256
+    },
+    {
+      "titulo": "When You Wish Upon A Star - alternate take",
+      "duracion": 346
+    },
+    {
+      "titulo": "Someday My Prince Will Come - alternate take",
+      "duracion": 315
+    },
+    {
+      "titulo": "So This Is Love - alternate take",
+      "duracion": 276
+    },
+    {
+      "titulo": "One Song - Mono Version",
+      "duracion": 278
+    }
+  ],
+  "temasFuente": "Spotify"
 }

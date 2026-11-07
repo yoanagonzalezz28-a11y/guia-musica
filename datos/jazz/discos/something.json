@@ -54,5 +54,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Games People Play",
+      "duracion": 232
+    },
+    {
+      "titulo": "Because",
+      "duracion": 226
+    },
+    {
+      "titulo": "Can I Change My Mind",
+      "duracion": 178
+    },
+    {
+      "titulo": "Someday We'll Be Together",
+      "duracion": 185
+    },
+    {
+      "titulo": "Something",
+      "duracion": 208
+    },
+    {
+      "titulo": "I Want You Back",
+      "duracion": 162
+    },
+    {
+      "titulo": "Messie Bessie",
+      "duracion": 258
+    },
+    {
+      "titulo": "Brand New Me",
+      "duracion": 250
+    }
+  ],
+  "temasFuente": "Spotify"
 }

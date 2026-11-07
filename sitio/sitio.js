@@ -203,16 +203,19 @@
       const entradas = Object.entries(Marcas.leer().marcas).sort((a, b) => b[1].actualizado.localeCompare(a[1].actualizado));
       lista.textContent = '';
       vacio.hidden = entradas.length > 0;
-      const escuchados = entradas.filter(([, m]) => m.escuchado).length;
-      resumen.textContent = entradas.length ? `${entradas.length} ${entradas.length === 1 ? 'disco marcado' : 'discos marcados'}, ${escuchados} ${escuchados === 1 ? 'escuchado' : 'escuchados'}` : 'Tus discos marcados';
+      const cuenta = t => entradas.filter(([id, m]) => id.startsWith(t) && (m.escuchado || m.completada)).length;
+      const [d, mu, c] = [cuenta('disco:'), cuenta('musico:'), cuenta('corriente:')];
+      resumen.textContent = entradas.length ? `${d} ${d === 1 ? 'disco escuchado' : 'discos escuchados'}, ${mu} ${mu === 1 ? 'músico visto' : 'músicos vistos'} y ${c} ${c === 1 ? 'época completada' : 'épocas completadas'}` : 'Tus marcas';
       for (const [id, m] of entradas) {
         const li = document.createElement('li');
         const a = document.createElement('a');
-        a.href = `${raiz}jazz/discos/${id.split(':')[1]}/`;
+        const [tipo, clave] = id.split(':');
+        a.href = `${raiz}jazz/${{ disco: 'discos', musico: 'musicos', corriente: 'corrientes' }[tipo] || 'discos'}/${clave}/`;
         a.textContent = m.titulo || id;
         const datos = document.createElement('span');
         datos.className = 'marca-datos';
-        datos.textContent = [m.escuchado ? 'Escuchado' : 'Sin escuchar', m.puntaje ? `${m.puntaje}/5` : ''].filter(Boolean).join(' · ');
+        const estado = tipo === 'corriente' ? (m.completada ? `Época completada el ${new Date(m.fechaCompletada).toLocaleDateString('es-AR')}` : 'Época') : tipo === 'musico' ? (m.escuchado ? 'Músico visto' : 'Músico') : (m.escuchado ? 'Escuchado' : 'Sin escuchar');
+        datos.textContent = [estado, m.puntaje ? `${m.puntaje}/5` : ''].filter(Boolean).join(' · ');
         li.append(a, datos);
         for (const n of m.notas || []) {
           const p = document.createElement('p');
@@ -252,6 +255,185 @@
     pintar();
   }
 
+  // ---------- Tema claro u oscuro ----------
+  // Crema por defecto; el oscuro se elige con el botón y se recuerda en este navegador.
+  function iniciarTema() {
+    const boton = document.querySelector('[data-tema]');
+    if (!boton) return;
+    const pintar = () => {
+      const oscuro = document.documentElement.dataset.theme === 'dark';
+      boton.setAttribute('aria-pressed', String(oscuro));
+      boton.textContent = oscuro ? 'Claro' : 'Oscuro';
+      boton.setAttribute('aria-label', oscuro ? 'Pasar al tema claro' : 'Pasar al tema oscuro');
+    };
+    boton.addEventListener('click', () => {
+      const oscuro = document.documentElement.dataset.theme !== 'dark';
+      if (oscuro) document.documentElement.dataset.theme = 'dark'; else delete document.documentElement.dataset.theme;
+      try { localStorage.setItem('banco-musica:tema', oscuro ? 'oscuro' : 'claro'); } catch (_) { /* sin almacenamiento: dura lo que la página */ }
+      pintar();
+    });
+    pintar();
+  }
+
+  // ---------- Progreso: discos escuchados, músicos vistos y épocas completadas ----------
+  const CAMINO = window.CAMINO || { corrientes: [], musicos: {} };
+  const escuchado = (marcas, id) => !!marcas[`disco:${id}`]?.escuchado;
+  // Un músico cuenta como visto si se lo marcó a él o si escuchaste algún disco suyo.
+  function vistoMusico(marcas, id) {
+    if (marcas[`musico:${id}`]?.escuchado) return 'marcado';
+    return (CAMINO.musicos[id] || []).some(d => escuchado(marcas, d)) ? 'por-disco' : '';
+  }
+  function progresoDe(marcas, c) {
+    const total = c.discos.length + c.musicos.length;
+    const hechos = c.discos.filter(d => escuchado(marcas, d)).length + c.musicos.filter(m => vistoMusico(marcas, m)).length;
+    const completa = !!marcas[`corriente:${c.id}`]?.completada;
+    // La primera actividad en la época es lo que la ubica en el camino.
+    const fechas = [
+      ...c.discos.filter(d => escuchado(marcas, d)).map(d => marcas[`disco:${d}`].fechaEscuchado),
+      ...c.musicos.filter(m => marcas[`musico:${m}`]?.escuchado).map(m => marcas[`musico:${m}`].fechaEscuchado),
+      completa ? marcas[`corriente:${c.id}`].fechaCompletada : null,
+    ].filter(Boolean).sort();
+    return { total, hechos, completa, p: completa ? 100 : total ? Math.round((hechos / total) * 100) : 0, desde: fechas[0] || null };
+  }
+  const tintas = c => `--tinta-c:${c.tinta};--tinta-c-texto:${c.texto};--tinta-c-claro:${c.claro};--tinta-c-oscuro:${c.oscuro}`;
+  const fecha = f => new Date(f).toLocaleDateString('es-AR', { day: 'numeric', month: 'short', year: 'numeric' });
+  const el = (etiqueta, props = {}, ...hijos) => { const e = Object.assign(document.createElement(etiqueta), props); e.append(...hijos); return e; };
+
+  // Las casillas "Escuchado" y "Visto" que hay en cada lista.
+  function pintarCasillas(marcas) {
+    $$('[data-marcar]').forEach(input => {
+      const [tipo, id] = input.dataset.marcar.split(':');
+      const etiqueta = input.closest('.marcar');
+      if (tipo === 'musico') {
+        const v = vistoMusico(marcas, id);
+        input.checked = !!v;
+        etiqueta.classList.toggle('por-disco', v === 'por-disco');
+      } else input.checked = !!marcas[input.dataset.marcar]?.escuchado;
+    });
+  }
+  function iniciarCasillas() {
+    document.addEventListener('change', e => {
+      const input = e.target.closest('[data-marcar]');
+      if (!input) return;
+      const etiqueta = input.closest('.marcar');
+      // Si estaba visto solo por un disco, destildarlo no borra el disco: se marca al músico explícitamente.
+      const marcarExplicito = etiqueta.classList.contains('por-disco') ? true : input.checked;
+      Marcas.guardar(input.dataset.marcar, { escuchado: marcarExplicito }, input.dataset.marcarTitulo);
+      repintar();
+    });
+  }
+
+  function pintarStickers(marcas) {
+    $$('[data-progreso]').forEach(s => {
+      const c = CAMINO.corrientes.find(x => x.id === s.dataset.progreso);
+      if (!c) return;
+      const pr = progresoDe(marcas, c);
+      if (!pr.hechos && !pr.completa) { delete s.dataset.p; return; }
+      s.dataset.p = pr.p;
+      s.style.setProperty('--p', pr.p);
+      s.classList.toggle('completa', pr.completa);
+      s.title = pr.completa ? 'Época completada' : `${pr.hechos} de ${pr.total} marcados`;
+    });
+  }
+
+  function iniciarCompletar() {
+    const boton = document.querySelector('[data-completar]');
+    if (!boton) return;
+    boton.addEventListener('click', () => {
+      const actual = !!Marcas.leer().marcas[boton.dataset.completar]?.completada;
+      Marcas.guardar(boton.dataset.completar, { completada: !actual }, boton.dataset.completarTitulo);
+      repintar();
+    });
+  }
+  function pintarCompletar(marcas) {
+    const boton = document.querySelector('[data-completar]');
+    if (!boton) return;
+    const m = marcas[boton.dataset.completar];
+    const hecha = !!m?.completada;
+    boton.setAttribute('aria-pressed', String(hecha));
+    boton.textContent = hecha ? 'Época completada' : 'Marcar época como completada';
+    const f = document.querySelector('[data-completar-fecha]');
+    if (f) f.textContent = hecha ? `La completaste el ${fecha(m.fechaCompletada)}. Tocá de nuevo para desmarcarla.` : '';
+  }
+
+  // ---------- Tu camino: la línea de metro ----------
+  function pintarMetro(marcas) {
+    const metro = document.querySelector('[data-metro]');
+    if (!metro) return;
+    const todas = CAMINO.corrientes.map(c => ({ c, pr: progresoDe(marcas, c) }));
+    const paradas = todas.filter(x => x.pr.desde).sort((a, b) => a.pr.desde.localeCompare(b.pr.desde));
+    const visitadas = new Set(paradas.map(x => x.c.id));
+    const hijasDe = id => CAMINO.corrientes.filter(c => c.deriva.includes(id) && !visitadas.has(c.id));
+    metro.textContent = '';
+
+    const linea = el('ol', { className: 'metro-linea' });
+    for (const { c, pr } of paradas) {
+      const li = el('li', { className: `parada${pr.completa ? ' completa' : ''}` });
+      li.style.cssText = `${tintas(c)};--p:${pr.p}`;
+      const datos = pr.completa ? `Completada el ${fecha(marcas[`corriente:${c.id}`].fechaCompletada)}` : `Desde el ${fecha(pr.desde)} · ${pr.hechos} de ${pr.total} marcados`;
+      const cuerpo = el('div', {}, el('a', { className: 'parada-nombre', href: raiz + c.url, textContent: c.nombre }), el('span', { className: 'parada-datos dato', textContent: datos }));
+      // Donde el estilo se divide, el camino muestra las ramas que salen de una época completada.
+      const ramas = pr.completa ? hijasDe(c.id) : [];
+      if (ramas.length) {
+        const ul = el('ul', { className: 'ramas', ariaLabel: `Ramas que salen de ${c.nombre}` });
+        for (const h of ramas) {
+          const r = el('li', { className: 'rama' }, el('span', { className: 'rama-punto' }), el('span', {}, el('a', { href: raiz + h.url, textContent: h.nombre }), el('span', { className: 'dato', textContent: ` ${h.desde}–${h.hasta}` })));
+          r.style.cssText = tintas(h);
+          ul.append(r);
+        }
+        cuerpo.append(ul);
+      }
+      li.append(el('span', { className: 'parada-punto', ariaHidden: 'true' }), cuerpo);
+      linea.append(li);
+    }
+
+    const pendientes = todas.filter(x => !visitadas.has(x.c.id)).map(x => x.c);
+    const sugerida = siguienteParada(paradas, pendientes, hijasDe);
+    if (paradas.length) metro.append(linea);
+    else metro.append(el('p', { className: 'metro-vacio', textContent: 'Todavía no hay paradas. Marcá un disco o un músico en cualquier época y aparece acá.' }));
+
+    if (pendientes.length) {
+      const elegir = el('div', { className: 'metro-elegir' });
+      if (sugerida) elegir.append(el('span', { className: 'dato', textContent: paradas.length ? 'Próxima parada:' : 'Para empezar:' }), el('a', { className: 'boton boton-chico', href: raiz + sugerida.url, textContent: sugerida.nombre }));
+      const select = el('select', { ariaLabel: 'Elegir otra época' }, el('option', { value: '', textContent: 'O elegí otra…' }), ...pendientes.map(c => el('option', { value: raiz + c.url, textContent: `${c.nombre} (${c.desde})` })));
+      select.addEventListener('change', () => { if (select.value) location.href = select.value; });
+      elegir.append(select);
+      metro.append(elegir);
+    }
+  }
+
+  // Próxima parada: la primera rama que sale de la última época visitada; si no hay, la siguiente por año de inicio.
+  function siguienteParada(paradas, pendientes, hijasDe) {
+    if (!paradas.length) return pendientes[0] || null;
+    const ultima = paradas[paradas.length - 1];
+    return hijasDe(ultima.c.id)[0] || pendientes[0] || null;
+  }
+
+  function repintar() {
+    const marcas = Marcas.leer().marcas;
+    pintarCasillas(marcas);
+    pintarStickers(marcas);
+    pintarCompletar(marcas);
+    pintarMetro(marcas);
+    pintarChips();
+  }
+
+  // Las notas al pie: el numerito gris abre la línea plegada "Fuentes".
+  function iniciarRefs() {
+    document.addEventListener('click', e => {
+      const a = e.target.closest('.refs a');
+      if (!a) return;
+      const plegado = document.getElementById('fuentes');
+      if (plegado) plegado.open = true;
+    });
+  }
+
+  iniciarTema();
+  iniciarCasillas();
+  iniciarCompletar();
+  iniciarRefs();
+  repintar();
+  window.addEventListener('storage', e => { if (e.key === 'banco-musica:marcas') repintar(); });
   iniciarBuscador();
   iniciarFichaMarcas();
   pintarChips();

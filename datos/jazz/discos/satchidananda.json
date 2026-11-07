@@ -88,5 +88,28 @@
       "acceso": "indirecta",
       "aporta": "Thom Jurek: \"necessary for anyone interested in the development of modal and experimental jazz\"."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Journey In Satchidananda",
+      "duracion": 396
+    },
+    {
+      "titulo": "Shiva-Loka",
+      "duracion": 394
+    },
+    {
+      "titulo": "Stopover Bombay",
+      "duracion": 172
+    },
+    {
+      "titulo": "Something About John Coltrane",
+      "duracion": 581
+    },
+    {
+      "titulo": "Isis And Osiris - Live At Village Gate, NY, 1970",
+      "duracion": 692
+    }
+  ],
+  "temasFuente": "Spotify"
 }

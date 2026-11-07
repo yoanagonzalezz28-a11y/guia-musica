@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Mas Que Nada",
+      "duracion": 148
+    },
+    {
+      "titulo": "Manha De Carnaval",
+      "duracion": 225
+    },
+    {
+      "titulo": "Call Me",
+      "duracion": 320
+    },
+    {
+      "titulo": "How Insensitive",
+      "duracion": 243
+    },
+    {
+      "titulo": "Carioca",
+      "duracion": 272
+    },
+    {
+      "titulo": "Soulville Samba",
+      "duracion": 145
+    },
+    {
+      "titulo": "Amanha",
+      "duracion": 262
+    },
+    {
+      "titulo": "Meditation",
+      "duracion": 255
+    },
+    {
+      "titulo": "Samba Sensitive",
+      "duracion": 200
+    },
+    {
+      "titulo": "Samba De Orfeu",
+      "duracion": 231
+    }
+  ],
+  "temasFuente": "Spotify"
 }

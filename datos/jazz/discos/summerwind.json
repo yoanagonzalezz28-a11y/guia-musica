@@ -59,5 +59,68 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Autumn Leaves",
+      "duracion": 238
+    },
+    {
+      "titulo": "Saluto dardamente",
+      "duracion": 175
+    },
+    {
+      "titulo": "Le matin",
+      "duracion": 201
+    },
+    {
+      "titulo": "Stilla Storm",
+      "duracion": 176
+    },
+    {
+      "titulo": "Jag lyfter ögat mot himmelen",
+      "duracion": 245
+    },
+    {
+      "titulo": "Un Vestido y un Amor",
+      "duracion": 233
+    },
+    {
+      "titulo": "Drexciya",
+      "duracion": 108
+    },
+    {
+      "titulo": "Dardusó",
+      "duracion": 235
+    },
+    {
+      "titulo": "Stanna Tid",
+      "duracion": 181
+    },
+    {
+      "titulo": "Sleep Safe and Warm",
+      "duracion": 266
+    },
+    {
+      "titulo": "April in Dardegna",
+      "duracion": 221
+    },
+    {
+      "titulo": "Amigos",
+      "duracion": 170
+    },
+    {
+      "titulo": "Wachet auf, ruft uns die Stimme",
+      "duracion": 186
+    },
+    {
+      "titulo": "Dardodentro",
+      "duracion": 173
+    },
+    {
+      "titulo": "De la solitude mesurée",
+      "duracion": 154
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -54,5 +54,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Chonks",
+      "duracion": 512
+    },
+    {
+      "titulo": "Bigly Strictness",
+      "duracion": 457
+    },
+    {
+      "titulo": "Coven",
+      "duracion": 398
+    },
+    {
+      "titulo": "Bling Bling",
+      "duracion": 355
+    },
+    {
+      "titulo": "Xavi",
+      "duracion": 571
+    },
+    {
+      "titulo": "While We're Young",
+      "duracion": 162
+    },
+    {
+      "titulo": "Bad Kids To The Back",
+      "duracion": 346
+    },
+    {
+      "titulo": "Even Us",
+      "duracion": 464
+    }
+  ],
+  "temasFuente": "Spotify"
 }

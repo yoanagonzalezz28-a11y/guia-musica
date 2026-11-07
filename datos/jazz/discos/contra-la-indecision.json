@@ -54,5 +54,52 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Canción Contra La Indecisión",
+      "duracion": 253
+    },
+    {
+      "titulo": "Doubt Thou The Stars",
+      "duracion": 477
+    },
+    {
+      "titulo": "Wedding Song From Poniky",
+      "duracion": 447
+    },
+    {
+      "titulo": "Three Shades Of A House",
+      "duracion": 431
+    },
+    {
+      "titulo": "Élégie",
+      "duracion": 371
+    },
+    {
+      "titulo": "Canción Y Danza VI",
+      "duracion": 315
+    },
+    {
+      "titulo": "Alice",
+      "duracion": 379
+    },
+    {
+      "titulo": "Oktoberhavet",
+      "duracion": 353
+    },
+    {
+      "titulo": "Kalimba Impressions",
+      "duracion": 192
+    },
+    {
+      "titulo": "Stilla",
+      "duracion": 267
+    },
+    {
+      "titulo": "Hemingway Intonations",
+      "duracion": 400
+    }
+  ],
+  "temasFuente": "Spotify"
 }

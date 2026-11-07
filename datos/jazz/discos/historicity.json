@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Historicity",
+      "duracion": 470
+    },
+    {
+      "titulo": "Somewhere",
+      "duracion": 417
+    },
+    {
+      "titulo": "Galang (Trio Riot Version)",
+      "duracion": 161
+    },
+    {
+      "titulo": "Helix",
+      "duracion": 240
+    },
+    {
+      "titulo": "Smoke Stack",
+      "duracion": 489
+    },
+    {
+      "titulo": "Big Brother",
+      "duracion": 288
+    },
+    {
+      "titulo": "Dogon A.D.",
+      "duracion": 560
+    },
+    {
+      "titulo": "Mystic Brew",
+      "duracion": 296
+    },
+    {
+      "titulo": "Trident: 2010",
+      "duracion": 550
+    },
+    {
+      "titulo": "Segment for Sentiment #2",
+      "duracion": 243
+    }
+  ],
+  "temasFuente": "Spotify"
 }

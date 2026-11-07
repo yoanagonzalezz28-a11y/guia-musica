@@ -79,5 +79,40 @@
   ],
   "fuentes": [
     "wp-mclaughlin"
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Emergency",
+      "duracion": 576
+    },
+    {
+      "titulo": "Beyond Games",
+      "duracion": 499
+    },
+    {
+      "titulo": "Where",
+      "duracion": 731
+    },
+    {
+      "titulo": "Vashkar",
+      "duracion": 300
+    },
+    {
+      "titulo": "Via De Spectrum Road",
+      "duracion": 470
+    },
+    {
+      "titulo": "Spectrum",
+      "duracion": 532
+    },
+    {
+      "titulo": "Sangria For Three",
+      "duracion": 788
+    },
+    {
+      "titulo": "Something Spiritual",
+      "duracion": 340
+    }
+  ],
+  "temasFuente": "Spotify"
 }

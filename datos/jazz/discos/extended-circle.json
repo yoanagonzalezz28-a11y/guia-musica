@@ -54,5 +54,56 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Right There",
+      "duracion": 174
+    },
+    {
+      "titulo": "Eg Veit I Himmerik Ei Borg",
+      "duracion": 339
+    },
+    {
+      "titulo": "Entrance",
+      "duracion": 172
+    },
+    {
+      "titulo": "The Gift",
+      "duracion": 380
+    },
+    {
+      "titulo": "Staying There",
+      "duracion": 292
+    },
+    {
+      "titulo": "Silent Spaces",
+      "duracion": 212
+    },
+    {
+      "titulo": "Entrance - Var.",
+      "duracion": 166
+    },
+    {
+      "titulo": "Devotion",
+      "duracion": 275
+    },
+    {
+      "titulo": "The Embrace",
+      "duracion": 299
+    },
+    {
+      "titulo": "Bass Transition",
+      "duracion": 43
+    },
+    {
+      "titulo": "Glow",
+      "duracion": 311
+    },
+    {
+      "titulo": "The Prodigal Song",
+      "duracion": 383
+    }
+  ],
+  "temasFuente": "Spotify"
 }

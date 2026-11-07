@@ -54,5 +54,44 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "One Month",
+      "duracion": 409
+    },
+    {
+      "titulo": "Abed",
+      "duracion": 371
+    },
+    {
+      "titulo": "2014",
+      "duracion": 193
+    },
+    {
+      "titulo": "Long Branch",
+      "duracion": 453
+    },
+    {
+      "titulo": "Johnny Was",
+      "duracion": 368
+    },
+    {
+      "titulo": "From You",
+      "duracion": 345
+    },
+    {
+      "titulo": "The Importance of Brothers",
+      "duracion": 560
+    },
+    {
+      "titulo": "Welcome Home",
+      "duracion": 582
+    },
+    {
+      "titulo": "Family First",
+      "duracion": 382
+    }
+  ],
+  "temasFuente": "Spotify"
 }

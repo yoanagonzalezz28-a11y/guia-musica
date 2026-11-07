@@ -54,5 +54,32 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Hush - Remastered 2006",
+      "duracion": 382
+    },
+    {
+      "titulo": "I'm A Fool To Want You - Remastered 2006",
+      "duracion": 373
+    },
+    {
+      "titulo": "Jorgie's - Remastered 2006",
+      "duracion": 488
+    },
+    {
+      "titulo": "Shangri-la - Remastered 2006",
+      "duracion": 394
+    },
+    {
+      "titulo": "6 M's - Remastered 2006",
+      "duracion": 388
+    },
+    {
+      "titulo": "Requiem - Remastered 2006",
+      "duracion": 427
+    }
+  ],
+  "temasFuente": "Spotify"
 }

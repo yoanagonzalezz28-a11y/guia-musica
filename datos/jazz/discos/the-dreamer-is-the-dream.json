@@ -54,5 +54,32 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Heart In Hand",
+      "duracion": 500
+    },
+    {
+      "titulo": "Ilimba",
+      "duracion": 593
+    },
+    {
+      "titulo": "The Dreamer Is The Dream",
+      "duracion": 499
+    },
+    {
+      "titulo": "Memory And Desire",
+      "duracion": 473
+    },
+    {
+      "titulo": "Yasodhara",
+      "duracion": 608
+    },
+    {
+      "titulo": "Sonic Anomaly",
+      "duracion": 335
+    }
+  ],
+  "temasFuente": "Spotify"
 }

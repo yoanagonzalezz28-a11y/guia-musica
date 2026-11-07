@@ -54,5 +54,44 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Song Without Words #4: Duet",
+      "duracion": 414
+    },
+    {
+      "titulo": "Down Home",
+      "duracion": 354
+    },
+    {
+      "titulo": "Heartland",
+      "duracion": 298
+    },
+    {
+      "titulo": "Free Flying",
+      "duracion": 305
+    },
+    {
+      "titulo": "Beatrice",
+      "duracion": 330
+    },
+    {
+      "titulo": "Song Without Words #3: Tango",
+      "duracion": 345
+    },
+    {
+      "titulo": "Stealthiness",
+      "duracion": 317
+    },
+    {
+      "titulo": "Gravity's Pull",
+      "duracion": 424
+    },
+    {
+      "titulo": "Monk's Dream",
+      "duracion": 384
+    }
+  ],
+  "temasFuente": "Spotify"
 }

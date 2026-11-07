@@ -111,5 +111,28 @@
       "acceso": "completa",
       "aporta": "Kevin Whitehead: hoy es un clásico, pero al salir recibió críticas de quienes creían que el jazz debía mantenerse lejos de la política."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Driva'Man",
+      "duracion": 318
+    },
+    {
+      "titulo": "Freedom Day",
+      "duracion": 369
+    },
+    {
+      "titulo": "Triptych: Prayer/Protest/Peace",
+      "duracion": 490
+    },
+    {
+      "titulo": "All Africa",
+      "duracion": 482
+    },
+    {
+      "titulo": "Tears For Johannesburg",
+      "duracion": 583
+    }
+  ],
+  "temasFuente": "Spotify"
 }

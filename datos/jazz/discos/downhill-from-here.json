@@ -59,5 +59,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Downhill From Here",
+      "duracion": 353
+    },
+    {
+      "titulo": "Navanad",
+      "duracion": 434
+    },
+    {
+      "titulo": "Be Brave",
+      "duracion": 354
+    },
+    {
+      "titulo": "Alfie",
+      "duracion": 231
+    },
+    {
+      "titulo": "Wise Man",
+      "duracion": 329
+    },
+    {
+      "titulo": "Seeing You",
+      "duracion": 396
+    },
+    {
+      "titulo": "Scoville",
+      "duracion": 338
+    },
+    {
+      "titulo": "Like A Wildflower",
+      "duracion": 210
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -54,5 +54,64 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Thelonious",
+      "duracion": 291
+    },
+    {
+      "titulo": "Evidence",
+      "duracion": 266
+    },
+    {
+      "titulo": "We See",
+      "duracion": 200
+    },
+    {
+      "titulo": "Monk's Mood",
+      "duracion": 182
+    },
+    {
+      "titulo": "Worry Later",
+      "duracion": 375
+    },
+    {
+      "titulo": "Four In One",
+      "duracion": 349
+    },
+    {
+      "titulo": "Reflections",
+      "duracion": 375
+    },
+    {
+      "titulo": "In Walked Monk",
+      "duracion": 263
+    },
+    {
+      "titulo": "Hackensack",
+      "duracion": 184
+    },
+    {
+      "titulo": "Let's Cool One",
+      "duracion": 251
+    },
+    {
+      "titulo": "Brilliant Corners",
+      "duracion": 290
+    },
+    {
+      "titulo": "Brake's Sake",
+      "duracion": 419
+    },
+    {
+      "titulo": "Ugly Beauty",
+      "duracion": 158
+    },
+    {
+      "titulo": "Green Chimneys",
+      "duracion": 282
+    }
+  ],
+  "temasFuente": "Spotify"
 }

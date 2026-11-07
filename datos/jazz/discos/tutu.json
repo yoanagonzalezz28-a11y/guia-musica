@@ -59,5 +59,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Tutu",
+      "duracion": 317
+    },
+    {
+      "titulo": "Tomaas",
+      "duracion": 336
+    },
+    {
+      "titulo": "Portia",
+      "duracion": 380
+    },
+    {
+      "titulo": "Splatch",
+      "duracion": 284
+    },
+    {
+      "titulo": "Backyard Ritual",
+      "duracion": 289
+    },
+    {
+      "titulo": "Perfect Way",
+      "duracion": 275
+    },
+    {
+      "titulo": "Don't Lose Your Mind",
+      "duracion": 349
+    },
+    {
+      "titulo": "Full Nelson",
+      "duracion": 307
+    }
+  ],
+  "temasFuente": "Spotify"
 }

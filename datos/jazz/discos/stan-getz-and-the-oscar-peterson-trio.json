@@ -54,5 +54,36 @@
     "wikidata": null,
     "wikipedia": "Stan_Getz_and_the_Oscar_Peterson_Trio"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "I Want To Be Happy",
+      "duracion": 455
+    },
+    {
+      "titulo": "Pennies From Heaven",
+      "duracion": 312
+    },
+    {
+      "titulo": "Ballad Medley",
+      "duracion": 608
+    },
+    {
+      "titulo": "I'm Glad There Is You",
+      "duracion": 278
+    },
+    {
+      "titulo": "Tour's End",
+      "duracion": 294
+    },
+    {
+      "titulo": "I Was Doing All Right",
+      "duracion": 247
+    },
+    {
+      "titulo": "Bronx Blues",
+      "duracion": 331
+    }
+  ],
+  "temasFuente": "Spotify"
 }

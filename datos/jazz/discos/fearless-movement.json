@@ -54,5 +54,56 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Lesanu",
+      "duracion": 563
+    },
+    {
+      "titulo": "Asha The First",
+      "duracion": 466
+    },
+    {
+      "titulo": "Computer Love",
+      "duracion": 566
+    },
+    {
+      "titulo": "The Visionary",
+      "duracion": 70
+    },
+    {
+      "titulo": "Get Lit",
+      "duracion": 206
+    },
+    {
+      "titulo": "Dream State",
+      "duracion": 520
+    },
+    {
+      "titulo": "Together",
+      "duracion": 334
+    },
+    {
+      "titulo": "The Garden Path",
+      "duracion": 400
+    },
+    {
+      "titulo": "Road to Self (KO)",
+      "duracion": 806
+    },
+    {
+      "titulo": "Interstellar Peace (The Last Stance)",
+      "duracion": 305
+    },
+    {
+      "titulo": "Lines in the Sand",
+      "duracion": 446
+    },
+    {
+      "titulo": "Prologue",
+      "duracion": 499
+    }
+  ],
+  "temasFuente": "Spotify"
 }

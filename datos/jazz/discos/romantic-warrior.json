@@ -80,5 +80,32 @@
       "acceso": "completa",
       "aporta": "Ethan Iverson reivindica su frescura y su manejo de la clave, y marca su deuda con McCoy Tyner."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Medieval Overture - Instrumental",
+      "duracion": 314
+    },
+    {
+      "titulo": "Sorceress - Instrumental",
+      "duracion": 454
+    },
+    {
+      "titulo": "The Romantic Warrior - Instrumental",
+      "duracion": 652
+    },
+    {
+      "titulo": "Majestic Dance - Instrumental",
+      "duracion": 301
+    },
+    {
+      "titulo": "The Magician - Instrumental",
+      "duracion": 329
+    },
+    {
+      "titulo": "Duel of the Jester and the Tyrant - (Pt. 1 & Pt. 2) [Instrumental]",
+      "duracion": 686
+    }
+  ],
+  "temasFuente": "Spotify"
 }

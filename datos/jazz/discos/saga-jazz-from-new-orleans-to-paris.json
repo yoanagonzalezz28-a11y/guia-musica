@@ -59,5 +59,104 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Buddy Bolden Story Discours Entre Sidney Et Claude Luter",
+      "duracion": 220
+    },
+    {
+      "titulo": "Les Oignons",
+      "duracion": 163
+    },
+    {
+      "titulo": "Wild Cat Blues",
+      "duracion": 181
+    },
+    {
+      "titulo": "Old Fashioned Love",
+      "duracion": 191
+    },
+    {
+      "titulo": "Mandy Make Up Your Mind",
+      "duracion": 191
+    },
+    {
+      "titulo": "In Harlem's Araby",
+      "duracion": 191
+    },
+    {
+      "titulo": "The Basement Blues",
+      "duracion": 200
+    },
+    {
+      "titulo": "Sweetie Dear",
+      "duracion": 172
+    },
+    {
+      "titulo": "Maple Leaf Rag",
+      "duracion": 177
+    },
+    {
+      "titulo": "Shag",
+      "duracion": 187
+    },
+    {
+      "titulo": "Polka Dot Rag",
+      "duracion": 173
+    },
+    {
+      "titulo": "Characteristic Blues",
+      "duracion": 176
+    },
+    {
+      "titulo": "Chant In The Night",
+      "duracion": 145
+    },
+    {
+      "titulo": "Really The Blues",
+      "duracion": 218
+    },
+    {
+      "titulo": "The Weary Blues",
+      "duracion": 124
+    },
+    {
+      "titulo": "I Wish I Could Shimmy Like My Sister Kate",
+      "duracion": 144
+    },
+    {
+      "titulo": "Down In Honky Tonk Town",
+      "duracion": 182
+    },
+    {
+      "titulo": "Blues In Thirds",
+      "duracion": 178
+    },
+    {
+      "titulo": "Bechet Parades The Blues Eng 9 Dec 1943 New York",
+      "duracion": 256
+    },
+    {
+      "titulo": "Klook's Blues",
+      "duracion": 201
+    },
+    {
+      "titulo": "Dans les rues d'Antibes",
+      "duracion": 208
+    },
+    {
+      "titulo": "September Song",
+      "duracion": 148
+    },
+    {
+      "titulo": "Summertime",
+      "duracion": 201
+    },
+    {
+      "titulo": "Petite Fleur",
+      "duracion": 192
+    }
+  ],
+  "temasFuente": "Spotify"
 }

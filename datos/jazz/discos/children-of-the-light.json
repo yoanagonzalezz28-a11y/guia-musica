@@ -54,5 +54,52 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Children of the Light",
+      "duracion": 415
+    },
+    {
+      "titulo": "Sunburn and Mosquito",
+      "duracion": 274
+    },
+    {
+      "titulo": "Moonlight on Congo Square",
+      "duracion": 301
+    },
+    {
+      "titulo": "Lumen",
+      "duracion": 266
+    },
+    {
+      "titulo": "Within Everything",
+      "duracion": 202
+    },
+    {
+      "titulo": "Milky Way",
+      "duracion": 220
+    },
+    {
+      "titulo": "Light Echo/Dolores",
+      "duracion": 589
+    },
+    {
+      "titulo": "Ballad for a Noble Man (In Memory of Doug Sommer)",
+      "duracion": 272
+    },
+    {
+      "titulo": "Looking for Light",
+      "duracion": 333
+    },
+    {
+      "titulo": "Luz del Alma",
+      "duracion": 159
+    },
+    {
+      "titulo": "African Wave",
+      "duracion": 325
+    }
+  ],
+  "temasFuente": "Spotify"
 }

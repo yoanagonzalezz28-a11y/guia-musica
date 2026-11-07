@@ -54,5 +54,32 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Picture 1",
+      "duracion": 288
+    },
+    {
+      "titulo": "Picture 2",
+      "duracion": 478
+    },
+    {
+      "titulo": "Picture 3",
+      "duracion": 313
+    },
+    {
+      "titulo": "Picture 4",
+      "duracion": 322
+    },
+    {
+      "titulo": "Picture 5",
+      "duracion": 365
+    },
+    {
+      "titulo": "Picture 6",
+      "duracion": 472
+    }
+  ],
+  "temasFuente": "Spotify"
 }

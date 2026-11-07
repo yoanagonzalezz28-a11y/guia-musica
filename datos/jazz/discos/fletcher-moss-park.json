@@ -52,5 +52,36 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Cherry Blossom",
+      "duracion": 441
+    },
+    {
+      "titulo": "Fletcher Moss Park",
+      "duracion": 346
+    },
+    {
+      "titulo": "Mary Emma Louise",
+      "duracion": 397
+    },
+    {
+      "titulo": "Sailing out to Sea",
+      "duracion": 90
+    },
+    {
+      "titulo": "Wee Lan (Little Orchid)",
+      "duracion": 152
+    },
+    {
+      "titulo": "The Sun in September",
+      "duracion": 470
+    },
+    {
+      "titulo": "Finding My Way",
+      "duracion": 497
+    }
+  ],
+  "temasFuente": "Spotify"
 }

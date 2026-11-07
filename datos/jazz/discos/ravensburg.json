@@ -54,5 +54,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Family",
+      "duracion": 255
+    },
+    {
+      "titulo": "Children",
+      "duracion": 343
+    },
+    {
+      "titulo": "Friends",
+      "duracion": 377
+    },
+    {
+      "titulo": "August",
+      "duracion": 301
+    },
+    {
+      "titulo": "Parents",
+      "duracion": 316
+    },
+    {
+      "titulo": "Girlfriend",
+      "duracion": 313
+    },
+    {
+      "titulo": "Ravensburg",
+      "duracion": 338
+    },
+    {
+      "titulo": "For My Grandmothers",
+      "duracion": 170
+    }
+  ],
+  "temasFuente": "Spotify"
 }

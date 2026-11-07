@@ -54,5 +54,72 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "12 Little Spells (thoracic spine)",
+      "duracion": 293
+    },
+    {
+      "titulo": "To Tide Us Over (mouth)",
+      "duracion": 293
+    },
+    {
+      "titulo": "'Til the Next Full (eyes)",
+      "duracion": 257
+    },
+    {
+      "titulo": "Thang (hips)",
+      "duracion": 275
+    },
+    {
+      "titulo": "Touch in Mine (fingers)",
+      "duracion": 293
+    },
+    {
+      "titulo": "The Longing Deep Down (abdominal portal)",
+      "duracion": 275
+    },
+    {
+      "titulo": "You Have to Dance (feet)",
+      "duracion": 207
+    },
+    {
+      "titulo": "Now Know (solar portal)",
+      "duracion": 266
+    },
+    {
+      "titulo": "All Limbs Are (arms)",
+      "duracion": 216
+    },
+    {
+      "titulo": "Readying to Rise (legs)",
+      "duracion": 307
+    },
+    {
+      "titulo": "Dancing The Animal (mind)",
+      "duracion": 307
+    },
+    {
+      "titulo": "With Others (ears)",
+      "duracion": 352
+    },
+    {
+      "titulo": "Lest We Forget (blood)",
+      "duracion": 316
+    },
+    {
+      "titulo": "How To (hair)",
+      "duracion": 234
+    },
+    {
+      "titulo": "Move Many (joints)",
+      "duracion": 175
+    },
+    {
+      "titulo": "Ways Together (shoulders)",
+      "duracion": 225
+    }
+  ],
+  "temasFuente": "Spotify"
 }

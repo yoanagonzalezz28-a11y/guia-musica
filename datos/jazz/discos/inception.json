@@ -54,5 +54,32 @@
     "wikidata": null,
     "wikipedia": "Inception_(McCoy_Tyner_album)"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Inception",
+      "duracion": 266
+    },
+    {
+      "titulo": "There Is No Greater Love",
+      "duracion": 378
+    },
+    {
+      "titulo": "Blues For Gwen",
+      "duracion": 263
+    },
+    {
+      "titulo": "Sunset",
+      "duracion": 279
+    },
+    {
+      "titulo": "Effendi",
+      "duracion": 397
+    },
+    {
+      "titulo": "Speak Low",
+      "duracion": 375
+    }
+  ],
+  "temasFuente": "Spotify"
 }

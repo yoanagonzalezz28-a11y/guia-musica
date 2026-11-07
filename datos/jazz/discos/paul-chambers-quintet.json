@@ -54,5 +54,32 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Minor Run Down",
+      "duracion": 457
+    },
+    {
+      "titulo": "The Hand of Love",
+      "duracion": 383
+    },
+    {
+      "titulo": "Softly, As in a Morning Sunrise",
+      "duracion": 187
+    },
+    {
+      "titulo": "Four Strings",
+      "duracion": 327
+    },
+    {
+      "titulo": "What's New?",
+      "duracion": 339
+    },
+    {
+      "titulo": "Beauteous",
+      "duracion": 485
+    }
+  ],
+  "temasFuente": "Spotify"
 }

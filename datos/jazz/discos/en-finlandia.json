@@ -59,5 +59,28 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Hasta siempre - Remasterizado",
+      "duracion": 581
+    },
+    {
+      "titulo": "I want... - Remasterizado",
+      "duracion": 499
+    },
+    {
+      "titulo": "Mi pequeña Anna - Remasterizado",
+      "duracion": 461
+    },
+    {
+      "titulo": "Stella by starlight - Remasterizado",
+      "duracion": 269
+    },
+    {
+      "titulo": "La canción de los niños - Remasterizado",
+      "duracion": 375
+    }
+  ],
+  "temasFuente": "Spotify"
 }

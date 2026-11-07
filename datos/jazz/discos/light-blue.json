@@ -59,5 +59,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Fire Waltz",
+      "duracion": 231
+    },
+    {
+      "titulo": "Petit Fleur",
+      "duracion": 322
+    },
+    {
+      "titulo": "Dewey Square",
+      "duracion": 259
+    },
+    {
+      "titulo": "Moment's Notice",
+      "duracion": 215
+    },
+    {
+      "titulo": "Light Blue",
+      "duracion": 262
+    },
+    {
+      "titulo": "Invitation",
+      "duracion": 302
+    },
+    {
+      "titulo": "My Old Flame",
+      "duracion": 309
+    },
+    {
+      "titulo": "Step Tempest",
+      "duracion": 392
+    },
+    {
+      "titulo": "Somebody Loves Me",
+      "duracion": 302
+    },
+    {
+      "titulo": "Wrap Your Troubles in Dreams",
+      "duracion": 274
+    }
+  ],
+  "temasFuente": "Spotify"
 }

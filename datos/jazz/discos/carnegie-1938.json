@@ -110,5 +110,100 @@
       "acceso": "indirecta",
       "aporta": "Bruce Eder lo llamó \"jazz's 'coming out' party to the world of 'respectable' music\"."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Don't Be That Way (Live) - Remastered",
+      "duracion": 263
+    },
+    {
+      "titulo": "One O'Clock Jump (Live) - Remastered",
+      "duracion": 399
+    },
+    {
+      "titulo": "Sensation Rag (Live) - Remastered",
+      "duracion": 79
+    },
+    {
+      "titulo": "I'm Coming Virginia (Live) - Remastered",
+      "duracion": 127
+    },
+    {
+      "titulo": "When My Baby Smiles at Me (Live) - Remastered",
+      "duracion": 50
+    },
+    {
+      "titulo": "Shine (Live) - Remastered",
+      "duracion": 63
+    },
+    {
+      "titulo": "Blue Reverie (Live) - Remastered",
+      "duracion": 197
+    },
+    {
+      "titulo": "Life Goes to a Party (Live) - Remastered",
+      "duracion": 255
+    },
+    {
+      "titulo": "Honeysuckle Rose (Live) - Remastered",
+      "duracion": 836
+    },
+    {
+      "titulo": "Body and Soul (Live) - Remastered",
+      "duracion": 200
+    },
+    {
+      "titulo": "Avalon (Live) - Remastered",
+      "duracion": 260
+    },
+    {
+      "titulo": "The Man I Love (Live) - Remastered",
+      "duracion": 208
+    },
+    {
+      "titulo": "I Got Rhythm (Live) - Remastered",
+      "duracion": 308
+    },
+    {
+      "titulo": "Blue Skies (Live) - Remastered",
+      "duracion": 198
+    },
+    {
+      "titulo": "Loch Lomond (Live) - Remastered",
+      "duracion": 179
+    },
+    {
+      "titulo": "Blue Room (Live) - Remastered",
+      "duracion": 163
+    },
+    {
+      "titulo": "Swingtime in the Rockies (Live) - Remastered",
+      "duracion": 151
+    },
+    {
+      "titulo": "Bei mir bist du schoen (Live) - Remastered",
+      "duracion": 240
+    },
+    {
+      "titulo": "China Boy (Live) - Remastered",
+      "duracion": 294
+    },
+    {
+      "titulo": "Stompin' at the Savoy (Live) - Remastered",
+      "duracion": 352
+    },
+    {
+      "titulo": "Dizzy Spells (Live) - Remastered",
+      "duracion": 345
+    },
+    {
+      "titulo": "Sing Sing Sing (With a Swing) [Live] - Remastered",
+      "duracion": 729
+    },
+    {
+      "titulo": "Big John's Special (Live) - Remastered",
+      "duracion": 226
+    }
+  ],
+  "temasFuente": "Spotify"
 }

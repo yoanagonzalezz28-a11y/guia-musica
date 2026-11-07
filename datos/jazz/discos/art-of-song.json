@@ -54,5 +54,56 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Love",
+      "duracion": 211
+    },
+    {
+      "titulo": "Minstrel Man",
+      "duracion": 217
+    },
+    {
+      "titulo": "The Birds",
+      "duracion": 194
+    },
+    {
+      "titulo": "Elsewhere",
+      "duracion": 199
+    },
+    {
+      "titulo": "En visa från Roslagen",
+      "duracion": 157
+    },
+    {
+      "titulo": "Akvarell",
+      "duracion": 191
+    },
+    {
+      "titulo": "Ferry Me Across the Water",
+      "duracion": 192
+    },
+    {
+      "titulo": "Omar's Lament",
+      "duracion": 252
+    },
+    {
+      "titulo": "An Epitaph",
+      "duracion": 183
+    },
+    {
+      "titulo": "Canción de Cuna Para Dormir a un Negrito",
+      "duracion": 355
+    },
+    {
+      "titulo": "Nana",
+      "duracion": 153
+    },
+    {
+      "titulo": "Sov",
+      "duracion": 318
+    }
+  ],
+  "temasFuente": "Spotify"
 }

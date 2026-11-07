@@ -54,5 +54,80 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Watermelon Man",
+      "duracion": 146
+    },
+    {
+      "titulo": "Funny Money",
+      "duracion": 133
+    },
+    {
+      "titulo": "Cut That Cane",
+      "duracion": 142
+    },
+    {
+      "titulo": "Get The Money",
+      "duracion": 205
+    },
+    {
+      "titulo": "The Boogie Cha-Cha Blues",
+      "duracion": 134
+    },
+    {
+      "titulo": "Don't Bother Me No More",
+      "duracion": 144
+    },
+    {
+      "titulo": "Love, Oh Love",
+      "duracion": 125
+    },
+    {
+      "titulo": "Yeh-Yeh",
+      "duracion": 185
+    },
+    {
+      "titulo": "The Peanut Vendor",
+      "duracion": 225
+    },
+    {
+      "titulo": "Go Git It!",
+      "duracion": 116
+    },
+    {
+      "titulo": "Bayou Roots",
+      "duracion": 183
+    },
+    {
+      "titulo": "Suavito",
+      "duracion": 161
+    },
+    {
+      "titulo": "Guaguanco Mania - live",
+      "duracion": 227
+    },
+    {
+      "titulo": "A Little Dab'll Do Ya - live",
+      "duracion": 439
+    },
+    {
+      "titulo": "Que Maravillosa - live",
+      "duracion": 407
+    },
+    {
+      "titulo": "I'll Remember April - live",
+      "duracion": 443
+    },
+    {
+      "titulo": "Afro Blue - live",
+      "duracion": 421
+    },
+    {
+      "titulo": "Mazacote - live",
+      "duracion": 505
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -54,5 +54,52 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Song for DiFang",
+      "duracion": 323
+    },
+    {
+      "titulo": "Happy People",
+      "duracion": 312
+    },
+    {
+      "titulo": "Tango in 6",
+      "duracion": 352
+    },
+    {
+      "titulo": "Ain't Nothing but the Blues",
+      "duracion": 311
+    },
+    {
+      "titulo": "Song #8",
+      "duracion": 222
+    },
+    {
+      "titulo": "Halima's Story",
+      "duracion": 332
+    },
+    {
+      "titulo": "Monk-ing Around",
+      "duracion": 282
+    },
+    {
+      "titulo": "Hole in One",
+      "duracion": 360
+    },
+    {
+      "titulo": "Thessalonika",
+      "duracion": 290
+    },
+    {
+      "titulo": "Asian Medley",
+      "duracion": 422
+    },
+    {
+      "titulo": "Brother B Harper",
+      "duracion": 480
+    }
+  ],
+  "temasFuente": "Spotify"
 }

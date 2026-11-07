@@ -104,5 +104,20 @@
       "acceso": "extracto",
       "aporta": "All About Jazz cuenta que estos discos se escucharon durante años en copias malas o en el testimonio de quienes tenían los originales."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Nation Time",
+      "duracion": 1112
+    },
+    {
+      "titulo": "Shakey Jake",
+      "duracion": 816
+    },
+    {
+      "titulo": "Scorpio's Dance",
+      "duracion": 522
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -52,5 +52,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "And A Day ...",
+      "duracion": 486
+    },
+    {
+      "titulo": "Thirteen",
+      "duracion": 288
+    },
+    {
+      "titulo": "Romaria",
+      "duracion": 311
+    },
+    {
+      "titulo": "Pop",
+      "duracion": 261
+    },
+    {
+      "titulo": "They Came From The North",
+      "duracion": 356
+    },
+    {
+      "titulo": "With Every Flower That Falls",
+      "duracion": 354
+    },
+    {
+      "titulo": "All Becomes Again",
+      "duracion": 427
+    },
+    {
+      "titulo": "Forever ...",
+      "duracion": 402
+    }
+  ],
+  "temasFuente": "Spotify"
 }

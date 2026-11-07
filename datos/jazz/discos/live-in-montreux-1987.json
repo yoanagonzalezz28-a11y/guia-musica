@@ -54,5 +54,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Red Baron - Live 1987",
+      "duracion": 491
+    },
+    {
+      "titulo": "Times of My Life - Live 1987",
+      "duracion": 484
+    },
+    {
+      "titulo": "The Dancer - Live 1987",
+      "duracion": 508
+    },
+    {
+      "titulo": "Tinseltown - Live 1987",
+      "duracion": 417
+    },
+    {
+      "titulo": "Radioactive - Live 1987",
+      "duracion": 344
+    },
+    {
+      "titulo": "Slow Body Poppin' - Live 1987",
+      "duracion": 540
+    },
+    {
+      "titulo": "Unknown Jeromes - Live 1987",
+      "duracion": 283
+    },
+    {
+      "titulo": "Interview - Live 1987",
+      "duracion": 296
+    }
+  ],
+  "temasFuente": "Spotify"
 }

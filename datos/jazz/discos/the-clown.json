@@ -54,5 +54,32 @@
     "wikidata": null,
     "wikipedia": "The_Clown_(album)"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Haitian Fight Song",
+      "duracion": 722
+    },
+    {
+      "titulo": "Blue Cee",
+      "duracion": 472
+    },
+    {
+      "titulo": "Reincarnation of a Lovebird",
+      "duracion": 512
+    },
+    {
+      "titulo": "The Clown",
+      "duracion": 729
+    },
+    {
+      "titulo": "Passions of a Man",
+      "duracion": 292
+    },
+    {
+      "titulo": "Tonight at Noon",
+      "duracion": 360
+    }
+  ],
+  "temasFuente": "Spotify"
 }

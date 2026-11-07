@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": "Conversations_with_Myself"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "'Round Midnight",
+      "duracion": 393
+    },
+    {
+      "titulo": "How About You?",
+      "duracion": 168
+    },
+    {
+      "titulo": "Love Theme From 'Spartacus'",
+      "duracion": 308
+    },
+    {
+      "titulo": "Blue Monk",
+      "duracion": 272
+    },
+    {
+      "titulo": "Stella By Starlight",
+      "duracion": 290
+    },
+    {
+      "titulo": "Hey There",
+      "duracion": 269
+    },
+    {
+      "titulo": "N.Y.C.'s No Lark",
+      "duracion": 334
+    },
+    {
+      "titulo": "Just You, Just Me",
+      "duracion": 156
+    },
+    {
+      "titulo": "Bemsha Swing",
+      "duracion": 175
+    },
+    {
+      "titulo": "A Sleeping Bee",
+      "duracion": 251
+    }
+  ],
+  "temasFuente": "Spotify"
 }

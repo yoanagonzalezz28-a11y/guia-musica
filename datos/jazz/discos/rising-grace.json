@@ -52,5 +52,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Rising Grace",
+      "duracion": 356
+    },
+    {
+      "titulo": "Intensive Care",
+      "duracion": 618
+    },
+    {
+      "titulo": "Triad Song",
+      "duracion": 484
+    },
+    {
+      "titulo": "Father And Sun",
+      "duracion": 494
+    },
+    {
+      "titulo": "Wolfgang's Waltz",
+      "duracion": 482
+    },
+    {
+      "titulo": "Superonny",
+      "duracion": 404
+    },
+    {
+      "titulo": "Boogaloo",
+      "duracion": 450
+    },
+    {
+      "titulo": "Den Wheeler, Den Kenny",
+      "duracion": 470
+    },
+    {
+      "titulo": "Ending Music",
+      "duracion": 83
+    },
+    {
+      "titulo": "Oak",
+      "duracion": 275
+    }
+  ],
+  "temasFuente": "Spotify"
 }

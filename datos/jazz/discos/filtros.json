@@ -55,5 +55,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Va Roman",
+      "duracion": 448
+    },
+    {
+      "titulo": "Miula",
+      "duracion": 600
+    },
+    {
+      "titulo": "Manuel",
+      "duracion": 199
+    },
+    {
+      "titulo": "Yeso",
+      "duracion": 367
+    },
+    {
+      "titulo": "Amor Profundo",
+      "duracion": 178
+    },
+    {
+      "titulo": "Memes",
+      "duracion": 402
+    },
+    {
+      "titulo": "Volante",
+      "duracion": 349
+    },
+    {
+      "titulo": "Luz de Liz (Filtros)",
+      "duracion": 661
+    },
+    {
+      "titulo": "Vaca",
+      "duracion": 389
+    },
+    {
+      "titulo": "Louange à l'éternité de Jésus",
+      "duracion": 455
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -73,5 +73,52 @@
       "acceso": "completa",
       "aporta": "Su biografía oficial repasa su llegada a ECM y su larga relación con Eicher."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Badhra",
+      "duracion": 509
+    },
+    {
+      "titulo": "Kashf",
+      "duracion": 322
+    },
+    {
+      "titulo": "Houdouth",
+      "duracion": 335
+    },
+    {
+      "titulo": "Talwin",
+      "duracion": 256
+    },
+    {
+      "titulo": "Waqt",
+      "duracion": 151
+    },
+    {
+      "titulo": "Uns",
+      "duracion": 288
+    },
+    {
+      "titulo": "Al Hizam Al Dhahbi",
+      "duracion": 340
+    },
+    {
+      "titulo": "Qurb",
+      "duracion": 314
+    },
+    {
+      "titulo": "Mazad",
+      "duracion": 303
+    },
+    {
+      "titulo": "Kernow",
+      "duracion": 309
+    },
+    {
+      "titulo": "Hulmu Rabia",
+      "duracion": 134
+    }
+  ],
+  "temasFuente": "Spotify"
 }

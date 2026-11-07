@@ -54,5 +54,160 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Rockin' In Rhythm",
+      "duracion": 320
+    },
+    {
+      "titulo": "Drop Me Off In Harlem",
+      "duracion": 231
+    },
+    {
+      "titulo": "Day Dream",
+      "duracion": 240
+    },
+    {
+      "titulo": "Caravan",
+      "duracion": 235
+    },
+    {
+      "titulo": "Take The \"A\" Train",
+      "duracion": 405
+    },
+    {
+      "titulo": "I Ain't Got Nothin' But The Blues",
+      "duracion": 283
+    },
+    {
+      "titulo": "Clementine",
+      "duracion": 160
+    },
+    {
+      "titulo": "I Didn't Know About You",
+      "duracion": 254
+    },
+    {
+      "titulo": "I'm Beginning To See The Light",
+      "duracion": 207
+    },
+    {
+      "titulo": "Lost In Meditation",
+      "duracion": 207
+    },
+    {
+      "titulo": "Perdido",
+      "duracion": 377
+    },
+    {
+      "titulo": "Cotton Tail",
+      "duracion": 207
+    },
+    {
+      "titulo": "Do Nothing Till You Hear From Me",
+      "duracion": 462
+    },
+    {
+      "titulo": "Just A-Sittin' And A-Rockin'",
+      "duracion": 214
+    },
+    {
+      "titulo": "Solitude",
+      "duracion": 129
+    },
+    {
+      "titulo": "Rocks In My Bed",
+      "duracion": 241
+    },
+    {
+      "titulo": "Satin Doll",
+      "duracion": 209
+    },
+    {
+      "titulo": "Sophisticated Lady",
+      "duracion": 321
+    },
+    {
+      "titulo": "Just Squeeze Me (But Don't Tease Me)",
+      "duracion": 257
+    },
+    {
+      "titulo": "It Don't Mean A Thing (If It Ain't Got That Swing)",
+      "duracion": 255
+    },
+    {
+      "titulo": "Azure",
+      "duracion": 144
+    },
+    {
+      "titulo": "I Let A Song Go Out Of My Heart",
+      "duracion": 252
+    },
+    {
+      "titulo": "In A Sentimental Mood",
+      "duracion": 168
+    },
+    {
+      "titulo": "Don't Get Around Much Anymore",
+      "duracion": 302
+    },
+    {
+      "titulo": "Prelude To A Kiss",
+      "duracion": 331
+    },
+    {
+      "titulo": "Mood Indigo",
+      "duracion": 207
+    },
+    {
+      "titulo": "In A Mellow Tone",
+      "duracion": 311
+    },
+    {
+      "titulo": "Love You Madly",
+      "duracion": 280
+    },
+    {
+      "titulo": "Lush Life",
+      "duracion": 220
+    },
+    {
+      "titulo": "Squatty Roo",
+      "duracion": 223
+    },
+    {
+      "titulo": "I'm Just A Lucky So And So",
+      "duracion": 256
+    },
+    {
+      "titulo": "All Too Soon",
+      "duracion": 264
+    },
+    {
+      "titulo": "Everything But You",
+      "duracion": 176
+    },
+    {
+      "titulo": "I Got It Bad (And That Ain't Good)",
+      "duracion": 375
+    },
+    {
+      "titulo": "Bli-Blip",
+      "duracion": 184
+    },
+    {
+      "titulo": "Chelsea Bridge - Rehearsal 4",
+      "duracion": 207
+    },
+    {
+      "titulo": "Portrait Of Ella Fitzgerald - Medley",
+      "duracion": 977
+    },
+    {
+      "titulo": "The E And D Blues (E For Ella And D For Duke)",
+      "duracion": 288
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -73,5 +73,48 @@
       "acceso": "completa",
       "aporta": "Primer grupo de jazz europeo en la tapa de DownBeat, en mayo de 2006."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Ballad for the Unborn",
+      "duracion": 332
+    },
+    {
+      "titulo": "Seven Days of Falling",
+      "duracion": 387
+    },
+    {
+      "titulo": "Mingle in the Mincing-Machine",
+      "duracion": 413
+    },
+    {
+      "titulo": "Evening in Atlantis",
+      "duracion": 51
+    },
+    {
+      "titulo": "Did They Ever Tell Cousteau?",
+      "duracion": 365
+    },
+    {
+      "titulo": "Believe Beleft Below",
+      "duracion": 291
+    },
+    {
+      "titulo": "Elevation of Love",
+      "duracion": 404
+    },
+    {
+      "titulo": "In My Garage",
+      "duracion": 259
+    },
+    {
+      "titulo": "Why She Couldn't Come",
+      "duracion": 390
+    },
+    {
+      "titulo": "O.D.R.I.P.",
+      "duracion": 865
+    }
+  ],
+  "temasFuente": "Spotify"
 }

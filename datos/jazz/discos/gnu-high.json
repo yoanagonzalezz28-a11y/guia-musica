@@ -83,5 +83,20 @@
       "acceso": "indirecta",
       "aporta": "Mikal Gilmore, en DownBeat: cuatro estrellas, con objeciones a Wheeler y el mayor elogio para Jarrett."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Heyoke",
+      "duracion": 1310
+    },
+    {
+      "titulo": "Smatter",
+      "duracion": 359
+    },
+    {
+      "titulo": "Gnu Suite",
+      "duracion": 769
+    }
+  ],
+  "temasFuente": "Spotify"
 }

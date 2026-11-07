@@ -2,8 +2,8 @@
   "id": "bebop",
   "nombre": "Bebop",
   "lema": "Jazz para escuchar, no para bailar",
-  "tinta": "#FFC400",
-  "tintaTexto": "#101318",
+  "tinta": "#1B3A8C",
+  "tintaTexto": "#F2E8D5",
   "periodo": {
     "desde": 1944,
     "hasta": 1956,

@@ -71,5 +71,48 @@
       "acceso": "completa",
       "aporta": "Ted Gioia, que lo vio en vivo, cuenta el final de su vida y su relación con estos músicos."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Gloria's Step - Live At The Village Vanguard, 1961 / Take 2",
+      "duracion": 370
+    },
+    {
+      "titulo": "Gloria's Step - Live At The Village Vanguard, 1961 / Take 3",
+      "duracion": 415
+    },
+    {
+      "titulo": "My Man's Gone Now - Live At The Village Vanguard, 1961",
+      "duracion": 381
+    },
+    {
+      "titulo": "Solar - Live At The Village Vanguard, 1961",
+      "duracion": 533
+    },
+    {
+      "titulo": "Alice In Wonderland - Live At The Village Vanguard, 1961 / Take 2",
+      "duracion": 515
+    },
+    {
+      "titulo": "Alice In Wonderland - Live At The Village Vanguard, 1961 / Take 1",
+      "duracion": 422
+    },
+    {
+      "titulo": "All Of You - Live At The Village Vanguard, 1961 / Take 2",
+      "duracion": 496
+    },
+    {
+      "titulo": "All Of You - Live At The Village Vanguard, 1961 / Take 3",
+      "duracion": 485
+    },
+    {
+      "titulo": "Jade Visions - Live At The Village Vanguard, 1961 / Take 2",
+      "duracion": 231
+    },
+    {
+      "titulo": "Jade Visions - Live At The Village Vanguard, 1961 / Take 1",
+      "duracion": 247
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -54,5 +54,24 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Message From The Nile",
+      "duracion": 743
+    },
+    {
+      "titulo": "The Wanderer - Remastered 1996",
+      "duracion": 464
+    },
+    {
+      "titulo": "Survival Blues - Remastered 1996",
+      "duracion": 796
+    },
+    {
+      "titulo": "His Blessings - Remastered 1996",
+      "duracion": 411
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -54,5 +54,56 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Starlings",
+      "duracion": 232
+    },
+    {
+      "titulo": "Chorale",
+      "duracion": 275
+    },
+    {
+      "titulo": "Diptych",
+      "duracion": 408
+    },
+    {
+      "titulo": "Hood",
+      "duracion": 370
+    },
+    {
+      "titulo": "Work",
+      "duracion": 374
+    },
+    {
+      "titulo": "Taking Flight",
+      "duracion": 436
+    },
+    {
+      "titulo": "Blood Count",
+      "duracion": 275
+    },
+    {
+      "titulo": "Break Stuff",
+      "duracion": 327
+    },
+    {
+      "titulo": "Mystery Woman",
+      "duracion": 381
+    },
+    {
+      "titulo": "Geese",
+      "duracion": 398
+    },
+    {
+      "titulo": "Countdown",
+      "duracion": 358
+    },
+    {
+      "titulo": "Wrens",
+      "duracion": 408
+    }
+  ],
+  "temasFuente": "Spotify"
 }

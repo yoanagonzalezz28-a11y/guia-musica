@@ -52,5 +52,64 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "But Not for Me",
+      "duracion": 297
+    },
+    {
+      "titulo": "The Silence of Your Heart",
+      "duracion": 261
+    },
+    {
+      "titulo": "Palfium",
+      "duracion": 196
+    },
+    {
+      "titulo": "Postcard from Home",
+      "duracion": 303
+    },
+    {
+      "titulo": "The Beatniks",
+      "duracion": 271
+    },
+    {
+      "titulo": "Fresing",
+      "duracion": 217
+    },
+    {
+      "titulo": "Everything Happens to Me",
+      "duracion": 303
+    },
+    {
+      "titulo": "Chat with Chet",
+      "duracion": 277
+    },
+    {
+      "titulo": "Hotel universo",
+      "duracion": 301
+    },
+    {
+      "titulo": "My Funny Valentine",
+      "duracion": 305
+    },
+    {
+      "titulo": "Hermosa Beach",
+      "duracion": 342
+    },
+    {
+      "titulo": "Jetrium",
+      "duracion": 208
+    },
+    {
+      "titulo": "Catalina",
+      "duracion": 190
+    },
+    {
+      "titulo": "When I Fall in Love",
+      "duracion": 329
+    }
+  ],
+  "temasFuente": "Spotify"
 }

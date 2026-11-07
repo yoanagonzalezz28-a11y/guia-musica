@@ -52,5 +52,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Training - Live",
+      "duracion": 279
+    },
+    {
+      "titulo": "September Second - Live",
+      "duracion": 319
+    },
+    {
+      "titulo": "Home - Live",
+      "duracion": 558
+    },
+    {
+      "titulo": "Little Peace in C for U - Live",
+      "duracion": 450
+    },
+    {
+      "titulo": "Love Letter - Live",
+      "duracion": 547
+    },
+    {
+      "titulo": "Cantabile - Live",
+      "duracion": 468
+    },
+    {
+      "titulo": "Colors - Live",
+      "duracion": 649
+    },
+    {
+      "titulo": "So What - Live",
+      "duracion": 450
+    }
+  ],
+  "temasFuente": "Spotify"
 }

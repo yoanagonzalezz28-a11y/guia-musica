@@ -101,5 +101,52 @@
       "acceso": "completa",
       "aporta": "Cuenta su trayectoria, de Marsalis a Crisol y D'Angelo."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Proclamation",
+      "duracion": 373
+    },
+    {
+      "titulo": "Ruby My Dear",
+      "duracion": 373
+    },
+    {
+      "titulo": "A New Joy",
+      "duracion": 362
+    },
+    {
+      "titulo": "Confidentiality",
+      "duracion": 299
+    },
+    {
+      "titulo": "Broski",
+      "duracion": 252
+    },
+    {
+      "titulo": "Whisper Not",
+      "duracion": 461
+    },
+    {
+      "titulo": "All Over Again",
+      "duracion": 348
+    },
+    {
+      "titulo": "Easy To Remember",
+      "duracion": 371
+    },
+    {
+      "titulo": "Premonition",
+      "duracion": 337
+    },
+    {
+      "titulo": "BHG",
+      "duracion": 365
+    },
+    {
+      "titulo": "Wee",
+      "duracion": 249
+    }
+  ],
+  "temasFuente": "Spotify"
 }

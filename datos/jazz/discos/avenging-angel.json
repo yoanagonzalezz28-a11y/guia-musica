@@ -54,5 +54,60 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "The Broad Day King",
+      "duracion": 377
+    },
+    {
+      "titulo": "Glossolalia",
+      "duracion": 165
+    },
+    {
+      "titulo": "Diamond Turning Dream",
+      "duracion": 257
+    },
+    {
+      "titulo": "Avenging Angel",
+      "duracion": 416
+    },
+    {
+      "titulo": "This Voice Says So",
+      "duracion": 583
+    },
+    {
+      "titulo": "Neverland",
+      "duracion": 269
+    },
+    {
+      "titulo": "True Life Near",
+      "duracion": 269
+    },
+    {
+      "titulo": "Gift Horse / Over The Water",
+      "duracion": 458
+    },
+    {
+      "titulo": "A Difficult Thing Said Simply",
+      "duracion": 276
+    },
+    {
+      "titulo": "Spirit Hard Knock",
+      "duracion": 277
+    },
+    {
+      "titulo": "Neither-Nor",
+      "duracion": 199
+    },
+    {
+      "titulo": "Forgetful",
+      "duracion": 478
+    },
+    {
+      "titulo": "This Is How You Disappear",
+      "duracion": 303
+    }
+  ],
+  "temasFuente": "Spotify"
 }

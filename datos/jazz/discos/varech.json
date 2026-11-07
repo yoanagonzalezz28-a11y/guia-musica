@@ -52,5 +52,44 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Les \"Là-bas\"",
+      "duracion": 184
+    },
+    {
+      "titulo": "Quand le blues s'en ira",
+      "duracion": 212
+    },
+    {
+      "titulo": "L'éléphant",
+      "duracion": 194
+    },
+    {
+      "titulo": "Terre-basse",
+      "duracion": 411
+    },
+    {
+      "titulo": "Varech",
+      "duracion": 251
+    },
+    {
+      "titulo": "Mr Donald Cerise",
+      "duracion": 246
+    },
+    {
+      "titulo": "Angèle",
+      "duracion": 105
+    },
+    {
+      "titulo": "L'écluse",
+      "duracion": 152
+    },
+    {
+      "titulo": "L'ultime danse",
+      "duracion": 187
+    }
+  ],
+  "temasFuente": "Spotify"
 }

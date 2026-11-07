@@ -97,5 +97,60 @@
       "acceso": "completa",
       "aporta": "DownBeat recuerda estas grabaciones de 1949 como sesiones de free jazz con Konitz y Warne Marsh."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Opus 96",
+      "duracion": 156
+    },
+    {
+      "titulo": "Wov",
+      "duracion": 205
+    },
+    {
+      "titulo": "Crosscurrent",
+      "duracion": 173
+    },
+    {
+      "titulo": "Yesterdays",
+      "duracion": 171
+    },
+    {
+      "titulo": "Marionette",
+      "duracion": 188
+    },
+    {
+      "titulo": "Sax of a Kind",
+      "duracion": 182
+    },
+    {
+      "titulo": "Intuitition",
+      "duracion": 149
+    },
+    {
+      "titulo": "Disgression",
+      "duracion": 187
+    },
+    {
+      "titulo": "A Bird In Igor's Yard",
+      "duracion": 175
+    },
+    {
+      "titulo": "This Time the Dream's On Me",
+      "duracion": 188
+    },
+    {
+      "titulo": "Extrovert",
+      "duracion": 178
+    },
+    {
+      "titulo": "Good for Nothin' Joe",
+      "duracion": 168
+    },
+    {
+      "titulo": "Aishie",
+      "duracion": 185
+    }
+  ],
+  "temasFuente": "Spotify"
 }

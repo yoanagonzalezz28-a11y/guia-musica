@@ -54,5 +54,52 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Daniela's Chronicles",
+      "duracion": 615
+    },
+    {
+      "titulo": "Galactic Panama",
+      "duracion": 304
+    },
+    {
+      "titulo": "Historia de un Amor",
+      "duracion": 277
+    },
+    {
+      "titulo": "Bridge of Life, Part I",
+      "duracion": 222
+    },
+    {
+      "titulo": "Providencia",
+      "duracion": 308
+    },
+    {
+      "titulo": "Irremediablemente Solo",
+      "duracion": 368
+    },
+    {
+      "titulo": "The Oracle (Dedicated to Charlie Banacos)",
+      "duracion": 307
+    },
+    {
+      "titulo": "Bridge of Life, Part II",
+      "duracion": 112
+    },
+    {
+      "titulo": "The Maze: The Beginning",
+      "duracion": 98
+    },
+    {
+      "titulo": "Cobilla",
+      "duracion": 325
+    },
+    {
+      "titulo": "The Maze: The End",
+      "duracion": 85
+    }
+  ],
+  "temasFuente": "Spotify"
 }

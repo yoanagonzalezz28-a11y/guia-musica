@@ -96,5 +96,40 @@
       "acceso": "completa",
       "aporta": "Blue Note destaca el uso de tonos menores y armonías abiertas, muy envidiado por sus colegas."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Good Old Soul",
+      "duracion": 487
+    },
+    {
+      "titulo": "Up Tight's Creek",
+      "duracion": 318
+    },
+    {
+      "titulo": "Theme for Doris",
+      "duracion": 353
+    },
+    {
+      "titulo": "Miss Hazel",
+      "duracion": 333
+    },
+    {
+      "titulo": "Nothing Ever Changes My Love for You",
+      "duracion": 473
+    },
+    {
+      "titulo": "True Blue - Alternate Take",
+      "duracion": 307
+    },
+    {
+      "titulo": "True Blue",
+      "duracion": 298
+    },
+    {
+      "titulo": "Good Old Soul - Alternate Take",
+      "duracion": 455
+    }
+  ],
+  "temasFuente": "Spotify"
 }

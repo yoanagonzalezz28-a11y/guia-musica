@@ -52,5 +52,36 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Flamenco Sketches",
+      "duracion": 964
+    },
+    {
+      "titulo": "Freddie Freeloader",
+      "duracion": 573
+    },
+    {
+      "titulo": "Blue In Green",
+      "duracion": 489
+    },
+    {
+      "titulo": "So What",
+      "duracion": 466
+    },
+    {
+      "titulo": "All Blues",
+      "duracion": 414
+    },
+    {
+      "titulo": "Nardis",
+      "duracion": 546
+    },
+    {
+      "titulo": "Serpent's Tooth",
+      "duracion": 219
+    }
+  ],
+  "temasFuente": "Spotify"
 }

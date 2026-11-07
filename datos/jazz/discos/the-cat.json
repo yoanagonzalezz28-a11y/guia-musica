@@ -54,5 +54,40 @@
     "wikidata": null,
     "wikipedia": "The_Cat_(album)"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Theme From \"Joy House\"",
+      "duracion": 278
+    },
+    {
+      "titulo": "The Cat",
+      "duracion": 204
+    },
+    {
+      "titulo": "Basin Street Blues",
+      "duracion": 239
+    },
+    {
+      "titulo": "Main Title From \"The Carpetbaggers\"",
+      "duracion": 237
+    },
+    {
+      "titulo": "Chicago Serenade",
+      "duracion": 237
+    },
+    {
+      "titulo": "St. Louis Blues",
+      "duracion": 197
+    },
+    {
+      "titulo": "Delon's Blues",
+      "duracion": 287
+    },
+    {
+      "titulo": "Blues In The Night",
+      "duracion": 286
+    }
+  ],
+  "temasFuente": "Spotify"
 }

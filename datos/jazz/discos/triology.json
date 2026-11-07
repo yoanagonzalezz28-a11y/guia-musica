@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Delfeayo's Dilemma",
+      "duracion": 341
+    },
+    {
+      "titulo": "Night and Day",
+      "duracion": 417
+    },
+    {
+      "titulo": "Giant Steps",
+      "duracion": 292
+    },
+    {
+      "titulo": "A Time for Love",
+      "duracion": 392
+    },
+    {
+      "titulo": "Wayne's Thang",
+      "duracion": 410
+    },
+    {
+      "titulo": "Pressing the Issue",
+      "duracion": 381
+    },
+    {
+      "titulo": "Koranne Said",
+      "duracion": 273
+    },
+    {
+      "titulo": "Oriental Towaway Zone",
+      "duracion": 372
+    },
+    {
+      "titulo": "In Your Own Sweet Way",
+      "duracion": 349
+    },
+    {
+      "titulo": "What Is This Thing Called Love?",
+      "duracion": 217
+    }
+  ],
+  "temasFuente": "Spotify"
 }

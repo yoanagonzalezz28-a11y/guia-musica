@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": "We_Get_Requests"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Quiet Nights Of Quiet Stars (Corcovado)",
+      "duracion": 169
+    },
+    {
+      "titulo": "Days Of Wine And Roses",
+      "duracion": 160
+    },
+    {
+      "titulo": "My One And Only Love",
+      "duracion": 308
+    },
+    {
+      "titulo": "People",
+      "duracion": 211
+    },
+    {
+      "titulo": "Have You Met Miss Jones?",
+      "duracion": 251
+    },
+    {
+      "titulo": "You Look Good To Me",
+      "duracion": 289
+    },
+    {
+      "titulo": "The Girl From Ipanema (Garota De Ipanema)",
+      "duracion": 232
+    },
+    {
+      "titulo": "D & E",
+      "duracion": 311
+    },
+    {
+      "titulo": "Time And Again",
+      "duracion": 278
+    },
+    {
+      "titulo": "Goodbye J.D.",
+      "duracion": 177
+    }
+  ],
+  "temasFuente": "Spotify"
 }

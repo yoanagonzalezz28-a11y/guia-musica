@@ -54,5 +54,52 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Tide of Hyacinth",
+      "duracion": 500
+    },
+    {
+      "titulo": "Yessss",
+      "duracion": 345
+    },
+    {
+      "titulo": "Cynical sideliners",
+      "duracion": 141
+    },
+    {
+      "titulo": "Mr. Roscoe (consider the simultaneous)",
+      "duracion": 358
+    },
+    {
+      "titulo": "An Interlude (that get' more intense)",
+      "duracion": 398
+    },
+    {
+      "titulo": "reset (quiet victories&celebrated defeats)",
+      "duracion": 205
+    },
+    {
+      "titulo": "Moon (the return amplifies the unity)",
+      "duracion": 224
+    },
+    {
+      "titulo": "4623",
+      "duracion": 32
+    },
+    {
+      "titulo": "Roy",
+      "duracion": 161
+    },
+    {
+      "titulo": "Blues (We measure the heart with a fist)",
+      "duracion": 330
+    },
+    {
+      "titulo": "Hooded procession (read the names outloud)",
+      "duracion": 198
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -59,5 +59,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Memoirs",
+      "duracion": 590
+    },
+    {
+      "titulo": "Monk's Dream",
+      "duracion": 476
+    },
+    {
+      "titulo": "Dark Victory",
+      "duracion": 259
+    },
+    {
+      "titulo": "Latin Genetics",
+      "duracion": 469
+    },
+    {
+      "titulo": "This Is The Hour",
+      "duracion": 370
+    },
+    {
+      "titulo": "Insanity",
+      "duracion": 254
+    },
+    {
+      "titulo": "New Flame",
+      "duracion": 586
+    },
+    {
+      "titulo": "Sting A Ring",
+      "duracion": 428
+    },
+    {
+      "titulo": "Blues For Josh",
+      "duracion": 328
+    },
+    {
+      "titulo": "Enough Is Enough",
+      "duracion": 494
+    }
+  ],
+  "temasFuente": "Spotify"
 }

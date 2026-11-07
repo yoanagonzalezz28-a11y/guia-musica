@@ -91,5 +91,32 @@
       "acceso": "completa",
       "aporta": "Su relación con Blue Note y su lugar entre los guitarristas más sampleados."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Idle Moments - Rudy Van Gelder Edition / Remastered 1999",
+      "duracion": 896
+    },
+    {
+      "titulo": "Jean De Fleur - Rudy Van Gelder Edition / Remastered 1999",
+      "duracion": 410
+    },
+    {
+      "titulo": "Django - Rudy Van Gelder Edition / Remastered 1999",
+      "duracion": 524
+    },
+    {
+      "titulo": "Nomad - Rudy Van Gelder Edition / Remastered 1999",
+      "duracion": 737
+    },
+    {
+      "titulo": "Jean De Fleur - Alternate Version / Rudy Van Gelder Edition / Remastered 1999",
+      "duracion": 490
+    },
+    {
+      "titulo": "Django - Alternate Version / Rudy Van Gelder Edition / Remastered 1999",
+      "duracion": 795
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -59,5 +59,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Dance Cadaverous",
+      "duracion": 390
+    },
+    {
+      "titulo": "Cascada Milagrosa",
+      "duracion": 346
+    },
+    {
+      "titulo": "Deambulador Nocturno",
+      "duracion": 396
+    },
+    {
+      "titulo": "Piedra Lunar",
+      "duracion": 310
+    },
+    {
+      "titulo": "Introducción Lolo",
+      "duracion": 189
+    },
+    {
+      "titulo": "Lolo",
+      "duracion": 318
+    },
+    {
+      "titulo": "VLA",
+      "duracion": 586
+    },
+    {
+      "titulo": "Chopchi",
+      "duracion": 329
+    },
+    {
+      "titulo": "La Era de los Bebés",
+      "duracion": 329
+    },
+    {
+      "titulo": "La Gallardeta",
+      "duracion": 123
+    }
+  ],
+  "temasFuente": "Spotify"
 }

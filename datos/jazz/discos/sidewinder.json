@@ -81,5 +81,32 @@
       "acceso": "indirecta",
       "aporta": "Billy Hart recuerda que, para Morgan, el tema era apenas un relleno."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "The Sidewinder - Remastered 1999/Rudy Van Gelder Edition",
+      "duracion": 625
+    },
+    {
+      "titulo": "Totem Pole - Remastered 1999/Rudy Van Gelder Edition",
+      "duracion": 615
+    },
+    {
+      "titulo": "Gary's Notebook - Remastered 1999/Rudy Van Gelder Edition",
+      "duracion": 370
+    },
+    {
+      "titulo": "Boy, What A Night - Remastered 1999/Rudy Van Gelder Edition",
+      "duracion": 455
+    },
+    {
+      "titulo": "Hocus-Pocus - Remastered 1999/Rudy Van Gelder Edition",
+      "duracion": 386
+    },
+    {
+      "titulo": "Totem Pole - Alternate Take / Remastered 1999/Rudy Van Gelder Edition",
+      "duracion": 598
+    }
+  ],
+  "temasFuente": "Spotify"
 }

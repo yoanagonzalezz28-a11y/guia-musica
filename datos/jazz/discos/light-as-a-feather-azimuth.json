@@ -59,5 +59,72 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "You're Everything",
+      "duracion": 311
+    },
+    {
+      "titulo": "Light As A Feather",
+      "duracion": 655
+    },
+    {
+      "titulo": "Captain Marvel",
+      "duracion": 292
+    },
+    {
+      "titulo": "500 Miles High",
+      "duracion": 545
+    },
+    {
+      "titulo": "Children's Song",
+      "duracion": 168
+    },
+    {
+      "titulo": "Spain",
+      "duracion": 589
+    },
+    {
+      "titulo": "Matrix",
+      "duracion": 490
+    },
+    {
+      "titulo": "Light As A Feather - Alternative Take",
+      "duracion": 646
+    },
+    {
+      "titulo": "500 Miles High - Alternative Take",
+      "duracion": 632
+    },
+    {
+      "titulo": "Children's Song - Alternative Take",
+      "duracion": 238
+    },
+    {
+      "titulo": "Spain - Composite Alternative Take",
+      "duracion": 334
+    },
+    {
+      "titulo": "Spain - Alternative Take",
+      "duracion": 542
+    },
+    {
+      "titulo": "What Games Shall We Play Today?",
+      "duracion": 232
+    },
+    {
+      "titulo": "What Game Shall We Play Today? - Alternative Take 1",
+      "duracion": 246
+    },
+    {
+      "titulo": "What Game Shall We Play Today? - Alternative Take 2",
+      "duracion": 227
+    },
+    {
+      "titulo": "What Game Shall We Play Today? - Alternative Take 3",
+      "duracion": 229
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -54,5 +54,60 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Marie Christie",
+      "duracion": 195
+    },
+    {
+      "titulo": "As We Fight (Willie Penrose)",
+      "duracion": 384
+    },
+    {
+      "titulo": "Our Basement (Ed)",
+      "duracion": 386
+    },
+    {
+      "titulo": "Vartha",
+      "duracion": 466
+    },
+    {
+      "titulo": "Memo (G. Learson)",
+      "duracion": 350
+    },
+    {
+      "titulo": "The Beauty Of Dissolving Portraits",
+      "duracion": 253
+    },
+    {
+      "titulo": "Asiam (Joan)",
+      "duracion": 362
+    },
+    {
+      "titulo": "Bubbles (John William Sublett)",
+      "duracion": 232
+    },
+    {
+      "titulo": "Ceaseless Inexhaustible Child (Cyntoia Brown)",
+      "duracion": 372
+    },
+    {
+      "titulo": "Rollcall For Those Absent",
+      "duracion": 218
+    },
+    {
+      "titulo": "J.E. Nilmah (Ecclesiastes 6:10)",
+      "duracion": 311
+    },
+    {
+      "titulo": "Inflatedbyspinning",
+      "duracion": 182
+    },
+    {
+      "titulo": "Richard (Conduit)",
+      "duracion": 988
+    }
+  ],
+  "temasFuente": "Spotify"
 }

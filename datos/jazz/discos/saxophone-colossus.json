@@ -74,5 +74,28 @@
       "acceso": "extracto",
       "aporta": "Integra el registro de preservación de la Biblioteca del Congreso."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "St. Thomas",
+      "duracion": 406
+    },
+    {
+      "titulo": "You Don't Know What Love Is - Rudy Van Gelder Rudy Van Gelder Remastered 2006 / Shared ISRC",
+      "duracion": 387
+    },
+    {
+      "titulo": "Strode Rode - Remastered 2006 / Shared ISRC",
+      "duracion": 313
+    },
+    {
+      "titulo": "Moritat",
+      "duracion": 602
+    },
+    {
+      "titulo": "Blue 7 - Rudy Van Gelder Remaster 1956",
+      "duracion": 677
+    }
+  ],
+  "temasFuente": "Spotify"
 }

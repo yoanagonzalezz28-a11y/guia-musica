@@ -59,5 +59,56 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "El Vals de la Duna",
+      "duracion": 379
+    },
+    {
+      "titulo": "Pensamiento de Caracol",
+      "duracion": 130
+    },
+    {
+      "titulo": "Dos Orillas",
+      "duracion": 256
+    },
+    {
+      "titulo": "Recordándote",
+      "duracion": 266
+    },
+    {
+      "titulo": "Me Enenés",
+      "duracion": 237
+    },
+    {
+      "titulo": "Distraída",
+      "duracion": 255
+    },
+    {
+      "titulo": "Duérmase la Mamá",
+      "duracion": 418
+    },
+    {
+      "titulo": "Ficción Solar",
+      "duracion": 338
+    },
+    {
+      "titulo": "Marchanta",
+      "duracion": 385
+    },
+    {
+      "titulo": "Boyero",
+      "duracion": 265
+    },
+    {
+      "titulo": "Ejercicio 14",
+      "duracion": 135
+    },
+    {
+      "titulo": "Encuentro",
+      "duracion": 200
+    }
+  ],
+  "temasFuente": "Spotify"
 }

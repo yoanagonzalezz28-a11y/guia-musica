@@ -54,5 +54,40 @@
     "wikidata": null,
     "wikipedia": "Facing_You"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "In Front",
+      "duracion": 605
+    },
+    {
+      "titulo": "Ritooria",
+      "duracion": 351
+    },
+    {
+      "titulo": "Lalene",
+      "duracion": 509
+    },
+    {
+      "titulo": "My Lady, My Child",
+      "duracion": 438
+    },
+    {
+      "titulo": "Landscape For Future Earth",
+      "duracion": 210
+    },
+    {
+      "titulo": "Starbright",
+      "duracion": 301
+    },
+    {
+      "titulo": "Vapallia",
+      "duracion": 231
+    },
+    {
+      "titulo": "Semblence",
+      "duracion": 181
+    }
+  ],
+  "temasFuente": "Spotify"
 }

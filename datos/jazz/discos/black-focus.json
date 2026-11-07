@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Black Focus",
+      "duracion": 274
+    },
+    {
+      "titulo": "Strings of Light",
+      "duracion": 509
+    },
+    {
+      "titulo": "Remembrance",
+      "duracion": 541
+    },
+    {
+      "titulo": "Yo Chavez",
+      "duracion": 239
+    },
+    {
+      "titulo": "Ayla",
+      "duracion": 46
+    },
+    {
+      "titulo": "O.G.",
+      "duracion": 47
+    },
+    {
+      "titulo": "Lowrider",
+      "duracion": 268
+    },
+    {
+      "titulo": "Mansur's Message",
+      "duracion": 126
+    },
+    {
+      "titulo": "WingTai Drums",
+      "duracion": 77
+    },
+    {
+      "titulo": "Joint 17",
+      "duracion": 499
+    }
+  ],
+  "temasFuente": "Spotify"
 }

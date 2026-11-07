@@ -10,8 +10,8 @@
   "id": "modal",
   "nombre": "Jazz modal",
   "lema": "Escalas en vez de acordes",
-  "tinta": "#5B3FA8",
-  "tintaTexto": "#FFFFFF",
+  "tinta": "#3F2766",
+  "tintaTexto": "#F2E8D5",
   "periodo": {
     "desde": 1958,
     "hasta": 1968,

@@ -54,5 +54,36 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Matinee Idol",
+      "duracion": 312
+    },
+    {
+      "titulo": "Imperial Strut",
+      "duracion": 330
+    },
+    {
+      "titulo": "Sittin' in It",
+      "duracion": 312
+    },
+    {
+      "titulo": "Rush Hour",
+      "duracion": 318
+    },
+    {
+      "titulo": "The Hornet",
+      "duracion": 335
+    },
+    {
+      "titulo": "Priscilla",
+      "duracion": 317
+    },
+    {
+      "titulo": "It's Almost Gone",
+      "duracion": 360
+    }
+  ],
+  "temasFuente": "Spotify"
 }

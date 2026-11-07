@@ -57,5 +57,24 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Track A- Solo Dancer",
+      "duracion": 399
+    },
+    {
+      "titulo": "Track B- Duete Solo Dancers",
+      "duracion": 405
+    },
+    {
+      "titulo": "Track C-Group Dancers",
+      "duracion": 442
+    },
+    {
+      "titulo": "Medley: Mode D-Trio and Group Dancers/Mode E- Single solos and Group Dance/ModeF-Group and Solo Dance",
+      "duracion": 1119
+    }
+  ],
+  "temasFuente": "Spotify"
 }

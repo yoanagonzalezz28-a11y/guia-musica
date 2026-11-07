@@ -58,5 +58,56 @@
     "wikidata": null,
     "wikipedia": "Mingus_Ah_Um"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Better Git It in Your Soul",
+      "duracion": 445
+    },
+    {
+      "titulo": "Goodbye Pork Pie Hat",
+      "duracion": 344
+    },
+    {
+      "titulo": "Boogie Stop Shuffle",
+      "duracion": 303
+    },
+    {
+      "titulo": "Self-Portrait in Three Colors",
+      "duracion": 190
+    },
+    {
+      "titulo": "Open Letter To Duke",
+      "duracion": 349
+    },
+    {
+      "titulo": "Bird Calls",
+      "duracion": 378
+    },
+    {
+      "titulo": "Fables of Faubus",
+      "duracion": 494
+    },
+    {
+      "titulo": "Pussy Cat Dues",
+      "duracion": 555
+    },
+    {
+      "titulo": "Jelly Roll",
+      "duracion": 377
+    },
+    {
+      "titulo": "Pedal Point Blues",
+      "duracion": 391
+    },
+    {
+      "titulo": "GG Train",
+      "duracion": 280
+    },
+    {
+      "titulo": "Girl Of My Dreams",
+      "duracion": 248
+    }
+  ],
+  "temasFuente": "Spotify"
 }

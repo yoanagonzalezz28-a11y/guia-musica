@@ -80,5 +80,40 @@
       "acceso": "completa",
       "aporta": "Lo ubica dentro de la primera generación de la fusión."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Meeting of the Spirits",
+      "duracion": 412
+    },
+    {
+      "titulo": "Dawn",
+      "duracion": 310
+    },
+    {
+      "titulo": "The Noonward Race",
+      "duracion": 388
+    },
+    {
+      "titulo": "A Lotus On Irish Streams",
+      "duracion": 339
+    },
+    {
+      "titulo": "Vital Transformation",
+      "duracion": 376
+    },
+    {
+      "titulo": "The Dance of Maya",
+      "duracion": 436
+    },
+    {
+      "titulo": "You Know, You Know",
+      "duracion": 307
+    },
+    {
+      "titulo": "Awakening",
+      "duracion": 212
+    }
+  ],
+  "temasFuente": "Spotify"
 }

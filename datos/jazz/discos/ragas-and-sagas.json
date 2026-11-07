@@ -54,5 +54,28 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Raga 1",
+      "duracion": 520
+    },
+    {
+      "titulo": "Saga",
+      "duracion": 326
+    },
+    {
+      "titulo": "Raga 2",
+      "duracion": 785
+    },
+    {
+      "titulo": "Raga 3",
+      "duracion": 714
+    },
+    {
+      "titulo": "Raga 4",
+      "duracion": 777
+    }
+  ],
+  "temasFuente": "Spotify"
 }

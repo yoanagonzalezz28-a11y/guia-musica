@@ -54,5 +54,36 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Junk Magic",
+      "duracion": 378
+    },
+    {
+      "titulo": "Mystero",
+      "duracion": 416
+    },
+    {
+      "titulo": "Shining Through",
+      "duracion": 350
+    },
+    {
+      "titulo": "Prismatica",
+      "duracion": 212
+    },
+    {
+      "titulo": "Bodies At Rest and In Motion",
+      "duracion": 428
+    },
+    {
+      "titulo": "Stalagmite",
+      "duracion": 69
+    },
+    {
+      "titulo": "The Golden Age",
+      "duracion": 668
+    }
+  ],
+  "temasFuente": "Spotify"
 }

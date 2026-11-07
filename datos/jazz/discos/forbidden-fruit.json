@@ -54,5 +54,92 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Rags and Old Iron - 2004 Remaster",
+      "duracion": 250
+    },
+    {
+      "titulo": "No Good Man - 2004 Remaster",
+      "duracion": 220
+    },
+    {
+      "titulo": "Gin House Blues - 2004 Remaster",
+      "duracion": 184
+    },
+    {
+      "titulo": "I'll Look Around - 2004 Remaster",
+      "duracion": 305
+    },
+    {
+      "titulo": "I Love to Love - 2004 Remaster",
+      "duracion": 205
+    },
+    {
+      "titulo": "Work Song - 2004 Remaster",
+      "duracion": 155
+    },
+    {
+      "titulo": "Where Can I Go Without You - 2004 Remaster",
+      "duracion": 172
+    },
+    {
+      "titulo": "Just Say I Love Him - 2004 Remaster",
+      "duracion": 396
+    },
+    {
+      "titulo": "Memphis in June - 2004 Remaster",
+      "duracion": 159
+    },
+    {
+      "titulo": "Forbidden Fruit - 2004 Remaster",
+      "duracion": 228
+    },
+    {
+      "titulo": "Porgy I Is Your Woman Now - 2004 Remaster",
+      "duracion": 207
+    },
+    {
+      "titulo": "Baubles Bangles and Beads - 2004 Remaster",
+      "duracion": 245
+    },
+    {
+      "titulo": "Gimme a Pigfoot - 2004 Remaster",
+      "duracion": 137
+    },
+    {
+      "titulo": "Ev'rytime We Say Goodbye - 2003 Remaster",
+      "duracion": 208
+    },
+    {
+      "titulo": "Spring Is Here - 2004 Remaster",
+      "duracion": 238
+    },
+    {
+      "titulo": "Lonesome Valley - 2005 Remaster",
+      "duracion": 221
+    },
+    {
+      "titulo": "Golden Earrings - 2005 Remaster",
+      "duracion": 288
+    },
+    {
+      "titulo": "My Ship - 2005 Remaster",
+      "duracion": 215
+    },
+    {
+      "titulo": "'Tain't Nobody's Biz-ness If I Do - 2005 Remaster",
+      "duracion": 281
+    },
+    {
+      "titulo": "Try a Little Tenderness - 2003 Remaster",
+      "duracion": 202
+    },
+    {
+      "titulo": "Od Yesh Homa - 2005 Remaster",
+      "duracion": 193
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -84,5 +84,44 @@
       "acceso": "extracto",
       "aporta": "Describe el boom previo de la bossa nova en Estados Unidos, que preparó el terreno para estos cruces."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Ponta de Areia",
+      "duracion": 316
+    },
+    {
+      "titulo": "Beauty and the Beast",
+      "duracion": 305
+    },
+    {
+      "titulo": "Tarde",
+      "duracion": 349
+    },
+    {
+      "titulo": "Miracle of the Fishes",
+      "duracion": 286
+    },
+    {
+      "titulo": "Diana",
+      "duracion": 180
+    },
+    {
+      "titulo": "From the Lonely Afternoons",
+      "duracion": 193
+    },
+    {
+      "titulo": "Ana Maria",
+      "duracion": 306
+    },
+    {
+      "titulo": "Lilia",
+      "duracion": 423
+    },
+    {
+      "titulo": "Joanna's Theme",
+      "duracion": 261
+    }
+  ],
+  "temasFuente": "Spotify"
 }

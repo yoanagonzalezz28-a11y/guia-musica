@@ -59,5 +59,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Ballad Of The Sad Young Man (Wolff/Landesman)",
+      "duracion": 321
+    },
+    {
+      "titulo": "La Chango Farías Juárez",
+      "duracion": 327
+    },
+    {
+      "titulo": "Cholo’s Knife",
+      "duracion": 310
+    },
+    {
+      "titulo": "Zamba Pachorra",
+      "duracion": 231
+    },
+    {
+      "titulo": "Monk’s Mood (Monk)",
+      "duracion": 252
+    },
+    {
+      "titulo": "Zamba del Parque Saavedra",
+      "duracion": 301
+    },
+    {
+      "titulo": "Vida Mía (Hnos Fresedo)",
+      "duracion": 375
+    },
+    {
+      "titulo": "Zamba para No Despertar a la Vieja de al Lado",
+      "duracion": 265
+    },
+    {
+      "titulo": "Zamba del Narigón",
+      "duracion": 241
+    },
+    {
+      "titulo": "Sad Young Man (a Briefly Remember)",
+      "duracion": 66
+    }
+  ],
+  "temasFuente": "Spotify"
 }

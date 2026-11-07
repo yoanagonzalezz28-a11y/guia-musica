@@ -64,5 +64,40 @@
       "acceso": "completa",
       "aporta": "Randall Roberts: \"his acclaimed Sankofa landed on many year-end lists\"."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Sankofa",
+      "duracion": 433
+    },
+    {
+      "titulo": "Ayeye",
+      "duracion": 376
+    },
+    {
+      "titulo": "Baquaqua",
+      "duracion": 242
+    },
+    {
+      "titulo": "Vila Bela",
+      "duracion": 284
+    },
+    {
+      "titulo": "Cazumbá",
+      "duracion": 489
+    },
+    {
+      "titulo": "Batucada",
+      "duracion": 180
+    },
+    {
+      "titulo": "Malakoff",
+      "duracion": 419
+    },
+    {
+      "titulo": "Nascimento",
+      "duracion": 292
+    }
+  ],
+  "temasFuente": "Spotify"
 }

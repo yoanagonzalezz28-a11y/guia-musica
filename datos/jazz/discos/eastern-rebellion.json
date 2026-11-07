@@ -54,5 +54,28 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Bolivia",
+      "duracion": 610
+    },
+    {
+      "titulo": "Naima",
+      "duracion": 519
+    },
+    {
+      "titulo": "5/4 Thing",
+      "duracion": 475
+    },
+    {
+      "titulo": "Bittersweet",
+      "duracion": 414
+    },
+    {
+      "titulo": "Mode for Joe",
+      "duracion": 461
+    }
+  ],
+  "temasFuente": "Spotify"
 }

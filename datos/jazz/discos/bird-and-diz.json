@@ -117,5 +117,60 @@
       "acceso": "completa",
       "aporta": "Ethan Iverson lo considera indispensable en una discoteca, aunque Monk casi no tiene solos."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Salt Peanuts",
+      "duracion": 186
+    },
+    {
+      "titulo": "Shaw Nuff",
+      "duracion": 173
+    },
+    {
+      "titulo": "Hot House",
+      "duracion": 182
+    },
+    {
+      "titulo": "Groovin' High",
+      "duracion": 289
+    },
+    {
+      "titulo": "Night In Tunisia",
+      "duracion": 243
+    },
+    {
+      "titulo": "Salt Peanuts (2)",
+      "duracion": 184
+    },
+    {
+      "titulo": "Groovin' High",
+      "duracion": 331
+    },
+    {
+      "titulo": "Introduction (Symphony Sid)",
+      "duracion": 107
+    },
+    {
+      "titulo": "Blue N' Boogie",
+      "duracion": 428
+    },
+    {
+      "titulo": "Anthropology",
+      "duracion": 357
+    },
+    {
+      "titulo": "Round Midnight",
+      "duracion": 237
+    },
+    {
+      "titulo": "Night In Tunisia (2)",
+      "duracion": 291
+    },
+    {
+      "titulo": "Jumpin' With Symphony Sid",
+      "duracion": 41
+    }
+  ],
+  "temasFuente": "Spotify"
 }

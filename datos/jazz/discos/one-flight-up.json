@@ -54,5 +54,20 @@
     "wikidata": null,
     "wikipedia": "One_Flight_Up"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Tanya - Remastered 2015",
+      "duracion": 1098
+    },
+    {
+      "titulo": "Coppin' The Haven - Remastered 2015",
+      "duracion": 678
+    },
+    {
+      "titulo": "Darn That Dream - Remastered 2015",
+      "duracion": 451
+    }
+  ],
+  "temasFuente": "Spotify"
 }

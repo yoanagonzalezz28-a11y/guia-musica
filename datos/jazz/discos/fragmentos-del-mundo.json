@@ -59,5 +59,56 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "LI#0",
+      "duracion": 211
+    },
+    {
+      "titulo": "Un viaje",
+      "duracion": 526
+    },
+    {
+      "titulo": "Punto ciego",
+      "duracion": 186
+    },
+    {
+      "titulo": "Sir Charles",
+      "duracion": 393
+    },
+    {
+      "titulo": "El cristal de los otros",
+      "duracion": 329
+    },
+    {
+      "titulo": "Creer-sentir",
+      "duracion": 323
+    },
+    {
+      "titulo": "LI#6",
+      "duracion": 120
+    },
+    {
+      "titulo": "Jaula de la luz",
+      "duracion": 325
+    },
+    {
+      "titulo": "Introspection",
+      "duracion": 306
+    },
+    {
+      "titulo": "Un camino en el sueño",
+      "duracion": 352
+    },
+    {
+      "titulo": "Ilusión",
+      "duracion": 266
+    },
+    {
+      "titulo": "(propio) fragmento del mundo",
+      "duracion": 260
+    }
+  ],
+  "temasFuente": "Spotify"
 }

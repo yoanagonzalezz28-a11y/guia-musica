@@ -54,5 +54,64 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Send In The Clowns",
+      "duracion": 255
+    },
+    {
+      "titulo": "Rowan",
+      "duracion": 362
+    },
+    {
+      "titulo": "Alfonsina",
+      "duracion": 308
+    },
+    {
+      "titulo": "There Comes A Time",
+      "duracion": 398
+    },
+    {
+      "titulo": "Song About Earth",
+      "duracion": 432
+    },
+    {
+      "titulo": "Seli",
+      "duracion": 525
+    },
+    {
+      "titulo": "Goodbye",
+      "duracion": 396
+    },
+    {
+      "titulo": "Music For A While",
+      "duracion": 314
+    },
+    {
+      "titulo": "Allegretto Rubato",
+      "duracion": 323
+    },
+    {
+      "titulo": "Jack Of Clubs",
+      "duracion": 176
+    },
+    {
+      "titulo": "Sudan",
+      "duracion": 155
+    },
+    {
+      "titulo": "Queer Street",
+      "duracion": 127
+    },
+    {
+      "titulo": "Triple Play",
+      "duracion": 116
+    },
+    {
+      "titulo": "Race Face",
+      "duracion": 280
+    }
+  ],
+  "temasFuente": "Spotify"
 }

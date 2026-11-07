@@ -54,5 +54,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Watercolors",
+      "duracion": 389
+    },
+    {
+      "titulo": "Icefire",
+      "duracion": 366
+    },
+    {
+      "titulo": "Oasis",
+      "duracion": 242
+    },
+    {
+      "titulo": "Lakes",
+      "duracion": 284
+    },
+    {
+      "titulo": "River Quay",
+      "duracion": 298
+    },
+    {
+      "titulo": "Suite: I. Florida Greeting Song",
+      "duracion": 151
+    },
+    {
+      "titulo": "Suite: II. Legend Of The Fountain",
+      "duracion": 150
+    },
+    {
+      "titulo": "Sea Song",
+      "duracion": 618
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -54,5 +54,32 @@
     "wikidata": null,
     "wikipedia": "Elegant_Gypsy"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Flight Over Rio",
+      "duracion": 437
+    },
+    {
+      "titulo": "Midnight Tango",
+      "duracion": 449
+    },
+    {
+      "titulo": "Mediterranean Sundance",
+      "duracion": 312
+    },
+    {
+      "titulo": "Race With Devil On Spanish Highway",
+      "duracion": 378
+    },
+    {
+      "titulo": "Lady of Rome, Sister of Brazil",
+      "duracion": 106
+    },
+    {
+      "titulo": "Elegant Gypsy Suite",
+      "duracion": 556
+    }
+  ],
+  "temasFuente": "Spotify"
 }

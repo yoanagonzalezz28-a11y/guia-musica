@@ -59,5 +59,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "A-Frick",
+      "duracion": 354
+    },
+    {
+      "titulo": "Arenales Blues",
+      "duracion": 251
+    },
+    {
+      "titulo": "Brad",
+      "duracion": 531
+    },
+    {
+      "titulo": "Nefertiti",
+      "duracion": 440
+    },
+    {
+      "titulo": "Cuchillos",
+      "duracion": 350
+    },
+    {
+      "titulo": "Lua",
+      "duracion": 451
+    },
+    {
+      "titulo": "Siete",
+      "duracion": 403
+    },
+    {
+      "titulo": "Gaviota",
+      "duracion": 329
+    },
+    {
+      "titulo": "Generador",
+      "duracion": 356
+    },
+    {
+      "titulo": "Like Someone In Love",
+      "duracion": 527
+    }
+  ],
+  "temasFuente": "Spotify"
 }

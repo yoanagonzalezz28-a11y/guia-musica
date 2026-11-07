@@ -54,5 +54,40 @@
     "wikidata": null,
     "wikipedia": "Blue%27s_Moods"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "I'll Close My Eyes - Remastered 2024",
+      "duracion": 356
+    },
+    {
+      "titulo": "Avars - Remastered 2024",
+      "duracion": 248
+    },
+    {
+      "titulo": "Scrapple From The Apple - Remastered 2024",
+      "duracion": 240
+    },
+    {
+      "titulo": "Kinda Vague - Remastered 2024",
+      "duracion": 378
+    },
+    {
+      "titulo": "Sir John - Remastered 2024",
+      "duracion": 366
+    },
+    {
+      "titulo": "When I Fall In Love - Remastered 2024",
+      "duracion": 342
+    },
+    {
+      "titulo": "Sweet Pumpkin - Remastered 2024",
+      "duracion": 259
+    },
+    {
+      "titulo": "I Wish I Knew - Remastered 2024",
+      "duracion": 266
+    }
+  ],
+  "temasFuente": "Spotify"
 }

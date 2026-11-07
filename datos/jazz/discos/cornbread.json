@@ -54,5 +54,28 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Cornbread",
+      "duracion": 543
+    },
+    {
+      "titulo": "Our Man Higgins",
+      "duracion": 534
+    },
+    {
+      "titulo": "Ceora",
+      "duracion": 383
+    },
+    {
+      "titulo": "Ill Wind",
+      "duracion": 480
+    },
+    {
+      "titulo": "Most Like Lee",
+      "duracion": 409
+    }
+  ],
+  "temasFuente": "Spotify"
 }

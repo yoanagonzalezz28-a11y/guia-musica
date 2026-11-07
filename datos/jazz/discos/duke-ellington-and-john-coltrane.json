@@ -54,5 +54,36 @@
     "wikidata": null,
     "wikipedia": "Duke_Ellington_%26_John_Coltrane"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "In A Sentimental Mood",
+      "duracion": 255
+    },
+    {
+      "titulo": "Take The Coltrane",
+      "duracion": 283
+    },
+    {
+      "titulo": "Big Nick",
+      "duracion": 267
+    },
+    {
+      "titulo": "Stevie",
+      "duracion": 263
+    },
+    {
+      "titulo": "My Little Brown Book",
+      "duracion": 320
+    },
+    {
+      "titulo": "Angelica",
+      "duracion": 354
+    },
+    {
+      "titulo": "The Feeling Of Jazz",
+      "duracion": 330
+    }
+  ],
+  "temasFuente": "Spotify"
 }

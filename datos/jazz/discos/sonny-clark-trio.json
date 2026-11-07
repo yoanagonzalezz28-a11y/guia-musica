@@ -59,5 +59,44 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Be-Bop - Remastered 2001/Rudy Van Gelder Edition",
+      "duracion": 594
+    },
+    {
+      "titulo": "I Didn't Know What Time It Was - Remastered 2001/Rudy Van Gelder Edition",
+      "duracion": 263
+    },
+    {
+      "titulo": "Two Bass Hit - Remastered 2001/Rudy Van Gelder Edition",
+      "duracion": 225
+    },
+    {
+      "titulo": "Tadd's Delight - Remastered 2001/Rudy Van Gelder Edition",
+      "duracion": 362
+    },
+    {
+      "titulo": "Softly As In A Morning Sunrise - Remastered 2001/Rudy Van Gelder Edition",
+      "duracion": 394
+    },
+    {
+      "titulo": "I'll Remember April - Remastered 2001/Rudy Van Gelder Edition",
+      "duracion": 295
+    },
+    {
+      "titulo": "I Didn't Know What Time It Was - Alternate Take / Remastered 2001/Rudy Van Gelder Edition",
+      "duracion": 261
+    },
+    {
+      "titulo": "Two Bass Hit - Alternate Take / Remastered 2001/Rudy Van Gelder Edition",
+      "duracion": 241
+    },
+    {
+      "titulo": "Tadd's Delight - Alternate Take / Remastered 2001/Rudy Van Gelder Edition",
+      "duracion": 302
+    }
+  ],
+  "temasFuente": "Spotify"
 }

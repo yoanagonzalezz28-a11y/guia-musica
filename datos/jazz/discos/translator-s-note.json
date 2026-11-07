@@ -54,5 +54,28 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Single Mother",
+      "duracion": 777
+    },
+    {
+      "titulo": "Welcome",
+      "duracion": 463
+    },
+    {
+      "titulo": "The Whale Song",
+      "duracion": 455
+    },
+    {
+      "titulo": "The Three Statements of Garab Dorje",
+      "duracion": 569
+    },
+    {
+      "titulo": "Lonnie's Lament",
+      "duracion": 348
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -59,5 +59,44 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Doctor",
+      "duracion": 320
+    },
+    {
+      "titulo": "Hipnótico I",
+      "duracion": 89
+    },
+    {
+      "titulo": "Sangre",
+      "duracion": 287
+    },
+    {
+      "titulo": "Son Dos",
+      "duracion": 241
+    },
+    {
+      "titulo": "5 de Septiembre",
+      "duracion": 319
+    },
+    {
+      "titulo": "Austin",
+      "duracion": 510
+    },
+    {
+      "titulo": "Segundo Acto",
+      "duracion": 191
+    },
+    {
+      "titulo": "Hipnótico II",
+      "duracion": 112
+    },
+    {
+      "titulo": "Ruido",
+      "duracion": 380
+    }
+  ],
+  "temasFuente": "Spotify"
 }

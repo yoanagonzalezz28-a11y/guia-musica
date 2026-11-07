@@ -54,5 +54,60 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Above",
+      "duracion": 457
+    },
+    {
+      "titulo": "Newsflash #1",
+      "duracion": 24
+    },
+    {
+      "titulo": "This Just In",
+      "duracion": 491
+    },
+    {
+      "titulo": "Newsflash #2",
+      "duracion": 52
+    },
+    {
+      "titulo": "The Ghost Of The North",
+      "duracion": 257
+    },
+    {
+      "titulo": "Newsflash #3",
+      "duracion": 35
+    },
+    {
+      "titulo": "March Of The Sad Ones",
+      "duracion": 424
+    },
+    {
+      "titulo": "Newsflash #4",
+      "duracion": 15
+    },
+    {
+      "titulo": "Nothing Personal",
+      "duracion": 479
+    },
+    {
+      "titulo": "Eye In The Sky",
+      "duracion": 303
+    },
+    {
+      "titulo": "Newsflash #5",
+      "duracion": 46
+    },
+    {
+      "titulo": "Dreamers",
+      "duracion": 350
+    },
+    {
+      "titulo": "This Just Out",
+      "duracion": 113
+    }
+  ],
+  "temasFuente": "Spotify"
 }

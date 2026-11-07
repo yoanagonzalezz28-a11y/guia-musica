@@ -59,5 +59,68 @@
     "wikidata": null,
     "wikipedia": "Porgy_and_Bess_(Ella_Fitzgerald_and_Louis_Armstrong_album)"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Porgy And Bess: Overture",
+      "duracion": 651
+    },
+    {
+      "titulo": "Summertime",
+      "duracion": 298
+    },
+    {
+      "titulo": "I Wants To Stay Here",
+      "duracion": 276
+    },
+    {
+      "titulo": "My Man's Gone Now",
+      "duracion": 241
+    },
+    {
+      "titulo": "I Got Plenty O' Nuttin'",
+      "duracion": 231
+    },
+    {
+      "titulo": "Buzzard Song",
+      "duracion": 177
+    },
+    {
+      "titulo": "Bess You Is My Woman Now",
+      "duracion": 328
+    },
+    {
+      "titulo": "It Ain't Necessarily So",
+      "duracion": 394
+    },
+    {
+      "titulo": "What You Want Wid Bess?",
+      "duracion": 120
+    },
+    {
+      "titulo": "A Woman Is A Sometime Thing",
+      "duracion": 287
+    },
+    {
+      "titulo": "Oh, Doctor Jesus",
+      "duracion": 120
+    },
+    {
+      "titulo": "Porgy And Bess: Medley: Here Come De Honey Man / Crab Man / Oh, Dey's So Fresh And Fine",
+      "duracion": 209
+    },
+    {
+      "titulo": "There's A Boat Dat's Leavin' Soon For New York",
+      "duracion": 294
+    },
+    {
+      "titulo": "Bess, Oh Where's My Bess?",
+      "duracion": 156
+    },
+    {
+      "titulo": "Oh Lawd, I'm On My Way",
+      "duracion": 178
+    }
+  ],
+  "temasFuente": "Spotify"
 }

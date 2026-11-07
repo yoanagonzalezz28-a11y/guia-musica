@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Warriors",
+      "duracion": 416
+    },
+    {
+      "titulo": "Ferguson - An American Tradition",
+      "duracion": 428
+    },
+    {
+      "titulo": "The Dreamer",
+      "duracion": 218
+    },
+    {
+      "titulo": "Mary Turner - An American Tradition",
+      "duracion": 262
+    },
+    {
+      "titulo": "Grace And Mercy",
+      "duracion": 410
+    },
+    {
+      "titulo": "Part 1. The Key",
+      "duracion": 166
+    },
+    {
+      "titulo": "Part 2. Saudade",
+      "duracion": 445
+    },
+    {
+      "titulo": "Part 3. Eulogy",
+      "duracion": 352
+    },
+    {
+      "titulo": "Part 4. Guarded Heart",
+      "duracion": 581
+    },
+    {
+      "titulo": "Omega",
+      "duracion": 527
+    }
+  ],
+  "temasFuente": "Spotify"
 }

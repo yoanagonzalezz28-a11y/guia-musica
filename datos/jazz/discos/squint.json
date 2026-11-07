@@ -54,5 +54,52 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Etude",
+      "duracion": 147
+    },
+    {
+      "titulo": "Boo's Blues",
+      "duracion": 205
+    },
+    {
+      "titulo": "Squint",
+      "duracion": 270
+    },
+    {
+      "titulo": "Saint Rose",
+      "duracion": 276
+    },
+    {
+      "titulo": "Emily",
+      "duracion": 329
+    },
+    {
+      "titulo": "Familiar Flower",
+      "duracion": 239
+    },
+    {
+      "titulo": "Day and Age",
+      "duracion": 195
+    },
+    {
+      "titulo": "Quiet Like A Fuse",
+      "duracion": 413
+    },
+    {
+      "titulo": "Short Form",
+      "duracion": 212
+    },
+    {
+      "titulo": "Twilight Surfer",
+      "duracion": 258
+    },
+    {
+      "titulo": "Call Of The Canyon",
+      "duracion": 192
+    }
+  ],
+  "temasFuente": "Spotify"
 }

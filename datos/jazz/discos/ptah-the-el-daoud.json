@@ -54,5 +54,24 @@
     "wikidata": null,
     "wikipedia": "Ptah,_the_El_Daoud"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Ptah, The El Daoud",
+      "duracion": 839
+    },
+    {
+      "titulo": "Turiya & Ramakrishna",
+      "duracion": 498
+    },
+    {
+      "titulo": "Blue Nile",
+      "duracion": 422
+    },
+    {
+      "titulo": "Mantra",
+      "duracion": 996
+    }
+  ],
+  "temasFuente": "Spotify"
 }

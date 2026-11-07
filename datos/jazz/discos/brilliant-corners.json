@@ -95,5 +95,28 @@
       "acceso": "indirecta",
       "aporta": "Nat Hentoff le dio cinco estrellas en DownBeat."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Brilliant Corners",
+      "duracion": 464
+    },
+    {
+      "titulo": "Ba-Lue Bolivar Ba-Lues-Are",
+      "duracion": 788
+    },
+    {
+      "titulo": "Pannonica",
+      "duracion": 530
+    },
+    {
+      "titulo": "I Surrender, Dear",
+      "duracion": 326
+    },
+    {
+      "titulo": "Bemsha Swing",
+      "duracion": 463
+    }
+  ],
+  "temasFuente": "Spotify"
 }

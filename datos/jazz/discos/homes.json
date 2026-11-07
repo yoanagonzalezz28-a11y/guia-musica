@@ -54,5 +54,56 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Homes",
+      "duracion": 32
+    },
+    {
+      "titulo": "Verona",
+      "duracion": 471
+    },
+    {
+      "titulo": "KeeDee",
+      "duracion": 457
+    },
+    {
+      "titulo": "Home E-minor",
+      "duracion": 89
+    },
+    {
+      "titulo": "Space",
+      "duracion": 37
+    },
+    {
+      "titulo": "Cosmic Patience",
+      "duracion": 676
+    },
+    {
+      "titulo": "Eyes to See",
+      "duracion": 269
+    },
+    {
+      "titulo": "Parisian Thoroughfare",
+      "duracion": 340
+    },
+    {
+      "titulo": "Samba Em Prelùdio",
+      "duracion": 432
+    },
+    {
+      "titulo": "Last Train Home",
+      "duracion": 328
+    },
+    {
+      "titulo": "Dove Song",
+      "duracion": 306
+    },
+    {
+      "titulo": "Place Like No Home",
+      "duracion": 105
+    }
+  ],
+  "temasFuente": "Spotify"
 }

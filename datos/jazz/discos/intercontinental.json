@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Chloe",
+      "duracion": 322
+    },
+    {
+      "titulo": "Meditation",
+      "duracion": 324
+    },
+    {
+      "titulo": "I Cover the Waterfront",
+      "duracion": 254
+    },
+    {
+      "titulo": "I Love You",
+      "duracion": 298
+    },
+    {
+      "titulo": "Stompin at the Savoy",
+      "duracion": 260
+    },
+    {
+      "titulo": "Watch What Happens",
+      "duracion": 321
+    },
+    {
+      "titulo": "Joe's Blues",
+      "duracion": 358
+    },
+    {
+      "titulo": "El Gento",
+      "duracion": 240
+    },
+    {
+      "titulo": "Ode to Billy Joe",
+      "duracion": 208
+    },
+    {
+      "titulo": "Lil' Darlin'",
+      "duracion": 225
+    }
+  ],
+  "temasFuente": "Spotify"
 }

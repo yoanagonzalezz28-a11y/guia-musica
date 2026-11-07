@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "You're Not the Kind",
+      "duracion": 261
+    },
+    {
+      "titulo": "Blues On My Mind",
+      "duracion": 450
+    },
+    {
+      "titulo": "Stablemates",
+      "duracion": 348
+    },
+    {
+      "titulo": "Thursday's Theme",
+      "duracion": 458
+    },
+    {
+      "titulo": "Afternoon In Paris",
+      "duracion": 414
+    },
+    {
+      "titulo": "Calgary",
+      "duracion": 219
+    },
+    {
+      "titulo": "Blues March",
+      "duracion": 245
+    },
+    {
+      "titulo": "I Remember Clifford",
+      "duracion": 182
+    },
+    {
+      "titulo": "Moanin'",
+      "duracion": 367
+    },
+    {
+      "titulo": "Stablemates - Second Version",
+      "duracion": 488
+    }
+  ],
+  "temasFuente": "Spotify"
 }

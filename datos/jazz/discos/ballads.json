@@ -54,5 +54,96 @@
     "wikidata": null,
     "wikipedia": "Ballads_(John_Coltrane_album)"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Say It (Over And Over Again)",
+      "duracion": 256
+    },
+    {
+      "titulo": "You Don't Know What Love Is",
+      "duracion": 312
+    },
+    {
+      "titulo": "Too Young To Go Steady",
+      "duracion": 260
+    },
+    {
+      "titulo": "All Or Nothing At All",
+      "duracion": 215
+    },
+    {
+      "titulo": "I Wish I Knew",
+      "duracion": 290
+    },
+    {
+      "titulo": "What's New",
+      "duracion": 224
+    },
+    {
+      "titulo": "It's Easy To Remember",
+      "duracion": 166
+    },
+    {
+      "titulo": "Nancy (With The Laughing Face)",
+      "duracion": 192
+    },
+    {
+      "titulo": "They Say It's Wonderful",
+      "duracion": 183
+    },
+    {
+      "titulo": "All Or Nothing At All - Take 2",
+      "duracion": 222
+    },
+    {
+      "titulo": "Greensleeves - Take 2",
+      "duracion": 267
+    },
+    {
+      "titulo": "Greensleeves - Take 4",
+      "duracion": 227
+    },
+    {
+      "titulo": "Greensleeves - Take 5",
+      "duracion": 224
+    },
+    {
+      "titulo": "Greensleeves - Single Version",
+      "duracion": 218
+    },
+    {
+      "titulo": "Greensleeves - Take 11",
+      "duracion": 254
+    },
+    {
+      "titulo": "It's Easy To Remember - Take 2",
+      "duracion": 280
+    },
+    {
+      "titulo": "It's Easy To Remember - Take 4",
+      "duracion": 165
+    },
+    {
+      "titulo": "It's Easy To Remember - Take 6",
+      "duracion": 167
+    },
+    {
+      "titulo": "It's Easy To Remember - Take 7",
+      "duracion": 166
+    },
+    {
+      "titulo": "It's Easy To Remember - Take 9",
+      "duracion": 225
+    },
+    {
+      "titulo": "It's Easy To Remember - Take 11",
+      "duracion": 158
+    },
+    {
+      "titulo": "It's Easy To Remember - Take 13",
+      "duracion": 162
+    }
+  ],
+  "temasFuente": "Spotify"
 }

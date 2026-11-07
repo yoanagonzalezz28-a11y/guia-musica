@@ -54,5 +54,52 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Improbable Day",
+      "duracion": 761
+    },
+    {
+      "titulo": "Ashen Sky",
+      "duracion": 457
+    },
+    {
+      "titulo": "Deliverance",
+      "duracion": 308
+    },
+    {
+      "titulo": "Souvenance",
+      "duracion": 557
+    },
+    {
+      "titulo": "Tunis At Dawn",
+      "duracion": 402
+    },
+    {
+      "titulo": "Youssef's Song",
+      "duracion": 624
+    },
+    {
+      "titulo": "January",
+      "duracion": 440
+    },
+    {
+      "titulo": "Like A Dream",
+      "duracion": 580
+    },
+    {
+      "titulo": "On The Road",
+      "duracion": 479
+    },
+    {
+      "titulo": "Kasserine",
+      "duracion": 576
+    },
+    {
+      "titulo": "Nouvelle vague",
+      "duracion": 160
+    }
+  ],
+  "temasFuente": "Spotify"
 }

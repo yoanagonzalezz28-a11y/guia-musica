@@ -54,5 +54,44 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "The Peacocks",
+      "duracion": 477
+    },
+    {
+      "titulo": "Loro",
+      "duracion": 307
+    },
+    {
+      "titulo": "Humpty Dumpty",
+      "duracion": 351
+    },
+    {
+      "titulo": "Mompouana",
+      "duracion": 471
+    },
+    {
+      "titulo": "Perazuán",
+      "duracion": 219
+    },
+    {
+      "titulo": "Junjo",
+      "duracion": 314
+    },
+    {
+      "titulo": "Cantora De Yala",
+      "duracion": 296
+    },
+    {
+      "titulo": "Two Bad",
+      "duracion": 419
+    },
+    {
+      "titulo": "Perazela",
+      "duracion": 93
+    }
+  ],
+  "temasFuente": "Spotify"
 }

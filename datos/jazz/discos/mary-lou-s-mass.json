@@ -54,5 +54,104 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Willis",
+      "duracion": 221
+    },
+    {
+      "titulo": "O.W.",
+      "duracion": 140
+    },
+    {
+      "titulo": "Praise the Lord",
+      "duracion": 133
+    },
+    {
+      "titulo": "Old Time Spiritual",
+      "duracion": 74
+    },
+    {
+      "titulo": "The Lord Says",
+      "duracion": 115
+    },
+    {
+      "titulo": "Act of Contrition",
+      "duracion": 91
+    },
+    {
+      "titulo": "Kyrie Eleison (Lord, Have Mercy)",
+      "duracion": 108
+    },
+    {
+      "titulo": "Gloria",
+      "duracion": 116
+    },
+    {
+      "titulo": "Medi I and Medi II",
+      "duracion": 244
+    },
+    {
+      "titulo": "In His Day / Peace I Leave With You / Alleluia",
+      "duracion": 57
+    },
+    {
+      "titulo": "Lazarus",
+      "duracion": 281
+    },
+    {
+      "titulo": "Credo",
+      "duracion": 143
+    },
+    {
+      "titulo": "Credo - Instrumental",
+      "duracion": 352
+    },
+    {
+      "titulo": "Holy, Holy, Holy",
+      "duracion": 148
+    },
+    {
+      "titulo": "Amen",
+      "duracion": 21
+    },
+    {
+      "titulo": "Our Father",
+      "duracion": 135
+    },
+    {
+      "titulo": "Lamb of God",
+      "duracion": 207
+    },
+    {
+      "titulo": "It Is Always Spring",
+      "duracion": 158
+    },
+    {
+      "titulo": "People in Trouble",
+      "duracion": 211
+    },
+    {
+      "titulo": "One",
+      "duracion": 87
+    },
+    {
+      "titulo": "Praise the Lord (Come Holy Spirit)",
+      "duracion": 239
+    },
+    {
+      "titulo": "Jesus is the Best",
+      "duracion": 178
+    },
+    {
+      "titulo": "Tell Him Not to Talk Too Long",
+      "duracion": 157
+    },
+    {
+      "titulo": "I Have a Dream",
+      "duracion": 119
+    }
+  ],
+  "temasFuente": "Spotify"
 }

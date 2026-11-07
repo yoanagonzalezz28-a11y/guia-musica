@@ -54,5 +54,44 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Trip Trap",
+      "duracion": 419
+    },
+    {
+      "titulo": "Que Sera Sera",
+      "duracion": 364
+    },
+    {
+      "titulo": "7-T's",
+      "duracion": 356
+    },
+    {
+      "titulo": "Sublimity ‘Bunny’s Dream’",
+      "duracion": 404
+    },
+    {
+      "titulo": "Untamed",
+      "duracion": 288
+    },
+    {
+      "titulo": "No Limit",
+      "duracion": 336
+    },
+    {
+      "titulo": "Someone To Love",
+      "duracion": 282
+    },
+    {
+      "titulo": "Keep 'Em Runnin",
+      "duracion": 319
+    },
+    {
+      "titulo": "Preacher's Kid",
+      "duracion": 463
+    }
+  ],
+  "temasFuente": "Spotify"
 }

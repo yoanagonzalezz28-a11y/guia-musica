@@ -57,5 +57,56 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Asta",
+      "duracion": 339
+    },
+    {
+      "titulo": "Suffering",
+      "duracion": 399
+    },
+    {
+      "titulo": "The Teacher",
+      "duracion": 170
+    },
+    {
+      "titulo": "Newborn Broken",
+      "duracion": 335
+    },
+    {
+      "titulo": "Libera Me",
+      "duracion": 440
+    },
+    {
+      "titulo": "Shimmering",
+      "duracion": 361
+    },
+    {
+      "titulo": "Granada",
+      "duracion": 389
+    },
+    {
+      "titulo": "Both Sides Now",
+      "duracion": 195
+    },
+    {
+      "titulo": "Forever You",
+      "duracion": 244
+    },
+    {
+      "titulo": "Bird Through the Wall",
+      "duracion": 133
+    },
+    {
+      "titulo": "Cornelia",
+      "duracion": 408
+    },
+    {
+      "titulo": "Asnah",
+      "duracion": 444
+    }
+  ],
+  "temasFuente": "Spotify"
 }

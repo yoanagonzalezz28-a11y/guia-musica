@@ -58,5 +58,36 @@
     "wikidata": null,
     "wikipedia": "Blue_Train_(album)"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Blue Train - Remastered 2003/Rudy Van Gelder Edition",
+      "duracion": 644
+    },
+    {
+      "titulo": "Moment's Notice - Remastered 2003/Rudy Van Gelder Edition",
+      "duracion": 551
+    },
+    {
+      "titulo": "Locomotion - Remastered 2003/Rudy Van Gelder Edition",
+      "duracion": 434
+    },
+    {
+      "titulo": "I'm Old Fashioned - Remastered 2003/Rudy Van Gelder Edition",
+      "duracion": 478
+    },
+    {
+      "titulo": "Lazy Bird - Remastered 2003/Rudy Van Gelder Edition",
+      "duracion": 427
+    },
+    {
+      "titulo": "Blue Train - Alternate Take / Remastered 2003/Rudy Van Gelder Edition",
+      "duracion": 598
+    },
+    {
+      "titulo": "Lazy Bird - Alternate Take / Remastered 2003/Rudy Van Gelder Edition",
+      "duracion": 433
+    }
+  ],
+  "temasFuente": "Spotify"
 }

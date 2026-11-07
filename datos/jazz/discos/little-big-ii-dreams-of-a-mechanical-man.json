@@ -54,5 +54,56 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Attention, Earthlings",
+      "duracion": 359
+    },
+    {
+      "titulo": "Here",
+      "duracion": 345
+    },
+    {
+      "titulo": "Solace",
+      "duracion": 433
+    },
+    {
+      "titulo": "Friendo",
+      "duracion": 395
+    },
+    {
+      "titulo": "Is Anything Okay?",
+      "duracion": 205
+    },
+    {
+      "titulo": "The Shadow & The Self",
+      "duracion": 441
+    },
+    {
+      "titulo": "The Storyteller",
+      "duracion": 390
+    },
+    {
+      "titulo": "Dreams of a Mechanical Man",
+      "duracion": 333
+    },
+    {
+      "titulo": "My Mistake",
+      "duracion": 295
+    },
+    {
+      "titulo": "The Ongoing Pulse of Isness",
+      "duracion": 436
+    },
+    {
+      "titulo": "Where Now?",
+      "duracion": 203
+    },
+    {
+      "titulo": "Unknown",
+      "duracion": 417
+    }
+  ],
+  "temasFuente": "Spotify"
 }

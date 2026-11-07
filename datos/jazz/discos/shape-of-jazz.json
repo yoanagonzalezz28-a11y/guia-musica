@@ -90,5 +90,32 @@
       "acceso": "completa",
       "aporta": "Iverson sostiene que este Ornette no existiría sin Cherry, Haden y Higgins."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Lonely Woman",
+      "duracion": 302
+    },
+    {
+      "titulo": "Eventually",
+      "duracion": 263
+    },
+    {
+      "titulo": "Peace",
+      "duracion": 545
+    },
+    {
+      "titulo": "Focus on Sanity",
+      "duracion": 412
+    },
+    {
+      "titulo": "Congeniality",
+      "duracion": 408
+    },
+    {
+      "titulo": "Chronology",
+      "duracion": 364
+    }
+  ],
+  "temasFuente": "Spotify"
 }

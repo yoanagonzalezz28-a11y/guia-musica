@@ -54,5 +54,52 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "I Can See Your House From Here",
+      "duracion": 467
+    },
+    {
+      "titulo": "The Red One",
+      "duracion": 259
+    },
+    {
+      "titulo": "No Matter What",
+      "duracion": 438
+    },
+    {
+      "titulo": "Everybody's Party",
+      "duracion": 380
+    },
+    {
+      "titulo": "Message To My Friend",
+      "duracion": 373
+    },
+    {
+      "titulo": "No Way Jose",
+      "duracion": 441
+    },
+    {
+      "titulo": "Say The Brother's Name",
+      "duracion": 442
+    },
+    {
+      "titulo": "S.C.O.",
+      "duracion": 286
+    },
+    {
+      "titulo": "Quiet Rising",
+      "duracion": 329
+    },
+    {
+      "titulo": "One Way To Be",
+      "duracion": 349
+    },
+    {
+      "titulo": "You Speak My Language",
+      "duracion": 420
+    }
+  ],
+  "temasFuente": "Spotify"
 }

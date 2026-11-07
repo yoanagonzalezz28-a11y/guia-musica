@@ -54,5 +54,36 @@
     "wikidata": null,
     "wikipedia": "Boss_Tenor"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Hittin' The Jug - Remastered 2006",
+      "duracion": 508
+    },
+    {
+      "titulo": "Close Your Eyes - Remastered 2006",
+      "duracion": 224
+    },
+    {
+      "titulo": "My Romance - Remastered 2006",
+      "duracion": 253
+    },
+    {
+      "titulo": "Canadian Sunset - Remastered 2006",
+      "duracion": 323
+    },
+    {
+      "titulo": "Blue Ammons - Remastered 2006",
+      "duracion": 295
+    },
+    {
+      "titulo": "Confirmation - Remastered 2006",
+      "duracion": 322
+    },
+    {
+      "titulo": "Stompin' At The Savoy - Remastered 2006",
+      "duracion": 212
+    }
+  ],
+  "temasFuente": "Spotify"
 }

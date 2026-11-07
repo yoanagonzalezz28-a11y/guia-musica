@@ -54,5 +54,60 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Hymnal",
+      "duracion": 143
+    },
+    {
+      "titulo": "Northern Shuffle",
+      "duracion": 365
+    },
+    {
+      "titulo": "Omission",
+      "duracion": 207
+    },
+    {
+      "titulo": "Serenade",
+      "duracion": 320
+    },
+    {
+      "titulo": "Myself Around You",
+      "duracion": 360
+    },
+    {
+      "titulo": "South Mountain",
+      "duracion": 315
+    },
+    {
+      "titulo": "Speak To Me",
+      "duracion": 255
+    },
+    {
+      "titulo": "Two And One",
+      "duracion": 259
+    },
+    {
+      "titulo": "Vanishing Points",
+      "duracion": 266
+    },
+    {
+      "titulo": "Tiburon",
+      "duracion": 266
+    },
+    {
+      "titulo": "As It Were",
+      "duracion": 307
+    },
+    {
+      "titulo": "76",
+      "duracion": 277
+    },
+    {
+      "titulo": "Nothing Happens Here",
+      "duracion": 255
+    }
+  ],
+  "temasFuente": "Spotify"
 }

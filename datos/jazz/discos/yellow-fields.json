@@ -52,5 +52,24 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Touch",
+      "duracion": 300
+    },
+    {
+      "titulo": "Sand-Glass",
+      "duracion": 931
+    },
+    {
+      "titulo": "Yellow Fields",
+      "duracion": 605
+    },
+    {
+      "titulo": "Left Lane",
+      "duracion": 817
+    }
+  ],
+  "temasFuente": "Spotify"
 }

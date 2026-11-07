@@ -54,5 +54,60 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Tea for Two",
+      "duracion": 194
+    },
+    {
+      "titulo": "St. Louis Blues",
+      "duracion": 156
+    },
+    {
+      "titulo": "Tiger Rag",
+      "duracion": 138
+    },
+    {
+      "titulo": "Sophisticated Lady",
+      "duracion": 195
+    },
+    {
+      "titulo": "How High the Moon - Live",
+      "duracion": 143
+    },
+    {
+      "titulo": "Humoresque - Live",
+      "duracion": 226
+    },
+    {
+      "titulo": "Someone to Watch Over Me - Live",
+      "duracion": 206
+    },
+    {
+      "titulo": "Yesterdays - Live",
+      "duracion": 202
+    },
+    {
+      "titulo": "I Know That You Know - Live",
+      "duracion": 152
+    },
+    {
+      "titulo": "Willow Weep for Me - Live",
+      "duracion": 193
+    },
+    {
+      "titulo": "Tatum Pole Boogie - Live",
+      "duracion": 143
+    },
+    {
+      "titulo": "The Kerry Dance - Live",
+      "duracion": 64
+    },
+    {
+      "titulo": "The Man I Love - Live",
+      "duracion": 128
+    }
+  ],
+  "temasFuente": "Spotify"
 }

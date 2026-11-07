@@ -54,5 +54,20 @@
     "wikidata": null,
     "wikipedia": "Mwandishi"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Ostinato - Suite for Angela",
+      "duracion": 789
+    },
+    {
+      "titulo": "You'll Know When You Get There",
+      "duracion": 615
+    },
+    {
+      "titulo": "Wandering Spirit Song",
+      "duracion": 1287
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -54,5 +54,40 @@
     "wikidata": null,
     "wikipedia": "Blue_%26_Sentimental"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Blue And Sentimental - Remastered 2007/Rudy Van Gelder Edition",
+      "duracion": 449
+    },
+    {
+      "titulo": "Minor Impulse - Remastered 2007/Rudy Van Gelder Edition",
+      "duracion": 394
+    },
+    {
+      "titulo": "Don't Take Your Love From Me - Remastered 2007/Rudy Van Gelder Edition",
+      "duracion": 423
+    },
+    {
+      "titulo": "Blues For Charlie - Remastered 2007/Rudy Van Gelder Edition",
+      "duracion": 409
+    },
+    {
+      "titulo": "Like - Remastered 2007/Rudy Van Gelder Edition",
+      "duracion": 321
+    },
+    {
+      "titulo": "Count Every Star - Remastered 2007/Rudy Van Gelder Edition",
+      "duracion": 378
+    },
+    {
+      "titulo": "That Old Black Magic - Rudy Van Gelder Edition",
+      "duracion": 292
+    },
+    {
+      "titulo": "It's All Right With Me - Rudy Van Gelder Edition",
+      "duracion": 364
+    }
+  ],
+  "temasFuente": "Spotify"
 }

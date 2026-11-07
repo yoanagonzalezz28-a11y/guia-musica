@@ -58,5 +58,48 @@
     "wikidata": null,
     "wikipedia": "You_Must_Believe_in_Spring"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "B Minor Waltz - Remastered 2003",
+      "duracion": 196
+    },
+    {
+      "titulo": "You Must Believe In Spring",
+      "duracion": 344
+    },
+    {
+      "titulo": "Gary's Theme - Remastered 2003",
+      "duracion": 258
+    },
+    {
+      "titulo": "We Will Meet Again - Remastered",
+      "duracion": 245
+    },
+    {
+      "titulo": "The Peacocks - Remastered 2003",
+      "duracion": 362
+    },
+    {
+      "titulo": "Sometime Ago - Remastered",
+      "duracion": 274
+    },
+    {
+      "titulo": "Theme From M*A*S*H (Suicide Is Painless) - Remastered",
+      "duracion": 363
+    },
+    {
+      "titulo": "Without A Song - Remastered",
+      "duracion": 486
+    },
+    {
+      "titulo": "Freddie Freeloader - Remastered",
+      "duracion": 454
+    },
+    {
+      "titulo": "All Of You - Remastered",
+      "duracion": 490
+    }
+  ],
+  "temasFuente": "Spotify"
 }

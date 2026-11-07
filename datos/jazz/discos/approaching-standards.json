@@ -55,5 +55,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Easy To Remember",
+      "duracion": 370
+    },
+    {
+      "titulo": "Ruby My Dear",
+      "duracion": 372
+    },
+    {
+      "titulo": "Whisper Not",
+      "duracion": 462
+    },
+    {
+      "titulo": "What's New",
+      "duracion": 317
+    },
+    {
+      "titulo": "September In the Rain",
+      "duracion": 453
+    },
+    {
+      "titulo": "You Don't Know What Love Is",
+      "duracion": 387
+    },
+    {
+      "titulo": "End of a Love Affair",
+      "duracion": 481
+    },
+    {
+      "titulo": "Things We Did Last Summer",
+      "duracion": 344
+    },
+    {
+      "titulo": "Everything I Have Is Yours/Dedicated To You",
+      "duracion": 291
+    },
+    {
+      "titulo": "My Shining Hour",
+      "duracion": 376
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -79,5 +79,44 @@
       "acceso": "extracto",
       "aporta": "Rollins cuenta que el disco es un homenaje a la independencia y que eligió a Brown y Manne porque estaban en el Oeste."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "I'm An Old Cowhand",
+      "duracion": 339
+    },
+    {
+      "titulo": "I'm An Old Cowhand - Alternate Take",
+      "duracion": 609
+    },
+    {
+      "titulo": "Solitude",
+      "duracion": 470
+    },
+    {
+      "titulo": "Come, Gone",
+      "duracion": 469
+    },
+    {
+      "titulo": "Come, Gone - Alternate Take",
+      "duracion": 628
+    },
+    {
+      "titulo": "Wagon Wheels",
+      "duracion": 609
+    },
+    {
+      "titulo": "There Is No Greater Love",
+      "duracion": 314
+    },
+    {
+      "titulo": "Way Out West",
+      "duracion": 388
+    },
+    {
+      "titulo": "Way Out West - Alternate Take",
+      "duracion": 398
+    }
+  ],
+  "temasFuente": "Spotify"
 }

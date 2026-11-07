@@ -54,5 +54,108 @@
     "wikidata": null,
     "wikipedia": "Anatomy_of_a_Murder_(soundtrack)"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Main Title and Anatomy of a Murder",
+      "duracion": 236
+    },
+    {
+      "titulo": "Flirtibird",
+      "duracion": 131
+    },
+    {
+      "titulo": "Way Early Subtone",
+      "duracion": 236
+    },
+    {
+      "titulo": "Hero to Zero",
+      "duracion": 130
+    },
+    {
+      "titulo": "Low Key Lightly",
+      "duracion": 216
+    },
+    {
+      "titulo": "Happy Anatomy",
+      "duracion": 153
+    },
+    {
+      "titulo": "Midnight Indigo",
+      "duracion": 162
+    },
+    {
+      "titulo": "Almost Cried",
+      "duracion": 144
+    },
+    {
+      "titulo": "Sunswept Sunday",
+      "duracion": 111
+    },
+    {
+      "titulo": "Grace Valse",
+      "duracion": 150
+    },
+    {
+      "titulo": "Happy Anatomy - P.I. Five",
+      "duracion": 87
+    },
+    {
+      "titulo": "Haupe",
+      "duracion": 156
+    },
+    {
+      "titulo": "Upper and Outest",
+      "duracion": 138
+    },
+    {
+      "titulo": "Anatomy of a Murder - Stereo Single Version",
+      "duracion": 162
+    },
+    {
+      "titulo": "Merrily Rolling Along - aka Hero to Zero / Sunswept Sunday) [Movie Strings & Rehearsal]",
+      "duracion": 228
+    },
+    {
+      "titulo": "Beer Garden",
+      "duracion": 110
+    },
+    {
+      "titulo": "Happy Anatomy - Band-Studio",
+      "duracion": 157
+    },
+    {
+      "titulo": "Polly - aka Grace Valse, Haupe, Low Key Lightly, Midnight Indigo",
+      "duracion": 214
+    },
+    {
+      "titulo": "Polly - Movie Strings",
+      "duracion": 233
+    },
+    {
+      "titulo": "Happy Anatomy - Dixieland",
+      "duracion": 132
+    },
+    {
+      "titulo": "More Blues - P.I. Five",
+      "duracion": 132
+    },
+    {
+      "titulo": "Almost Cried - (aka Flirtibird)",
+      "duracion": 130
+    },
+    {
+      "titulo": "Sound Track Music: Anatomy of a Murder - Duke Ellington a la Guy Lombardo",
+      "duracion": 147
+    },
+    {
+      "titulo": "Anatomy of a Murder - Mono Single Version",
+      "duracion": 154
+    },
+    {
+      "titulo": "The Grand Finale - Rehearsal / Lines / Interview / Music / Strings / Murder",
+      "duracion": 647
+    }
+  ],
+  "temasFuente": "Spotify"
 }

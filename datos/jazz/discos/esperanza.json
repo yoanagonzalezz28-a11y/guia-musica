@@ -54,5 +54,56 @@
     "wikidata": null,
     "wikipedia": "Esperanza_(album)"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Ponta De Areia",
+      "duracion": 337
+    },
+    {
+      "titulo": "I Know You Know",
+      "duracion": 225
+    },
+    {
+      "titulo": "Fall In",
+      "duracion": 237
+    },
+    {
+      "titulo": "I Adore You",
+      "duracion": 447
+    },
+    {
+      "titulo": "Cuerpo Y Alma",
+      "duracion": 481
+    },
+    {
+      "titulo": "She Got To You",
+      "duracion": 268
+    },
+    {
+      "titulo": "Precious",
+      "duracion": 264
+    },
+    {
+      "titulo": "Mela",
+      "duracion": 416
+    },
+    {
+      "titulo": "Love In Time",
+      "duracion": 346
+    },
+    {
+      "titulo": "Espera",
+      "duracion": 278
+    },
+    {
+      "titulo": "If That's True",
+      "duracion": 451
+    },
+    {
+      "titulo": "Samba Em Preludio",
+      "duracion": 311
+    }
+  ],
+  "temasFuente": "Spotify"
 }

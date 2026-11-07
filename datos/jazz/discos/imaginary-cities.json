@@ -54,5 +54,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Lament",
+      "duracion": 488
+    },
+    {
+      "titulo": "Imaginary Cities - Pt. 1, Compassion",
+      "duracion": 515
+    },
+    {
+      "titulo": "Imaginary Cities - Pt. 2, Dualities",
+      "duracion": 525
+    },
+    {
+      "titulo": "Imaginary Cities - Pt. 3, Disintegration",
+      "duracion": 443
+    },
+    {
+      "titulo": "Imaginary Cities - Pt. 4, Rebuilding",
+      "duracion": 693
+    },
+    {
+      "titulo": "Firefly",
+      "duracion": 517
+    },
+    {
+      "titulo": "Shadow Self",
+      "duracion": 370
+    },
+    {
+      "titulo": "Sky",
+      "duracion": 723
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -59,5 +59,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "It Never Entered My Mind",
+      "duracion": 323
+    },
+    {
+      "titulo": "Four",
+      "duracion": 433
+    },
+    {
+      "titulo": "In Your Own Sweet Way",
+      "duracion": 343
+    },
+    {
+      "titulo": "The Theme - Take 1",
+      "duracion": 118
+    },
+    {
+      "titulo": "Trane's Blues",
+      "duracion": 512
+    },
+    {
+      "titulo": "Ahmad's Blues",
+      "duracion": 444
+    },
+    {
+      "titulo": "Half Nelson",
+      "duracion": 285
+    },
+    {
+      "titulo": "The Theme - Take 2",
+      "duracion": 64
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Stadium Jazz (feat. Donny McCaslin, Jason Lindner, Tim Lefebvre & Mark Guiliana)",
+      "duracion": 438
+    },
+    {
+      "titulo": "Says Who (feat. Donny McCaslin, Jason Lindner, Tim Lefebvre & Mark Guiliana)",
+      "duracion": 378
+    },
+    {
+      "titulo": "Losing Track of Daytime (feat. Donny McCaslin, Jason Lindner, Tim Lefebvre & Mark Guiliana)",
+      "duracion": 458
+    },
+    {
+      "titulo": "Alpha and Omega (feat. Donny McCaslin, Jason Lindner, Tim Lefebvre & Mark Guiliana)",
+      "duracion": 252
+    },
+    {
+      "titulo": "Tension (feat. Donny McCaslin, Jason Lindner, Tim Lefebvre & Mark Guiliana)",
+      "duracion": 348
+    },
+    {
+      "titulo": "Praia Grande (feat. Donny McCaslin, Jason Lindner, Tim Lefebvre & Mark Guiliana)",
+      "duracion": 352
+    },
+    {
+      "titulo": "Love Song For An Echo (feat. Donny McCaslin, Jason Lindner, Tim Lefebvre & Mark Guiliana)",
+      "duracion": 511
+    },
+    {
+      "titulo": "Casting For Gravity (feat. Donny McCaslin, Jason Lindner, Tim Lefebvre & Mark Guiliana)",
+      "duracion": 237
+    },
+    {
+      "titulo": "Bend (feat. Donny McCaslin, Jason Lindner, Tim Lefebvre & Mark Guiliana)",
+      "duracion": 442
+    },
+    {
+      "titulo": "Henry (feat. Donny McCaslin, Jason Lindner, Tim Lefebvre & Mark Guiliana)",
+      "duracion": 395
+    }
+  ],
+  "temasFuente": "Spotify"
 }

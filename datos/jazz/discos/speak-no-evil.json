@@ -82,5 +82,36 @@
       "acceso": "completa",
       "aporta": "Ted Gioia: mientras muchos imitaban o se estancaban, Shorter encontró nuevos caminos para improvisar y componer."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Witch Hunt - Remastered1998/Rudy Van Gelder Edition",
+      "duracion": 491
+    },
+    {
+      "titulo": "Fee-Fi-Fo-Fum - Remastered1998/Rudy Van Gelder Edition",
+      "duracion": 354
+    },
+    {
+      "titulo": "Dance Cadaverous - Remastered1998/Rudy Van Gelder Edition",
+      "duracion": 406
+    },
+    {
+      "titulo": "Speak No Evil - Remastered1998/Rudy Van Gelder Edition",
+      "duracion": 504
+    },
+    {
+      "titulo": "Infant Eyes - Remastered1998/Rudy Van Gelder Edition",
+      "duracion": 414
+    },
+    {
+      "titulo": "Wild Flower - Remastered1998/Rudy Van Gelder Edition",
+      "duracion": 367
+    },
+    {
+      "titulo": "Dance Cadaverous - Alternate Take / Remastered1998/Rudy Van Gelder Edition",
+      "duracion": 395
+    }
+  ],
+  "temasFuente": "Spotify"
 }

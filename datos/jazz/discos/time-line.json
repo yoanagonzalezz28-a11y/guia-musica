@@ -54,5 +54,72 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "The Pendant",
+      "duracion": 251
+    },
+    {
+      "titulo": "Oleander Etude",
+      "duracion": 120
+    },
+    {
+      "titulo": "Always By Your Side",
+      "duracion": 173
+    },
+    {
+      "titulo": "The Hollows",
+      "duracion": 203
+    },
+    {
+      "titulo": "Anniversary Song",
+      "duracion": 113
+    },
+    {
+      "titulo": "If",
+      "duracion": 278
+    },
+    {
+      "titulo": "Five Glimpses: I",
+      "duracion": 61
+    },
+    {
+      "titulo": "Five Glimpses: II",
+      "duracion": 47
+    },
+    {
+      "titulo": "Five Glimpses: III",
+      "duracion": 51
+    },
+    {
+      "titulo": "Five Glimpses: IV",
+      "duracion": 49
+    },
+    {
+      "titulo": "Five Glimpses: V",
+      "duracion": 25
+    },
+    {
+      "titulo": "The Lizards Of Eraclea",
+      "duracion": 159
+    },
+    {
+      "titulo": "Turning Of The Leaves",
+      "duracion": 225
+    },
+    {
+      "titulo": "Come Rain Or Come Shine",
+      "duracion": 254
+    },
+    {
+      "titulo": "Freeze Frame",
+      "duracion": 295
+    },
+    {
+      "titulo": "My Man's Gone Now",
+      "duracion": 328
+    }
+  ],
+  "temasFuente": "Spotify"
 }

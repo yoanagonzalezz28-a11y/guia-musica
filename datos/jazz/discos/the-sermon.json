@@ -86,5 +86,20 @@
       "acceso": "completa",
       "aporta": "Ubica el órgano Hammond en el centro del soul jazz."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "The Sermon - 2018 Digitally Remastered",
+      "duracion": 1212
+    },
+    {
+      "titulo": "J.O.S. - 2018 Digitally Remastered",
+      "duracion": 717
+    },
+    {
+      "titulo": "Flamingo - 2018 Digitally Remastered",
+      "duracion": 482
+    }
+  ],
+  "temasFuente": "Spotify"
 }

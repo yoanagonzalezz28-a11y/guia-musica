@@ -54,5 +54,52 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Big Eater",
+      "duracion": 234
+    },
+    {
+      "titulo": "Keep The Bugs Off Your Glass And The Bears Off Your Ass",
+      "duracion": 349
+    },
+    {
+      "titulo": "Smells Like Teen Spirit",
+      "duracion": 357
+    },
+    {
+      "titulo": "Everywhere You Turn",
+      "duracion": 297
+    },
+    {
+      "titulo": "1972 Bronze Medalist",
+      "duracion": 319
+    },
+    {
+      "titulo": "Guilty",
+      "duracion": 334
+    },
+    {
+      "titulo": "Boo-Wah",
+      "duracion": 235
+    },
+    {
+      "titulo": "Flim",
+      "duracion": 245
+    },
+    {
+      "titulo": "Heart of Glass",
+      "duracion": 288
+    },
+    {
+      "titulo": "Silence Is The Question",
+      "duracion": 492
+    },
+    {
+      "titulo": "What Love Is This",
+      "duracion": 247
+    }
+  ],
+  "temasFuente": "Spotify"
 }

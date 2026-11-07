@@ -54,5 +54,56 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Tam",
+      "duracion": 121
+    },
+    {
+      "titulo": "Me and You",
+      "duracion": 144
+    },
+    {
+      "titulo": "Coffee Dan",
+      "duracion": 171
+    },
+    {
+      "titulo": "The Love Nest",
+      "duracion": 273
+    },
+    {
+      "titulo": "H.O.T. (Helen of Troy)",
+      "duracion": 193
+    },
+    {
+      "titulo": "Shoes on the Ruff",
+      "duracion": 172
+    },
+    {
+      "titulo": "The Walls Fall",
+      "duracion": 154
+    },
+    {
+      "titulo": "Blue Skies",
+      "duracion": 153
+    },
+    {
+      "titulo": "Late in the Evening",
+      "duracion": 140
+    },
+    {
+      "titulo": "Ocho Puertas",
+      "duracion": 174
+    },
+    {
+      "titulo": "Tin Top Alley Blues",
+      "duracion": 180
+    },
+    {
+      "titulo": "Little Honey",
+      "duracion": 153
+    }
+  ],
+  "temasFuente": "Spotify"
 }

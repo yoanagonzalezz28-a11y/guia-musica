@@ -54,5 +54,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Sidewinder",
+      "duracion": 507
+    },
+    {
+      "titulo": "Moanin'",
+      "duracion": 470
+    },
+    {
+      "titulo": "Wade in the Water",
+      "duracion": 366
+    },
+    {
+      "titulo": "Freedom Jazz Dance",
+      "duracion": 316
+    },
+    {
+      "titulo": "Work Song",
+      "duracion": 370
+    },
+    {
+      "titulo": "When a Man Loves a Woman",
+      "duracion": 350
+    },
+    {
+      "titulo": "Gimme Some Lovin",
+      "duracion": 670
+    },
+    {
+      "titulo": "You Stole My Heart",
+      "duracion": 846
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "The Chosen",
+      "duracion": 299
+    },
+    {
+      "titulo": "Blacktop",
+      "duracion": 303
+    },
+    {
+      "titulo": "Summer Song",
+      "duracion": 398
+    },
+    {
+      "titulo": "Small Town",
+      "duracion": 393
+    },
+    {
+      "titulo": "A Walk in the Park",
+      "duracion": 323
+    },
+    {
+      "titulo": "Turn in Time",
+      "duracion": 307
+    },
+    {
+      "titulo": "Father Time",
+      "duracion": 286
+    },
+    {
+      "titulo": "New Lullaby - For Gabriela",
+      "duracion": 272
+    },
+    {
+      "titulo": "Dreamland",
+      "duracion": 346
+    },
+    {
+      "titulo": "Take My Hand",
+      "duracion": 271
+    }
+  ],
+  "temasFuente": "Spotify"
 }

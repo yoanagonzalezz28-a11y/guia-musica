@@ -54,5 +54,36 @@
     "wikidata": null,
     "wikipedia": "Roll_Call_(album)"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Roll Call - Rudy Van Gelder Edition",
+      "duracion": 634
+    },
+    {
+      "titulo": "My Groove Your Move - Rudy Van Gelder Edition",
+      "duracion": 367
+    },
+    {
+      "titulo": "Take Your Pick - Rudy Van Gelder Edition",
+      "duracion": 328
+    },
+    {
+      "titulo": "A Baptist Beat - Rudy Van Gelder Edition",
+      "duracion": 535
+    },
+    {
+      "titulo": "The More I See You - Rudy Van Gelder Edition",
+      "duracion": 408
+    },
+    {
+      "titulo": "The Breakdown - Rudy Van Gelder Edition",
+      "duracion": 298
+    },
+    {
+      "titulo": "A Baptist Beat - Alternate Take / Rudy Van Gelder Edition",
+      "duracion": 582
+    }
+  ],
+  "temasFuente": "Spotify"
 }

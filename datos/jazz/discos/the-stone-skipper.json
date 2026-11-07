@@ -54,5 +54,72 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "A Man, Morning, Street, Rain",
+      "duracion": 137
+    },
+    {
+      "titulo": "Without Words",
+      "duracion": 151
+    },
+    {
+      "titulo": "From One Soul to Another",
+      "duracion": 321
+    },
+    {
+      "titulo": "Pearl",
+      "duracion": 69
+    },
+    {
+      "titulo": "Stop Motion",
+      "duracion": 290
+    },
+    {
+      "titulo": "Kunda kuchka",
+      "duracion": 274
+    },
+    {
+      "titulo": "The Stone Skipper",
+      "duracion": 312
+    },
+    {
+      "titulo": "Mirrors",
+      "duracion": 144
+    },
+    {
+      "titulo": "The Message",
+      "duracion": 213
+    },
+    {
+      "titulo": "Spirit - For Anat",
+      "duracion": 247
+    },
+    {
+      "titulo": "It's Your Blessing and Your Curse",
+      "duracion": 120
+    },
+    {
+      "titulo": "Water Colors",
+      "duracion": 407
+    },
+    {
+      "titulo": "Rain, Morning, a Man, Street",
+      "duracion": 263
+    },
+    {
+      "titulo": "The One You Seek Is You",
+      "duracion": 243
+    },
+    {
+      "titulo": "Epilogue",
+      "duracion": 201
+    },
+    {
+      "titulo": "Luiza",
+      "duracion": 207
+    }
+  ],
+  "temasFuente": "Spotify"
 }

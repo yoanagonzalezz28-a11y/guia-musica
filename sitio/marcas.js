@@ -1,4 +1,5 @@
-// Marcas personales: escuchado, puntaje y notas. Viven solo en el navegador de cada persona.
+// Marcas personales: escuchado (o visto, en un músico), puntaje, notas y épocas completadas.
+// Viven solo en el navegador de cada persona.
 (function () {
   const CLAVE = 'banco-musica:marcas';
   const VERSION = 2;
@@ -8,7 +9,7 @@
 
   const vacio = () => ({ version: VERSION, marcas: {} });
   const fechaValida = f => (typeof f === 'string' && !Number.isNaN(Date.parse(f)) ? f : EPOCA);
-  const estaVacia = m => !m.escuchado && !m.puntaje && !m.notas.length;
+  const estaVacia = m => !m.escuchado && !m.puntaje && !m.notas.length && !m.completada;
   const mismaNota = (a, b) => a.trim() === b.trim();
 
   // La versión 1 tenía una sola nota y una sola fecha para toda la marca.
@@ -48,7 +49,7 @@
     }
   }
 
-  const marcaDe = (datos, id) => datos.marcas[id] || { escuchado: false, fechaEscuchado: EPOCA, puntaje: null, fechaPuntaje: EPOCA, notas: [], titulo: '' };
+  const marcaDe = (datos, id) => ({ escuchado: false, fechaEscuchado: EPOCA, puntaje: null, fechaPuntaje: EPOCA, notas: [], titulo: '', completada: false, fechaCompletada: EPOCA, ...datos.marcas[id] });
 
   function guardar(id, cambios, titulo) {
     const datos = leer();
@@ -56,6 +57,7 @@
     const m = { ...marcaDe(datos, id), titulo, actualizado: ahora };
     if ('escuchado' in cambios) { m.escuchado = cambios.escuchado; m.fechaEscuchado = ahora; }
     if ('puntaje' in cambios) { m.puntaje = cambios.puntaje; m.fechaPuntaje = ahora; }
+    if ('completada' in cambios) { m.completada = cambios.completada; m.fechaCompletada = ahora; }
     // El cuadro de texto edita siempre la nota más reciente. Las anteriores no se tocan.
     if ('nota' in cambios) {
       const previas = [...m.notas];
@@ -90,6 +92,7 @@
       puntaje, fechaPuntaje: fechaValida(m.fechaPuntaje),
       notas,
       titulo: typeof m.titulo === 'string' ? m.titulo.slice(0, 200) : '',
+      completada: m.completada === true, fechaCompletada: fechaValida(m.fechaCompletada),
       actualizado: fechaValida(m.actualizado),
     };
     return estaVacia(limpia) ? null : limpia;
@@ -102,6 +105,7 @@
     const r = { ...actual };
     if (reciente(actual.fechaEscuchado, importada.fechaEscuchado)) { r.escuchado = importada.escuchado; r.fechaEscuchado = importada.fechaEscuchado; }
     if (reciente(actual.fechaPuntaje, importada.fechaPuntaje)) { r.puntaje = importada.puntaje; r.fechaPuntaje = importada.fechaPuntaje; }
+    if (reciente(actual.fechaCompletada || EPOCA, importada.fechaCompletada)) { r.completada = importada.completada; r.fechaCompletada = importada.fechaCompletada; }
     const notas = [...actual.notas];
     for (const n of importada.notas) {
       const igual = notas.find(x => mismaNota(x.texto, n.texto));

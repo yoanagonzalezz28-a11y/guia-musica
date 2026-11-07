@@ -54,5 +54,32 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "A Feeling",
+      "duracion": 201
+    },
+    {
+      "titulo": "Light Blue",
+      "duracion": 404
+    },
+    {
+      "titulo": "117 Special",
+      "duracion": 423
+    },
+    {
+      "titulo": "Rufus",
+      "duracion": 311
+    },
+    {
+      "titulo": "All Blues",
+      "duracion": 572
+    },
+    {
+      "titulo": "Will You Still Be Mine",
+      "duracion": 237
+    }
+  ],
+  "temasFuente": "Spotify"
 }

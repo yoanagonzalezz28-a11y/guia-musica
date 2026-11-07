@@ -54,5 +54,44 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Senor Mouse",
+      "duracion": 378
+    },
+    {
+      "titulo": "Arise, Her Eyes",
+      "duracion": 305
+    },
+    {
+      "titulo": "I'm Your Pal",
+      "duracion": 239
+    },
+    {
+      "titulo": "Desert Air",
+      "duracion": 383
+    },
+    {
+      "titulo": "Crystal Silence",
+      "duracion": 541
+    },
+    {
+      "titulo": "Falling Grace",
+      "duracion": 159
+    },
+    {
+      "titulo": "Feelings And Things",
+      "duracion": 282
+    },
+    {
+      "titulo": "Children's Song",
+      "duracion": 128
+    },
+    {
+      "titulo": "What Game Shall We Play Today",
+      "duracion": 223
+    }
+  ],
+  "temasFuente": "Spotify"
 }

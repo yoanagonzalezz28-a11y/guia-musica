@@ -54,5 +54,36 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Django",
+      "duracion": 539
+    },
+    {
+      "titulo": "Boléro",
+      "duracion": 263
+    },
+    {
+      "titulo": "Manoir De Mes Reves",
+      "duracion": 358
+    },
+    {
+      "titulo": "Gitane",
+      "duracion": 216
+    },
+    {
+      "titulo": "Nuages",
+      "duracion": 539
+    },
+    {
+      "titulo": "Dinette",
+      "duracion": 367
+    },
+    {
+      "titulo": "Improvisation",
+      "duracion": 173
+    }
+  ],
+  "temasFuente": "Spotify"
 }

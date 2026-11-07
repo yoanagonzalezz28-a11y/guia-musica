@@ -91,5 +91,32 @@
       "acceso": "completa",
       "aporta": "Rollins explica por qué volvió: sintió que quedarse en el puente podía convertirse en autoindulgencia."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Without a Song - Remastered",
+      "duracion": 449
+    },
+    {
+      "titulo": "Where Are You - Remastered",
+      "duracion": 311
+    },
+    {
+      "titulo": "John S. - Remastered",
+      "duracion": 466
+    },
+    {
+      "titulo": "The Bridge - Remastered",
+      "duracion": 359
+    },
+    {
+      "titulo": "God Bless the Child",
+      "duracion": 449
+    },
+    {
+      "titulo": "You Do Something to Me - Remastered",
+      "duracion": 409
+    }
+  ],
+  "temasFuente": "Spotify"
 }

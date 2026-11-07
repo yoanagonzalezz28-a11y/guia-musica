@@ -54,5 +54,52 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Dreaming",
+      "duracion": 172
+    },
+    {
+      "titulo": "About a Tree - Oyfn Weg Shteyt a Boym",
+      "duracion": 413
+    },
+    {
+      "titulo": "Seven Seas",
+      "duracion": 324
+    },
+    {
+      "titulo": "Halah",
+      "duracion": 350
+    },
+    {
+      "titulo": "Staav",
+      "duracion": 213
+    },
+    {
+      "titulo": "Ani Aff",
+      "duracion": 274
+    },
+    {
+      "titulo": "Worksong",
+      "duracion": 165
+    },
+    {
+      "titulo": "Hayo hayta",
+      "duracion": 383
+    },
+    {
+      "titulo": "Two Roses - Shnei shoshanim",
+      "duracion": 325
+    },
+    {
+      "titulo": "Tres hermanicas eran",
+      "duracion": 214
+    },
+    {
+      "titulo": "In One",
+      "duracion": 216
+    }
+  ],
+  "temasFuente": "Spotify"
 }

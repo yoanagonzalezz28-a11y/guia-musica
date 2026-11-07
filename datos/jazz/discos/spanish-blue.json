@@ -59,5 +59,24 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "El Noche Sol",
+      "duracion": 358
+    },
+    {
+      "titulo": "So What",
+      "duracion": 686
+    },
+    {
+      "titulo": "Sabado Sombrero",
+      "duracion": 376
+    },
+    {
+      "titulo": "Arkansas",
+      "duracion": 636
+    }
+  ],
+  "temasFuente": "Spotify"
 }

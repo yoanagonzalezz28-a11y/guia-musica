@@ -59,5 +59,68 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "El Manisero - Mambo Son",
+      "duracion": 157
+    },
+    {
+      "titulo": "Sasauma - Mambo",
+      "duracion": 170
+    },
+    {
+      "titulo": "Babalu - Afro Cha",
+      "duracion": 154
+    },
+    {
+      "titulo": "Ita Morreal - Descarga",
+      "duracion": 157
+    },
+    {
+      "titulo": "Cha Cha No. 1 - Chachacha",
+      "duracion": 207
+    },
+    {
+      "titulo": "A Quien Engañes - Danzon",
+      "duracion": 165
+    },
+    {
+      "titulo": "Habana - Chachacha",
+      "duracion": 138
+    },
+    {
+      "titulo": "La Feria de los Siglos - Guaracha",
+      "duracion": 206
+    },
+    {
+      "titulo": "Chamizo - Guaracha",
+      "duracion": 156
+    },
+    {
+      "titulo": "Aquellos Ojos Verdes - Bolero",
+      "duracion": 183
+    },
+    {
+      "titulo": "Siempre Cantando / Chachacha",
+      "duracion": 179
+    },
+    {
+      "titulo": "Masa Limpia - Mambo",
+      "duracion": 173
+    },
+    {
+      "titulo": "Tu Sabes Bien Que Te Quiro - Bolero Mambo",
+      "duracion": 154
+    },
+    {
+      "titulo": "Cha Cha No. 3 - Chachacha",
+      "duracion": 189
+    },
+    {
+      "titulo": "El Cumbanchero - Rumba",
+      "duracion": 158
+    }
+  ],
+  "temasFuente": "Spotify"
 }

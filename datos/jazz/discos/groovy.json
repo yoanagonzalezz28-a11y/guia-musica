@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": "Groovy_(Red_Garland_album)"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "C Jam blues",
+      "duracion": 502
+    },
+    {
+      "titulo": "Gone again",
+      "duracion": 406
+    },
+    {
+      "titulo": "Will you still be mine?",
+      "duracion": 285
+    },
+    {
+      "titulo": "Willow weep for me",
+      "duracion": 577
+    },
+    {
+      "titulo": "What can I say, dear?",
+      "duracion": 434
+    },
+    {
+      "titulo": "Hey now",
+      "duracion": 221
+    },
+    {
+      "titulo": "If I were a bell",
+      "duracion": 401
+    },
+    {
+      "titulo": "I know why",
+      "duracion": 288
+    },
+    {
+      "titulo": "Lost april",
+      "duracion": 386
+    },
+    {
+      "titulo": "P.C. Blues",
+      "duracion": 593
+    }
+  ],
+  "temasFuente": "Spotify"
 }

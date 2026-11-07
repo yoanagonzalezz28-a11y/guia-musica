@@ -52,5 +52,44 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Standing Ovation (For Mandela)",
+      "duracion": 266
+    },
+    {
+      "titulo": "Vol",
+      "duracion": 362
+    },
+    {
+      "titulo": "Daoulagad",
+      "duracion": 382
+    },
+    {
+      "titulo": "Bororo Dance",
+      "duracion": 407
+    },
+    {
+      "titulo": "Annobon",
+      "duracion": 303
+    },
+    {
+      "titulo": "Les petits lits blancs",
+      "duracion": 415
+    },
+    {
+      "titulo": "Flash mémoire",
+      "duracion": 205
+    },
+    {
+      "titulo": "Korokoro",
+      "duracion": 318
+    },
+    {
+      "titulo": "Entrave",
+      "duracion": 210
+    }
+  ],
+  "temasFuente": "Spotify"
 }

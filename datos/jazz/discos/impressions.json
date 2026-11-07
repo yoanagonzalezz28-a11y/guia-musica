@@ -54,5 +54,24 @@
     "wikidata": null,
     "wikipedia": "Impressions_(John_Coltrane_album)"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "India - Live At The Village Vanguard, New York/1961",
+      "duracion": 849
+    },
+    {
+      "titulo": "Up 'Gainst The Wall",
+      "duracion": 194
+    },
+    {
+      "titulo": "Impressions - Live At The Village Vanguard, New York/1961",
+      "duracion": 902
+    },
+    {
+      "titulo": "After The Rain",
+      "duracion": 249
+    }
+  ],
+  "temasFuente": "Spotify"
 }

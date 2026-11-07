@@ -54,5 +54,68 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Dream",
+      "duracion": 212
+    },
+    {
+      "titulo": "Calling",
+      "duracion": 61
+    },
+    {
+      "titulo": "Home",
+      "duracion": 548
+    },
+    {
+      "titulo": "More?",
+      "duracion": 254
+    },
+    {
+      "titulo": "After The Rain",
+      "duracion": 320
+    },
+    {
+      "titulo": "Vartha",
+      "duracion": 635
+    },
+    {
+      "titulo": "Marsheland",
+      "duracion": 223
+    },
+    {
+      "titulo": "Waiting On a Solemn Reminiscence",
+      "duracion": 248
+    },
+    {
+      "titulo": "King's Loop",
+      "duracion": 62
+    },
+    {
+      "titulo": "The Nurturer",
+      "duracion": 198
+    },
+    {
+      "titulo": "Gato's Gift",
+      "duracion": 368
+    },
+    {
+      "titulo": "When My Head Is Cold",
+      "duracion": 404
+    },
+    {
+      "titulo": "Harmonee",
+      "duracion": 116
+    },
+    {
+      "titulo": "Such Is Life",
+      "duracion": 254
+    },
+    {
+      "titulo": "3-1-2",
+      "duracion": 302
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -59,5 +59,52 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Disco Inferno (A.K.A \"Blues Inferno\")",
+      "duracion": 343
+    },
+    {
+      "titulo": "Memorie del Treno",
+      "duracion": 364
+    },
+    {
+      "titulo": "El Benja",
+      "duracion": 393
+    },
+    {
+      "titulo": "Juguicho",
+      "duracion": 403
+    },
+    {
+      "titulo": "Abide with Me / Two Rails / Dance of Maya",
+      "duracion": 521
+    },
+    {
+      "titulo": "Money for Nothing",
+      "duracion": 362
+    },
+    {
+      "titulo": "Albie & Ally",
+      "duracion": 312
+    },
+    {
+      "titulo": "Delpo",
+      "duracion": 370
+    },
+    {
+      "titulo": "Maybe I'm Leo",
+      "duracion": 362
+    },
+    {
+      "titulo": "Crazy B.",
+      "duracion": 465
+    },
+    {
+      "titulo": "Flowers Island",
+      "duracion": 190
+    }
+  ],
+  "temasFuente": "Spotify"
 }

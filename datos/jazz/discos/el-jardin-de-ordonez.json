@@ -59,5 +59,36 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Entrada al Jardín de Ordóñez",
+      "duracion": 115
+    },
+    {
+      "titulo": "Ordóñez Sale / El Estanque y Sus Peces",
+      "duracion": 499
+    },
+    {
+      "titulo": "La Pulsera y el Reloj",
+      "duracion": 179
+    },
+    {
+      "titulo": "Ordóñez y Ernestina (o el Banquito de Ordóñez)",
+      "duracion": 347
+    },
+    {
+      "titulo": "La Duda de Ordóñez",
+      "duracion": 170
+    },
+    {
+      "titulo": "El Ami 8 Oxidado",
+      "duracion": 339
+    },
+    {
+      "titulo": "La Glorieta de Ordóñez",
+      "duracion": 402
+    }
+  ],
+  "temasFuente": "Spotify"
 }

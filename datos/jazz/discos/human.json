@@ -54,5 +54,52 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Time",
+      "duracion": 204
+    },
+    {
+      "titulo": "Mystery and Illusions",
+      "duracion": 513
+    },
+    {
+      "titulo": "Human",
+      "duracion": 154
+    },
+    {
+      "titulo": "GG",
+      "duracion": 285
+    },
+    {
+      "titulo": "The Thief’s Dream",
+      "duracion": 474
+    },
+    {
+      "titulo": "Hank and Charlie",
+      "duracion": 282
+    },
+    {
+      "titulo": "Compassion",
+      "duracion": 205
+    },
+    {
+      "titulo": "Prayer",
+      "duracion": 267
+    },
+    {
+      "titulo": "They Went to War",
+      "duracion": 323
+    },
+    {
+      "titulo": "In a Sentimental Mood",
+      "duracion": 347
+    },
+    {
+      "titulo": "Ima (For Talma Maestro)",
+      "duracion": 332
+    }
+  ],
+  "temasFuente": "Spotify"
 }

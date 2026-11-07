@@ -85,5 +85,56 @@
       "acceso": "completa",
       "aporta": "Ben Ratliff destaca, en NPR, sus elementos clásicos, de fugas a la técnica medieval del hocket."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Suite Indiana: Back Home Again",
+      "duracion": 224
+    },
+    {
+      "titulo": "Suite Indiana: Donna Lee",
+      "duracion": 167
+    },
+    {
+      "titulo": "Suite Indiana: Patria Espiral",
+      "duracion": 314
+    },
+    {
+      "titulo": "Suite Jasmin: Symmetry I",
+      "duracion": 301
+    },
+    {
+      "titulo": "Suite Jasmin: Si No Sabes 4/4",
+      "duracion": 281
+    },
+    {
+      "titulo": "Suite Jasmin: Si No Sabes 9/8",
+      "duracion": 328
+    },
+    {
+      "titulo": "Suite Jasmin: Burrito Hill Mirror",
+      "duracion": 297
+    },
+    {
+      "titulo": "Suite Jasmin: Human Feel Mirror",
+      "duracion": 223
+    },
+    {
+      "titulo": "Suite Jasmin: Jazmin",
+      "duracion": 340
+    },
+    {
+      "titulo": "Symmetry II (Si No Sabes Que No Sabes)",
+      "duracion": 308
+    },
+    {
+      "titulo": "Ashes",
+      "duracion": 141
+    },
+    {
+      "titulo": "Quemando Velas",
+      "duracion": 334
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -54,5 +54,32 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "The Cape Verdean Blues - Rudy Van Gelder Edition / 2003 Remastered",
+      "duracion": 300
+    },
+    {
+      "titulo": "The African Queen - Rudy Van Gelder Edition / 2003 Remastered",
+      "duracion": 577
+    },
+    {
+      "titulo": "Pretty Eyes - Rudy Van Gelder Edition / 2003 Remastered",
+      "duracion": 451
+    },
+    {
+      "titulo": "Nutville",
+      "duracion": 435
+    },
+    {
+      "titulo": "Bonita - Rudy Van Gelder Edition / 2003 Remastered",
+      "duracion": 518
+    },
+    {
+      "titulo": "Mo' Joe - Rudy Van Gelder Edition / 2003 Remastered",
+      "duracion": 346
+    }
+  ],
+  "temasFuente": "Spotify"
 }

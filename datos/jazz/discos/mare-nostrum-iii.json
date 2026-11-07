@@ -52,5 +52,68 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Blues sur Seine",
+      "duracion": 294
+    },
+    {
+      "titulo": "Pavese",
+      "duracion": 296
+    },
+    {
+      "titulo": "Love Land",
+      "duracion": 263
+    },
+    {
+      "titulo": "The Windmills of Your Mind",
+      "duracion": 218
+    },
+    {
+      "titulo": "I'te vurria vasá",
+      "duracion": 273
+    },
+    {
+      "titulo": "Le jardin des Fées",
+      "duracion": 312
+    },
+    {
+      "titulo": "Del soldato in trincea",
+      "duracion": 135
+    },
+    {
+      "titulo": "Ronneby",
+      "duracion": 217
+    },
+    {
+      "titulo": "Love Theme from 'the Getaway'",
+      "duracion": 190
+    },
+    {
+      "titulo": "Human Requiem",
+      "duracion": 270
+    },
+    {
+      "titulo": "Letter to My Mother",
+      "duracion": 309
+    },
+    {
+      "titulo": "Love in Return",
+      "duracion": 266
+    },
+    {
+      "titulo": "Perfetta",
+      "duracion": 198
+    },
+    {
+      "titulo": "The Magic Stroll",
+      "duracion": 179
+    },
+    {
+      "titulo": "Prayer",
+      "duracion": 253
+    }
+  ],
+  "temasFuente": "Spotify"
 }

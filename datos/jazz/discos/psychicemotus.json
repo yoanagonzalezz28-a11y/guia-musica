@@ -59,5 +59,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Psychicemotus",
+      "duracion": 304
+    },
+    {
+      "titulo": "Bamboo Flute Blues",
+      "duracion": 239
+    },
+    {
+      "titulo": "Semiocto",
+      "duracion": 269
+    },
+    {
+      "titulo": "Why Do I Love You?",
+      "duracion": 389
+    },
+    {
+      "titulo": "First Gymnopedie",
+      "duracion": 207
+    },
+    {
+      "titulo": "Medula Sonata",
+      "duracion": 392
+    },
+    {
+      "titulo": "I'll Always Be In Love With You",
+      "duracion": 280
+    },
+    {
+      "titulo": "Ain't Misbehavin'",
+      "duracion": 286
+    }
+  ],
+  "temasFuente": "Spotify"
 }

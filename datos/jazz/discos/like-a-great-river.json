@@ -54,5 +54,28 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "The Dance",
+      "duracion": 693
+    },
+    {
+      "titulo": "The Song of the Silent Dragon",
+      "duracion": 889
+    },
+    {
+      "titulo": "Tzurkauns",
+      "duracion": 571
+    },
+    {
+      "titulo": "Warrior Elephants Flying",
+      "duracion": 140
+    },
+    {
+      "titulo": "Child's Dance",
+      "duracion": 82
+    }
+  ],
+  "temasFuente": "Spotify"
 }

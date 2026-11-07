@@ -67,5 +67,72 @@
       "acceso": "completa",
       "aporta": "Su trabajo con Stan Getz y Georg Riedel, y su muerte en 1968."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Visa från Utanmyra",
+      "duracion": 274
+    },
+    {
+      "titulo": "Gånglek från Älvdalen",
+      "duracion": 118
+    },
+    {
+      "titulo": "Polska från Medelpad",
+      "duracion": 151
+    },
+    {
+      "titulo": "Visa från Rättvik",
+      "duracion": 203
+    },
+    {
+      "titulo": "Brudmarsch efter Larshöga Jonke",
+      "duracion": 124
+    },
+    {
+      "titulo": "Vallåt från Jämtland",
+      "duracion": 115
+    },
+    {
+      "titulo": "Emigrantvisa",
+      "duracion": 208
+    },
+    {
+      "titulo": "Berg-Kirstis polska",
+      "duracion": 214
+    },
+    {
+      "titulo": "Leksands skänklåt",
+      "duracion": 181
+    },
+    {
+      "titulo": "Gammal bröllopsmarsch",
+      "duracion": 225
+    },
+    {
+      "titulo": "Visa från Järna",
+      "duracion": 82
+    },
+    {
+      "titulo": "Polska efter Höök Olle",
+      "duracion": 151
+    },
+    {
+      "titulo": "Visa från Utanmyra - Bonus Track",
+      "duracion": 272
+    },
+    {
+      "titulo": "Gånglek från Älvdalen - Bonus Track",
+      "duracion": 118
+    },
+    {
+      "titulo": "Leksands skänklåt - Bonus Track",
+      "duracion": 184
+    },
+    {
+      "titulo": "Emigrantvisa - Bonus Track",
+      "duracion": 193
+    }
+  ],
+  "temasFuente": "Spotify"
 }

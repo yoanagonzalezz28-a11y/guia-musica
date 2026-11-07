@@ -54,5 +54,32 @@
     "wikidata": null,
     "wikipedia": "Blues_Walk"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Blues Walk",
+      "duracion": 403
+    },
+    {
+      "titulo": "Move",
+      "duracion": 353
+    },
+    {
+      "titulo": "The Masquerade Is Over",
+      "duracion": 352
+    },
+    {
+      "titulo": "Play Ray",
+      "duracion": 331
+    },
+    {
+      "titulo": "Autumn Nocturne",
+      "duracion": 295
+    },
+    {
+      "titulo": "Callin' All Cats",
+      "duracion": 314
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -59,5 +59,52 @@
     "wikidata": null,
     "wikipedia": "Stan_Getz_%26_Bill_Evans"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Night And Day",
+      "duracion": 406
+    },
+    {
+      "titulo": "But Beautiful",
+      "duracion": 281
+    },
+    {
+      "titulo": "Funkallero",
+      "duracion": 401
+    },
+    {
+      "titulo": "My Heart Stood Still",
+      "duracion": 517
+    },
+    {
+      "titulo": "Melinda",
+      "duracion": 304
+    },
+    {
+      "titulo": "Grandfather's Waltz",
+      "duracion": 388
+    },
+    {
+      "titulo": "Carpetbagger's Theme",
+      "duracion": 107
+    },
+    {
+      "titulo": "WNEW (Theme Song)",
+      "duracion": 170
+    },
+    {
+      "titulo": "My Heart Stood Still - Alternate Take",
+      "duracion": 406
+    },
+    {
+      "titulo": "Grandfather's Waltz - Alternate Take",
+      "duracion": 333
+    },
+    {
+      "titulo": "Night And Day - Alternate Take",
+      "duracion": 395
+    }
+  ],
+  "temasFuente": "Spotify"
 }

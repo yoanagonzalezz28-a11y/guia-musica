@@ -54,5 +54,44 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Volga Boatman",
+      "duracion": 233
+    },
+    {
+      "titulo": "On Green Dolphin Street",
+      "duracion": 200
+    },
+    {
+      "titulo": "How About You",
+      "duracion": 330
+    },
+    {
+      "titulo": "I Just Can't See For Lookin",
+      "duracion": 124
+    },
+    {
+      "titulo": "Spring Will Be A Little Late This Year",
+      "duracion": 155
+    },
+    {
+      "titulo": "Beat Out One",
+      "duracion": 328
+    },
+    {
+      "titulo": "Maryam",
+      "duracion": 219
+    },
+    {
+      "titulo": "Easy To Remember",
+      "duracion": 341
+    },
+    {
+      "titulo": "Jim Love Sue",
+      "duracion": 171
+    }
+  ],
+  "temasFuente": "Spotify"
 }

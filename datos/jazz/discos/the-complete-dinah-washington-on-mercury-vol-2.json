@@ -54,5 +54,220 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Journey's End - Single Version",
+      "duracion": 193
+    },
+    {
+      "titulo": "It Isn't Fair - Single Version",
+      "duracion": 184
+    },
+    {
+      "titulo": "My Kind Of Man - Single Version",
+      "duracion": 207
+    },
+    {
+      "titulo": "If I Loved You - Single Version",
+      "duracion": 150
+    },
+    {
+      "titulo": "Why Don't You Think Things Over - Single Version",
+      "duracion": 153
+    },
+    {
+      "titulo": "Big Deal",
+      "duracion": 174
+    },
+    {
+      "titulo": "Big Deal - Single Version",
+      "duracion": 165
+    },
+    {
+      "titulo": "I'll Never Be Free - Single Version",
+      "duracion": 167
+    },
+    {
+      "titulo": "I Wanna Be Loved",
+      "duracion": 200
+    },
+    {
+      "titulo": "I Wanna Be Loved",
+      "duracion": 172
+    },
+    {
+      "titulo": "Love Me With Misery - Single Version",
+      "duracion": 177
+    },
+    {
+      "titulo": "Harbor Lights - Single Version",
+      "duracion": 185
+    },
+    {
+      "titulo": "I Cross My Fingers - Single Version",
+      "duracion": 182
+    },
+    {
+      "titulo": "Time Out For Tears",
+      "duracion": 202
+    },
+    {
+      "titulo": "Only A Moment Ago - Single Version",
+      "duracion": 179
+    },
+    {
+      "titulo": "Fine Fine Daddy - Single Version",
+      "duracion": 154
+    },
+    {
+      "titulo": "Please Send Me Someone To Love",
+      "duracion": 184
+    },
+    {
+      "titulo": "Ain't Nobody's Business But My Own - Single Version",
+      "duracion": 189
+    },
+    {
+      "titulo": "I'm So Lonely I Could Cry - Single Version",
+      "duracion": 191
+    },
+    {
+      "titulo": "My Heart Cries For You - Single Version",
+      "duracion": 165
+    },
+    {
+      "titulo": "I Apologize - Single Version",
+      "duracion": 202
+    },
+    {
+      "titulo": "I Won't Cry Anymore - Single Version",
+      "duracion": 205
+    },
+    {
+      "titulo": "Don't Say You're Sorry Again - Single Version",
+      "duracion": 198
+    },
+    {
+      "titulo": "Mixed Emotions - Single Version",
+      "duracion": 181
+    },
+    {
+      "titulo": "Cold, Cold Heart",
+      "duracion": 203
+    },
+    {
+      "titulo": "Baby Did You Hear",
+      "duracion": 187
+    },
+    {
+      "titulo": "New Blowtop Blues",
+      "duracion": 161
+    },
+    {
+      "titulo": "What's The Matter With Baby",
+      "duracion": 163
+    },
+    {
+      "titulo": "Don't Hold It Against Me",
+      "duracion": 172
+    },
+    {
+      "titulo": "Be Fair To Me - Single Version",
+      "duracion": 179
+    },
+    {
+      "titulo": "Just One More Chance",
+      "duracion": 174
+    },
+    {
+      "titulo": "Just One More Chance - Single Version",
+      "duracion": 174
+    },
+    {
+      "titulo": "Saturday Night - Single Version",
+      "duracion": 150
+    },
+    {
+      "titulo": "If You Don't Believe I'm Leavin' (Count The Days I'm Gone) - Single Version",
+      "duracion": 163
+    },
+    {
+      "titulo": "I'm A Fool To Want You - Single Version",
+      "duracion": 161
+    },
+    {
+      "titulo": "I'm Crying",
+      "duracion": 162
+    },
+    {
+      "titulo": "Out In The Cold Again - Single Version",
+      "duracion": 194
+    },
+    {
+      "titulo": "Hey, Good Looking - Single Version",
+      "duracion": 166
+    },
+    {
+      "titulo": "Wheel Of Fortune",
+      "duracion": 136
+    },
+    {
+      "titulo": "Wheel Of Fortune - Single Version",
+      "duracion": 137
+    },
+    {
+      "titulo": "Tell Me Why - Single Version",
+      "duracion": 181
+    },
+    {
+      "titulo": "Trouble In Mind",
+      "duracion": 173
+    },
+    {
+      "titulo": "When The Sun Goes Down",
+      "duracion": 139
+    },
+    {
+      "titulo": "I Thought About You",
+      "duracion": 189
+    },
+    {
+      "titulo": "Mad About The Boy",
+      "duracion": 183
+    },
+    {
+      "titulo": "I Can't Face The Music - Single Version",
+      "duracion": 170
+    },
+    {
+      "titulo": "Stormy Weather - Single Version",
+      "duracion": 185
+    },
+    {
+      "titulo": "My Devotion",
+      "duracion": 189
+    },
+    {
+      "titulo": "Make Believe Dreams - Single Version",
+      "duracion": 182
+    },
+    {
+      "titulo": "Pillow Blues - Single Version",
+      "duracion": 179
+    },
+    {
+      "titulo": "No Caviar",
+      "duracion": 161
+    },
+    {
+      "titulo": "Double Dealing Daddy",
+      "duracion": 168
+    },
+    {
+      "titulo": "Double Dealing Daddy - Single Version",
+      "duracion": 167
+    }
+  ],
+  "temasFuente": "Spotify"
 }

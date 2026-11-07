@@ -54,5 +54,80 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Hymn To The Mother",
+      "duracion": 900
+    },
+    {
+      "titulo": "You Are So Beautiful",
+      "duracion": 245
+    },
+    {
+      "titulo": "Amazing Grace",
+      "duracion": 283
+    },
+    {
+      "titulo": "East Virginia, West Memphis",
+      "duracion": 580
+    },
+    {
+      "titulo": "What's Going On",
+      "duracion": 307
+    },
+    {
+      "titulo": "Angel Oak",
+      "duracion": 214
+    },
+    {
+      "titulo": "Te Amaré",
+      "duracion": 407
+    },
+    {
+      "titulo": "I'm Afraid",
+      "duracion": 459
+    },
+    {
+      "titulo": "Hafez, Shattered Heart",
+      "duracion": 283
+    },
+    {
+      "titulo": "Rabo De Nube",
+      "duracion": 426
+    },
+    {
+      "titulo": "Blood Count",
+      "duracion": 307
+    },
+    {
+      "titulo": "Go Down Moses",
+      "duracion": 638
+    },
+    {
+      "titulo": "Beyond Darkness",
+      "duracion": 472
+    },
+    {
+      "titulo": "Nocturne",
+      "duracion": 372
+    },
+    {
+      "titulo": "Wayfaring Stranger",
+      "duracion": 516
+    },
+    {
+      "titulo": "Deep River",
+      "duracion": 385
+    },
+    {
+      "titulo": "Lift Every Voice And Sing",
+      "duracion": 188
+    },
+    {
+      "titulo": "Prayer, The Crossing",
+      "duracion": 843
+    }
+  ],
+  "temasFuente": "Spotify"
 }

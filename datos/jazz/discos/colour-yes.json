@@ -52,5 +52,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Colour Yes - Special Edition",
+      "duracion": 521
+    },
+    {
+      "titulo": "Together - Special Edition",
+      "duracion": 673
+    },
+    {
+      "titulo": "I've Found Joy - Special Edition",
+      "duracion": 339
+    },
+    {
+      "titulo": "Mudita - Special Edition",
+      "duracion": 322
+    },
+    {
+      "titulo": "I've Been Here Before - Special Edition",
+      "duracion": 791
+    },
+    {
+      "titulo": "Me and You - Special Edition",
+      "duracion": 404
+    },
+    {
+      "titulo": "It's What We Do (Bonus Track) - Special Edition",
+      "duracion": 463
+    },
+    {
+      "titulo": "Ai (Bonus Track) - Special Edition",
+      "duracion": 506
+    }
+  ],
+  "temasFuente": "Spotify"
 }

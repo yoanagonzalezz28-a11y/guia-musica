@@ -54,5 +54,72 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Robbers, Thugs and Muggers (O'Galajani)",
+      "duracion": 275
+    },
+    {
+      "titulo": "Agbada Bougou",
+      "duracion": 327
+    },
+    {
+      "titulo": "Coconut Jam",
+      "duracion": 212
+    },
+    {
+      "titulo": "Never (Lagos Never Gonna Be the Same)",
+      "duracion": 234
+    },
+    {
+      "titulo": "Slow Bones",
+      "duracion": 349
+    },
+    {
+      "titulo": "Jabulani (Rejoice, Here Comes Tony)",
+      "duracion": 341
+    },
+    {
+      "titulo": "Obama Shuffle Strut Blues",
+      "duracion": 280
+    },
+    {
+      "titulo": "We've Landed",
+      "duracion": 278
+    },
+    {
+      "titulo": "Robbers, Thugs and Muggers (O'Galajani) (Cool Cats Mix)",
+      "duracion": 284
+    },
+    {
+      "titulo": "Agbada Bougou (Cool Cats Mix)",
+      "duracion": 305
+    },
+    {
+      "titulo": "Coconut Jam (Cool Cats Mix)",
+      "duracion": 197
+    },
+    {
+      "titulo": "Never (Lagos Never Gonna Be the Same) (Cool Cats Mix)",
+      "duracion": 205
+    },
+    {
+      "titulo": "Slow Bones (Cool Cats Mix)",
+      "duracion": 347
+    },
+    {
+      "titulo": "Jabulani (Rejoice, Here Comes Tony) (Cool Cats Mix)",
+      "duracion": 294
+    },
+    {
+      "titulo": "Obama Shuffle Strut Blues (Cool Cats Mix)",
+      "duracion": 230
+    },
+    {
+      "titulo": "We've Landed (Cool Cats Mix)",
+      "duracion": 278
+    }
+  ],
+  "temasFuente": "Spotify"
 }

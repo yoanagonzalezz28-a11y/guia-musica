@@ -54,5 +54,32 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Epilogue",
+      "duracion": 46
+    },
+    {
+      "titulo": "Child You",
+      "duracion": 509
+    },
+    {
+      "titulo": "Through A Land Unsown",
+      "duracion": 597
+    },
+    {
+      "titulo": "Renata",
+      "duracion": 482
+    },
+    {
+      "titulo": "My Prophet",
+      "duracion": 663
+    },
+    {
+      "titulo": "Last Bike Ride In Paris",
+      "duracion": 448
+    }
+  ],
+  "temasFuente": "Spotify"
 }

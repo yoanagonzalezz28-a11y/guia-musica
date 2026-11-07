@@ -82,5 +82,136 @@
       "acceso": "completa",
       "aporta": "Explica la formación de Fitzgerald con Chick Webb y su trabajo con Norman Granz."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "All Through The Night",
+      "duracion": 197
+    },
+    {
+      "titulo": "Anything Goes",
+      "duracion": 203
+    },
+    {
+      "titulo": "Miss Otis Regrets (She's Unable To Lunch Today)",
+      "duracion": 182
+    },
+    {
+      "titulo": "Too Darn Hot",
+      "duracion": 230
+    },
+    {
+      "titulo": "In The Still Of The Night",
+      "duracion": 160
+    },
+    {
+      "titulo": "I Get A Kick Out Of You",
+      "duracion": 242
+    },
+    {
+      "titulo": "Do I Love You?",
+      "duracion": 231
+    },
+    {
+      "titulo": "Always True To You In My Fashion",
+      "duracion": 171
+    },
+    {
+      "titulo": "Let's Do It",
+      "duracion": 214
+    },
+    {
+      "titulo": "Just One Of Those Things",
+      "duracion": 213
+    },
+    {
+      "titulo": "Ev'ry Time We Say Goodbye",
+      "duracion": 214
+    },
+    {
+      "titulo": "All Of You",
+      "duracion": 104
+    },
+    {
+      "titulo": "Begin The Beguine",
+      "duracion": 219
+    },
+    {
+      "titulo": "Get Out Of Town",
+      "duracion": 204
+    },
+    {
+      "titulo": "I Am In Love",
+      "duracion": 248
+    },
+    {
+      "titulo": "From This Moment On",
+      "duracion": 199
+    },
+    {
+      "titulo": "I Love Paris",
+      "duracion": 300
+    },
+    {
+      "titulo": "You Do Something To Me",
+      "duracion": 143
+    },
+    {
+      "titulo": "Ridin' High",
+      "duracion": 202
+    },
+    {
+      "titulo": "Easy To Love",
+      "duracion": 206
+    },
+    {
+      "titulo": "It's All Right With Me",
+      "duracion": 189
+    },
+    {
+      "titulo": "Why Can't You Behave?",
+      "duracion": 306
+    },
+    {
+      "titulo": "What Is This Thing Called Love?",
+      "duracion": 125
+    },
+    {
+      "titulo": "You're The Top",
+      "duracion": 216
+    },
+    {
+      "titulo": "Love For Sale",
+      "duracion": 353
+    },
+    {
+      "titulo": "It's DeLovely",
+      "duracion": 164
+    },
+    {
+      "titulo": "Night And Day",
+      "duracion": 186
+    },
+    {
+      "titulo": "Ace In The Hole",
+      "duracion": 119
+    },
+    {
+      "titulo": "So In Love",
+      "duracion": 232
+    },
+    {
+      "titulo": "I've Got You Under My Skin",
+      "duracion": 163
+    },
+    {
+      "titulo": "I Concentrate On You",
+      "duracion": 194
+    },
+    {
+      "titulo": "Don't Fence Me In",
+      "duracion": 199
+    }
+  ],
+  "temasFuente": "Spotify"
 }

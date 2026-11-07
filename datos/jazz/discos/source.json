@@ -54,5 +54,44 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Pace",
+      "duracion": 473
+    },
+    {
+      "titulo": "The Message Continues",
+      "duracion": 405
+    },
+    {
+      "titulo": "Source [Feat. Ms MAURICE, Cassie Kinoshi, & Richie Seivwright]",
+      "duracion": 728
+    },
+    {
+      "titulo": "Together Is A Beautiful Place To Be",
+      "duracion": 456
+    },
+    {
+      "titulo": "Stand With Each Other [Feat. Ms MAURICE, Cassie Kinoshi, & Richie Seivwright]",
+      "duracion": 219
+    },
+    {
+      "titulo": "Inner Game",
+      "duracion": 465
+    },
+    {
+      "titulo": "La Cumbia Me Está Llamando [Feat. La Perla]",
+      "duracion": 255
+    },
+    {
+      "titulo": "Before Us: In Demerara & Caura [Feat. Ms MAURICE]",
+      "duracion": 481
+    },
+    {
+      "titulo": "Boundless Beings [Feat. Akenya]",
+      "duracion": 167
+    }
+  ],
+  "temasFuente": "Spotify"
 }

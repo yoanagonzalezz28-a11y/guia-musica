@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "The Birth of Light",
+      "duracion": 220
+    },
+    {
+      "titulo": "How Land Learnt to Be Still",
+      "duracion": 496
+    },
+    {
+      "titulo": "The River’s Tale",
+      "duracion": 230
+    },
+    {
+      "titulo": "How Fire Was Made",
+      "duracion": 263
+    },
+    {
+      "titulo": "How Air Learnt to Move",
+      "duracion": 79
+    },
+    {
+      "titulo": "Children of the Ultra Blacks",
+      "duracion": 442
+    },
+    {
+      "titulo": "Mishkaku’s Tale",
+      "duracion": 430
+    },
+    {
+      "titulo": "The Discovery Of Human Flesh",
+      "duracion": 182
+    },
+    {
+      "titulo": "Beyond the Edge",
+      "duracion": 292
+    },
+    {
+      "titulo": "The Death of Light",
+      "duracion": 185
+    }
+  ],
+  "temasFuente": "Spotify"
 }

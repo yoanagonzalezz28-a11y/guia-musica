@@ -83,5 +83,20 @@
       "acceso": "completa",
       "aporta": "El productor John Cumming, en charla con Iverson, recuerda la historia de Stańko y Komeda y \"that one album that's a seminal album that they made in the mid-sixties\"."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Astigmatic",
+      "duracion": 1382
+    },
+    {
+      "titulo": "Kattorna",
+      "duracion": 450
+    },
+    {
+      "titulo": "Svantetic",
+      "duracion": 956
+    }
+  ],
+  "temasFuente": "Spotify"
 }

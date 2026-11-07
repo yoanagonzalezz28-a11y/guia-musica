@@ -54,5 +54,60 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Chan Chan",
+      "duracion": 130
+    },
+    {
+      "titulo": "Yemaya",
+      "duracion": 223
+    },
+    {
+      "titulo": "Raices (Roots)",
+      "duracion": 268
+    },
+    {
+      "titulo": "Gitanerías",
+      "duracion": 239
+    },
+    {
+      "titulo": "Tocororo",
+      "duracion": 304
+    },
+    {
+      "titulo": "Venga la Esperanza",
+      "duracion": 265
+    },
+    {
+      "titulo": "Ay, Mamá Inés",
+      "duracion": 195
+    },
+    {
+      "titulo": "Sabanas Blancas",
+      "duracion": 247
+    },
+    {
+      "titulo": "Jesu, Joy of Man's Desiring",
+      "duracion": 195
+    },
+    {
+      "titulo": "Kaleidoscope",
+      "duracion": 186
+    },
+    {
+      "titulo": "Adiós Nonino",
+      "duracion": 249
+    },
+    {
+      "titulo": "Meteorite",
+      "duracion": 204
+    },
+    {
+      "titulo": "Ay, Mamá Inés (Remix)",
+      "duracion": 159
+    }
+  ],
+  "temasFuente": "Spotify"
 }

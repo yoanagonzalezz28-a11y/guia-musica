@@ -54,5 +54,80 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Norwegian Wood (This Bird Has Flown) - Live",
+      "duracion": 223
+    },
+    {
+      "titulo": "Big Swing Face - Live At Chez Club, Hollywood/1966/Remix",
+      "duracion": 334
+    },
+    {
+      "titulo": "Monitor Theme - Live At Chez Club, Hollywood/1966/Remix",
+      "duracion": 165
+    },
+    {
+      "titulo": "Wack Wack - Live At Chez Club, Hollywood/1966/Remix",
+      "duracion": 196
+    },
+    {
+      "titulo": "Love For Sale - Live At Chez Club, Hollywood/1966/Remix",
+      "duracion": 291
+    },
+    {
+      "titulo": "Mexicali Nose - Live",
+      "duracion": 172
+    },
+    {
+      "titulo": "Willowcrest - Live At Chez Club, Hollywood/1966/Remix",
+      "duracion": 257
+    },
+    {
+      "titulo": "The Beat Goes On - Live At Chez Club, Hollywood/1966/Remix",
+      "duracion": 341
+    },
+    {
+      "titulo": "Bugle Call Rag - Live At Chez Club, Hollywood/1966/Remix",
+      "duracion": 306
+    },
+    {
+      "titulo": "Standing Up In A Hammock - Live",
+      "duracion": 159
+    },
+    {
+      "titulo": "Chicago - Live",
+      "duracion": 179
+    },
+    {
+      "titulo": "Lament For Lester - Live",
+      "duracion": 153
+    },
+    {
+      "titulo": "Machine - Live",
+      "duracion": 225
+    },
+    {
+      "titulo": "Silver Threads Among The Blues - Live",
+      "duracion": 284
+    },
+    {
+      "titulo": "New Blues - Live",
+      "duracion": 280
+    },
+    {
+      "titulo": "Old Timey - Live",
+      "duracion": 208
+    },
+    {
+      "titulo": "Loose - Live",
+      "duracion": 248
+    },
+    {
+      "titulo": "Apples (AKA Gino) - Live",
+      "duracion": 164
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -52,5 +52,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Where The River Goes",
+      "duracion": 463
+    },
+    {
+      "titulo": "For Django",
+      "duracion": 436
+    },
+    {
+      "titulo": "Descendants",
+      "duracion": 333
+    },
+    {
+      "titulo": "Clearing",
+      "duracion": 446
+    },
+    {
+      "titulo": "Buenos Aires",
+      "duracion": 218
+    },
+    {
+      "titulo": "One Day My Prince Was Gone",
+      "duracion": 331
+    },
+    {
+      "titulo": "Blueshead",
+      "duracion": 461
+    },
+    {
+      "titulo": "Panorama",
+      "duracion": 208
+    }
+  ],
+  "temasFuente": "Spotify"
 }

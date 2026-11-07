@@ -54,5 +54,28 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "I Come From Jamaica",
+      "duracion": 156
+    },
+    {
+      "titulo": "Ida Red",
+      "duracion": 118
+    },
+    {
+      "titulo": "Walkin'",
+      "duracion": 696
+    },
+    {
+      "titulo": "Night In Tunisia",
+      "duracion": 660
+    },
+    {
+      "titulo": "Donna Lee",
+      "duracion": 430
+    }
+  ],
+  "temasFuente": "Spotify"
 }

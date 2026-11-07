@@ -54,5 +54,56 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Touched By An Angel",
+      "duracion": 653
+    },
+    {
+      "titulo": "Prince Lynn's Twin",
+      "duracion": 423
+    },
+    {
+      "titulo": "The Grand Struggle Against Fear",
+      "duracion": 360
+    },
+    {
+      "titulo": "Ill Relations",
+      "duracion": 293
+    },
+    {
+      "titulo": "Is It Love That Inspires You?",
+      "duracion": 252
+    },
+    {
+      "titulo": "Interlude (Bass Solo)",
+      "duracion": 72
+    },
+    {
+      "titulo": "KingMaker",
+      "duracion": 365
+    },
+    {
+      "titulo": "Freda's Disposition",
+      "duracion": 423
+    },
+    {
+      "titulo": "With Whom Do You Learn Trust?",
+      "duracion": 314
+    },
+    {
+      "titulo": "Grey",
+      "duracion": 314
+    },
+    {
+      "titulo": "Yana",
+      "duracion": 346
+    },
+    {
+      "titulo": "It's Already Too Late",
+      "duracion": 206
+    }
+  ],
+  "temasFuente": "Spotify"
 }

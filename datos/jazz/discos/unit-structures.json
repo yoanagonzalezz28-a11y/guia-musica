@@ -86,5 +86,28 @@
       "acceso": "indirecta",
       "aporta": "La Penguin Guide lo describe tan complejo como sugiere su título, y a la vez rico en color y sonido."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Steps",
+      "duracion": 621
+    },
+    {
+      "titulo": "Enter, Evening (Soft Line Structure)",
+      "duracion": 667
+    },
+    {
+      "titulo": "Enter, Evening",
+      "duracion": 612
+    },
+    {
+      "titulo": "Unit Structure/As Of A Now/Section",
+      "duracion": 1068
+    },
+    {
+      "titulo": "Tales (8 Whisps)",
+      "duracion": 435
+    }
+  ],
+  "temasFuente": "Spotify"
 }

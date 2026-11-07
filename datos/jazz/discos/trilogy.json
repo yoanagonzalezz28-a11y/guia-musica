@@ -54,5 +54,76 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "You’re My Everything",
+      "duracion": 720
+    },
+    {
+      "titulo": "Recorda Me",
+      "duracion": 449
+    },
+    {
+      "titulo": "The Song Is You",
+      "duracion": 835
+    },
+    {
+      "titulo": "Work",
+      "duracion": 314
+    },
+    {
+      "titulo": "My Foolish Heart",
+      "duracion": 560
+    },
+    {
+      "titulo": "Fingerprints",
+      "duracion": 622
+    },
+    {
+      "titulo": "Spain",
+      "duracion": 1109
+    },
+    {
+      "titulo": "This Is New",
+      "duracion": 762
+    },
+    {
+      "titulo": "Alice In Wonderland",
+      "duracion": 544
+    },
+    {
+      "titulo": "It Could Happen To You",
+      "duracion": 720
+    },
+    {
+      "titulo": "Blue Monk",
+      "duracion": 601
+    },
+    {
+      "titulo": "Armando’s Rhumba",
+      "duracion": 553
+    },
+    {
+      "titulo": "Op. 11, No. 9",
+      "duracion": 643
+    },
+    {
+      "titulo": "How Deep Is the Ocean?",
+      "duracion": 828
+    },
+    {
+      "titulo": "Homage",
+      "duracion": 602
+    },
+    {
+      "titulo": "Piano Sonata: The Moon",
+      "duracion": 1798
+    },
+    {
+      "titulo": "Someday My Prince Will Come",
+      "duracion": 622
+    }
+  ],
+  "temasFuente": "Spotify"
 }

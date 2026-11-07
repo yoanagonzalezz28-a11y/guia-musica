@@ -105,5 +105,48 @@
       "acceso": "completa",
       "aporta": "A. B. Spellman y Murray Horwitz lo eligen para una discoteca básica de jazz."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Song For My Father",
+      "duracion": 438
+    },
+    {
+      "titulo": "The Natives Are Restless Tonight - Rudy Van Gelder Edition/1999 Digital Remaster",
+      "duracion": 371
+    },
+    {
+      "titulo": "Calcutta Cutie - Rudy Van Gelder Edition/1999 Digital Remaster",
+      "duracion": 511
+    },
+    {
+      "titulo": "Que Pasa - Rudy Van Gelder Edition/1999 Digital Remaster",
+      "duracion": 468
+    },
+    {
+      "titulo": "The Kicker - Rudy Van Gelder Edition/1999 Digital Remaster",
+      "duracion": 327
+    },
+    {
+      "titulo": "Lonely Woman - Remastered 1999/Rudy Van Gelder Edition",
+      "duracion": 423
+    },
+    {
+      "titulo": "Sanctimonious Sam - Rudy Van Gelder Edition/1999 Digital Remaster",
+      "duracion": 235
+    },
+    {
+      "titulo": "Que Pasa - Remastered 1999/Rudy Van Gelder Edition",
+      "duracion": 338
+    },
+    {
+      "titulo": "Sighin' And Cryin' - Rudy Van Gelder Edition/1999 Digital Remaster",
+      "duracion": 326
+    },
+    {
+      "titulo": "Silver Treads Among The Soul - Rudy Van Gelder Edition/1999 Digital Remaster",
+      "duracion": 233
+    }
+  ],
+  "temasFuente": "Spotify"
 }

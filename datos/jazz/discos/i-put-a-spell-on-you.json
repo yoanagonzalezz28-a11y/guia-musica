@@ -54,5 +54,56 @@
     "wikidata": null,
     "wikipedia": "I_Put_a_Spell_on_You_(album)"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "I Put A Spell On You",
+      "duracion": 155
+    },
+    {
+      "titulo": "Tomorrow Is My Turn",
+      "duracion": 168
+    },
+    {
+      "titulo": "Ne Me Quitte Pas",
+      "duracion": 215
+    },
+    {
+      "titulo": "Marriage Is For Old Folks",
+      "duracion": 209
+    },
+    {
+      "titulo": "July Tree",
+      "duracion": 161
+    },
+    {
+      "titulo": "Gimme Some",
+      "duracion": 178
+    },
+    {
+      "titulo": "Feeling Good",
+      "duracion": 174
+    },
+    {
+      "titulo": "One September Day",
+      "duracion": 168
+    },
+    {
+      "titulo": "Blues On Purpose",
+      "duracion": 197
+    },
+    {
+      "titulo": "Beautiful Land",
+      "duracion": 114
+    },
+    {
+      "titulo": "You've Got To Learn",
+      "duracion": 161
+    },
+    {
+      "titulo": "Take Care Of Business",
+      "duracion": 126
+    }
+  ],
+  "temasFuente": "Spotify"
 }

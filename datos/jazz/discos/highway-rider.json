@@ -54,5 +54,68 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "John Boy",
+      "duracion": 195
+    },
+    {
+      "titulo": "Don't Be Sad",
+      "duracion": 521
+    },
+    {
+      "titulo": "At the Tollbooth",
+      "duracion": 68
+    },
+    {
+      "titulo": "Highway Rider",
+      "duracion": 466
+    },
+    {
+      "titulo": "The Falcon Will Fly Again",
+      "duracion": 502
+    },
+    {
+      "titulo": "Now You Must Climb Alone",
+      "duracion": 246
+    },
+    {
+      "titulo": "Walking the Peak",
+      "duracion": 480
+    },
+    {
+      "titulo": "We'll Cross the River Together",
+      "duracion": 748
+    },
+    {
+      "titulo": "Capriccio",
+      "duracion": 321
+    },
+    {
+      "titulo": "Sky Turning Grey (For Elliott Smith)",
+      "duracion": 384
+    },
+    {
+      "titulo": "Into the City",
+      "duracion": 457
+    },
+    {
+      "titulo": "Old West",
+      "duracion": 509
+    },
+    {
+      "titulo": "Come with Me",
+      "duracion": 380
+    },
+    {
+      "titulo": "Always Departing",
+      "duracion": 381
+    },
+    {
+      "titulo": "Always Returning",
+      "duracion": 593
+    }
+  ],
+  "temasFuente": "Spotify"
 }

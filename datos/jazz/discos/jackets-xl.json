@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Downtown",
+      "duracion": 391
+    },
+    {
+      "titulo": "Dewey",
+      "duracion": 448
+    },
+    {
+      "titulo": "Mile High",
+      "duracion": 312
+    },
+    {
+      "titulo": "The Red Sea",
+      "duracion": 463
+    },
+    {
+      "titulo": "Even Song",
+      "duracion": 503
+    },
+    {
+      "titulo": "One Day",
+      "duracion": 393
+    },
+    {
+      "titulo": "Tokyo Tale",
+      "duracion": 463
+    },
+    {
+      "titulo": "Imperial Strut",
+      "duracion": 353
+    },
+    {
+      "titulo": "Coherence",
+      "duracion": 456
+    },
+    {
+      "titulo": "Revelation",
+      "duracion": 381
+    }
+  ],
+  "temasFuente": "Spotify"
 }

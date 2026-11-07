@@ -59,5 +59,36 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Undertow (feat. Brad Mehldau, Christian McBride & Brian Blade)",
+      "duracion": 443
+    },
+    {
+      "titulo": "Moe Honk (feat. Brad Mehldau, Christian McBride & Brian Blade)",
+      "duracion": 432
+    },
+    {
+      "titulo": "Silly Little Love Song (feat. Brad Mehldau, Christian McBride & Brian Blade)",
+      "duracion": 422
+    },
+    {
+      "titulo": "Right Back Round Again (feat. Brad Mehldau, Christian McBride & Brian Blade)",
+      "duracion": 361
+    },
+    {
+      "titulo": "Floppy Diss (feat. Brad Mehldau, Christian McBride & Brian Blade)",
+      "duracion": 323
+    },
+    {
+      "titulo": "Father (feat. Brad Mehldau, Christian McBride & Brian Blade)",
+      "duracion": 397
+    },
+    {
+      "titulo": "Your Part To Play (feat. Brad Mehldau, Christian McBride & Brian Blade)",
+      "duracion": 305
+    }
+  ],
+  "temasFuente": "Spotify"
 }

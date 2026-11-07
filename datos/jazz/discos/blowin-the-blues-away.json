@@ -84,5 +84,40 @@
       "acceso": "completa",
       "aporta": "Kevin Whitehead describe los quintetos de Silver: temas propios con grooves contagiosos, tempos más relajados y ecos de blues y gospel."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Blowin' The Blues Away - Remastered 1999/Rudy Van Gelder Edition",
+      "duracion": 284
+    },
+    {
+      "titulo": "The St. Vitus Dance - Remastered 1999/Rudy Van Gelder Edition",
+      "duracion": 250
+    },
+    {
+      "titulo": "Break City - Remastered 1999/Rudy Van Gelder Edition",
+      "duracion": 297
+    },
+    {
+      "titulo": "Peace",
+      "duracion": 362
+    },
+    {
+      "titulo": "Sister Sadie",
+      "duracion": 379
+    },
+    {
+      "titulo": "Baghdad Blues - Remastered 1999/Rudy Van Gelder Edition",
+      "duracion": 293
+    },
+    {
+      "titulo": "Melancholy Mood - Remastered 1999/Rudy Van Gelder Edition",
+      "duracion": 429
+    },
+    {
+      "titulo": "How Did It Happen - Rudy Van Gelder Edition",
+      "duracion": 284
+    }
+  ],
+  "temasFuente": "Spotify"
 }

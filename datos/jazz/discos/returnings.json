@@ -59,5 +59,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Oktober",
+      "duracion": 261
+    },
+    {
+      "titulo": "Strands",
+      "duracion": 285
+    },
+    {
+      "titulo": "Song For Nicolai",
+      "duracion": 321
+    },
+    {
+      "titulo": "View",
+      "duracion": 522
+    },
+    {
+      "titulo": "Lyskaster",
+      "duracion": 304
+    },
+    {
+      "titulo": "Hamsun",
+      "duracion": 316
+    },
+    {
+      "titulo": "Returnings",
+      "duracion": 338
+    },
+    {
+      "titulo": "Youth",
+      "duracion": 158
+    }
+  ],
+  "temasFuente": "Spotify"
 }

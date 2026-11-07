@@ -54,5 +54,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "M. H. R.",
+      "duracion": 359
+    },
+    {
+      "titulo": "Broadway Babe",
+      "duracion": 164
+    },
+    {
+      "titulo": "Three And Six",
+      "duracion": 142
+    },
+    {
+      "titulo": "Not So Dukish",
+      "duracion": 473
+    },
+    {
+      "titulo": "Central Park Swing",
+      "duracion": 205
+    },
+    {
+      "titulo": "Preacher Blues",
+      "duracion": 504
+    },
+    {
+      "titulo": "Jeep Bounced Back",
+      "duracion": 216
+    },
+    {
+      "titulo": "The Last Time I Saw Paris",
+      "duracion": 175
+    }
+  ],
+  "temasFuente": "Spotify"
 }

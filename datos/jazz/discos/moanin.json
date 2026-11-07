@@ -100,5 +100,40 @@
       "acceso": "completa",
       "aporta": "El trompetista Brian Lynch recuerda que generaciones de trompetistas de la banda, de Lee Morgan a Wynton Marsalis, tocaron \"Moanin'\". El saxofonista Bill Pierce explica por qué esa música se sentía al alcance de los jóvenes."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Warm-Up / Dialogue Between Lee Morgan And Rudy Van Gelder - Remastered 1998/Rudy Van Gelder Edition",
+      "duracion": 36
+    },
+    {
+      "titulo": "Moanin'",
+      "duracion": 571
+    },
+    {
+      "titulo": "Are You Real",
+      "duracion": 287
+    },
+    {
+      "titulo": "Along Came Betty",
+      "duracion": 369
+    },
+    {
+      "titulo": "The Drum Thunder Suite",
+      "duracion": 451
+    },
+    {
+      "titulo": "Blues March",
+      "duracion": 373
+    },
+    {
+      "titulo": "Come Rain Or Come Shine",
+      "duracion": 345
+    },
+    {
+      "titulo": "Moanin' (Alternate Take)",
+      "duracion": 559
+    }
+  ],
+  "temasFuente": "Spotify"
 }

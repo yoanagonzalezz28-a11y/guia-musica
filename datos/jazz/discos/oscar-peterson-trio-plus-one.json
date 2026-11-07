@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Brotherhood Of Man",
+      "duracion": 215
+    },
+    {
+      "titulo": "Jim",
+      "duracion": 181
+    },
+    {
+      "titulo": "Blues For Smedley",
+      "duracion": 414
+    },
+    {
+      "titulo": "Roundalay",
+      "duracion": 235
+    },
+    {
+      "titulo": "Mumbles",
+      "duracion": 120
+    },
+    {
+      "titulo": "Mack The Knife",
+      "duracion": 316
+    },
+    {
+      "titulo": "They Didn't Believe Me",
+      "duracion": 258
+    },
+    {
+      "titulo": "Squeaky's Blues",
+      "duracion": 208
+    },
+    {
+      "titulo": "I Want A Little Girl",
+      "duracion": 309
+    },
+    {
+      "titulo": "Incoherent Blues",
+      "duracion": 162
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -59,5 +59,24 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "I Wish You Love - Rudy Van Gelder Edition / Remastered 2009",
+      "duracion": 526
+    },
+    {
+      "titulo": "Lazy Afternoon - Rudy Van Gelder Edition / Remastered 2009",
+      "duracion": 464
+    },
+    {
+      "titulo": "Street Of Dreams - Rudy Van Gelder Edition / Remastered 2009",
+      "duracion": 543
+    },
+    {
+      "titulo": "Somewhere In The Night - Rudy Van Gelder Edition / Remastered 2009",
+      "duracion": 481
+    }
+  ],
+  "temasFuente": "Spotify"
 }

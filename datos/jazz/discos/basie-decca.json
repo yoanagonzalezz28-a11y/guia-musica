@@ -101,5 +101,260 @@
       "acceso": "completa",
       "aporta": "Explica su banda de Kansas City y sus innovaciones, como los riffs y los dos tenores."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Honeysuckle Rose",
+      "duracion": 180
+    },
+    {
+      "titulo": "Pennies From Heaven",
+      "duracion": 182
+    },
+    {
+      "titulo": "Swinging At The Daisy Chain",
+      "duracion": 171
+    },
+    {
+      "titulo": "Roseland Shuffle",
+      "duracion": 154
+    },
+    {
+      "titulo": "Exactly Like You",
+      "duracion": 163
+    },
+    {
+      "titulo": "Boo Hoo",
+      "duracion": 148
+    },
+    {
+      "titulo": "The Glory Of Love",
+      "duracion": 151
+    },
+    {
+      "titulo": "Boogie Woogie (I May Be Wrong)",
+      "duracion": 171
+    },
+    {
+      "titulo": "Smarty (You Know It All)",
+      "duracion": 163
+    },
+    {
+      "titulo": "One O'Clock Jump",
+      "duracion": 183
+    },
+    {
+      "titulo": "Listen My Children (And You Shall Hear)",
+      "duracion": 188
+    },
+    {
+      "titulo": "John's Idea",
+      "duracion": 175
+    },
+    {
+      "titulo": "Good Morning Blues",
+      "duracion": 194
+    },
+    {
+      "titulo": "Good Morning Blues - 2nd Take",
+      "duracion": 186
+    },
+    {
+      "titulo": "Our Love Was Meant To Be",
+      "duracion": 167
+    },
+    {
+      "titulo": "Time Out",
+      "duracion": 184
+    },
+    {
+      "titulo": "Topsy",
+      "duracion": 194
+    },
+    {
+      "titulo": "I Keep Remembering (Someone I Should Forget)",
+      "duracion": 168
+    },
+    {
+      "titulo": "Out The Window",
+      "duracion": 169
+    },
+    {
+      "titulo": "Don't You Miss Your Baby?",
+      "duracion": 191
+    },
+    {
+      "titulo": "Let Me Dream",
+      "duracion": 189
+    },
+    {
+      "titulo": "Georgianna",
+      "duracion": 155
+    },
+    {
+      "titulo": "Blues In The Dark",
+      "duracion": 187
+    },
+    {
+      "titulo": "Sent For You Yesterday",
+      "duracion": 179
+    },
+    {
+      "titulo": "Every Tub",
+      "duracion": 196
+    },
+    {
+      "titulo": "Now Will You Be Good?",
+      "duracion": 168
+    },
+    {
+      "titulo": "Swingin' The Blues",
+      "duracion": 168
+    },
+    {
+      "titulo": "Mama Don't Want No Peas 'N' Rice 'N' Coconut Oil",
+      "duracion": 173
+    },
+    {
+      "titulo": "Blue And Sentimental",
+      "duracion": 193
+    },
+    {
+      "titulo": "Doggin' Around",
+      "duracion": 184
+    },
+    {
+      "titulo": "Stop Beatin' 'Round The Mulberry Bush - 1st Take",
+      "duracion": 183
+    },
+    {
+      "titulo": "Stop Beatin' Round The Mulberry Bush - 2nd take",
+      "duracion": 186
+    },
+    {
+      "titulo": "London Bridge Is Falling Down",
+      "duracion": 177
+    },
+    {
+      "titulo": "Texas Shuffle",
+      "duracion": 189
+    },
+    {
+      "titulo": "Jumpin' At The Woodside",
+      "duracion": 190
+    },
+    {
+      "titulo": "How Long Blues",
+      "duracion": 178
+    },
+    {
+      "titulo": "The Dirty Dozens",
+      "duracion": 183
+    },
+    {
+      "titulo": "Hey Lawdy Mama",
+      "duracion": 167
+    },
+    {
+      "titulo": "The Fives",
+      "duracion": 167
+    },
+    {
+      "titulo": "Boogie Woogie",
+      "duracion": 183
+    },
+    {
+      "titulo": "Dark Rapture",
+      "duracion": 161
+    },
+    {
+      "titulo": "Shorty George",
+      "duracion": 167
+    },
+    {
+      "titulo": "The Blues I Like To Hear",
+      "duracion": 190
+    },
+    {
+      "titulo": "Do You Wanna Jump, Children",
+      "duracion": 161
+    },
+    {
+      "titulo": "Panassie Stomp",
+      "duracion": 167
+    },
+    {
+      "titulo": "My Heart Belongs To Daddy",
+      "duracion": 176
+    },
+    {
+      "titulo": "Sing For Your Supper",
+      "duracion": 164
+    },
+    {
+      "titulo": "Oh! Red",
+      "duracion": 175
+    },
+    {
+      "titulo": "Fare Thee Honey, Fare Thee Well - 1st Take",
+      "duracion": 187
+    },
+    {
+      "titulo": "Fare Thee Honey, Fare Thee Well",
+      "duracion": 184
+    },
+    {
+      "titulo": "Dupree Blues",
+      "duracion": 186
+    },
+    {
+      "titulo": "When The Sun Goes Down - 1st Take",
+      "duracion": 168
+    },
+    {
+      "titulo": "When The Sun Goes Down",
+      "duracion": 176
+    },
+    {
+      "titulo": "Red Wagon",
+      "duracion": 175
+    },
+    {
+      "titulo": "You Can Depend On Me",
+      "duracion": 190
+    },
+    {
+      "titulo": "Cherokee - Pt. 1",
+      "duracion": 192
+    },
+    {
+      "titulo": "Cherokee - Pt. 2",
+      "duracion": 186
+    },
+    {
+      "titulo": "Blame It On My Last Affair - 1st Take",
+      "duracion": 166
+    },
+    {
+      "titulo": "Blame It On My Last Affair",
+      "duracion": 164
+    },
+    {
+      "titulo": "Jive At Five",
+      "duracion": 171
+    },
+    {
+      "titulo": "Thursday",
+      "duracion": 186
+    },
+    {
+      "titulo": "Evil Blues",
+      "duracion": 195
+    },
+    {
+      "titulo": "Oh, Lady Be Good",
+      "duracion": 191
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -54,5 +54,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Destinos",
+      "duracion": 558
+    },
+    {
+      "titulo": "De Cuba y de Panamá",
+      "duracion": 350
+    },
+    {
+      "titulo": "Llanera",
+      "duracion": 249
+    },
+    {
+      "titulo": "Panamá",
+      "duracion": 379
+    },
+    {
+      "titulo": "Decir Asere",
+      "duracion": 531
+    },
+    {
+      "titulo": "Hoja, Ontoño y Flor",
+      "duracion": 610
+    },
+    {
+      "titulo": "Gypsy Soul",
+      "duracion": 417
+    },
+    {
+      "titulo": "Cuando Existe Amor",
+      "duracion": 309
+    }
+  ],
+  "temasFuente": "Spotify"
 }

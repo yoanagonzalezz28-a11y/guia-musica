@@ -89,5 +89,24 @@
       "acceso": "extracto",
       "aporta": "JazzTimes incluye \"The Eternal Triangle\" entre sus 40 solos esenciales y lo llama modelo de duelo de saxos."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "On The Sunny Side Of The Street",
+      "duracion": 344
+    },
+    {
+      "titulo": "The Eternal Triangle",
+      "duracion": 857
+    },
+    {
+      "titulo": "After Hours",
+      "duracion": 744
+    },
+    {
+      "titulo": "I Know That You Know",
+      "duracion": 327
+    }
+  ],
+  "temasFuente": "Spotify"
 }

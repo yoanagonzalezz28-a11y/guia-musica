@@ -54,5 +54,68 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Reunion",
+      "duracion": 249
+    },
+    {
+      "titulo": "When Your Lover Has Gone",
+      "duracion": 310
+    },
+    {
+      "titulo": "Stardust",
+      "duracion": 286
+    },
+    {
+      "titulo": "My Heart Belongs To Daddy",
+      "duracion": 255
+    },
+    {
+      "titulo": "Jersey Bounce",
+      "duracion": 269
+    },
+    {
+      "titulo": "The Surrey With The Fringe On Top",
+      "duracion": 284
+    },
+    {
+      "titulo": "Trav'lin Light",
+      "duracion": 224
+    },
+    {
+      "titulo": "Trav'lin Light - Alternate Take",
+      "duracion": 275
+    },
+    {
+      "titulo": "Ornithology",
+      "duracion": 314
+    },
+    {
+      "titulo": "People Will Say We're In Love",
+      "duracion": 223
+    },
+    {
+      "titulo": "The Song Is You",
+      "duracion": 203
+    },
+    {
+      "titulo": "Gee Baby, Ain't I Good To You",
+      "duracion": 217
+    },
+    {
+      "titulo": "Gee Baby, Ain't I Good To You - Alternate Take",
+      "duracion": 214
+    },
+    {
+      "titulo": "I Got Rhythm",
+      "duracion": 361
+    },
+    {
+      "titulo": "All The Things You Are",
+      "duracion": 406
+    }
+  ],
+  "temasFuente": "Spotify"
 }

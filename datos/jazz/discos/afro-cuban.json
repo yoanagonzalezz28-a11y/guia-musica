@@ -54,5 +54,44 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Afrodisia - Remastered/Rudy Van Gelder Edition",
+      "duracion": 306
+    },
+    {
+      "titulo": "Lotus Flower - Rudy Van Gelder Edition/2007 Digital Remaster",
+      "duracion": 257
+    },
+    {
+      "titulo": "Minors Holiday - Rudy Van Gelder Edition/2007 Digital Remaster",
+      "duracion": 268
+    },
+    {
+      "titulo": "Basheer's Dream - Rudy Van Gelder Edition/2007 Digital Remaster",
+      "duracion": 303
+    },
+    {
+      "titulo": "K.D.'s Motion - Rudy Van Gelder Edition/2007 Digital Remaster",
+      "duracion": 329
+    },
+    {
+      "titulo": "La Villa - Rudy Van Gelder Edition/2007 Digital Remaster",
+      "duracion": 324
+    },
+    {
+      "titulo": "Venita's Dance - Rudy Van Gelder Edition/2007 Digital Remaster",
+      "duracion": 322
+    },
+    {
+      "titulo": "K.D.'s Cab Ride - Rudy Van Gelder Edition; 2007 Digital Remaster",
+      "duracion": 372
+    },
+    {
+      "titulo": "Minors Holiday - Alternate Take/ Rudy Van Gelder Edition/ 2007 Digital Remaster",
+      "duracion": 264
+    }
+  ],
+  "temasFuente": "Spotify"
 }

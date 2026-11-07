@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Levitation 21",
+      "duracion": 306
+    },
+    {
+      "titulo": "Our Film (feat. Areni Aghbabian and Artyom Manukyan)",
+      "duracion": 313
+    },
+    {
+      "titulo": "Ara Resurrected",
+      "duracion": 503
+    },
+    {
+      "titulo": "At a Post-Historic Seashore",
+      "duracion": 99
+    },
+    {
+      "titulo": "Space of Your Existence",
+      "duracion": 283
+    },
+    {
+      "titulo": "The Dream Voyager",
+      "duracion": 306
+    },
+    {
+      "titulo": "Old Maps (feat. Varduhi Art School Children's Choir)",
+      "duracion": 150
+    },
+    {
+      "titulo": "Vortex (feat. Tosin Abasi)",
+      "duracion": 319
+    },
+    {
+      "titulo": "37 Newlyweds",
+      "duracion": 213
+    },
+    {
+      "titulo": "New Maps",
+      "duracion": 377
+    }
+  ],
+  "temasFuente": "Spotify"
 }

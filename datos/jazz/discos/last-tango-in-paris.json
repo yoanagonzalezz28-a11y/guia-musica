@@ -55,5 +55,100 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Last Tango in Paris - Ultimo Tango a Parigi (Titles)",
+      "duracion": 204
+    },
+    {
+      "titulo": "Jeanne",
+      "duracion": 155
+    },
+    {
+      "titulo": "Para Mi Negra",
+      "duracion": 130
+    },
+    {
+      "titulo": "Last Tango In Paris - 2nd Version",
+      "duracion": 224
+    },
+    {
+      "titulo": "Fake Ophelia",
+      "duracion": 179
+    },
+    {
+      "titulo": "Picture In the Rain",
+      "duracion": 113
+    },
+    {
+      "titulo": "Vuelta",
+      "duracion": 186
+    },
+    {
+      "titulo": "It's Over",
+      "duracion": 196
+    },
+    {
+      "titulo": "Un Largo Adios",
+      "duracion": 153
+    },
+    {
+      "titulo": "Why Did She Choose You?",
+      "duracion": 183
+    },
+    {
+      "titulo": "Last Tango In Paris (Jazz)",
+      "duracion": 345
+    },
+    {
+      "titulo": "Picture In the Rain - 2nd Version",
+      "duracion": 70
+    },
+    {
+      "titulo": "It's Over (2nd Version)",
+      "duracion": 76
+    },
+    {
+      "titulo": "Vuelta (2nd Version)",
+      "duracion": 88
+    },
+    {
+      "titulo": "Last Tango In Paris (3rd Version)",
+      "duracion": 102
+    },
+    {
+      "titulo": "Jeanne (2nd Version)",
+      "duracion": 143
+    },
+    {
+      "titulo": "Fake Ophelia (2nd Version)",
+      "duracion": 84
+    },
+    {
+      "titulo": "Last Tango In Paris (Jazz - 2nd Version)",
+      "duracion": 102
+    },
+    {
+      "titulo": "Last Tango In Paris (4th Version)",
+      "duracion": 182
+    },
+    {
+      "titulo": "Para Mi Negra (2nd Version)",
+      "duracion": 96
+    },
+    {
+      "titulo": "Last Tango In Paris (5th Version)",
+      "duracion": 94
+    },
+    {
+      "titulo": "Why Did She Choose You? (2nd Version)",
+      "duracion": 105
+    },
+    {
+      "titulo": "Last Tango In Paris (6th Version) - Finals",
+      "duracion": 353
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -54,5 +54,32 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Sintra - Live From Dordrecht, Het Energiehuis / 2014",
+      "duracion": 212
+    },
+    {
+      "titulo": "Flight - Live From Dordrecht, Het Energiehuis / 2014",
+      "duracion": 363
+    },
+    {
+      "titulo": "Atchafalaya - Live From Dordrecht, Het Energiehuis / 2014",
+      "duracion": 364
+    },
+    {
+      "titulo": "The Curtain - Live From Dordrecht, Het Energiehuis / 2014",
+      "duracion": 909
+    },
+    {
+      "titulo": "Gretel - Live From Dordrecht, Het Energiehuis / 2014",
+      "duracion": 261
+    },
+    {
+      "titulo": "The Clearing - Live From Dordrecht, Het Energiehuis / 2014",
+      "duracion": 1163
+    }
+  ],
+  "temasFuente": "Spotify"
 }

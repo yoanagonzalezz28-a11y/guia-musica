@@ -54,5 +54,60 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "One Quiet Night",
+      "duracion": 302
+    },
+    {
+      "titulo": "Song for the Boys",
+      "duracion": 270
+    },
+    {
+      "titulo": "Don't Know Why",
+      "duracion": 188
+    },
+    {
+      "titulo": "Another Chance",
+      "duracion": 408
+    },
+    {
+      "titulo": "Time Goes On",
+      "duracion": 198
+    },
+    {
+      "titulo": "My Song",
+      "duracion": 260
+    },
+    {
+      "titulo": "Peace Memory",
+      "duracion": 371
+    },
+    {
+      "titulo": "Ferry Cross the Mersey",
+      "duracion": 237
+    },
+    {
+      "titulo": "Over on 4th Street",
+      "duracion": 219
+    },
+    {
+      "titulo": "I Will Find the Way",
+      "duracion": 469
+    },
+    {
+      "titulo": "North to South, East to West",
+      "duracion": 721
+    },
+    {
+      "titulo": "Last Train Home",
+      "duracion": 275
+    },
+    {
+      "titulo": "In All We See",
+      "duracion": 400
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -54,5 +54,32 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Backlash",
+      "duracion": 255
+    },
+    {
+      "titulo": "The Return of the Prodigal Son",
+      "duracion": 342
+    },
+    {
+      "titulo": "Little Sunflower",
+      "duracion": 475
+    },
+    {
+      "titulo": "On the Que-Tee",
+      "duracion": 347
+    },
+    {
+      "titulo": "Up Jumped Spring",
+      "duracion": 401
+    },
+    {
+      "titulo": "Echoes of Blue",
+      "duracion": 585
+    }
+  ],
+  "temasFuente": "Spotify"
 }

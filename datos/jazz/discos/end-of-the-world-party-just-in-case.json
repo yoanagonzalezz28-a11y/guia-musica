@@ -54,5 +54,56 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Anonymous Skulls",
+      "duracion": 264
+    },
+    {
+      "titulo": "End Of The World Party",
+      "duracion": 311
+    },
+    {
+      "titulo": "Reflector",
+      "duracion": 251
+    },
+    {
+      "titulo": "Bloody Oil",
+      "duracion": 282
+    },
+    {
+      "titulo": "New Planet",
+      "duracion": 247
+    },
+    {
+      "titulo": "Mami Gato",
+      "duracion": 250
+    },
+    {
+      "titulo": "Shine It",
+      "duracion": 299
+    },
+    {
+      "titulo": "Curtis",
+      "duracion": 278
+    },
+    {
+      "titulo": "Ice",
+      "duracion": 273
+    },
+    {
+      "titulo": "Sasa",
+      "duracion": 256
+    },
+    {
+      "titulo": "Midnight Poppies/Crooked Birds",
+      "duracion": 226
+    },
+    {
+      "titulo": "Queen Bee",
+      "duracion": 297
+    }
+  ],
+  "temasFuente": "Spotify"
 }

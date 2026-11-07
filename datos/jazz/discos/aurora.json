@@ -57,5 +57,56 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Morenika",
+      "duracion": 273
+    },
+    {
+      "titulo": "Interlude in C# Minor",
+      "duracion": 59
+    },
+    {
+      "titulo": "El Hatzipor",
+      "duracion": 365
+    },
+    {
+      "titulo": "Leolam",
+      "duracion": 211
+    },
+    {
+      "titulo": "Winter Song",
+      "duracion": 300
+    },
+    {
+      "titulo": "It's Been so Long",
+      "duracion": 317
+    },
+    {
+      "titulo": "Alon Basela",
+      "duracion": 245
+    },
+    {
+      "titulo": "Still",
+      "duracion": 216
+    },
+    {
+      "titulo": "Shir preda",
+      "duracion": 242
+    },
+    {
+      "titulo": "Aurora",
+      "duracion": 264
+    },
+    {
+      "titulo": "Alfonsina y el mar",
+      "duracion": 269
+    },
+    {
+      "titulo": "Noches noches / La luz",
+      "duracion": 441
+    }
+  ],
+  "temasFuente": "Spotify"
 }

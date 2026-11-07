@@ -54,5 +54,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "New Year (feat. Ron Miles, Scott Colley & Brian Blade)",
+      "duracion": 397
+    },
+    {
+      "titulo": "Unanimity (feat. Ron Miles, Scott Colley & Brian Blade)",
+      "duracion": 309
+    },
+    {
+      "titulo": "Haze and Aspirations (feat. Ron Miles, Scott Colley & Brian Blade)",
+      "duracion": 357
+    },
+    {
+      "titulo": "It's Not the Same (feat. Ron Miles, Scott Colley & Brian Blade)",
+      "duracion": 165
+    },
+    {
+      "titulo": "Blues for Charlie (feat. Ron Miles, Scott Colley & Brian Blade)",
+      "duracion": 411
+    },
+    {
+      "titulo": "Playing (feat. Ron Miles, Scott Colley & Brian Blade)",
+      "duracion": 198
+    },
+    {
+      "titulo": "Comme Il Faut (feat. Ron Miles, Scott Colley & Brian Blade)",
+      "duracion": 206
+    },
+    {
+      "titulo": "The Rest (feat. Ron Miles, Scott Colley & Brian Blade)",
+      "duracion": 356
+    }
+  ],
+  "temasFuente": "Spotify"
 }

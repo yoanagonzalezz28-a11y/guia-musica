@@ -54,5 +54,28 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Grow Your Own",
+      "duracion": 294
+    },
+    {
+      "titulo": "Moonchild / In Your Quiet Place",
+      "duracion": 443
+    },
+    {
+      "titulo": "Como En Vietnam",
+      "duracion": 424
+    },
+    {
+      "titulo": "Fortune Smiles",
+      "duracion": 507
+    },
+    {
+      "titulo": "The Raven Speaks",
+      "duracion": 499
+    }
+  ],
+  "temasFuente": "Spotify"
 }

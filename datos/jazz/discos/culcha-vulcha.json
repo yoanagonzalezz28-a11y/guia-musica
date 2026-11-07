@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Tarova",
+      "duracion": 219
+    },
+    {
+      "titulo": "Semente",
+      "duracion": 432
+    },
+    {
+      "titulo": "Gemini",
+      "duracion": 315
+    },
+    {
+      "titulo": "Grown Folks",
+      "duracion": 477
+    },
+    {
+      "titulo": "Beep Box",
+      "duracion": 241
+    },
+    {
+      "titulo": "GØ",
+      "duracion": 533
+    },
+    {
+      "titulo": "The Simple Life",
+      "duracion": 242
+    },
+    {
+      "titulo": "Palermo",
+      "duracion": 397
+    },
+    {
+      "titulo": "Big Ugly",
+      "duracion": 550
+    },
+    {
+      "titulo": "Jefe",
+      "duracion": 531
+    }
+  ],
+  "temasFuente": "Spotify"
 }

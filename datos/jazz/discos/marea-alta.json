@@ -59,5 +59,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Coral",
+      "duracion": 510
+    },
+    {
+      "titulo": "Kamikaze",
+      "duracion": 263
+    },
+    {
+      "titulo": "Ahí",
+      "duracion": 327
+    },
+    {
+      "titulo": "¿Qué Pasa?",
+      "duracion": 345
+    },
+    {
+      "titulo": "Alquimia",
+      "duracion": 483
+    },
+    {
+      "titulo": "Lluvia",
+      "duracion": 397
+    },
+    {
+      "titulo": "Marea Alta",
+      "duracion": 350
+    },
+    {
+      "titulo": "¿Qué Hay de Nuevo?",
+      "duracion": 405
+    }
+  ],
+  "temasFuente": "Spotify"
 }

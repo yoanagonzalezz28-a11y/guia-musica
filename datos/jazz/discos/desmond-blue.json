@@ -54,5 +54,72 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "My Funny Valentine - 2011 Remaster",
+      "duracion": 231
+    },
+    {
+      "titulo": "Desmond Blue - (Live) [2011 Remaster]",
+      "duracion": 218
+    },
+    {
+      "titulo": "Then I'll Be Tired of You - 2011 Remaster",
+      "duracion": 244
+    },
+    {
+      "titulo": "I've Got You Under My Skin - 2011 Remaster",
+      "duracion": 279
+    },
+    {
+      "titulo": "Late Lament - 2011 Remaster",
+      "duracion": 250
+    },
+    {
+      "titulo": "I Should Care - 2011 Remaster",
+      "duracion": 229
+    },
+    {
+      "titulo": "Like Someone In Love - 2011 Remaster",
+      "duracion": 251
+    },
+    {
+      "titulo": "Ill Wind - 2011 Remaster",
+      "duracion": 230
+    },
+    {
+      "titulo": "Body and Soul - 2011 Remaster",
+      "duracion": 290
+    },
+    {
+      "titulo": "Advise and Consent - 2011 Remaster",
+      "duracion": 121
+    },
+    {
+      "titulo": "Autumn Leaves - 2011 Remaster",
+      "duracion": 342
+    },
+    {
+      "titulo": "Imagination - 2011 Remaster",
+      "duracion": 243
+    },
+    {
+      "titulo": "Autumn Leaves - 2011 Remaster",
+      "duracion": 338
+    },
+    {
+      "titulo": "Autumn Leaves - 2011 Remaster",
+      "duracion": 218
+    },
+    {
+      "titulo": "Imagination - 2011 Remaster",
+      "duracion": 291
+    },
+    {
+      "titulo": "Advise and Consent (From \"Advise and Consent\") - 2011 Remaster",
+      "duracion": 122
+    }
+  ],
+  "temasFuente": "Spotify"
 }

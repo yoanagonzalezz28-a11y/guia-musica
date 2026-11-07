@@ -54,5 +54,32 @@
     "wikidata": null,
     "wikipedia": "Reaching_Fourth"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Reaching Fourth",
+      "duracion": 262
+    },
+    {
+      "titulo": "Goodbye",
+      "duracion": 346
+    },
+    {
+      "titulo": "Theme For Ernie",
+      "duracion": 361
+    },
+    {
+      "titulo": "Blues Back",
+      "duracion": 415
+    },
+    {
+      "titulo": "Old Devil Moon - From Finian's Rainbow",
+      "duracion": 450
+    },
+    {
+      "titulo": "Have You Met Miss Jones",
+      "duracion": 227
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -59,5 +59,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Mood Indigo - 2013 Remastered Version",
+      "duracion": 241
+    },
+    {
+      "titulo": "Don't Smoke in Bed - 2013 Remastered Version",
+      "duracion": 190
+    },
+    {
+      "titulo": "He Needs Me - 2013 Remastered Version",
+      "duracion": 149
+    },
+    {
+      "titulo": "Little Girl Blue - 2013 Remastered Version",
+      "duracion": 258
+    },
+    {
+      "titulo": "Love Me or Leave Me - 2013 Remastered Version",
+      "duracion": 201
+    },
+    {
+      "titulo": "My Baby Just Cares for Me - 2013 Remastered Version",
+      "duracion": 216
+    },
+    {
+      "titulo": "Good Bait - 2013 Remastered Version",
+      "duracion": 327
+    },
+    {
+      "titulo": "Plain Gold Ring - 2013 Remastered Version",
+      "duracion": 228
+    },
+    {
+      "titulo": "You'll Never Walk Alone - 2013 Remastered Version",
+      "duracion": 225
+    },
+    {
+      "titulo": "I Loves You Porgy - 2013 Remastered Version",
+      "duracion": 250
+    }
+  ],
+  "temasFuente": "Spotify"
 }

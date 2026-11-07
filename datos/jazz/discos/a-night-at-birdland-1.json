@@ -109,5 +109,32 @@
       "acceso": "completa",
       "aporta": "DownBeat cuenta cómo se grabaron cuatro sets en una noche, y recuerda las cuatro estrellas de Nat Hentoff."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Announcement By Pee Wee Marquette - Live At Birdland, New York/1954",
+      "duracion": 58
+    },
+    {
+      "titulo": "Split Kick - Live At Birdland, New York, 1954",
+      "duracion": 525
+    },
+    {
+      "titulo": "Once In A While - Live At Birdland, New York, 1954",
+      "duracion": 319
+    },
+    {
+      "titulo": "Quicksilver - Live At Birdland, New York/1954",
+      "duracion": 420
+    },
+    {
+      "titulo": "A Night In Tunisia - Live At Birdland, New York/1954",
+      "duracion": 561
+    },
+    {
+      "titulo": "Mayreh - Live At Birdland, New York, 1954",
+      "duracion": 379
+    }
+  ],
+  "temasFuente": "Spotify"
 }

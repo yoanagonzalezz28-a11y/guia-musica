@@ -52,5 +52,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Joseph",
+      "duracion": 364
+    },
+    {
+      "titulo": "Uptown",
+      "duracion": 452
+    },
+    {
+      "titulo": "Cambiata",
+      "duracion": 331
+    },
+    {
+      "titulo": "Highline",
+      "duracion": 342
+    },
+    {
+      "titulo": "Driftwood",
+      "duracion": 221
+    },
+    {
+      "titulo": "Lichtzelle",
+      "duracion": 287
+    },
+    {
+      "titulo": "Madame Vonn",
+      "duracion": 278
+    },
+    {
+      "titulo": "Bossa For Michael Brecker",
+      "duracion": 301
+    }
+  ],
+  "temasFuente": "Spotify"
 }

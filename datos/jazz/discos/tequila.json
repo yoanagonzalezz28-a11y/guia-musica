@@ -54,5 +54,56 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Tequila",
+      "duracion": 201
+    },
+    {
+      "titulo": "Little Child (Daddy Dear)",
+      "duracion": 150
+    },
+    {
+      "titulo": "What The World Needs Now Is Love",
+      "duracion": 298
+    },
+    {
+      "titulo": "The Big Hurt",
+      "duracion": 273
+    },
+    {
+      "titulo": "Bumpin' On Sunset",
+      "duracion": 289
+    },
+    {
+      "titulo": "How Insensitive",
+      "duracion": 229
+    },
+    {
+      "titulo": "The Thumb",
+      "duracion": 289
+    },
+    {
+      "titulo": "Midnight Mood",
+      "duracion": 324
+    },
+    {
+      "titulo": "Wives And Lovers",
+      "duracion": 180
+    },
+    {
+      "titulo": "Bumpin' On Sunset - Alternate Take",
+      "duracion": 201
+    },
+    {
+      "titulo": "The Big Hurt - Alternate Take",
+      "duracion": 209
+    },
+    {
+      "titulo": "Tequila - Alternate Take",
+      "duracion": 161
+    }
+  ],
+  "temasFuente": "Spotify"
 }

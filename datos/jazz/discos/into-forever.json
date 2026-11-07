@@ -52,5 +52,52 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Only a Woman",
+      "duracion": 230
+    },
+    {
+      "titulo": "As I Walk",
+      "duracion": 210
+    },
+    {
+      "titulo": "Dawn Horizon",
+      "duracion": 72
+    },
+    {
+      "titulo": "Badder Weather",
+      "duracion": 252
+    },
+    {
+      "titulo": "These Goodbyes",
+      "duracion": 170
+    },
+    {
+      "titulo": "The Land Of",
+      "duracion": 308
+    },
+    {
+      "titulo": "Longshan Temple",
+      "duracion": 204
+    },
+    {
+      "titulo": "Cushendun",
+      "duracion": 88
+    },
+    {
+      "titulo": "Into Forever",
+      "duracion": 218
+    },
+    {
+      "titulo": "Daan Park",
+      "duracion": 383
+    },
+    {
+      "titulo": "Jamais Vu",
+      "duracion": 214
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -54,5 +54,52 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Caipi",
+      "duracion": 237
+    },
+    {
+      "titulo": "Kama",
+      "duracion": 270
+    },
+    {
+      "titulo": "Casio Vanguard",
+      "duracion": 382
+    },
+    {
+      "titulo": "Summer Song",
+      "duracion": 302
+    },
+    {
+      "titulo": "Chromatic B",
+      "duracion": 286
+    },
+    {
+      "titulo": "Hold On",
+      "duracion": 333
+    },
+    {
+      "titulo": "Ezra",
+      "duracion": 378
+    },
+    {
+      "titulo": "Little Dream",
+      "duracion": 304
+    },
+    {
+      "titulo": "Casio Escher",
+      "duracion": 409
+    },
+    {
+      "titulo": "Interscape",
+      "duracion": 347
+    },
+    {
+      "titulo": "Little B",
+      "duracion": 376
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -54,5 +54,36 @@
     "wikidata": null,
     "wikipedia": "Night_Lights_(Gerry_Mulligan_album)"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Night Lights",
+      "duracion": 298
+    },
+    {
+      "titulo": "Morning Of The Carnival - From \"Black Orpheus\"",
+      "duracion": 331
+    },
+    {
+      "titulo": "In The Wee Small Hours Of The Morning",
+      "duracion": 340
+    },
+    {
+      "titulo": "Prelude In E Minor",
+      "duracion": 257
+    },
+    {
+      "titulo": "Festival Minor",
+      "duracion": 411
+    },
+    {
+      "titulo": "Tell Me When",
+      "duracion": 250
+    },
+    {
+      "titulo": "Night Lights - 1965 Version",
+      "duracion": 176
+    }
+  ],
+  "temasFuente": "Spotify"
 }

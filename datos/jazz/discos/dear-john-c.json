@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Dear John C.",
+      "duracion": 236
+    },
+    {
+      "titulo": "Ballade",
+      "duracion": 323
+    },
+    {
+      "titulo": "Love Bird",
+      "duracion": 230
+    },
+    {
+      "titulo": "Everything Happens To Me",
+      "duracion": 355
+    },
+    {
+      "titulo": "Smoke Rings",
+      "duracion": 222
+    },
+    {
+      "titulo": "This Love Of Mine",
+      "duracion": 264
+    },
+    {
+      "titulo": "Anthropology",
+      "duracion": 252
+    },
+    {
+      "titulo": "Feeling Good",
+      "duracion": 249
+    },
+    {
+      "titulo": "Fantazm",
+      "duracion": 239
+    },
+    {
+      "titulo": "That Five-Four Bag",
+      "duracion": 188
+    }
+  ],
+  "temasFuente": "Spotify"
 }

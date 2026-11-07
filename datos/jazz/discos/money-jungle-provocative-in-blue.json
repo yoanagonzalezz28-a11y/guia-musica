@@ -54,5 +54,52 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Money Jungle",
+      "duracion": 381
+    },
+    {
+      "titulo": "Fleurette Africain",
+      "duracion": 357
+    },
+    {
+      "titulo": "Backward Country Boy Blues",
+      "duracion": 361
+    },
+    {
+      "titulo": "Very Special",
+      "duracion": 251
+    },
+    {
+      "titulo": "Wig Wise",
+      "duracion": 377
+    },
+    {
+      "titulo": "Grass Roots",
+      "duracion": 279
+    },
+    {
+      "titulo": "No Boxes (Nor Words)",
+      "duracion": 337
+    },
+    {
+      "titulo": "A Little Max (Parfait)",
+      "duracion": 302
+    },
+    {
+      "titulo": "Switch Blade",
+      "duracion": 388
+    },
+    {
+      "titulo": "Cut Off",
+      "duracion": 309
+    },
+    {
+      "titulo": "Rem Blues/Music",
+      "duracion": 404
+    }
+  ],
+  "temasFuente": "Spotify"
 }

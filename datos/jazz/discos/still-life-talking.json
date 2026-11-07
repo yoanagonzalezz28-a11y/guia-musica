@@ -54,5 +54,36 @@
     "wikidata": null,
     "wikipedia": "Still_Life_(Talking)"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Minuano (Six Eight)",
+      "duracion": 566
+    },
+    {
+      "titulo": "So May It Secretly Begin",
+      "duracion": 385
+    },
+    {
+      "titulo": "Last Train Home",
+      "duracion": 338
+    },
+    {
+      "titulo": "(It's Just) Talk",
+      "duracion": 377
+    },
+    {
+      "titulo": "Third Wind",
+      "duracion": 513
+    },
+    {
+      "titulo": "Distance",
+      "duracion": 166
+    },
+    {
+      "titulo": "In Her Family",
+      "duracion": 199
+    }
+  ],
+  "temasFuente": "Spotify"
 }

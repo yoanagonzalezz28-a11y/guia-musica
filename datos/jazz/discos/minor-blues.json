@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Minor Blues",
+      "duracion": 395
+    },
+    {
+      "titulo": "Beautiful Love",
+      "duracion": 417
+    },
+    {
+      "titulo": "Emily",
+      "duracion": 415
+    },
+    {
+      "titulo": "For Heaven's Sake",
+      "duracion": 543
+    },
+    {
+      "titulo": "How Deep Is The Ocean",
+      "duracion": 500
+    },
+    {
+      "titulo": "Too Late Now",
+      "duracion": 517
+    },
+    {
+      "titulo": "Don't Explain",
+      "duracion": 393
+    },
+    {
+      "titulo": "Hush - A - Bye",
+      "duracion": 385
+    },
+    {
+      "titulo": "I've Never Been In Love Before",
+      "duracion": 412
+    },
+    {
+      "titulo": "My Ideal",
+      "duracion": 398
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -54,5 +54,52 @@
     "wikidata": null,
     "wikipedia": "Bossa_Antigua"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Bossa Antigua",
+      "duracion": 283
+    },
+    {
+      "titulo": "The Night Has a Thousand Eyes",
+      "duracion": 308
+    },
+    {
+      "titulo": "O Gato",
+      "duracion": 276
+    },
+    {
+      "titulo": "Samba Cantina",
+      "duracion": 342
+    },
+    {
+      "titulo": "Curacao Doloroso",
+      "duracion": 275
+    },
+    {
+      "titulo": "A Ship Without A Sail",
+      "duracion": 382
+    },
+    {
+      "titulo": "Alianca",
+      "duracion": 273
+    },
+    {
+      "titulo": "The Girl from East 9th Street",
+      "duracion": 376
+    },
+    {
+      "titulo": "The Night Has a Thousand Eyes - Alternate Take",
+      "duracion": 453
+    },
+    {
+      "titulo": "Samba Cepeda",
+      "duracion": 309
+    },
+    {
+      "titulo": "O Gato - Alternate Take",
+      "duracion": 297
+    }
+  ],
+  "temasFuente": "Spotify"
 }

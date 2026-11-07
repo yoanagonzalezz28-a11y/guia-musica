@@ -59,5 +59,44 @@
     "wikidata": null,
     "wikipedia": "Midnight_Blue_(Kenny_Burrell_album)"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Chitlins Con Carne",
+      "duracion": 330
+    },
+    {
+      "titulo": "Mule - Remastered 1999/Rudy Van Gelder Edition",
+      "duracion": 417
+    },
+    {
+      "titulo": "Soul Lament - Remastered 1999/Rudy Van Gelder Edition",
+      "duracion": 164
+    },
+    {
+      "titulo": "Midnight Blue - Remastered 1999/Rudy Van Gelder Edition",
+      "duracion": 242
+    },
+    {
+      "titulo": "Wavy Gravy - Remastered 1999/Rudy Van Gelder Edition",
+      "duracion": 348
+    },
+    {
+      "titulo": "Gee Baby, Ain't I Good To You - Remastered 1999/Rudy Van Gelder Edition",
+      "duracion": 265
+    },
+    {
+      "titulo": "Saturday Night Blues - Remastered 1999/Rudy Van Gelder Edition",
+      "duracion": 376
+    },
+    {
+      "titulo": "Kenny's Sound (Take 10) - Take 10 / Remastered 1999/Rudy Van Gelder Edition",
+      "duracion": 283
+    },
+    {
+      "titulo": "K Twist (Take 35) - Take 35 / Remastered 1999/Rudy Van Gelder Edition",
+      "duracion": 218
+    }
+  ],
+  "temasFuente": "Spotify"
 }

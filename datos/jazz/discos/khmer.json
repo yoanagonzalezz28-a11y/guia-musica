@@ -69,5 +69,40 @@
       "acceso": "completa",
       "aporta": "Lo considera pionero del future jazz y destaca este disco como su mayor éxito."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Khmer",
+      "duracion": 299
+    },
+    {
+      "titulo": "Tlon",
+      "duracion": 473
+    },
+    {
+      "titulo": "Access / Song Of Sand I",
+      "duracion": 350
+    },
+    {
+      "titulo": "On Stream",
+      "duracion": 301
+    },
+    {
+      "titulo": "Platonic Years",
+      "duracion": 394
+    },
+    {
+      "titulo": "Phum",
+      "duracion": 219
+    },
+    {
+      "titulo": "Song Of Sand II",
+      "duracion": 371
+    },
+    {
+      "titulo": "Exit",
+      "duracion": 163
+    }
+  ],
+  "temasFuente": "Spotify"
 }

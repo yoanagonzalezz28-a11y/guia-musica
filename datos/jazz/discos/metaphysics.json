@@ -87,5 +87,48 @@
       "acceso": "extracto",
       "aporta": "All About Jazz habla de una pequeña obra maestra."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Atlantic Ones",
+      "duracion": 326
+    },
+    {
+      "titulo": "Viceroy",
+      "duracion": 480
+    },
+    {
+      "titulo": "El Hasaan",
+      "duracion": 315
+    },
+    {
+      "titulo": "Richard May Love Give Powell",
+      "duracion": 433
+    },
+    {
+      "titulo": "Metaphysics",
+      "duracion": 391
+    },
+    {
+      "titulo": "Epitome",
+      "duracion": 244
+    },
+    {
+      "titulo": "True Train",
+      "duracion": 662
+    },
+    {
+      "titulo": "True Train (Short Version)",
+      "duracion": 364
+    },
+    {
+      "titulo": "Viceroy (Short Version)",
+      "duracion": 328
+    },
+    {
+      "titulo": "Atlantic Ones (Short Version)",
+      "duracion": 285
+    }
+  ],
+  "temasFuente": "Spotify"
 }

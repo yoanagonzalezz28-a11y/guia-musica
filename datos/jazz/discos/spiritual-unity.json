@@ -65,5 +65,24 @@
       "acceso": "indirecta",
       "aporta": "DeVeaux y Giddins: \"was both cheered and ridiculed\". Registra también el cero de Kenny Dorham: \"not worth the paper it takes to review it\"."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Ghosts: Ghosts: Variation 1",
+      "duracion": 312
+    },
+    {
+      "titulo": "The Wizard",
+      "duracion": 441
+    },
+    {
+      "titulo": "Spirits",
+      "duracion": 407
+    },
+    {
+      "titulo": "Ghosts: Ghosts: Variation 2",
+      "duracion": 602
+    }
+  ],
+  "temasFuente": "Spotify"
 }

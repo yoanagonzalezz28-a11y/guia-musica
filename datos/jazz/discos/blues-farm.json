@@ -54,5 +54,32 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Blues Farm",
+      "duracion": 486
+    },
+    {
+      "titulo": "A Small Ballad",
+      "duracion": 340
+    },
+    {
+      "titulo": "Django",
+      "duracion": 331
+    },
+    {
+      "titulo": "A Hymn for Him",
+      "duracion": 495
+    },
+    {
+      "titulo": "Two Beat Johnson",
+      "duracion": 170
+    },
+    {
+      "titulo": "R2, M1",
+      "duracion": 367
+    }
+  ],
+  "temasFuente": "Spotify"
 }

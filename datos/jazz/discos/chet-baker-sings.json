@@ -76,5 +76,64 @@
       "acceso": "completa",
       "aporta": "Ubica este disco entre los que le dieron más atención y elogios en los 50."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "That Old Feeling",
+      "duracion": 184
+    },
+    {
+      "titulo": "It's Always You - Vocal Version",
+      "duracion": 215
+    },
+    {
+      "titulo": "Like Someone In Love - Vocal Version",
+      "duracion": 146
+    },
+    {
+      "titulo": "My Ideal",
+      "duracion": 263
+    },
+    {
+      "titulo": "I've Never Been In Love Before - Vocal Version",
+      "duracion": 269
+    },
+    {
+      "titulo": "My Buddy - Vocal Version",
+      "duracion": 200
+    },
+    {
+      "titulo": "But Not For Me - Vocal Version",
+      "duracion": 184
+    },
+    {
+      "titulo": "Time After Time - Vocal Version",
+      "duracion": 167
+    },
+    {
+      "titulo": "I Get Along Without You Very Well (Except Sometimes) - Vocal Version",
+      "duracion": 180
+    },
+    {
+      "titulo": "My Funny Valentine",
+      "duracion": 141
+    },
+    {
+      "titulo": "There Will Never Be Another You - Vocal Version",
+      "duracion": 181
+    },
+    {
+      "titulo": "The Thrill Is Gone - Vocal Version",
+      "duracion": 171
+    },
+    {
+      "titulo": "I Fall In Love Too Easily",
+      "duracion": 201
+    },
+    {
+      "titulo": "Look For The Silver Lining",
+      "duracion": 159
+    }
+  ],
+  "temasFuente": "Spotify"
 }

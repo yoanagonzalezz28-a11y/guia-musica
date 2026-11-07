@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Down River",
+      "duracion": 56
+    },
+    {
+      "titulo": "Landmarks",
+      "duracion": 501
+    },
+    {
+      "titulo": "State Lines",
+      "duracion": 64
+    },
+    {
+      "titulo": "Ark.La.Tex.",
+      "duracion": 698
+    },
+    {
+      "titulo": "Shenandoah",
+      "duracion": 110
+    },
+    {
+      "titulo": "He Died Fighting",
+      "duracion": 336
+    },
+    {
+      "titulo": "Friends Call Her Dot",
+      "duracion": 245
+    },
+    {
+      "titulo": "Farewell Bluebird",
+      "duracion": 802
+    },
+    {
+      "titulo": "Bonnie Be Good",
+      "duracion": 239
+    },
+    {
+      "titulo": "Embers",
+      "duracion": 142
+    }
+  ],
+  "temasFuente": "Spotify"
 }

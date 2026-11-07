@@ -54,5 +54,44 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Opening Day",
+      "duracion": 421
+    },
+    {
+      "titulo": "La nuit",
+      "duracion": 629
+    },
+    {
+      "titulo": "Blue Maqams",
+      "duracion": 522
+    },
+    {
+      "titulo": "Bahia",
+      "duracion": 526
+    },
+    {
+      "titulo": "La passante",
+      "duracion": 246
+    },
+    {
+      "titulo": "Bom Dia Rio",
+      "duracion": 564
+    },
+    {
+      "titulo": "Persepolis's Mirage",
+      "duracion": 487
+    },
+    {
+      "titulo": "The Recovered Road To Al-Sham",
+      "duracion": 567
+    },
+    {
+      "titulo": "Unexpected Outcome",
+      "duracion": 659
+    }
+  ],
+  "temasFuente": "Spotify"
 }

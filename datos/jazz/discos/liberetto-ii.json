@@ -54,5 +54,56 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Grace",
+      "duracion": 188
+    },
+    {
+      "titulo": "Passacaglia",
+      "duracion": 268
+    },
+    {
+      "titulo": "Miniature",
+      "duracion": 304
+    },
+    {
+      "titulo": "Africa",
+      "duracion": 346
+    },
+    {
+      "titulo": "I Tima",
+      "duracion": 268
+    },
+    {
+      "titulo": "II Blå",
+      "duracion": 188
+    },
+    {
+      "titulo": "III Violet",
+      "duracion": 187
+    },
+    {
+      "titulo": "Swedish Song",
+      "duracion": 404
+    },
+    {
+      "titulo": "Eilat",
+      "duracion": 269
+    },
+    {
+      "titulo": "View from the Apple Tree",
+      "duracion": 153
+    },
+    {
+      "titulo": "The Truth",
+      "duracion": 233
+    },
+    {
+      "titulo": "Beautiful Darkness",
+      "duracion": 206
+    }
+  ],
+  "temasFuente": "Spotify"
 }

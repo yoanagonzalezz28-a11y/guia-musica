@@ -54,5 +54,68 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Kid",
+      "duracion": 441
+    },
+    {
+      "titulo": "Small Planet",
+      "duracion": 372
+    },
+    {
+      "titulo": "The Trickster",
+      "duracion": 394
+    },
+    {
+      "titulo": "Professor Strangeweather",
+      "duracion": 265
+    },
+    {
+      "titulo": "Lilac",
+      "duracion": 142
+    },
+    {
+      "titulo": "Aquarium",
+      "duracion": 413
+    },
+    {
+      "titulo": "Digital Society",
+      "duracion": 476
+    },
+    {
+      "titulo": "Siren",
+      "duracion": 482
+    },
+    {
+      "titulo": "Mandala",
+      "duracion": 292
+    },
+    {
+      "titulo": "Hearth",
+      "duracion": 91
+    },
+    {
+      "titulo": "The Fool",
+      "duracion": 311
+    },
+    {
+      "titulo": "Bells",
+      "duracion": 338
+    },
+    {
+      "titulo": "Rising Mind",
+      "duracion": 262
+    },
+    {
+      "titulo": "Good Morning",
+      "duracion": 324
+    },
+    {
+      "titulo": "Doors Open",
+      "duracion": 179
+    }
+  ],
+  "temasFuente": "Spotify"
 }

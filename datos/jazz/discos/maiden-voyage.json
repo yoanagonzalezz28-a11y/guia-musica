@@ -76,5 +76,28 @@
       "acceso": "indirecta",
       "aporta": "La Penguin Guide lo incluye en su colección esencial: \"a colossal achievement from a man still just 24 years old\"."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Maiden Voyage - Remastered 1999/Rudy Van Gelder Edition",
+      "duracion": 477
+    },
+    {
+      "titulo": "The Eye Of The Hurricane - Remastered 1999/Rudy Van Gelder Edition",
+      "duracion": 361
+    },
+    {
+      "titulo": "Little One - Remastered 1999/Rudy Van Gelder Edition",
+      "duracion": 527
+    },
+    {
+      "titulo": "Survival Of The Fittest - Remastered 1999/Rudy Van Gelder Edition",
+      "duracion": 603
+    },
+    {
+      "titulo": "Dolphin Dance - Remastered 1999/Rudy Van Gelder Edition",
+      "duracion": 556
+    }
+  ],
+  "temasFuente": "Spotify"
 }

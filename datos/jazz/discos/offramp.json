@@ -54,5 +54,36 @@
     "wikidata": null,
     "wikipedia": "Offramp"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Barcarole",
+      "duracion": 195
+    },
+    {
+      "titulo": "Are You Going With Me?",
+      "duracion": 527
+    },
+    {
+      "titulo": "Au Lait",
+      "duracion": 508
+    },
+    {
+      "titulo": "Eighteen",
+      "duracion": 306
+    },
+    {
+      "titulo": "Offramp",
+      "duracion": 356
+    },
+    {
+      "titulo": "James",
+      "duracion": 402
+    },
+    {
+      "titulo": "The Bat Pt.2",
+      "duracion": 230
+    }
+  ],
+  "temasFuente": "Spotify"
 }

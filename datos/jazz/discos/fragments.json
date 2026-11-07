@@ -54,5 +54,44 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Memories",
+      "duracion": 443
+    },
+    {
+      "titulo": "Monica Jane",
+      "duracion": 423
+    },
+    {
+      "titulo": "Line Down",
+      "duracion": 429
+    },
+    {
+      "titulo": "Seven",
+      "duracion": 336
+    },
+    {
+      "titulo": "Closer",
+      "duracion": 301
+    },
+    {
+      "titulo": "Once Around The Park",
+      "duracion": 394
+    },
+    {
+      "titulo": "Hand Dance",
+      "duracion": 167
+    },
+    {
+      "titulo": "For The Love Of Sarah",
+      "duracion": 336
+    },
+    {
+      "titulo": "Nothing Ever Was, Anyway",
+      "duracion": 362
+    }
+  ],
+  "temasFuente": "Spotify"
 }

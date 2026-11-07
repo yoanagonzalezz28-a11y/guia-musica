@@ -54,5 +54,56 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Humankind",
+      "duracion": 438
+    },
+    {
+      "titulo": "Dance Layan Dance",
+      "duracion": 277
+    },
+    {
+      "titulo": "Al Wadood",
+      "duracion": 421
+    },
+    {
+      "titulo": "Ruby Like Wine (To Sheikh Muhammed Omran)",
+      "duracion": 363
+    },
+    {
+      "titulo": "Journey In Bergama",
+      "duracion": 303
+    },
+    {
+      "titulo": "Like Dust I May Rise (To Shiraz)",
+      "duracion": 299
+    },
+    {
+      "titulo": "Nasikabhushani (To Zakir)",
+      "duracion": 199
+    },
+    {
+      "titulo": "Shaanti 'Atihi Devo Bhava' Suite",
+      "duracion": 260
+    },
+    {
+      "titulo": "Chakkaradaar 'Atihi Devo Bhava' Suite",
+      "duracion": 338
+    },
+    {
+      "titulo": "Satya 'Satyagraha' Suite",
+      "duracion": 295
+    },
+    {
+      "titulo": "Satyagraha 'Satyagraha' Suite",
+      "duracion": 402
+    },
+    {
+      "titulo": "Good Morning Mumbai (To Zakir)",
+      "duracion": 388
+    }
+  ],
+  "temasFuente": "Spotify"
 }

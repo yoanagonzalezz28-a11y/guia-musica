@@ -59,5 +59,32 @@
     "wikidata": null,
     "wikipedia": "John_Coltrane_and_Johnny_Hartman"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "They Say It's Wonderful",
+      "duracion": 319
+    },
+    {
+      "titulo": "Dedicated To You",
+      "duracion": 330
+    },
+    {
+      "titulo": "My One And Only Love",
+      "duracion": 294
+    },
+    {
+      "titulo": "Lush Life",
+      "duracion": 327
+    },
+    {
+      "titulo": "You Are Too Beautiful",
+      "duracion": 334
+    },
+    {
+      "titulo": "Autumn Serenade",
+      "duracion": 260
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -54,5 +54,32 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Fuchsia Swing Song",
+      "duracion": 363
+    },
+    {
+      "titulo": "Downstairs Blues Upstairs",
+      "duracion": 333
+    },
+    {
+      "titulo": "Cyclic Episode",
+      "duracion": 417
+    },
+    {
+      "titulo": "Luminous Monolith",
+      "duracion": 391
+    },
+    {
+      "titulo": "Beatrice",
+      "duracion": 372
+    },
+    {
+      "titulo": "Ellipsis",
+      "duracion": 461
+    }
+  ],
+  "temasFuente": "Spotify"
 }

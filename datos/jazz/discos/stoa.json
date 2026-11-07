@@ -52,5 +52,28 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Modul 36",
+      "duracion": 918
+    },
+    {
+      "titulo": "Modul 35",
+      "duracion": 552
+    },
+    {
+      "titulo": "Modul 32",
+      "duracion": 573
+    },
+    {
+      "titulo": "Modul 33",
+      "duracion": 642
+    },
+    {
+      "titulo": "Modul 38_17",
+      "duracion": 750
+    }
+  ],
+  "temasFuente": "Spotify"
 }

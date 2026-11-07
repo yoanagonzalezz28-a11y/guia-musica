@@ -101,5 +101,36 @@
   "resenaExtensa": [
     "\"Giant Steps\" y \"Countdown\" usan un ciclo de tónicas a distancia de tercera mayor que obliga a improvisar a toda velocidad; Tommy Flanagan, al piano, casi no llega en la toma que quedó.",
     "Fue su primer disco con todos temas propios. Incluye también \"Naima\", una balada dedicada a su esposa, que muestra el otro lado de su sonido."
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Giant Steps - Mono",
+      "duracion": 288
+    },
+    {
+      "titulo": "Cousin Mary - Mono",
+      "duracion": 350
+    },
+    {
+      "titulo": "Countdown - Mono",
+      "duracion": 145
+    },
+    {
+      "titulo": "Spiral - Mono",
+      "duracion": 361
+    },
+    {
+      "titulo": "Syeeda's Song Flute - Mono",
+      "duracion": 426
+    },
+    {
+      "titulo": "Naima - Mono",
+      "duracion": 265
+    },
+    {
+      "titulo": "Mr. P.C. - Mono",
+      "duracion": 418
+    }
+  ],
+  "temasFuente": "Spotify"
 }

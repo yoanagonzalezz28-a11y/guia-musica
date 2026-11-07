@@ -54,5 +54,32 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Reflection",
+      "duracion": 264
+    },
+    {
+      "titulo": "Sugar Ray",
+      "duracion": 386
+    },
+    {
+      "titulo": "Solitaire",
+      "duracion": 532
+    },
+    {
+      "titulo": "After Hours",
+      "duracion": 678
+    },
+    {
+      "titulo": "Sneakin' Around",
+      "duracion": 264
+    },
+    {
+      "titulo": "Our Delight",
+      "duracion": 243
+    }
+  ],
+  "temasFuente": "Spotify"
 }

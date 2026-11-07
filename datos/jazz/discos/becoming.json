@@ -54,5 +54,68 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Shot Out Of A Cannon",
+      "duracion": 72
+    },
+    {
+      "titulo": "Becoming",
+      "duracion": 128
+    },
+    {
+      "titulo": "Take In The Story",
+      "duracion": 160
+    },
+    {
+      "titulo": "Southside V.1",
+      "duracion": 77
+    },
+    {
+      "titulo": "Dandy",
+      "duracion": 93
+    },
+    {
+      "titulo": "The Rhythm Changes",
+      "duracion": 103
+    },
+    {
+      "titulo": "Song For Fraser",
+      "duracion": 140
+    },
+    {
+      "titulo": "Announcement",
+      "duracion": 49
+    },
+    {
+      "titulo": "Detail",
+      "duracion": 115
+    },
+    {
+      "titulo": "Fashion Then and Now",
+      "duracion": 134
+    },
+    {
+      "titulo": "Provocation",
+      "duracion": 172
+    },
+    {
+      "titulo": "Connections",
+      "duracion": 67
+    },
+    {
+      "titulo": "Looking Forward",
+      "duracion": 105
+    },
+    {
+      "titulo": "I Am Becoming",
+      "duracion": 263
+    },
+    {
+      "titulo": "Southside V.2",
+      "duracion": 164
+    }
+  ],
+  "temasFuente": "Spotify"
 }

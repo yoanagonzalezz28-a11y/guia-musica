@@ -59,5 +59,28 @@
     "wikidata": null,
     "wikipedia": "Smokin%27_at_the_Half_Note"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "No Blues",
+      "duracion": 782
+    },
+    {
+      "titulo": "If You Could See Me Now",
+      "duracion": 503
+    },
+    {
+      "titulo": "Unit 7",
+      "duracion": 406
+    },
+    {
+      "titulo": "Four On Six",
+      "duracion": 406
+    },
+    {
+      "titulo": "What's New?",
+      "duracion": 374
+    }
+  ],
+  "temasFuente": "Spotify"
 }

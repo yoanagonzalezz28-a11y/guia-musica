@@ -75,5 +75,76 @@
       "acceso": "completa",
       "aporta": "NPR escucha \"Aries\" con alguien que no sabe de jazz, y la describe entre el stride y la música clásica moderna."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Aries - 1",
+      "duracion": 111
+    },
+    {
+      "titulo": "Taurus",
+      "duracion": 156
+    },
+    {
+      "titulo": "Gemini",
+      "duracion": 132
+    },
+    {
+      "titulo": "Cancer - 1",
+      "duracion": 155
+    },
+    {
+      "titulo": "Leo",
+      "duracion": 105
+    },
+    {
+      "titulo": "Virgo - 1",
+      "duracion": 149
+    },
+    {
+      "titulo": "Libra",
+      "duracion": 132
+    },
+    {
+      "titulo": "Scorpio - 1",
+      "duracion": 184
+    },
+    {
+      "titulo": "Sagittarius",
+      "duracion": 112
+    },
+    {
+      "titulo": "Capricorn",
+      "duracion": 161
+    },
+    {
+      "titulo": "Aquarius - 1",
+      "duracion": 221
+    },
+    {
+      "titulo": "Pisces",
+      "duracion": 155
+    },
+    {
+      "titulo": "Aries - 2",
+      "duracion": 140
+    },
+    {
+      "titulo": "Cancer - 2",
+      "duracion": 158
+    },
+    {
+      "titulo": "Virgo - 2",
+      "duracion": 167
+    },
+    {
+      "titulo": "Scorpio - 2",
+      "duracion": 193
+    },
+    {
+      "titulo": "Aquarius - 2",
+      "duracion": 161
+    }
+  ],
+  "temasFuente": "Spotify"
 }

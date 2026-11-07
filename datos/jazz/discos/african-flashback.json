@@ -52,5 +52,60 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Berbère",
+      "duracion": 279
+    },
+    {
+      "titulo": "Derrière le sable",
+      "duracion": 231
+    },
+    {
+      "titulo": "Harvest",
+      "duracion": 147
+    },
+    {
+      "titulo": "Entre chien et loup",
+      "duracion": 153
+    },
+    {
+      "titulo": "Three Children",
+      "duracion": 242
+    },
+    {
+      "titulo": "African Panther 69",
+      "duracion": 142
+    },
+    {
+      "titulo": "Surreal Politik",
+      "duracion": 339
+    },
+    {
+      "titulo": "Viso di donna",
+      "duracion": 219
+    },
+    {
+      "titulo": "Fô lion",
+      "duracion": 321
+    },
+    {
+      "titulo": "Le long du temps",
+      "duracion": 264
+    },
+    {
+      "titulo": "55 Wheels",
+      "duracion": 277
+    },
+    {
+      "titulo": "Look the Lobis",
+      "duracion": 273
+    },
+    {
+      "titulo": "Dieu n'existe pas",
+      "duracion": 253
+    }
+  ],
+  "temasFuente": "Spotify"
 }

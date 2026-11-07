@@ -104,5 +104,28 @@
       "acceso": "completa",
       "aporta": "DownBeat cuenta que, con tres vientos, Shorter y sus compañeros ampliaron lo que la banda podía hacer. Reggie Workman, que entró en 1962, recuerda que le llevaban arreglos para hacerlo cambiar."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Mosaic - 2005 Remaster",
+      "duracion": 493
+    },
+    {
+      "titulo": "Down Under - Remastered 2005",
+      "duracion": 329
+    },
+    {
+      "titulo": "Children Of The Night - 2005 Remaster",
+      "duracion": 532
+    },
+    {
+      "titulo": "Arabia - 2005 Remaster",
+      "duracion": 550
+    },
+    {
+      "titulo": "Crisis - Remastered 2005",
+      "duracion": 514
+    }
+  ],
+  "temasFuente": "Spotify"
 }

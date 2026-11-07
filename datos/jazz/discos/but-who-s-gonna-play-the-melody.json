@@ -54,5 +54,68 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Green Slime",
+      "duracion": 356
+    },
+    {
+      "titulo": "Barnyard Disturbance",
+      "duracion": 283
+    },
+    {
+      "titulo": "Bebop, of Course",
+      "duracion": 209
+    },
+    {
+      "titulo": "Bass Duo #1",
+      "duracion": 316
+    },
+    {
+      "titulo": "Solar",
+      "duracion": 240
+    },
+    {
+      "titulo": "Canon",
+      "duracion": 273
+    },
+    {
+      "titulo": "Philly Slop",
+      "duracion": 206
+    },
+    {
+      "titulo": "Interlude #1",
+      "duracion": 115
+    },
+    {
+      "titulo": "FRB 2DB",
+      "duracion": 258
+    },
+    {
+      "titulo": "Bewitched, Bothered and Bewildered",
+      "duracion": 362
+    },
+    {
+      "titulo": "Bass Duo #2",
+      "duracion": 369
+    },
+    {
+      "titulo": "Lullaby for a Ladybug",
+      "duracion": 306
+    },
+    {
+      "titulo": "Days of Wine and Roses",
+      "duracion": 336
+    },
+    {
+      "titulo": "Interlude #2",
+      "duracion": 105
+    },
+    {
+      "titulo": "Tennessee Blues",
+      "duracion": 242
+    }
+  ],
+  "temasFuente": "Spotify"
 }

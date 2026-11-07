@@ -59,5 +59,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Oleo De Mujer Con Sombrero",
+      "duracion": 511
+    },
+    {
+      "titulo": "Natt",
+      "duracion": 488
+    },
+    {
+      "titulo": "All My Life",
+      "duracion": 385
+    },
+    {
+      "titulo": "Eleventh Of January",
+      "duracion": 355
+    },
+    {
+      "titulo": "War Orphans",
+      "duracion": 376
+    },
+    {
+      "titulo": "Sediment",
+      "duracion": 321
+    },
+    {
+      "titulo": "Bengali Blue",
+      "duracion": 497
+    },
+    {
+      "titulo": "Melancholia",
+      "duracion": 329
+    }
+  ],
+  "temasFuente": "Spotify"
 }

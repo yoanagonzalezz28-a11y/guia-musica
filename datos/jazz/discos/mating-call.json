@@ -54,5 +54,32 @@
     "wikidata": null,
     "wikipedia": "Mating_Call"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Mating Call",
+      "duracion": 334
+    },
+    {
+      "titulo": "Gnid",
+      "duracion": 307
+    },
+    {
+      "titulo": "Soultrane - Rudy Van Gelder Remaster",
+      "duracion": 321
+    },
+    {
+      "titulo": "On A Misty Night",
+      "duracion": 379
+    },
+    {
+      "titulo": "Romas",
+      "duracion": 410
+    },
+    {
+      "titulo": "Super Jet",
+      "duracion": 354
+    }
+  ],
+  "temasFuente": "Spotify"
 }

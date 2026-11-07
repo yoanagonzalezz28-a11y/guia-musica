@@ -54,5 +54,44 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Fungii Mama",
+      "duracion": 344
+    },
+    {
+      "titulo": "Slow Grind",
+      "duracion": 319
+    },
+    {
+      "titulo": "Flight Path",
+      "duracion": 552
+    },
+    {
+      "titulo": "Dreams",
+      "duracion": 399
+    },
+    {
+      "titulo": "Pedra Bonita",
+      "duracion": 252
+    },
+    {
+      "titulo": "My Old Flame",
+      "duracion": 541
+    },
+    {
+      "titulo": "Pent-Up House",
+      "duracion": 568
+    },
+    {
+      "titulo": "So What",
+      "duracion": 592
+    },
+    {
+      "titulo": "Embraceable You",
+      "duracion": 587
+    }
+  ],
+  "temasFuente": "Spotify"
 }

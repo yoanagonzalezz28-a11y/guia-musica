@@ -54,5 +54,24 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Moanin'",
+      "duracion": 302
+    },
+    {
+      "titulo": "Night In Tunisia",
+      "duracion": 366
+    },
+    {
+      "titulo": "Politely",
+      "duracion": 401
+    },
+    {
+      "titulo": "The Drum Thunder Suite",
+      "duracion": 403
+    }
+  ],
+  "temasFuente": "Spotify"
 }

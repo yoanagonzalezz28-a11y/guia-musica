@@ -54,5 +54,36 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Until We Meet Again",
+      "duracion": 284
+    },
+    {
+      "titulo": "Catalysts",
+      "duracion": 304
+    },
+    {
+      "titulo": "People's Park",
+      "duracion": 323
+    },
+    {
+      "titulo": "Kings Highway",
+      "duracion": 780
+    },
+    {
+      "titulo": "Look To The Hills",
+      "duracion": 261
+    },
+    {
+      "titulo": "Migration",
+      "duracion": 906
+    },
+    {
+      "titulo": "God Be With You",
+      "duracion": 154
+    }
+  ],
+  "temasFuente": "Spotify"
 }

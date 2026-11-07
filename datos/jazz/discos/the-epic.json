@@ -96,5 +96,76 @@
       "acceso": "completa",
       "aporta": "Cuenta su vínculo con Kendrick Lamar y el colectivo West Coast Get Down."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Change of the Guard",
+      "duracion": 736
+    },
+    {
+      "titulo": "Askim",
+      "duracion": 755
+    },
+    {
+      "titulo": "Isabelle",
+      "duracion": 733
+    },
+    {
+      "titulo": "Final Thought",
+      "duracion": 392
+    },
+    {
+      "titulo": "The Next Step",
+      "duracion": 889
+    },
+    {
+      "titulo": "The Rhythm Changes",
+      "duracion": 465
+    },
+    {
+      "titulo": "Miss Understanding",
+      "duracion": 526
+    },
+    {
+      "titulo": "Leroy and Lanisha",
+      "duracion": 564
+    },
+    {
+      "titulo": "Re Run",
+      "duracion": 500
+    },
+    {
+      "titulo": "Seven Prayers",
+      "duracion": 456
+    },
+    {
+      "titulo": "Henrietta Our Hero",
+      "duracion": 434
+    },
+    {
+      "titulo": "The Magnificent 7",
+      "duracion": 767
+    },
+    {
+      "titulo": "Re Run Home",
+      "duracion": 846
+    },
+    {
+      "titulo": "Cherokee",
+      "duracion": 494
+    },
+    {
+      "titulo": "Clair de Lune",
+      "duracion": 668
+    },
+    {
+      "titulo": "Malcolm’s Theme",
+      "duracion": 521
+    },
+    {
+      "titulo": "The Message",
+      "duracion": 670
+    }
+  ],
+  "temasFuente": "Spotify"
 }

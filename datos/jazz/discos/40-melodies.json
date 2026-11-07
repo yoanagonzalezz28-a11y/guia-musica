@@ -54,5 +54,180 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "True Sorry - Duo Version",
+      "duracion": 249
+    },
+    {
+      "titulo": "Free Spirit - Duo Version",
+      "duracion": 262
+    },
+    {
+      "titulo": "Beirut - Duo Version",
+      "duracion": 277
+    },
+    {
+      "titulo": "Happy Face - Duo Version",
+      "duracion": 247
+    },
+    {
+      "titulo": "Hashish - Duo Version",
+      "duracion": 157
+    },
+    {
+      "titulo": "Défilé 1962 - Duo Version",
+      "duracion": 234
+    },
+    {
+      "titulo": "Harlem - Duo Version",
+      "duracion": 272
+    },
+    {
+      "titulo": "Red & Black Light - Duo Version",
+      "duracion": 192
+    },
+    {
+      "titulo": "Kalthoum (Movement I) - Duo Version",
+      "duracion": 218
+    },
+    {
+      "titulo": "Esse Emme - Duo Version",
+      "duracion": 196
+    },
+    {
+      "titulo": "S3NS - Duo Version",
+      "duracion": 281
+    },
+    {
+      "titulo": "Celle que vous croyez - Duo Version",
+      "duracion": 220
+    },
+    {
+      "titulo": "InPressi - Duo Version",
+      "duracion": 228
+    },
+    {
+      "titulo": "Diaspora - Duo Version",
+      "duracion": 174
+    },
+    {
+      "titulo": "Les Quais - Duo Version",
+      "duracion": 186
+    },
+    {
+      "titulo": "Will Soon Be a Woman - Duo Version",
+      "duracion": 189
+    },
+    {
+      "titulo": "Essentielles - Duo Version",
+      "duracion": 128
+    },
+    {
+      "titulo": "Radio Magallanes - Duo Version",
+      "duracion": 335
+    },
+    {
+      "titulo": "Maeva in Wonderland - Duo Version",
+      "duracion": 275
+    },
+    {
+      "titulo": "Surprises - Duo Version",
+      "duracion": 254
+    },
+    {
+      "titulo": "L'Anniversaire - Duo Version",
+      "duracion": 144
+    },
+    {
+      "titulo": "Levantine Symphony No. 1 - Duo Version",
+      "duracion": 287
+    },
+    {
+      "titulo": "Una Rosa Blanca - Duo Version",
+      "duracion": 164
+    },
+    {
+      "titulo": "Improbable - Duo Version",
+      "duracion": 237
+    },
+    {
+      "titulo": "Le Grand Voyage - Duo Version",
+      "duracion": 188
+    },
+    {
+      "titulo": "Radiance - Duo Version",
+      "duracion": 175
+    },
+    {
+      "titulo": "L'Heure du T - Duo Version",
+      "duracion": 188
+    },
+    {
+      "titulo": "All I Can't Say - Duo Version",
+      "duracion": 191
+    },
+    {
+      "titulo": "Gebrayel - Duo Version",
+      "duracion": 119
+    },
+    {
+      "titulo": "Marseille - Duo Version",
+      "duracion": 229
+    },
+    {
+      "titulo": "Your Soul - Duo Version",
+      "duracion": 161
+    },
+    {
+      "titulo": "Shadows - Duo Version",
+      "duracion": 194
+    },
+    {
+      "titulo": "Goodnight Kiss - Duo Version",
+      "duracion": 230
+    },
+    {
+      "titulo": "Sensuality - Duo Version",
+      "duracion": 244
+    },
+    {
+      "titulo": "Questions & Answers - Duo Version",
+      "duracion": 209
+    },
+    {
+      "titulo": "Red Rose - Duo Version",
+      "duracion": 201
+    },
+    {
+      "titulo": "Election Night - Duo Version",
+      "duracion": 172
+    },
+    {
+      "titulo": "Ya Ha La - Duo Version",
+      "duracion": 138
+    },
+    {
+      "titulo": "Waiting - Duo Version",
+      "duracion": 188
+    },
+    {
+      "titulo": "Salma Ya Salama - Duo Version",
+      "duracion": 215
+    },
+    {
+      "titulo": "All Around the Wall",
+      "duracion": 183
+    },
+    {
+      "titulo": "Layla's Wedding",
+      "duracion": 148
+    },
+    {
+      "titulo": "If I",
+      "duracion": 376
+    }
+  ],
+  "temasFuente": "Spotify"
 }

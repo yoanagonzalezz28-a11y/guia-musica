@@ -54,5 +54,28 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Point Of Many Returns",
+      "duracion": 564
+    },
+    {
+      "titulo": "Dance Of The Tripedal",
+      "duracion": 610
+    },
+    {
+      "titulo": "Euterpe",
+      "duracion": 706
+    },
+    {
+      "titulo": "Mellifluous Cacophony",
+      "duracion": 541
+    },
+    {
+      "titulo": "Mellifluous Cacophony - Alternate Take",
+      "duracion": 545
+    }
+  ],
+  "temasFuente": "Spotify"
 }

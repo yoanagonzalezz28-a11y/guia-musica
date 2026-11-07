@@ -54,5 +54,64 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Call Me",
+      "duracion": 273
+    },
+    {
+      "titulo": "Treat Your Lady Right",
+      "duracion": 368
+    },
+    {
+      "titulo": "Butterfly Friend",
+      "duracion": 223
+    },
+    {
+      "titulo": "I Walk",
+      "duracion": 192
+    },
+    {
+      "titulo": "Art Deco",
+      "duracion": 173
+    },
+    {
+      "titulo": "Rappin' Recipe",
+      "duracion": 440
+    },
+    {
+      "titulo": "Reggae to the High Tower",
+      "duracion": 249
+    },
+    {
+      "titulo": "Alphabet City",
+      "duracion": 221
+    },
+    {
+      "titulo": "Bamako Love",
+      "duracion": 323
+    },
+    {
+      "titulo": "Kick (single version)",
+      "duracion": 247
+    },
+    {
+      "titulo": "Rappin' Recipe (Instrumental)",
+      "duracion": 441
+    },
+    {
+      "titulo": "Benoego",
+      "duracion": 229
+    },
+    {
+      "titulo": "Initiation (Demo)",
+      "duracion": 174
+    },
+    {
+      "titulo": "Treat Your Lady Right (Bim Bam Bom)",
+      "duracion": 372
+    }
+  ],
+  "temasFuente": "Spotify"
 }

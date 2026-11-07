@@ -55,5 +55,44 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Melodia De Arrabal",
+      "duracion": 332
+    },
+    {
+      "titulo": "Burrito Volver (3Am)",
+      "duracion": 284
+    },
+    {
+      "titulo": "Nos Miraran Pasar",
+      "duracion": 248
+    },
+    {
+      "titulo": "A Orillas Del Rin",
+      "duracion": 396
+    },
+    {
+      "titulo": "Burrito Cristal",
+      "duracion": 371
+    },
+    {
+      "titulo": "Volver",
+      "duracion": 535
+    },
+    {
+      "titulo": "Quien Te Ve",
+      "duracion": 389
+    },
+    {
+      "titulo": "Upstate",
+      "duracion": 265
+    },
+    {
+      "titulo": "Flores",
+      "duracion": 366
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -54,5 +54,60 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Confessions To My Unborn Daughter",
+      "duracion": 516
+    },
+    {
+      "titulo": "Jaya",
+      "duracion": 328
+    },
+    {
+      "titulo": "Henya Bass Intro",
+      "duracion": 49
+    },
+    {
+      "titulo": "Henya",
+      "duracion": 321
+    },
+    {
+      "titulo": "Far But Few Between",
+      "duracion": 117
+    },
+    {
+      "titulo": "With Love",
+      "duracion": 413
+    },
+    {
+      "titulo": "Regret (No More)",
+      "duracion": 276
+    },
+    {
+      "titulo": "Ayneh (Cora)",
+      "duracion": 70
+    },
+    {
+      "titulo": "My Name Is Oscar",
+      "duracion": 229
+    },
+    {
+      "titulo": "The Walls Of Lechuguilla",
+      "duracion": 329
+    },
+    {
+      "titulo": "What's New",
+      "duracion": 184
+    },
+    {
+      "titulo": "Tear Stained Suicide Manifesto",
+      "duracion": 296
+    },
+    {
+      "titulo": "Ayneh (Campbell)",
+      "duracion": 96
+    }
+  ],
+  "temasFuente": "Spotify"
 }

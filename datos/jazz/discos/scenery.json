@@ -89,5 +89,32 @@
       "acceso": "completa",
       "aporta": "Yokogao lo presenta como un disco ya emblemático del jazz japonés, valorado primero en Japón."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "It Could Happen To You",
+      "duracion": 257
+    },
+    {
+      "titulo": "I Want To Talk About You",
+      "duracion": 393
+    },
+    {
+      "titulo": "Early Summer",
+      "duracion": 644
+    },
+    {
+      "titulo": "Willow Weep For Me",
+      "duracion": 463
+    },
+    {
+      "titulo": "Autumn Leaves",
+      "duracion": 391
+    },
+    {
+      "titulo": "Scenery",
+      "duracion": 332
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -54,5 +54,56 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Intro - Live At Capitol Studios / 2014",
+      "duracion": 133
+    },
+    {
+      "titulo": "I Don't Even Care - Live At Capitol Studios / 2014",
+      "duracion": 462
+    },
+    {
+      "titulo": "Reckoner - Live At Capitol Studios / 2014",
+      "duracion": 307
+    },
+    {
+      "titulo": "Barangrill - Live At Capitol Studios / 2014",
+      "duracion": 427
+    },
+    {
+      "titulo": "In Case You Forgot - Live At Capitol Studios / 2014",
+      "duracion": 781
+    },
+    {
+      "titulo": "So Beautiful - Live At Capitol Studios / 2014",
+      "duracion": 460
+    },
+    {
+      "titulo": "The Worst - Live At Capitol Studios / 2014",
+      "duracion": 322
+    },
+    {
+      "titulo": "Good Morning - Live At Capitol Studios / 2014",
+      "duracion": 291
+    },
+    {
+      "titulo": "Stella By Starlight - Live At Capitol Studios / 2014",
+      "duracion": 278
+    },
+    {
+      "titulo": "Levels - Live At Capitol Studios / 2014",
+      "duracion": 458
+    },
+    {
+      "titulo": "Got Over - Live At Capitol Studios / 2014",
+      "duracion": 128
+    },
+    {
+      "titulo": "I'm Dying Of Thirst - Live At Capitol Studios / 2014",
+      "duracion": 273
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Prologu00001101",
+      "duracion": 23
+    },
+    {
+      "titulo": "VBlues",
+      "duracion": 408
+    },
+    {
+      "titulo": "It Will Get Better",
+      "duracion": 411
+    },
+    {
+      "titulo": "Tokyo Cookie",
+      "duracion": 488
+    },
+    {
+      "titulo": "Stumble",
+      "duracion": 446
+    },
+    {
+      "titulo": "Milton",
+      "duracion": 349
+    },
+    {
+      "titulo": "Home To You",
+      "duracion": 523
+    },
+    {
+      "titulo": "Little Song For You",
+      "duracion": 221
+    },
+    {
+      "titulo": "Clap Clap",
+      "duracion": 355
+    },
+    {
+      "titulo": "Do Re Mi Fa Sol",
+      "duracion": 326
+    }
+  ],
+  "temasFuente": "Spotify"
 }

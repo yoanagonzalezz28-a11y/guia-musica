@@ -59,5 +59,44 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Amanecer Contigo",
+      "duracion": 381
+    },
+    {
+      "titulo": "No Es Facil",
+      "duracion": 504
+    },
+    {
+      "titulo": "Uncerntradition",
+      "duracion": 462
+    },
+    {
+      "titulo": "Con Alma",
+      "duracion": 541
+    },
+    {
+      "titulo": "Cry with Me",
+      "duracion": 414
+    },
+    {
+      "titulo": "On the Way",
+      "duracion": 393
+    },
+    {
+      "titulo": "Feed the Lions",
+      "duracion": 369
+    },
+    {
+      "titulo": "Nothing or Everything",
+      "duracion": 477
+    },
+    {
+      "titulo": "Lazy Blues",
+      "duracion": 201
+    }
+  ],
+  "temasFuente": "Spotify"
 }

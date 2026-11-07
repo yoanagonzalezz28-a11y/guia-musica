@@ -54,5 +54,28 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Blues For Dracula",
+      "duracion": 497
+    },
+    {
+      "titulo": "Trick Street",
+      "duracion": 235
+    },
+    {
+      "titulo": "Fiesta",
+      "duracion": 628
+    },
+    {
+      "titulo": "Tune Up",
+      "duracion": 488
+    },
+    {
+      "titulo": "Ow!",
+      "duracion": 732
+    }
+  ],
+  "temasFuente": "Spotify"
 }

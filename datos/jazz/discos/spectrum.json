@@ -54,5 +54,48 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Quadrant 4",
+      "duracion": 267
+    },
+    {
+      "titulo": "Searching for the Right Door",
+      "duracion": 84
+    },
+    {
+      "titulo": "Spectrum",
+      "duracion": 310
+    },
+    {
+      "titulo": "Anxiety",
+      "duracion": 101
+    },
+    {
+      "titulo": "Taurian Matador",
+      "duracion": 184
+    },
+    {
+      "titulo": "Stratus",
+      "duracion": 590
+    },
+    {
+      "titulo": "To the Women in My Life",
+      "duracion": 51
+    },
+    {
+      "titulo": "Le Lis",
+      "duracion": 200
+    },
+    {
+      "titulo": "Snoopy's Search",
+      "duracion": 64
+    },
+    {
+      "titulo": "Red Baron",
+      "duracion": 397
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -54,5 +54,28 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Say It Loud (I'm Black And I'm Proud)",
+      "duracion": 452
+    },
+    {
+      "titulo": "Summertime",
+      "duracion": 350
+    },
+    {
+      "titulo": "Caravan",
+      "duracion": 323
+    },
+    {
+      "titulo": "Snake Bone",
+      "duracion": 571
+    },
+    {
+      "titulo": "Brother Soul",
+      "duracion": 497
+    }
+  ],
+  "temasFuente": "Spotify"
 }

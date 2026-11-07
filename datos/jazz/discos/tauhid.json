@@ -54,5 +54,20 @@
     "wikidata": null,
     "wikipedia": "Tauhid_(album)"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Upper Egypt & Lower Egypt - Medley",
+      "duracion": 976
+    },
+    {
+      "titulo": "Japan",
+      "duracion": 204
+    },
+    {
+      "titulo": "Medley: Aum-Venus-Capricorn Rising",
+      "duracion": 887
+    }
+  ],
+  "temasFuente": "Spotify"
 }

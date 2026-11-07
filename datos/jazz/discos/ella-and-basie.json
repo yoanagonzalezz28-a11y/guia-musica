@@ -54,5 +54,80 @@
     "wikidata": null,
     "wikipedia": "Ella_and_Basie!"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Honeysuckle Rose",
+      "duracion": 161
+    },
+    {
+      "titulo": "'Deed I Do",
+      "duracion": 163
+    },
+    {
+      "titulo": "Into Each Life Some Rain Must Fall",
+      "duracion": 199
+    },
+    {
+      "titulo": "Them There Eyes",
+      "duracion": 306
+    },
+    {
+      "titulo": "Dream A Little Dream Of Me",
+      "duracion": 246
+    },
+    {
+      "titulo": "Tea For Two",
+      "duracion": 196
+    },
+    {
+      "titulo": "Satin Doll",
+      "duracion": 195
+    },
+    {
+      "titulo": "I'm Beginning To See The Light",
+      "duracion": 244
+    },
+    {
+      "titulo": "Shiny Stockings",
+      "duracion": 213
+    },
+    {
+      "titulo": "My Last Affair",
+      "duracion": 196
+    },
+    {
+      "titulo": "Ain't Misbehavin'",
+      "duracion": 193
+    },
+    {
+      "titulo": "On The Sunny Side Of The Street",
+      "duracion": 185
+    },
+    {
+      "titulo": "My Last Affair",
+      "duracion": 198
+    },
+    {
+      "titulo": "My Last Affair",
+      "duracion": 202
+    },
+    {
+      "titulo": "Robbin's Nest (Breakdown)",
+      "duracion": 71
+    },
+    {
+      "titulo": "Robbin's Nest (Complete Take 1)",
+      "duracion": 204
+    },
+    {
+      "titulo": "Robbin's Nest (Complete Take 2)",
+      "duracion": 181
+    },
+    {
+      "titulo": "Robbin's Nest (Complete Take 3)",
+      "duracion": 176
+    }
+  ],
+  "temasFuente": "Spotify"
 }

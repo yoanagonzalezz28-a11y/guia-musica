@@ -54,5 +54,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Avail",
+      "duracion": 195
+    },
+    {
+      "titulo": "Slow Reactors",
+      "duracion": 352
+    },
+    {
+      "titulo": "Thrift Store Jewelry",
+      "duracion": 288
+    },
+    {
+      "titulo": "The Red Door",
+      "duracion": 243
+    },
+    {
+      "titulo": "Looking In Your Eyes",
+      "duracion": 239
+    },
+    {
+      "titulo": "Dovetail Nicely",
+      "duracion": 307
+    },
+    {
+      "titulo": "Undersea Reflection",
+      "duracion": 180
+    },
+    {
+      "titulo": "Love is the Answer",
+      "duracion": 455
+    }
+  ],
+  "temasFuente": "Spotify"
 }

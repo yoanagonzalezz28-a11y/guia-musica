@@ -54,5 +54,28 @@
     "wikidata": null,
     "wikipedia": "One_Step_Beyond_(Jackie_McLean_album)"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Saturday And Sunday - Remastered 2009/Rudy Van Gelder Edition",
+      "duracion": 631
+    },
+    {
+      "titulo": "Frankenstein - Remastered 2009/Rudy Van Gelder Edition",
+      "duracion": 507
+    },
+    {
+      "titulo": "Blue Rondo - Remastered 2009/Rudy Van Gelder Edition",
+      "duracion": 292
+    },
+    {
+      "titulo": "Ghost Town - Remastered 2009/Rudy Van Gelder Edition",
+      "duracion": 879
+    },
+    {
+      "titulo": "Saturday And Sunday - Alternate Take/Remastered 2009/Rudy Van Gelder Edition",
+      "duracion": 512
+    }
+  ],
+  "temasFuente": "Spotify"
 }

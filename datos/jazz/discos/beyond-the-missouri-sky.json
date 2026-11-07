@@ -54,5 +54,60 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Waltz For Ruth",
+      "duracion": 268
+    },
+    {
+      "titulo": "Our Spanish Love Song",
+      "duracion": 340
+    },
+    {
+      "titulo": "Message To A Friend",
+      "duracion": 373
+    },
+    {
+      "titulo": "Two For The Road",
+      "duracion": 316
+    },
+    {
+      "titulo": "First Song",
+      "duracion": 397
+    },
+    {
+      "titulo": "The Moon Is A Harsh Mistress",
+      "duracion": 245
+    },
+    {
+      "titulo": "Precious Jewel",
+      "duracion": 227
+    },
+    {
+      "titulo": "He's Gone Away",
+      "duracion": 258
+    },
+    {
+      "titulo": "The Moon Song",
+      "duracion": 416
+    },
+    {
+      "titulo": "Tears Of Rain",
+      "duracion": 330
+    },
+    {
+      "titulo": "Cinema Paradiso [Love Theme]",
+      "duracion": 215
+    },
+    {
+      "titulo": "Cinema Paradiso [Main Theme]",
+      "duracion": 264
+    },
+    {
+      "titulo": "Spiritual",
+      "duracion": 502
+    }
+  ],
+  "temasFuente": "Spotify"
 }

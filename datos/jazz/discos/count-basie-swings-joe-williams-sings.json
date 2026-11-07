@@ -54,5 +54,56 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Every Day I Have The Blues",
+      "duracion": 326
+    },
+    {
+      "titulo": "The Comeback",
+      "duracion": 327
+    },
+    {
+      "titulo": "Alright, Okay, You Win",
+      "duracion": 182
+    },
+    {
+      "titulo": "In The Evening (When The Sun Goes Down)",
+      "duracion": 214
+    },
+    {
+      "titulo": "Roll 'Em Pete",
+      "duracion": 191
+    },
+    {
+      "titulo": "Teach Me Tonight",
+      "duracion": 182
+    },
+    {
+      "titulo": "My Baby Upsets Me",
+      "duracion": 176
+    },
+    {
+      "titulo": "Please Send Me Someone To Love",
+      "duracion": 210
+    },
+    {
+      "titulo": "Ev'ry Day (I Fall In Love)",
+      "duracion": 223
+    },
+    {
+      "titulo": "As Long As I Love You",
+      "duracion": 184
+    },
+    {
+      "titulo": "Stop! Don't!",
+      "duracion": 153
+    },
+    {
+      "titulo": "Too Close For Comfort",
+      "duracion": 173
+    }
+  ],
+  "temasFuente": "Spotify"
 }

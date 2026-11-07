@@ -52,5 +52,44 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "My Queen Is Ada Eastman",
+      "duracion": 400
+    },
+    {
+      "titulo": "My Queen Is Mamie Phipps Clark",
+      "duracion": 330
+    },
+    {
+      "titulo": "My Queen Is Harriet Tubman",
+      "duracion": 338
+    },
+    {
+      "titulo": "My Queen Is Anna Julia Cooper",
+      "duracion": 305
+    },
+    {
+      "titulo": "My Queen Is Angela Davis",
+      "duracion": 394
+    },
+    {
+      "titulo": "My Queen Is Nanny Of The Maroons",
+      "duracion": 402
+    },
+    {
+      "titulo": "My Queen Is Yaa Asantewaa",
+      "duracion": 422
+    },
+    {
+      "titulo": "My Queen Is Albertina Sisulu",
+      "duracion": 315
+    },
+    {
+      "titulo": "My Queen Is Doreen Lawrence",
+      "duracion": 408
+    }
+  ],
+  "temasFuente": "Spotify"
 }

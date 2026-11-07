@@ -54,5 +54,44 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Alive",
+      "duracion": 545
+    },
+    {
+      "titulo": "Wanderer",
+      "duracion": 540
+    },
+    {
+      "titulo": "Dreamer",
+      "duracion": 512
+    },
+    {
+      "titulo": "Seeker",
+      "duracion": 446
+    },
+    {
+      "titulo": "Player",
+      "duracion": 553
+    },
+    {
+      "titulo": "Warrior",
+      "duracion": 540
+    },
+    {
+      "titulo": "Firefly",
+      "duracion": 452
+    },
+    {
+      "titulo": "Spirit",
+      "duracion": 496
+    },
+    {
+      "titulo": "Life Goes On",
+      "duracion": 409
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -81,5 +81,116 @@
       "acceso": "completa",
       "aporta": "Ante un disco de Sherman Irby, Charles McPherson comenta: \"Wynton's sound and approach have changed a bit since early on\"."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Calling The Indians Out - Part 1",
+      "duracion": 325
+    },
+    {
+      "titulo": "Move Over",
+      "duracion": 605
+    },
+    {
+      "titulo": "You Don't Hear No Drums",
+      "duracion": 710
+    },
+    {
+      "titulo": "The Market Place",
+      "duracion": 361
+    },
+    {
+      "titulo": "Soul For Sale",
+      "duracion": 368
+    },
+    {
+      "titulo": "Plantation Coffle March",
+      "duracion": 642
+    },
+    {
+      "titulo": "Work Song (Blood On The Fields)",
+      "duracion": 507
+    },
+    {
+      "titulo": "Lady's Lament",
+      "duracion": 376
+    },
+    {
+      "titulo": "Flyng High",
+      "duracion": 125
+    },
+    {
+      "titulo": "Oh We Have a Friend in Jesus",
+      "duracion": 247
+    },
+    {
+      "titulo": "God Don't Like Ugly",
+      "duracion": 485
+    },
+    {
+      "titulo": "Juba And A Brown Squaw",
+      "duracion": 366
+    },
+    {
+      "titulo": "Follow The Drinking Gourd - Part 1",
+      "duracion": 140
+    },
+    {
+      "titulo": "My Soul Fell Down",
+      "duracion": 138
+    },
+    {
+      "titulo": "Forty Lashes",
+      "duracion": 450
+    },
+    {
+      "titulo": "What A Fool I've Been",
+      "duracion": 154
+    },
+    {
+      "titulo": "Back To Basics",
+      "duracion": 688
+    },
+    {
+      "titulo": "I Hold out My Hands",
+      "duracion": 457
+    },
+    {
+      "titulo": "Look And See",
+      "duracion": 306
+    },
+    {
+      "titulo": "The Sun Is Gonna Shine - Part 1",
+      "duracion": 137
+    },
+    {
+      "titulo": "Will The Sun Come Out?",
+      "duracion": 550
+    },
+    {
+      "titulo": "The Sun Is Gonna Shine - Part 2",
+      "duracion": 402
+    },
+    {
+      "titulo": "Chant To Call The Indians Out",
+      "duracion": 237
+    },
+    {
+      "titulo": "Calling The Indians Out - Part 2",
+      "duracion": 337
+    },
+    {
+      "titulo": "Follow The Drinking Gourd - Part 2",
+      "duracion": 104
+    },
+    {
+      "titulo": "Freedom Is In the Trying",
+      "duracion": 165
+    },
+    {
+      "titulo": "Due North",
+      "duracion": 335
+    }
+  ],
+  "temasFuente": "Spotify"
 }

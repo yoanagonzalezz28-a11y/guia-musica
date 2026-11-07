@@ -59,5 +59,56 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Studio 2",
+      "duracion": 20
+    },
+    {
+      "titulo": "Acuático",
+      "duracion": 328
+    },
+    {
+      "titulo": "Siete maravillas",
+      "duracion": 402
+    },
+    {
+      "titulo": "Spiral",
+      "duracion": 39
+    },
+    {
+      "titulo": "Lolo",
+      "duracion": 373
+    },
+    {
+      "titulo": "Multifónico",
+      "duracion": 8
+    },
+    {
+      "titulo": "Nutibara",
+      "duracion": 260
+    },
+    {
+      "titulo": "Adrenalina",
+      "duracion": 320
+    },
+    {
+      "titulo": "Bordadura",
+      "duracion": 364
+    },
+    {
+      "titulo": "1933",
+      "duracion": 314
+    },
+    {
+      "titulo": "Fogloba",
+      "duracion": 365
+    },
+    {
+      "titulo": "Sevilla",
+      "duracion": 387
+    }
+  ],
+  "temasFuente": "Spotify"
 }

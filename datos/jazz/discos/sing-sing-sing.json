@@ -54,5 +54,208 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Sing, Sing, Sing (Parts 1 & 2) [Live]",
+      "duracion": 442
+    },
+    {
+      "titulo": "Bugle Call Rag (Live)",
+      "duracion": 169
+    },
+    {
+      "titulo": "Chicago",
+      "duracion": 180
+    },
+    {
+      "titulo": "Let's Dance (Live) (Instrumental) [Live] [Instrumental Version]",
+      "duracion": 46
+    },
+    {
+      "titulo": "All the Cats Join In",
+      "duracion": 263
+    },
+    {
+      "titulo": "King Porter Stomp (Live)",
+      "duracion": 183
+    },
+    {
+      "titulo": "Don't Be That Way (Live)",
+      "duracion": 184
+    },
+    {
+      "titulo": "Stompin' at the Savoy (Instrumental)",
+      "duracion": 172
+    },
+    {
+      "titulo": "Stealin' Apples (Instrumental) [Instrumental Version]",
+      "duracion": 190
+    },
+    {
+      "titulo": "Seven Come Eleven",
+      "duracion": 218
+    },
+    {
+      "titulo": "Puttin' on the Ritz",
+      "duracion": 184
+    },
+    {
+      "titulo": "And the Angels Sing (Live)",
+      "duracion": 194
+    },
+    {
+      "titulo": "Blue (And Broken Hearted)",
+      "duracion": 179
+    },
+    {
+      "titulo": "Avalon (Live)",
+      "duracion": 195
+    },
+    {
+      "titulo": "All I Do Is Dream of You",
+      "duracion": 142
+    },
+    {
+      "titulo": "You Turned the Tables on Me",
+      "duracion": 188
+    },
+    {
+      "titulo": "Jumpin' at the Woodside (Instrumental) [Instrumental Version]",
+      "duracion": 211
+    },
+    {
+      "titulo": "You Brought a New Kind of Love to Me (Instrumental) [Instrumental Version]",
+      "duracion": 171
+    },
+    {
+      "titulo": "It's Been So Long (Live)",
+      "duracion": 177
+    },
+    {
+      "titulo": "Everything I've Got Belongs to You",
+      "duracion": 234
+    },
+    {
+      "titulo": "At Sundown",
+      "duracion": 147
+    },
+    {
+      "titulo": "I Never Knew (I Could Love Anybody Like I'm Loving You)",
+      "duracion": 185
+    },
+    {
+      "titulo": "There's a Small Hotel (Instrumental) [Instrumental Version]",
+      "duracion": 181
+    },
+    {
+      "titulo": "Down South Camp Meetin' (Live)",
+      "duracion": 190
+    },
+    {
+      "titulo": "Bye Bye Pretty Baby",
+      "duracion": 149
+    },
+    {
+      "titulo": "What Can I Say After I Say I'm Sorry (Instrumental) [Instrumental Version]",
+      "duracion": 190
+    },
+    {
+      "titulo": "Moonglow (Live) (Instrumental) [Instrumental Version]",
+      "duracion": 207
+    },
+    {
+      "titulo": "Get Happy (Instrumental) [Instrumental Version]",
+      "duracion": 184
+    },
+    {
+      "titulo": "Rose Room (Instrumental) [Instrumental Version]",
+      "duracion": 237
+    },
+    {
+      "titulo": "Lazy River (Instrumental) [Instrumental Version]",
+      "duracion": 181
+    },
+    {
+      "titulo": "There'll Be some Changes Made (Instrumental) [Instrumental Version]",
+      "duracion": 191
+    },
+    {
+      "titulo": "Alicia's Blues (Instrumental) (Live) [Instrumental Version]",
+      "duracion": 224
+    },
+    {
+      "titulo": "No, Baby, No",
+      "duracion": 179
+    },
+    {
+      "titulo": "Good-Bye (Live)",
+      "duracion": 195
+    },
+    {
+      "titulo": "Mean to Me",
+      "duracion": 180
+    },
+    {
+      "titulo": "I'll Never Be the Same",
+      "duracion": 197
+    },
+    {
+      "titulo": "Them There Eyes",
+      "duracion": 173
+    },
+    {
+      "titulo": "After Hours (Remastered)",
+      "duracion": 188
+    },
+    {
+      "titulo": "Dizzy Fingers",
+      "duracion": 166
+    },
+    {
+      "titulo": "But Not For Me",
+      "duracion": 146
+    },
+    {
+      "titulo": "Memories of You (Live)",
+      "duracion": 200
+    },
+    {
+      "titulo": "Shine (Live)",
+      "duracion": 66
+    },
+    {
+      "titulo": "One O'clock Jump (Live)",
+      "duracion": 234
+    },
+    {
+      "titulo": "Shoe Shine Boy",
+      "duracion": 170
+    },
+    {
+      "titulo": "When You're Smiling (The Whole World Smiles With You)",
+      "duracion": 157
+    },
+    {
+      "titulo": "Margie",
+      "duracion": 163
+    },
+    {
+      "titulo": "Sometimes I'm Happy (Live)",
+      "duracion": 170
+    },
+    {
+      "titulo": "Sweet Lorraine",
+      "duracion": 185
+    },
+    {
+      "titulo": "China Boy (Live)",
+      "duracion": 215
+    },
+    {
+      "titulo": "You're Blase",
+      "duracion": 183
+    }
+  ],
+  "temasFuente": "Spotify"
 }

@@ -54,5 +54,56 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "What Kinda Music",
+      "duracion": 230
+    },
+    {
+      "titulo": "Festival",
+      "duracion": 282
+    },
+    {
+      "titulo": "Nightrider",
+      "duracion": 301
+    },
+    {
+      "titulo": "Tidal Wave",
+      "duracion": 249
+    },
+    {
+      "titulo": "Sensational",
+      "duracion": 85
+    },
+    {
+      "titulo": "The Real",
+      "duracion": 162
+    },
+    {
+      "titulo": "Lift Off",
+      "duracion": 319
+    },
+    {
+      "titulo": "I Did It For You",
+      "duracion": 242
+    },
+    {
+      "titulo": "Last 100",
+      "duracion": 240
+    },
+    {
+      "titulo": "Kyiv",
+      "duracion": 210
+    },
+    {
+      "titulo": "Julie Mangos",
+      "duracion": 197
+    },
+    {
+      "titulo": "Storm Before The Calm",
+      "duracion": 186
+    }
+  ],
+  "temasFuente": "Spotify"
 }

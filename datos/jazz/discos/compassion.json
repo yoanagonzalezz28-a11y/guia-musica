@@ -54,5 +54,56 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Compassion",
+      "duracion": 291
+    },
+    {
+      "titulo": "Arch",
+      "duracion": 374
+    },
+    {
+      "titulo": "Overjoyed",
+      "duracion": 473
+    },
+    {
+      "titulo": "Maelstrom",
+      "duracion": 277
+    },
+    {
+      "titulo": "Prelude: Orison",
+      "duracion": 224
+    },
+    {
+      "titulo": "Tempest",
+      "duracion": 384
+    },
+    {
+      "titulo": "Panegyric",
+      "duracion": 391
+    },
+    {
+      "titulo": "Nonaah",
+      "duracion": 152
+    },
+    {
+      "titulo": "Where I Am",
+      "duracion": 345
+    },
+    {
+      "titulo": "Ghostrumental",
+      "duracion": 398
+    },
+    {
+      "titulo": "It Goes",
+      "duracion": 190
+    },
+    {
+      "titulo": "Free Spirits / Drummer's Song",
+      "duracion": 435
+    }
+  ],
+  "temasFuente": "Spotify"
 }

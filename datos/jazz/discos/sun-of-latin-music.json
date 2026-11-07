@@ -73,5 +73,32 @@
       "acceso": "completa",
       "aporta": "Palmieri explica su método en DownBeat: \"As a student of Afro-Cuban music I found that all the different structures follow the same pattern, which always delivers that climax\"."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "Nada De Ti - Remastered",
+      "duracion": 389
+    },
+    {
+      "titulo": "Deseo Salvaje - Remastered",
+      "duracion": 219
+    },
+    {
+      "titulo": "Una Rosa Española - Remastered",
+      "duracion": 320
+    },
+    {
+      "titulo": "Nunca Contigo - Remastered",
+      "duracion": 230
+    },
+    {
+      "titulo": "Un Dia Bonito - Piano Solo version FINAL - Remastered (Solo Piano Intro)",
+      "duracion": 596
+    },
+    {
+      "titulo": "Mi Cumbia - Remastered",
+      "duracion": 197
+    }
+  ],
+  "temasFuente": "Spotify"
 }

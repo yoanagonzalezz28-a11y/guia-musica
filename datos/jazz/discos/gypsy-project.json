@@ -52,5 +52,68 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Blues clair",
+      "duracion": 163
+    },
+    {
+      "titulo": "Coquette",
+      "duracion": 127
+    },
+    {
+      "titulo": "Si tu savais",
+      "duracion": 219
+    },
+    {
+      "titulo": "Belleville",
+      "duracion": 157
+    },
+    {
+      "titulo": "Daphne - Version longue",
+      "duracion": 179
+    },
+    {
+      "titulo": "Je suis seul ce soir",
+      "duracion": 310
+    },
+    {
+      "titulo": "Swing 42",
+      "duracion": 131
+    },
+    {
+      "titulo": "Embraceable You",
+      "duracion": 148
+    },
+    {
+      "titulo": "Vous et moi",
+      "duracion": 221
+    },
+    {
+      "titulo": "Festival 48",
+      "duracion": 175
+    },
+    {
+      "titulo": "Viper's Dream",
+      "duracion": 164
+    },
+    {
+      "titulo": "What is This Thing Called Love",
+      "duracion": 118
+    },
+    {
+      "titulo": "La mer",
+      "duracion": 213
+    },
+    {
+      "titulo": "Lime House Blues",
+      "duracion": 111
+    },
+    {
+      "titulo": "Daphne - Version courte",
+      "duracion": 145
+    }
+  ],
+  "temasFuente": "Spotify"
 }

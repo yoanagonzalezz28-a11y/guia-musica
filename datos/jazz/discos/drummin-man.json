@@ -54,5 +54,136 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Apurksody",
+      "duracion": 175
+    },
+    {
+      "titulo": "Drummin' Man",
+      "duracion": 179
+    },
+    {
+      "titulo": "Rhythm Jam",
+      "duracion": 169
+    },
+    {
+      "titulo": "Quiet and Roll 'Em",
+      "duracion": 181
+    },
+    {
+      "titulo": "Tutti Frutti",
+      "duracion": 146
+    },
+    {
+      "titulo": "Sweetheart, Honey, Darlin', Dear",
+      "duracion": 148
+    },
+    {
+      "titulo": "Tuxedo Junction",
+      "duracion": 179
+    },
+    {
+      "titulo": "Drum Boogie",
+      "duracion": 189
+    },
+    {
+      "titulo": "Bolero at the Savoy",
+      "duracion": 174
+    },
+    {
+      "titulo": "Let Me Off Uptown",
+      "duracion": 187
+    },
+    {
+      "titulo": "Rockin' Chair",
+      "duracion": 182
+    },
+    {
+      "titulo": "Massachusetts",
+      "duracion": 195
+    },
+    {
+      "titulo": "After You've Gone",
+      "duracion": 157
+    },
+    {
+      "titulo": "Skylark",
+      "duracion": 188
+    },
+    {
+      "titulo": "Knock Me a Kiss",
+      "duracion": 184
+    },
+    {
+      "titulo": "That's What You Think",
+      "duracion": 195
+    },
+    {
+      "titulo": "Leave Us Leap",
+      "duracion": 183
+    },
+    {
+      "titulo": "What's This?",
+      "duracion": 167
+    },
+    {
+      "titulo": "Dark Eyes",
+      "duracion": 207
+    },
+    {
+      "titulo": "Body and Soul",
+      "duracion": 205
+    },
+    {
+      "titulo": "Opus #1",
+      "duracion": 177
+    },
+    {
+      "titulo": "How High the Moon",
+      "duracion": 202
+    },
+    {
+      "titulo": "Boogie Blues",
+      "duracion": 205
+    },
+    {
+      "titulo": "Lover",
+      "duracion": 174
+    },
+    {
+      "titulo": "Starburst",
+      "duracion": 180
+    },
+    {
+      "titulo": "Gene's Boogie",
+      "duracion": 191
+    },
+    {
+      "titulo": "Disc Jockey Jump",
+      "duracion": 191
+    },
+    {
+      "titulo": "There Is No Breeze (To Cool the Flame of Love)",
+      "duracion": 193
+    },
+    {
+      "titulo": "Calling Dr. Gillespie",
+      "duracion": 203
+    },
+    {
+      "titulo": "I Should Have Kept On Dreaming",
+      "duracion": 200
+    },
+    {
+      "titulo": "Up an Atom",
+      "duracion": 179
+    },
+    {
+      "titulo": "Lemon Drop",
+      "duracion": 192
+    }
+  ],
+  "temasFuente": "Spotify"
 }

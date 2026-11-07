@@ -54,5 +54,36 @@
     "wikidata": null,
     "wikipedia": "Out_of_the_Afternoon"
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Moon Ray",
+      "duracion": 401
+    },
+    {
+      "titulo": "Fly Me To The Moon",
+      "duracion": 401
+    },
+    {
+      "titulo": "Raoul",
+      "duracion": 361
+    },
+    {
+      "titulo": "Snap Crackle",
+      "duracion": 252
+    },
+    {
+      "titulo": "If I Should Lose You",
+      "duracion": 349
+    },
+    {
+      "titulo": "Long Wharf",
+      "duracion": 282
+    },
+    {
+      "titulo": "Some Other Spring",
+      "duracion": 209
+    }
+  ],
+  "temasFuente": "Spotify"
 }

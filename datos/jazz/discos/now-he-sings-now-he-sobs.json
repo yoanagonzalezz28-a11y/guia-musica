@@ -64,5 +64,60 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Steps-What Was",
+      "duracion": 830
+    },
+    {
+      "titulo": "Matrix",
+      "duracion": 388
+    },
+    {
+      "titulo": "Now He Sings, Now He Sobs",
+      "duracion": 423
+    },
+    {
+      "titulo": "Now He Beats The Drum, Now He Stops",
+      "duracion": 635
+    },
+    {
+      "titulo": "The Law Of Falling And Catching Up",
+      "duracion": 148
+    },
+    {
+      "titulo": "Samba Yantra",
+      "duracion": 161
+    },
+    {
+      "titulo": "Bossa",
+      "duracion": 285
+    },
+    {
+      "titulo": "I Don't Know",
+      "duracion": 163
+    },
+    {
+      "titulo": "Fragments",
+      "duracion": 244
+    },
+    {
+      "titulo": "Windows",
+      "duracion": 192
+    },
+    {
+      "titulo": "Gemini",
+      "duracion": 264
+    },
+    {
+      "titulo": "Pannonica",
+      "duracion": 180
+    },
+    {
+      "titulo": "My One And Only Love",
+      "duracion": 214
+    }
+  ],
+  "temasFuente": "Spotify"
 }

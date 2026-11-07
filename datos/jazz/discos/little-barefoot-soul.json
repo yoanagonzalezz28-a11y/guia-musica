@@ -54,5 +54,32 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "A Little Barefoot Soul",
+      "duracion": 308
+    },
+    {
+      "titulo": "Walkin', Wadin', Sittin', Ridin'",
+      "duracion": 476
+    },
+    {
+      "titulo": "Little One",
+      "duracion": 236
+    },
+    {
+      "titulo": "Cut Me Loose, Charlie",
+      "duracion": 290
+    },
+    {
+      "titulo": "Ain't Thinkin' 'bout It",
+      "duracion": 534
+    },
+    {
+      "titulo": "Nobody Knows the Trouble I've Seen",
+      "duracion": 149
+    }
+  ],
+  "temasFuente": "Spotify"
 }

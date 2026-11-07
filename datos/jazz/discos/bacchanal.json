@@ -54,5 +54,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Three King Fishers",
+      "duracion": 289
+    },
+    {
+      "titulo": "Love Is Blue",
+      "duracion": 259
+    },
+    {
+      "titulo": "Theme From \"Valley of the Dolls\"",
+      "duracion": 231
+    },
+    {
+      "titulo": "Bacchanal",
+      "duracion": 298
+    },
+    {
+      "titulo": "Sunshine Superman",
+      "duracion": 227
+    },
+    {
+      "titulo": "Some Velvet Morning",
+      "duracion": 325
+    },
+    {
+      "titulo": "The Look of Love",
+      "duracion": 198
+    },
+    {
+      "titulo": "The Divided City",
+      "duracion": 200
+    }
+  ],
+  "temasFuente": "Spotify"
 }

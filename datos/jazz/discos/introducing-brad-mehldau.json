@@ -54,5 +54,44 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "It Might as Well Be Spring",
+      "duracion": 466
+    },
+    {
+      "titulo": "Countdown",
+      "duracion": 252
+    },
+    {
+      "titulo": "My Romance",
+      "duracion": 385
+    },
+    {
+      "titulo": "Angst",
+      "duracion": 372
+    },
+    {
+      "titulo": "Young Werther",
+      "duracion": 434
+    },
+    {
+      "titulo": "Prelude to a Kiss",
+      "duracion": 601
+    },
+    {
+      "titulo": "London Blues",
+      "duracion": 422
+    },
+    {
+      "titulo": "From This Moment On",
+      "duracion": 394
+    },
+    {
+      "titulo": "Say Goodbye",
+      "duracion": 565
+    }
+  ],
+  "temasFuente": "Spotify"
 }

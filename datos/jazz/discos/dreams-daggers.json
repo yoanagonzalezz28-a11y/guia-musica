@@ -76,5 +76,100 @@
       "acceso": "completa",
       "aporta": "Repasa sus premios y su lugar en la crítica de DownBeat."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "And Yet",
+      "duracion": 66
+    },
+    {
+      "titulo": "Devil May Care",
+      "duracion": 416
+    },
+    {
+      "titulo": "Mad About the Boy",
+      "duracion": 413
+    },
+    {
+      "titulo": "Sam Jones' Blues",
+      "duracion": 180
+    },
+    {
+      "titulo": "More",
+      "duracion": 213
+    },
+    {
+      "titulo": "Never Will I Marry",
+      "duracion": 243
+    },
+    {
+      "titulo": "Somehow I Never Could Believe",
+      "duracion": 596
+    },
+    {
+      "titulo": "If a Girl Isn't Pretty",
+      "duracion": 175
+    },
+    {
+      "titulo": "Red Instead",
+      "duracion": 35
+    },
+    {
+      "titulo": "Runnin' Wild",
+      "duracion": 99
+    },
+    {
+      "titulo": "The Best Thing for You (Would Be Me)",
+      "duracion": 433
+    },
+    {
+      "titulo": "You're My Thrill",
+      "duracion": 274
+    },
+    {
+      "titulo": "I Didn't Know What Time It Was",
+      "duracion": 390
+    },
+    {
+      "titulo": "Tell Me What They're Saying Can't Be True",
+      "duracion": 329
+    },
+    {
+      "titulo": "Nothing Like You",
+      "duracion": 230
+    },
+    {
+      "titulo": "You've Got to Give Me Some",
+      "duracion": 371
+    },
+    {
+      "titulo": "The Worm",
+      "duracion": 63
+    },
+    {
+      "titulo": "My Man's Gone Now",
+      "duracion": 387
+    },
+    {
+      "titulo": "Let's Face the Music and Dance",
+      "duracion": 415
+    },
+    {
+      "titulo": "Si J'étais Blanche",
+      "duracion": 315
+    },
+    {
+      "titulo": "Fascination",
+      "duracion": 88
+    },
+    {
+      "titulo": "Wild Women Don't Have the Blues",
+      "duracion": 411
+    },
+    {
+      "titulo": "You're Getting to Be a Habit with Me",
+      "duracion": 593
+    }
+  ],
+  "temasFuente": "Spotify"
 }

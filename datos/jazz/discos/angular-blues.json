@@ -52,5 +52,44 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Wondering",
+      "duracion": 440
+    },
+    {
+      "titulo": "Angular Blues",
+      "duracion": 356
+    },
+    {
+      "titulo": "Hüttengriffe",
+      "duracion": 315
+    },
+    {
+      "titulo": "Camino",
+      "duracion": 462
+    },
+    {
+      "titulo": "Ride",
+      "duracion": 231
+    },
+    {
+      "titulo": "Everything I Love",
+      "duracion": 413
+    },
+    {
+      "titulo": "Kanon in 6/8",
+      "duracion": 462
+    },
+    {
+      "titulo": "Solo Kanon in 5/4",
+      "duracion": 214
+    },
+    {
+      "titulo": "I'll Remember April",
+      "duracion": 341
+    }
+  ],
+  "temasFuente": "Spotify"
 }

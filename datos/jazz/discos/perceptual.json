@@ -54,5 +54,44 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Perceptual",
+      "duracion": 389
+    },
+    {
+      "titulo": "Evinrude-Fifty (Trembling)",
+      "duracion": 477
+    },
+    {
+      "titulo": "Reconciliation",
+      "duracion": 404
+    },
+    {
+      "titulo": "Crooked Creek",
+      "duracion": 550
+    },
+    {
+      "titulo": "Patron Saint Of Girls",
+      "duracion": 161
+    },
+    {
+      "titulo": "The Sunday Boys (Improvisation)",
+      "duracion": 67
+    },
+    {
+      "titulo": "Variations Of A Bloodline: From The Same Blood / Fellowship (Like Brothers) / Mustangs (Class Of 1988)",
+      "duracion": 550
+    },
+    {
+      "titulo": "Steadfast",
+      "duracion": 501
+    },
+    {
+      "titulo": "Trembling",
+      "duracion": 137
+    }
+  ],
+  "temasFuente": "Spotify"
 }

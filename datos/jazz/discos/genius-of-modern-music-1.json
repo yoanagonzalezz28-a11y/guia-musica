@@ -125,5 +125,56 @@
       "acceso": "completa",
       "aporta": "Tom Moon elige \"Well You Needn't\" y señala que aquí ya están las pausas y las melodías quebradas de su estilo posterior."
     }
-  ]
+  ],
+  "temas": [
+    {
+      "titulo": "'Round Midnight",
+      "duracion": 190
+    },
+    {
+      "titulo": "Off Minor",
+      "duracion": 180
+    },
+    {
+      "titulo": "Ruby My Dear",
+      "duracion": 187
+    },
+    {
+      "titulo": "I Mean You",
+      "duracion": 165
+    },
+    {
+      "titulo": "April In Paris",
+      "duracion": 201
+    },
+    {
+      "titulo": "In Walked Bud",
+      "duracion": 174
+    },
+    {
+      "titulo": "Thelonious",
+      "duracion": 179
+    },
+    {
+      "titulo": "Epistrophy",
+      "duracion": 187
+    },
+    {
+      "titulo": "Misterioso",
+      "duracion": 201
+    },
+    {
+      "titulo": "Well You Needn't",
+      "duracion": 177
+    },
+    {
+      "titulo": "Introspection",
+      "duracion": 191
+    },
+    {
+      "titulo": "Humph",
+      "duracion": 171
+    }
+  ],
+  "temasFuente": "Spotify"
 }

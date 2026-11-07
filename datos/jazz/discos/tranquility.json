@@ -54,5 +54,40 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Stephanie",
+      "duracion": 236
+    },
+    {
+      "titulo": "Memories of You",
+      "duracion": 191
+    },
+    {
+      "titulo": "People Will Say We're in Love",
+      "duracion": 296
+    },
+    {
+      "titulo": "When You're Smiling",
+      "duracion": 228
+    },
+    {
+      "titulo": "Sunday",
+      "duracion": 206
+    },
+    {
+      "titulo": "Lennie Bird",
+      "duracion": 325
+    },
+    {
+      "titulo": "The Nearness of You",
+      "duracion": 370
+    },
+    {
+      "titulo": "Jonquil",
+      "duracion": 191
+    }
+  ],
+  "temasFuente": "Spotify"
 }

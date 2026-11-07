@@ -54,5 +54,64 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Velvet Portraits",
+      "duracion": 94
+    },
+    {
+      "titulo": "Valdez Off Crenshaw",
+      "duracion": 271
+    },
+    {
+      "titulo": "Push",
+      "duracion": 276
+    },
+    {
+      "titulo": "With You",
+      "duracion": 249
+    },
+    {
+      "titulo": "Curly Martin",
+      "duracion": 442
+    },
+    {
+      "titulo": "Never Enough",
+      "duracion": 333
+    },
+    {
+      "titulo": "Turkey Taco",
+      "duracion": 243
+    },
+    {
+      "titulo": "Patiently Waiting",
+      "duracion": 421
+    },
+    {
+      "titulo": "Tribe Called West",
+      "duracion": 155
+    },
+    {
+      "titulo": "Oakland",
+      "duracion": 263
+    },
+    {
+      "titulo": "Bromali",
+      "duracion": 217
+    },
+    {
+      "titulo": "Think of you",
+      "duracion": 348
+    },
+    {
+      "titulo": "Reverse",
+      "duracion": 188
+    },
+    {
+      "titulo": "Mortal Man",
+      "duracion": 706
+    }
+  ],
+  "temasFuente": "Spotify"
 }
