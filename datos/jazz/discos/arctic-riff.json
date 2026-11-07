@@ -37,6 +37,11 @@
       "musico": "wasilewski",
       "nombre": "Marcin Wasilewski",
       "instrumento": "piano"
+    },
+    {
+      "musico": "lovano",
+      "nombre": "Joe Lovano",
+      "instrumento": "saxo tenor"
     }
   ],
   "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",

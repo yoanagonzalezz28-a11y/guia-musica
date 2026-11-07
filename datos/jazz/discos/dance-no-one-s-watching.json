@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "reino-unido"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Dance, No One's Watching Ezra Collective"
+  },
+  "id": "dance-no-one-s-watching",
+  "titulo": "Dance, No One's Watching",
+  "credito": "Ezra Collective",
+  "lideres": [
+    "ezra-collective"
+  ],
+  "grabacion": {
+    "desde": 2024,
+    "hasta": 2024,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2024,
+    "detalle": null
+  },
+  "sello": "Partisan",
+  "musicos": [
+    {
+      "musico": "ezra-collective",
+      "nombre": "Ezra Collective",
+      "instrumento": "grupo"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Pensado para la pista de baile."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

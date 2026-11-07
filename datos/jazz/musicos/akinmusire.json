@@ -1,0 +1,55 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "akinmusire",
+  "nombre": "Ambrose Akinmusire",
+  "nacimiento": {
+    "anio": 1982,
+    "lugar": "Oakland"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "trompeta",
+    "composición"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF",
+  "resumen": "Trompetista de Oakland de sonido muy expresivo, entre el susurro y el grito. Sus discos para Blue Note mezclan jazz, poesía y canción.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2011,
+      "hasta": 2023,
+      "texto": "",
+      "discoClave": {
+        "disco": "when-the-heart-emerges-glistening",
+        "explicacion": "Su debut en Blue Note: lírico y abstracto."
+      },
+      "discos": [
+        "the-imagined-savior-is-far-easier-to-paint",
+        "origami-harvest",
+        "on-the-tender-spot-of-every-calloused-moment",
+        "beauty-is-enough"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-ambrose-akinmusire"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "when-the-heart-emerges-glistening",
+    "the-imagined-savior-is-far-easier-to-paint",
+    "origami-harvest",
+    "on-the-tender-spot-of-every-calloused-moment",
+    "beauty-is-enough"
+  ]
+}

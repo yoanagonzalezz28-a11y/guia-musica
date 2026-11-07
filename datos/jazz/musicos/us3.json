@@ -1,0 +1,48 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "us3",
+  "nombre": "Us3",
+  "nacimiento": {
+    "anio": null,
+    "lugar": "Londres"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "grupo"
+  ],
+  "corrientes": [
+    "acid"
+  ],
+  "regiones": [
+    "reino-unido"
+  ],
+  "spotify": null,
+  "resumen": "Proyecto de los productores Geoff Wilkinson y Mel Simpson que sampleaba discos de Blue Note con permiso del sello, con raperos y músicos en vivo.",
+  "epocas": [
+    {
+      "titulo": "Acid jazz",
+      "desde": 1993,
+      "hasta": 1997,
+      "texto": "",
+      "discoClave": {
+        "disco": "hand-on-the-torch",
+        "explicacion": "Con \"Cantaloop\", armado sobre \"Cantaloupe Island\" de Herbie Hancock: el acid jazz en las listas de pop."
+      },
+      "discos": [
+        "broadway-and-52nd"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-us3"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "hand-on-the-torch",
+    "broadway-and-52nd"
+  ]
+}

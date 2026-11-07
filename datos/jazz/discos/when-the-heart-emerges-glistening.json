@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7klgB8E12bA0hSCJAEJsUs",
+    "tituloEnSpotify": "When The Heart Emerges Glistening",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "when-the-heart-emerges-glistening",
+  "titulo": "When the Heart Emerges Glistening",
+  "credito": "Ambrose Akinmusire",
+  "lideres": [
+    "akinmusire"
+  ],
+  "grabacion": {
+    "desde": 2011,
+    "hasta": 2011,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2011,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "akinmusire",
+      "nombre": "Ambrose Akinmusire",
+      "instrumento": "trompeta, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Su debut en Blue Note: lírico y abstracto."
+  ],
+  "ids": {
+    "musicbrainz": "b1e58092-26af-4eca-91dd-7233ec54ce2a",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

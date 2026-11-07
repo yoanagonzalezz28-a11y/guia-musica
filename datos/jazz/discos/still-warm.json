@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Still Warm John Scofield"
+  },
+  "id": "still-warm",
+  "titulo": "Still Warm",
+  "credito": "John Scofield",
+  "lideres": [
+    "scofield"
+  ],
+  "grabacion": {
+    "desde": 1986,
+    "hasta": 1986,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1986,
+    "detalle": null
+  },
+  "sello": "Gramavision",
+  "musicos": [
+    {
+      "musico": "scofield",
+      "nombre": "John Scofield",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "fusion"
+  ],
+  "comentario": [
+    "Con Don Grolnick y Omar Hakim: groove eléctrico y blues."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

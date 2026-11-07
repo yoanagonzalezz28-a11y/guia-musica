@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Songbook Kenny Garrett"
+  },
+  "id": "songbook",
+  "titulo": "Songbook",
+  "credito": "Kenny Garrett",
+  "lideres": [
+    "kenny-garrett"
+  ],
+  "grabacion": {
+    "desde": 1997,
+    "hasta": 1997,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1997,
+    "detalle": null
+  },
+  "sello": "Warner Bros.",
+  "musicos": [
+    {
+      "musico": "kenny-garrett",
+      "nombre": "Kenny Garrett",
+      "instrumento": "saxo alto"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "neotrad"
+  ],
+  "comentario": [
+    "Todo temas propios: el alto más intenso de su generación."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

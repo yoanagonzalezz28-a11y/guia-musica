@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4l9563q5rAjwORXyeUauwf",
+    "tituloEnSpotify": "Trio in Tokyo (Live)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "trio-in-tokyo",
+  "titulo": "Trio in Tokyo",
+  "credito": "Michel Petrucciani",
+  "lideres": [
+    "petrucciani"
+  ],
+  "grabacion": {
+    "desde": 1999,
+    "hasta": 1999,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1999,
+    "detalle": null
+  },
+  "sello": "Dreyfus",
+  "musicos": [
+    {
+      "musico": "petrucciani",
+      "nombre": "Michel Petrucciani",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Con Anthony Jackson y Steve Gadd."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6lenF7EOgaIQ9a1BQZRxac",
+    "tituloEnSpotify": "Kings Highway",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "kings-highway",
+  "titulo": "Kings Highway",
+  "credito": "Brian Blade",
+  "lideres": [
+    "blade"
+  ],
+  "grabacion": {
+    "desde": 2023,
+    "hasta": 2023,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2023,
+    "detalle": null
+  },
+  "sello": "Stoner Hill",
+  "musicos": [
+    {
+      "musico": "blade",
+      "nombre": "Brian Blade",
+      "instrumento": "batería, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "El grupo veinticinco años después."
+  ],
+  "ids": {
+    "musicbrainz": "f214dd07-9b2d-4cd2-b412-5883a05e86fb",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

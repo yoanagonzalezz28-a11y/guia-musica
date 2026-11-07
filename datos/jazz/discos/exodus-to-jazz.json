@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Exodus to Jazz Eddie Harris"
+  },
+  "id": "exodus-to-jazz",
+  "titulo": "Exodus to Jazz",
+  "credito": "Eddie Harris",
+  "lideres": [
+    "eddie-harris"
+  ],
+  "grabacion": {
+    "desde": 1961,
+    "hasta": 1961,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1961,
+    "detalle": null
+  },
+  "sello": "Vee-Jay",
+  "musicos": [
+    {
+      "musico": "eddie-harris",
+      "nombre": "Eddie Harris",
+      "instrumento": "saxo tenor, saxo eléctrico"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "souljazz"
+  ],
+  "comentario": [
+    "Su versión de *Exodus* fue un gran éxito."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

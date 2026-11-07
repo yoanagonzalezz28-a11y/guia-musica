@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Blackstar David Bowie"
+  },
+  "id": "blackstar",
+  "titulo": "Blackstar",
+  "credito": "David Bowie",
+  "lideres": [],
+  "grabacion": {
+    "desde": 2016,
+    "hasta": 2016,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2016,
+    "detalle": null
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "guiliana",
+      "nombre": "Mark Guiliana",
+      "instrumento": "batería"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "La batería del último disco de David Bowie."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

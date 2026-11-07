@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Paris Encounter Stéphane Grappelli"
+  },
+  "id": "paris-encounter",
+  "titulo": "Paris Encounter",
+  "credito": "Stéphane Grappelli",
+  "lideres": [
+    "grappelli"
+  ],
+  "grabacion": {
+    "desde": 1969,
+    "hasta": 1969,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1969,
+    "detalle": null
+  },
+  "sello": "Atlantic",
+  "musicos": [
+    {
+      "musico": "grappelli",
+      "nombre": "Stéphane Grappelli",
+      "instrumento": "violín"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "manouche"
+  ],
+  "comentario": [
+    "Con Gary Burton: violín y vibráfono."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

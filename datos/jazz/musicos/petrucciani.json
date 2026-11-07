@@ -1,0 +1,52 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "petrucciani",
+  "nombre": "Michel Petrucciani",
+  "nacimiento": {
+    "anio": 1962,
+    "lugar": "Orange, Francia"
+  },
+  "muerte": {
+    "anio": 1999
+  },
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "regiones": [],
+  "spotify": null,
+  "resumen": "Pianista francés que nació con una enfermedad de los huesos y midió menos de un metro, pero tenía un sonido enorme. Tocó con Charles Lloyd y Wayne Shorter.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 1986,
+      "hasta": 1999,
+      "texto": "",
+      "discoClave": {
+        "disco": "pianism",
+        "explicacion": "Trío con Palle Danielsson y Eliot Zigmund."
+      },
+      "discos": [
+        "michel-plays-petrucciani",
+        "promenade-with-duke",
+        "trio-in-tokyo"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-michel-petrucciani"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "pianism",
+    "michel-plays-petrucciani",
+    "promenade-with-duke",
+    "trio-in-tokyo"
+  ]
+}

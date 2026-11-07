@@ -1,0 +1,49 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "guiliana",
+  "nombre": "Mark Guiliana",
+  "nacimiento": {
+    "anio": 1980,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "batería"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/798TUNb6IfpsZzMkkzVGu1",
+  "resumen": "Baterista que trasladó a la batería acústica los ritmos de la electrónica, el drum and bass y el hip hop. Tocó en *Blackstar*, de David Bowie.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2014,
+      "hasta": 2015,
+      "texto": "",
+      "discoClave": {
+        "disco": "mehliana-taming-the-dragon",
+        "explicacion": "Dúo con Brad Mehldau en sintetizadores."
+      },
+      "discos": [
+        "family-first"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-mark-guiliana"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "mehliana-taming-the-dragon",
+    "family-first",
+    "blackstar"
+  ]
+}

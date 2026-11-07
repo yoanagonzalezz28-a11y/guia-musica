@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "reino-unido"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Celebration Bheki Mseleku"
+  },
+  "id": "celebration",
+  "titulo": "Celebration",
+  "credito": "Bheki Mseleku",
+  "lideres": [],
+  "grabacion": {
+    "desde": 1992,
+    "hasta": 1992,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1992,
+    "detalle": null
+  },
+  "sello": "World Circuit",
+  "musicos": [
+    {
+      "musico": "courtney-pine",
+      "nombre": "Courtney Pine",
+      "instrumento": "saxo tenor, saxo soprano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "Con el pianista sudafricano Bheki Mseleku."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

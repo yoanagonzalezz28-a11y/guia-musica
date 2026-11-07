@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "reino-unido"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Positivity Incognito"
+  },
+  "id": "positivity",
+  "titulo": "Positivity",
+  "credito": "Incognito",
+  "lideres": [
+    "incognito"
+  ],
+  "grabacion": {
+    "desde": 1993,
+    "hasta": 1993,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1993,
+    "detalle": null
+  },
+  "sello": "Talkin' Loud",
+  "musicos": [
+    {
+      "musico": "incognito",
+      "nombre": "Incognito",
+      "instrumento": "grupo"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "acid"
+  ],
+  "comentario": [
+    "Groove suave y vientos cálidos."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

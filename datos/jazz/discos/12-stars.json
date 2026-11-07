@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "12 Stars Melissa Aldana"
+  },
+  "id": "12-stars",
+  "titulo": "12 Stars",
+  "credito": "Melissa Aldana",
+  "lideres": [
+    "aldana"
+  ],
+  "grabacion": {
+    "desde": 2022,
+    "hasta": 2022,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2022,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "aldana",
+      "nombre": "Melissa Aldana",
+      "instrumento": "saxo tenor"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Su debut en Blue Note."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

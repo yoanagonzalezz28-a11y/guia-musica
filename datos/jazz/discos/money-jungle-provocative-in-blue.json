@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5dkbelaW9FFI8lDqcec8sB",
+    "tituloEnSpotify": "Money Jungle: Provocative in Blue",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "money-jungle-provocative-in-blue",
+  "titulo": "Money Jungle: Provocative in Blue",
+  "credito": "Terri Lyne Carrington",
+  "lideres": [
+    "carrington"
+  ],
+  "grabacion": {
+    "desde": 2013,
+    "hasta": 2013,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2013,
+    "detalle": null
+  },
+  "sello": "Concord",
+  "musicos": [
+    {
+      "musico": "carrington",
+      "nombre": "Terri Lyne Carrington",
+      "instrumento": "batería, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Revisa el trío de Ellington, Mingus y Roach."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

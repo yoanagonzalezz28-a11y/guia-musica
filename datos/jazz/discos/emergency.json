@@ -40,7 +40,7 @@
       "instrumento": "guitarra"
     },
     {
-      "musico": null,
+      "musico": "larry-young",
       "nombre": "Larry Young",
       "instrumento": "órgano"
     },
@@ -48,6 +48,11 @@
       "musico": "tonyw",
       "nombre": "Tony Williams",
       "instrumento": "batería"
+    },
+    {
+      "musico": "larry-young",
+      "nombre": "Larry Young",
+      "instrumento": "órgano"
     }
   ],
   "corrientes": [

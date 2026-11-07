@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/35MKlkn2g1Qe3HMDrrIxP0",
+    "tituloEnSpotify": "The Imagined Savior Is Far Easier To Paint",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "the-imagined-savior-is-far-easier-to-paint",
+  "titulo": "The Imagined Savior Is Far Easier to Paint",
+  "credito": "Ambrose Akinmusire",
+  "lideres": [
+    "akinmusire"
+  ],
+  "grabacion": {
+    "desde": 2014,
+    "hasta": 2014,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2014,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "akinmusire",
+      "nombre": "Ambrose Akinmusire",
+      "instrumento": "trompeta, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Con cantantes invitados y cuarteto de cuerdas."
+  ],
+  "ids": {
+    "musicbrainz": "277051be-edd9-4347-815b-2074fdc9de69",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

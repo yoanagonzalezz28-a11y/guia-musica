@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "reino-unido"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Black Classical Music Yussef Dayes"
+  },
+  "id": "black-classical-music",
+  "titulo": "Black Classical Music",
+  "credito": "Yussef Dayes",
+  "lideres": [
+    "yussef-dayes"
+  ],
+  "grabacion": {
+    "desde": 2023,
+    "hasta": 2023,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2023,
+    "detalle": null
+  },
+  "sello": "Brownswood",
+  "musicos": [
+    {
+      "musico": "yussef-dayes",
+      "nombre": "Yussef Dayes",
+      "instrumento": "batería"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Su primer disco solista largo."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

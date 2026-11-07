@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5aNKUcZNoaryLLYM5sVZ0w",
+    "tituloEnSpotify": "Drummin' Man",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "drummin-man",
+  "titulo": "Drummin' Man",
+  "credito": "Gene Krupa",
+  "lideres": [
+    "krupa"
+  ],
+  "grabacion": {
+    "desde": 1963,
+    "hasta": 1963,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1963,
+    "detalle": null
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "krupa",
+      "nombre": "Gene Krupa",
+      "instrumento": "batería"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "Recopilación de su orquesta de los 40, con Anita O'Day y Roy Eldridge."
+  ],
+  "ids": {
+    "musicbrainz": "1834d39a-9d64-3b46-9487-0f6bec689c66",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

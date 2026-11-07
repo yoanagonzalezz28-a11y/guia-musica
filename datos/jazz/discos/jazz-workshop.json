@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Jazz Workshop George Russell"
+  },
+  "id": "jazz-workshop",
+  "titulo": "Jazz Workshop",
+  "credito": "George Russell",
+  "lideres": [
+    "george-russell"
+  ],
+  "grabacion": {
+    "desde": 1957,
+    "hasta": 1957,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1957,
+    "detalle": null
+  },
+  "sello": "RCA Victor",
+  "musicos": [
+    {
+      "musico": "george-russell",
+      "nombre": "George Russell",
+      "instrumento": "composición, piano, teoría"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "cool"
+  ],
+  "comentario": [
+    "Con Bill Evans y Art Farmer: composiciones que ya piensan en modos."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

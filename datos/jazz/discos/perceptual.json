@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0z1QDfqMHg4blkamZwew8Q",
+    "tituloEnSpotify": "Perceptual",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "perceptual",
+  "titulo": "Perceptual",
+  "credito": "Brian Blade",
+  "lideres": [
+    "blade"
+  ],
+  "grabacion": {
+    "desde": 2000,
+    "hasta": 2000,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2000,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "blade",
+      "nombre": "Brian Blade",
+      "instrumento": "batería, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Con Kurt Rosenwinkel: lírico y espiritual."
+  ],
+  "ids": {
+    "musicbrainz": "70e88a86-1b9e-39eb-8c44-cab9c14d9384",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

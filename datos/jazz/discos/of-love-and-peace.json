@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Of Love and Peace Larry Young"
+  },
+  "id": "of-love-and-peace",
+  "titulo": "Of Love and Peace",
+  "credito": "Larry Young",
+  "lideres": [
+    "larry-young"
+  ],
+  "grabacion": {
+    "desde": 1966,
+    "hasta": 1966,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1966,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "larry-young",
+      "nombre": "Larry Young",
+      "instrumento": "órgano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "free"
+  ],
+  "comentario": [
+    "Más libre y percusivo."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,50 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "yussef-dayes",
+  "nombre": "Yussef Dayes",
+  "nacimiento": {
+    "anio": 1993,
+    "lugar": "Londres"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "batería"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "regiones": [
+    "reino-unido"
+  ],
+  "spotify": null,
+  "resumen": "Baterista londinense de toque muy personal, entre el jazz, el hip hop y el grime.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2016,
+      "hasta": 2023,
+      "texto": "",
+      "discoClave": {
+        "disco": "black-focus",
+        "explicacion": "Dúo con el tecladista Kamaal Williams: un disco clave de la nueva escena de Londres."
+      },
+      "discos": [
+        "what-kinda-music",
+        "black-classical-music"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-yussef-dayes"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "black-focus",
+    "what-kinda-music",
+    "black-classical-music"
+  ]
+}

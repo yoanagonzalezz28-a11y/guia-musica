@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0R89podkKJXDmdymV3c058",
+    "tituloEnSpotify": "Gipsy Project",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "gypsy-project",
+  "titulo": "Gipsy Project",
+  "credito": "Biréli Lagrène",
+  "lideres": [
+    "lagrene"
+  ],
+  "grabacion": {
+    "desde": 2001,
+    "hasta": 2001,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2001,
+    "detalle": null
+  },
+  "sello": "Dreyfus",
+  "musicos": [
+    {
+      "musico": "lagrene",
+      "nombre": "Biréli Lagrène",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "manouche"
+  ],
+  "comentario": [
+    "Vuelve al jazz manouche, con un grupo de cuerdas."
+  ],
+  "ids": {
+    "musicbrainz": "6f5fad85-f06d-3f03-8eb2-b7b60767b51f",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

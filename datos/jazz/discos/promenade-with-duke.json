@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Promenade with Duke Michel Petrucciani"
+  },
+  "id": "promenade-with-duke",
+  "titulo": "Promenade with Duke",
+  "credito": "Michel Petrucciani",
+  "lideres": [
+    "petrucciani"
+  ],
+  "grabacion": {
+    "desde": 1993,
+    "hasta": 1993,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1993,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "petrucciani",
+      "nombre": "Michel Petrucciani",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Piano solo sobre Ellington."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

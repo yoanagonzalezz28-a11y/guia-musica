@@ -1,0 +1,52 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Believe It The New Tony Williams Lifetime"
+  },
+  "id": "believe-it-holdsworth",
+  "titulo": "Believe It",
+  "credito": "The New Tony Williams Lifetime",
+  "lideres": [],
+  "grabacion": {
+    "desde": 1975,
+    "hasta": 1975,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1975,
+    "detalle": null
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "holdsworth",
+      "nombre": "Allan Holdsworth",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "fusion"
+  ],
+  "comentario": [
+    "Con Tony Williams: fusión de técnica asombrosa."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

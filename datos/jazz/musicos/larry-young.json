@@ -1,0 +1,65 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "larry-young",
+  "nombre": "Larry Young",
+  "nacimiento": {
+    "anio": 1940,
+    "lugar": "Newark, Nueva Jersey"
+  },
+  "muerte": {
+    "anio": 1978
+  },
+  "instrumentos": [
+    "órgano"
+  ],
+  "corrientes": [
+    "modal",
+    "fusion"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Organista que sacó al Hammond del soul jazz y lo llevó a la armonía modal de Coltrane. Después tocó en la fusión con Tony Williams y John McLaughlin.",
+  "epocas": [
+    {
+      "titulo": "Jazz modal",
+      "desde": 1965,
+      "hasta": 1966,
+      "texto": "",
+      "discoClave": {
+        "disco": "into-somethin",
+        "explicacion": "Con Grant Green y Sam Rivers: el paso del soul jazz a lo modal."
+      },
+      "discos": [
+        "of-love-and-peace"
+      ]
+    },
+    {
+      "titulo": "Fusión",
+      "desde": 1973,
+      "hasta": 1973,
+      "texto": "",
+      "discoClave": {
+        "disco": "lawrence-of-newark",
+        "explicacion": "Órgano, percusión y psicodelia."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-larry-young-musician"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "unity",
+    "into-somethin",
+    "of-love-and-peace",
+    "emergency",
+    "lawrence-of-newark"
+  ]
+}

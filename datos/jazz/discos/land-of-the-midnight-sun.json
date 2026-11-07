@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Land of the Midnight Sun Al Di Meola"
+  },
+  "id": "land-of-the-midnight-sun",
+  "titulo": "Land of the Midnight Sun",
+  "credito": "Al Di Meola",
+  "lideres": [
+    "di-meola"
+  ],
+  "grabacion": {
+    "desde": 1976,
+    "hasta": 1976,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1976,
+    "detalle": null
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "di-meola",
+      "nombre": "Al Di Meola",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "fusion"
+  ],
+  "comentario": [
+    "Su debut."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

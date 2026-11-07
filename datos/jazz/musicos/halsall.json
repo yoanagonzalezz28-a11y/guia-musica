@@ -1,0 +1,51 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "halsall",
+  "nombre": "Matthew Halsall",
+  "nacimiento": {
+    "anio": 1983,
+    "lugar": "Mánchester"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "trompeta",
+    "composición"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "regiones": [],
+  "spotify": null,
+  "resumen": "Trompetista inglés y dueño del sello Gondwana. Su música es jazz espiritual, en la línea de Alice Coltrane y Pharoah Sanders.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2009,
+      "hasta": 2020,
+      "texto": "",
+      "discoClave": {
+        "disco": "colour-yes",
+        "explicacion": "Trompeta suave sobre arpa y piano."
+      },
+      "discos": [
+        "fletcher-moss-park",
+        "when-the-world-was-one",
+        "salute-to-the-sun"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-matthew-halsall"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "colour-yes",
+    "fletcher-moss-park",
+    "when-the-world-was-one",
+    "salute-to-the-sun"
+  ]
+}

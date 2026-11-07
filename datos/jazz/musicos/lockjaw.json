@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "lockjaw",
+  "nombre": "Eddie \"Lockjaw\" Davis",
+  "nacimiento": {
+    "anio": 1922,
+    "lugar": "Nueva York"
+  },
+  "muerte": {
+    "anio": 1986
+  },
+  "instrumentos": [
+    "saxo tenor"
+  ],
+  "corrientes": [
+    "hard-bop",
+    "souljazz"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Tenor de sonido rasposo y potente, estrella de la orquesta de Count Basie. Sus duelos de tenores con Johnny Griffin son legendarios.",
+  "epocas": [
+    {
+      "titulo": "Soul jazz",
+      "desde": 1958,
+      "hasta": 1958,
+      "texto": "",
+      "discoClave": {
+        "disco": "the-eddie-lockjaw-davis-cookbook",
+        "explicacion": "Con Shirley Scott en órgano: soul jazz caliente."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Hard bop",
+      "desde": 1960,
+      "hasta": 1960,
+      "texto": "",
+      "discoClave": {
+        "disco": "tough-tenors",
+        "explicacion": "Con Johnny Griffin: duelo de tenores."
+      },
+      "discos": [
+        "trane-whistle"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-eddie-lockjaw-davis"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "the-eddie-lockjaw-davis-cookbook",
+    "tough-tenors",
+    "trane-whistle"
+  ]
+}

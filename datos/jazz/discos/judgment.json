@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Judgment! Andrew Hill"
+  },
+  "id": "judgment",
+  "titulo": "Judgment!",
+  "credito": "Andrew Hill",
+  "lideres": [
+    "andrew-hill"
+  ],
+  "grabacion": {
+    "desde": 1964,
+    "hasta": 1964,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1964,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "andrew-hill",
+      "nombre": "Andrew Hill",
+      "instrumento": "piano, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "free"
+  ],
+  "comentario": [
+    "Con Bobby Hutcherson y Elvin Jones."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

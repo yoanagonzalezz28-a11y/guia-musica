@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Blue Light 'til Dawn Cassandra Wilson"
+  },
+  "id": "blue-light-til-dawn",
+  "titulo": "Blue Light 'til Dawn",
+  "credito": "Cassandra Wilson",
+  "lideres": [
+    "cassandra"
+  ],
+  "grabacion": {
+    "desde": 1993,
+    "hasta": 1993,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1993,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "cassandra",
+      "nombre": "Cassandra Wilson",
+      "instrumento": "voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Robert Johnson y Joni Mitchell con guitarras acústicas: un disco que cambió su carrera."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Blue_Light_%27til_Dawn"
+  },
+  "respaldo": []
+}

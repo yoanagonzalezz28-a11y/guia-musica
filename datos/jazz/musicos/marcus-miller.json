@@ -1,0 +1,50 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "marcus-miller",
+  "nombre": "Marcus Miller",
+  "nacimiento": {
+    "anio": 1959,
+    "lugar": "Nueva York"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "bajo eléctrico",
+    "producción"
+  ],
+  "corrientes": [
+    "fusion"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Bajista y productor que compuso y produjo *Tutu* para Miles Davis. Su bajo con slap es uno de los más imitados.",
+  "epocas": [
+    {
+      "titulo": "Fusión",
+      "desde": 1993,
+      "hasta": 2018,
+      "texto": "",
+      "discoClave": {
+        "disco": "the-sun-don-t-lie",
+        "explicacion": "Funk y jazz con su bajo al frente."
+      },
+      "discos": [
+        "laid-black"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-marcus-miller"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "tutu",
+    "the-sun-don-t-lie",
+    "laid-black"
+  ]
+}

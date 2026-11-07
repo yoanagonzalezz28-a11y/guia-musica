@@ -1,0 +1,52 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "bad-plus",
+  "nombre": "The Bad Plus",
+  "nacimiento": {
+    "anio": null,
+    "lugar": "Mineápolis"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "grupo"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Trío de piano que tocaba versiones de Nirvana y Black Sabbath con el lenguaje del jazz, y temas propios de una gran energía.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2003,
+      "hasta": 2019,
+      "texto": "",
+      "discoClave": {
+        "disco": "these-are-the-vistas",
+        "explicacion": "Con \"Smells Like Teen Spirit\": el disco que los hizo famosos."
+      },
+      "discos": [
+        "give",
+        "the-bad-plus-joshua-redman",
+        "activate-infinity"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-the-bad-plus"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "these-are-the-vistas",
+    "give",
+    "the-bad-plus-joshua-redman",
+    "activate-infinity"
+  ]
+}

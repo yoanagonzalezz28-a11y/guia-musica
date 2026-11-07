@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6rrp2wRfrtYxuHM6N5Uavb",
+    "tituloEnSpotify": "I Can See Your House From Here",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "i-can-see-your-house-from-here",
+  "titulo": "I Can See Your House from Here",
+  "credito": "John Scofield",
+  "lideres": [
+    "scofield"
+  ],
+  "grabacion": {
+    "desde": 1994,
+    "hasta": 1994,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1994,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "scofield",
+      "nombre": "John Scofield",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "fusion"
+  ],
+  "comentario": [
+    "Dúo de guitarras con Pat Metheny."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

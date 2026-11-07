@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "medio-oriente"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4nL9nYWG8k53BwCMM8hCsr",
+    "tituloEnSpotify": "Homes",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "homes",
+  "titulo": "Homes",
+  "credito": "Gilad Hekselman",
+  "lideres": [
+    "hekselman"
+  ],
+  "grabacion": {
+    "desde": 2015,
+    "hasta": 2015,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2015,
+    "detalle": null
+  },
+  "sello": "Jazz Village",
+  "musicos": [
+    {
+      "musico": "hekselman",
+      "nombre": "Gilad Hekselman",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Más intimista."
+  ],
+  "ids": {
+    "musicbrainz": "8e45dfc0-8cdf-4a1b-90b4-93e1e6e2c4dc",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

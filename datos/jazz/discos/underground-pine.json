@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "reino-unido"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Underground Courtney Pine"
+  },
+  "id": "underground-pine",
+  "titulo": "Underground",
+  "credito": "Courtney Pine",
+  "lideres": [
+    "courtney-pine"
+  ],
+  "grabacion": {
+    "desde": 1997,
+    "hasta": 1997,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1997,
+    "detalle": null
+  },
+  "sello": "Talkin' Loud",
+  "musicos": [
+    {
+      "musico": "courtney-pine",
+      "nombre": "Courtney Pine",
+      "instrumento": "saxo tenor, saxo soprano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "acid"
+  ],
+  "comentario": [
+    "Con músicos estadounidenses y bases de club."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

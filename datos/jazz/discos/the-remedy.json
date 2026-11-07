@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6ga60ZhJrOpJVRDu0ENrst",
+    "tituloEnSpotify": "The Remedy (Live at the Village Vanguard)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "the-remedy",
+  "titulo": "The Remedy",
+  "credito": "Kurt Rosenwinkel",
+  "lideres": [
+    "rosenwinkel"
+  ],
+  "grabacion": {
+    "desde": 2008,
+    "hasta": 2008,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2008,
+    "detalle": null
+  },
+  "sello": "ArtistShare",
+  "musicos": [
+    {
+      "musico": "rosenwinkel",
+      "nombre": "Kurt Rosenwinkel",
+      "instrumento": "guitarra, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "En vivo en el Village Vanguard: largo y expansivo."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

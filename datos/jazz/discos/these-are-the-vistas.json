@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4OoDFQH7arXUyFbq9RD3t2",
+    "tituloEnSpotify": "These Are The Vistas",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "these-are-the-vistas",
+  "titulo": "These Are the Vistas",
+  "credito": "The Bad Plus",
+  "lideres": [
+    "bad-plus"
+  ],
+  "grabacion": {
+    "desde": 2003,
+    "hasta": 2003,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2003,
+    "detalle": null
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "bad-plus",
+      "nombre": "The Bad Plus",
+      "instrumento": "grupo"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Con \"Smells Like Teen Spirit\": el disco que los hizo famosos."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

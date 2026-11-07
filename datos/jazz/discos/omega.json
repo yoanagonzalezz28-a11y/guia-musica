@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2MxcrtQBHD4YbrPdCJaAY0",
+    "tituloEnSpotify": "Omega",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "omega",
+  "titulo": "Omega",
+  "credito": "Immanuel Wilkins",
+  "lideres": [
+    "wilkins"
+  ],
+  "grabacion": {
+    "desde": 2020,
+    "hasta": 2020,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2020,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "wilkins",
+      "nombre": "Immanuel Wilkins",
+      "instrumento": "saxo alto"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Su debut: elegido por varios críticos como el mejor disco de jazz de ese año."
+  ],
+  "ids": {
+    "musicbrainz": "b68242d1-c48e-4579-9de2-02d4646f6784",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1hCxbfoen4fGGbbrE3pfZX",
+    "tituloEnSpotify": "End Of The World Party (Just In Case)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "end-of-the-world-party-just-in-case",
+  "titulo": "End of the World Party (Just in Case)",
+  "credito": "Medeski, Martin & Wood",
+  "lideres": [
+    "mmw"
+  ],
+  "grabacion": {
+    "desde": 2004,
+    "hasta": 2004,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2004,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "mmw",
+      "nombre": "Medeski, Martin & Wood",
+      "instrumento": "grupo"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "fusion"
+  ],
+  "comentario": [
+    "Producido por John King, más pop."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

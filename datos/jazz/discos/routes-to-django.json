@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Routes to Django Biréli Lagrène"
+  },
+  "id": "routes-to-django",
+  "titulo": "Routes to Django",
+  "credito": "Biréli Lagrène",
+  "lideres": [
+    "lagrene"
+  ],
+  "grabacion": {
+    "desde": 1980,
+    "hasta": 1980,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1980,
+    "detalle": null
+  },
+  "sello": "Jazzpoint",
+  "musicos": [
+    {
+      "musico": "lagrene",
+      "nombre": "Biréli Lagrène",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "manouche"
+  ],
+  "comentario": [
+    "Su debut a los 13 años: Django reencarnado."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,61 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "binker-moses",
+  "nombre": "Binker and Moses",
+  "nacimiento": {
+    "anio": null,
+    "lugar": "Londres"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "grupo"
+  ],
+  "corrientes": [
+    "hoy",
+    "free"
+  ],
+  "regiones": [
+    "reino-unido"
+  ],
+  "spotify": "https://open.spotify.com/artist/7mKZJ0SITREZQovQF6Qeb4",
+  "resumen": "Dúo del saxofonista Binker Golding y el baterista Moses Boyd, con una energía cercana a Coltrane y Rashied Ali.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2015,
+      "hasta": 2015,
+      "texto": "",
+      "discoClave": {
+        "disco": "dem-ones",
+        "explicacion": "Saxo y batería, sin nada más."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Free jazz",
+      "desde": 2017,
+      "hasta": 2018,
+      "texto": "",
+      "discoClave": {
+        "disco": "journey-to-the-mountain-of-forever",
+        "explicacion": "Con invitados como Evan Parker: más libre y espiritual."
+      },
+      "discos": [
+        "alive-in-the-east"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-binker-and-moses"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "dem-ones",
+    "journey-to-the-mountain-of-forever",
+    "alive-in-the-east"
+  ]
+}

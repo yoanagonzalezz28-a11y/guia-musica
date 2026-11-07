@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Young Django Stéphane Grappelli"
+  },
+  "id": "young-django",
+  "titulo": "Young Django",
+  "credito": "Stéphane Grappelli",
+  "lideres": [
+    "grappelli"
+  ],
+  "grabacion": {
+    "desde": 1979,
+    "hasta": 1979,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1979,
+    "detalle": null
+  },
+  "sello": "MPS",
+  "musicos": [
+    {
+      "musico": "grappelli",
+      "nombre": "Stéphane Grappelli",
+      "instrumento": "violín"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "manouche"
+  ],
+  "comentario": [
+    "Con Philip Catherine y Larry Coryell: un homenaje a Django."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

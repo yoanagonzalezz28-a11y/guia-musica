@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0toDuabaPv8Pa2KGI88eB7",
+    "tituloEnSpotify": "Tutu",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "tutu",
+  "titulo": "Tutu",
+  "credito": "Miles Davis",
+  "lideres": [],
+  "grabacion": {
+    "desde": 1986,
+    "hasta": 1986,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1986,
+    "detalle": null
+  },
+  "sello": "Warner Bros.",
+  "musicos": [
+    {
+      "musico": "marcus-miller",
+      "nombre": "Marcus Miller",
+      "instrumento": "bajo eléctrico, producción"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "fusion"
+  ],
+  "comentario": [
+    "Miles en los 80, con la música y la producción de Miller."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

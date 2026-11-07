@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Time Lines Andrew Hill"
+  },
+  "id": "time-lines",
+  "titulo": "Time Lines",
+  "credito": "Andrew Hill",
+  "lideres": [
+    "andrew-hill"
+  ],
+  "grabacion": {
+    "desde": 2006,
+    "hasta": 2006,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2006,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "andrew-hill",
+      "nombre": "Andrew Hill",
+      "instrumento": "piano, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "free"
+  ],
+  "comentario": [
+    "Su regreso a Blue Note, poco antes de morir."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

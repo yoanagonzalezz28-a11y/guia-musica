@@ -1,0 +1,53 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "blade",
+  "nombre": "Brian Blade",
+  "nacimiento": {
+    "anio": 1970,
+    "lugar": "Shreveport, Luisiana"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "batería",
+    "composición"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu",
+  "resumen": "Baterista de Luisiana que tocó con Wayne Shorter durante casi veinte años. Su Fellowship Band mezcla el jazz con el gospel y el folk.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 1998,
+      "hasta": 2023,
+      "texto": "",
+      "discoClave": {
+        "disco": "brian-blade-fellowship",
+        "explicacion": "Su debut: jazz con gospel y canción."
+      },
+      "discos": [
+        "perceptual",
+        "landmarks",
+        "kings-highway"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-brian-blade"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "brian-blade-fellowship",
+    "perceptual",
+    "landmarks",
+    "kings-highway"
+  ]
+}

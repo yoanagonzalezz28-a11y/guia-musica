@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "reino-unido"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "The Brand New Heavies The Brand New Heavies"
+  },
+  "id": "the-brand-new-heavies",
+  "titulo": "The Brand New Heavies",
+  "credito": "The Brand New Heavies",
+  "lideres": [
+    "brand-new-heavies"
+  ],
+  "grabacion": {
+    "desde": 1990,
+    "hasta": 1990,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1990,
+    "detalle": null
+  },
+  "sello": "Acid Jazz",
+  "musicos": [
+    {
+      "musico": "brand-new-heavies",
+      "nombre": "The Brand New Heavies",
+      "instrumento": "grupo"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "acid"
+  ],
+  "comentario": [
+    "Su debut: funk y soul de los 70 tocados con la energía de los clubes de Londres."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

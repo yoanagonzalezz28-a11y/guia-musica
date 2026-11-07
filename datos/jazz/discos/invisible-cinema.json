@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3xfueIrMUw57owAiYVKt8S",
+    "tituloEnSpotify": "Invisible Cinema",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "invisible-cinema",
+  "titulo": "Invisible Cinema",
+  "credito": "Aaron Parks",
+  "lideres": [
+    "parks"
+  ],
+  "grabacion": {
+    "desde": 2008,
+    "hasta": 2008,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2008,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "parks",
+      "nombre": "Aaron Parks",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Melodías amplias y ritmos de rock: un disco de culto."
+  ],
+  "ids": {
+    "musicbrainz": "7df6b2e4-3b50-35d6-8ff6-020135ea83c9",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

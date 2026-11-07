@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Mercy, Mercy Buddy Rich"
+  },
+  "id": "mercy-mercy",
+  "titulo": "Mercy, Mercy",
+  "credito": "Buddy Rich",
+  "lideres": [
+    "buddy-rich"
+  ],
+  "grabacion": {
+    "desde": 1968,
+    "hasta": 1968,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1968,
+    "detalle": null
+  },
+  "sello": "World Pacific",
+  "musicos": [
+    {
+      "musico": "buddy-rich",
+      "nombre": "Buddy Rich",
+      "instrumento": "batería, dirección"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "En vivo, con una versión del tema de Zawinul."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

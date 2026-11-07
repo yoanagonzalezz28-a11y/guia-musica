@@ -1,0 +1,50 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "ronny-jordan",
+  "nombre": "Ronny Jordan",
+  "nacimiento": {
+    "anio": 1962,
+    "lugar": "Londres"
+  },
+  "muerte": {
+    "anio": 2014
+  },
+  "instrumentos": [
+    "guitarra"
+  ],
+  "corrientes": [
+    "acid"
+  ],
+  "regiones": [
+    "reino-unido"
+  ],
+  "spotify": null,
+  "resumen": "Guitarrista londinense que llevó la guitarra de jazz, en la línea de Wes Montgomery y George Benson, a bases de hip hop.",
+  "epocas": [
+    {
+      "titulo": "Acid jazz",
+      "desde": 1992,
+      "hasta": 1993,
+      "texto": "",
+      "discoClave": {
+        "disco": "the-antidote",
+        "explicacion": "Con su versión de \"So What\", de Miles Davis, sobre un ritmo de hip hop: un éxito en Inglaterra."
+      },
+      "discos": [
+        "the-quiet-revolution"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-ronny-jordan"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "the-antidote",
+    "the-quiet-revolution"
+  ]
+}

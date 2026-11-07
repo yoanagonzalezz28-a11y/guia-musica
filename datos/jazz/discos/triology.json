@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3hbxsG0MNq1k5SblPQ2CJc",
+    "tituloEnSpotify": "Triology",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "triology",
+  "titulo": "Triology",
+  "credito": "Kenny Garrett",
+  "lideres": [
+    "kenny-garrett"
+  ],
+  "grabacion": {
+    "desde": 1995,
+    "hasta": 1995,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1995,
+    "detalle": null
+  },
+  "sello": "Warner Bros.",
+  "musicos": [
+    {
+      "musico": "kenny-garrett",
+      "nombre": "Kenny Garrett",
+      "instrumento": "saxo alto"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "neotrad"
+  ],
+  "comentario": [
+    "Trío sin piano, con Kiyoshi Kitagawa y Brian Blade."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

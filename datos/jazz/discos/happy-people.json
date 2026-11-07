@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4SDgQKBl6zelAx2Vh8whtg",
+    "tituloEnSpotify": "Happy People",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "happy-people",
+  "titulo": "Happy People",
+  "credito": "Kenny Garrett",
+  "lideres": [
+    "kenny-garrett"
+  ],
+  "grabacion": {
+    "desde": 2002,
+    "hasta": 2002,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2002,
+    "detalle": null
+  },
+  "sello": "Warner Bros.",
+  "musicos": [
+    {
+      "musico": "kenny-garrett",
+      "nombre": "Kenny Garrett",
+      "instrumento": "saxo alto"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Groove y alegría."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

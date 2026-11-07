@@ -37,6 +37,11 @@
       "musico": "holland",
       "nombre": "Dave Holland",
       "instrumento": "contrabajo, composición"
+    },
+    {
+      "musico": "rivers",
+      "nombre": "Sam Rivers",
+      "instrumento": "saxo tenor"
     }
   ],
   "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",

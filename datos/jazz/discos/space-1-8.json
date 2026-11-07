@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "reino-unido"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8",
+    "tituloEnSpotify": "Space 1.8",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "space-1-8",
+  "titulo": "Space 1.8",
+  "credito": "Nala Sinephro",
+  "lideres": [
+    "nala-sinephro"
+  ],
+  "grabacion": {
+    "desde": 2021,
+    "hasta": 2021,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2021,
+    "detalle": null
+  },
+  "sello": "Warp",
+  "musicos": [
+    {
+      "musico": "nala-sinephro",
+      "nombre": "Nala Sinephro",
+      "instrumento": "arpa, sintetizadores"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Arpa, sintetizadores y saxo de Nubya Garcia: jazz ambiental de una calma enorme."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

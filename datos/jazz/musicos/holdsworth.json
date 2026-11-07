@@ -1,0 +1,49 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "holdsworth",
+  "nombre": "Allan Holdsworth",
+  "nacimiento": {
+    "anio": 1946,
+    "lugar": "Bradford, Inglaterra"
+  },
+  "muerte": {
+    "anio": 2017
+  },
+  "instrumentos": [
+    "guitarra"
+  ],
+  "corrientes": [
+    "fusion"
+  ],
+  "regiones": [],
+  "spotify": null,
+  "resumen": "Guitarrista inglés de legato fluido que tocaba como un saxofonista. Tocó con Tony Williams y Soft Machine, y es un ídolo de los guitarristas.",
+  "epocas": [
+    {
+      "titulo": "Fusión",
+      "desde": 1985,
+      "hasta": 2009,
+      "texto": "",
+      "discoClave": {
+        "disco": "metal-fatigue",
+        "explicacion": "Su guitarra en su mejor forma."
+      },
+      "discos": [
+        "blues-for-tony"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-allan-holdsworth"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "believe-it-holdsworth",
+    "metal-fatigue",
+    "blues-for-tony"
+  ]
+}

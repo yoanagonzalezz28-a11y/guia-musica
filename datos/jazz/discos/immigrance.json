@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6a1HtLhd3zNccXRNUZ23ge",
+    "tituloEnSpotify": "Immigrance",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "immigrance",
+  "titulo": "Immigrance",
+  "credito": "Snarky Puppy",
+  "lideres": [
+    "snarky-puppy"
+  ],
+  "grabacion": {
+    "desde": 2019,
+    "hasta": 2019,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2019,
+    "detalle": null
+  },
+  "sello": "Ground Up",
+  "musicos": [
+    {
+      "musico": "snarky-puppy",
+      "nombre": "Snarky Puppy",
+      "instrumento": "grupo"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "fusion"
+  ],
+  "comentario": [
+    "Ritmos del mundo y grandes riffs."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

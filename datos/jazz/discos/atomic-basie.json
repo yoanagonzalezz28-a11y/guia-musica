@@ -72,7 +72,7 @@
       "instrumento": "saxos y flauta"
     },
     {
-      "musico": null,
+      "musico": "lockjaw",
       "nombre": "Eddie \"Lockjaw\" Davis",
       "instrumento": "saxo tenor"
     },
@@ -80,6 +80,11 @@
       "musico": null,
       "nombre": "Neal Hefti",
       "instrumento": "arreglos"
+    },
+    {
+      "musico": "jo-jones",
+      "nombre": "Jo Jones",
+      "instrumento": "batería"
     }
   ],
   "personalNota": "Lista parcial.",

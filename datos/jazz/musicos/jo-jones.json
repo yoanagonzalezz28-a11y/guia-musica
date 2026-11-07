@@ -1,0 +1,51 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "jo-jones",
+  "nombre": "Jo Jones",
+  "nacimiento": {
+    "anio": 1911,
+    "lugar": "Chicago"
+  },
+  "muerte": {
+    "anio": 1985
+  },
+  "instrumentos": [
+    "batería"
+  ],
+  "corrientes": [
+    "swing"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Baterista de la orquesta de Count Basie, que pasó el pulso del bombo al hi-hat y le dio al swing su ligereza.",
+  "epocas": [
+    {
+      "titulo": "Swing",
+      "desde": 1955,
+      "hasta": 1960,
+      "texto": "",
+      "discoClave": {
+        "disco": "the-jo-jones-special",
+        "explicacion": "Con músicos de Basie: el swing de Kansas City."
+      },
+      "discos": [
+        "percussion-and-bass"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-jo-jones"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "the-jo-jones-special",
+    "percussion-and-bass",
+    "atomic-basie"
+  ]
+}

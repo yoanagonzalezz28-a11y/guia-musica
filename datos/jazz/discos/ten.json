@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Ten Jason Moran"
+  },
+  "id": "ten",
+  "titulo": "Ten",
+  "credito": "Jason Moran",
+  "lideres": [
+    "moran"
+  ],
+  "grabacion": {
+    "desde": 2010,
+    "hasta": 2010,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2010,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "moran",
+      "nombre": "Jason Moran",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Diez años de su trío."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

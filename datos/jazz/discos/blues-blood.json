@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Blues Blood Immanuel Wilkins"
+  },
+  "id": "blues-blood",
+  "titulo": "Blues Blood",
+  "credito": "Immanuel Wilkins",
+  "lideres": [
+    "wilkins"
+  ],
+  "grabacion": {
+    "desde": 2024,
+    "hasta": 2024,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2024,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "wilkins",
+      "nombre": "Immanuel Wilkins",
+      "instrumento": "saxo alto"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Con voces: blues y espiritualidad."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

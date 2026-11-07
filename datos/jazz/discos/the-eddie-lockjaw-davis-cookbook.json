@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "The Eddie \"Lockjaw\" Davis Cookbook Eddie \"Lockjaw\" Davis"
+  },
+  "id": "the-eddie-lockjaw-davis-cookbook",
+  "titulo": "The Eddie \"Lockjaw\" Davis Cookbook",
+  "credito": "Eddie \"Lockjaw\" Davis",
+  "lideres": [
+    "lockjaw"
+  ],
+  "grabacion": {
+    "desde": 1958,
+    "hasta": 1958,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1958,
+    "detalle": null
+  },
+  "sello": "Prestige",
+  "musicos": [
+    {
+      "musico": "lockjaw",
+      "nombre": "Eddie \"Lockjaw\" Davis",
+      "instrumento": "saxo tenor"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "souljazz"
+  ],
+  "comentario": [
+    "Con Shirley Scott en órgano: soul jazz caliente."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

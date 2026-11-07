@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Gipsy Project & Friends Biréli Lagrène"
+  },
+  "id": "gipsy-project-and-friends",
+  "titulo": "Gipsy Project & Friends",
+  "credito": "Biréli Lagrène",
+  "lideres": [
+    "lagrene"
+  ],
+  "grabacion": {
+    "desde": 2002,
+    "hasta": 2002,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2002,
+    "detalle": null
+  },
+  "sello": "Dreyfus",
+  "musicos": [
+    {
+      "musico": "lagrene",
+      "nombre": "Biréli Lagrène",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "manouche"
+  ],
+  "comentario": [
+    "La continuación, con invitados."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

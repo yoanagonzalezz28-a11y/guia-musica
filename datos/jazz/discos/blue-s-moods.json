@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0oZscxw9EwwZFojHvMGRGg",
+    "tituloEnSpotify": "Blue's Moods (Remastered 2024)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "blue-s-moods",
+  "titulo": "Blue's Moods",
+  "credito": "Blue Mitchell",
+  "lideres": [
+    "blue-mitchell"
+  ],
+  "grabacion": {
+    "desde": 1960,
+    "hasta": 1960,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1960,
+    "detalle": null
+  },
+  "sello": "Riverside",
+  "musicos": [
+    {
+      "musico": "blue-mitchell",
+      "nombre": "Blue Mitchell",
+      "instrumento": "trompeta"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Cuarteto con Wynton Kelly: baladas y blues de una gran limpieza."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Blue%27s_Moods"
+  },
+  "respaldo": []
+}

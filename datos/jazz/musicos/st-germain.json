@@ -1,0 +1,47 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "st-germain",
+  "nombre": "St Germain",
+  "nacimiento": {
+    "anio": null,
+    "lugar": "París"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "producción",
+    "teclados"
+  ],
+  "corrientes": [
+    "acid"
+  ],
+  "regiones": [],
+  "spotify": null,
+  "resumen": "Proyecto del productor francés Ludovic Navarre, que mezcló el house con el jazz y el blues.",
+  "epocas": [
+    {
+      "titulo": "Acid jazz",
+      "desde": 1995,
+      "hasta": 2000,
+      "texto": "",
+      "discoClave": {
+        "disco": "tourist",
+        "explicacion": "House con samples de blues y vientos de jazz: uno de los discos de jazz electrónico más vendidos."
+      },
+      "discos": [
+        "boulevard"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-st-germain-musician"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "tourist",
+    "boulevard"
+  ]
+}

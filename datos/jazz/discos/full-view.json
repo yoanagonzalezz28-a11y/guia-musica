@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Full View Wynton Kelly"
+  },
+  "id": "full-view",
+  "titulo": "Full View",
+  "credito": "Wynton Kelly",
+  "lideres": [
+    "wynton-kelly"
+  ],
+  "grabacion": {
+    "desde": 1967,
+    "hasta": 1967,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1967,
+    "detalle": null
+  },
+  "sello": "Milestone",
+  "musicos": [
+    {
+      "musico": "wynton-kelly",
+      "nombre": "Wynton Kelly",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Trío de sus últimos años."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

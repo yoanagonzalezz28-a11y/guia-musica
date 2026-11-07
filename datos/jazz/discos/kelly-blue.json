@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Kelly Blue Wynton Kelly"
+  },
+  "id": "kelly-blue",
+  "titulo": "Kelly Blue",
+  "credito": "Wynton Kelly",
+  "lideres": [
+    "wynton-kelly"
+  ],
+  "grabacion": {
+    "desde": 1959,
+    "hasta": 1959,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1959,
+    "detalle": null
+  },
+  "sello": "Riverside",
+  "musicos": [
+    {
+      "musico": "wynton-kelly",
+      "nombre": "Wynton Kelly",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Con Nat Adderley y Benny Golson: el blues del pianista más alegre."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Kelly_Blue"
+  },
+  "respaldo": []
+}

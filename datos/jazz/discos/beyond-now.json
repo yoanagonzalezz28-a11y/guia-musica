@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Beyond Now Donny McCaslin"
+  },
+  "id": "beyond-now",
+  "titulo": "Beyond Now",
+  "credito": "Donny McCaslin",
+  "lideres": [
+    "mccaslin"
+  ],
+  "grabacion": {
+    "desde": 2016,
+    "hasta": 2016,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2016,
+    "detalle": null
+  },
+  "sello": "Motéma",
+  "musicos": [
+    {
+      "musico": "mccaslin",
+      "nombre": "Donny McCaslin",
+      "instrumento": "saxo tenor"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Su homenaje a Bowie, con versiones de su música."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

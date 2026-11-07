@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "reino-unido"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "The Quiet Revolution Ronny Jordan"
+  },
+  "id": "the-quiet-revolution",
+  "titulo": "The Quiet Revolution",
+  "credito": "Ronny Jordan",
+  "lideres": [
+    "ronny-jordan"
+  ],
+  "grabacion": {
+    "desde": 1993,
+    "hasta": 1993,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1993,
+    "detalle": null
+  },
+  "sello": "Island",
+  "musicos": [
+    {
+      "musico": "ronny-jordan",
+      "nombre": "Ronny Jordan",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "acid"
+  ],
+  "comentario": [
+    "Con Guru, de Gang Starr, entre los invitados."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2y5N5FEb9giR3d1BP9wX9n",
+    "tituloEnSpotify": "Culcha Vulcha",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "culcha-vulcha",
+  "titulo": "Culcha Vulcha",
+  "credito": "Snarky Puppy",
+  "lideres": [
+    "snarky-puppy"
+  ],
+  "grabacion": {
+    "desde": 2016,
+    "hasta": 2016,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2016,
+    "detalle": null
+  },
+  "sello": "Ground Up",
+  "musicos": [
+    {
+      "musico": "snarky-puppy",
+      "nombre": "Snarky Puppy",
+      "instrumento": "grupo"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "fusion"
+  ],
+  "comentario": [
+    "Su primer disco de estudio sin público: ganó un Grammy."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

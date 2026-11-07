@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "The Thing to Do Blue Mitchell"
+  },
+  "id": "the-thing-to-do",
+  "titulo": "The Thing to Do",
+  "credito": "Blue Mitchell",
+  "lideres": [
+    "blue-mitchell"
+  ],
+  "grabacion": {
+    "desde": 1964,
+    "hasta": 1964,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1964,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "blue-mitchell",
+      "nombre": "Blue Mitchell",
+      "instrumento": "trompeta"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Con Chick Corea joven: hard bop con aire latino."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

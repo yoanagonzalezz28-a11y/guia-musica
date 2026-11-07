@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Give The Bad Plus"
+  },
+  "id": "give",
+  "titulo": "Give",
+  "credito": "The Bad Plus",
+  "lideres": [
+    "bad-plus"
+  ],
+  "grabacion": {
+    "desde": 2004,
+    "hasta": 2004,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2004,
+    "detalle": null
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "bad-plus",
+      "nombre": "The Bad Plus",
+      "instrumento": "grupo"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Con Black Sabbath y Ornette Coleman."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1go9cgw6AMhHv9Zcn9Xj3t",
+    "tituloEnSpotify": "Little Big",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "little-big",
+  "titulo": "Little Big",
+  "credito": "Aaron Parks",
+  "lideres": [
+    "parks"
+  ],
+  "grabacion": {
+    "desde": 2018,
+    "hasta": 2018,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2018,
+    "detalle": null
+  },
+  "sello": "Ropeadope",
+  "musicos": [
+    {
+      "musico": "parks",
+      "nombre": "Aaron Parks",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Con su banda eléctrica: jazz, rock y electrónica."
+  ],
+  "ids": {
+    "musicbrainz": "a8a4d956-aebd-43c5-9595-98d4c18d31b9",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

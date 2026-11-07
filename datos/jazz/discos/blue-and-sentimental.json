@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5TYNurFvKuz9z5L4Klwsl6",
+    "tituloEnSpotify": "Blue And Sentimental (Remastered)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "blue-and-sentimental",
+  "titulo": "Blue & Sentimental",
+  "credito": "Ike Quebec",
+  "lideres": [
+    "quebec"
+  ],
+  "grabacion": {
+    "desde": 1962,
+    "hasta": 1962,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1962,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "quebec",
+      "nombre": "Ike Quebec",
+      "instrumento": "saxo tenor"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Con Grant Green y Paul Chambers: baladas susurradas."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Blue_%26_Sentimental"
+  },
+  "respaldo": []
+}

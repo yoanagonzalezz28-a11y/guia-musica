@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Water Gregory Porter"
+  },
+  "id": "water",
+  "titulo": "Water",
+  "credito": "Gregory Porter",
+  "lideres": [
+    "porter"
+  ],
+  "grabacion": {
+    "desde": 2010,
+    "hasta": 2010,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2010,
+    "detalle": null
+  },
+  "sello": "Motéma",
+  "musicos": [
+    {
+      "musico": "porter",
+      "nombre": "Gregory Porter",
+      "instrumento": "voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Su debut: soul jazz con mucha voz."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "The Jo Jones Special Jo Jones"
+  },
+  "id": "the-jo-jones-special",
+  "titulo": "The Jo Jones Special",
+  "credito": "Jo Jones",
+  "lideres": [
+    "jo-jones"
+  ],
+  "grabacion": {
+    "desde": 1955,
+    "hasta": 1955,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1955,
+    "detalle": null
+  },
+  "sello": "Vanguard",
+  "musicos": [
+    {
+      "musico": "jo-jones",
+      "nombre": "Jo Jones",
+      "instrumento": "batería"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "Con músicos de Basie: el swing de Kansas City."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

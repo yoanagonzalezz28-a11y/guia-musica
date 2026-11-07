@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "medio-oriente"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4xc3MwwLL5wFOtZLERUsZH",
+    "tituloEnSpotify": "Ask for Chaos",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "ask-for-chaos",
+  "titulo": "Ask for Chaos",
+  "credito": "Gilad Hekselman",
+  "lideres": [
+    "hekselman"
+  ],
+  "grabacion": {
+    "desde": 2018,
+    "hasta": 2018,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2018,
+    "detalle": null
+  },
+  "sello": "Hexophonic",
+  "musicos": [
+    {
+      "musico": "hekselman",
+      "nombre": "Gilad Hekselman",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Con electrónica."
+  ],
+  "ids": {
+    "musicbrainz": "b9e20d19-11d8-4047-94b0-3dd981d5712e",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

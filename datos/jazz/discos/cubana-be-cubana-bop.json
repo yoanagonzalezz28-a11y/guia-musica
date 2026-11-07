@@ -35,6 +35,11 @@
       "musico": "chanopozo",
       "nombre": "Chano Pozo",
       "instrumento": "conga, composición"
+    },
+    {
+      "musico": "george-russell",
+      "nombre": "George Russell",
+      "instrumento": "composición"
     }
   ],
   "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",

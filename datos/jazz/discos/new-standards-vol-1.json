@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3fn7tQJA1sjZuZbxPiqlWF",
+    "tituloEnSpotify": "New Standards Vol. 1",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "new-standards-vol-1",
+  "titulo": "New Standards Vol. 1",
+  "credito": "Terri Lyne Carrington",
+  "lideres": [
+    "carrington"
+  ],
+  "grabacion": {
+    "desde": 2022,
+    "hasta": 2022,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2022,
+    "detalle": null
+  },
+  "sello": "Candid",
+  "musicos": [
+    {
+      "musico": "carrington",
+      "nombre": "Terri Lyne Carrington",
+      "instrumento": "batería, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Temas de compositoras: ganó un Grammy."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

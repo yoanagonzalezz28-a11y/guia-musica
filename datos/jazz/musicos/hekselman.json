@@ -1,0 +1,50 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "hekselman",
+  "nombre": "Gilad Hekselman",
+  "nacimiento": {
+    "anio": 1983,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "guitarra"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "regiones": [
+    "medio-oriente"
+  ],
+  "spotify": "https://open.spotify.com/artist/5oNJNBpUU3zRyC8xHwCnQL",
+  "resumen": "Guitarrista israelí radicado en Nueva York, de sonido limpio y lírico.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2013,
+      "hasta": 2018,
+      "texto": "",
+      "discoClave": {
+        "disco": "this-just-in",
+        "explicacion": "Trío con Joe Martin y Marcus Gilmore."
+      },
+      "discos": [
+        "homes",
+        "ask-for-chaos"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-gilad-hekselman"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "this-just-in",
+    "homes",
+    "ask-for-chaos"
+  ]
+}

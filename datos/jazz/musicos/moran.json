@@ -1,0 +1,50 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "moran",
+  "nombre": "Jason Moran",
+  "nacimiento": {
+    "anio": 1975,
+    "lugar": "Houston"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Pianista que tocó con Charles Lloyd y que trabaja entre el jazz, el arte contemporáneo y el hip hop.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 1999,
+      "hasta": 2010,
+      "texto": "",
+      "discoClave": {
+        "disco": "soundtrack-to-human-motion",
+        "explicacion": "Su debut: piano moderno e inquieto."
+      },
+      "discos": [
+        "the-bandwagon",
+        "ten"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-jason-moran-musician"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "soundtrack-to-human-motion",
+    "the-bandwagon",
+    "ten"
+  ]
+}

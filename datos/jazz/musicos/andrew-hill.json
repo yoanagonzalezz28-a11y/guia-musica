@@ -1,0 +1,57 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "andrew-hill",
+  "nombre": "Andrew Hill",
+  "nacimiento": {
+    "anio": 1931,
+    "lugar": "Chicago"
+  },
+  "muerte": {
+    "anio": 2007
+  },
+  "instrumentos": [
+    "piano",
+    "composición"
+  ],
+  "corrientes": [
+    "free"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy",
+  "resumen": "Pianista y compositor de Blue Note de armonía muy personal y ritmos que se desplazan: uno de los compositores más originales de los 60.",
+  "epocas": [
+    {
+      "titulo": "Free jazz",
+      "desde": 1964,
+      "hasta": 2006,
+      "texto": "",
+      "discoClave": {
+        "disco": "point-of-departure",
+        "explicacion": "Con Eric Dolphy, Joe Henderson y Kenny Dorham: una cumbre de la vanguardia de Blue Note."
+      },
+      "discos": [
+        "black-fire",
+        "judgment",
+        "divine-revelation",
+        "time-lines"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-andrew-hill"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "point-of-departure",
+    "black-fire",
+    "judgment",
+    "divine-revelation",
+    "time-lines"
+  ]
+}

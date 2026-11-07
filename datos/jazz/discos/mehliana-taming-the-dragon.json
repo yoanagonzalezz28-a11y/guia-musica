@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7veyvtvK49ca1UMEEmZ00q",
+    "tituloEnSpotify": "Mehliana: Taming the Dragon",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "mehliana-taming-the-dragon",
+  "titulo": "Mehliana: Taming the Dragon",
+  "credito": "Mark Guiliana",
+  "lideres": [
+    "guiliana"
+  ],
+  "grabacion": {
+    "desde": 2014,
+    "hasta": 2014,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2014,
+    "detalle": null
+  },
+  "sello": "Nonesuch",
+  "musicos": [
+    {
+      "musico": "guiliana",
+      "nombre": "Mark Guiliana",
+      "instrumento": "batería"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Dúo con Brad Mehldau en sintetizadores."
+  ],
+  "ids": {
+    "musicbrainz": "61acd184-c7bf-4b02-8454-37d65a752de1",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

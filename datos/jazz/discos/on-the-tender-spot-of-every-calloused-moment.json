@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6PTSXZ3c5ZsZzmYUD749ji",
+    "tituloEnSpotify": "on the tender spot of every calloused moment",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "on-the-tender-spot-of-every-calloused-moment",
+  "titulo": "On the Tender Spot of Every Calloused Moment",
+  "credito": "Ambrose Akinmusire",
+  "lideres": [
+    "akinmusire"
+  ],
+  "grabacion": {
+    "desde": 2020,
+    "hasta": 2020,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2020,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "akinmusire",
+      "nombre": "Ambrose Akinmusire",
+      "instrumento": "trompeta, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Cuarteto: blues y canción."
+  ],
+  "ids": {
+    "musicbrainz": "e379fe82-8512-42f4-a57c-915738106808",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

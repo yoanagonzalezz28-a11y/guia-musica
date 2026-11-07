@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4XZmtRKGaFmcJHak5xii6m",
+    "tituloEnSpotify": "KingMaker",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "kingmaker",
+  "titulo": "KingMaker",
+  "credito": "Joel Ross",
+  "lideres": [
+    "joel-ross"
+  ],
+  "grabacion": {
+    "desde": 2019,
+    "hasta": 2019,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2019,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "joel-ross",
+      "nombre": "Joel Ross",
+      "instrumento": "vibráfono"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Su debut: vibráfono moderno con Immanuel Wilkins."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

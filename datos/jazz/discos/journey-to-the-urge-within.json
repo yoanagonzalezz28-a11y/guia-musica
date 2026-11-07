@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "reino-unido"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Journey to the Urge Within Courtney Pine"
+  },
+  "id": "journey-to-the-urge-within",
+  "titulo": "Journey to the Urge Within",
+  "credito": "Courtney Pine",
+  "lideres": [
+    "courtney-pine"
+  ],
+  "grabacion": {
+    "desde": 1986,
+    "hasta": 1986,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1986,
+    "detalle": null
+  },
+  "sello": "Island",
+  "musicos": [
+    {
+      "musico": "courtney-pine",
+      "nombre": "Courtney Pine",
+      "instrumento": "saxo tenor, saxo soprano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "neotrad"
+  ],
+  "comentario": [
+    "Su debut, uno de los discos de jazz más vendidos en Inglaterra."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

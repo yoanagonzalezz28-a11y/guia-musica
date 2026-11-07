@@ -1,0 +1,53 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "wynton-kelly",
+  "nombre": "Wynton Kelly",
+  "nacimiento": {
+    "anio": 1931,
+    "lugar": "Jamaica"
+  },
+  "muerte": {
+    "anio": 1971
+  },
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "hard-bop"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Pianista del quinteto de Miles Davis de fines de los 50, de swing alegre y bluesero.",
+  "epocas": [
+    {
+      "titulo": "Hard bop",
+      "desde": 1959,
+      "hasta": 1967,
+      "texto": "",
+      "discoClave": {
+        "disco": "kelly-blue",
+        "explicacion": "Con Nat Adderley y Benny Golson: el blues del pianista más alegre."
+      },
+      "discos": [
+        "kelly-at-midnite",
+        "full-view"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-wynton-kelly"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "kelly-blue",
+    "kelly-at-midnite",
+    "smokin-at-the-half-note",
+    "full-view"
+  ]
+}

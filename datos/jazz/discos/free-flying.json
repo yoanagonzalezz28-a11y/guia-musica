@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1Qvqde6pj6KPoRnKxdOsvO",
+    "tituloEnSpotify": "Free Flying",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "free-flying",
+  "titulo": "Free Flying",
+  "credito": "Fred Hersch",
+  "lideres": [
+    "hersch"
+  ],
+  "grabacion": {
+    "desde": 2013,
+    "hasta": 2013,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2013,
+    "detalle": null
+  },
+  "sello": "Palmetto",
+  "musicos": [
+    {
+      "musico": "hersch",
+      "nombre": "Fred Hersch",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Dúo con el guitarrista Julian Lage."
+  ],
+  "ids": {
+    "musicbrainz": "9a6cb68c-340d-4fb1-a60c-893048e21261",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

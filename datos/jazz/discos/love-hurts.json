@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/72SR28cHjGmcS8xaJJ0fve",
+    "tituloEnSpotify": "Love Hurts",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "love-hurts",
+  "titulo": "Love Hurts",
+  "credito": "Julian Lage",
+  "lideres": [
+    "lage"
+  ],
+  "grabacion": {
+    "desde": 2019,
+    "hasta": 2019,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2019,
+    "detalle": null
+  },
+  "sello": "Mack Avenue",
+  "musicos": [
+    {
+      "musico": "lage",
+      "nombre": "Julian Lage",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Trío con Dave King: de Roy Orbison a Ornette Coleman."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,52 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "cassandra",
+  "nombre": "Cassandra Wilson",
+  "nacimiento": {
+    "anio": 1955,
+    "lugar": "Jackson, Misisipi"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "voz"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha",
+  "resumen": "Cantante de voz grave y oscura que llevó al jazz el blues del Delta, el folk y el pop.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 1993,
+      "hasta": 2010,
+      "texto": "",
+      "discoClave": {
+        "disco": "blue-light-til-dawn",
+        "explicacion": "Robert Johnson y Joni Mitchell con guitarras acústicas: un disco que cambió su carrera."
+      },
+      "discos": [
+        "new-moon-daughter",
+        "traveling-miles",
+        "silver-pony"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-cassandra-wilson"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "blue-light-til-dawn",
+    "new-moon-daughter",
+    "traveling-miles",
+    "silver-pony"
+  ]
+}

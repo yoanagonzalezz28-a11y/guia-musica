@@ -1,0 +1,51 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "buddy-rich",
+  "nombre": "Buddy Rich",
+  "nacimiento": {
+    "anio": 1917,
+    "lugar": "Nueva York"
+  },
+  "muerte": {
+    "anio": 1987
+  },
+  "instrumentos": [
+    "batería",
+    "dirección"
+  ],
+  "corrientes": [
+    "swing"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs",
+  "resumen": "Baterista de técnica asombrosa, que nunca estudió formalmente. Su big band de los 60 y 70 mezcló el swing con el rock y el funk.",
+  "epocas": [
+    {
+      "titulo": "Swing",
+      "desde": 1967,
+      "hasta": 1968,
+      "texto": "",
+      "discoClave": {
+        "disco": "big-swing-face",
+        "explicacion": "Su big band en vivo: arreglos modernos y una batería imparable."
+      },
+      "discos": [
+        "mercy-mercy"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-buddy-rich"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "big-swing-face",
+    "mercy-mercy"
+  ]
+}

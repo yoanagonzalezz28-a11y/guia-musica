@@ -1,0 +1,48 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "jamiroquai",
+  "nombre": "Jamiroquai",
+  "nacimiento": {
+    "anio": null,
+    "lugar": "Londres"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "grupo"
+  ],
+  "corrientes": [
+    "acid"
+  ],
+  "regiones": [
+    "reino-unido"
+  ],
+  "spotify": null,
+  "resumen": "Banda londinense liderada por el cantante Jay Kay, que salió del sello Acid Jazz y se volvió un fenómeno del pop.",
+  "epocas": [
+    {
+      "titulo": "Acid jazz",
+      "desde": 1993,
+      "hasta": 1994,
+      "texto": "",
+      "discoClave": {
+        "disco": "emergency-on-planet-earth",
+        "explicacion": "Su debut: funk y soul con didgeridoo y una voz cercana a Stevie Wonder."
+      },
+      "discos": [
+        "the-return-of-the-space-cowboy"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-jamiroquai"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "emergency-on-planet-earth",
+    "the-return-of-the-space-cowboy"
+  ]
+}

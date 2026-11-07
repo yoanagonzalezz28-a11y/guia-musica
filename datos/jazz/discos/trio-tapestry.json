@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Trio Tapestry Joe Lovano"
+  },
+  "id": "trio-tapestry",
+  "titulo": "Trio Tapestry",
+  "credito": "Joe Lovano",
+  "lideres": [
+    "lovano"
+  ],
+  "grabacion": {
+    "desde": 2019,
+    "hasta": 2019,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2019,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "lovano",
+      "nombre": "Joe Lovano",
+      "instrumento": "saxo tenor"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Con Marilyn Crispell y Carmen Castaldi: silencio y tenor."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

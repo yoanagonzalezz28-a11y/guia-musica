@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "New Moon Daughter Cassandra Wilson"
+  },
+  "id": "new-moon-daughter",
+  "titulo": "New Moon Daughter",
+  "credito": "Cassandra Wilson",
+  "lideres": [
+    "cassandra"
+  ],
+  "grabacion": {
+    "desde": 1995,
+    "hasta": 1995,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1995,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "cassandra",
+      "nombre": "Cassandra Wilson",
+      "instrumento": "voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Ganó un Grammy: blues, pop y jazz."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

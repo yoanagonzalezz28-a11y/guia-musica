@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "reino-unido"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Journey to the Mountain of Forever Binker and Moses"
+  },
+  "id": "journey-to-the-mountain-of-forever",
+  "titulo": "Journey to the Mountain of Forever",
+  "credito": "Binker and Moses",
+  "lideres": [
+    "binker-moses"
+  ],
+  "grabacion": {
+    "desde": 2017,
+    "hasta": 2017,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2017,
+    "detalle": null
+  },
+  "sello": "Gearbox",
+  "musicos": [
+    {
+      "musico": "binker-moses",
+      "nombre": "Binker and Moses",
+      "instrumento": "grupo"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "free"
+  ],
+  "comentario": [
+    "Con invitados como Evan Parker: más libre y espiritual."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

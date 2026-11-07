@@ -1,0 +1,80 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "derivaPendiente": [],
+  "id": "manouche",
+  "nombre": "Jazz manouche",
+  "alias": [
+    "Gypsy jazz",
+    "Jazz gitano"
+  ],
+  "lema": "El swing de las guitarras",
+  "tinta": "#7F1D1D",
+  "tintaTexto": "#FFFFFF",
+  "periodo": {
+    "desde": 1934,
+    "hasta": 2026,
+    "aproximado": true
+  },
+  "deriva": [
+    "swing"
+  ],
+  "regiones": [],
+  "lugares": [
+    "París",
+    "Samois-sur-Seine"
+  ],
+  "texto": [
+    "El jazz manouche nació en París a mediados de los años 30, cuando el guitarrista Django Reinhardt y el violinista Stéphane Grappelli formaron el Quintette du Hot Club de France: un grupo de cuerdas, sin batería ni vientos, con dos guitarras rítmicas que hacían de sección.[^wp-gypsy-jazz][^wp-django]",
+    "Reinhardt, de origen manouche, había perdido el uso de dos dedos de la mano izquierda en un incendio y desarrolló una técnica propia para tocar igual a una velocidad enorme.[^wp-django] Su estilo se transmitió de generación en generación en las comunidades gitanas de Francia, Bélgica y Holanda.[^wp-gypsy-jazz]",
+    "Hoy sigue muy vivo, con festivales como el de Samois-sur-Seine, donde vivió Django, y con guitarristas como Biréli Lagrène, que empezó como niño prodigio imitando a Reinhardt y después se abrió a la fusión.[^wp-gypsy-jazz]"
+  ],
+  "suena": [
+    "Guitarras acústicas con un \"pompe\" rítmico que reemplaza a la batería.",
+    "Solos rapidísimos, con arpegios y trémolos.",
+    "Violín, contrabajo y temas de swing, valses y canciones francesas."
+  ],
+  "hitos": [
+    {
+      "fecha": "1934",
+      "texto": "Nace el Quintette du Hot Club de France.[^wp-gypsy-jazz]"
+    },
+    {
+      "fecha": "1940",
+      "texto": "\"Nuages\", el gran éxito de Reinhardt en la Francia ocupada.[^wp-django]"
+    },
+    {
+      "fecha": "1953",
+      "texto": "Muere Django Reinhardt.[^wp-django]"
+    }
+  ],
+  "legado": "Fue una de las primeras formas de jazz nacidas fuera de Estados Unidos con una voz completamente propia, y sigue viva en las comunidades gitanas de Europa.",
+  "musicos": [
+    "django",
+    "grappelli",
+    "lagrene"
+  ],
+  "musicosPendientes": [
+    "Stochelo Rosenberg",
+    "Tchavolo Schmitt",
+    "Angelo Debarre",
+    "Fapy Lafertin"
+  ],
+  "discosEsenciales": [
+    {
+      "disco": "quintette-du-hot-club-de-france",
+      "porque": "El grupo que inventó el estilo."
+    },
+    {
+      "disco": "djangology",
+      "porque": "Django y Grappelli reunidos por última vez."
+    },
+    {
+      "disco": "gypsy-project",
+      "porque": "La tradición tocada hoy."
+    }
+  ],
+  "sinRedescubrimiento": "Falta todavía identificar un disco olvidado del estilo con buen respaldo."
+}

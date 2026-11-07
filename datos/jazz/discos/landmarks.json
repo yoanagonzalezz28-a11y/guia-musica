@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5InHDZVvNbDDvq917BmMgT",
+    "tituloEnSpotify": "Landmarks",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "landmarks",
+  "titulo": "Landmarks",
+  "credito": "Brian Blade",
+  "lideres": [
+    "blade"
+  ],
+  "grabacion": {
+    "desde": 2014,
+    "hasta": 2014,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2014,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "blade",
+      "nombre": "Brian Blade",
+      "instrumento": "batería, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Fellowship Band, más amplio y contemplativo."
+  ],
+  "ids": {
+    "musicbrainz": "2407e724-52b6-4fc0-b201-1584cc772218",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

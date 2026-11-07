@@ -37,10 +37,16 @@
       "musico": "django",
       "nombre": "Django Reinhardt",
       "instrumento": "guitarra"
+    },
+    {
+      "musico": "grappelli",
+      "nombre": "Stéphane Grappelli",
+      "instrumento": "violín"
     }
   ],
   "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
   "corrientes": [
+    "manouche",
     "swing"
   ],
   "comentario": [

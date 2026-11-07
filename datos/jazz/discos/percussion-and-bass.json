@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/08FZo5zuZ9BPao5I6xr7p2",
+    "tituloEnSpotify": "Percussion and Bass",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "percussion-and-bass",
+  "titulo": "Percussion and Bass",
+  "credito": "Jo Jones",
+  "lideres": [
+    "jo-jones"
+  ],
+  "grabacion": {
+    "desde": 1960,
+    "hasta": 1960,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1960,
+    "detalle": null
+  },
+  "sello": "Everest",
+  "musicos": [
+    {
+      "musico": "jo-jones",
+      "nombre": "Jo Jones",
+      "instrumento": "batería"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "Dúos de batería y contrabajo con Milt Hinton."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

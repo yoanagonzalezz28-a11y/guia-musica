@@ -1,0 +1,69 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "george-russell",
+  "nombre": "George Russell",
+  "nacimiento": {
+    "anio": 1923,
+    "lugar": "Cincinnati"
+  },
+  "muerte": {
+    "anio": 2009
+  },
+  "instrumentos": [
+    "composición",
+    "piano",
+    "teoría"
+  ],
+  "corrientes": [
+    "cool",
+    "modal"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Compositor y teórico que escribió el *Lydian Chromatic Concept*, una de las bases teóricas del jazz modal que tomaron Miles Davis y Bill Evans.",
+  "epocas": [
+    {
+      "titulo": "Cool",
+      "desde": 1957,
+      "hasta": 1959,
+      "texto": "",
+      "discoClave": {
+        "disco": "jazz-workshop",
+        "explicacion": "Con Bill Evans y Art Farmer: composiciones que ya piensan en modos."
+      },
+      "discos": [
+        "new-york-n-y"
+      ]
+    },
+    {
+      "titulo": "Jazz modal",
+      "desde": 1961,
+      "hasta": 1962,
+      "texto": "",
+      "discoClave": {
+        "disco": "ezz-thetics",
+        "explicacion": "Sexteto con Eric Dolphy: \"'Round Midnight\" reinventado."
+      },
+      "discos": [
+        "the-outer-view"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-george-russell-composer"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "jazz-workshop",
+    "new-york-n-y",
+    "ezz-thetics",
+    "the-outer-view",
+    "cubana-be-cubana-bop"
+  ]
+}

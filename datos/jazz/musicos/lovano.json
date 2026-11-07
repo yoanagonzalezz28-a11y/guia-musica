@@ -1,0 +1,64 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "lovano",
+  "nombre": "Joe Lovano",
+  "nacimiento": {
+    "anio": 1952,
+    "lugar": "Cleveland"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "saxo tenor"
+  ],
+  "corrientes": [
+    "neotrad",
+    "ecm"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Saxofonista tenor de sonido grueso y cálido, que tocó con Paul Motian y Bill Frisell. Une la tradición del tenor con una gran libertad.",
+  "epocas": [
+    {
+      "titulo": "Neotradicionalismo",
+      "desde": 1992,
+      "hasta": 2000,
+      "texto": "",
+      "discoClave": {
+        "disco": "from-the-soul",
+        "explicacion": "Con Michel Petrucciani, Dave Holland y Ed Blackwell."
+      },
+      "discos": [
+        "rush-hour",
+        "52nd-street-themes"
+      ]
+    },
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 2019,
+      "hasta": 2019,
+      "texto": "",
+      "discoClave": {
+        "disco": "trio-tapestry",
+        "explicacion": "Con Marilyn Crispell y Carmen Castaldi: silencio y tenor."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-joe-lovano"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "from-the-soul",
+    "rush-hour",
+    "52nd-street-themes",
+    "trio-tapestry",
+    "arctic-riff"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "kokoroko",
+  "nombre": "Kokoroko",
+  "nacimiento": {
+    "anio": null,
+    "lugar": "Londres"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "grupo"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "regiones": [
+    "reino-unido"
+  ],
+  "spotify": null,
+  "resumen": "Grupo londinense que mezcla el afrobeat, el highlife y el jazz, liderado por la trompetista Sheila Maurice-Grey.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2019,
+      "hasta": 2022,
+      "texto": "",
+      "discoClave": {
+        "disco": "kokoroko",
+        "explicacion": "EP con \"Abusey Junction\", una balada de guitarra que se volvió muy escuchada."
+      },
+      "discos": [
+        "could-we-be-more"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-kokoroko"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "kokoroko",
+    "could-we-be-more"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2aZJ2ficY62PipHzQRJ7IK",
+    "tituloEnSpotify": "Elegant Gypsy",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "elegant-gypsy",
+  "titulo": "Elegant Gypsy",
+  "credito": "Al Di Meola",
+  "lideres": [
+    "di-meola"
+  ],
+  "grabacion": {
+    "desde": 1977,
+    "hasta": 1977,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1977,
+    "detalle": null
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "di-meola",
+      "nombre": "Al Di Meola",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "fusion"
+  ],
+  "comentario": [
+    "Fusión con aire flamenco, con \"Mediterranean Sundance\"."
+  ],
+  "ids": {
+    "musicbrainz": "99004d46-0033-3a7e-af3e-4de2a5ed57dd",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Elegant_Gypsy"
+  },
+  "respaldo": []
+}

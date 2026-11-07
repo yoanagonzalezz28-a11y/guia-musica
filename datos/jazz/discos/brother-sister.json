@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "reino-unido"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Brother Sister The Brand New Heavies"
+  },
+  "id": "brother-sister",
+  "titulo": "Brother Sister",
+  "credito": "The Brand New Heavies",
+  "lideres": [
+    "brand-new-heavies"
+  ],
+  "grabacion": {
+    "desde": 1994,
+    "hasta": 1994,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1994,
+    "detalle": null
+  },
+  "sello": "FFRR",
+  "musicos": [
+    {
+      "musico": "brand-new-heavies",
+      "nombre": "The Brand New Heavies",
+      "instrumento": "grupo"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "acid"
+  ],
+  "comentario": [
+    "Con N'Dea Davenport: su disco más popular."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

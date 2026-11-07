@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Überjam John Scofield"
+  },
+  "id": "uberjam",
+  "titulo": "Überjam",
+  "credito": "John Scofield",
+  "lideres": [
+    "scofield"
+  ],
+  "grabacion": {
+    "desde": 2002,
+    "hasta": 2002,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2002,
+    "detalle": null
+  },
+  "sello": "Verve",
+  "musicos": [
+    {
+      "musico": "scofield",
+      "nombre": "John Scofield",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "fusion"
+  ],
+  "comentario": [
+    "Funk con electrónica."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

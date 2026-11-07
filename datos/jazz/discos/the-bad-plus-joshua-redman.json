@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2tzJagRYnAeB9j65wJx2j3",
+    "tituloEnSpotify": "The Bad Plus Joshua Redman",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "the-bad-plus-joshua-redman",
+  "titulo": "The Bad Plus Joshua Redman",
+  "credito": "The Bad Plus",
+  "lideres": [
+    "bad-plus"
+  ],
+  "grabacion": {
+    "desde": 2015,
+    "hasta": 2015,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2015,
+    "detalle": null
+  },
+  "sello": "Nonesuch",
+  "musicos": [
+    {
+      "musico": "bad-plus",
+      "nombre": "The Bad Plus",
+      "instrumento": "grupo"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Con Joshua Redman en saxo."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

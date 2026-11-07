@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "lage",
+  "nombre": "Julian Lage",
+  "nacimiento": {
+    "anio": 1987,
+    "lugar": "Santa Rosa, California"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "guitarra"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT",
+  "resumen": "Guitarrista que fue un niño prodigio y tocó con Gary Burton de adolescente. Su música une el jazz con el folk, el country y el blues.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2015,
+      "hasta": 2024,
+      "texto": "",
+      "discoClave": {
+        "disco": "world-s-fair",
+        "explicacion": "Guitarra acústica sola."
+      },
+      "discos": [
+        "arclight",
+        "love-hurts",
+        "squint",
+        "speak-to-me"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-julian-lage"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "world-s-fair",
+    "arclight",
+    "love-hurts",
+    "squint",
+    "speak-to-me"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "lagrene",
+  "nombre": "Biréli Lagrène",
+  "nacimiento": {
+    "anio": 1966,
+    "lugar": "Soufflenheim, Francia"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "guitarra"
+  ],
+  "corrientes": [
+    "manouche",
+    "fusion"
+  ],
+  "regiones": [],
+  "spotify": "https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS",
+  "resumen": "Guitarrista francés de familia manouche, que de chico tocaba como Django Reinhardt y después pasó por la fusión, con Jaco Pastorius, antes de volver a sus raíces.",
+  "epocas": [
+    {
+      "titulo": "Jazz manouche",
+      "desde": 1980,
+      "hasta": 2002,
+      "texto": "",
+      "discoClave": {
+        "disco": "routes-to-django",
+        "explicacion": "Su debut a los 13 años: Django reencarnado."
+      },
+      "discos": [
+        "standards",
+        "gypsy-project",
+        "gipsy-project-and-friends"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-bireli-lagrene"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "routes-to-django",
+    "standards",
+    "gypsy-project",
+    "gipsy-project-and-friends"
+  ]
+}

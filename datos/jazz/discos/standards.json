@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Standards Biréli Lagrène"
+  },
+  "id": "standards",
+  "titulo": "Standards",
+  "credito": "Biréli Lagrène",
+  "lideres": [
+    "lagrene"
+  ],
+  "grabacion": {
+    "desde": 1992,
+    "hasta": 1992,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1992,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "lagrene",
+      "nombre": "Biréli Lagrène",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "manouche"
+  ],
+  "comentario": [
+    "Estándares en trío."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

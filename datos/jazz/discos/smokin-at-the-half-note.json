@@ -39,6 +39,11 @@
       "musico": "wes",
       "nombre": "Wes Montgomery",
       "instrumento": "guitarra"
+    },
+    {
+      "musico": "wynton-kelly",
+      "nombre": "Wynton Kelly",
+      "instrumento": "piano"
     }
   ],
   "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",

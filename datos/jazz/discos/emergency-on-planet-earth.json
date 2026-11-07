@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "reino-unido"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Emergency on Planet Earth Jamiroquai"
+  },
+  "id": "emergency-on-planet-earth",
+  "titulo": "Emergency on Planet Earth",
+  "credito": "Jamiroquai",
+  "lideres": [
+    "jamiroquai"
+  ],
+  "grabacion": {
+    "desde": 1993,
+    "hasta": 1993,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1993,
+    "detalle": null
+  },
+  "sello": "Sony",
+  "musicos": [
+    {
+      "musico": "jamiroquai",
+      "nombre": "Jamiroquai",
+      "instrumento": "grupo"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "acid"
+  ],
+  "comentario": [
+    "Su debut: funk y soul con didgeridoo y una voz cercana a Stevie Wonder."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

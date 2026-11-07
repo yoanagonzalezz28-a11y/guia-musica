@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0tsowrhCb9ezNEbhG7Xy0W",
+    "tituloEnSpotify": "Fuchsia Swing Song",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "fuchsia-swing-song",
+  "titulo": "Fuchsia Swing Song",
+  "credito": "Sam Rivers",
+  "lideres": [
+    "rivers"
+  ],
+  "grabacion": {
+    "desde": 1964,
+    "hasta": 1964,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1964,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "rivers",
+      "nombre": "Sam Rivers",
+      "instrumento": "saxo tenor, flauta, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "free"
+  ],
+  "comentario": [
+    "Con Jaki Byard, Ron Carter y Tony Williams: hard bop que se abre a la libertad."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

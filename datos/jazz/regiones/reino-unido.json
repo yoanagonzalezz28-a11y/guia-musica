@@ -1,0 +1,55 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "id": "reino-unido",
+  "nombre": "Reino Unido",
+  "resumen": "Del acid jazz de los clubes de Londres a la escena del sudeste de la ciudad.",
+  "texto": [
+    "Londres tuvo una escena de jazz propia desde los años 50, y en los 60 recibió a músicos exiliados, como los sudafricanos de los Blue Notes y el jamaicano Joe Harriott.[^wp-mcgregor][^wp-harriott] A fines de los 80, los clubes de la ciudad dieron origen al acid jazz.[^wp-acid-jazz]",
+    "Desde los 90, el programa Tomorrow's Warriors formó a una generación de músicos ligada al Caribe y a África, con figuras como Shabaka Hutchings y Nubya Garcia.[^wp-tomorrows-warriors][^wp-shabaka]"
+  ],
+  "corrientes": [
+    "acid",
+    "hoy"
+  ],
+  "musicos": [
+    "binker-moses",
+    "brand-new-heavies",
+    "courtney-pine",
+    "ezra-collective",
+    "galliano",
+    "incognito",
+    "jamiroquai",
+    "kokoroko",
+    "nala-sinephro",
+    "ronny-jordan",
+    "us3",
+    "yussef-dayes"
+  ],
+  "discos": [],
+  "figurasPendientes": [
+    "Gilles Peterson",
+    "Kokoroko",
+    "Moses Boyd",
+    "Ezra Collective",
+    "Yussef Dayes",
+    "Joe Harriott"
+  ],
+  "sellos": [
+    {
+      "nombre": "Acid Jazz Records",
+      "texto": "El sello de Gilles Peterson y Eddie Piller, fundado en 1987."
+    },
+    {
+      "nombre": "Talkin' Loud",
+      "texto": "El sello que Peterson fundó en 1990."
+    },
+    {
+      "nombre": "Tomorrow's Warriors",
+      "texto": "El programa de formación de donde salió la escena actual de Londres."
+    }
+  ],
+  "escenaActual": []
+}

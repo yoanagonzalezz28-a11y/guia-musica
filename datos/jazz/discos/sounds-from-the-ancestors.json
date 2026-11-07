@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd",
+    "tituloEnSpotify": "Sounds from the Ancestors",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "sounds-from-the-ancestors",
+  "titulo": "Sounds from the Ancestors",
+  "credito": "Kenny Garrett",
+  "lideres": [
+    "kenny-garrett"
+  ],
+  "grabacion": {
+    "desde": 2021,
+    "hasta": 2021,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2021,
+    "detalle": null
+  },
+  "sello": "Mack Avenue",
+  "musicos": [
+    {
+      "musico": "kenny-garrett",
+      "nombre": "Kenny Garrett",
+      "instrumento": "saxo alto"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Homenaje a la música africana y afroamericana."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

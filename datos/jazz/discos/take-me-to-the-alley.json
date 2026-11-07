@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6cjMoruJCG0xsP8yv8ykg2",
+    "tituloEnSpotify": "Take Me To The Alley",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "take-me-to-the-alley",
+  "titulo": "Take Me to the Alley",
+  "credito": "Gregory Porter",
+  "lideres": [
+    "porter"
+  ],
+  "grabacion": {
+    "desde": 2016,
+    "hasta": 2016,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2016,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "porter",
+      "nombre": "Gregory Porter",
+      "instrumento": "voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Otro Grammy: canciones propias de mucho alma."
+  ],
+  "ids": {
+    "musicbrainz": "531ee5bf-1a73-43b9-98d0-daba01a3888d",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "hersch",
+  "nombre": "Fred Hersch",
+  "nacimiento": {
+    "anio": 1955,
+    "lugar": "Cincinnati"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx",
+  "resumen": "Pianista de una delicadeza enorme, heredero de Bill Evans. Tras un coma en 2008 volvió a tocar y escribió una obra sobre esa experiencia.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2011,
+      "hasta": 2020,
+      "texto": "",
+      "discoClave": {
+        "disco": "alone-at-the-vanguard",
+        "explicacion": "Piano solo en el Village Vanguard."
+      },
+      "discos": [
+        "floating",
+        "open-book",
+        "songs-from-home",
+        "free-flying"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-fred-hersch"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "alone-at-the-vanguard",
+    "floating",
+    "open-book",
+    "songs-from-home",
+    "free-flying"
+  ]
+}

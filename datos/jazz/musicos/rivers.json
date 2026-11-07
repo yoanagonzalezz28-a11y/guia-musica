@@ -1,0 +1,55 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "rivers",
+  "nombre": "Sam Rivers",
+  "nacimiento": {
+    "anio": 1923,
+    "lugar": "El Reno, Oklahoma"
+  },
+  "muerte": {
+    "anio": 2011
+  },
+  "instrumentos": [
+    "saxo tenor",
+    "flauta",
+    "composición"
+  ],
+  "corrientes": [
+    "free"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Saxofonista que tocó brevemente con Miles Davis y luego abrió en Nueva York el Studio Rivbea, centro del jazz de loft de los 70.",
+  "epocas": [
+    {
+      "titulo": "Free jazz",
+      "desde": 1964,
+      "hasta": 1973,
+      "texto": "",
+      "discoClave": {
+        "disco": "fuchsia-swing-song",
+        "explicacion": "Con Jaki Byard, Ron Carter y Tony Williams: hard bop que se abre a la libertad."
+      },
+      "discos": [
+        "contours",
+        "streams"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-sam-rivers"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "fuchsia-swing-song",
+    "contours",
+    "streams",
+    "conference-of-the-birds"
+  ]
+}

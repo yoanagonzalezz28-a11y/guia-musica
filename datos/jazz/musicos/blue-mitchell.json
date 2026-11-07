@@ -1,0 +1,53 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "blue-mitchell",
+  "nombre": "Blue Mitchell",
+  "nacimiento": {
+    "anio": 1930,
+    "lugar": "Miami"
+  },
+  "muerte": {
+    "anio": 1979
+  },
+  "instrumentos": [
+    "trompeta"
+  ],
+  "corrientes": [
+    "hard-bop"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Trompetista de sonido claro y cálido, del quinteto de Horace Silver.",
+  "epocas": [
+    {
+      "titulo": "Hard bop",
+      "desde": 1960,
+      "hasta": 1965,
+      "texto": "",
+      "discoClave": {
+        "disco": "blue-s-moods",
+        "explicacion": "Cuarteto con Wynton Kelly: baladas y blues de una gran limpieza."
+      },
+      "discos": [
+        "the-thing-to-do",
+        "down-with-it"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-blue-mitchell"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "blue-s-moods",
+    "the-thing-to-do",
+    "down-with-it",
+    "song-for-my-father"
+  ]
+}

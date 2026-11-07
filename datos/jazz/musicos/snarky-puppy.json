@@ -1,0 +1,53 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "snarky-puppy",
+  "nombre": "Snarky Puppy",
+  "nacimiento": {
+    "anio": null,
+    "lugar": "Denton, Texas"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "grupo"
+  ],
+  "corrientes": [
+    "fusion",
+    "hoy"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Colectivo dirigido por el bajista Michael League, nacido en la universidad de North Texas. Graban en vivo en estudio, frente a un público con auriculares.",
+  "epocas": [
+    {
+      "titulo": "Fusión",
+      "desde": 2014,
+      "hasta": 2022,
+      "texto": "",
+      "discoClave": {
+        "disco": "we-like-it-here",
+        "explicacion": "Grabado en Holanda: groove, funk y fusión con mucha energía."
+      },
+      "discos": [
+        "culcha-vulcha",
+        "immigrance",
+        "empire-central"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-snarky-puppy"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "we-like-it-here",
+    "culcha-vulcha",
+    "immigrance",
+    "empire-central"
+  ]
+}

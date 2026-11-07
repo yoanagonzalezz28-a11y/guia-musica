@@ -37,6 +37,11 @@
       "musico": "mccann",
       "nombre": "Les McCann",
       "instrumento": "piano, voz"
+    },
+    {
+      "musico": "eddie-harris",
+      "nombre": "Eddie Harris",
+      "instrumento": "saxo tenor"
     }
   ],
   "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",

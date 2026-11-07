@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Consciousness Pat Martino"
+  },
+  "id": "consciousness",
+  "titulo": "Consciousness",
+  "credito": "Pat Martino",
+  "lideres": [
+    "martino"
+  ],
+  "grabacion": {
+    "desde": 1974,
+    "hasta": 1974,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1974,
+    "detalle": null
+  },
+  "sello": "Muse",
+  "musicos": [
+    {
+      "musico": "martino",
+      "nombre": "Pat Martino",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Su guitarra en su mejor forma."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

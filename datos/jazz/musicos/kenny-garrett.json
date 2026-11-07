@@ -1,0 +1,64 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "kenny-garrett",
+  "nombre": "Kenny Garrett",
+  "nacimiento": {
+    "anio": 1960,
+    "lugar": "Detroit"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "saxo alto"
+  ],
+  "corrientes": [
+    "neotrad",
+    "hoy"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Saxofonista alto de Detroit que tocó con Miles Davis en los 80. Su sonido es intenso y espiritual, con raíces en Coltrane.",
+  "epocas": [
+    {
+      "titulo": "Neotradicionalismo",
+      "desde": 1995,
+      "hasta": 1997,
+      "texto": "",
+      "discoClave": {
+        "disco": "songbook",
+        "explicacion": "Todo temas propios: el alto más intenso de su generación."
+      },
+      "discos": [
+        "triology"
+      ]
+    },
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2002,
+      "hasta": 2021,
+      "texto": "",
+      "discoClave": {
+        "disco": "happy-people",
+        "explicacion": "Groove y alegría."
+      },
+      "discos": [
+        "sounds-from-the-ancestors"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-kenny-garrett"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "songbook",
+    "triology",
+    "happy-people",
+    "sounds-from-the-ancestors"
+  ]
+}

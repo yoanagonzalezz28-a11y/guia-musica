@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "reino-unido"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0CAXEcXpruvyGKSTjyLDNu",
+    "tituloEnSpotify": "Black Focus",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "black-focus",
+  "titulo": "Black Focus",
+  "credito": "Yussef Kamaal",
+  "lideres": [
+    "yussef-dayes"
+  ],
+  "grabacion": {
+    "desde": 2016,
+    "hasta": 2016,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2016,
+    "detalle": null
+  },
+  "sello": "Brownswood",
+  "musicos": [
+    {
+      "musico": "yussef-dayes",
+      "nombre": "Yussef Dayes",
+      "instrumento": "batería"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Dúo con el tecladista Kamaal Williams: un disco clave de la nueva escena de Londres."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

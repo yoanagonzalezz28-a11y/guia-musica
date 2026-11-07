@@ -1,0 +1,65 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "rosenwinkel",
+  "nombre": "Kurt Rosenwinkel",
+  "nacimiento": {
+    "anio": 1970,
+    "lugar": "Filadelfia"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "guitarra",
+    "composición"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Guitarrista de sonido etéreo, que canta en falsete junto a la guitarra. Fue una de las influencias más fuertes del jazz de los 2000.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2001,
+      "hasta": 2012,
+      "texto": "",
+      "discoClave": {
+        "disco": "the-next-step",
+        "explicacion": "El cuarteto con Mark Turner: un disco que marcó a toda una generación."
+      },
+      "discos": [
+        "deep-song",
+        "the-remedy",
+        "star-of-jupiter"
+      ]
+    },
+    {
+      "titulo": "Jazz brasileño",
+      "desde": 2017,
+      "hasta": 2017,
+      "texto": "",
+      "discoClave": {
+        "disco": "caipi",
+        "explicacion": "Su disco brasileño, con su propia voz: melódico y luminoso."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-kurt-rosenwinkel"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "the-remedy",
+    "star-of-jupiter",
+    "caipi",
+    "the-next-step",
+    "deep-song"
+  ]
+}

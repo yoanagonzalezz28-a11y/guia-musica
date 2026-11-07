@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r",
+    "tituloEnSpotify": "Dinner Party",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "dinner-party",
+  "titulo": "Dinner Party",
+  "credito": "Terrace Martin",
+  "lideres": [
+    "terrace-martin"
+  ],
+  "grabacion": {
+    "desde": 2020,
+    "hasta": 2020,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2020,
+    "detalle": null
+  },
+  "sello": "Sounds of Crenshaw",
+  "musicos": [
+    {
+      "musico": "terrace-martin",
+      "nombre": "Terrace Martin",
+      "instrumento": "saxo, producción"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Con Robert Glasper y Kamasi Washington."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

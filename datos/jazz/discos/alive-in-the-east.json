@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "reino-unido"
+  ],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7e55UPWBFwM8pnEsf4W2KZ",
+    "tituloEnSpotify": "Alive in the East?",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "alive-in-the-east",
+  "titulo": "Alive in the East?",
+  "credito": "Binker and Moses",
+  "lideres": [
+    "binker-moses"
+  ],
+  "grabacion": {
+    "desde": 2018,
+    "hasta": 2018,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2018,
+    "detalle": null
+  },
+  "sello": "Gearbox",
+  "musicos": [
+    {
+      "musico": "binker-moses",
+      "nombre": "Binker and Moses",
+      "instrumento": "grupo"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "free"
+  ],
+  "comentario": [
+    "En vivo, con improvisación colectiva."
+  ],
+  "ids": {
+    "musicbrainz": "62860dea-f168-4280-b33e-b2d14149fba6",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

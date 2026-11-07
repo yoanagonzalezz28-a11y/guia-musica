@@ -1,0 +1,60 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "parks",
+  "nombre": "Aaron Parks",
+  "nacimiento": {
+    "anio": 1983,
+    "lugar": "Seattle"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv",
+  "resumen": "Pianista de Seattle que tocó con Terence Blanchard. Su disco *Invisible Cinema* marcó a muchos pianistas de su generación.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2008,
+      "hasta": 2018,
+      "texto": "",
+      "discoClave": {
+        "disco": "invisible-cinema",
+        "explicacion": "Melodías amplias y ritmos de rock: un disco de culto."
+      },
+      "discos": [
+        "little-big"
+      ]
+    },
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 2013,
+      "hasta": 2013,
+      "texto": "",
+      "discoClave": {
+        "disco": "arborescence",
+        "explicacion": "Piano solo improvisado."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-aaron-parks"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "invisible-cinema",
+    "arborescence",
+    "little-big"
+  ]
+}

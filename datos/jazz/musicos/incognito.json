@@ -1,0 +1,50 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "incognito",
+  "nombre": "Incognito",
+  "nacimiento": {
+    "anio": null,
+    "lugar": "Londres"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "grupo"
+  ],
+  "corrientes": [
+    "acid"
+  ],
+  "regiones": [
+    "reino-unido"
+  ],
+  "spotify": null,
+  "resumen": "Grupo londinense liderado por el guitarrista Jean-Paul \"Bluey\" Maunick, de jazz funk con voces de soul.",
+  "epocas": [
+    {
+      "titulo": "Acid jazz",
+      "desde": 1991,
+      "hasta": 1993,
+      "texto": "",
+      "discoClave": {
+        "disco": "inside-life",
+        "explicacion": "Su regreso en el sello de Gilles Peterson."
+      },
+      "discos": [
+        "tribes-vibes-and-scribes",
+        "positivity"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-incognito-band"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "inside-life",
+    "tribes-vibes-and-scribes",
+    "positivity"
+  ]
+}

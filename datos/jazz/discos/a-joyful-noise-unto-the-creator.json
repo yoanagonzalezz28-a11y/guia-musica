@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "reino-unido"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "A Joyful Noise unto the Creator Galliano"
+  },
+  "id": "a-joyful-noise-unto-the-creator",
+  "titulo": "A Joyful Noise unto the Creator",
+  "credito": "Galliano",
+  "lideres": [
+    "galliano"
+  ],
+  "grabacion": {
+    "desde": 1992,
+    "hasta": 1992,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1992,
+    "detalle": null
+  },
+  "sello": "Talkin' Loud",
+  "musicos": [
+    {
+      "musico": "galliano",
+      "nombre": "Galliano",
+      "instrumento": "grupo"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "acid"
+  ],
+  "comentario": [
+    "Más espiritual y abierto."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

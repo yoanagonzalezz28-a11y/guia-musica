@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "El Hombre Pat Martino"
+  },
+  "id": "el-hombre",
+  "titulo": "El Hombre",
+  "credito": "Pat Martino",
+  "lideres": [
+    "martino"
+  ],
+  "grabacion": {
+    "desde": 1967,
+    "hasta": 1967,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1967,
+    "detalle": null
+  },
+  "sello": "Prestige",
+  "musicos": [
+    {
+      "musico": "martino",
+      "nombre": "Pat Martino",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "souljazz"
+  ],
+  "comentario": [
+    "Su debut, con órgano: groove y velocidad."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

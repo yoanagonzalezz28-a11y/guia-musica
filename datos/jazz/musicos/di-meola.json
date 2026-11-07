@@ -1,0 +1,50 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "di-meola",
+  "nombre": "Al Di Meola",
+  "nacimiento": {
+    "anio": 1954,
+    "lugar": "Jersey City"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "guitarra"
+  ],
+  "corrientes": [
+    "fusion"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q",
+  "resumen": "Guitarrista de una velocidad enorme, que tocó con Return to Forever y formó con McLaughlin y Paco de Lucía un trío de guitarras acústicas.",
+  "epocas": [
+    {
+      "titulo": "Fusión",
+      "desde": 1976,
+      "hasta": 1981,
+      "texto": "",
+      "discoClave": {
+        "disco": "elegant-gypsy",
+        "explicacion": "Fusión con aire flamenco, con \"Mediterranean Sundance\"."
+      },
+      "discos": [
+        "friday-night-in-san-francisco",
+        "land-of-the-midnight-sun"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-al-di-meola"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "elegant-gypsy",
+    "friday-night-in-san-francisco",
+    "land-of-the-midnight-sun"
+  ]
+}

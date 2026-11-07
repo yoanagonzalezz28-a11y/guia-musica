@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0rhiNKKlceuv2UKA51SfLv",
+    "tituloEnSpotify": "Silver Pony",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "silver-pony",
+  "titulo": "Silver Pony",
+  "credito": "Cassandra Wilson",
+  "lideres": [
+    "cassandra"
+  ],
+  "grabacion": {
+    "desde": 2010,
+    "hasta": 2010,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2010,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "cassandra",
+      "nombre": "Cassandra Wilson",
+      "instrumento": "voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "En vivo y en estudio, con mucho blues."
+  ],
+  "ids": {
+    "musicbrainz": "042fff37-cda8-42a7-8327-d9ec7b6fa922",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

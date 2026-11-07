@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3IhaI3Rp6vzENXQM5uokEo",
+    "tituloEnSpotify": "Big Swing Face (Live)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "big-swing-face",
+  "titulo": "Big Swing Face",
+  "credito": "Buddy Rich",
+  "lideres": [
+    "buddy-rich"
+  ],
+  "grabacion": {
+    "desde": 1967,
+    "hasta": 1967,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1967,
+    "detalle": null
+  },
+  "sello": "Pacific Jazz",
+  "musicos": [
+    {
+      "musico": "buddy-rich",
+      "nombre": "Buddy Rich",
+      "instrumento": "batería, dirección"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "Su big band en vivo: arreglos modernos y una batería imparable."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,51 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "krupa",
+  "nombre": "Gene Krupa",
+  "nacimiento": {
+    "anio": 1909,
+    "lugar": "Chicago"
+  },
+  "muerte": {
+    "anio": 1973
+  },
+  "instrumentos": [
+    "batería"
+  ],
+  "corrientes": [
+    "swing"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/2YODXXiVE8ABc0TfihLOFj",
+  "resumen": "El primer baterista estrella del jazz, con la orquesta de Benny Goodman y en el concierto del Carnegie Hall de 1938.",
+  "epocas": [
+    {
+      "titulo": "Swing",
+      "desde": 1941,
+      "hasta": 1963,
+      "texto": "",
+      "discoClave": {
+        "disco": "drummin-man",
+        "explicacion": "Recopilación de su orquesta de los 40, con Anita O'Day y Roy Eldridge."
+      },
+      "discos": [
+        "drum-boogie"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-gene-krupa"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "drummin-man",
+    "drum-boogie",
+    "carnegie-1938"
+  ]
+}

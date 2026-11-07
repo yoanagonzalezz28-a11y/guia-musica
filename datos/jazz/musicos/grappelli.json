@@ -1,0 +1,53 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "grappelli",
+  "nombre": "Stéphane Grappelli",
+  "nacimiento": {
+    "anio": 1908,
+    "lugar": "París"
+  },
+  "muerte": {
+    "anio": 1997
+  },
+  "instrumentos": [
+    "violín"
+  ],
+  "corrientes": [
+    "manouche",
+    "swing"
+  ],
+  "regiones": [],
+  "spotify": null,
+  "resumen": "Violinista francés que fundó con Django Reinhardt el Quintette du Hot Club de France. Tocó jazz durante setenta años, con músicos de todos los estilos.",
+  "epocas": [
+    {
+      "titulo": "Jazz manouche",
+      "desde": 1969,
+      "hasta": 1979,
+      "texto": "",
+      "discoClave": {
+        "disco": "paris-encounter",
+        "explicacion": "Con Gary Burton: violín y vibráfono."
+      },
+      "discos": [
+        "violinspiration",
+        "young-django"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-stephane-grappelli"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "quintette-du-hot-club-de-france",
+    "djangology",
+    "paris-encounter",
+    "violinspiration",
+    "young-django"
+  ]
+}

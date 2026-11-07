@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Soundtrack to Human Motion Jason Moran"
+  },
+  "id": "soundtrack-to-human-motion",
+  "titulo": "Soundtrack to Human Motion",
+  "credito": "Jason Moran",
+  "lideres": [
+    "moran"
+  ],
+  "grabacion": {
+    "desde": 1999,
+    "hasta": 1999,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1999,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "moran",
+      "nombre": "Jason Moran",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Su debut: piano moderno e inquieto."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

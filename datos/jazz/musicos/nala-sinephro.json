@@ -1,0 +1,49 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "nala-sinephro",
+  "nombre": "Nala Sinephro",
+  "nacimiento": {
+    "anio": null,
+    "lugar": "Londres"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "arpa",
+    "sintetizadores"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "regiones": [
+    "reino-unido"
+  ],
+  "spotify": null,
+  "resumen": "Arpista y compositora belga de origen caribeño radicada en Londres, de un jazz ambiental muy contemplativo.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2021,
+      "hasta": 2024,
+      "texto": "",
+      "discoClave": {
+        "disco": "space-1-8",
+        "explicacion": "Arpa, sintetizadores y saxo de Nubya Garcia: jazz ambiental de una calma enorme."
+      },
+      "discos": [
+        "endlessness"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-nala-sinephro"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "space-1-8",
+    "endlessness"
+  ]
+}

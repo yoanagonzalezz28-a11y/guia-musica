@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "reino-unido"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Dem Ones Binker and Moses"
+  },
+  "id": "dem-ones",
+  "titulo": "Dem Ones",
+  "credito": "Binker and Moses",
+  "lideres": [
+    "binker-moses"
+  ],
+  "grabacion": {
+    "desde": 2015,
+    "hasta": 2015,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2015,
+    "detalle": null
+  },
+  "sello": "Gearbox",
+  "musicos": [
+    {
+      "musico": "binker-moses",
+      "nombre": "Binker and Moses",
+      "instrumento": "grupo"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Saxo y batería, sin nada más."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

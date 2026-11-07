@@ -1,0 +1,50 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "aldana",
+  "nombre": "Melissa Aldana",
+  "nacimiento": {
+    "anio": 1988,
+    "lugar": "Santiago de Chile"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "saxo tenor"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "regiones": [],
+  "spotify": null,
+  "resumen": "Saxofonista chilena, primera mujer y primera sudamericana en ganar el concurso Thelonious Monk de saxo, en 2013.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2014,
+      "hasta": 2024,
+      "texto": "",
+      "discoClave": {
+        "disco": "melissa-aldana-and-crash-trio",
+        "explicacion": "Trío sin piano: tenor sólido y fluido."
+      },
+      "discos": [
+        "visions",
+        "12-stars",
+        "echoes-of-the-inner-prophet"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-melissa-aldana"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "melissa-aldana-and-crash-trio",
+    "visions",
+    "12-stars",
+    "echoes-of-the-inner-prophet"
+  ]
+}

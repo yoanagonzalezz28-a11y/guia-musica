@@ -1,0 +1,87 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "derivaPendiente": [],
+  "id": "acid",
+  "nombre": "Acid jazz",
+  "alias": [
+    "Nu jazz",
+    "Jazz dance"
+  ],
+  "lema": "El jazz vuelve a la pista",
+  "tinta": "#9BC53D",
+  "tintaTexto": "#101318",
+  "periodo": {
+    "desde": 1987,
+    "hasta": 2000,
+    "aproximado": true
+  },
+  "deriva": [
+    "souljazz",
+    "fusion"
+  ],
+  "regiones": [
+    "reino-unido"
+  ],
+  "lugares": [
+    "Londres"
+  ],
+  "texto": [
+    "A fines de los 80, en los clubes de Londres, algunos DJ empezaron a pasar viejos discos de soul jazz, jazz latino y funk para que la gente bailara. De esa escena salió el acid jazz: bandas que tocaban grooves de los 70 con ritmos de la música de club, y productores que sampleaban discos de Blue Note.[^wp-acid-jazz]",
+    "El nombre le dio título a un sello, Acid Jazz Records, fundado en 1987 por Gilles Peterson y Eddie Piller; Peterson fundó después Talkin' Loud.[^wp-acid-jazz-records][^wp-talkin-loud] Por ahí pasaron The Brand New Heavies, Galliano, Incognito y, en sus comienzos, Jamiroquai.",
+    "Del otro lado del Atlántico, el grupo Us3 grabó para Blue Note \"Cantaloop\", armado sobre \"Cantaloupe Island\", de Herbie Hancock, y llegó a las listas de pop de Estados Unidos.[^wp-us3] Muchos músicos de jazz lo miraron con desconfianza, pero la escena le devolvió a esos discos viejos un público joven, y es una de las raíces del jazz londinense actual."
+  ],
+  "suena": [
+    "Grooves de soul jazz y funk de los 70, con baterías de club.",
+    "Samples de discos de jazz y bases de hip hop.",
+    "Voces de soul y vientos cortos, pensados para bailar."
+  ],
+  "hitos": [
+    {
+      "fecha": "1987",
+      "texto": "Nace el sello Acid Jazz Records en Londres.[^wp-acid-jazz-records]"
+    },
+    {
+      "fecha": "1990",
+      "texto": "Gilles Peterson funda Talkin' Loud.[^wp-talkin-loud]"
+    },
+    {
+      "fecha": "1993",
+      "texto": "Us3 edita *Hand on the Torch* en Blue Note.[^wp-us3]"
+    }
+  ],
+  "legado": "Le dio a varias generaciones una puerta de entrada al jazz a través del baile y del sampleo, y preparó el terreno para la escena de Londres de hoy.",
+  "musicos": [
+    "brand-new-heavies",
+    "courtney-pine",
+    "galliano",
+    "incognito",
+    "jamiroquai",
+    "ronny-jordan",
+    "st-germain",
+    "us3"
+  ],
+  "musicosPendientes": [
+    "Gilles Peterson",
+    "Mother Earth",
+    "Corduroy",
+    "United Future Organization"
+  ],
+  "discosEsenciales": [
+    {
+      "disco": "hand-on-the-torch",
+      "porque": "El acid jazz llega a Blue Note y a las listas de pop."
+    },
+    {
+      "disco": "in-pursuit-of-the-13th-note",
+      "porque": "La escena de Talkin' Loud en su forma más pura."
+    },
+    {
+      "disco": "the-antidote",
+      "porque": "La guitarra de jazz sobre bases de hip hop."
+    }
+  ],
+  "sinRedescubrimiento": "Todavía no hay un disco del acid jazz que la crítica considere olvidado y que valga la pena rescatar; se revisará con más tiempo."
+}

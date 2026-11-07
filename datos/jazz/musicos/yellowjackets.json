@@ -1,0 +1,50 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "yellowjackets",
+  "nombre": "Yellowjackets",
+  "nacimiento": {
+    "anio": null,
+    "lugar": "Los Ángeles"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "grupo"
+  ],
+  "corrientes": [
+    "fusion"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Grupo de fusión de Los Ángeles fundado a fines de los 70, con Russell Ferrante en teclados y Bob Mintzer en saxo desde los 90.",
+  "epocas": [
+    {
+      "titulo": "Fusión",
+      "desde": 1981,
+      "hasta": 2020,
+      "texto": "",
+      "discoClave": {
+        "disco": "yellowjackets",
+        "explicacion": "Su debut: fusión melódica y funk."
+      },
+      "discos": [
+        "dreamland",
+        "jackets-xl"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-yellowjackets"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "yellowjackets",
+    "dreamland",
+    "jackets-xl"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "reino-unido"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Heavy Rhyme Experience, Vol. 1 The Brand New Heavies"
+  },
+  "id": "heavy-rhyme-experience-vol-1",
+  "titulo": "Heavy Rhyme Experience, Vol. 1",
+  "credito": "The Brand New Heavies",
+  "lideres": [
+    "brand-new-heavies"
+  ],
+  "grabacion": {
+    "desde": 1992,
+    "hasta": 1992,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1992,
+    "detalle": null
+  },
+  "sello": "Delicious Vinyl",
+  "musicos": [
+    {
+      "musico": "brand-new-heavies",
+      "nombre": "The Brand New Heavies",
+      "instrumento": "grupo"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "acid"
+  ],
+  "comentario": [
+    "Con raperos como Gang Starr y The Pharcyde: el cruce con el hip hop."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

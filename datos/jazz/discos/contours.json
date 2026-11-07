@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4Qk5Ifnki13u4bSvNwXM8Y",
+    "tituloEnSpotify": "Contours",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "contours",
+  "titulo": "Contours",
+  "credito": "Sam Rivers",
+  "lideres": [
+    "rivers"
+  ],
+  "grabacion": {
+    "desde": 1965,
+    "hasta": 1965,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1965,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "rivers",
+      "nombre": "Sam Rivers",
+      "instrumento": "saxo tenor, flauta, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "free"
+  ],
+  "comentario": [
+    "Con Freddie Hubbard y Herbie Hancock: abstracto y enérgico."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

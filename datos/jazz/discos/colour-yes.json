@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5Pdyuk0PEwXvPUKgAwMP46",
+    "tituloEnSpotify": "Colour Yes (Special Edition)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "colour-yes",
+  "titulo": "Colour Yes",
+  "credito": "Matthew Halsall",
+  "lideres": [
+    "halsall"
+  ],
+  "grabacion": {
+    "desde": 2009,
+    "hasta": 2009,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2009,
+    "detalle": null
+  },
+  "sello": "Gondwana",
+  "musicos": [
+    {
+      "musico": "halsall",
+      "nombre": "Matthew Halsall",
+      "instrumento": "trompeta, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Trompeta suave sobre arpa y piano."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

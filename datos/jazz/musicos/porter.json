@@ -1,0 +1,50 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "porter",
+  "nombre": "Gregory Porter",
+  "nacimiento": {
+    "anio": 1971,
+    "lugar": "Sacramento"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "voz"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8",
+  "resumen": "Cantante de barítono profundo, entre el jazz, el soul y el gospel.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2010,
+      "hasta": 2016,
+      "texto": "",
+      "discoClave": {
+        "disco": "water",
+        "explicacion": "Su debut: soul jazz con mucha voz."
+      },
+      "discos": [
+        "liquid-spirit",
+        "take-me-to-the-alley"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-gregory-porter"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "water",
+    "liquid-spirit",
+    "take-me-to-the-alley"
+  ]
+}

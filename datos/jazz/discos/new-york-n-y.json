@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "New York, N.Y. George Russell"
+  },
+  "id": "new-york-n-y",
+  "titulo": "New York, N.Y.",
+  "credito": "George Russell",
+  "lideres": [
+    "george-russell"
+  ],
+  "grabacion": {
+    "desde": 1959,
+    "hasta": 1959,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1959,
+    "detalle": null
+  },
+  "sello": "Decca",
+  "musicos": [
+    {
+      "musico": "george-russell",
+      "nombre": "George Russell",
+      "instrumento": "composición, piano, teoría"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "cool"
+  ],
+  "comentario": [
+    "Una suite sobre Nueva York, con Coltrane y Bill Evans, y narraciones de Jon Hendricks."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

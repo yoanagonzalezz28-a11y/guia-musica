@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/30ZwPC97W0KRA7GKxRogKL",
+    "tituloEnSpotify": "Dreamland",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "dreamland",
+  "titulo": "Dreamland",
+  "credito": "Yellowjackets",
+  "lideres": [
+    "yellowjackets"
+  ],
+  "grabacion": {
+    "desde": 1995,
+    "hasta": 1995,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1995,
+    "detalle": null
+  },
+  "sello": "Warner Bros.",
+  "musicos": [
+    {
+      "musico": "yellowjackets",
+      "nombre": "Yellowjackets",
+      "instrumento": "grupo"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "fusion"
+  ],
+  "comentario": [
+    "Más acústico y lírico."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

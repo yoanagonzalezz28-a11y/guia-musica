@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "courtney-pine",
+  "nombre": "Courtney Pine",
+  "nacimiento": {
+    "anio": 1964,
+    "lugar": "Londres"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "saxo tenor",
+    "saxo soprano"
+  ],
+  "corrientes": [
+    "acid",
+    "hoy"
+  ],
+  "regiones": [
+    "reino-unido"
+  ],
+  "spotify": null,
+  "resumen": "Saxofonista londinense de familia jamaicana, figura del renacimiento del jazz inglés en los 80. Mezcló el jazz con el reggae, el drum and bass y el hip hop.",
+  "epocas": [
+    {
+      "titulo": "Neotradicionalismo",
+      "desde": 1986,
+      "hasta": 1986,
+      "texto": "",
+      "discoClave": {
+        "disco": "journey-to-the-urge-within",
+        "explicacion": "Su debut, uno de los discos de jazz más vendidos en Inglaterra."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Acid jazz",
+      "desde": 1995,
+      "hasta": 1997,
+      "texto": "",
+      "discoClave": {
+        "disco": "modern-day-jazz-stories",
+        "explicacion": "Jazz con hip hop, en el sello de Gilles Peterson."
+      },
+      "discos": [
+        "underground-pine"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-courtney-pine"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "journey-to-the-urge-within",
+    "modern-day-jazz-stories",
+    "underground-pine",
+    "celebration"
+  ]
+}

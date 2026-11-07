@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Metal Fatigue Allan Holdsworth"
+  },
+  "id": "metal-fatigue",
+  "titulo": "Metal Fatigue",
+  "credito": "Allan Holdsworth",
+  "lideres": [
+    "holdsworth"
+  ],
+  "grabacion": {
+    "desde": 1985,
+    "hasta": 1985,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1985,
+    "detalle": null
+  },
+  "sello": "Enigma",
+  "musicos": [
+    {
+      "musico": "holdsworth",
+      "nombre": "Allan Holdsworth",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "fusion"
+  ],
+  "comentario": [
+    "Su guitarra en su mejor forma."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

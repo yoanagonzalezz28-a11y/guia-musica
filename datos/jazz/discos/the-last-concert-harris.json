@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7f56FsWhFwXchIQgxGYZNz",
+    "tituloEnSpotify": "The Last Concert (with WDR Big Band)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "the-last-concert-harris",
+  "titulo": "The Last Concert",
+  "credito": "Eddie Harris",
+  "lideres": [
+    "eddie-harris"
+  ],
+  "grabacion": {
+    "desde": 1996,
+    "hasta": 1996,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1996,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "eddie-harris",
+      "nombre": "Eddie Harris",
+      "instrumento": "saxo tenor, saxo eléctrico"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "souljazz"
+  ],
+  "comentario": [
+    "Con la WDR Big Band, poco antes de su muerte."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

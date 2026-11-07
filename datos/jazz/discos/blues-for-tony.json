@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4V8dnB46g4N6yVnc0LcGut",
+    "tituloEnSpotify": "Blues For Tony",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "blues-for-tony",
+  "titulo": "Blues for Tony",
+  "credito": "Allan Holdsworth",
+  "lideres": [
+    "holdsworth"
+  ],
+  "grabacion": {
+    "desde": 2009,
+    "hasta": 2009,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2009,
+    "detalle": null
+  },
+  "sello": "Moonjune",
+  "musicos": [
+    {
+      "musico": "holdsworth",
+      "nombre": "Allan Holdsworth",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "fusion"
+  ],
+  "comentario": [
+    "Homenaje a Tony Williams."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

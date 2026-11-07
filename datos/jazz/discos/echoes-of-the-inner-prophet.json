@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Echoes of the Inner Prophet Melissa Aldana"
+  },
+  "id": "echoes-of-the-inner-prophet",
+  "titulo": "Echoes of the Inner Prophet",
+  "credito": "Melissa Aldana",
+  "lideres": [
+    "aldana"
+  ],
+  "grabacion": {
+    "desde": 2024,
+    "hasta": 2024,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2024,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "aldana",
+      "nombre": "Melissa Aldana",
+      "instrumento": "saxo tenor"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Más introspectivo."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

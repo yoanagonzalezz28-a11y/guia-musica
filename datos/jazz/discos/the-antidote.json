@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "reino-unido"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "The Antidote Ronny Jordan"
+  },
+  "id": "the-antidote",
+  "titulo": "The Antidote",
+  "credito": "Ronny Jordan",
+  "lideres": [
+    "ronny-jordan"
+  ],
+  "grabacion": {
+    "desde": 1992,
+    "hasta": 1992,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1992,
+    "detalle": null
+  },
+  "sello": "Island",
+  "musicos": [
+    {
+      "musico": "ronny-jordan",
+      "nombre": "Ronny Jordan",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "acid"
+  ],
+  "comentario": [
+    "Con su versión de \"So What\", de Miles Davis, sobre un ritmo de hip hop: un éxito en Inglaterra."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3hSNlSnQb74uUIAFwKZ2uZ",
+    "tituloEnSpotify": "When the World Was One (Special Edition)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "when-the-world-was-one",
+  "titulo": "When the World Was One",
+  "credito": "Matthew Halsall",
+  "lideres": [
+    "halsall"
+  ],
+  "grabacion": {
+    "desde": 2014,
+    "hasta": 2014,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2014,
+    "detalle": null
+  },
+  "sello": "Gondwana",
+  "musicos": [
+    {
+      "musico": "halsall",
+      "nombre": "Matthew Halsall",
+      "instrumento": "trompeta, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Con su Gondwana Orchestra."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

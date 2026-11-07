@@ -1,0 +1,50 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "mccaslin",
+  "nombre": "Donny McCaslin",
+  "nacimiento": {
+    "anio": 1966,
+    "lugar": "Santa Cruz, California"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "saxo tenor"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M",
+  "resumen": "Saxofonista tenor cuyo grupo tocó en *Blackstar*, el último disco de David Bowie. Su música mezcla jazz y electrónica.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2012,
+      "hasta": 2016,
+      "texto": "",
+      "discoClave": {
+        "disco": "casting-for-gravity",
+        "explicacion": "Jazz con ritmos de electrónica."
+      },
+      "discos": [
+        "fast-future",
+        "beyond-now"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-donny-mccaslin"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "casting-for-gravity",
+    "fast-future",
+    "beyond-now"
+  ]
+}

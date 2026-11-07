@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1t59MaIbC4hOUyu4XqK9b4",
+    "tituloEnSpotify": "Floating",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "floating",
+  "titulo": "Floating",
+  "credito": "Fred Hersch",
+  "lideres": [
+    "hersch"
+  ],
+  "grabacion": {
+    "desde": 2014,
+    "hasta": 2014,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2014,
+    "detalle": null
+  },
+  "sello": "Palmetto",
+  "musicos": [
+    {
+      "musico": "hersch",
+      "nombre": "Fred Hersch",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Trío con John Hébert y Eric McPherson."
+  ],
+  "ids": {
+    "musicbrainz": "44ed38c6-5cd1-47f6-a583-2c4f1c4520ac",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

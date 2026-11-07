@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4jV2RWMwMjRfIoxYNqpTAZ",
+    "tituloEnSpotify": "Fast Future (feat. Jason Lindner, Tim Lefebvre & Mark Guiliana)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "fast-future",
+  "titulo": "Fast Future",
+  "credito": "Donny McCaslin",
+  "lideres": [
+    "mccaslin"
+  ],
+  "grabacion": {
+    "desde": 2015,
+    "hasta": 2015,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2015,
+    "detalle": null
+  },
+  "sello": "Greenleaf",
+  "musicos": [
+    {
+      "musico": "mccaslin",
+      "nombre": "Donny McCaslin",
+      "instrumento": "saxo tenor"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Con Mark Guiliana: groove eléctrico y denso."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

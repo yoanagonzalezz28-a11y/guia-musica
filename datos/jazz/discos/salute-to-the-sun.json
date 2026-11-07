@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7KL9LRIsBoto6VAfcQjM0D",
+    "tituloEnSpotify": "Salute to the Sun",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "salute-to-the-sun",
+  "titulo": "Salute to the Sun",
+  "credito": "Matthew Halsall",
+  "lideres": [
+    "halsall"
+  ],
+  "grabacion": {
+    "desde": 2020,
+    "hasta": 2020,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2020,
+    "detalle": null
+  },
+  "sello": "Gondwana",
+  "musicos": [
+    {
+      "musico": "halsall",
+      "nombre": "Matthew Halsall",
+      "instrumento": "trompeta, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Inspirado en la naturaleza."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

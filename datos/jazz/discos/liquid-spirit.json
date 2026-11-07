@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Liquid Spirit Gregory Porter"
+  },
+  "id": "liquid-spirit",
+  "titulo": "Liquid Spirit",
+  "credito": "Gregory Porter",
+  "lideres": [
+    "porter"
+  ],
+  "grabacion": {
+    "desde": 2013,
+    "hasta": 2013,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2013,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "porter",
+      "nombre": "Gregory Porter",
+      "instrumento": "voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Ganó un Grammy."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

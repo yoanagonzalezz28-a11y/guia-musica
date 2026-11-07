@@ -1,0 +1,64 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "eddie-harris",
+  "nombre": "Eddie Harris",
+  "nacimiento": {
+    "anio": 1934,
+    "lugar": "Chicago"
+  },
+  "muerte": {
+    "anio": 1996
+  },
+  "instrumentos": [
+    "saxo tenor",
+    "saxo eléctrico"
+  ],
+  "corrientes": [
+    "souljazz"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Saxofonista pionero del saxo eléctrico, con un pie en el soul jazz y otro en la experimentación. Compuso \"Freedom Jazz Dance\".",
+  "epocas": [
+    {
+      "titulo": "Soul jazz",
+      "desde": 1961,
+      "hasta": 1996,
+      "texto": "",
+      "discoClave": {
+        "disco": "exodus-to-jazz",
+        "explicacion": "Su versión de *Exodus* fue un gran éxito."
+      },
+      "discos": [
+        "the-last-concert-harris"
+      ]
+    },
+    {
+      "titulo": "Hard bop",
+      "desde": 1965,
+      "hasta": 1965,
+      "texto": "",
+      "discoClave": {
+        "disco": "the-in-sound",
+        "explicacion": "Con \"Freedom Jazz Dance\"."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-eddie-harris"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "exodus-to-jazz",
+    "the-in-sound",
+    "swiss-movement",
+    "the-last-concert-harris"
+  ]
+}

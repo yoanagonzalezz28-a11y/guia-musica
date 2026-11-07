@@ -34,7 +34,7 @@
   "sello": "Blue Note",
   "musicos": [
     {
-      "musico": null,
+      "musico": "larry-young",
       "nombre": "Larry Young",
       "instrumento": "órgano Hammond"
     },
@@ -52,6 +52,11 @@
       "musico": "elvin",
       "nombre": "Elvin Jones",
       "instrumento": "batería"
+    },
+    {
+      "musico": "larry-young",
+      "nombre": "Larry Young",
+      "instrumento": "órgano"
     }
   ],
   "corrientes": [

@@ -1,0 +1,52 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "mcduff",
+  "nombre": "Jack McDuff",
+  "nacimiento": {
+    "anio": 1926,
+    "lugar": "Champaign, Illinois"
+  },
+  "muerte": {
+    "anio": 2001
+  },
+  "instrumentos": [
+    "órgano"
+  ],
+  "corrientes": [
+    "souljazz"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Organista del soul jazz, de groove pesado. En su grupo se formó el joven George Benson.",
+  "epocas": [
+    {
+      "titulo": "Soul jazz",
+      "desde": 1961,
+      "hasta": 1966,
+      "texto": "",
+      "discoClave": {
+        "disco": "the-honeydripper",
+        "explicacion": "Con Grant Green: órgano y blues."
+      },
+      "discos": [
+        "live",
+        "tobacco-road"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-jack-mcduff"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "the-honeydripper",
+    "live",
+    "tobacco-road"
+  ]
+}

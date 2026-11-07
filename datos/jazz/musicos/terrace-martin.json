@@ -1,0 +1,51 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "terrace-martin",
+  "nombre": "Terrace Martin",
+  "nacimiento": {
+    "anio": 1978,
+    "lugar": "Los Ángeles"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "saxo",
+    "producción"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Saxofonista y productor de hip hop que trabajó en *To Pimp a Butterfly*, de Kendrick Lamar. Une el jazz con el hip hop y el R&B.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2016,
+      "hasta": 2021,
+      "texto": "",
+      "discoClave": {
+        "disco": "velvet-portraits",
+        "explicacion": "Jazz, funk y R&B con invitados del colectivo de Los Ángeles."
+      },
+      "discos": [
+        "dinner-party",
+        "drones"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-terrace-martin"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "velvet-portraits",
+    "dinner-party",
+    "drones"
+  ]
+}

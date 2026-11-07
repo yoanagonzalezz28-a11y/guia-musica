@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/55hCIHAndPwfVM9mWivwEV",
+    "tituloEnSpotify": "Casting For Gravity",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "casting-for-gravity",
+  "titulo": "Casting for Gravity",
+  "credito": "Donny McCaslin",
+  "lideres": [
+    "mccaslin"
+  ],
+  "grabacion": {
+    "desde": 2012,
+    "hasta": 2012,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2012,
+    "detalle": null
+  },
+  "sello": "Greenleaf",
+  "musicos": [
+    {
+      "musico": "mccaslin",
+      "nombre": "Donny McCaslin",
+      "instrumento": "saxo tenor"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Jazz con ritmos de electrónica."
+  ],
+  "ids": {
+    "musicbrainz": "5f22c87c-b3ec-4d7e-b896-d167f3c1710c",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

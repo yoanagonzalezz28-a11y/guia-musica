@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Soul Samba Ike Quebec"
+  },
+  "id": "soul-samba",
+  "titulo": "Soul Samba",
+  "credito": "Ike Quebec",
+  "lideres": [
+    "quebec"
+  ],
+  "grabacion": {
+    "desde": 1962,
+    "hasta": 1962,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1962,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "quebec",
+      "nombre": "Ike Quebec",
+      "instrumento": "saxo tenor"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "brasil"
+  ],
+  "comentario": [
+    "Bossa nova en saxo tenor."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

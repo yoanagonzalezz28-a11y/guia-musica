@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3OeeKfK9hNDe57rF9FVI7u",
+    "tituloEnSpotify": "Jackets XL",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "jackets-xl",
+  "titulo": "Jackets XL",
+  "credito": "Yellowjackets",
+  "lideres": [
+    "yellowjackets"
+  ],
+  "grabacion": {
+    "desde": 2020,
+    "hasta": 2020,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2020,
+    "detalle": null
+  },
+  "sello": "Mack Avenue",
+  "musicos": [
+    {
+      "musico": "yellowjackets",
+      "nombre": "Yellowjackets",
+      "instrumento": "grupo"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "fusion"
+  ],
+  "comentario": [
+    "Con la WDR Big Band."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

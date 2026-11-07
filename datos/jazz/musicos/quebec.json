@@ -1,0 +1,52 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "quebec",
+  "nombre": "Ike Quebec",
+  "nacimiento": {
+    "anio": 1918,
+    "lugar": "Newark, Nueva Jersey"
+  },
+  "muerte": {
+    "anio": 1963
+  },
+  "instrumentos": [
+    "saxo tenor"
+  ],
+  "corrientes": [
+    "hard-bop"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Tenor de sonido grueso y suave, que además fue cazatalentos de Blue Note. Grabó sus mejores discos poco antes de morir.",
+  "epocas": [
+    {
+      "titulo": "Hard bop",
+      "desde": 1962,
+      "hasta": 1962,
+      "texto": "",
+      "discoClave": {
+        "disco": "blue-and-sentimental",
+        "explicacion": "Con Grant Green y Paul Chambers: baladas susurradas."
+      },
+      "discos": [
+        "heavy-soul",
+        "soul-samba"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-ike-quebec"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "blue-and-sentimental",
+    "heavy-soul",
+    "soul-samba"
+  ]
+}

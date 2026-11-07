@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Drum Boogie Gene Krupa"
+  },
+  "id": "drum-boogie",
+  "titulo": "Drum Boogie",
+  "credito": "Gene Krupa",
+  "lideres": [
+    "krupa"
+  ],
+  "grabacion": {
+    "desde": 1941,
+    "hasta": 1941,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1941,
+    "detalle": null
+  },
+  "sello": "Okeh",
+  "musicos": [
+    {
+      "musico": "krupa",
+      "nombre": "Gene Krupa",
+      "instrumento": "batería"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "El tema que lo convirtió en ídolo."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "The Bandwagon Jason Moran"
+  },
+  "id": "the-bandwagon",
+  "titulo": "The Bandwagon",
+  "credito": "Jason Moran",
+  "lideres": [
+    "moran"
+  ],
+  "grabacion": {
+    "desde": 2003,
+    "hasta": 2003,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2003,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "moran",
+      "nombre": "Jason Moran",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "En vivo en el Village Vanguard con grabaciones de voces habladas."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,50 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "mmw",
+  "nombre": "Medeski, Martin & Wood",
+  "nacimiento": {
+    "anio": null,
+    "lugar": "Nueva York"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "grupo"
+  ],
+  "corrientes": [
+    "fusion"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Trío de órgano, contrabajo y batería que mezcla jazz, funk y música experimental, muy querido por el público de rock.",
+  "epocas": [
+    {
+      "titulo": "Fusión",
+      "desde": 1996,
+      "hasta": 2004,
+      "texto": "",
+      "discoClave": {
+        "disco": "shack-man",
+        "explicacion": "Grabado en una casa en Hawái: groove crudo."
+      },
+      "discos": [
+        "combustication",
+        "end-of-the-world-party-just-in-case"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-medeski-martin-and-wood"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "shack-man",
+    "combustication",
+    "end-of-the-world-party-just-in-case"
+  ]
+}

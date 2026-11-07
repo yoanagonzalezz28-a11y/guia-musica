@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Live! Jack McDuff"
+  },
+  "id": "live",
+  "titulo": "Live!",
+  "credito": "Jack McDuff",
+  "lideres": [
+    "mcduff"
+  ],
+  "grabacion": {
+    "desde": 1963,
+    "hasta": 1963,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1963,
+    "detalle": null
+  },
+  "sello": "Prestige",
+  "musicos": [
+    {
+      "musico": "mcduff",
+      "nombre": "Jack McDuff",
+      "instrumento": "órgano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "souljazz"
+  ],
+  "comentario": [
+    "Con George Benson: groove en vivo, con \"Rock Candy\"."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

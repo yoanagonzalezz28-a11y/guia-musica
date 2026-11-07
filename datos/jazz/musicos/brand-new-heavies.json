@@ -1,0 +1,50 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "brand-new-heavies",
+  "nombre": "The Brand New Heavies",
+  "nacimiento": {
+    "anio": null,
+    "lugar": "Londres"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "grupo"
+  ],
+  "corrientes": [
+    "acid"
+  ],
+  "regiones": [
+    "reino-unido"
+  ],
+  "spotify": null,
+  "resumen": "Banda londinense de funk y soul, una de las primeras estrellas del sello Acid Jazz.",
+  "epocas": [
+    {
+      "titulo": "Acid jazz",
+      "desde": 1990,
+      "hasta": 1994,
+      "texto": "",
+      "discoClave": {
+        "disco": "the-brand-new-heavies",
+        "explicacion": "Su debut: funk y soul de los 70 tocados con la energía de los clubes de Londres."
+      },
+      "discos": [
+        "heavy-rhyme-experience-vol-1",
+        "brother-sister"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-the-brand-new-heavies"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "the-brand-new-heavies",
+    "heavy-rhyme-experience-vol-1",
+    "brother-sister"
+  ]
+}

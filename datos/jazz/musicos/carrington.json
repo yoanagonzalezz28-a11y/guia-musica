@@ -1,0 +1,51 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "carrington",
+  "nombre": "Terri Lyne Carrington",
+  "nacimiento": {
+    "anio": 1965,
+    "lugar": "Medford, Massachusetts"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "batería",
+    "composición"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Baterista que tocó con Herbie Hancock y Wayne Shorter. Dirige el instituto de jazz y justicia de género de Berklee.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2011,
+      "hasta": 2022,
+      "texto": "",
+      "discoClave": {
+        "disco": "the-mosaic-project",
+        "explicacion": "Con músicas mujeres del jazz: ganó un Grammy."
+      },
+      "discos": [
+        "money-jungle-provocative-in-blue",
+        "new-standards-vol-1"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-terri-lyne-carrington"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "the-mosaic-project",
+    "money-jungle-provocative-in-blue",
+    "new-standards-vol-1"
+  ]
+}

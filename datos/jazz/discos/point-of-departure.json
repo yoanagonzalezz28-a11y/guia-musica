@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Point of Departure Andrew Hill"
+  },
+  "id": "point-of-departure",
+  "titulo": "Point of Departure",
+  "credito": "Andrew Hill",
+  "lideres": [
+    "andrew-hill"
+  ],
+  "grabacion": {
+    "desde": 1964,
+    "hasta": 1964,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1964,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "andrew-hill",
+      "nombre": "Andrew Hill",
+      "instrumento": "piano, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "free"
+  ],
+  "comentario": [
+    "Con Eric Dolphy, Joe Henderson y Kenny Dorham: una cumbre de la vanguardia de Blue Note."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

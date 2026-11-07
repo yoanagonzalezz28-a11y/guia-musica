@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Tough Tenors Eddie \"Lockjaw\" Davis"
+  },
+  "id": "tough-tenors",
+  "titulo": "Tough Tenors",
+  "credito": "Eddie \"Lockjaw\" Davis",
+  "lideres": [
+    "lockjaw"
+  ],
+  "grabacion": {
+    "desde": 1960,
+    "hasta": 1960,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1960,
+    "detalle": null
+  },
+  "sello": "Jazzland",
+  "musicos": [
+    {
+      "musico": "lockjaw",
+      "nombre": "Eddie \"Lockjaw\" Davis",
+      "instrumento": "saxo tenor"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Con Johnny Griffin: duelo de tenores."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5i65fkPmv06tmr6a1oPsxg",
+    "tituloEnSpotify": "Origami Harvest",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "origami-harvest",
+  "titulo": "Origami Harvest",
+  "credito": "Ambrose Akinmusire",
+  "lideres": [
+    "akinmusire"
+  ],
+  "grabacion": {
+    "desde": 2018,
+    "hasta": 2018,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2018,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "akinmusire",
+      "nombre": "Ambrose Akinmusire",
+      "instrumento": "trompeta, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Con rap y cuarteto de cuerdas."
+  ],
+  "ids": {
+    "musicbrainz": "199d3e56-64f8-4b06-a792-61822f99c7a2",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

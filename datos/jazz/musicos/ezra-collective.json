@@ -1,0 +1,50 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "ezra-collective",
+  "nombre": "Ezra Collective",
+  "nacimiento": {
+    "anio": null,
+    "lugar": "Londres"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "grupo"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "regiones": [
+    "reino-unido"
+  ],
+  "spotify": null,
+  "resumen": "Quinteto londinense salido de Tomorrow's Warriors, de jazz con afrobeat, hip hop y ritmos latinos. Fue el primer grupo de jazz en ganar el Mercury Prize.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2019,
+      "hasta": 2024,
+      "texto": "",
+      "discoClave": {
+        "disco": "you-can-t-steal-my-joy",
+        "explicacion": "Su debut: groove alegre y vientos fuertes."
+      },
+      "discos": [
+        "where-i-m-meant-to-be",
+        "dance-no-one-s-watching"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-ezra-collective"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "you-can-t-steal-my-joy",
+    "where-i-m-meant-to-be",
+    "dance-no-one-s-watching"
+  ]
+}

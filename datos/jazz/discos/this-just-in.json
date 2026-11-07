@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "medio-oriente"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1lRaYwq94K1OPHifDQPpBK",
+    "tituloEnSpotify": "This Just In",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "this-just-in",
+  "titulo": "This Just In",
+  "credito": "Gilad Hekselman",
+  "lideres": [
+    "hekselman"
+  ],
+  "grabacion": {
+    "desde": 2013,
+    "hasta": 2013,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2013,
+    "detalle": null
+  },
+  "sello": "Jazz Village",
+  "musicos": [
+    {
+      "musico": "hekselman",
+      "nombre": "Gilad Hekselman",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Trío con Joe Martin y Marcus Gilmore."
+  ],
+  "ids": {
+    "musicbrainz": "7fb1afcf-f8b4-4922-9f69-1b910daa9d88",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}
