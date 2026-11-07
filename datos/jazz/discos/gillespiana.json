@@ -20,7 +20,9 @@
   "id": "gillespiana",
   "titulo": "Gillespiana",
   "credito": "Dizzy Gillespie",
-  "lideres": [],
+  "lideres": [
+    "gillespie"
+  ],
   "grabacion": {
     "desde": 1960,
     "hasta": 1960,
@@ -32,6 +34,11 @@
   },
   "sello": "Verve",
   "musicos": [
+    {
+      "musico": "gillespie",
+      "nombre": "Dizzy Gillespie",
+      "instrumento": "trompeta, voz"
+    },
     {
       "musico": "schifrin",
       "nombre": "Lalo Schifrin",

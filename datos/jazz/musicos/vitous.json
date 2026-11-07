@@ -33,7 +33,9 @@
         "disco": "infinite-search",
         "explicacion": "Con John McLaughlin y Herbie Hancock: fusión temprana y libre."
       },
-      "discos": []
+      "discos": [
+        "purple"
+      ]
     },
     {
       "titulo": "ECM y jazz europeo",
@@ -55,6 +57,7 @@
     "infinite-search",
     "now-he-sings-now-he-sobs",
     "weather-report",
-    "first-meeting"
+    "first-meeting",
+    "purple"
   ]
 }

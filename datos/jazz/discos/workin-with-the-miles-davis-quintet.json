@@ -21,7 +21,9 @@
   "id": "workin-with-the-miles-davis-quintet",
   "titulo": "Workin' with the Miles Davis Quintet",
   "credito": "Miles Davis",
-  "lideres": [],
+  "lideres": [
+    "miles"
+  ],
   "grabacion": {
     "desde": 1959,
     "hasta": 1959,
@@ -33,6 +35,11 @@
   },
   "sello": "Prestige",
   "musicos": [
+    {
+      "musico": "miles",
+      "nombre": "Miles Davis",
+      "instrumento": "trompeta"
+    },
     {
       "musico": "philly-joe-jones",
       "nombre": "Philly Joe Jones",
@@ -47,7 +54,7 @@
     "Una de las sesiones maratónicas de 1956 del primer quinteto."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "4279baa0-5203-384a-8702-b3838bf6ec78",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null

@@ -33,6 +33,17 @@
         "explicacion": "Baladas en trío, grabadas con un sonido de enorme calidad."
       },
       "discos": []
+    },
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 1977,
+      "hasta": 1977,
+      "texto": "",
+      "discoClave": {
+        "disco": "live-at-the-misty",
+        "explicacion": "En vivo en su club de Tokio."
+      },
+      "discos": []
     }
   ],
   "fuentes": [
@@ -41,6 +52,7 @@
   "respaldo": [],
   "discosEsenciales": [
     "midnight-sugar",
-    "misty-yamamoto"
+    "misty-yamamoto",
+    "live-at-the-misty"
   ]
 }

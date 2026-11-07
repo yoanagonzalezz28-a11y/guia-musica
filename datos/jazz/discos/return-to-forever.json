@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6M0IAJHwQ6dFNtTkFsXCJc",
+    "tituloEnSpotify": "Return To Forever",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "return-to-forever",
+  "titulo": "Return to Forever",
+  "credito": "Chick Corea",
+  "lideres": [
+    "corea"
+  ],
+  "grabacion": {
+    "desde": 1972,
+    "hasta": 1972,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1972,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "corea",
+      "nombre": "Chick Corea",
+      "instrumento": "piano, teclados"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "fusion"
+  ],
+  "comentario": [
+    "El primer Return to Forever, con Flora Purim y Airto: luminoso y muy brasileño."
+  ],
+  "ids": {
+    "musicbrainz": "46fa76ea-8bed-3f13-808b-ac313db502b8",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

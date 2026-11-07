@@ -4,7 +4,12 @@
     "gioia": "pendiente"
   },
   "verificacion": "sin-verificar",
-  "discrepancias": [],
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz da 1958 como primera edición; acá se usa 1957."
+    }
+  ],
   "regiones": [
     "estados-unidos"
   ],
@@ -49,7 +54,7 @@
     "Trío grabado en Estocolmo con Wilbur Little y Elvin Jones: bebop de una claridad perfecta."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "a4361145-567d-4154-947a-58cdf31a529e",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Overseas_(album)"

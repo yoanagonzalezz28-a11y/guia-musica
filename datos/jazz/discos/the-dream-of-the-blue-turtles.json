@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "The Dream of the Blue Turtles Sting"
+  },
+  "id": "the-dream-of-the-blue-turtles",
+  "titulo": "The Dream of the Blue Turtles",
+  "credito": "Sting",
+  "lideres": [],
+  "grabacion": {
+    "desde": 1985,
+    "hasta": 1985,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1985,
+    "detalle": null
+  },
+  "sello": "A&M",
+  "musicos": [
+    {
+      "musico": "kirkland",
+      "nombre": "Kenny Kirkland",
+      "instrumento": "piano, teclados"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "neotrad"
+  ],
+  "comentario": [
+    "El disco de Sting con Kirkland y Branford Marsalis."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

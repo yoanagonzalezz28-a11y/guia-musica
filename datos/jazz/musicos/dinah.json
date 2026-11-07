@@ -29,24 +29,28 @@
     {
       "titulo": "Hard bop",
       "desde": 1955,
-      "hasta": 1955,
+      "hasta": 1956,
       "texto": "",
       "discoClave": {
         "disco": "dinah-jams",
         "explicacion": "Jam session con Clifford Brown y Max Roach."
       },
-      "discos": []
+      "discos": [
+        "the-swingin-miss-d"
+      ]
     },
     {
       "titulo": "Soul jazz",
-      "desde": 1959,
+      "desde": 1958,
       "hasta": 1959,
       "texto": "",
       "discoClave": {
         "disco": "what-a-diff-rence-a-day-makes",
         "explicacion": "El gran éxito pop que la llevó a otro público."
       },
-      "discos": []
+      "discos": [
+        "dinah-washington-sings-bessie-smith"
+      ]
     },
     {
       "titulo": "Swing",
@@ -67,6 +71,8 @@
   "discosEsenciales": [
     "dinah-jams",
     "what-a-diff-rence-a-day-makes",
-    "the-complete-dinah-washington-on-mercury-vol-2"
+    "the-complete-dinah-washington-on-mercury-vol-2",
+    "dinah-washington-sings-bessie-smith",
+    "the-swingin-miss-d"
   ]
 }

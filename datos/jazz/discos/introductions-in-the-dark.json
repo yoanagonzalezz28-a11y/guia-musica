@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Introductions in the Dark Andy Sheppard"
+  },
+  "id": "introductions-in-the-dark",
+  "titulo": "Introductions in the Dark",
+  "credito": "Andy Sheppard",
+  "lideres": [
+    "sheppard"
+  ],
+  "grabacion": {
+    "desde": 1989,
+    "hasta": 1989,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1989,
+    "detalle": null
+  },
+  "sello": "Antilles",
+  "musicos": [
+    {
+      "musico": "sheppard",
+      "nombre": "Andy Sheppard",
+      "instrumento": "saxo tenor, saxo soprano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Su primer disco con grupo grande."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -4,7 +4,12 @@
     "gioia": "pendiente"
   },
   "verificacion": "sin-verificar",
-  "discrepancias": [],
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz da 1975 como primera edición; acá se usa 1974."
+    }
+  ],
   "regiones": [
     "estados-unidos"
   ],
@@ -49,7 +54,7 @@
     "Con Hubert Laws y Billy Cobham: ritmos españoles y latinos."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "05f67354-f25c-3987-9f89-062445e95c29",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null

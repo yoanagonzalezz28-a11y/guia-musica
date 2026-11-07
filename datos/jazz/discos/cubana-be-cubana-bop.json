@@ -19,7 +19,9 @@
   "id": "cubana-be-cubana-bop",
   "titulo": "Cubana Be / Cubana Bop",
   "credito": "Dizzy Gillespie",
-  "lideres": [],
+  "lideres": [
+    "gillespie"
+  ],
   "grabacion": {
     "desde": 1947,
     "hasta": 1947,
@@ -31,6 +33,11 @@
   },
   "sello": "Victor",
   "musicos": [
+    {
+      "musico": "gillespie",
+      "nombre": "Dizzy Gillespie",
+      "instrumento": "trompeta, voz"
+    },
     {
       "musico": "chanopozo",
       "nombre": "Chano Pozo",

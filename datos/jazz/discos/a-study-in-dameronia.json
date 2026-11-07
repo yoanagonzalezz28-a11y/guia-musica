@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "A Study in Dameronia Tadd Dameron"
+  },
+  "id": "a-study-in-dameronia",
+  "titulo": "A Study in Dameronia",
+  "credito": "Tadd Dameron",
+  "lideres": [
+    "dameron"
+  ],
+  "grabacion": {
+    "desde": 1953,
+    "hasta": 1953,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1953,
+    "detalle": null
+  },
+  "sello": "Prestige",
+  "musicos": [
+    {
+      "musico": "dameron",
+      "nombre": "Tadd Dameron",
+      "instrumento": "piano, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "bebop"
+  ],
+  "comentario": [
+    "Con Clifford Brown: arreglos elegantes."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

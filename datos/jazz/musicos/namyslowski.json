@@ -37,6 +37,17 @@
       "discos": [
         "lola"
       ]
+    },
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 1975,
+      "hasta": 1975,
+      "texto": "",
+      "discoClave": {
+        "disco": "kujaviak-goes-funky",
+        "explicacion": "Folclore polaco con funk."
+      },
+      "discos": []
     }
   ],
   "fuentes": [
@@ -46,6 +57,7 @@
   "discosEsenciales": [
     "winobranie",
     "lola",
-    "astigmatic"
+    "astigmatic",
+    "kujaviak-goes-funky"
   ]
 }

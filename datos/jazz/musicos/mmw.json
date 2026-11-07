@@ -25,7 +25,7 @@
   "epocas": [
     {
       "titulo": "Fusión",
-      "desde": 1996,
+      "desde": 1995,
       "hasta": 2004,
       "texto": "",
       "discoClave": {
@@ -34,7 +34,9 @@
       },
       "discos": [
         "combustication",
-        "end-of-the-world-party-just-in-case"
+        "end-of-the-world-party-just-in-case",
+        "friday-afternoon-in-the-universe",
+        "uninvisible"
       ]
     }
   ],
@@ -45,6 +47,8 @@
   "discosEsenciales": [
     "shack-man",
     "combustication",
-    "end-of-the-world-party-just-in-case"
+    "end-of-the-world-party-just-in-case",
+    "friday-afternoon-in-the-universe",
+    "uninvisible"
   ]
 }

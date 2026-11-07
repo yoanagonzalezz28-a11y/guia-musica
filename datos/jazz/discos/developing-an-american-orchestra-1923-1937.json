@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Developing an American Orchestra 1923–1937 Fletcher Henderson"
+  },
+  "id": "developing-an-american-orchestra-1923-1937",
+  "titulo": "Developing an American Orchestra 1923–1937",
+  "credito": "Fletcher Henderson",
+  "lideres": [
+    "fletcher-henderson"
+  ],
+  "grabacion": {
+    "desde": 1977,
+    "hasta": 1977,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1977,
+    "detalle": null
+  },
+  "sello": "Smithsonian",
+  "musicos": [
+    {
+      "musico": "fletcher-henderson",
+      "nombre": "Fletcher Henderson",
+      "instrumento": "piano, arreglos, dirección"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "La historia de su orquesta en la colección del Smithsonian."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz da 2019; acá se usa 2021."
+    }
+  ],
+  "regiones": [
+    "medio-oriente"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": "MTM0339",
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3tIhcV0uXpRHT0e7MukA53",
+    "tituloEnSpotify": "Further Chaos",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "further-chaos",
+  "titulo": "Further Chaos",
+  "credito": "Gilad Hekselman",
+  "lideres": [
+    "hekselman"
+  ],
+  "grabacion": {
+    "desde": 2021,
+    "hasta": 2021,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2021,
+    "detalle": null
+  },
+  "sello": "Hexophonic",
+  "musicos": [
+    {
+      "musico": "hekselman",
+      "nombre": "Gilad Hekselman",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "La continuación de *Ask for Chaos*."
+  ],
+  "ids": {
+    "musicbrainz": "e69b34e8-5390-4794-a28e-d7fc31f9cdb5",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

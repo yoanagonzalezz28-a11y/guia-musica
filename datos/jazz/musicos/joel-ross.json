@@ -36,6 +36,17 @@
         "who-are-you",
         "the-parable-of-the-poet"
       ]
+    },
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2024,
+      "hasta": 2024,
+      "texto": "",
+      "discoClave": {
+        "disco": "nublues",
+        "explicacion": "Blues tocado como algo nuevo."
+      },
+      "discos": []
     }
   ],
   "fuentes": [
@@ -45,6 +56,7 @@
   "discosEsenciales": [
     "kingmaker",
     "who-are-you",
-    "the-parable-of-the-poet"
+    "the-parable-of-the-poet",
+    "nublues"
   ]
 }

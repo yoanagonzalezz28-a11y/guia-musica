@@ -34,6 +34,17 @@
       "discos": [
         "boulevard"
       ]
+    },
+    {
+      "titulo": "Acid jazz",
+      "desde": 2015,
+      "hasta": 2015,
+      "texto": "",
+      "discoClave": {
+        "disco": "st-germain",
+        "explicacion": "House con música de Mali."
+      },
+      "discos": []
     }
   ],
   "fuentes": [
@@ -42,6 +53,7 @@
   "respaldo": [],
   "discosEsenciales": [
     "tourist",
-    "boulevard"
+    "boulevard",
+    "st-germain"
   ]
 }

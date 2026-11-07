@@ -37,7 +37,8 @@
       },
       "discos": [
         "djangology",
-        "nuages"
+        "nuages",
+        "the-great-artistry-of-django-reinhardt"
       ]
     }
   ],
@@ -48,6 +49,7 @@
   "discosEsenciales": [
     "quintette-du-hot-club-de-france",
     "djangology",
-    "nuages"
+    "nuages",
+    "the-great-artistry-of-django-reinhardt"
   ]
 }

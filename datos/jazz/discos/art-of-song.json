@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0zY1rkYkwCiUKPCQxqAAb9",
+    "tituloEnSpotify": "Art of Song",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "art-of-song",
+  "titulo": "Art of Song",
+  "credito": "Aaron Parks",
+  "lideres": [
+    "parks"
+  ],
+  "grabacion": {
+    "desde": 2017,
+    "hasta": 2017,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2017,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "parks",
+      "nombre": "Aaron Parks",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Canciones tocadas al piano."
+  ],
+  "ids": {
+    "musicbrainz": "9cd4bcae-a919-4ff0-ac62-36b9d959509b",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

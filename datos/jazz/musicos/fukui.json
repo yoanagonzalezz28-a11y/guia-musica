@@ -42,6 +42,17 @@
     },
     {
       "titulo": "Jazz del mundo",
+      "desde": 1994,
+      "hasta": 1994,
+      "texto": "",
+      "discoClave": {
+        "disco": "my-favorite-tune",
+        "explicacion": "Estándares en trío, grabados en su club de Sapporo."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Jazz del mundo",
       "desde": 1999,
       "hasta": 1999,
       "texto": "",
@@ -75,6 +86,7 @@
   "discosEsenciales": [
     "scenery",
     "mellow-dream",
-    "ryo-fukui-in-new-york"
+    "ryo-fukui-in-new-york",
+    "my-favorite-tune"
   ]
 }

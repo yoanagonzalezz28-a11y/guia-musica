@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Mary Lou Williams Plays in London Mary Lou Williams"
+  },
+  "id": "mary-lou-williams-plays-in-london",
+  "titulo": "Mary Lou Williams Plays in London",
+  "credito": "Mary Lou Williams",
+  "lideres": [
+    "williams"
+  ],
+  "grabacion": {
+    "desde": 1953,
+    "hasta": 1953,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1953,
+    "detalle": null
+  },
+  "sello": "Vogue",
+  "musicos": [
+    {
+      "musico": "williams",
+      "nombre": "Mary Lou Williams",
+      "instrumento": "piano, composición, arreglos"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "Piano en trío, grabado en Londres."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

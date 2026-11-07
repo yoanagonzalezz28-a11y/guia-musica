@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "brasil"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Courage Milton Nascimento"
+  },
+  "id": "courage",
+  "titulo": "Courage",
+  "credito": "Milton Nascimento",
+  "lideres": [
+    "milton"
+  ],
+  "grabacion": {
+    "desde": 1969,
+    "hasta": 1969,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1969,
+    "detalle": null
+  },
+  "sello": "A&M",
+  "musicos": [
+    {
+      "musico": "milton",
+      "nombre": "Milton Nascimento",
+      "instrumento": "voz, guitarra, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "brasil"
+  ],
+  "comentario": [
+    "Su primer disco en Estados Unidos, con arreglos de Eumir Deodato."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

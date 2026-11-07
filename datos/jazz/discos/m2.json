@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "M2 Marcus Miller"
+  },
+  "id": "m2",
+  "titulo": "M2",
+  "credito": "Marcus Miller",
+  "lideres": [
+    "marcus-miller"
+  ],
+  "grabacion": {
+    "desde": 2001,
+    "hasta": 2001,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2001,
+    "detalle": null
+  },
+  "sello": "Telarc",
+  "musicos": [
+    {
+      "musico": "marcus-miller",
+      "nombre": "Marcus Miller",
+      "instrumento": "bajo eléctrico, producción"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "fusion"
+  ],
+  "comentario": [
+    "Ganó un Grammy: bajo slap y funk."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

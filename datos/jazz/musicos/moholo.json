@@ -34,6 +34,19 @@
         "explicacion": "Con Evan Parker y Kenny Wheeler: free jazz con raíz sudafricana."
       },
       "discos": []
+    },
+    {
+      "titulo": "Free jazz",
+      "desde": 1995,
+      "hasta": 2014,
+      "texto": "",
+      "discoClave": {
+        "disco": "bra-louis-bra-tebs",
+        "explicacion": "Con su grupo Viva-La-Black."
+      },
+      "discos": [
+        "for-the-blue-notes"
+      ]
     }
   ],
   "fuentes": [
@@ -42,6 +55,8 @@
   "respaldo": [],
   "discosEsenciales": [
     "spirits-rejoice",
-    "blue-notes-for-mongezi"
+    "blue-notes-for-mongezi",
+    "bra-louis-bra-tebs",
+    "for-the-blue-notes"
   ]
 }

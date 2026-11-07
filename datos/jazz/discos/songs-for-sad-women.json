@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "medio-oriente"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Songs for Sad Women Rabih Abou-Khalil"
+  },
+  "id": "songs-for-sad-women",
+  "titulo": "Songs for Sad Women",
+  "credito": "Rabih Abou-Khalil",
+  "lideres": [
+    "abou-khalil"
+  ],
+  "grabacion": {
+    "desde": 2007,
+    "hasta": 2007,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2007,
+    "detalle": null
+  },
+  "sello": "Enja",
+  "musicos": [
+    {
+      "musico": "abou-khalil",
+      "nombre": "Rabih Abou-Khalil",
+      "instrumento": "oud, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "Con el armenio Gevorg Dabaghyan en duduk: canciones lentas y melancólicas."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

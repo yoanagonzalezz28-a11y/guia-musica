@@ -36,7 +36,22 @@
         "disco": "kenya",
         "explicacion": "Su encuentro con solistas de jazz."
       },
-      "discos": []
+      "discos": [
+        "afro-cuban-jazz-suite"
+      ]
+    },
+    {
+      "titulo": "Jazz latino",
+      "desde": 1975,
+      "hasta": 2002,
+      "texto": "",
+      "discoClave": {
+        "disco": "machito-and-his-afro-cubans-ritmo-caliente",
+        "explicacion": "Recopilación de los 40 y 50: el mambo y el jazz."
+      },
+      "discos": [
+        "afro-cuban-jazz-moods"
+      ]
     }
   ],
   "fuentes": [
@@ -53,5 +68,11 @@
       "acceso": "completa",
       "aporta": "Chick Corea recuerda haberlo escuchado en el Palladium."
     }
+  ],
+  "discosEsenciales": [
+    "afro-cuban-jazz-suite",
+    "kenya",
+    "machito-and-his-afro-cubans-ritmo-caliente",
+    "afro-cuban-jazz-moods"
   ]
 }

@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "reino-unido"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Jazz Funk Incognito"
+  },
+  "id": "jazz-funk",
+  "titulo": "Jazz Funk",
+  "credito": "Incognito",
+  "lideres": [
+    "incognito"
+  ],
+  "grabacion": {
+    "desde": 1981,
+    "hasta": 1981,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1981,
+    "detalle": null
+  },
+  "sello": "Ensign",
+  "musicos": [
+    {
+      "musico": "incognito",
+      "nombre": "Incognito",
+      "instrumento": "grupo"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "fusion"
+  ],
+  "comentario": [
+    "Su primer disco, antes del acid jazz."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -34,7 +34,9 @@
       },
       "discos": [
         "the-bandwagon",
-        "ten"
+        "ten",
+        "facing-left",
+        "artist-in-residence"
       ]
     }
   ],
@@ -45,6 +47,8 @@
   "discosEsenciales": [
     "soundtrack-to-human-motion",
     "the-bandwagon",
-    "ten"
+    "ten",
+    "facing-left",
+    "artist-in-residence"
   ]
 }

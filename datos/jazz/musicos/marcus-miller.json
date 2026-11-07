@@ -34,7 +34,9 @@
         "explicacion": "Funk y jazz con su bajo al frente."
       },
       "discos": [
-        "laid-black"
+        "laid-black",
+        "m2",
+        "afrodeezia"
       ]
     }
   ],
@@ -45,6 +47,8 @@
   "discosEsenciales": [
     "tutu",
     "the-sun-don-t-lie",
-    "laid-black"
+    "laid-black",
+    "m2",
+    "afrodeezia"
   ]
 }

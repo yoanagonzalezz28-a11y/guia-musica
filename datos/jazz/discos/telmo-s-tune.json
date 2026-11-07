@@ -1,0 +1,64 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
+    }
+  ],
+  "regiones": [
+    "rio-de-la-plata",
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3PiK16pEbGcaSbabYw5on0",
+    "tituloEnSpotify": "Telmo's Tune",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "telmo-s-tune",
+  "titulo": "Telmo's Tune",
+  "credito": "Guillermo Klein",
+  "lideres": [
+    "klein"
+  ],
+  "grabacion": {
+    "desde": 2023,
+    "hasta": 2023,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2023,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "klein",
+      "nombre": "Guillermo Klein",
+      "instrumento": "piano, composición, arreglos"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Un disco más reciente, con su música de raíz folclórica."
+  ],
+  "ids": {
+    "musicbrainz": "62c5fac1-1dc3-4a9f-87ed-cac3b3af27d4",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -39,6 +39,17 @@
         "tempo-feliz",
         "le-monde-musical-de-baden-powell"
       ]
+    },
+    {
+      "titulo": "Jazz brasileño",
+      "desde": 1971,
+      "hasta": 1971,
+      "texto": "",
+      "discoClave": {
+        "disco": "images-on-guitar",
+        "explicacion": "Guitarra sola grabada en Alemania: samba, bossa y virtuosismo."
+      },
+      "discos": []
     }
   ],
   "fuentes": [
@@ -49,6 +60,7 @@
     "os-afro-sambas",
     "baden-powell-swings-with-jimmy-pratt",
     "tempo-feliz",
-    "le-monde-musical-de-baden-powell"
+    "le-monde-musical-de-baden-powell",
+    "images-on-guitar"
   ]
 }

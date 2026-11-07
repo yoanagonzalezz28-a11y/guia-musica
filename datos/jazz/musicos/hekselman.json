@@ -36,6 +36,19 @@
         "homes",
         "ask-for-chaos"
       ]
+    },
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2021,
+      "hasta": 2025,
+      "texto": "",
+      "discoClave": {
+        "disco": "further-chaos",
+        "explicacion": "La continuación de *Ask for Chaos*."
+      },
+      "discos": [
+        "downhill-from-here"
+      ]
     }
   ],
   "fuentes": [
@@ -45,6 +58,8 @@
   "discosEsenciales": [
     "this-just-in",
     "homes",
-    "ask-for-chaos"
+    "ask-for-chaos",
+    "further-chaos",
+    "downhill-from-here"
   ]
 }

@@ -8,7 +8,7 @@
   "regiones": [],
   "compilacion": false,
   "tipo": "estudio",
-  "catalogo": null,
+  "catalogo": "[none]",
   "lugar": null,
   "spotify": {
     "estado": "verificado",
@@ -47,7 +47,7 @@
     "Con Sons of Kemet: tuba, dos baterías y saxo, con raíces caribeñas."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "d5f67e27-8871-4219-8c6a-2e2884c450a8",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null

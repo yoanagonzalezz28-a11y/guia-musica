@@ -37,6 +37,17 @@
         "hailu-mergia-and-his-classical-instrument",
         "lala-belu"
       ]
+    },
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 2020,
+      "hasta": 2020,
+      "texto": "",
+      "discoClave": {
+        "disco": "yene-mircha",
+        "explicacion": "Teclados y acordeón con grupo: etiojazz renovado."
+      },
+      "discos": []
     }
   ],
   "fuentes": [
@@ -46,6 +57,7 @@
   "discosEsenciales": [
     "tche-belew",
     "hailu-mergia-and-his-classical-instrument",
-    "lala-belu"
+    "lala-belu",
+    "yene-mircha"
   ]
 }

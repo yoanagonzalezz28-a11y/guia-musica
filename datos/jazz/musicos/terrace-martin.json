@@ -26,6 +26,17 @@
   "epocas": [
     {
       "titulo": "Jazz de hoy",
+      "desde": 2013,
+      "hasta": 2013,
+      "texto": "",
+      "discoClave": {
+        "disco": "3chordfold",
+        "explicacion": "Hip hop y jazz desde Los Ángeles."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Jazz de hoy",
       "desde": 2016,
       "hasta": 2021,
       "texto": "",
@@ -46,6 +57,7 @@
   "discosEsenciales": [
     "velvet-portraits",
     "dinner-party",
-    "drones"
+    "drones",
+    "3chordfold"
   ]
 }

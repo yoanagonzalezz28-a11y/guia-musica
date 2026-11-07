@@ -27,6 +27,17 @@
   "epocas": [
     {
       "titulo": "Jazz de hoy",
+      "desde": 2015,
+      "hasta": 2015,
+      "texto": "",
+      "discoClave": {
+        "disco": "like-a-great-river",
+        "explicacion": "El cuarteto antes de ECM."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Jazz de hoy",
       "desde": 2017,
       "hasta": 2017,
       "texto": "",
@@ -59,6 +70,7 @@
     "translator-s-note",
     "here-be-dragons",
     "isabela",
-    "my-prophet"
+    "my-prophet",
+    "like-a-great-river"
   ]
 }

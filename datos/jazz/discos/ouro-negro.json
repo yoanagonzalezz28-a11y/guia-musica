@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "brasil"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Ouro Negro Moacir Santos"
+  },
+  "id": "ouro-negro",
+  "titulo": "Ouro Negro",
+  "credito": "Moacir Santos",
+  "lideres": [
+    "moacir"
+  ],
+  "grabacion": {
+    "desde": 2001,
+    "hasta": 2001,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2001,
+    "detalle": null
+  },
+  "sello": "MP,B",
+  "musicos": [
+    {
+      "musico": "moacir",
+      "nombre": "Moacir Santos",
+      "instrumento": "saxo, composición, arreglos"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "brasil"
+  ],
+  "comentario": [
+    "Homenaje con muchos músicos brasileños."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

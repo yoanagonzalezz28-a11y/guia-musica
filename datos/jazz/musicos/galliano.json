@@ -36,6 +36,17 @@
         "a-joyful-noise-unto-the-creator",
         "the-plot-thickens"
       ]
+    },
+    {
+      "titulo": "Acid jazz",
+      "desde": 1996,
+      "hasta": 1996,
+      "texto": "",
+      "discoClave": {
+        "disco": "4",
+        "explicacion": "Su último disco, más folk y orgánico."
+      },
+      "discos": []
     }
   ],
   "fuentes": [
@@ -45,6 +56,7 @@
   "discosEsenciales": [
     "in-pursuit-of-the-13th-note",
     "a-joyful-noise-unto-the-creator",
-    "the-plot-thickens"
+    "the-plot-thickens",
+    "4"
   ]
 }

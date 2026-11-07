@@ -25,6 +25,17 @@
   "resumen": "Baterista que tocó con Herbie Hancock y Wayne Shorter. Dirige el instituto de jazz y justicia de género de Berklee.",
   "epocas": [
     {
+      "titulo": "Fusión",
+      "desde": 1989,
+      "hasta": 1989,
+      "texto": "",
+      "discoClave": {
+        "disco": "real-life-story",
+        "explicacion": "Su debut, con Carlos Santana y Wayne Shorter."
+      },
+      "discos": []
+    },
+    {
       "titulo": "Jazz de hoy",
       "desde": 2011,
       "hasta": 2022,
@@ -35,7 +46,8 @@
       },
       "discos": [
         "money-jungle-provocative-in-blue",
-        "new-standards-vol-1"
+        "new-standards-vol-1",
+        "waiting-game"
       ]
     }
   ],
@@ -46,6 +58,8 @@
   "discosEsenciales": [
     "the-mosaic-project",
     "money-jungle-provocative-in-blue",
-    "new-standards-vol-1"
+    "new-standards-vol-1",
+    "real-life-story",
+    "waiting-game"
   ]
 }

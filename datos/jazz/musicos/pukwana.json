@@ -38,6 +38,17 @@
       "discos": [
         "diamond-express"
       ]
+    },
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 1981,
+      "hasta": 1981,
+      "texto": "",
+      "discoClave": {
+        "disco": "zila-sounds",
+        "explicacion": "Su grupo Zila: alegría sudafricana."
+      },
+      "discos": []
     }
   ],
   "fuentes": [
@@ -47,6 +58,7 @@
   "discosEsenciales": [
     "in-the-townships",
     "diamond-express",
-    "very-urgent"
+    "very-urgent",
+    "zila-sounds"
   ]
 }

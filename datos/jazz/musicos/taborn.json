@@ -49,6 +49,17 @@
         "chants",
         "daylight-ghosts"
       ]
+    },
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 2020,
+      "hasta": 2020,
+      "texto": "",
+      "discoClave": {
+        "disco": "shadow-plays",
+        "explicacion": "Piano solo en Viena."
+      },
+      "discos": []
     }
   ],
   "fuentes": [
@@ -59,6 +70,7 @@
     "junk-magic",
     "avenging-angel",
     "chants",
-    "daylight-ghosts"
+    "daylight-ghosts",
+    "shadow-plays"
   ]
 }

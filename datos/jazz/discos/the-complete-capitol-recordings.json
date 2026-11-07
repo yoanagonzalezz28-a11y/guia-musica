@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": true,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "The Complete Capitol Recordings Art Tatum"
+  },
+  "id": "the-complete-capitol-recordings",
+  "titulo": "The Complete Capitol Recordings",
+  "credito": "Art Tatum",
+  "lideres": [
+    "tatum"
+  ],
+  "grabacion": {
+    "desde": 1952,
+    "hasta": 1952,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1952,
+    "detalle": null
+  },
+  "sello": "Capitol",
+  "musicos": [
+    {
+      "musico": "tatum",
+      "nombre": "Art Tatum",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "Piano solo y trío de los 40 y 50."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

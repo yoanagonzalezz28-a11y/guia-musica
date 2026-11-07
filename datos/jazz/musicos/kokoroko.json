@@ -35,6 +35,17 @@
       "discos": [
         "could-we-be-more"
       ]
+    },
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2025,
+      "hasta": 2025,
+      "texto": "",
+      "discoClave": {
+        "disco": "tuff-times-never-last",
+        "explicacion": "Afrobeat y soul, más pop."
+      },
+      "discos": []
     }
   ],
   "fuentes": [
@@ -43,6 +54,7 @@
   "respaldo": [],
   "discosEsenciales": [
     "kokoroko",
-    "could-we-be-more"
+    "could-we-be-more",
+    "tuff-times-never-last"
   ]
 }

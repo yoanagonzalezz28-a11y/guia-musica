@@ -36,6 +36,28 @@
         "explicacion": "El debut en estudio del grupo."
       },
       "discos": []
+    },
+    {
+      "titulo": "Free jazz",
+      "desde": 1971,
+      "hasta": 1971,
+      "texto": "",
+      "discoClave": {
+        "disco": "brotherhood-of-breath",
+        "explicacion": "Su big band: free jazz con raíces sudafricanas."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 1990,
+      "hasta": 1990,
+      "texto": "",
+      "discoClave": {
+        "disco": "country-cooking",
+        "explicacion": "El último disco de la Brotherhood."
+      },
+      "discos": []
     }
   ],
   "epocasPendientes": [
@@ -50,5 +72,10 @@
       "acceso": "indirecta",
       "aporta": "John Fordham lo llama \"a world-class free-band\"."
     }
+  ],
+  "discosEsenciales": [
+    "very-urgent",
+    "brotherhood-of-breath",
+    "country-cooking"
   ]
 }

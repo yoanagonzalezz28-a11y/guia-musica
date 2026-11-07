@@ -21,7 +21,9 @@
   "id": "bags-groove",
   "titulo": "Bags' Groove",
   "credito": "Miles Davis",
-  "lideres": [],
+  "lideres": [
+    "miles"
+  ],
   "grabacion": {
     "desde": 1957,
     "hasta": 1957,
@@ -33,6 +35,11 @@
   },
   "sello": "Prestige",
   "musicos": [
+    {
+      "musico": "miles",
+      "nombre": "Miles Davis",
+      "instrumento": "trompeta"
+    },
     {
       "musico": "milt-jackson",
       "nombre": "Milt Jackson",
@@ -47,7 +54,7 @@
     "Con Miles y Monk, en la famosa sesión de Navidad de 1954."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "25a721dc-0940-359e-8b0d-4be9d5616348",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null

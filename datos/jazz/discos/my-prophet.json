@@ -10,7 +10,7 @@
   ],
   "compilacion": false,
   "tipo": "estudio",
-  "catalogo": null,
+  "catalogo": "ECM 2821",
   "lugar": null,
   "spotify": {
     "estado": "verificado",
@@ -49,7 +49,7 @@
     "El cuarteto, más rítmico y abierto."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "3a67b5c4-8674-4373-965f-aa0ae7bb5e1f",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null

@@ -40,14 +40,15 @@
     {
       "titulo": "Hard bop",
       "desde": 1960,
-      "hasta": 1960,
+      "hasta": 1961,
       "texto": "",
       "discoClave": {
         "disco": "tough-tenors",
         "explicacion": "Con Johnny Griffin: duelo de tenores."
       },
       "discos": [
-        "trane-whistle"
+        "trane-whistle",
+        "afro-jaws"
       ]
     }
   ],
@@ -58,6 +59,7 @@
   "discosEsenciales": [
     "the-eddie-lockjaw-davis-cookbook",
     "tough-tenors",
-    "trane-whistle"
+    "trane-whistle",
+    "afro-jaws"
   ]
 }

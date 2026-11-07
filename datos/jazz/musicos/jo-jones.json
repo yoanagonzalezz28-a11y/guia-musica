@@ -35,7 +35,8 @@
         "explicacion": "Con músicos de Basie: el swing de Kansas City."
       },
       "discos": [
-        "percussion-and-bass"
+        "percussion-and-bass",
+        "jo-jones-trio"
       ]
     }
   ],
@@ -46,6 +47,7 @@
   "discosEsenciales": [
     "the-jo-jones-special",
     "percussion-and-bass",
-    "atomic-basie"
+    "atomic-basie",
+    "jo-jones-trio"
   ]
 }

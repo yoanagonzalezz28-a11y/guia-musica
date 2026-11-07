@@ -20,7 +20,9 @@
   "id": "caravan",
   "titulo": "Caravan",
   "credito": "Duke Ellington",
-  "lideres": [],
+  "lideres": [
+    "ellington"
+  ],
   "grabacion": {
     "desde": 1937,
     "hasta": 1937,
@@ -32,6 +34,11 @@
   },
   "sello": "Master",
   "musicos": [
+    {
+      "musico": "ellington",
+      "nombre": "Duke Ellington",
+      "instrumento": "piano, composición, dirección"
+    },
     {
       "musico": "tizol",
       "nombre": "Juan Tizol",

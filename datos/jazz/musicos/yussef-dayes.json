@@ -20,7 +20,7 @@
   "regiones": [
     "reino-unido"
   ],
-  "spotify": null,
+  "spotify": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht",
   "resumen": "Baterista londinense de toque muy personal, entre el jazz, el hip hop y el grime.",
   "epocas": [
     {
@@ -34,7 +34,8 @@
       },
       "discos": [
         "what-kinda-music",
-        "black-classical-music"
+        "black-classical-music",
+        "welcome-to-the-hills"
       ]
     }
   ],
@@ -45,6 +46,7 @@
   "discosEsenciales": [
     "black-focus",
     "what-kinda-music",
-    "black-classical-music"
+    "black-classical-music",
+    "welcome-to-the-hills"
   ]
 }

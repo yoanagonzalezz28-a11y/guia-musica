@@ -28,7 +28,7 @@
   "epocas": [
     {
       "titulo": "Swing",
-      "desde": 1967,
+      "desde": 1966,
       "hasta": 1968,
       "texto": "",
       "discoClave": {
@@ -36,7 +36,8 @@
         "explicacion": "Su big band en vivo: arreglos modernos y una batería imparable."
       },
       "discos": [
-        "mercy-mercy"
+        "mercy-mercy",
+        "swingin-new-big-band"
       ]
     }
   ],
@@ -46,6 +47,7 @@
   "respaldo": [],
   "discosEsenciales": [
     "big-swing-face",
-    "mercy-mercy"
+    "mercy-mercy",
+    "swingin-new-big-band"
   ]
 }

@@ -37,6 +37,17 @@
       ]
     },
     {
+      "titulo": "Neotradicionalismo",
+      "desde": 2008,
+      "hasta": 2008,
+      "texto": "",
+      "discoClave": {
+        "disco": "into-the-blue",
+        "explicacion": "Lírico y nocturno."
+      },
+      "discos": []
+    },
+    {
       "titulo": "Jazz de hoy",
       "desde": 2011,
       "hasta": 2017,
@@ -58,6 +69,7 @@
     "gumbo-nouveau",
     "payton-s-place",
     "bitches",
-    "afro-caribbean-mixtape"
+    "afro-caribbean-mixtape",
+    "into-the-blue"
   ]
 }

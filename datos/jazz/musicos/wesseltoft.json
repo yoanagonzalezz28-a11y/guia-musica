@@ -39,6 +39,17 @@
         "moving",
         "filming"
       ]
+    },
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 2009,
+      "hasta": 2009,
+      "texto": "",
+      "discoClave": {
+        "disco": "playing",
+        "explicacion": "Piano solo, entre el jazz y la electrónica."
+      },
+      "discos": []
     }
   ],
   "fuentes": [
@@ -49,6 +60,7 @@
     "new-conception-of-jazz",
     "it-s-snowing-on-my-piano",
     "moving",
-    "filming"
+    "filming",
+    "playing"
   ]
 }

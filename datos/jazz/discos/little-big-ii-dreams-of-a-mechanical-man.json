@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3wUYJLGghdbVdqiBZvgl6J",
+    "tituloEnSpotify": "Little Big II: Dreams of a Mechanical Man",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "little-big-ii-dreams-of-a-mechanical-man",
+  "titulo": "Little Big II: Dreams of a Mechanical Man",
+  "credito": "Aaron Parks",
+  "lideres": [
+    "parks"
+  ],
+  "grabacion": {
+    "desde": 2020,
+    "hasta": 2020,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2020,
+    "detalle": null
+  },
+  "sello": "Ropeadope",
+  "musicos": [
+    {
+      "musico": "parks",
+      "nombre": "Aaron Parks",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "La continuación eléctrica."
+  ],
+  "ids": {
+    "musicbrainz": "886404e0-c78b-432b-bb82-404864c29c13",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

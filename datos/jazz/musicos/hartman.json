@@ -46,6 +46,19 @@
         "explicacion": "Con Illinois Jacquet y Hank Jones."
       },
       "discos": []
+    },
+    {
+      "titulo": "Jazz modal",
+      "desde": 1966,
+      "hasta": 1980,
+      "texto": "",
+      "discoClave": {
+        "disco": "unforgettable",
+        "explicacion": "Baladas con orquesta."
+      },
+      "discos": [
+        "once-in-every-life"
+      ]
     }
   ],
   "fuentes": [
@@ -55,6 +68,8 @@
   "discosEsenciales": [
     "john-coltrane-and-johnny-hartman",
     "i-just-dropped-by-to-say-hello",
-    "songs-from-the-heart"
+    "songs-from-the-heart",
+    "unforgettable",
+    "once-in-every-life"
   ]
 }

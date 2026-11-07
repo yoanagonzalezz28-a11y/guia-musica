@@ -34,7 +34,9 @@
       },
       "discos": [
         "dreamland",
-        "jackets-xl"
+        "jackets-xl",
+        "mirage-a-trois",
+        "politics"
       ]
     }
   ],
@@ -45,6 +47,8 @@
   "discosEsenciales": [
     "yellowjackets",
     "dreamland",
-    "jackets-xl"
+    "jackets-xl",
+    "mirage-a-trois",
+    "politics"
   ]
 }

@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2wkmxijYToqAr0ATgcNSsn",
+    "tituloEnSpotify": "Light As A Feather (Deluxe Edition)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "light-as-a-feather-corea",
+  "titulo": "Light as a Feather",
+  "credito": "Chick Corea",
+  "lideres": [
+    "corea"
+  ],
+  "grabacion": {
+    "desde": 1973,
+    "hasta": 1973,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1973,
+    "detalle": null
+  },
+  "sello": "Polydor",
+  "musicos": [
+    {
+      "musico": "corea",
+      "nombre": "Chick Corea",
+      "instrumento": "piano, teclados"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "fusion"
+  ],
+  "comentario": [
+    "Con \"Spain\" y \"500 Miles High\"."
+  ],
+  "ids": {
+    "musicbrainz": "bd0ad2df-0cb0-33e5-8619-fcee0dc0502a",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "The Johnny Dodds Washboard Band Johnny Dodds"
+  },
+  "id": "the-johnny-dodds-washboard-band",
+  "titulo": "The Johnny Dodds Washboard Band",
+  "credito": "Johnny Dodds",
+  "lideres": [
+    "dodds"
+  ],
+  "grabacion": {
+    "desde": 1928,
+    "hasta": 1928,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1928,
+    "detalle": null
+  },
+  "sello": "Victor",
+  "musicos": [
+    {
+      "musico": "dodds",
+      "nombre": "Johnny Dodds",
+      "instrumento": "clarinete"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "origenes"
+  ],
+  "comentario": [
+    "Clarinete de Nueva Orleans con tabla de lavar como percusión."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

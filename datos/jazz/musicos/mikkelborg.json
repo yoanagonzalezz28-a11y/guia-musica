@@ -24,7 +24,19 @@
   ],
   "spotify": "https://open.spotify.com/artist/1BanDVpS18UOTBMdv5VgEy",
   "resumen": "Trompetista y compositor danés. Compuso *Aura*, la obra orquestal que Miles Davis grabó en Copenhague en 1985, uno de los últimos grandes proyectos de Miles.",
-  "epocas": [],
+  "epocas": [
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 1992,
+      "hasta": 1992,
+      "texto": "",
+      "discoClave": {
+        "disco": "anything-but-grey",
+        "explicacion": "Trompeta y orquesta en un disco ambicioso de su madurez."
+      },
+      "discos": []
+    }
+  ],
   "fuentes": [
     "wp-palle-mikkelborg"
   ],
@@ -33,6 +45,7 @@
     "aura",
     "once-upon-a-time-far-away-in-the-south",
     "returnings",
-    "waves"
+    "waves",
+    "anything-but-grey"
   ]
 }

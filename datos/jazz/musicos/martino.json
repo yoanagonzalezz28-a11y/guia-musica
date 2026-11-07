@@ -50,6 +50,17 @@
       "discos": [
         "consciousness"
       ]
+    },
+    {
+      "titulo": "Hard bop",
+      "desde": 1976,
+      "hasta": 1976,
+      "texto": "",
+      "discoClave": {
+        "disco": "exit",
+        "explicacion": "Cuarteto con Gil Goldstein."
+      },
+      "discos": []
     }
   ],
   "fuentes": [
@@ -60,6 +71,7 @@
     "el-hombre",
     "east",
     "live-martino",
-    "consciousness"
+    "consciousness",
+    "exit"
   ]
 }

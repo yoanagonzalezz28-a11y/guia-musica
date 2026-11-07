@@ -38,6 +38,17 @@
         "sounds-of-mirrors",
         "malak"
       ]
+    },
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 2023,
+      "hasta": 2023,
+      "texto": "",
+      "discoClave": {
+        "disco": "street-of-minarets",
+        "explicacion": "Con Herbie Hancock y Marcus Miller."
+      },
+      "discos": []
     }
   ],
   "fuentes": [
@@ -48,6 +59,7 @@
     "abu-nawas-rhapsody",
     "birds-requiem",
     "sounds-of-mirrors",
-    "malak"
+    "malak",
+    "street-of-minarets"
   ]
 }

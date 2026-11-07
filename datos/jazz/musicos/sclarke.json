@@ -37,6 +37,17 @@
         "stanley-clarke",
         "journey-to-love"
       ]
+    },
+    {
+      "titulo": "Fusión",
+      "desde": 1979,
+      "hasta": 1979,
+      "texto": "",
+      "discoClave": {
+        "disco": "i-wanna-play-for-you",
+        "explicacion": "Disco doble con el bajo como estrella."
+      },
+      "discos": []
     }
   ],
   "fuentes": [
@@ -47,6 +58,7 @@
     "school-days",
     "stanley-clarke",
     "journey-to-love",
-    "romantic-warrior"
+    "romantic-warrior",
+    "i-wanna-play-for-you"
   ]
 }

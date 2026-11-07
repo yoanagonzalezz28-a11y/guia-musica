@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
+    }
+  ],
+  "regiones": [
+    "medio-oriente"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2dJaduFbec6caQ5s4JtJGK",
+    "tituloEnSpotify": "Downhill From Here",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "downhill-from-here",
+  "titulo": "Downhill from Here",
+  "credito": "Gilad Hekselman",
+  "lideres": [
+    "hekselman"
+  ],
+  "grabacion": {
+    "desde": 2025,
+    "hasta": 2025,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2025,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "hekselman",
+      "nombre": "Gilad Hekselman",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Trío con guitarra y mucho espacio."
+  ],
+  "ids": {
+    "musicbrainz": "8f0e1d83-3200-4496-8a1b-d28351a14c83",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

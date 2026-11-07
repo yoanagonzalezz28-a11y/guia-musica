@@ -36,7 +36,8 @@
       "discos": [
         "perceptual",
         "landmarks",
-        "kings-highway"
+        "kings-highway",
+        "season-of-changes"
       ]
     }
   ],
@@ -48,6 +49,7 @@
     "brian-blade-fellowship",
     "perceptual",
     "landmarks",
-    "kings-highway"
+    "kings-highway",
+    "season-of-changes"
   ]
 }

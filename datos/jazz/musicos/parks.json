@@ -33,7 +33,8 @@
         "explicacion": "Melodías amplias y ritmos de rock: un disco de culto."
       },
       "discos": [
-        "little-big"
+        "little-big",
+        "art-of-song"
       ]
     },
     {
@@ -46,6 +47,17 @@
         "explicacion": "Piano solo improvisado."
       },
       "discos": []
+    },
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2020,
+      "hasta": 2020,
+      "texto": "",
+      "discoClave": {
+        "disco": "little-big-ii-dreams-of-a-mechanical-man",
+        "explicacion": "La continuación eléctrica."
+      },
+      "discos": []
     }
   ],
   "fuentes": [
@@ -55,6 +67,8 @@
   "discosEsenciales": [
     "invisible-cinema",
     "arborescence",
-    "little-big"
+    "little-big",
+    "little-big-ii-dreams-of-a-mechanical-man",
+    "art-of-song"
   ]
 }

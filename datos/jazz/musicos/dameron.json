@@ -28,6 +28,17 @@
   "epocas": [
     {
       "titulo": "Bebop",
+      "desde": 1953,
+      "hasta": 1953,
+      "texto": "",
+      "discoClave": {
+        "disco": "a-study-in-dameronia",
+        "explicacion": "Con Clifford Brown: arreglos elegantes."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Bebop",
       "desde": 1956,
       "hasta": 1962,
       "texto": "",
@@ -48,6 +59,7 @@
   "discosEsenciales": [
     "the-magic-touch",
     "mating-call",
-    "fontainebleau"
+    "fontainebleau",
+    "a-study-in-dameronia"
   ]
 }

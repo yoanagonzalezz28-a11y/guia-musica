@@ -39,6 +39,17 @@
         "out-of-the-afternoon",
         "just-us"
       ]
+    },
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2004,
+      "hasta": 2004,
+      "texto": "",
+      "discoClave": {
+        "disco": "fountain-of-youth",
+        "explicacion": "Con casi 80 años, en vivo en Birdland."
+      },
+      "discos": []
     }
   ],
   "fuentes": [
@@ -49,6 +60,7 @@
     "we-three",
     "out-of-the-afternoon",
     "now-he-sings-now-he-sobs",
-    "just-us"
+    "just-us",
+    "fountain-of-youth"
   ]
 }

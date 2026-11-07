@@ -1,0 +1,57 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "medio-oriente",
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "The Music of Ahmed Abdul-Malik Ahmed Abdul-Malik"
+  },
+  "id": "the-music-of-ahmed-abdul-malik",
+  "titulo": "The Music of Ahmed Abdul-Malik",
+  "credito": "Ahmed Abdul-Malik",
+  "lideres": [
+    "abdul-malik"
+  ],
+  "grabacion": {
+    "desde": 1961,
+    "hasta": 1961,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1961,
+    "detalle": null
+  },
+  "sello": "New Jazz",
+  "musicos": [
+    {
+      "musico": "abdul-malik",
+      "nombre": "Ahmed Abdul-Malik",
+      "instrumento": "contrabajo, oud"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "Oud, contrabajo y saxo en un cruce todavía experimental."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

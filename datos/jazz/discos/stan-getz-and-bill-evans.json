@@ -4,7 +4,12 @@
     "gioia": "pendiente"
   },
   "verificacion": "sin-verificar",
-  "discrepancias": [],
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz da 1973 como primera edición; acá se usa 1964."
+    }
+  ],
   "regiones": [
     "estados-unidos"
   ],
@@ -49,7 +54,7 @@
     "Encuentro de dos líricos con Elvin Jones y Ron Carter: quedó guardado más de diez años."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "1e435c68-d824-3ca2-8498-6d0eacdb6c36",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Stan_Getz_%26_Bill_Evans"

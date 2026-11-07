@@ -40,6 +40,17 @@
       ]
     },
     {
+      "titulo": "Neotradicionalismo",
+      "desde": 1998,
+      "hasta": 1998,
+      "texto": "",
+      "discoClave": {
+        "disco": "two-blocks-from-the-edge",
+        "explicacion": "Quinteto con Joey Calderazzo: tenor brillante."
+      },
+      "discos": []
+    },
+    {
       "titulo": "Jazz de hoy",
       "desde": 2007,
       "hasta": 2007,
@@ -59,6 +70,7 @@
     "heavy-metal-be-bop",
     "michael-brecker",
     "tales-from-the-hudson",
-    "pilgrimage"
+    "pilgrimage",
+    "two-blocks-from-the-edge"
   ]
 }

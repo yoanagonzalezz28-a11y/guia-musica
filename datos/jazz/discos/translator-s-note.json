@@ -33,7 +33,7 @@
     "anio": 2017,
     "detalle": null
   },
-  "sello": null,
+  "sello": "Yellowbird",
   "musicos": [
     {
       "musico": "tzur",
@@ -49,7 +49,7 @@
     "Con Shai Maestro: el saxo como voz de raga."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "66cac5aa-05b4-4920-879c-82b4c4336e9b",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null

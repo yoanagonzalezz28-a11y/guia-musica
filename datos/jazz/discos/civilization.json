@@ -4,13 +4,18 @@
     "gioia": "pendiente"
   },
   "verificacion": "sin-verificar",
-  "discrepancias": [],
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz da 1987 como primera edición; acá se usa 1986."
+    }
+  ],
   "regiones": [
     "estados-unidos"
   ],
   "compilacion": false,
   "tipo": "estudio",
-  "catalogo": null,
+  "catalogo": "[note]",
   "lugar": null,
   "spotify": {
     "estado": "verificado",
@@ -49,7 +54,7 @@
     "Quinteto acústico con Wallace Roney: Tony Williams en el jazz de los 80."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "240d7441-b731-3372-b401-8692bb2ef6f7",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null

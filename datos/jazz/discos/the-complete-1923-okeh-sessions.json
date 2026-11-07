@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": true,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "The Complete 1923 Okeh Sessions King Oliver"
+  },
+  "id": "the-complete-1923-okeh-sessions",
+  "titulo": "The Complete 1923 Okeh Sessions",
+  "credito": "King Oliver",
+  "lideres": [
+    "oliver"
+  ],
+  "grabacion": {
+    "desde": 1923,
+    "hasta": 1923,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1923,
+    "detalle": null
+  },
+  "sello": "Okeh",
+  "musicos": [
+    {
+      "musico": "oliver",
+      "nombre": "King Oliver",
+      "instrumento": "corneta"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "origenes"
+  ],
+  "comentario": [
+    "Con Armstrong en segunda corneta."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "medio-oriente"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1H4EI2wQGu5dl6tQusiPT4",
+    "tituloEnSpotify": "Like a Great River",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "like-a-great-river",
+  "titulo": "Like a Great River",
+  "credito": "Oded Tzur",
+  "lideres": [
+    "tzur"
+  ],
+  "grabacion": {
+    "desde": 2015,
+    "hasta": 2015,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2015,
+    "detalle": null
+  },
+  "sello": "Yellowbird",
+  "musicos": [
+    {
+      "musico": "tzur",
+      "nombre": "Oded Tzur",
+      "instrumento": "saxo tenor, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "El cuarteto antes de ECM."
+  ],
+  "ids": {
+    "musicbrainz": "d2b45de3-49c9-4ac6-9e24-a159fc9eba46",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

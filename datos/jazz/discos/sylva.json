@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": "[none]",
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3YDZkr9mlzIMNId8YmQGHr",
+    "tituloEnSpotify": "Sylva",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "sylva",
+  "titulo": "Sylva",
+  "credito": "Snarky Puppy",
+  "lideres": [
+    "snarky-puppy"
+  ],
+  "grabacion": {
+    "desde": 2015,
+    "hasta": 2015,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2015,
+    "detalle": null
+  },
+  "sello": "Impulse!",
+  "musicos": [
+    {
+      "musico": "snarky-puppy",
+      "nombre": "Snarky Puppy",
+      "instrumento": "grupo"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "fusion"
+  ],
+  "comentario": [
+    "Con la Metropole Orkest: ganó un Grammy."
+  ],
+  "ids": {
+    "musicbrainz": "5a7ea55c-ea4c-4391-ab1f-dd38faad2aa6",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

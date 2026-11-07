@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Road Games Allan Holdsworth"
+  },
+  "id": "road-games",
+  "titulo": "Road Games",
+  "credito": "Allan Holdsworth",
+  "lideres": [
+    "holdsworth"
+  ],
+  "grabacion": {
+    "desde": 1983,
+    "hasta": 1983,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1983,
+    "detalle": null
+  },
+  "sello": "Warner Bros.",
+  "musicos": [
+    {
+      "musico": "holdsworth",
+      "nombre": "Allan Holdsworth",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "fusion"
+  ],
+  "comentario": [
+    "EP con Jack Bruce: guitarra legato."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

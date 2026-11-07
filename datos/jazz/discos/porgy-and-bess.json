@@ -4,7 +4,12 @@
     "gioia": "pendiente"
   },
   "verificacion": "sin-verificar",
-  "discrepancias": [],
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz da 1957 como primera edición; acá se usa 1958."
+    }
+  ],
   "regiones": [
     "estados-unidos"
   ],
@@ -49,7 +54,7 @@
     "Con Louis Armstrong: la ópera de Gershwin en dos voces de jazz."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "95a6a9de-094e-3234-bca2-b7a6918b1d95",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Porgy_and_Bess_(Ella_Fitzgerald_and_Louis_Armstrong_album)"

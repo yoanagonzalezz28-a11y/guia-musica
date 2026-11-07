@@ -10,7 +10,7 @@
   ],
   "compilacion": false,
   "tipo": "estudio",
-  "catalogo": null,
+  "catalogo": "G010000669232D",
   "lugar": null,
   "spotify": {
     "estado": "verificado",
@@ -49,7 +49,7 @@
     "Con \"Rockit\": scratch, electrónica y un video icónico de la MTV."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "7f86ad0f-d1d0-3732-a395-4e2e648e1262",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Future_Shock"

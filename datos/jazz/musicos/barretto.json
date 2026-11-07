@@ -37,7 +37,8 @@
       },
       "discos": [
         "barretto",
-        "portraits-in-jazz-and-clave"
+        "portraits-in-jazz-and-clave",
+        "la-cuna"
       ]
     }
   ],
@@ -49,6 +50,7 @@
     "acid",
     "barretto",
     "portraits-in-jazz-and-clave",
-    "midnight-blue"
+    "midnight-blue",
+    "la-cuna"
   ]
 }

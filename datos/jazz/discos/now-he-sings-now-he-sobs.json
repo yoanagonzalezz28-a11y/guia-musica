@@ -21,7 +21,9 @@
   "id": "now-he-sings-now-he-sobs",
   "titulo": "Now He Sings, Now He Sobs",
   "credito": "Chick Corea",
-  "lideres": [],
+  "lideres": [
+    "corea"
+  ],
   "grabacion": {
     "desde": 1968,
     "hasta": 1968,
@@ -33,6 +35,11 @@
   },
   "sello": "Solid State",
   "musicos": [
+    {
+      "musico": "corea",
+      "nombre": "Chick Corea",
+      "instrumento": "piano, teclados"
+    },
     {
       "musico": "haynes",
       "nombre": "Roy Haynes",

@@ -4,7 +4,12 @@
     "gioia": "pendiente"
   },
   "verificacion": "sin-verificar",
-  "discrepancias": [],
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz da 1974 como primera edición; acá se usa 1973."
+    }
+  ],
   "regiones": [
     "estados-unidos"
   ],
@@ -49,7 +54,7 @@
     "Con Alice Coltrane y Charlie Haden: espiritual, con percusiones y efectos."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "a4132852-6c94-32df-a08f-877d4e07a9c5",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null

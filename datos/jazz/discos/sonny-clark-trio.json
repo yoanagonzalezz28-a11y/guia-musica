@@ -4,7 +4,12 @@
     "gioia": "pendiente"
   },
   "verificacion": "sin-verificar",
-  "discrepancias": [],
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz da 1957 como primera edición; acá se usa 1958."
+    }
+  ],
   "regiones": [
     "estados-unidos"
   ],
@@ -49,7 +54,7 @@
     "Trío con Paul Chambers y Philly Joe Jones."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "69c30607-ee81-4b0a-84ad-f1bd890824a1",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null

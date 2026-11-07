@@ -35,6 +35,17 @@
       "discos": [
         "broadway-and-52nd"
       ]
+    },
+    {
+      "titulo": "Acid jazz",
+      "desde": 2001,
+      "hasta": 2001,
+      "texto": "",
+      "discoClave": {
+        "disco": "an-ordinary-day-in-an-unusual-place",
+        "explicacion": "Hip hop y jazz, en su tercera etapa."
+      },
+      "discos": []
     }
   ],
   "fuentes": [
@@ -43,6 +54,7 @@
   "respaldo": [],
   "discosEsenciales": [
     "hand-on-the-torch",
-    "broadway-and-52nd"
+    "broadway-and-52nd",
+    "an-ordinary-day-in-an-unusual-place"
   ]
 }

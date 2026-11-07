@@ -29,11 +29,24 @@
     {
       "titulo": "Su propio grupo",
       "desde": 1957,
-      "hasta": 1958,
+      "hasta": 1959,
       "texto": "Monk y Coltrane lo animaron a formar su grupo.[^wp-abdul-malik]",
       "discoClave": {
         "disco": "jazz-sahara",
         "explicacion": "Su debut, con oud y kanún."
+      },
+      "discos": [
+        "east-meets-west"
+      ]
+    },
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 1961,
+      "hasta": 1961,
+      "texto": "",
+      "discoClave": {
+        "disco": "the-music-of-ahmed-abdul-malik",
+        "explicacion": "Oud, contrabajo y saxo en un cruce todavía experimental."
       },
       "discos": []
     }
@@ -47,5 +60,10 @@
       "acceso": "indirecta",
       "aporta": "Scott Yanow lo considera un ejemplo temprano de cruce."
     }
+  ],
+  "discosEsenciales": [
+    "jazz-sahara",
+    "east-meets-west",
+    "the-music-of-ahmed-abdul-malik"
   ]
 }

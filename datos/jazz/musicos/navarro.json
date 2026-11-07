@@ -38,6 +38,17 @@
         "the-fabulous-fats-navarro-vol-2",
         "goin-to-minton-s"
       ]
+    },
+    {
+      "titulo": "Bebop",
+      "desde": 1975,
+      "hasta": 1975,
+      "texto": "",
+      "discoClave": {
+        "disco": "prime-source",
+        "explicacion": "Sus sesiones de Blue Note con Tadd Dameron."
+      },
+      "discos": []
     }
   ],
   "fuentes": [
@@ -47,6 +58,7 @@
   "discosEsenciales": [
     "the-fabulous-fats-navarro",
     "the-fabulous-fats-navarro-vol-2",
-    "goin-to-minton-s"
+    "goin-to-minton-s",
+    "prime-source"
   ]
 }

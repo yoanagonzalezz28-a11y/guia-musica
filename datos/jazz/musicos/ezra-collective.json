@@ -25,6 +25,17 @@
   "epocas": [
     {
       "titulo": "Jazz de hoy",
+      "desde": 2017,
+      "hasta": 2017,
+      "texto": "",
+      "discoClave": {
+        "disco": "juan-pablo-the-philosopher",
+        "explicacion": "EP con su energía de grupo en vivo."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Jazz de hoy",
       "desde": 2019,
       "hasta": 2024,
       "texto": "",
@@ -45,6 +56,7 @@
   "discosEsenciales": [
     "you-can-t-steal-my-joy",
     "where-i-m-meant-to-be",
-    "dance-no-one-s-watching"
+    "dance-no-one-s-watching",
+    "juan-pablo-the-philosopher"
   ]
 }

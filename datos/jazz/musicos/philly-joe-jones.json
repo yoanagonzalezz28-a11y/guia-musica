@@ -28,14 +28,15 @@
     {
       "titulo": "Hard bop",
       "desde": 1958,
-      "hasta": 1959,
+      "hasta": 1960,
       "texto": "",
       "discoClave": {
         "disco": "blues-for-dracula",
         "explicacion": "Con Nat Adderley y Johnny Griffin: hard bop con humor, empezando por una imitación de Bela Lugosi."
       },
       "discos": [
-        "drums-around-the-world"
+        "drums-around-the-world",
+        "philly-joe-s-beat"
       ]
     }
   ],
@@ -46,6 +47,7 @@
   "discosEsenciales": [
     "blues-for-dracula",
     "drums-around-the-world",
-    "workin-with-the-miles-davis-quintet"
+    "workin-with-the-miles-davis-quintet",
+    "philly-joe-s-beat"
   ]
 }

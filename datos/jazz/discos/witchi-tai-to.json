@@ -19,7 +19,9 @@
   "id": "witchi-tai-to",
   "titulo": "Witchi-Tai-To",
   "credito": "Jan Garbarek",
-  "lideres": [],
+  "lideres": [
+    "garbarek"
+  ],
   "grabacion": {
     "desde": 1974,
     "hasta": 1974,
@@ -31,6 +33,11 @@
   },
   "sello": "ECM",
   "musicos": [
+    {
+      "musico": "garbarek",
+      "nombre": "Jan Garbarek",
+      "instrumento": "saxo tenor, saxo soprano"
+    },
     {
       "musico": "stenson",
       "nombre": "Bobo Stenson",

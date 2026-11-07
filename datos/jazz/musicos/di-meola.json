@@ -34,7 +34,8 @@
       },
       "discos": [
         "friday-night-in-san-francisco",
-        "land-of-the-midnight-sun"
+        "land-of-the-midnight-sun",
+        "casino"
       ]
     }
   ],
@@ -45,6 +46,7 @@
   "discosEsenciales": [
     "elegant-gypsy",
     "friday-night-in-san-francisco",
-    "land-of-the-midnight-sun"
+    "land-of-the-midnight-sun",
+    "casino"
   ]
 }

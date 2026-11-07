@@ -26,7 +26,7 @@
   "epocas": [
     {
       "titulo": "Jazz de hoy",
-      "desde": 2018,
+      "desde": 2017,
       "hasta": 2020,
       "texto": "",
       "discoClave": {
@@ -34,7 +34,8 @@
         "explicacion": "Con músicos de la escena del sur de Londres."
       },
       "discos": [
-        "dark-matter"
+        "dark-matter",
+        "absolute-zero"
       ]
     }
   ],
@@ -45,6 +46,7 @@
   "discosEsenciales": [
     "displaced-diaspora",
     "dark-matter",
-    "dem-ones"
+    "dem-ones",
+    "absolute-zero"
   ]
 }

@@ -25,6 +25,17 @@
   "epocas": [
     {
       "titulo": "Fusión",
+      "desde": 1983,
+      "hasta": 1983,
+      "texto": "",
+      "discoClave": {
+        "disco": "road-games",
+        "explicacion": "EP con Jack Bruce: guitarra legato."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Fusión",
       "desde": 1985,
       "hasta": 2009,
       "texto": "",
@@ -33,7 +44,8 @@
         "explicacion": "Su guitarra en su mejor forma."
       },
       "discos": [
-        "blues-for-tony"
+        "blues-for-tony",
+        "secrets"
       ]
     }
   ],
@@ -44,6 +56,8 @@
   "discosEsenciales": [
     "believe-it-holdsworth",
     "metal-fatigue",
-    "blues-for-tony"
+    "blues-for-tony",
+    "road-games",
+    "secrets"
   ]
 }

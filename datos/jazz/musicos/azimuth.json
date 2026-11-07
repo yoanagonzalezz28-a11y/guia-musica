@@ -35,7 +35,8 @@
       },
       "discos": [
         "light-as-a-feather-azimuth",
-        "outubro"
+        "outubro",
+        "aguia-nao-come-mosca"
       ]
     }
   ],
@@ -46,6 +47,7 @@
   "discosEsenciales": [
     "azimuth",
     "light-as-a-feather-azimuth",
-    "outubro"
+    "outubro",
+    "aguia-nao-come-mosca"
   ]
 }

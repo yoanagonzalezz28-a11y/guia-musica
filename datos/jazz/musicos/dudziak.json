@@ -36,6 +36,17 @@
       "discos": [
         "urszula"
       ]
+    },
+    {
+      "titulo": "Fusión",
+      "desde": 1977,
+      "hasta": 1977,
+      "texto": "",
+      "discoClave": {
+        "disco": "midnight-rain",
+        "explicacion": "Voz y electrónica con músicos de Nueva York."
+      },
+      "discos": []
     }
   ],
   "fuentes": [
@@ -44,6 +55,7 @@
   "respaldo": [],
   "discosEsenciales": [
     "newborn-light",
-    "urszula"
+    "urszula",
+    "midnight-rain"
   ]
 }

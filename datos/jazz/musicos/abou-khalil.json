@@ -33,6 +33,20 @@
         "explicacion": "Su disco más elogiado."
       },
       "discos": []
+    },
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 1996,
+      "hasta": 2007,
+      "texto": "",
+      "discoClave": {
+        "disco": "arabian-waltz",
+        "explicacion": "Oud con cuarteto de cuerdas: valses y maqams."
+      },
+      "discos": [
+        "odd-times",
+        "songs-for-sad-women"
+      ]
     }
   ],
   "fuentes": [
@@ -44,5 +58,11 @@
       "acceso": "indirecta",
       "aporta": "Kurt Keefner lo considera la cumbre de su obra."
     }
+  ],
+  "discosEsenciales": [
+    "blue-camel",
+    "arabian-waltz",
+    "odd-times",
+    "songs-for-sad-women"
   ]
 }

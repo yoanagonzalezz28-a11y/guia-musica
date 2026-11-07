@@ -34,14 +34,28 @@
         "explicacion": "Su debut, producido por Quincy Jones."
       },
       "discos": [
-        "tocororo"
+        "tocororo",
+        "the-invasion-parade"
       ]
+    },
+    {
+      "titulo": "Jazz latino",
+      "desde": 2019,
+      "hasta": 2019,
+      "texto": "",
+      "discoClave": {
+        "disco": "duologue",
+        "explicacion": "Dúo con el percusionista Pedrito Martínez."
+      },
+      "discos": []
     }
   ],
   "fuentes": [],
   "respaldo": [],
   "discosEsenciales": [
     "sounds-of-space",
-    "tocororo"
+    "tocororo",
+    "the-invasion-parade",
+    "duologue"
   ]
 }

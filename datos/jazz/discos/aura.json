@@ -19,7 +19,9 @@
   "id": "aura",
   "titulo": "Aura",
   "credito": "Miles Davis",
-  "lideres": [],
+  "lideres": [
+    "miles"
+  ],
   "grabacion": {
     "desde": 1989,
     "hasta": 1989,
@@ -31,6 +33,11 @@
   },
   "sello": "Columbia",
   "musicos": [
+    {
+      "musico": "miles",
+      "nombre": "Miles Davis",
+      "instrumento": "trompeta"
+    },
     {
       "musico": "mikkelborg",
       "nombre": "Palle Mikkelborg",

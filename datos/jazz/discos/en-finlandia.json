@@ -4,7 +4,12 @@
     "gioia": "pendiente"
   },
   "verificacion": "sin-verificar",
-  "discrepancias": [],
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz da 2018 como primera edición; acá se usa 1979."
+    }
+  ],
   "regiones": [
     "cuba"
   ],
@@ -33,7 +38,7 @@
     "anio": 1979,
     "detalle": null
   },
-  "sello": null,
+  "sello": "EGREM",
   "musicos": [
     {
       "musico": "paquito",
@@ -49,7 +54,7 @@
     "Paquito en vivo en Finlandia: saxo alto brillante entre el bebop y la música cubana."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "32339c7c-56be-4a99-a54a-2c0559b37244",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null

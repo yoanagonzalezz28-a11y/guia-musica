@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "St. Louis Blues Bessie Smith"
+  },
+  "id": "st-louis-blues",
+  "titulo": "St. Louis Blues",
+  "credito": "Bessie Smith",
+  "lideres": [
+    "bessie"
+  ],
+  "grabacion": {
+    "desde": 1925,
+    "hasta": 1925,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1925,
+    "detalle": null
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "bessie",
+      "nombre": "Bessie Smith",
+      "instrumento": "voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "origenes"
+  ],
+  "comentario": [
+    "Con Louis Armstrong en corneta: dos gigantes de los años 20."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

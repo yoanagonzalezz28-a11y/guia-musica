@@ -35,6 +35,17 @@
         "carnet-de-routes",
         "african-flashback"
       ]
+    },
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 2016,
+      "hasta": 2016,
+      "texto": "",
+      "discoClave": {
+        "disco": "sky-dancers",
+        "explicacion": "Con su hijo Sébastien."
+      },
+      "discos": []
     }
   ],
   "fuentes": [
@@ -44,6 +55,7 @@
   "discosEsenciales": [
     "varech",
     "carnet-de-routes",
-    "african-flashback"
+    "african-flashback",
+    "sky-dancers"
   ]
 }

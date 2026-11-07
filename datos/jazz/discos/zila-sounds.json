@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "sudafrica"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Zila Sounds Dudu Pukwana"
+  },
+  "id": "zila-sounds",
+  "titulo": "Zila Sounds",
+  "credito": "Dudu Pukwana",
+  "lideres": [
+    "pukwana"
+  ],
+  "grabacion": {
+    "desde": 1981,
+    "hasta": 1981,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1981,
+    "detalle": null
+  },
+  "sello": "Jika",
+  "musicos": [
+    {
+      "musico": "pukwana",
+      "nombre": "Dudu Pukwana",
+      "instrumento": "saxo alto"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "Su grupo Zila: alegría sudafricana."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

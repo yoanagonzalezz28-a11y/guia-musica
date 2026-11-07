@@ -35,6 +35,17 @@
       "discos": [
         "the-return-of-the-space-cowboy"
       ]
+    },
+    {
+      "titulo": "Acid jazz",
+      "desde": 1996,
+      "hasta": 1996,
+      "texto": "",
+      "discoClave": {
+        "disco": "travelling-without-moving",
+        "explicacion": "Con \"Virtual Insanity\": el gran éxito."
+      },
+      "discos": []
     }
   ],
   "fuentes": [
@@ -43,6 +54,7 @@
   "respaldo": [],
   "discosEsenciales": [
     "emergency-on-planet-earth",
-    "the-return-of-the-space-cowboy"
+    "the-return-of-the-space-cowboy",
+    "travelling-without-moving"
   ]
 }

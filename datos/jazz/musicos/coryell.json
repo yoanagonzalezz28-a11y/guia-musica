@@ -27,7 +27,7 @@
   "epocas": [
     {
       "titulo": "Fusión",
-      "desde": 1970,
+      "desde": 1969,
       "hasta": 1977,
       "texto": "",
       "discoClave": {
@@ -36,7 +36,8 @@
       },
       "discos": [
         "introducing-the-eleventh-house",
-        "twin-house"
+        "twin-house",
+        "coryell"
       ]
     }
   ],
@@ -48,6 +49,7 @@
     "duster",
     "spaces",
     "introducing-the-eleventh-house",
-    "twin-house"
+    "twin-house",
+    "coryell"
   ]
 }

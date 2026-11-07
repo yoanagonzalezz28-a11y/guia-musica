@@ -4,7 +4,12 @@
     "gioia": "pendiente"
   },
   "verificacion": "sin-verificar",
-  "discrepancias": [],
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz da 1958 como primera edición; acá se usa 1959."
+    }
+  ],
   "regiones": [
     "estados-unidos"
   ],
@@ -49,7 +54,7 @@
     "Su debut en trío."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "19ca48c1-af98-3000-bc9a-97ef5fa3e3be",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null

@@ -19,7 +19,9 @@
   "id": "people-time",
   "titulo": "People Time",
   "credito": "Stan Getz",
-  "lideres": [],
+  "lideres": [
+    "getz"
+  ],
   "grabacion": {
     "desde": 1992,
     "hasta": 1992,
@@ -31,6 +33,11 @@
   },
   "sello": "EmArcy",
   "musicos": [
+    {
+      "musico": "getz",
+      "nombre": "Stan Getz",
+      "instrumento": "saxo tenor"
+    },
     {
       "musico": "barron",
       "nombre": "Kenny Barron",

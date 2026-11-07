@@ -47,7 +47,8 @@
         "explicacion": "Groove y alegría."
       },
       "discos": [
-        "sounds-from-the-ancestors"
+        "sounds-from-the-ancestors",
+        "seeds-from-the-underground"
       ]
     }
   ],
@@ -59,6 +60,7 @@
     "songbook",
     "triology",
     "happy-people",
-    "sounds-from-the-ancestors"
+    "sounds-from-the-ancestors",
+    "seeds-from-the-underground"
   ]
 }

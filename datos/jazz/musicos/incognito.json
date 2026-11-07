@@ -24,6 +24,17 @@
   "resumen": "Grupo londinense liderado por el guitarrista Jean-Paul \"Bluey\" Maunick, de jazz funk con voces de soul.",
   "epocas": [
     {
+      "titulo": "Fusión",
+      "desde": 1981,
+      "hasta": 1981,
+      "texto": "",
+      "discoClave": {
+        "disco": "jazz-funk",
+        "explicacion": "Su primer disco, antes del acid jazz."
+      },
+      "discos": []
+    },
+    {
       "titulo": "Acid jazz",
       "desde": 1991,
       "hasta": 1993,
@@ -36,6 +47,17 @@
         "tribes-vibes-and-scribes",
         "positivity"
       ]
+    },
+    {
+      "titulo": "Acid jazz",
+      "desde": 1995,
+      "hasta": 1995,
+      "texto": "",
+      "discoClave": {
+        "disco": "100-and-rising",
+        "explicacion": "Groove soul con vientos."
+      },
+      "discos": []
     }
   ],
   "fuentes": [
@@ -45,6 +67,8 @@
   "discosEsenciales": [
     "inside-life",
     "tribes-vibes-and-scribes",
-    "positivity"
+    "positivity",
+    "100-and-rising",
+    "jazz-funk"
   ]
 }

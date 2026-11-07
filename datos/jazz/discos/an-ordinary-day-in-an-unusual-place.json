@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "reino-unido"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "An Ordinary Day in an Unusual Place Us3"
+  },
+  "id": "an-ordinary-day-in-an-unusual-place",
+  "titulo": "An Ordinary Day in an Unusual Place",
+  "credito": "Us3",
+  "lideres": [
+    "us3"
+  ],
+  "grabacion": {
+    "desde": 2001,
+    "hasta": 2001,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2001,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "us3",
+      "nombre": "Us3",
+      "instrumento": "grupo"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "acid"
+  ],
+  "comentario": [
+    "Hip hop y jazz, en su tercera etapa."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

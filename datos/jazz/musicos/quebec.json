@@ -38,6 +38,17 @@
         "heavy-soul",
         "soul-samba"
       ]
+    },
+    {
+      "titulo": "Hard bop",
+      "desde": 1964,
+      "hasta": 1964,
+      "texto": "",
+      "discoClave": {
+        "disco": "it-might-as-well-be-spring",
+        "explicacion": "Baladas con Freddie Roach."
+      },
+      "discos": []
     }
   ],
   "fuentes": [
@@ -47,6 +58,7 @@
   "discosEsenciales": [
     "blue-and-sentimental",
     "heavy-soul",
-    "soul-samba"
+    "soul-samba",
+    "it-might-as-well-be-spring"
   ]
 }

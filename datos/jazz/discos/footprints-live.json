@@ -19,7 +19,9 @@
   "id": "footprints-live",
   "titulo": "Footprints Live!",
   "credito": "Wayne Shorter",
-  "lideres": [],
+  "lideres": [
+    "shorter"
+  ],
   "grabacion": {
     "desde": 2002,
     "hasta": 2002,
@@ -31,6 +33,11 @@
   },
   "sello": "Verve",
   "musicos": [
+    {
+      "musico": "shorter",
+      "nombre": "Wayne Shorter",
+      "instrumento": "saxo tenor, saxo soprano, composición"
+    },
     {
       "musico": "danilo-perez",
       "nombre": "Danilo Pérez",

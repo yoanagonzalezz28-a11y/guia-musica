@@ -36,8 +36,20 @@
         "explicacion": "Con Lee Morgan y Ray Bryant: hard bop de Filadelfia."
       },
       "discos": [
-        "meet-the-jazztet"
+        "meet-the-jazztet",
+        "gone-with-golson"
       ]
+    },
+    {
+      "titulo": "Hard bop",
+      "desde": 2018,
+      "hasta": 2018,
+      "texto": "",
+      "discoClave": {
+        "disco": "let-s-play-one",
+        "explicacion": "El veterano compositor en un registro tardío."
+      },
+      "discos": []
     }
   ],
   "fuentes": [
@@ -47,6 +59,8 @@
   "discosEsenciales": [
     "benny-golson-and-the-philadelphians",
     "meet-the-jazztet",
-    "moanin"
+    "moanin",
+    "gone-with-golson",
+    "let-s-play-one"
   ]
 }

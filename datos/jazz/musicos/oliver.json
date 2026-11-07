@@ -33,6 +33,19 @@
         "disco": "creole-jazz-band",
         "explicacion": "Las grabaciones que dejaron registrado el estilo de Nueva Orleans."
       },
+      "discos": [
+        "the-complete-1923-okeh-sessions"
+      ]
+    },
+    {
+      "titulo": "Orígenes",
+      "desde": 1926,
+      "hasta": 1926,
+      "texto": "",
+      "discoClave": {
+        "disco": "king-oliver-and-his-dixie-syncopators",
+        "explicacion": "Su orquesta de los años 20, ya en Chicago."
+      },
       "discos": []
     }
   ],
@@ -45,5 +58,10 @@
       "acceso": "completa",
       "aporta": "Reproduce el relato de Armstrong sobre su llegada a la banda."
     }
+  ],
+  "discosEsenciales": [
+    "creole-jazz-band",
+    "king-oliver-and-his-dixie-syncopators",
+    "the-complete-1923-okeh-sessions"
   ]
 }

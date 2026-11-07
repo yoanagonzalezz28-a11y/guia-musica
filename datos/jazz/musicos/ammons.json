@@ -39,6 +39,19 @@
     },
     {
       "titulo": "Soul jazz",
+      "desde": 1958,
+      "hasta": 1969,
+      "texto": "",
+      "discoClave": {
+        "disco": "the-boss-is-back",
+        "explicacion": "Su regreso tras años de cárcel: tenor grande y bluesero."
+      },
+      "discos": [
+        "blue-gene"
+      ]
+    },
+    {
+      "titulo": "Soul jazz",
       "desde": 1960,
       "hasta": 1961,
       "texto": "",
@@ -58,6 +71,8 @@
   "discosEsenciales": [
     "boss-tenor",
     "jug",
-    "the-happy-blues"
+    "the-happy-blues",
+    "the-boss-is-back",
+    "blue-gene"
   ]
 }

@@ -20,7 +20,9 @@
   "id": "afro-cuban-jazz-suite",
   "titulo": "Afro-Cuban Jazz Suite",
   "credito": "Machito and His Afro-Cuban Orchestra",
-  "lideres": [],
+  "lideres": [
+    "machito"
+  ],
   "grabacion": {
     "desde": 1950,
     "hasta": 1950,
@@ -33,9 +35,19 @@
   "sello": "Clef",
   "musicos": [
     {
+      "musico": "machito",
+      "nombre": "Machito",
+      "instrumento": "voz, maracas, dirección"
+    },
+    {
       "musico": "ofarrill",
       "nombre": "Chico O'Farrill",
       "instrumento": "arreglos, composición, trompeta"
+    },
+    {
+      "musico": "bauza",
+      "nombre": "Mario Bauzá",
+      "instrumento": "trompeta"
     }
   ],
   "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",

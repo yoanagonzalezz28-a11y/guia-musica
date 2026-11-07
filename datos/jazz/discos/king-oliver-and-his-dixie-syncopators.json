@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "King Oliver and His Dixie Syncopators King Oliver"
+  },
+  "id": "king-oliver-and-his-dixie-syncopators",
+  "titulo": "King Oliver and His Dixie Syncopators",
+  "credito": "King Oliver",
+  "lideres": [
+    "oliver"
+  ],
+  "grabacion": {
+    "desde": 1926,
+    "hasta": 1926,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1926,
+    "detalle": null
+  },
+  "sello": "Vocalion",
+  "musicos": [
+    {
+      "musico": "oliver",
+      "nombre": "King Oliver",
+      "instrumento": "corneta"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "origenes"
+  ],
+  "comentario": [
+    "Su orquesta de los años 20, ya en Chicago."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

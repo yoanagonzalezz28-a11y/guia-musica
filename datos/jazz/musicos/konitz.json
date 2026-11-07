@@ -27,7 +27,7 @@
     {
       "titulo": "Con Tristano y con Davis",
       "desde": 1949,
-      "hasta": 1956,
+      "hasta": 1957,
       "texto": "Alumno de Lennie Tristano, tocó a la vez en el noneto de Davis y en la escuela de su maestro. Esa combinación marcó a saxofonistas de California como Paul Desmond y Art Pepper.[^npr-konitz]",
       "discoClave": {
         "disco": "subconscious-lee",
@@ -36,8 +36,20 @@
       "discos": [
         "birth-of-the-cool",
         "crosscurrents",
-        "lennie-tristano"
+        "lennie-tristano",
+        "tranquility"
       ]
+    },
+    {
+      "titulo": "Cool",
+      "desde": 1961,
+      "hasta": 1961,
+      "texto": "",
+      "discoClave": {
+        "disco": "motion",
+        "explicacion": "Trío sin piano con Elvin Jones: improvisación pura sobre estándares."
+      },
+      "discos": []
     }
   ],
   "fuentes": [
@@ -59,5 +71,10 @@
       "acceso": "completa",
       "aporta": "Konitz comenta solos de Lester Young, una de sus raíces, en una conversación con Iverson."
     }
+  ],
+  "discosEsenciales": [
+    "subconscious-lee",
+    "motion",
+    "tranquility"
   ]
 }

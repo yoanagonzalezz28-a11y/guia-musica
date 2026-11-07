@@ -24,6 +24,19 @@
   "epocas": [
     {
       "titulo": "ECM y jazz europeo",
+      "desde": 1989,
+      "hasta": 1993,
+      "texto": "",
+      "discoClave": {
+        "disco": "introductions-in-the-dark",
+        "explicacion": "Su primer disco con grupo grande."
+      },
+      "discos": [
+        "rhythm-method"
+      ]
+    },
+    {
+      "titulo": "ECM y jazz europeo",
       "desde": 2012,
       "hasta": 2018,
       "texto": "",
@@ -44,6 +57,8 @@
   "discosEsenciales": [
     "trio-libero",
     "surrounded-by-sea",
-    "romaria"
+    "romaria",
+    "introductions-in-the-dark",
+    "rhythm-method"
   ]
 }

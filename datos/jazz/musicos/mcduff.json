@@ -27,7 +27,7 @@
   "epocas": [
     {
       "titulo": "Soul jazz",
-      "desde": 1961,
+      "desde": 1960,
       "hasta": 1966,
       "texto": "",
       "discoClave": {
@@ -36,7 +36,9 @@
       },
       "discos": [
         "live",
-        "tobacco-road"
+        "tobacco-road",
+        "brother-jack",
+        "screamin"
       ]
     }
   ],
@@ -47,6 +49,8 @@
   "discosEsenciales": [
     "the-honeydripper",
     "live",
-    "tobacco-road"
+    "tobacco-road",
+    "brother-jack",
+    "screamin"
   ]
 }

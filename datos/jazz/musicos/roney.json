@@ -27,6 +27,17 @@
   "epocas": [
     {
       "titulo": "Neotradicionalismo",
+      "desde": 1987,
+      "hasta": 1987,
+      "texto": "",
+      "discoClave": {
+        "disco": "verses",
+        "explicacion": "Su debut, con Tony Williams."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Neotradicionalismo",
       "desde": 1990,
       "hasta": 2016,
       "texto": "",
@@ -49,6 +60,7 @@
     "misterios",
     "the-standard-bearer",
     "village",
-    "a-place-in-time"
+    "a-place-in-time",
+    "verses"
   ]
 }

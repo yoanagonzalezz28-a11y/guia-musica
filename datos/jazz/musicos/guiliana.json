@@ -35,6 +35,17 @@
       "discos": [
         "family-first"
       ]
+    },
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2022,
+      "hasta": 2022,
+      "texto": "",
+      "discoClave": {
+        "disco": "the-sound-of-listening",
+        "explicacion": "Cuarteto acústico con Jason Rigby."
+      },
+      "discos": []
     }
   ],
   "fuentes": [
@@ -44,6 +55,7 @@
   "discosEsenciales": [
     "mehliana-taming-the-dragon",
     "family-first",
-    "blackstar"
+    "blackstar",
+    "the-sound-of-listening"
   ]
 }

@@ -29,7 +29,7 @@
   "epocas": [
     {
       "titulo": "Hard bop",
-      "desde": 1961,
+      "desde": 1960,
       "hasta": 1964,
       "texto": "",
       "discoClave": {
@@ -38,8 +38,20 @@
       },
       "discos": [
         "more-blues-and-the-abstract-truth",
-        "afro-american-sketches"
+        "afro-american-sketches",
+        "screamin-the-blues"
       ]
+    },
+    {
+      "titulo": "Hard bop",
+      "desde": 1970,
+      "hasta": 1970,
+      "texto": "",
+      "discoClave": {
+        "disco": "black-brown-and-beautiful",
+        "explicacion": "Big band en homenaje a Martin Luther King."
+      },
+      "discos": []
     }
   ],
   "fuentes": [
@@ -49,6 +61,8 @@
   "discosEsenciales": [
     "the-blues-and-the-abstract-truth",
     "more-blues-and-the-abstract-truth",
-    "afro-american-sketches"
+    "afro-american-sketches",
+    "screamin-the-blues",
+    "black-brown-and-beautiful"
   ]
 }

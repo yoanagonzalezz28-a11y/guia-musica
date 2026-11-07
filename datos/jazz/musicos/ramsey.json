@@ -27,6 +27,17 @@
   "epocas": [
     {
       "titulo": "Soul jazz",
+      "desde": 1961,
+      "hasta": 1961,
+      "texto": "",
+      "discoClave": {
+        "disco": "the-sound-of-christmas",
+        "explicacion": "Su trío con cuerdas."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Soul jazz",
       "desde": 1965,
       "hasta": 1974,
       "texto": "",
@@ -49,6 +60,7 @@
     "the-in-crowd",
     "wade-in-the-water",
     "sun-goddess",
-    "hang-on-ramsey"
+    "hang-on-ramsey",
+    "the-sound-of-christmas"
   ]
 }

@@ -49,6 +49,17 @@
         "intercontinental",
         "take-love-easy"
       ]
+    },
+    {
+      "titulo": "Bebop",
+      "desde": 1977,
+      "hasta": 1977,
+      "texto": "",
+      "discoClave": {
+        "disco": "virtuoso-2",
+        "explicacion": "Guitarra sola otra vez."
+      },
+      "discos": []
     }
   ],
   "fuentes": [
@@ -59,6 +70,7 @@
     "virtuoso",
     "intercontinental",
     "for-django",
-    "take-love-easy"
+    "take-love-easy",
+    "virtuoso-2"
   ]
 }

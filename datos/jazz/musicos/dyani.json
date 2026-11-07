@@ -38,6 +38,17 @@
       "discos": [
         "song-for-biko"
       ]
+    },
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 1983,
+      "hasta": 1983,
+      "texto": "",
+      "discoClave": {
+        "disco": "afrika",
+        "explicacion": "Con músicos sudafricanos y daneses: ritmos del Cabo."
+      },
+      "discos": []
     }
   ],
   "fuentes": [
@@ -46,6 +57,7 @@
   "respaldo": [],
   "discosEsenciales": [
     "witchdoctor-s-son",
-    "song-for-biko"
+    "song-for-biko",
+    "afrika"
   ]
 }

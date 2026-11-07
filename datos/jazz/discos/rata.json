@@ -38,7 +38,7 @@
     "anio": 2019,
     "detalle": null
   },
-  "sello": null,
+  "sello": "Club del Disco",
   "musicos": [
     {
       "musico": "pipi-piazzolla",
@@ -54,7 +54,7 @@
     "En trío, con temas propios."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "f92a2036-2b16-43c1-9aa5-610c17c86952",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null

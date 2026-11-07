@@ -10,7 +10,7 @@
   ],
   "compilacion": false,
   "tipo": "estudio",
-  "catalogo": null,
+  "catalogo": "[none]",
   "lugar": null,
   "spotify": {
     "estado": "verificado",
@@ -53,7 +53,7 @@
     "Es el Coltrane que ya domina el hard bop y empieza a correr por los acordes, la etapa que el crítico Ira Gitler llamó \"sheets of sound\". Dos años después llegaría *Giant Steps*."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "12349ce8-2087-3d16-93da-70cd65621774",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Blue_Train_(album)"

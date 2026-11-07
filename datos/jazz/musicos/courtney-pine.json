@@ -48,6 +48,17 @@
       "discos": [
         "underground-pine"
       ]
+    },
+    {
+      "titulo": "Acid jazz",
+      "desde": 2004,
+      "hasta": 2004,
+      "texto": "",
+      "discoClave": {
+        "disco": "devotion",
+        "explicacion": "Su lado más soul, con voces."
+      },
+      "discos": []
     }
   ],
   "fuentes": [
@@ -58,6 +69,7 @@
     "journey-to-the-urge-within",
     "modern-day-jazz-stories",
     "underground-pine",
-    "celebration"
+    "celebration",
+    "devotion"
   ]
 }

@@ -10,7 +10,7 @@
   ],
   "compilacion": false,
   "tipo": "estudio",
-  "catalogo": null,
+  "catalogo": "[none]",
   "lugar": null,
   "spotify": {
     "estado": "verificado",
@@ -21,7 +21,9 @@
   "id": "tutu",
   "titulo": "Tutu",
   "credito": "Miles Davis",
-  "lideres": [],
+  "lideres": [
+    "miles"
+  ],
   "grabacion": {
     "desde": 1986,
     "hasta": 1986,
@@ -33,6 +35,11 @@
   },
   "sello": "Warner Bros.",
   "musicos": [
+    {
+      "musico": "miles",
+      "nombre": "Miles Davis",
+      "instrumento": "trompeta"
+    },
     {
       "musico": "marcus-miller",
       "nombre": "Marcus Miller",
@@ -47,7 +54,7 @@
     "Miles en los 80, con la música y la producción de Miller."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "44a7c417-f4ce-31d3-9e81-2f370126526f",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null

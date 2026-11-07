@@ -28,14 +28,15 @@
     {
       "titulo": "Orígenes",
       "desde": 1926,
-      "hasta": 1927,
+      "hasta": 1928,
       "texto": "",
       "discoClave": {
         "disco": "wild-man-blues-louis-armstrong",
         "explicacion": "Clarinete y corneta en diálogo."
       },
       "discos": [
-        "complete-jazz-series-1926"
+        "complete-jazz-series-1926",
+        "the-johnny-dodds-washboard-band"
       ]
     }
   ],
@@ -46,6 +47,7 @@
   "discosEsenciales": [
     "wild-man-blues-louis-armstrong",
     "creole-jazz-band",
-    "complete-jazz-series-1926"
+    "complete-jazz-series-1926",
+    "the-johnny-dodds-washboard-band"
   ]
 }

@@ -4,13 +4,18 @@
     "gioia": "pendiente"
   },
   "verificacion": "sin-verificar",
-  "discrepancias": [],
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz da 1966 como primera edición; acá se usa 1965."
+    }
+  ],
   "regiones": [
     "estados-unidos"
   ],
   "compilacion": false,
   "tipo": "estudio",
-  "catalogo": null,
+  "catalogo": "B0004270-02",
   "lugar": null,
   "spotify": {
     "estado": "verificado",
@@ -49,7 +54,7 @@
     "Con flautas y efectos: experimental y meditativo."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "35b53261-f17f-34e2-adca-4377ffd4c6c7",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null

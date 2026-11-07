@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
+    }
+  ],
+  "regiones": [
+    "reino-unido"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3RQRVi9a7LGpkFu9Tz83KP",
+    "tituloEnSpotify": "Devotion",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "devotion",
+  "titulo": "Devotion",
+  "credito": "Courtney Pine",
+  "lideres": [
+    "courtney-pine"
+  ],
+  "grabacion": {
+    "desde": 2004,
+    "hasta": 2004,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2004,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "courtney-pine",
+      "nombre": "Courtney Pine",
+      "instrumento": "saxo tenor, saxo soprano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "acid"
+  ],
+  "comentario": [
+    "Su lado más soul, con voces."
+  ],
+  "ids": {
+    "musicbrainz": "5109fd2c-a2b7-4405-8793-0033d66a5cda",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

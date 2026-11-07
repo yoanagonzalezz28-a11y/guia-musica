@@ -25,6 +25,17 @@
   "epocas": [
     {
       "titulo": "Neotradicionalismo",
+      "desde": 1988,
+      "hasta": 1988,
+      "texto": "",
+      "discoClave": {
+        "disco": "the-truth-is-spoken-here",
+        "explicacion": "Su debut, con Wynton Marsalis."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Neotradicionalismo",
       "desde": 1990,
       "hasta": 1994,
       "texto": "",
@@ -34,7 +45,8 @@
       },
       "discos": [
         "deep-in-the-shed",
-        "gershwin-for-lovers"
+        "gershwin-for-lovers",
+        "as-serenity-approaches"
       ]
     }
   ],
@@ -45,6 +57,8 @@
   "discosEsenciales": [
     "alone-with-three-giants",
     "deep-in-the-shed",
-    "gershwin-for-lovers"
+    "gershwin-for-lovers",
+    "the-truth-is-spoken-here",
+    "as-serenity-approaches"
   ]
 }

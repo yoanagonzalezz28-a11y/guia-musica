@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/11OAJzPzK0K97F8rUISAjt",
+    "tituloEnSpotify": "Trilogy",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "trilogy",
+  "titulo": "Trilogy",
+  "credito": "Chick Corea",
+  "lideres": [
+    "corea"
+  ],
+  "grabacion": {
+    "desde": 2013,
+    "hasta": 2013,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2013,
+    "detalle": null
+  },
+  "sello": "Concord",
+  "musicos": [
+    {
+      "musico": "corea",
+      "nombre": "Chick Corea",
+      "instrumento": "piano, teclados"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Trío en vivo con Christian McBride y Brian Blade: ganó dos Grammy."
+  ],
+  "ids": {
+    "musicbrainz": "8ab02522-78fb-43bd-a928-313321ce6fbf",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

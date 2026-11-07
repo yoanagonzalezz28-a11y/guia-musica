@@ -47,6 +47,17 @@
         "explicacion": "Trío con Thomas Morgan y Paul Motian, grabado en 2009."
       },
       "discos": []
+    },
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 2016,
+      "hasta": 2016,
+      "texto": "",
+      "discoClave": {
+        "disco": "black-orpheus",
+        "explicacion": "Piano solo en Tokio, grabado poco antes de su muerte."
+      },
+      "discos": []
     }
   ],
   "fuentes": [
@@ -55,6 +66,7 @@
   "respaldo": [],
   "discosEsenciales": [
     "susto",
-    "sunrise"
+    "sunrise",
+    "black-orpheus"
   ]
 }

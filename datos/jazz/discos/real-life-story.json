@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Real Life Story Terri Lyne Carrington"
+  },
+  "id": "real-life-story",
+  "titulo": "Real Life Story",
+  "credito": "Terri Lyne Carrington",
+  "lideres": [
+    "carrington"
+  ],
+  "grabacion": {
+    "desde": 1989,
+    "hasta": 1989,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1989,
+    "detalle": null
+  },
+  "sello": "Verve Forecast",
+  "musicos": [
+    {
+      "musico": "carrington",
+      "nombre": "Terri Lyne Carrington",
+      "instrumento": "batería, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "fusion"
+  ],
+  "comentario": [
+    "Su debut, con Carlos Santana y Wayne Shorter."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

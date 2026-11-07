@@ -27,6 +27,17 @@
   "epocas": [
     {
       "titulo": "Jazz brasileño",
+      "desde": 1969,
+      "hasta": 1969,
+      "texto": "",
+      "discoClave": {
+        "disco": "courage",
+        "explicacion": "Su primer disco en Estados Unidos, con arreglos de Eumir Deodato."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Jazz brasileño",
       "desde": 1972,
       "hasta": 1975,
       "texto": "",
@@ -48,6 +59,7 @@
     "native-dancer",
     "clube-da-esquina",
     "minas",
-    "milagre-dos-peixes"
+    "milagre-dos-peixes",
+    "courage"
   ]
 }

@@ -26,6 +26,17 @@
   "resumen": "Pianista y compositor de estándares como \"Spain\" y \"La Fiesta\". Tocó con Davis en los años en que nació la fusión, y en los 70 formó Return to Forever.[^wp-corea]",
   "epocas": [
     {
+      "titulo": "Jazz modal",
+      "desde": 1968,
+      "hasta": 1968,
+      "texto": "",
+      "discoClave": {
+        "disco": "now-he-sings-now-he-sobs",
+        "explicacion": "El trío de Corea con Miroslav Vitouš: uno de los grandes piano tríos."
+      },
+      "discos": []
+    },
+    {
       "titulo": "Return to Forever",
       "desde": 1972,
       "hasta": 1976,
@@ -35,8 +46,21 @@
         "explicacion": "Su disco más popular."
       },
       "discos": [
-        "bitches-brew"
+        "bitches-brew",
+        "return-to-forever",
+        "light-as-a-feather-corea"
       ]
+    },
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2013,
+      "hasta": 2013,
+      "texto": "",
+      "discoClave": {
+        "disco": "trilogy",
+        "explicacion": "Trío en vivo con Christian McBride y Brian Blade: ganó dos Grammy."
+      },
+      "discos": []
     }
   ],
   "epocasPendientes": [
@@ -52,5 +76,12 @@
       "acceso": "completa",
       "aporta": "Ethan Iverson: \"A lot of what Chick Corea played came directly from McCoy Tyner, but his approach had a freshness and a lightness\"."
     }
+  ],
+  "discosEsenciales": [
+    "now-he-sings-now-he-sobs",
+    "romantic-warrior",
+    "return-to-forever",
+    "light-as-a-feather-corea",
+    "trilogy"
   ]
 }

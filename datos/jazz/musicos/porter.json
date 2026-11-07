@@ -34,8 +34,20 @@
       },
       "discos": [
         "liquid-spirit",
-        "take-me-to-the-alley"
+        "take-me-to-the-alley",
+        "be-good"
       ]
+    },
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2020,
+      "hasta": 2020,
+      "texto": "",
+      "discoClave": {
+        "disco": "all-rise",
+        "explicacion": "Soul y gospel con orquesta."
+      },
+      "discos": []
     }
   ],
   "fuentes": [
@@ -45,6 +57,8 @@
   "discosEsenciales": [
     "water",
     "liquid-spirit",
-    "take-me-to-the-alley"
+    "take-me-to-the-alley",
+    "be-good",
+    "all-rise"
   ]
 }

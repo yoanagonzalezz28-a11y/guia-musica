@@ -29,13 +29,15 @@
     {
       "titulo": "Jazz del mundo",
       "desde": 1994,
-      "hasta": 1994,
+      "hasta": 1995,
       "texto": "",
       "discoClave": {
         "disco": "timelessness",
         "explicacion": "Con Joe Henderson y Pharoah Sanders."
       },
-      "discos": []
+      "discos": [
+        "star-seeding"
+      ]
     }
   ],
   "fuentes": [
@@ -44,6 +46,7 @@
   "respaldo": [],
   "discosEsenciales": [
     "celebration",
-    "timelessness"
+    "timelessness",
+    "star-seeding"
   ]
 }

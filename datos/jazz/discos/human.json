@@ -10,7 +10,7 @@
   ],
   "compilacion": false,
   "tipo": "estudio",
-  "catalogo": null,
+  "catalogo": "ECM 2688",
   "lugar": null,
   "spotify": {
     "estado": "verificado",
@@ -49,7 +49,7 @@
     "Con el trompetista Philip Dizack."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "9505fa3b-60ec-4630-b6a4-87e802251a1e",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null

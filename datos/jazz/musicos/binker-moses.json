@@ -47,6 +47,17 @@
       "discos": [
         "alive-in-the-east"
       ]
+    },
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2022,
+      "hasta": 2022,
+      "texto": "",
+      "discoClave": {
+        "disco": "feeding-the-machine",
+        "explicacion": "Con electrónica en vivo de Max Luthert."
+      },
+      "discos": []
     }
   ],
   "fuentes": [
@@ -56,6 +67,7 @@
   "discosEsenciales": [
     "dem-ones",
     "journey-to-the-mountain-of-forever",
-    "alive-in-the-east"
+    "alive-in-the-east",
+    "feeding-the-machine"
   ]
 }

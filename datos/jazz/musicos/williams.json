@@ -42,6 +42,17 @@
     },
     {
       "titulo": "Swing",
+      "desde": 1953,
+      "hasta": 1953,
+      "texto": "",
+      "discoClave": {
+        "disco": "mary-lou-williams-plays-in-london",
+        "explicacion": "Piano en trío, grabado en Londres."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Swing",
       "desde": 1964,
       "hasta": 1964,
       "texto": "",
@@ -53,14 +64,16 @@
     },
     {
       "titulo": "Free jazz",
-      "desde": 1975,
+      "desde": 1974,
       "hasta": 1975,
       "texto": "",
       "discoClave": {
         "disco": "mary-lou-s-mass",
         "explicacion": "Una misa en clave de jazz y gospel."
       },
-      "discos": []
+      "discos": [
+        "zoning"
+      ]
     }
   ],
   "epocasPendientes": [
@@ -86,6 +99,8 @@
   "discosEsenciales": [
     "zodiac-suite",
     "mary-lou-s-mass",
-    "black-christ-of-the-andes"
+    "black-christ-of-the-andes",
+    "zoning",
+    "mary-lou-williams-plays-in-london"
   ]
 }

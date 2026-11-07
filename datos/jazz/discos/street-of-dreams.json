@@ -4,7 +4,12 @@
     "gioia": "pendiente"
   },
   "verificacion": "sin-verificar",
-  "discrepancias": [],
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz da 1967 como primera edición; acá se usa 1964."
+    }
+  ],
   "regiones": [
     "estados-unidos"
   ],
@@ -49,7 +54,7 @@
     "Con Larry Young y Bobby Hutcherson: guitarra limpia, órgano y vibráfono."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "1483c12e-72e3-33aa-928d-147eb59d27bc",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null

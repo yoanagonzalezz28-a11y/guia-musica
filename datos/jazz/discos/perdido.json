@@ -1,0 +1,62 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "puerto-rico",
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Perdido Duke Ellington"
+  },
+  "id": "perdido",
+  "titulo": "Perdido",
+  "credito": "Duke Ellington",
+  "lideres": [
+    "ellington"
+  ],
+  "grabacion": {
+    "desde": 1942,
+    "hasta": 1942,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1942,
+    "detalle": null
+  },
+  "sello": "Victor",
+  "musicos": [
+    {
+      "musico": "ellington",
+      "nombre": "Duke Ellington",
+      "instrumento": "piano, composición, dirección"
+    },
+    {
+      "musico": "tizol",
+      "nombre": "Juan Tizol",
+      "instrumento": "trombón, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "La primera grabación de su tema, con Ellington."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

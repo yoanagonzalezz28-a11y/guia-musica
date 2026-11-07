@@ -36,6 +36,17 @@
       "discos": [
         "atma"
       ]
+    },
+    {
+      "titulo": "Fusión",
+      "desde": 1977,
+      "hasta": 1977,
+      "texto": "",
+      "discoClave": {
+        "disco": "urbaniak",
+        "explicacion": "Fusión eléctrica con violín."
+      },
+      "discos": []
     }
   ],
   "fuentes": [
@@ -44,6 +55,7 @@
   "respaldo": [],
   "discosEsenciales": [
     "fusion-urbaniak",
-    "atma"
+    "atma",
+    "urbaniak"
   ]
 }

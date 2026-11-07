@@ -19,7 +19,9 @@
   "id": "kansas-city-suite",
   "titulo": "Kansas City Suite",
   "credito": "Count Basie",
-  "lideres": [],
+  "lideres": [
+    "basie"
+  ],
   "grabacion": {
     "desde": 1960,
     "hasta": 1960,
@@ -31,6 +33,11 @@
   },
   "sello": "Roulette",
   "musicos": [
+    {
+      "musico": "basie",
+      "nombre": "Count Basie",
+      "instrumento": "piano, dirección"
+    },
     {
       "musico": "benny-carter",
       "nombre": "Benny Carter",

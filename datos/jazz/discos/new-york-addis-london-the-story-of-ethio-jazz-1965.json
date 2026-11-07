@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "etiopia"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "New York – Addis – London: The Story of Ethio Jazz 1965–1975 Mulatu Astatke"
+  },
+  "id": "new-york-addis-london-the-story-of-ethio-jazz-1965",
+  "titulo": "New York – Addis – London: The Story of Ethio Jazz 1965–1975",
+  "credito": "Mulatu Astatke",
+  "lideres": [
+    "mulatu"
+  ],
+  "grabacion": {
+    "desde": 2009,
+    "hasta": 2009,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2009,
+    "detalle": null
+  },
+  "sello": "Strut",
+  "musicos": [
+    {
+      "musico": "mulatu",
+      "nombre": "Mulatu Astatke",
+      "instrumento": "vibráfono, percusión, teclados, arreglos"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "Recopilación de sus grabaciones de los 60 y 70."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

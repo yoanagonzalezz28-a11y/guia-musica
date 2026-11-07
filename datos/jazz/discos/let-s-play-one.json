@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6ivrFaKqLCFBrkqdSjJaFg",
+    "tituloEnSpotify": "Let's Play One",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "let-s-play-one",
+  "titulo": "Let's Play One",
+  "credito": "Benny Golson",
+  "lideres": [
+    "golson"
+  ],
+  "grabacion": {
+    "desde": 2018,
+    "hasta": 2018,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2018,
+    "detalle": null
+  },
+  "sello": "Nagel Heyer Records",
+  "musicos": [
+    {
+      "musico": "golson",
+      "nombre": "Benny Golson",
+      "instrumento": "saxo tenor, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "El veterano compositor en un registro tardío."
+  ],
+  "ids": {
+    "musicbrainz": "76d8d864-ecbb-42a8-8f55-3e1f02bed703",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

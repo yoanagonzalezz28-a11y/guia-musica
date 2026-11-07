@@ -35,7 +35,8 @@
       "discos": [
         "40-melodies",
         "kalthoum",
-        "illusions"
+        "illusions",
+        "wind"
       ]
     }
   ],
@@ -47,6 +48,7 @@
     "diagnostic",
     "40-melodies",
     "kalthoum",
-    "illusions"
+    "illusions",
+    "wind"
   ]
 }

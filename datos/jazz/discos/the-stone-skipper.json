@@ -33,7 +33,7 @@
     "anio": 2016,
     "detalle": null
   },
-  "sello": null,
+  "sello": "Sound Surveyor Music",
   "musicos": [
     {
       "musico": "maestro",
@@ -49,7 +49,7 @@
     "Con electrónica sutil: lírico y moderno."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "b9d3220f-5b51-4c48-9c13-f915728ec95e",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null

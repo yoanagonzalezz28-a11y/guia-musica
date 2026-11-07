@@ -37,7 +37,8 @@
       },
       "discos": [
         "nightconcert",
-        "misty"
+        "misty",
+        "contrasts"
       ]
     }
   ],
@@ -48,6 +49,7 @@
   "discosEsenciales": [
     "concert-by-the-sea",
     "nightconcert",
-    "misty"
+    "misty",
+    "contrasts"
   ]
 }

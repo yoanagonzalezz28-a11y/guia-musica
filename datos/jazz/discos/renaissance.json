@@ -42,6 +42,11 @@
       "musico": "tain-watts",
       "nombre": "Jeff \"Tain\" Watts",
       "instrumento": "batería"
+    },
+    {
+      "musico": "kirkland",
+      "nombre": "Kenny Kirkland",
+      "instrumento": "piano"
     }
   ],
   "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",

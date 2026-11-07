@@ -1,0 +1,61 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "cuba"
+  ],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Dizzy Gillespie and His Big Band in Concert Dizzy Gillespie"
+  },
+  "id": "dizzy-gillespie-and-his-big-band-in-concert",
+  "titulo": "Dizzy Gillespie and His Big Band in Concert",
+  "credito": "Dizzy Gillespie",
+  "lideres": [
+    "gillespie"
+  ],
+  "grabacion": {
+    "desde": 1948,
+    "hasta": 1948,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1948,
+    "detalle": null
+  },
+  "sello": "GNP",
+  "musicos": [
+    {
+      "musico": "gillespie",
+      "nombre": "Dizzy Gillespie",
+      "instrumento": "trompeta, voz"
+    },
+    {
+      "musico": "chanopozo",
+      "nombre": "Chano Pozo",
+      "instrumento": "conga, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "latino"
+  ],
+  "comentario": [
+    "La big band de Gillespie con Pozo, en vivo en Pasadena."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

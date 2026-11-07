@@ -25,6 +25,17 @@
   "epocas": [
     {
       "titulo": "Jazz latino",
+      "desde": 1995,
+      "hasta": 1995,
+      "texto": "",
+      "discoClave": {
+        "disco": "sketches-of-dreams",
+        "explicacion": "Su segundo disco, con Danilo Pérez."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Jazz latino",
       "desde": 1998,
       "hasta": 2008,
       "texto": "",
@@ -46,6 +57,7 @@
     "obsesion",
     "coral",
     "cultural-survival",
-    "habana"
+    "habana",
+    "sketches-of-dreams"
   ]
 }

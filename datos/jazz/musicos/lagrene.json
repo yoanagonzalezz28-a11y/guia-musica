@@ -34,7 +34,8 @@
       "discos": [
         "standards",
         "gypsy-project",
-        "gipsy-project-and-friends"
+        "gipsy-project-and-friends",
+        "acoustic-moments"
       ]
     }
   ],
@@ -46,6 +47,7 @@
     "routes-to-django",
     "standards",
     "gypsy-project",
-    "gipsy-project-and-friends"
+    "gipsy-project-and-friends",
+    "acoustic-moments"
   ]
 }

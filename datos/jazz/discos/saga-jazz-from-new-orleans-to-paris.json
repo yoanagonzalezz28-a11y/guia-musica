@@ -4,13 +4,18 @@
     "gioia": "pendiente"
   },
   "verificacion": "sin-verificar",
-  "discrepancias": [],
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz da 2003 como primera edición; acá se usa 1955."
+    }
+  ],
   "regiones": [
     "estados-unidos"
   ],
   "compilacion": false,
   "tipo": "estudio",
-  "catalogo": null,
+  "catalogo": "066 441-2",
   "lugar": null,
   "spotify": {
     "estado": "verificado",
@@ -49,7 +54,7 @@
     "Un recorrido por su vida, de Nueva Orleans a París: sirve para escuchar cómo su sonido se mantuvo igual en dos continentes."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "5e6407ae-636a-44b7-8d24-92165be595ad",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null

@@ -38,6 +38,17 @@
         "my-east-is-your-west",
         "more-arriving"
       ]
+    },
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 2022,
+      "hasta": 2022,
+      "texto": "",
+      "discoClave": {
+        "disco": "kalak",
+        "explicacion": "Electrónica, percusión y jazz desde la diáspora india."
+      },
+      "discos": []
     }
   ],
   "fuentes": [
@@ -47,6 +58,7 @@
   "discosEsenciales": [
     "day-to-day",
     "my-east-is-your-west",
-    "more-arriving"
+    "more-arriving",
+    "kalak"
   ]
 }

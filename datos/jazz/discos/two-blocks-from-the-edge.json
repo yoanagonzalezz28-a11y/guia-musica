@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Two Blocks from the Edge Michael Brecker"
+  },
+  "id": "two-blocks-from-the-edge",
+  "titulo": "Two Blocks from the Edge",
+  "credito": "Michael Brecker",
+  "lideres": [
+    "brecker"
+  ],
+  "grabacion": {
+    "desde": 1998,
+    "hasta": 1998,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1998,
+    "detalle": null
+  },
+  "sello": "Impulse!",
+  "musicos": [
+    {
+      "musico": "brecker",
+      "nombre": "Michael Brecker",
+      "instrumento": "saxo tenor"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "neotrad"
+  ],
+  "comentario": [
+    "Quinteto con Joey Calderazzo: tenor brillante."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -50,6 +50,17 @@
         "explicacion": "Veinte años después, el grupo sigue sonando nuevo."
       },
       "discos": []
+    },
+    {
+      "titulo": "Jazz rioplatense",
+      "desde": 2023,
+      "hasta": 2023,
+      "texto": "",
+      "discoClave": {
+        "disco": "telmo-s-tune",
+        "explicacion": "Un disco más reciente, con su música de raíz folclórica."
+      },
+      "discos": []
     }
   ],
   "fuentes": [
@@ -71,6 +82,7 @@
     "los-guachos-v",
     "filtros",
     "carrera",
-    "los-guachos-cristal"
+    "los-guachos-cristal",
+    "telmo-s-tune"
   ]
 }
