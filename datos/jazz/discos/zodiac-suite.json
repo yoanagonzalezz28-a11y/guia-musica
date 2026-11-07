@@ -1,0 +1,79 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz da 1975, por la reedición en Folkways. Las fuentes coinciden en que la grabación original es de 1945."
+    }
+  ],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0rNgP6dA7elgUCINGUUeyI",
+    "tituloEnSpotify": "Zodiac Suite"
+  },
+  "id": "zodiac-suite",
+  "titulo": "Zodiac Suite",
+  "credito": "Mary Lou Williams",
+  "lideres": [
+    "williams"
+  ],
+  "grabacion": {
+    "desde": 1945,
+    "hasta": 1945,
+    "detalle": "Primavera de 1945, Nueva York"
+  },
+  "edicion": {
+    "anio": 1945,
+    "detalle": "Asch, 1945. Hoy circula la edición de Smithsonian Folkways."
+  },
+  "sello": "Asch / Smithsonian Folkways",
+  "musicos": [
+    {
+      "musico": "williams",
+      "nombre": "Mary Lou Williams",
+      "instrumento": "piano y composición"
+    },
+    {
+      "musico": null,
+      "nombre": "Al Lucas",
+      "instrumento": "contrabajo"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "swing"
+  ],
+  "corrienteNota": "Salió de la era del swing, pero está más cerca de lo que después se llamó tercera corriente.",
+  "redescubrimiento": {
+    "motivo": "A pesar de haberse tocado con orquesta en Carnegie Hall, rara vez recibe el reconocimiento que se les da a suites parecidas. La biógrafa Tammy Kernodle señala que la de Ellington se celebra y esta casi no se menciona."
+  },
+  "comentario": [
+    "Doce piezas, una por cada signo del zodíaco, dedicadas a músicos nacidos bajo cada uno. Williams mezcla jazz y música clásica con una libertad que hoy sigue sonando actual. Ellington decía que su música sonaba \"perpetually contemporary\". Fue además maestra y amiga de Monk, Parker y Gillespie: una figura central que los libros tardaron en poner en su lugar."
+  ],
+  "ids": {
+    "musicbrainz": "bf0ae0c9-7d4e-42ed-a782-da48f565daa4",
+    "discogsMaster": "413480",
+    "wikidata": "Q15855778",
+    "wikipedia": "Zodiac_Suite"
+  },
+  "respaldo": [
+    {
+      "fuente": "db-writ",
+      "acceso": "completa",
+      "aporta": "Tammy Kernodle, en DownBeat: \"We'll say, 'Oh, look, what he did—that was progressive'... But we won't talk about The Zodiac Suite\"."
+    },
+    {
+      "fuente": "npr-aries",
+      "acceso": "completa",
+      "aporta": "NPR escucha \"Aries\" con alguien que no sabe de jazz, y la describe entre el stride y la música clásica moderna."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "id": "holiday",
+  "nombre": "Billie Holiday",
+  "apodo": "Lady Day",
+  "nacimiento": {
+    "anio": 1915,
+    "lugar": "Filadelfia"
+  },
+  "muerte": {
+    "anio": 1959
+  },
+  "instrumentos": [
+    "voz"
+  ],
+  "corrientes": [
+    "swing"
+  ],
+  "resumen": "Cambió la forma de cantar en el jazz con su manejo del fraseo y del tiempo, influido por los instrumentistas. Lester Young le puso el apodo \"Lady Day\".[^wp-holiday]",
+  "epocas": [
+    {
+      "titulo": "El final",
+      "desde": 1958,
+      "hasta": 1959,
+      "texto": "Su voz ya estaba muy deteriorada, y aun así siguió grabando. A fines de los 30 había desafiado a su público con \"Strange Fruit\", un tema sobre los linchamientos.[^wp-holiday]",
+      "discoClave": {
+        "disco": "lady-in-satin",
+        "explicacion": "Su disco más discutido."
+      },
+      "discos": []
+    }
+  ],
+  "epocasPendientes": [
+    "Con Teddy Wilson y Lester Young, 1935–41",
+    "Commodore y \"Strange Fruit\"",
+    "Años en Decca"
+  ],
+  "fuentes": [
+    "wp-holiday"
+  ],
+  "respaldo": [
+    {
+      "fuente": "db-cavassa",
+      "acceso": "completa",
+      "aporta": "En su Blindfold Test de 2025, Gabrielle Cavassa la reconoce al instante y la llama su cantante favorita."
+    },
+    {
+      "fuente": "penguin-satin",
+      "acceso": "indirecta",
+      "aporta": "Buck Clayton prefería a la Holiday tardía."
+    }
+  ]
+}

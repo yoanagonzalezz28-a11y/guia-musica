@@ -1,0 +1,91 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz da 1990, el año de una reedición en CD. Los discos originales son de 1923."
+    }
+  ],
+  "regiones": [],
+  "compilacion": true,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": "Richmond (Indiana) y Chicago",
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4Hx7xYOHiGUbxVgZoPkxRN",
+    "tituloEnSpotify": "King Oliver's Jazz Band With Louis Armstrong - 1923 (Remastered)"
+  },
+  "id": "creole-jazz-band",
+  "titulo": "King Oliver's Creole Jazz Band",
+  "credito": "King Oliver's Creole Jazz Band",
+  "lideres": [
+    "oliver"
+  ],
+  "grabacion": {
+    "desde": 1923,
+    "hasta": 1923,
+    "detalle": "1923, para Gennett y OKeh"
+  },
+  "edicion": {
+    "anio": 1923,
+    "detalle": "Discos de 78 rpm en 1923. Hay muchas reediciones."
+  },
+  "sello": "Gennett / OKeh",
+  "musicos": [
+    {
+      "musico": "oliver",
+      "nombre": "King Oliver",
+      "instrumento": "corneta"
+    },
+    {
+      "musico": "armstrong",
+      "nombre": "Louis Armstrong",
+      "instrumento": "trompeta y voz",
+      "nota": "Segunda corneta"
+    },
+    {
+      "musico": null,
+      "nombre": "Johnny Dodds",
+      "instrumento": "clarinete"
+    },
+    {
+      "musico": null,
+      "nombre": "Honoré Dutrey",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Lil Hardin Armstrong",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Lista parcial: faltan la base rítmica y las variantes de cada sesión.",
+  "corrientes": [
+    "origenes"
+  ],
+  "comentario": [
+    "El primer disco de Armstrong, tocando como segunda corneta de su maestro. Es el jazz de Nueva Orleans ya instalado en Chicago: varias voces improvisan a la vez, y todavía nadie se roba el centro. La frase de Armstrong lo resume: sin Joe Oliver, el jazz no sería lo que es."
+  ],
+  "ids": {
+    "musicbrainz": "d28e6b45-325a-43c5-bb65-dcaa4d924197",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "gioia-armstrong",
+      "acceso": "completa",
+      "aporta": "Gioia reproduce cómo Armstrong llegó a Chicago en 1922 para sumarse a la banda de Oliver en Lincoln Gardens, y recuerda el Grammy de Ricky Riccardi por las notas de la reedición."
+    },
+    {
+      "fuente": "wp-oliver",
+      "acceso": "completa",
+      "aporta": "Reconstruye a Oliver como pionero del uso de sordinas y mentor de Armstrong."
+    }
+  ]
+}

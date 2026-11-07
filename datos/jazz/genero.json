@@ -1,10 +1,10 @@
 {
   "id": "jazz",
   "nombre": "Jazz",
-  "intro": "Corrientes, músicos, discos y regiones del jazz, conectados entre sí. Esta versión de prueba tiene tres corrientes y cuatro regiones, y se va ampliando por etapas.",
+  "intro": "Corrientes, músicos, discos y regiones del jazz, conectados entre sí. Es una versión de prueba que se va ampliando por etapas.",
   "rangoLinea": [
-    1940,
-    1970
+    1905,
+    2026
   ],
   "regionesPlanificadas": [
     "Puerto Rico",

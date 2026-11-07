@@ -1,0 +1,66 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm",
+  "id": "young",
+  "nombre": "Lester Young",
+  "apodo": "Pres",
+  "nacimiento": {
+    "anio": 1909,
+    "lugar": "Woodville, Misisipi"
+  },
+  "muerte": {
+    "anio": 1959
+  },
+  "instrumentos": [
+    "saxo tenor"
+  ],
+  "corrientes": [
+    "swing"
+  ],
+  "resumen": "Uno de los saxofonistas más influyentes. Tocaba relajado y melódico, en contraste con el estilo poderoso de Coleman Hawkins, que dominaba el tenor en su época.[^wp-young]",
+  "epocas": [
+    {
+      "titulo": "Con Basie",
+      "desde": 1936,
+      "hasta": 1940,
+      "texto": "Se instaló en Kansas City en 1933 y se hizo conocido en la orquesta de Basie.[^wp-young]",
+      "discoClave": {
+        "disco": "basie-decca",
+        "explicacion": "Donde quedó el \"sonido de Lester Young\"."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Después de la guerra",
+      "desde": 1952,
+      "hasta": 1952,
+      "texto": "Ya en la era del bebop, sigue siendo un solista melódico.[^aaj-lester]",
+      "discoClave": {
+        "disco": "lester-oscar",
+        "explicacion": "Un encuentro relajado, de los últimos grandes momentos de su carrera."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-young"
+  ],
+  "respaldo": [
+    {
+      "fuente": "iverson-18",
+      "acceso": "completa",
+      "aporta": "Lee Konitz comenta 18 de sus solos con Iverson, y canta o imita casi todos."
+    },
+    {
+      "fuente": "iverson-edu",
+      "acceso": "completa",
+      "aporta": "Iverson: \"Lester Young created many of the riffs in the Basie book\"."
+    }
+  ]
+}

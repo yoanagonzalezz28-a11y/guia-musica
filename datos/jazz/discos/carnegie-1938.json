@@ -1,0 +1,109 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": "SL-160",
+  "lugar": "Carnegie Hall, Nueva York",
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/388mFkNQAlQfQopTiFIpfA",
+    "tituloEnSpotify": "The Complete 1938 Carnegie Hall Concert (Remastered 2014)"
+  },
+  "id": "carnegie-1938",
+  "titulo": "The Famous 1938 Carnegie Hall Jazz Concert",
+  "credito": "Benny Goodman",
+  "lideres": [
+    "goodman"
+  ],
+  "grabacion": {
+    "desde": 1938,
+    "hasta": 1938,
+    "detalle": "16 de enero de 1938"
+  },
+  "edicion": {
+    "anio": 1950,
+    "detalle": "Doce años después del concierto, a partir de acetatos conservados"
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "goodman",
+      "nombre": "Benny Goodman",
+      "instrumento": "clarinete y dirección"
+    },
+    {
+      "musico": null,
+      "nombre": "Gene Krupa",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Teddy Wilson",
+      "instrumento": "piano",
+      "nota": "Trío y cuarteto"
+    },
+    {
+      "musico": null,
+      "nombre": "Lionel Hampton",
+      "instrumento": "vibráfono",
+      "nota": "Cuarteto"
+    },
+    {
+      "musico": null,
+      "nombre": "Harry James",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Jess Stacy",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Martha Tilton",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Buck Clayton",
+      "instrumento": "trompeta",
+      "nota": "Invitado"
+    },
+    {
+      "musico": null,
+      "nombre": "Cootie Williams",
+      "instrumento": "trompeta",
+      "nota": "Invitado"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "El jazz entra en la sala de concierto más prestigiosa de Estados Unidos. Goodman había formado uno de los primeros grupos integrados racialmente, en una época de segregación, y buena parte del éxito de su orquesta se apoyaba en los arreglos de Fletcher Henderson. El disco tardó doce años en salir, y fue de los primeros álbumes dobles en vivo."
+  ],
+  "ids": {
+    "musicbrainz": "d986aa1d-42d2-308a-a54b-d0339339ae01",
+    "discogsMaster": "183157",
+    "wikidata": "Q581837",
+    "wikipedia": "The_Famous_1938_Carnegie_Hall_Jazz_Concert"
+  },
+  "respaldo": [
+    {
+      "fuente": "penguin-goodman",
+      "acceso": "indirecta",
+      "aporta": "La Penguin Guide lo incluye en su colección esencial, con cuatro estrellas."
+    },
+    {
+      "fuente": "fuller-armstrong",
+      "acceso": "indirecta",
+      "aporta": "Bruce Eder lo llamó \"jazz's 'coming out' party to the world of 'respectable' music\"."
+    }
+  ]
+}

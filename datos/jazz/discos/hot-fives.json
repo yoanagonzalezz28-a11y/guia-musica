@@ -1,0 +1,97 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": true,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": "Chicago",
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1fw3JJvlzlyRGDNVRQOzOK",
+    "tituloEnSpotify": "The Complete Hot Five & Hot Seven Recordings"
+  },
+  "id": "hot-fives",
+  "titulo": "The Complete Hot Five and Hot Seven Recordings",
+  "credito": "Louis Armstrong",
+  "lideres": [
+    "armstrong"
+  ],
+  "grabacion": {
+    "desde": 1925,
+    "hasta": 1929,
+    "detalle": "Sesiones de 1925 a 1929"
+  },
+  "edicion": {
+    "anio": 2000,
+    "detalle": "Esta caja es de 2000. Los temas salieron primero en discos de 78 rpm."
+  },
+  "sello": "Columbia / Legacy",
+  "musicos": [
+    {
+      "musico": "armstrong",
+      "nombre": "Louis Armstrong",
+      "instrumento": "trompeta y voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Kid Ory",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Johnny Dodds",
+      "instrumento": "clarinete"
+    },
+    {
+      "musico": null,
+      "nombre": "Lil Hardin Armstrong",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Johnny St. Cyr",
+      "instrumento": "banjo"
+    },
+    {
+      "musico": null,
+      "nombre": "Earl Hines",
+      "instrumento": "piano",
+      "nota": "\"West End Blues\", 1928"
+    },
+    {
+      "musico": null,
+      "nombre": "Zutty Singleton",
+      "instrumento": "batería",
+      "nota": "\"West End Blues\", 1928"
+    }
+  ],
+  "personalNota": "Lista parcial: la formación cambia entre el Hot Five de 1925 y el de 1928.",
+  "corrientes": [
+    "origenes"
+  ],
+  "comentario": [
+    "Empieza como una banda típica de Nueva Orleans, donde tres vientos improvisan juntos. A medida que avanzan las sesiones, Armstrong se separa del grupo hasta que el solo pasa al centro. Ese cambio se escucha entero en \"West End Blues\", de 1928, con su introducción de trompeta sin acompañamiento y su piano de Earl Hines."
+  ],
+  "ids": {
+    "musicbrainz": "78b00b36-8cb8-3ae5-86f9-04ed4bae3029",
+    "discogsMaster": null,
+    "wikidata": "Q487027",
+    "wikipedia": "Louis_Armstrong_and_His_Hot_Five"
+  },
+  "respaldo": [
+    {
+      "fuente": "gioia-armstrong",
+      "acceso": "completa",
+      "aporta": "Ted Gioia: \"If you want to understand 20th century American music, you really must start with Louis Armstrong\". Cambió el pulso de la música comercial."
+    },
+    {
+      "fuente": "iverson-edu",
+      "acceso": "extracto",
+      "aporta": "Ethan Iverson propone cantar estos solos como base de la enseñanza del jazz, en lugar de arrancar por transcripciones dificilísimas."
+    }
+  ]
+}

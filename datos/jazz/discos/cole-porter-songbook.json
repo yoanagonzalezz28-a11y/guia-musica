@@ -1,0 +1,86 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz da septiembre de 1956 y Wikipedia el 15 de mayo. El año coincide."
+    }
+  ],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4iNmDhEZ1WYGecKm9ekWxB",
+    "tituloEnSpotify": "Ella Fitzgerald Sings The Cole Porter Song Book"
+  },
+  "id": "cole-porter-songbook",
+  "titulo": "Ella Fitzgerald Sings the Cole Porter Song Book",
+  "credito": "Ella Fitzgerald",
+  "lideres": [
+    "fitzgerald"
+  ],
+  "grabacion": {
+    "desde": 1956,
+    "hasta": 1956,
+    "detalle": "7 a 9 de febrero y 27 de marzo de 1956"
+  },
+  "edicion": {
+    "anio": 1956,
+    "detalle": "15 de mayo de 1956"
+  },
+  "sello": "Verve",
+  "musicos": [
+    {
+      "musico": "fitzgerald",
+      "nombre": "Ella Fitzgerald",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Buddy Bregman",
+      "instrumento": "dirección y arreglos"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Smith",
+      "instrumento": "piano y celesta"
+    },
+    {
+      "musico": null,
+      "nombre": "Harry \"Sweets\" Edison",
+      "instrumento": "trompeta"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "swing"
+  ],
+  "corrienteNota": "Fitzgerald se formó con la orquesta de Chick Webb, pero estos discos son de los 50.",
+  "comentario": [
+    "El primero de una serie de discos dedicados a grandes compositores de canciones estadounidenses, que ayudaron a fijar el repertorio de los estándares. Es jazz cercano a la canción popular, con una dicción y una afinación impecables. Norman Granz fundó Verve en buena medida para producir estos proyectos."
+  ],
+  "ids": {
+    "musicbrainz": "dcc0d723-e27f-36e8-8438-dbbde7eb9a67",
+    "discogsMaster": null,
+    "wikidata": "Q1317668",
+    "wikipedia": "Ella_Fitzgerald_Sings_the_Cole_Porter_Song_Book"
+  },
+  "respaldo": [
+    {
+      "fuente": "loc-registro",
+      "acceso": "extracto",
+      "aporta": "Integra desde 2003 el registro de preservación de la Biblioteca del Congreso."
+    },
+    {
+      "fuente": "wp-ella",
+      "acceso": "completa",
+      "aporta": "Explica la formación de Fitzgerald con Chick Webb y su trabajo con Norman Granz."
+    }
+  ]
+}

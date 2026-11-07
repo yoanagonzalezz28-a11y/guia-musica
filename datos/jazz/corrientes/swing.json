@@ -1,0 +1,105 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "derivaPendiente": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "id": "swing",
+  "nombre": "Swing",
+  "alias": [
+    "Big bands",
+    "Swing y big bands"
+  ],
+  "lema": "Grandes orquestas para bailar",
+  "tinta": "#F2A7B5",
+  "tintaTexto": "#101318",
+  "periodo": {
+    "desde": 1930,
+    "hasta": 1946,
+    "aproximado": true
+  },
+  "deriva": [
+    "origenes"
+  ],
+  "lugares": [
+    "Harlem",
+    "Kansas City",
+    "Chicago",
+    "Los Ángeles"
+  ],
+  "texto": [
+    "Entre 1935 y 1946, aproximadamente, el swing fue la música popular dominante en Estados Unidos, la que se bailaba en todo el país.[^wp-swing] Las grandes orquestas tocaban arreglos escritos, con secciones de vientos que se responden y lugares para que improvisen los solistas.[^wp-swing]",
+    "Los modelos ya estaban en los 20, con Fletcher Henderson, uno de los arregladores más influyentes de la historia.[^wp-henderson] Pero fue Benny Goodman quien llevó esa música a un público masivo, con los propios arreglos de Henderson: la fecha que suele elegirse es su debut en el Palomar Ballroom, en agosto de 1935.[^wp-goodman]",
+    "El relato no termina en Goodman. Ellington compuso para los solistas de su orquesta, y Basie llevó desde Kansas City una forma de swing basada en el blues y los riffs.[^wp-ellington][^wp-basie] Mary Lou Williams, muchas veces olvidada, escribió para varias de estas bandas y fue maestra de la generación siguiente.[^wp-williams]",
+    "Las cantantes y los solistas también cambiaron la música. En 1939, Coleman Hawkins grabó \"Body and Soul\" casi sin tocar la melodía, y Billie Holiday cantó \"Strange Fruit\", un tema contra los linchamientos.[^wp-hawkins][^wp-holiday] A su sombra, en jam sessions nocturnas, ya estaba naciendo el bebop.[^wp-bebop]"
+  ],
+  "suena": [
+    "Secciones de saxos, trompetas y trombones que se contestan entre sí.",
+    "Una base rítmica pareja y bailable, que empuja sin apurarse.",
+    "Solos cortos, encajados dentro de un arreglo escrito."
+  ],
+  "hitos": [
+    {
+      "fecha": "ago. 1935",
+      "texto": "Goodman triunfa en el Palomar Ballroom de Los Ángeles.[^wp-goodman]"
+    },
+    {
+      "fecha": "1936",
+      "texto": "Basie lleva su orquesta de Kansas City a Chicago y graba por primera vez.[^wp-basie]"
+    },
+    {
+      "fecha": "16 ene. 1938",
+      "texto": "Goodman lleva el jazz a Carnegie Hall.[^wp-goodman]"
+    },
+    {
+      "fecha": "11 oct. 1939",
+      "texto": "Coleman Hawkins graba \"Body and Soul\".[^wp-hawkins]"
+    },
+    {
+      "fecha": "7 nov. 1940",
+      "texto": "Ellington toca en Fargo, en una grabación que después se volvió legendaria.[^gioia-fargo]"
+    },
+    {
+      "fecha": "1945",
+      "texto": "Mary Lou Williams estrena y graba la *Zodiac Suite*.[^db-writ]"
+    }
+  ],
+  "legado": "Es la era en que el jazz fue la música popular de un país entero. También dejó el repertorio de estándares, el formato de la big band y a muchos de los solistas que formaron al bebop.",
+  "musicos": [
+    "ellington",
+    "basie",
+    "goodman",
+    "holiday",
+    "young",
+    "williams",
+    "fitzgerald"
+  ],
+  "musicosPendientes": [
+    "Coleman Hawkins",
+    "Art Tatum",
+    "Django Reinhardt",
+    "Fletcher Henderson",
+    "Ben Webster",
+    "Johnny Hodges",
+    "Fats Waller",
+    "Benny Carter",
+    "Chick Webb"
+  ],
+  "discosEsenciales": [
+    {
+      "disco": "never-no-lament",
+      "porque": "Ellington en su mejor momento."
+    },
+    {
+      "disco": "basie-decca",
+      "porque": "El swing de Kansas City, con Lester Young."
+    },
+    {
+      "disco": "zodiac-suite",
+      "porque": "Lo que se perdió el relato oficial."
+    }
+  ]
+}

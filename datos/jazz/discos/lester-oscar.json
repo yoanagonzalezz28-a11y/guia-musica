@@ -1,0 +1,85 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [
+    {
+      "campo": "título",
+      "texto": "También circuló como \"The President Plays with the Oscar Peterson Trio\", y MusicBrainz lo fecha en 1958 por esa edición."
+    }
+  ],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": "Nueva York",
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Lester Young with the Oscar Peterson Trio"
+  },
+  "id": "lester-oscar",
+  "titulo": "Lester Young with the Oscar Peterson Trio",
+  "credito": "Lester Young",
+  "lideres": [
+    "young"
+  ],
+  "grabacion": {
+    "desde": 1952,
+    "hasta": 1952,
+    "detalle": "28 de noviembre de 1952, Nueva York"
+  },
+  "edicion": {
+    "anio": 1954,
+    "detalle": "Junio y agosto de 1954, en tres discos; reunidos en 1997"
+  },
+  "sello": "Norgran / Verve",
+  "musicos": [
+    {
+      "musico": "young",
+      "nombre": "Lester Young",
+      "instrumento": "saxo tenor y voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Oscar Peterson",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Barney Kessel",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Ray Brown",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "J. C. Heard",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "swing"
+  ],
+  "corrienteNota": "Se grabó en la era del bop, pero Young sigue siendo un solista melódico formado en el swing.",
+  "comentario": [
+    "En plena era del bebop, Young sigue con su manera melódica y aérea de tocar, ahora con la base de Oscar Peterson. Es de los últimos buenos ejemplos de su arte. Anatomía del Jazz le dedica un episodio entero."
+  ],
+  "ids": {
+    "musicbrainz": "e2ffd21a-8483-391b-a42a-2a0360ada0eb",
+    "discogsMaster": null,
+    "wikidata": "Q1820976",
+    "wikipedia": "Lester_Young_with_the_Oscar_Peterson_Trio"
+  },
+  "respaldo": [
+    {
+      "fuente": "aaj-lester",
+      "acceso": "indirecta",
+      "aporta": "C. Michael Bailey, All About Jazz: la forma de tocar de Young es \"wispy, understated, and very, very clever\"."
+    }
+  ],
+  "tituloOriginal": "The President Plays with The Oscar Peterson Trio"
+}

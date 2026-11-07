@@ -1,0 +1,66 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA",
+  "id": "basie",
+  "nombre": "Count Basie",
+  "nacimiento": {
+    "anio": 1904,
+    "lugar": "Red Bank, Nueva Jersey"
+  },
+  "muerte": {
+    "anio": 1984
+  },
+  "instrumentos": [
+    "piano",
+    "dirección"
+  ],
+  "corrientes": [
+    "swing"
+  ],
+  "resumen": "Dirigió su orquesta durante casi cincuenta años. Introdujo innovaciones como los dos saxos tenores contrapuestos y los riffs como motor de la banda.[^wp-basie]",
+  "epocas": [
+    {
+      "titulo": "Kansas City",
+      "desde": 1936,
+      "hasta": 1939,
+      "texto": "Pasó por la banda de Bennie Moten en Kansas City, y en 1936 llevó su orquesta a Chicago para sus primeras grabaciones.[^wp-basie]",
+      "discoClave": {
+        "disco": "basie-decca",
+        "explicacion": "El swing en estado puro, con Lester Young en el saxo tenor."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "La nueva orquesta",
+      "desde": 1957,
+      "hasta": 1958,
+      "texto": "Al terminar la era de las grandes orquestas, encontró un nuevo sonido en arreglos de otros, como Neal Hefti.",
+      "discoClave": {
+        "disco": "atomic-basie",
+        "explicacion": "Una big band moderna, precisa y potente."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-basie"
+  ],
+  "respaldo": [
+    {
+      "fuente": "iverson-bley",
+      "acceso": "completa",
+      "aporta": "La compositora Carla Bley: \"Who do I like as a piano player: Count Basie\"."
+    },
+    {
+      "fuente": "iverson-teachout",
+      "acceso": "completa",
+      "aporta": "Terry Teachout recorre sus discos favoritos de Basie."
+    }
+  ]
+}

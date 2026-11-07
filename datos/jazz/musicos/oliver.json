@@ -1,0 +1,49 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "id": "oliver",
+  "nombre": "King Oliver",
+  "nacimiento": {
+    "anio": 1881,
+    "lugar": "Luisiana"
+  },
+  "muerte": {
+    "anio": 1938
+  },
+  "instrumentos": [
+    "corneta"
+  ],
+  "corrientes": [
+    "origenes"
+  ],
+  "resumen": "Cornetista pionero del uso de sordinas, y mentor de Louis Armstrong. Escribió temas que todavía se tocan, como \"Dippermouth Blues\" y \"Canal Street Blues\".[^wp-oliver]",
+  "epocas": [
+    {
+      "titulo": "La Creole Jazz Band",
+      "desde": 1922,
+      "hasta": 1923,
+      "texto": "Volvió a Chicago en 1922 y se instaló en Lincoln Gardens con su banda, a la que sumó a Armstrong como segunda corneta.[^wp-oliver]",
+      "discoClave": {
+        "disco": "creole-jazz-band",
+        "explicacion": "Las grabaciones que dejaron registrado el estilo de Nueva Orleans."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-oliver"
+  ],
+  "respaldo": [
+    {
+      "fuente": "gioia-armstrong",
+      "acceso": "completa",
+      "aporta": "Reproduce el relato de Armstrong sobre su llegada a la banda."
+    }
+  ]
+}

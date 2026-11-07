@@ -1,0 +1,119 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Wikipedia registra el LP de 1986 y MusicBrainz la edición de 2003. Son ediciones distintas de las mismas grabaciones."
+    }
+  ],
+  "regiones": [],
+  "compilacion": true,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Never No Lament The Blanton Webster Band Duke Ellington"
+  },
+  "id": "never-no-lament",
+  "titulo": "Never No Lament: The Blanton–Webster Band",
+  "credito": "Duke Ellington",
+  "lideres": [
+    "ellington"
+  ],
+  "grabacion": {
+    "desde": 1940,
+    "hasta": 1942,
+    "detalle": "1940 a 1942, para RCA Victor"
+  },
+  "edicion": {
+    "anio": 1986,
+    "detalle": "LP de 1986; esta edición es de 2003"
+  },
+  "sello": "RCA Bluebird",
+  "musicos": [
+    {
+      "musico": "ellington",
+      "nombre": "Duke Ellington",
+      "instrumento": "piano y dirección"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Strayhorn",
+      "instrumento": "arreglos y piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Blanton",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Ben Webster",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Johnny Hodges",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Harry Carney",
+      "instrumento": "saxo barítono"
+    },
+    {
+      "musico": null,
+      "nombre": "Barney Bigard",
+      "instrumento": "clarinete"
+    },
+    {
+      "musico": null,
+      "nombre": "Cootie Williams",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Rex Stewart",
+      "instrumento": "corneta"
+    },
+    {
+      "musico": null,
+      "nombre": "Ray Nance",
+      "instrumento": "trompeta, violín y voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Juan Tizol",
+      "instrumento": "trombón a válvulas"
+    },
+    {
+      "musico": null,
+      "nombre": "Ivie Anderson",
+      "instrumento": "voz"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "Para muchos críticos, el mejor momento de la orquesta: la entrada de Strayhorn en los arreglos, el contrabajo de Jimmy Blanton, que murió muy joven, y el saxo de Ben Webster. Acá están \"Ko-Ko\", \"Take the A Train\" y \"Cotton Tail\". Escuchá cómo cada solista parece escrito a medida: Ellington componía para personas, no para instrumentos."
+  ],
+  "ids": {
+    "musicbrainz": "7f11a8e0-84d5-354a-867f-925573840966",
+    "discogsMaster": null,
+    "wikidata": "Q7718549",
+    "wikipedia": "The_Blanton–Webster_Band"
+  },
+  "respaldo": [
+    {
+      "fuente": "gioia-fargo",
+      "acceso": "completa",
+      "aporta": "Ted Gioia: \"this was Ellington's best band—in my opinion, and according to many other knowledgeable listeners\". Considera a Webster el mejor tenor que pasó por la banda."
+    }
+  ]
+}

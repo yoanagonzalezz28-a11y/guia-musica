@@ -1,0 +1,76 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": "CL 1157",
+  "lugar": "Estudio de la calle 30 de Columbia, Nueva York",
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4LrLP7DM1KBj8r2Sc098JA",
+    "tituloEnSpotify": "Lady In Satin"
+  },
+  "id": "lady-in-satin",
+  "titulo": "Lady in Satin",
+  "credito": "Billie Holiday",
+  "lideres": [
+    "holiday"
+  ],
+  "grabacion": {
+    "desde": 1958,
+    "hasta": 1958,
+    "detalle": "19 a 21 de febrero de 1958"
+  },
+  "edicion": {
+    "anio": 1958,
+    "detalle": "Junio de 1958"
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "holiday",
+      "nombre": "Billie Holiday",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Ray Ellis",
+      "instrumento": "dirección y arreglos"
+    },
+    {
+      "musico": null,
+      "nombre": "Mel Davis",
+      "instrumento": "trompeta"
+    }
+  ],
+  "personalNota": "Lista parcial: la acompaña una orquesta con cuerdas.",
+  "corrientes": [
+    "swing"
+  ],
+  "corrienteNota": "Es de 1958, pero Holiday viene de la era del swing.",
+  "comentario": [
+    "Holiday, a un año de su muerte, con una voz muy gastada y una orquesta de cuerdas. Las opiniones están muy divididas: la Penguin Guide le pone reparos y lo llama \"a voyeuristic look at a beaten woman\", mientras que el trompetista Buck Clayton prefería a la Holiday tardía. Es incómodo y conmovedor a la vez; escuchalo y sacá tu conclusión."
+  ],
+  "ids": {
+    "musicbrainz": "cf7bc239-a3ba-3d87-80e5-261f750cb560",
+    "discogsMaster": "123567",
+    "wikidata": "Q285175",
+    "wikipedia": "Lady_in_Satin"
+  },
+  "respaldo": [
+    {
+      "fuente": "penguin-satin",
+      "acceso": "indirecta",
+      "aporta": "Tres estrellas de cuatro y una objeción de fondo, frente a la preferencia de Buck Clayton por esta etapa."
+    },
+    {
+      "fuente": "db-cavassa",
+      "acceso": "completa",
+      "aporta": "En otro tema, la cantante Gabrielle Cavassa: \"Billie Holiday is my favorite singer in the world... She makes me feel so sad and so tender, and also so human\"."
+    }
+  ]
+}

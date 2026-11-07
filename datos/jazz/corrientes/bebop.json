@@ -9,10 +9,10 @@
     "hasta": 1956,
     "aproximado": true
   },
-  "deriva": [],
-  "derivaPendiente": [
-    "Swing"
+  "deriva": [
+    "swing"
   ],
+  "derivaPendiente": [],
   "regiones": [
     "estados-unidos",
     "cuba"

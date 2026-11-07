@@ -1,0 +1,50 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "id": "beiderbecke",
+  "nombre": "Bix Beiderbecke",
+  "nacimiento": {
+    "anio": 1903,
+    "lugar": "Davenport, Iowa"
+  },
+  "muerte": {
+    "anio": 1931
+  },
+  "instrumentos": [
+    "corneta",
+    "piano"
+  ],
+  "corrientes": [
+    "origenes"
+  ],
+  "resumen": "Cornetista autodidacta, de sonido tan limpio que un contemporáneo lo comparó con \"disparar balas a una campana\".[^wp-bix] Murió a los 28 años.",
+  "epocas": [
+    {
+      "titulo": "Con Trumbauer",
+      "desde": 1924,
+      "hasta": 1929,
+      "texto": "Grabó primero con The Wolverines, en 1924, y luego formó dupla con Frankie Trumbauer.[^wp-bix]",
+      "discoClave": {
+        "disco": "bix-singin",
+        "explicacion": "Un solo de 1927 que anticipa la balada de jazz."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-bix"
+  ],
+  "respaldo": [
+    {
+      "fuente": "wp-cool",
+      "acceso": "completa",
+      "aporta": "Ted Gioia y Lee Konitz lo señalan como precursor de la estética cool."
+    }
+  ]
+}

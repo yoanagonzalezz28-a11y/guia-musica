@@ -1,0 +1,72 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": true,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": "Biblioteca del Congreso, Washington",
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Jelly Roll Morton Library of Congress Recordings"
+  },
+  "id": "morton-loc",
+  "titulo": "The Complete Library of Congress Recordings",
+  "credito": "Jelly Roll Morton",
+  "lideres": [
+    "morton"
+  ],
+  "grabacion": {
+    "desde": 1938,
+    "hasta": 1938,
+    "detalle": "Mayo a diciembre de 1938, con Alan Lomax"
+  },
+  "edicion": {
+    "anio": 2005,
+    "detalle": "27 de septiembre de 2005: 128 pistas en ocho CD"
+  },
+  "sello": "Rounder",
+  "musicos": [
+    {
+      "musico": "morton",
+      "nombre": "Jelly Roll Morton",
+      "instrumento": "piano, voz y relato"
+    },
+    {
+      "musico": null,
+      "nombre": "Alan Lomax",
+      "instrumento": "entrevistas y grabación"
+    }
+  ],
+  "corrientes": [
+    "origenes"
+  ],
+  "corrienteNota": "Se grabó en 1938, pero documenta la Nueva Orleans de comienzos de siglo.",
+  "redescubrimiento": {
+    "motivo": "Unas sesiones pensadas como una entrevista breve para investigadores terminaron siendo más de ocho horas. La versión completa recién se reunió en 2005, y ganó dos premios Grammy."
+  },
+  "comentario": [
+    "Morton se sienta al piano y cuenta, tema a tema, cómo era la Nueva Orleans de su juventud. Es un testimonio único y también poco confiable: se atribuía haber inventado el jazz en 1902, algo muy discutido. Conviene escucharlo así, como un relato brillante y parcial. Es largo, pero se puede entrar por cualquier tema."
+  ],
+  "ids": {
+    "musicbrainz": "394a2ca6-8a57-3657-bd58-e420b22fe17c",
+    "discogsMaster": "651198",
+    "wikidata": "Q7727154",
+    "wikipedia": "Jelly_Roll_Morton:_The_Complete_Library_of_Congress_Recordings"
+  },
+  "respaldo": [
+    {
+      "fuente": "penguin-morton",
+      "acceso": "indirecta",
+      "aporta": "La Penguin Guide le da cuatro estrellas y Harvey Pekar, cinco: su historia oral es provocadora, y su forma de tocar respalda afirmaciones difíciles de creer."
+    },
+    {
+      "fuente": "aaj-morton",
+      "acceso": "extracto",
+      "aporta": "Ken Dryden explica cómo se recuperó el orden original de las sesiones, sumando lo inédito."
+    }
+  ]
+}

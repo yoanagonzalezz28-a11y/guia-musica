@@ -1,0 +1,79 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz da 1995, el año de esta selección en CD. La grabación original es de 1927."
+    }
+  ],
+  "regiones": [],
+  "compilacion": true,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Bix Beiderbecke Singin' the Blues"
+  },
+  "id": "bix-singin",
+  "titulo": "Singin' the Blues",
+  "credito": "Bix Beiderbecke y Frankie Trumbauer",
+  "lideres": [
+    "beiderbecke"
+  ],
+  "grabacion": {
+    "desde": 1927,
+    "hasta": 1927,
+    "detalle": "El tema principal se grabó en 1927"
+  },
+  "edicion": {
+    "anio": 1927,
+    "detalle": "Discos de OKeh en 1927; esta selección, en CD en 1995"
+  },
+  "sello": "OKeh / Columbia",
+  "musicos": [
+    {
+      "musico": "beiderbecke",
+      "nombre": "Bix Beiderbecke",
+      "instrumento": "corneta"
+    },
+    {
+      "musico": null,
+      "nombre": "Frankie Trumbauer",
+      "instrumento": "saxo en do"
+    },
+    {
+      "musico": null,
+      "nombre": "Eddie Lang",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Son los músicos de \"Singin' the Blues\". La selección incluye otras sesiones.",
+  "corrientes": [
+    "origenes"
+  ],
+  "comentario": [
+    "Un joven blanco de Iowa, autodidacta, propone otra manera de tocar: pocas notas, un sonido muy limpio y un solo que se desarrolla con calma. Esa idea anticipa la balada de jazz. Por eso Ted Gioia y Lee Konitz lo señalan como un antecedente lejano del cool."
+  ],
+  "ids": {
+    "musicbrainz": "f2927c6a-9803-4306-939f-03cef1d730a4",
+    "discogsMaster": null,
+    "wikidata": "Q17034691",
+    "wikipedia": "Singin'_the_Blues_(1920_song)"
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-bix",
+      "acceso": "completa",
+      "aporta": "Sus solos de 1927 anticipan la balada de jazz, donde el solo forma parte de la composición."
+    },
+    {
+      "fuente": "wp-cool",
+      "acceso": "completa",
+      "aporta": "Recoge que Gioia y Konitz lo consideran un precursor de la estética cool."
+    }
+  ]
+}

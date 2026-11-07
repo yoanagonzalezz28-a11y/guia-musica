@@ -9,7 +9,9 @@
   "corrientes": [
     "bebop",
     "hard-bop",
-    "cool"
+    "cool",
+    "origenes",
+    "swing"
   ],
   "musicos": [
     "parker",
@@ -25,7 +27,19 @@
     "tristano",
     "mulligan",
     "baker",
-    "brubeck"
+    "brubeck",
+    "armstrong",
+    "morton",
+    "oliver",
+    "beiderbecke",
+    "bessie",
+    "ellington",
+    "basie",
+    "goodman",
+    "holiday",
+    "young",
+    "williams",
+    "fitzgerald"
   ],
   "discos": [],
   "figurasPendientes": [],
@@ -49,6 +63,18 @@
     {
       "nombre": "The Haig, Los Ángeles",
       "texto": "El club chico de Wilshire Boulevard donde tomó forma el cuarteto sin piano."
+    },
+    {
+      "nombre": "Lincoln Gardens, Chicago",
+      "texto": "Donde tocaba la Creole Jazz Band de King Oliver."
+    },
+    {
+      "nombre": "Palomar Ballroom, Los Ángeles",
+      "texto": "Donde el debut de Goodman en 1935 marcó el inicio de la era del swing."
+    },
+    {
+      "nombre": "Cotton Club, Harlem",
+      "texto": "La vidriera que le dio a Ellington alcance nacional."
     }
   ],
   "escenaActual": [

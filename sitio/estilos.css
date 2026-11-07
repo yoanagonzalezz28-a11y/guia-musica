@@ -345,3 +345,14 @@ h3.rotulo { margin: 16px 0 6px; }
 .programas li { display: grid; gap: 4px; align-content: start; padding: 14px; background: var(--superficie); }
 .programas strong { font: 700 1.375rem/1.1 var(--display); }
 .programas p { margin: 2px 0; font-size: 1rem; line-height: 1.4; }
+
+/* ---------- Cronología de la portada ---------- */
+.cronologia-marco { margin-top: 24px; }
+.cronologia { display: grid; gap: 6px; border-bottom: 2px solid var(--tinta); padding-bottom: 8px; }
+.cronologia a { display: block; color: var(--tinta); text-decoration: none; }
+.cronologia a:hover strong { text-decoration: underline; text-decoration-thickness: 3px; }
+.cron-texto { display: block; padding-left: var(--x); line-height: 1.15; white-space: nowrap; }
+.cron-der .cron-texto { padding-left: 0; padding-right: calc(100% - var(--x) - var(--w)); text-align: right; }
+.cron-texto strong { font: 900 clamp(1.25rem, 3vw, 1.875rem)/1.05 var(--display); text-transform: uppercase; }
+.cron-texto span { font: 400 .6875rem var(--dato); color: var(--gris); }
+.cronologia i { display: block; margin-left: var(--x); width: var(--w); height: clamp(12px, 2vw, 20px); background: var(--tinta-c); margin-top: 2px; }

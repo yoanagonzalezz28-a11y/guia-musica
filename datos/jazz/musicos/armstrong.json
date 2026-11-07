@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek",
+  "id": "armstrong",
+  "nombre": "Louis Armstrong",
+  "apodo": "Satchmo",
+  "nacimiento": {
+    "anio": 1901,
+    "lugar": "Nueva Orleans"
+  },
+  "muerte": {
+    "anio": 1971
+  },
+  "instrumentos": [
+    "trompeta",
+    "voz"
+  ],
+  "corrientes": [
+    "origenes"
+  ],
+  "resumen": "Una de las figuras más influyentes del jazz, con una carrera de cinco décadas. Convirtió al solista improvisado en el centro de la música.[^wp-armstrong]",
+  "epocasPendientes": [
+    "Big bands de los 30",
+    "All Stars y discos con Ella Fitzgerald"
+  ],
+  "epocas": [
+    {
+      "titulo": "De Nueva Orleans a Chicago",
+      "desde": 1922,
+      "hasta": 1929,
+      "texto": "En 1922 viajó a Chicago para sumarse a su mentor, King Oliver.[^wp-armstrong] Tres años después formó su propio grupo de grabación, el Hot Five.[^wp-hotfive]",
+      "discoClave": {
+        "disco": "hot-fives",
+        "explicacion": "Se escucha el paso de la improvisación colectiva de Nueva Orleans al gran solista."
+      },
+      "discos": [
+        "creole-jazz-band",
+        "essential-bessie"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-armstrong"
+  ],
+  "respaldo": [
+    {
+      "fuente": "gioia-armstrong",
+      "acceso": "completa",
+      "aporta": "Ted Gioia: cambió \"the entire pulse of commercial music\", y su influencia como cantante fue igual de grande."
+    },
+    {
+      "fuente": "iverson-edu",
+      "acceso": "extracto",
+      "aporta": "Ethan Iverson lo pone en la base de cualquier formación en jazz."
+    }
+  ]
+}

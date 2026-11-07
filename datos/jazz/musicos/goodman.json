@@ -1,0 +1,51 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve",
+  "id": "goodman",
+  "nombre": "Benny Goodman",
+  "apodo": "El rey del swing",
+  "nacimiento": {
+    "anio": 1909,
+    "lugar": "Chicago"
+  },
+  "muerte": {
+    "anio": 1986
+  },
+  "instrumentos": [
+    "clarinete",
+    "dirección"
+  ],
+  "corrientes": [
+    "swing"
+  ],
+  "resumen": "Dirigió una de las big bands más populares desde 1935. En plena segregación, lideró uno de los primeros grupos integrados del jazz, su trío y cuarteto.[^wp-goodman]",
+  "epocas": [
+    {
+      "titulo": "Del Palomar a Carnegie Hall",
+      "desde": 1935,
+      "hasta": 1938,
+      "texto": "En agosto de 1935, en el Palomar Ballroom de Los Ángeles, el público respondió con entusiasmo a los arreglos de Fletcher Henderson y Spud Murphy. Suele tomarse como el comienzo de la era del swing.[^wp-goodman]",
+      "discoClave": {
+        "disco": "carnegie-1938",
+        "explicacion": "El concierto que llevó el jazz a Carnegie Hall."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-goodman"
+  ],
+  "respaldo": [
+    {
+      "fuente": "wp-henderson",
+      "acceso": "completa",
+      "aporta": "Recuerda el peso de los arreglos de Fletcher Henderson en el sonido del swing."
+    }
+  ]
+}

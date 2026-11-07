@@ -1,0 +1,71 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": true,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "The Essential Bessie Smith"
+  },
+  "id": "essential-bessie",
+  "titulo": "The Essential Bessie Smith",
+  "credito": "Bessie Smith",
+  "lideres": [
+    "bessie"
+  ],
+  "grabacion": {
+    "desde": 1923,
+    "hasta": 1933,
+    "detalle": "1923 a 1933"
+  },
+  "edicion": {
+    "anio": 1997,
+    "detalle": "Esta selección es de 1997. Los temas salieron en 78 rpm."
+  },
+  "sello": "Columbia / Legacy",
+  "musicos": [
+    {
+      "musico": "bessie",
+      "nombre": "Bessie Smith",
+      "instrumento": "voz"
+    },
+    {
+      "musico": "armstrong",
+      "nombre": "Louis Armstrong",
+      "instrumento": "trompeta y voz",
+      "nota": "En \"St. Louis Blues\", 1925"
+    }
+  ],
+  "personalNota": "Lista parcial: la acompañan distintos músicos en cada sesión.",
+  "corrientes": [
+    "origenes"
+  ],
+  "corrienteNota": "Es blues clásico más que jazz, pero sin el blues no se entiende la corriente.",
+  "comentario": [
+    "Bessie Smith fue la cantante de blues más popular de su tiempo, y la prensa la llamó \"la emperatriz del blues\". \"Downhearted Blues\", de 1923, integra el registro de preservación de la Biblioteca del Congreso. Escuchala junto a Armstrong en \"St. Louis Blues\": es una lección de cómo la voz y la trompeta pueden conversar."
+  ],
+  "ids": {
+    "musicbrainz": "d8c3eec2-f73d-33f0-881b-09a5346a0a4e",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-bessie",
+      "acceso": "completa",
+      "aporta": "Reconstruye su carrera y el peso de \"Downhearted Blues\"."
+    },
+    {
+      "fuente": "loc-registro",
+      "acceso": "extracto",
+      "aporta": "\"Downhearted Blues\" integra el registro de preservación desde 2002."
+    }
+  ]
+}

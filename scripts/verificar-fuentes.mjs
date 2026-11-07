@@ -27,7 +27,7 @@ for (const d of g.discos) {
   const mb = d.ids.musicbrainz ? await json(`https://musicbrainz.org/ws/2/release-group/${d.ids.musicbrainz}?fmt=json`) : {};
   if (!d.ids.musicbrainz) console.log(`  · ${d.id}: sin ficha en MusicBrainz`);
   else if (mb._estado) avisar(d, `MusicBrainz respondió ${mb._estado}`);
-  else if (!coincide(mb.title, d.titulo)) avisar(d, `el título en MusicBrainz es "${mb.title}"`);
+  else if (!coincide(mb.title, d.titulo) && !coincide(mb.title, d.tituloOriginal)) avisar(d, `el título en MusicBrainz es "${mb.title}"`);
   else {
     confirmados++;
     const anioMb = Number(String(mb['first-release-date']).slice(0, 4));

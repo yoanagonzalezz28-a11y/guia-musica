@@ -1,0 +1,49 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "id": "bessie",
+  "nombre": "Bessie Smith",
+  "nacimiento": {
+    "anio": 1892,
+    "lugar": "Chattanooga, Tennessee"
+  },
+  "muerte": {
+    "anio": 1937
+  },
+  "instrumentos": [
+    "voz"
+  ],
+  "corrientes": [
+    "origenes"
+  ],
+  "resumen": "La \"emperatriz del blues\", una de las grandes cantantes del siglo XX y la más popular del blues femenino de su tiempo.[^wp-bessie]",
+  "epocas": [
+    {
+      "titulo": "Los años en Columbia",
+      "desde": 1923,
+      "hasta": 1933,
+      "texto": "Su primer disco, \"Downhearted Blues\", fue un éxito en 1923, y Columbia la convirtió en su gran estrella.[^wp-bessie]",
+      "discoClave": {
+        "disco": "essential-bessie",
+        "explicacion": "Una buena selección de su etapa completa en Columbia."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-bessie"
+  ],
+  "respaldo": [
+    {
+      "fuente": "loc-registro",
+      "acceso": "extracto",
+      "aporta": "\"Downhearted Blues\" integra el registro de preservación de la Biblioteca del Congreso."
+    }
+  ]
+}

@@ -1071,5 +1071,301 @@
     "url": "https://en.wikipedia.org/wiki/Time_Out_(Dave_Brubeck_Quartet_album)",
     "consultada": "2026-11-06",
     "estado": "consultada"
+  },
+  "wp-jazz": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Jazz (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Jazz",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-dixieland": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Dixieland (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Dixieland",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-hotfive": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Louis Armstrong and His Hot Five (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Louis_Armstrong_and_His_Hot_Five",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-westend": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "West End Blues (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/West_End_Blues",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-armstrong": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Louis Armstrong (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Louis_Armstrong",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-morton": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Jelly Roll Morton (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Jelly_Roll_Morton",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-oliver": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "King Oliver (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/King_Oliver",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-bix": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Bix Beiderbecke (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Bix_Beiderbecke",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-bessie": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Bessie Smith (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Bessie_Smith",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-swing": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Swing music (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Swing_music",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-ellington": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Duke Ellington (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Duke_Ellington",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-basie": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Count Basie (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Count_Basie",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-goodman": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Benny Goodman (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Benny_Goodman",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-holiday": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Billie Holiday (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Billie_Holiday",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-young": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Lester Young (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Lester_Young",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-williams": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Mary Lou Williams (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Mary_Lou_Williams",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-ella": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Ella Fitzgerald (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Ella_Fitzgerald",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-hawkins": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Coleman Hawkins (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Coleman_Hawkins",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-henderson": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Fletcher Henderson (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Fletcher_Henderson",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "gioia-armstrong": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "Ted Gioia, \"When Louis Armstrong Conquered Chicago\" (The Honest Broker, 2025)",
+    "url": "https://www.honest-broker.com/p/when-louis-armstrong-conquered-chicago",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "gioia-fargo": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "Ted Gioia, \"When Duke Ellington Came to North Dakota\" (The Honest Broker, 2023)",
+    "url": "https://www.honest-broker.com/p/when-duke-ellington-came-to-north",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "gioia-pulitzer": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "Ted Gioia, \"Let's Give Duke Ellington the Pulitzer Prize\" (The Honest Broker, 2022)",
+    "url": "https://www.honest-broker.com/p/lets-give-duke-ellington-the-pulitzer",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "gioia-dabney": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "Ted Gioia, \"He Might Have Been the First Jazz Star\" (The Honest Broker, 2024)",
+    "url": "https://www.honest-broker.com/p/he-might-have-been-the-first-jazz",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "iverson-edu": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "Ethan Iverson, \"A New (meaning Old) Approach to Jazz Education\" (Do the Math)",
+    "url": "https://ethaniverson.com/a-new-meaning-old-approach-to-jazz-education/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "iverson-teachout": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "Ethan Iverson, \"Interview with Terry Teachout\" (Do the Math)",
+    "url": "https://ethaniverson.com/interview-with-terry-teachout/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "iverson-bley": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "Ethan Iverson, \"Interview with Carla Bley\" (Do the Math)",
+    "url": "https://ethaniverson.com/interview-with-carla-bley/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "db-writ": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "Ayana Contreras, DownBeat: \"Mary Lou Williams, Writ Large\" (2020)",
+    "url": "https://downbeat.com/news/detail/writ-large-mary-lou-williams",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "npr-aries": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "Patrick Jarenwattananon, NPR: Mary Lou Williams, \"Aries\" (2010)",
+    "url": "https://www.npr.org/sections/ablogsupreme/2010/05/14/126839260/listening-party-for-two-mary-lou-williams-aries",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "db-rollins-blind": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "DownBeat, Blindfold Test de Sonny Rollins (1957)",
+    "url": "https://downbeat.com/archives/detail/blindfold-test-rollins-in-3-4-time",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "db-cavassa": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "DownBeat, Blindfold Test de Gabrielle Cavassa (2025)",
+    "url": "https://downbeat.com/news/detail/blindfold-test-gabrielle-cavassa",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "aaj-morton": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Ken Dryden, All About Jazz: The Complete Library of Congress Recordings",
+    "url": "https://www.allaboutjazz.com/the-complete-library-of-congress-recordings-by-alan-lomax-jelly-roll-morton-rounder-records-review-by-ken-dryden",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "penguin-morton": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "The Penguin Guide to Jazz y Harvey Pekar sobre Morton, citados en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Jelly_Roll_Morton:_The_Complete_Library_of_Congress_Recordings",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "penguin-goodman": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "The Penguin Guide to Jazz sobre el concierto de 1938, citada en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Famous_1938_Carnegie_Hall_Jazz_Concert",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "penguin-satin": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "The Penguin Guide to Jazz y Buck Clayton sobre Lady in Satin, citados en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lady_in_Satin",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wein-newport": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "George Wein sobre Ellington en Newport, citado en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ellington_at_Newport",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "aaj-lester": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "C. Michael Bailey (All About Jazz) sobre Lester Young con Oscar Peterson, citado en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lester_Young_with_the_Oscar_Peterson_Trio",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "fuller-armstrong": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "Bruce Eder sobre Goodman en Carnegie Hall, citado en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Benny_Goodman",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
   }
 }

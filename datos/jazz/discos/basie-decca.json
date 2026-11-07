@@ -1,0 +1,105 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": true,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": "Nueva York",
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/22oDCpyHsYIYxMGcmieLDY",
+    "tituloEnSpotify": "The Complete Decca Recordings"
+  },
+  "id": "basie-decca",
+  "titulo": "The Complete Decca Recordings",
+  "credito": "Count Basie",
+  "lideres": [
+    "basie"
+  ],
+  "grabacion": {
+    "desde": 1937,
+    "hasta": 1939,
+    "detalle": "1937 a 1939"
+  },
+  "edicion": {
+    "anio": 1992,
+    "detalle": "Esta caja es de 1992. Los temas salieron en 78 rpm."
+  },
+  "sello": "GRP / Decca",
+  "musicos": [
+    {
+      "musico": "basie",
+      "nombre": "Count Basie",
+      "instrumento": "piano y dirección"
+    },
+    {
+      "musico": "young",
+      "nombre": "Lester Young",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Freddie Green",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Walter Page",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Jo Jones",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Buck Clayton",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Harry \"Sweets\" Edison",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Herschel Evans",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Rushing",
+      "instrumento": "voz"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "El swing de Kansas City: riffs simples, mucho blues y la llamada \"All-American Rhythm Section\", con Basie, Freddie Green, Walter Page y Jo Jones. Basie toca pocas notas y deja respirar a la banda. Acá se escucha también cómo Lester Young abre otro camino en el saxo tenor."
+  ],
+  "ids": {
+    "musicbrainz": "e56f0a31-ffab-370d-a866-f2056661634c",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "iverson-teachout",
+      "acceso": "completa",
+      "aporta": "Terry Teachout destaca \"Jive at Five\" como el lugar clásico del sonido de Lester Young y su relación con la música de Basie."
+    },
+    {
+      "fuente": "wp-basie",
+      "acceso": "completa",
+      "aporta": "Explica su banda de Kansas City y sus innovaciones, como los riffs y los dos tenores."
+    }
+  ]
+}

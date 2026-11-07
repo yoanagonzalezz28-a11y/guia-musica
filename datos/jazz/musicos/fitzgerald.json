@@ -1,0 +1,50 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz",
+  "id": "fitzgerald",
+  "nombre": "Ella Fitzgerald",
+  "apodo": "La primera dama de la canción",
+  "nacimiento": {
+    "anio": 1917,
+    "lugar": "Newport News, Virginia"
+  },
+  "muerte": {
+    "anio": 1996
+  },
+  "instrumentos": [
+    "voz"
+  ],
+  "corrientes": [
+    "swing"
+  ],
+  "resumen": "Cantante de afinación y dicción impecables, con una capacidad para improvisar propia de un instrumentista, sobre todo en el scat.[^wp-ella]",
+  "epocas": [
+    {
+      "titulo": "Los Song Books",
+      "desde": 1956,
+      "hasta": 1964,
+      "texto": "Se formó con la orquesta de Chick Webb, y más tarde Norman Granz fue su mánager y fundó Verve para producir sus discos.[^wp-ella]",
+      "discoClave": {
+        "disco": "cole-porter-songbook",
+        "explicacion": "El primero de una serie de discos sobre grandes compositores."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-ella"
+  ],
+  "respaldo": [
+    {
+      "fuente": "loc-registro",
+      "acceso": "extracto",
+      "aporta": "Su Song Book de Cole Porter integra el registro de preservación."
+    }
+  ]
+}

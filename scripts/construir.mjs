@@ -128,6 +128,18 @@ function filaDisco(ctx, d, extra = '') {
 
 // La firma visual del sitio: cada corriente es una barra de tinta a escala de tiempo.
 // Donde dos barras se pisan aparece el color de la mezcla, igual que en una impresión a dos tintas.
+function cronologia(corrientes, [ini, fin], ctx) {
+  const pos = a => ((a - ini) / (fin - ini)) * 100;
+  const orden = [...corrientes].sort((x, y) => x.periodo.desde - y.periodo.desde || x.periodo.hasta - y.periodo.hasta);
+  const marcas = [];
+  for (let a = Math.ceil(ini / 20) * 20; a <= fin; a += 20) marcas.push(a);
+  return `<div class="cronologia-marco"><ol class="cronologia">${orden.map(c => {
+    const hastaHoy = c.periodo.hasta >= new Date().getFullYear() - 1;
+    const x = pos(c.periodo.desde), w = pos(Math.min(c.periodo.hasta, fin)) - x;
+    return `<li style="${tintaVars(c)};--x:${x}%;--w:${w}%"><a href="${ctx.a(URL.corriente(c.id))}" class="${x > 58 ? 'cron-der' : ''}"><span class="cron-texto"><strong>${esc(c.nombre)}</strong> <span>c. ${c.periodo.desde}–${hastaHoy ? 'hoy' : c.periodo.hasta}</span></span><i></i></a></li>`;
+  }).join('')}</ol><div class="tintas-escala" aria-hidden="true">${marcas.map(a => `<span style="left:${pos(a)}%">${a}</span>`).join('')}</div></div>`;
+}
+
 function barrasDeTinta(corrientes, [ini, fin], ctx, { cruce, enlazar = true } = {}) {
   const pos = a => ((a - ini) / (fin - ini)) * 100;
   const decadas = [];
@@ -158,21 +170,24 @@ function barrasDeTinta(corrientes, [ini, fin], ctx, { cruce, enlazar = true } = 
 // Cada disco es un punto en su año de edición. El trazo llega hasta el año de grabación.
 function mapaDeDiscos(ctx, corrientes, discos, [ini, fin]) {
   const pos = a => ((a - ini) / (fin - ini)) * 100;
-  const SEPARACION = 1.6;
-  return corrientes.map(c => {
-    const propios = discos.filter(d => d.corrientes[0] === c.id).sort((a, b) => a.edicion.anio - b.edicion.anio || a.grabacion.desde - b.grabacion.desde);
+  const SEPARACION = (fin - ini) * 0.055;
+  const decenas = (fin - ini) / 20;
+  return [...corrientes].sort((a, b) => a.periodo.desde - b.periodo.desde).map(c => {
+    // Una recopilación muy posterior se ubica por su música, no por el año de la caja.
+    const anioMapa = d => (d.compilacion ? Math.min(d.edicion.anio, d.grabacion.hasta) : d.edicion.anio);
+    const propios = discos.filter(d => d.corrientes[0] === c.id).sort((a, b) => anioMapa(a) - anioMapa(b) || a.grabacion.desde - b.grabacion.desde);
     const carriles = [];
     const puntos = propios.map(d => {
-      const desde = Math.min(d.grabacion.desde, d.edicion.anio);
+      const desde = Math.min(d.grabacion.desde, anioMapa(d));
       let n = carriles.findIndex(fin => desde >= fin + SEPARACION);
       if (n < 0) { n = carriles.length; carriles.push(0); }
-      carriles[n] = Math.min(d.edicion.anio, fin);
-      const izq = pos(desde), der = Math.min(pos(d.edicion.anio), 100);
+      carriles[n] = Math.min(anioMapa(d), fin);
+      const izq = pos(desde), der = Math.min(pos(anioMapa(d)), 100);
       const titulo = `${d.titulo} · ${d.credito}, ${d.edicion.anio}`;
       const trazo = der > izq ? `<span class="trazo" style="left:${izq}%;width:${der - izq}%;--y:${n}"></span>` : '';
       return `${trazo}<a class="punto ${der > 60 ? 'punto-der' : ''}" style="--x:${der}%;--y:${n}" href="${ctx.a(URL.disco(d.id))}" aria-label="${esc(titulo)}" data-titulo="${esc(titulo)}"><i></i></a>`;
     }).join('');
-    return `<div class="mapa-fila" style="${tintaVars(c)};--carriles:${carriles.length};--tramos:${(fin - ini) / 5}"><h3 class="mapa-nombre">${esc(c.nombre)}</h3><div class="mapa-pista">${puntos}</div></div>`;
+    return `<div class="mapa-fila" style="${tintaVars(c)};--carriles:${carriles.length};--tramos:${decenas}"><h3 class="mapa-nombre">${esc(c.nombre)}</h3><div class="mapa-pista">${puntos}</div></div>`;
   }).join('');
 }
 
@@ -256,11 +271,11 @@ const construir = {
       cuerpo: `<section class="tesis">
         <h1>Jazz</h1>
         <p class="tesis-bajada">${ctx.texto(g.intro)}</p>
-        ${barrasDeTinta(g.corrientes, g.rangoLinea, ctx, { cruce: comp.tintaCruce })}
-        <p class="tesis-pie">Cada barra muestra cuánto duró una corriente, y varias convivieron. <a href="${ctx.a(URL.comparacion(comp.id))}">Compará bebop y hard bop</a> para ver qué pasa donde se pisan.</p>
+        ${cronologia(g.corrientes, g.rangoLinea, ctx)}
+        <p class="tesis-pie">Cada franja muestra cuánto duró una corriente, y muchas convivieron. <a href="${ctx.a(URL.comparacion(comp.id))}">Compará bebop y hard bop</a> para ver qué pasa donde se pisan.</p>
       </section>
       <section class="bloque"><h2>${g.discos.length} discos en el tiempo</h2>
-        <p class="ayuda">Cada punto es un disco en su año de edición. Si tiene un trazo, se grabó antes de salir: el trazo llega hasta el año de grabación.</p>
+        <p class="ayuda">Cada punto es un disco en su año de edición, y el trazo llega hasta el año en que se grabó. Las recopilaciones posteriores se ubican según su música.</p>
         <div class="mapa">${mapaDeDiscos(ctx, g.corrientes, g.discos, g.rangoLinea)}</div>
       </section>
       <section class="bloque portal"><h2>Por dónde seguir</h2><ul class="portal-lista">
@@ -500,7 +515,8 @@ const construir = {
     const ctx = nuevoContexto(ruta);
     const a = g.por.corriente.get(x.a), b = g.por.corriente.get(x.b);
     const cruzan = musicosEnAmbas(g, x.a, x.b);
-    const [ini, fin] = g.rangoLinea;
+    const ini = Math.floor((Math.min(a.periodo.desde, b.periodo.desde) - 4) / 5) * 5;
+    const fin = Math.ceil((Math.max(a.periodo.hasta, b.periodo.hasta) + 4) / 5) * 5;
     const celda = (corr, p) => {
       const d = g.por.disco.get(p.disco); const sp = enlaceSpotify(d);
       return `<div class="escucha-lado" style="${tintaVars(corr)}"><span class="escucha-corriente">${esc(corr.nombre)}</span><strong>"${esc(p.tema)}"</strong><span>de <a href="${ctx.a(URL.disco(d.id))}">${esc(d.titulo)}</a>, grabado en ${rangoAnios(d.grabacion.desde, d.grabacion.hasta)}</span><a class="enlace-externo" href="${esc(sp.url)}" rel="noopener">${sp.texto}</a></div>`;

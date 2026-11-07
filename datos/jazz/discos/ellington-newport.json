@@ -1,0 +1,105 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz da septiembre de 1956 y Wikipedia noviembre. El año coincide."
+    }
+  ],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": "Festival de Newport, Rhode Island",
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Ellington at Newport 1956"
+  },
+  "id": "ellington-newport",
+  "titulo": "Ellington at Newport",
+  "credito": "Duke Ellington and His Orchestra",
+  "lideres": [
+    "ellington"
+  ],
+  "grabacion": {
+    "desde": 1956,
+    "hasta": 1956,
+    "detalle": "7 y 8 de julio de 1956"
+  },
+  "edicion": {
+    "anio": 1956,
+    "detalle": "Noviembre de 1956"
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "ellington",
+      "nombre": "Duke Ellington",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Gonsalves",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Johnny Hodges",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Harry Carney",
+      "instrumento": "saxo barítono"
+    },
+    {
+      "musico": null,
+      "nombre": "Clark Terry",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Cat Anderson",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Ray Nance",
+      "instrumento": "trompeta y voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Woode",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Sam Woodyard",
+      "instrumento": "batería"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "swing"
+  ],
+  "corrienteNota": "Es de 1956, muy posterior a la era del swing, pero es el regreso de una de sus grandes orquestas.",
+  "comentario": [
+    "La orquesta venía en baja, y una noche en Newport le devolvió la carrera. Parte del disco original se recreó en estudio después del festival: no es exactamente lo que se escuchó esa noche, un dato que conviene tener presente al leer sobre su leyenda."
+  ],
+  "ids": {
+    "musicbrainz": "c7af2ab6-81b0-3f92-8253-9417d00f1361",
+    "discogsMaster": "136190",
+    "wikidata": "Q1332214",
+    "wikipedia": "Ellington_at_Newport"
+  },
+  "respaldo": [
+    {
+      "fuente": "wein-newport",
+      "acceso": "indirecta",
+      "aporta": "George Wein, creador del festival, lo llamó \"the greatest performance of [Ellington's] career\"."
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz da marzo de 1958 y Wikipedia enero. El año coincide."
+    }
+  ],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": "Nueva York",
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/03M3VID0s2wANlxJIJBWKb",
+    "tituloEnSpotify": "The Atomic Mr Basie"
+  },
+  "id": "atomic-basie",
+  "titulo": "The Atomic Mr. Basie",
+  "credito": "Count Basie and His Orchestra",
+  "lideres": [
+    "basie"
+  ],
+  "grabacion": {
+    "desde": 1957,
+    "hasta": 1957,
+    "detalle": "21 y 22 de octubre de 1957"
+  },
+  "edicion": {
+    "anio": 1958,
+    "detalle": "Enero de 1958"
+  },
+  "sello": "Roulette",
+  "musicos": [
+    {
+      "musico": "basie",
+      "nombre": "Count Basie",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Freddie Green",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Eddie Jones",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Sonny Payne",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Thad Jones",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Frank Foster",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Frank Wess",
+      "instrumento": "saxos y flauta"
+    },
+    {
+      "musico": null,
+      "nombre": "Eddie \"Lockjaw\" Davis",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Neal Hefti",
+      "instrumento": "arreglos"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "swing"
+  ],
+  "corrienteNota": "Es de 1958: muestra cómo sobrevivió la big band una vez terminada la era del swing.",
+  "comentario": [
+    "Basie renueva su orquesta con arreglos de Neal Hefti, llenos de ataque y precisión. Terry Teachout defiende casi todo el disco y hace una sola objeción, deliciosa: \"Lil' Darlin'\" tendría que haber tenido otra toma para afinarla. También ganó dos premios en los primeros Grammy."
+  ],
+  "ids": {
+    "musicbrainz": "1b464368-017c-3aba-8a2d-437bcf43b5d0",
+    "discogsMaster": "303975",
+    "wikidata": "Q225173",
+    "wikipedia": "The_Atomic_Mr._Basie"
+  },
+  "respaldo": [
+    {
+      "fuente": "iverson-teachout",
+      "acceso": "completa",
+      "aporta": "Terry Teachout: \"Pretty much all of The Atomic Mr. Basie\"."
+    }
+  ]
+}

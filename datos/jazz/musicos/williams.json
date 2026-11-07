@@ -1,0 +1,64 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "id": "williams",
+  "nombre": "Mary Lou Williams",
+  "nacimiento": {
+    "anio": 1910,
+    "lugar": "Atlanta"
+  },
+  "muerte": {
+    "anio": 1981
+  },
+  "instrumentos": [
+    "piano",
+    "composición",
+    "arreglos"
+  ],
+  "corrientes": [
+    "swing"
+  ],
+  "redescubrimiento": {
+    "motivo": "Fue amiga, mentora y maestra de Monk, Parker, Davis, Dameron, Powell y Gillespie, y durante años la crítica la redujo a comparaciones con otras mujeres del jazz."
+  },
+  "resumen": "Pianista, arregladora y compositora de más de 60 años de carrera. Escribió para Ellington y Goodman, y fue amiga y maestra de Monk, Parker, Davis y Gillespie.[^wp-williams]",
+  "epocas": [
+    {
+      "titulo": "Harlem y la suite",
+      "desde": 1942,
+      "hasta": 1945,
+      "texto": "Después de años como motor de la orquesta de Andy Kirk, se instaló en Nueva York y escribió sus obras más ambiciosas.[^wp-williams]",
+      "discoClave": {
+        "disco": "zodiac-suite",
+        "explicacion": "Su obra más famosa, todavía sin el lugar que merece."
+      },
+      "discos": []
+    }
+  ],
+  "epocasPendientes": [
+    "Con Andy Kirk",
+    "Música religiosa",
+    "Regreso de los 70"
+  ],
+  "fuentes": [
+    "wp-williams"
+  ],
+  "respaldo": [
+    {
+      "fuente": "db-writ",
+      "acceso": "completa",
+      "aporta": "DownBeat, con la biógrafa Tammy Kernodle, explica por qué fue tan difícil ubicarla en la historia."
+    },
+    {
+      "fuente": "db-rollins-blind",
+      "acceso": "completa",
+      "aporta": "Rollins le dio cinco estrellas a \"Mary's Waltz\" en su Blindfold Test, creyendo que era de Ellington."
+    }
+  ]
+}

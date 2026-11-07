@@ -1,0 +1,76 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A",
+  "id": "ellington",
+  "nombre": "Duke Ellington",
+  "nacimiento": {
+    "anio": 1899,
+    "lugar": "Washington, D.C."
+  },
+  "muerte": {
+    "anio": 1974
+  },
+  "instrumentos": [
+    "piano",
+    "composición",
+    "dirección"
+  ],
+  "corrientes": [
+    "swing"
+  ],
+  "resumen": "Pianista, compositor y director de su orquesta durante cincuenta años. El crítico Ralph J. Gleason lo llamó \"el compositor más importante de Estados Unidos\".[^wp-ellington]",
+  "epocas": [
+    {
+      "titulo": "La mejor orquesta",
+      "desde": 1940,
+      "hasta": 1942,
+      "texto": "Tras hacerse conocido en el Cotton Club de Harlem, hacia fines de los 30 empezó una colaboración de casi treinta años con Billy Strayhorn. Con Blanton y Webster, su orquesta alcanzó lo que muchos consideran su cumbre.[^wp-ellington]",
+      "discoClave": {
+        "disco": "never-no-lament",
+        "explicacion": "El consenso más firme sobre el mejor Ellington."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "El regreso",
+      "desde": 1956,
+      "hasta": 1956,
+      "texto": "Después de una etapa de poca repercusión, Newport le devolvió la popularidad y las giras mundiales.[^wp-ellington] En 1965, el jurado recomendó premiarlo con un Pulitzer que nunca recibió.[^gioia-pulitzer]",
+      "discoClave": {
+        "disco": "ellington-newport",
+        "explicacion": "Sigue siendo uno de los discos en vivo más famosos del jazz."
+      },
+      "discos": []
+    }
+  ],
+  "epocasPendientes": [
+    "Años del Cotton Club",
+    "Suites con Strayhorn"
+  ],
+  "fuentes": [
+    "wp-ellington"
+  ],
+  "respaldo": [
+    {
+      "fuente": "db-rollins-blind",
+      "acceso": "completa",
+      "aporta": "En su Blindfold Test, Sonny Rollins: \"It's very important to have a sound that you can recognize immediately, and of course Duke is an institution now in music\"."
+    },
+    {
+      "fuente": "gioia-fargo",
+      "acceso": "completa",
+      "aporta": "Ted Gioia cuenta por qué su concierto de Fargo de 1940 es uno de los grandes momentos de la música estadounidense."
+    },
+    {
+      "fuente": "gioia-pulitzer",
+      "acceso": "completa",
+      "aporta": "Gioia lanzó una petición para reparar el Pulitzer negado en 1965."
+    }
+  ]
+}

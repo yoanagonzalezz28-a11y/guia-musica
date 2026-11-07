@@ -1,0 +1,97 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "derivaPendiente": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "id": "origenes",
+  "nombre": "Orígenes",
+  "alias": [
+    "New Orleans",
+    "Nueva Orleans"
+  ],
+  "lema": "Del desfile al solo",
+  "tinta": "#B8481F",
+  "tintaTexto": "#FFFFFF",
+  "periodo": {
+    "desde": 1910,
+    "hasta": 1930,
+    "aproximado": true
+  },
+  "deriva": [],
+  "lugares": [
+    "Nueva Orleans",
+    "Chicago",
+    "Nueva York"
+  ],
+  "texto": [
+    "El jazz surge entre las comunidades afroamericanas de Nueva Orleans a fines del siglo XIX y comienzos del XX. Sus raíces están en el blues, el ragtime, la armonía europea, los ritmos africanos, los espirituales, las marchas y la música de baile.[^wp-jazz] No nació como una sola tradición ni en un solo lugar.[^wp-jazz]",
+    "El estilo de Nueva Orleans se basa en la improvisación colectiva: varios instrumentos tejen líneas al mismo tiempo.[^wp-jazz] Los primeros discos que difundieron esta música fueron los de la Original Dixieland Jass Band, en 1917: una banda de músicos blancos que grabó antes que los creadores negros del estilo.[^wp-dixieland]",
+    "A comienzos de los 20, buena parte de esos músicos ya estaba en Chicago. Ted Gioia señala que la calidad del jazz grabado mejoró de golpe en 1923, cuando Armstrong, Morton y Oliver hicieron sus primeros discos.[^gioia-dabney] Pocos años después, con el Hot Five, Armstrong llevó al solista al centro de la música.[^wp-hotfive]"
+  ],
+  "suena": [
+    "Trompeta, clarinete y trombón improvisan al mismo tiempo, cada uno con su papel.",
+    "Un pulso de marcha o de baile, con mucho blues.",
+    "Discos cortos, de unos tres minutos, y un sonido lejano: es parte de la época, no un defecto."
+  ],
+  "hitos": [
+    {
+      "fecha": "1915",
+      "texto": "Se publica \"Jelly Roll Blues\", de Morton, una de las primeras partituras de jazz.[^wp-morton]"
+    },
+    {
+      "fecha": "1917",
+      "texto": "La Original Dixieland Jass Band hace los primeros discos del estilo.[^wp-dixieland]"
+    },
+    {
+      "fecha": "1922",
+      "texto": "Armstrong llega a Chicago para tocar con King Oliver.[^wp-armstrong]"
+    },
+    {
+      "fecha": "1923",
+      "texto": "Graban Oliver, Armstrong y Morton, y debuta Bessie Smith.[^gioia-dabney][^wp-bessie]"
+    },
+    {
+      "fecha": "1925",
+      "texto": "Armstrong forma el Hot Five para grabar.[^wp-hotfive]"
+    },
+    {
+      "fecha": "28 jun. 1928",
+      "texto": "Armstrong graba \"West End Blues\".[^wp-westend]"
+    }
+  ],
+  "legado": "Le dio al jazz su idea central: la libertad de improvisar dentro de un grupo. Todo lo que viene después sigue discutiendo cuánto espacio tiene cada voz.",
+  "musicos": [
+    "armstrong",
+    "morton",
+    "oliver",
+    "beiderbecke",
+    "bessie"
+  ],
+  "musicosPendientes": [
+    "Sidney Bechet",
+    "Kid Ory",
+    "Johnny Dodds",
+    "James P. Johnson",
+    "Original Dixieland Jass Band",
+    "Buddy Bolden",
+    "Joe Dabney"
+  ],
+  "discosEsenciales": [
+    {
+      "disco": "hot-fives",
+      "porque": "Se escucha nacer al solista moderno."
+    },
+    {
+      "disco": "creole-jazz-band",
+      "porque": "El estilo colectivo de Nueva Orleans, en su fuente."
+    },
+    {
+      "disco": "morton-loc",
+      "porque": "Un testigo que cuenta la historia en primera persona, con todas sus exageraciones."
+    }
+  ]
+}

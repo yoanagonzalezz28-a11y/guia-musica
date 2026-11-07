@@ -1,0 +1,53 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "id": "morton",
+  "nombre": "Jelly Roll Morton",
+  "nacimiento": {
+    "anio": 1890,
+    "lugar": "Nueva Orleans"
+  },
+  "muerte": {
+    "anio": 1941
+  },
+  "instrumentos": [
+    "piano",
+    "composición"
+  ],
+  "corrientes": [
+    "origenes"
+  ],
+  "resumen": "El primer gran arreglador del jazz: mostró que una música basada en la improvisación podía escribirse sin perder su carácter. Su \"Jelly Roll Blues\", de 1915, fue una de las primeras partituras de jazz publicadas.[^wp-morton]",
+  "epocas": [
+    {
+      "titulo": "El relato de una vida",
+      "desde": 1938,
+      "hasta": 1938,
+      "texto": "Pasados sus mejores años, Alan Lomax lo escuchó tocar y lo invitó a grabar para la Biblioteca del Congreso. Lo que iba a ser una entrevista breve se convirtió en más de ocho horas de música y conversación.[^wp-morton]",
+      "discoClave": {
+        "disco": "morton-loc",
+        "explicacion": "Su autorretrato: mitad historia del jazz, mitad leyenda personal."
+      },
+      "discos": []
+    }
+  ],
+  "epocasPendientes": [
+    "Red Hot Peppers, 1926–1930"
+  ],
+  "fuentes": [
+    "wp-morton"
+  ],
+  "respaldo": [
+    {
+      "fuente": "penguin-morton",
+      "acceso": "indirecta",
+      "aporta": "Harvey Pekar dice que sus afirmaciones parecen difíciles de creer, hasta que se escucha cómo toca."
+    }
+  ]
+}
