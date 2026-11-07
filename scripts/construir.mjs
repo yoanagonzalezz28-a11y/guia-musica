@@ -379,7 +379,7 @@ const construir = {
       titulo: m.nombre, descripcion: m.resumen, seccion: 'musicos',
       cuerpo: `<header class="heroe-musico" style="${tintaVars(principal)}">
         <p class="heroe-anios">${esc(aniosVida(m))} · ${esc(unir(m.instrumentos))}</p>
-        <h1>${esc(m.nombre)}</h1>
+        <h1 style="--largo:${largoTitular(m.nombre)}">${esc(m.nombre)}</h1>
         ${m.redescubrimiento ? `<p>${etiquetaRedescubrimiento()}</p>` : ''}
         <p class="heroe-datos">${m.nacimiento.lugar ? `Nació en ${esc(m.nacimiento.lugar)}. ` : ""}${m.apodo ? `Le decían ${esc(m.apodo)}. ` : ''}${m.corrientes.length ? `Corrientes: ${unir(m.corrientes.map(c => enlaceCorriente(ctx, c)))}. ` : ''}${m.regiones.length ? `Regiones: ${unir(m.regiones.map(r => enlaceRegion(ctx, r)))}.` : ""}</p>
       </header>
@@ -515,7 +515,7 @@ const construir = {
     const discos = g.discos.filter(d => r.discos.includes(d.id) || d.regiones?.includes(r.id));
     pagina(ruta, ctx, {
       titulo: r.nombre, descripcion: r.resumen, seccion: 'regiones',
-      cuerpo: `<header class="heroe-region"><p class="heroe-anios">Jazz del mundo</p><h1>${esc(r.nombre)}</h1><p class="heroe-lema">${esc(r.resumen)}</p></header>
+      cuerpo: `<header class="heroe-region"><p class="heroe-anios">Jazz del mundo</p><h1 style="--largo:${largoTitular(r.nombre)}">${esc(r.nombre)}</h1><p class="heroe-lema">${esc(r.resumen)}</p></header>
       <div class="lectura lectura-ancha">${r.texto.map(p => `<p>${ctx.texto(p)}</p>`).join('')}
       ${r.corrientes.length ? `<p class="parentesco">Corrientes relacionadas: ${unir(r.corrientes.map(c => enlaceCorriente(ctx, c)))}.</p>` : ''}</div>
       <section class="bloque"><h2>Sellos y lugares</h2><ul class="sellos">${r.sellos.map(s => `<li><strong>${esc(s.nombre)}</strong><span>${ctx.texto(s.texto)}</span></li>`).join('')}</ul></section>

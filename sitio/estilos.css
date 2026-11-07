@@ -131,13 +131,13 @@ a.tinta:hover .tinta-nombre { text-decoration: underline; text-decoration-thickn
 .heroe-corriente, .heroe-disco, .heroe-musico { margin: clamp(16px, 3vw, 28px) 0 0; padding: clamp(18px, 4vw, 36px); background: var(--tinta-c); color: var(--tinta-c-texto); }
 .heroe-corriente a, .heroe-disco a, .heroe-musico a { color: inherit; }
 .heroe-corriente h1 { font-size: min(clamp(5rem, 22vw, 17rem), calc((100vw - 32px) / (var(--largo, 6) * .6))); line-height: .78; text-transform: uppercase; margin: 14px 0 10px; }
-.heroe-musico h1 { font-size: clamp(3.5rem, 12vw, 9rem); line-height: .84; text-transform: uppercase; margin: 12px 0; }
+.heroe-musico h1 { font-size: min(clamp(3.5rem, 12vw, 9rem), calc((100vw - 32px) / (var(--largo, 6) * .6))); line-height: .84; text-transform: uppercase; margin: 12px 0; }
 .heroe-disco h1 { font-size: clamp(2.75rem, 8vw, 6.25rem); line-height: .9; margin: 12px 0; }
 .heroe-anios { font: 500 .8125rem/1.5 var(--dato); margin: 0; }
 .heroe-lema { margin: 0; font-size: clamp(1.125rem, 2.4vw, 1.5rem); }
 .heroe-datos { margin: 0; max-width: 62ch; }
 .heroe-region { padding: clamp(28px, 6vw, 56px) 0 10px; border-bottom: 2px solid var(--tinta); }
-.heroe-region h1 { font-size: clamp(4rem, 16vw, 12rem); line-height: .84; text-transform: uppercase; margin: 10px 0; }
+.heroe-region h1 { font-size: min(clamp(4rem, 16vw, 12rem), calc((100vw - 32px) / (var(--largo, 6) * .6))); line-height: .84; text-transform: uppercase; margin: 10px 0; }
 .heroe-comparar { padding-top: clamp(12px, 3vw, 24px); }
 .heroe-comparar .tintas { --alto: clamp(260px, 42vw, 480px); }
 .heroe-comparar .tinta-nombre { font-size: clamp(2rem, 8.5vw, 6.75rem); }
