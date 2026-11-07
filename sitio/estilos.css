@@ -130,7 +130,7 @@ a.tinta:hover .tinta-nombre { text-decoration: underline; text-decoration-thickn
 /* ---------- Encabezados con tinta ---------- */
 .heroe-corriente, .heroe-disco, .heroe-musico { margin: clamp(16px, 3vw, 28px) 0 0; padding: clamp(18px, 4vw, 36px); background: var(--tinta-c); color: var(--tinta-c-texto); }
 .heroe-corriente a, .heroe-disco a, .heroe-musico a { color: inherit; }
-.heroe-corriente h1 { font-size: clamp(5rem, 22vw, 17rem); line-height: .78; text-transform: uppercase; margin: 14px 0 10px; }
+.heroe-corriente h1 { font-size: min(clamp(5rem, 22vw, 17rem), calc((100vw - 32px) / (var(--largo, 6) * .6))); line-height: .78; text-transform: uppercase; margin: 14px 0 10px; }
 .heroe-musico h1 { font-size: clamp(3.5rem, 12vw, 9rem); line-height: .84; text-transform: uppercase; margin: 12px 0; }
 .heroe-disco h1 { font-size: clamp(2.75rem, 8vw, 6.25rem); line-height: .9; margin: 12px 0; }
 .heroe-anios { font: 500 .8125rem/1.5 var(--dato); margin: 0; }
@@ -191,7 +191,7 @@ a.tinta:hover .tinta-nombre { text-decoration: underline; text-decoration-thickn
 .tarjetas { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 12px; margin-top: 24px; }
 .tarjeta-tinta a { display: grid; gap: 8px; padding: 20px; min-height: 220px; align-content: end; background: var(--tinta-c); color: var(--tinta-c-texto); text-decoration: none; }
 .tarjeta-tinta a:hover strong { text-decoration: underline; text-decoration-thickness: 3px; }
-.tarjeta-tinta strong { font: 900 clamp(3rem, 8vw, 5rem)/.9 var(--display); text-transform: uppercase; }
+.tarjeta-tinta strong { font: 900 clamp(2.125rem, 8vw, 5rem)/.9 var(--display); text-transform: uppercase; overflow-wrap: anywhere; }
 .tarjeta-anios { font: 500 .8125rem var(--dato); }
 .lista-regiones { display: grid; gap: 8px; margin-top: 20px; }
 .lista-regiones a { display: grid; gap: 4px; padding: 16px; background: var(--superficie); color: var(--tinta); text-decoration: none; }
@@ -355,4 +355,7 @@ h3.rotulo { margin: 16px 0 6px; }
 .cron-der .cron-texto { padding-left: 0; padding-right: calc(100% - var(--x) - var(--w)); text-align: right; }
 .cron-texto strong { font: 900 clamp(1.25rem, 3vw, 1.875rem)/1.05 var(--display); text-transform: uppercase; }
 .cron-texto span { font: 400 .6875rem var(--dato); color: var(--gris); }
+@media (max-width: 640px) {
+  .cron-texto, .cron-der .cron-texto { padding: 0; text-align: left; white-space: normal; }
+}
 .cronologia i { display: block; margin-left: var(--x); width: var(--w); height: clamp(12px, 2vw, 20px); background: var(--tinta-c); margin-top: 2px; }

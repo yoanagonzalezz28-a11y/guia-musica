@@ -128,6 +128,9 @@ function filaDisco(ctx, d, extra = '') {
 
 // La firma visual del sitio: cada corriente es una barra de tinta a escala de tiempo.
 // Donde dos barras se pisan aparece el color de la mezcla, igual que en una impresión a dos tintas.
+// El titular grande se achica según su palabra más larga, para que nunca desborde en un celular.
+const largoTitular = nombre => Math.max(...nombre.split(/s+/).map(p => p.length));
+
 function cronologia(corrientes, [ini, fin], ctx) {
   const pos = a => ((a - ini) / (fin - ini)) * 100;
   const orden = [...corrientes].sort((x, y) => x.periodo.desde - y.periodo.desde || x.periodo.hasta - y.periodo.hasta);
@@ -308,7 +311,7 @@ const construir = {
       titulo: c.nombre, descripcion: `${c.lema}. ${sinCitas(c.texto[0])}`, seccion: 'corrientes',
       cuerpo: `<header class="heroe-corriente" style="${tintaVars(c)}">
         <p class="heroe-anios">c. ${rangoAnios(c.periodo.desde, c.periodo.hasta)} · ${esc(c.lugares.join(' · '))}</p>
-        <h1>${esc(c.nombre)}</h1><p class="heroe-lema">${esc(c.lema)}</p>
+        <h1 style="--largo:${largoTitular(c.nombre)}">${esc(c.nombre)}</h1><p class="heroe-lema">${esc(c.lema)}</p>
       </header>
       <div class="columnas">
         <div class="lectura">${c.texto.map(p => `<p>${ctx.texto(p)}</p>`).join('')}
