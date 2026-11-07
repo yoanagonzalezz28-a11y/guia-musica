@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Free Fall Jimmy Giuffre"
+  },
+  "id": "free-fall",
+  "titulo": "Free Fall",
+  "credito": "Jimmy Giuffre",
+  "lideres": [
+    "giuffre"
+  ],
+  "grabacion": {
+    "desde": 1963,
+    "hasta": 1963,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1963,
+    "detalle": null
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "giuffre",
+      "nombre": "Jimmy Giuffre",
+      "instrumento": "clarinete, saxo, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "free"
+  ],
+  "comentario": [
+    "Clarinete solo y en trío: improvisación libre de una sutileza total."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

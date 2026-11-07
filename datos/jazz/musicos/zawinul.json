@@ -35,7 +35,8 @@
         "explicacion": "Con \"Birdland\", su tema más conocido."
       },
       "discos": [
-        "bitches-brew"
+        "bitches-brew",
+        "zawinul"
       ]
     }
   ],
@@ -48,5 +49,11 @@
       "acceso": "indirecta",
       "aporta": "Rolling Stone y DownBeat evalúan a la banda en su momento de mayor éxito."
     }
+  ],
+  "discosEsenciales": [
+    "heavy-weather",
+    "zawinul",
+    "black-market",
+    "mysterious-traveller"
   ]
 }

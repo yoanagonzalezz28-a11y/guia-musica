@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4Jvt6RHNJ7k47vufsSv01J",
+    "tituloEnSpotify": "Groovy",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "groovy",
+  "titulo": "Groovy",
+  "credito": "Red Garland",
+  "lideres": [
+    "garland"
+  ],
+  "grabacion": {
+    "desde": 1957,
+    "hasta": 1957,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1957,
+    "detalle": null
+  },
+  "sello": "Prestige",
+  "musicos": [
+    {
+      "musico": "garland",
+      "nombre": "Red Garland",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Trío con Paul Chambers y Art Taylor: blues y estándares relajados."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Groovy_(Red_Garland_album)"
+  },
+  "respaldo": []
+}

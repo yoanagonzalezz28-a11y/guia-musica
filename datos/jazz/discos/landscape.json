@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1UbY9TYunp4N3Lzao0DmIW",
+    "tituloEnSpotify": "Landscape",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "landscape",
+  "titulo": "Landscape",
+  "credito": "Kenny Barron",
+  "lideres": [
+    "barron"
+  ],
+  "grabacion": {
+    "desde": 1985,
+    "hasta": 1985,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1985,
+    "detalle": null
+  },
+  "sello": "Baystate",
+  "musicos": [
+    {
+      "musico": "barron",
+      "nombre": "Kenny Barron",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Trío de una claridad perfecta."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

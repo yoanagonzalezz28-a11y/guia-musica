@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Michael Brecker Michael Brecker"
+  },
+  "id": "michael-brecker",
+  "titulo": "Michael Brecker",
+  "credito": "Michael Brecker",
+  "lideres": [
+    "brecker"
+  ],
+  "grabacion": {
+    "desde": 1987,
+    "hasta": 1987,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1987,
+    "detalle": null
+  },
+  "sello": "Impulse!",
+  "musicos": [
+    {
+      "musico": "brecker",
+      "nombre": "Michael Brecker",
+      "instrumento": "saxo tenor"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "neotrad"
+  ],
+  "comentario": [
+    "Su primer disco como líder, con Pat Metheny y Kenny Kirkland."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Michael_Brecker_(album)"
+  },
+  "respaldo": []
+}

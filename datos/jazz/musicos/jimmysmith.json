@@ -27,13 +27,18 @@
     {
       "titulo": "Blue Note",
       "desde": 1956,
-      "hasta": 1963,
+      "hasta": 1965,
       "texto": "Compró su primer Hammond, alquiló un depósito para practicar y salió un año después. Alfred Lion lo oyó en Filadelfia y lo contrató en el acto.[^wp-jimmysmith]",
       "discoClave": {
         "disco": "the-sermon",
         "explicacion": "El soul jazz en su forma más directa."
       },
-      "discos": []
+      "discos": [
+        "back-at-the-chicken-shack",
+        "the-cat",
+        "a-new-sound-a-new-star",
+        "organ-grinder-swing"
+      ]
     }
   ],
   "fuentes": [
@@ -45,5 +50,12 @@
       "acceso": "completa",
       "aporta": "Lo ubica en el centro del soul jazz."
     }
+  ],
+  "discosEsenciales": [
+    "the-sermon",
+    "back-at-the-chicken-shack",
+    "the-cat",
+    "a-new-sound-a-new-star",
+    "organ-grinder-swing"
   ]
 }

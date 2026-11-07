@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE",
+    "tituloEnSpotify": "Now He Sings, Now He Sobs (Expanded Edition)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "now-he-sings-now-he-sobs",
+  "titulo": "Now He Sings, Now He Sobs",
+  "credito": "Chick Corea",
+  "lideres": [],
+  "grabacion": {
+    "desde": 1968,
+    "hasta": 1968,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1968,
+    "detalle": null
+  },
+  "sello": "Solid State",
+  "musicos": [
+    {
+      "musico": "haynes",
+      "nombre": "Roy Haynes",
+      "instrumento": "batería"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "modal"
+  ],
+  "comentario": [
+    "El trío de Corea con Miroslav Vitouš: uno de los grandes piano tríos."
+  ],
+  "ids": {
+    "musicbrainz": "3f37ff43-48f3-3032-ad5f-d7ed57841cf7",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

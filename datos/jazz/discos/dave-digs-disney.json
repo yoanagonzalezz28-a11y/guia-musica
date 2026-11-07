@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/48H5vwzJKJ0ljbGrlqLJp5",
+    "tituloEnSpotify": "Dave Digs Disney (Legacy Edition)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "dave-digs-disney",
+  "titulo": "Dave Digs Disney",
+  "credito": "Dave Brubeck",
+  "lideres": [
+    "brubeck"
+  ],
+  "grabacion": {
+    "desde": 1957,
+    "hasta": 1957,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1957,
+    "detalle": null
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "brubeck",
+      "nombre": "Dave Brubeck",
+      "instrumento": "piano, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "cool"
+  ],
+  "comentario": [
+    "Canciones de Disney con Paul Desmond: \"Someday My Prince Will Come\"."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Dave_Digs_Disney"
+  },
+  "respaldo": []
+}

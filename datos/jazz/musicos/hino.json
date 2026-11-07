@@ -26,14 +26,16 @@
     {
       "titulo": "Jazz del mundo",
       "desde": 1965,
-      "hasta": 1979,
+      "hasta": 1980,
       "texto": "",
       "discoClave": {
         "disco": "city-connection",
         "explicacion": "Fusión grabada en Nueva York."
       },
       "discos": [
-        "hi-nology"
+        "hi-nology",
+        "may-dance",
+        "daydream"
       ]
     }
   ],
@@ -43,6 +45,8 @@
   "respaldo": [],
   "discosEsenciales": [
     "city-connection",
-    "hi-nology"
+    "hi-nology",
+    "may-dance",
+    "daydream"
   ]
 }

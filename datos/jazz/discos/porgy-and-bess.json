@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf",
+    "tituloEnSpotify": "Porgy And Bess",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "porgy-and-bess",
+  "titulo": "Porgy and Bess",
+  "credito": "Ella Fitzgerald",
+  "lideres": [
+    "fitzgerald"
+  ],
+  "grabacion": {
+    "desde": 1958,
+    "hasta": 1958,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1958,
+    "detalle": null
+  },
+  "sello": "Verve",
+  "musicos": [
+    {
+      "musico": "fitzgerald",
+      "nombre": "Ella Fitzgerald",
+      "instrumento": "voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "Con Louis Armstrong: la ópera de Gershwin en dos voces de jazz."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Porgy_and_Bess_(Ella_Fitzgerald_and_Louis_Armstrong_album)"
+  },
+  "respaldo": []
+}

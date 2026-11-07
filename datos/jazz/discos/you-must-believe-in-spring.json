@@ -1,0 +1,62 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI",
+    "tituloEnSpotify": "You Must Believe In Spring (Remastered Version)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "you-must-believe-in-spring",
+  "titulo": "You Must Believe in Spring",
+  "credito": "Bill Evans",
+  "lideres": [
+    "evans"
+  ],
+  "grabacion": {
+    "desde": 1981,
+    "hasta": 1981,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1981,
+    "detalle": null
+  },
+  "sello": "Warner Bros.",
+  "musicos": [
+    {
+      "musico": "evans",
+      "nombre": "Bill Evans",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "cool"
+  ],
+  "comentario": [
+    "Grabado en 1977 y editado después de su muerte: su disco más triste y hermoso."
+  ],
+  "resenaExtensa": [
+    "Con Eddie Gómez y Eliot Zigmund. Varias piezas tienen que ver con muertes cercanas: \"B Minor Waltz\" está dedicada a su pareja, Ellaine, y \"We Will Meet Again\" a su hermano Harry.",
+    "Es el Evans tardío, con un sonido más grave y lento, y uno de los mejores lugares para escuchar cómo tocaba una balada."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "You_Must_Believe_in_Spring"
+  },
+  "respaldo": []
+}

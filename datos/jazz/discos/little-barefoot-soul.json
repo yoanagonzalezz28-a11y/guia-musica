@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0IRc2LWfTtj82CaZ5jHhvn",
+    "tituloEnSpotify": "Little Barefoot Soul",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "little-barefoot-soul",
+  "titulo": "Little Barefoot Soul",
+  "credito": "Bobby Timmons",
+  "lideres": [
+    "timmons"
+  ],
+  "grabacion": {
+    "desde": 1964,
+    "hasta": 1964,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1964,
+    "detalle": null
+  },
+  "sello": "Prestige",
+  "musicos": [
+    {
+      "musico": "timmons",
+      "nombre": "Bobby Timmons",
+      "instrumento": "piano, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "souljazz"
+  ],
+  "comentario": [
+    "Soul jazz en trío."
+  ],
+  "ids": {
+    "musicbrainz": "2416782b-8445-3ac5-aece-784db59fb128",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

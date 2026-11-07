@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "brasil"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Hermeto Hermeto Pascoal"
+  },
+  "id": "hermeto",
+  "titulo": "Hermeto",
+  "credito": "Hermeto Pascoal",
+  "lideres": [
+    "hermeto"
+  ],
+  "grabacion": {
+    "desde": 1970,
+    "hasta": 1970,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1970,
+    "detalle": null
+  },
+  "sello": "Cobblestone",
+  "musicos": [
+    {
+      "musico": "hermeto",
+      "nombre": "Hermeto Pascoal",
+      "instrumento": "teclados, flautas, saxo, percusión, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "brasil"
+  ],
+  "comentario": [
+    "Su primer disco como líder: salvaje e impredecible."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

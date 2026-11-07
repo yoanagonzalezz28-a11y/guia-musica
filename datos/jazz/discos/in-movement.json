@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5yj8fr40OGYwODHZKsRJZY",
+    "tituloEnSpotify": "In Movement",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "in-movement",
+  "titulo": "In Movement",
+  "credito": "Jack DeJohnette",
+  "lideres": [
+    "dejohnette"
+  ],
+  "grabacion": {
+    "desde": 2016,
+    "hasta": 2016,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2016,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "dejohnette",
+      "nombre": "Jack DeJohnette",
+      "instrumento": "batería, piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Trío con Ravi Coltrane y Matthew Garrison, hijos de músicos de Coltrane."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -39,6 +39,11 @@
       "musico": "stenson",
       "nombre": "Bobo Stenson",
       "instrumento": "piano"
+    },
+    {
+      "musico": "jon-christensen",
+      "nombre": "Jon Christensen",
+      "instrumento": "batería"
     }
   ],
   "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",

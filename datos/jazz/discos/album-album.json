@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Album Album Jack DeJohnette"
+  },
+  "id": "album-album",
+  "titulo": "Album Album",
+  "credito": "Jack DeJohnette",
+  "lideres": [
+    "dejohnette"
+  ],
+  "grabacion": {
+    "desde": 1984,
+    "hasta": 1984,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1984,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "dejohnette",
+      "nombre": "Jack DeJohnette",
+      "instrumento": "batería, piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Special Edition en su versión más arreglada, con varios vientos."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Jazz Giant Benny Carter"
+  },
+  "id": "jazz-giant-carter",
+  "titulo": "Jazz Giant",
+  "credito": "Benny Carter",
+  "lideres": [
+    "benny-carter"
+  ],
+  "grabacion": {
+    "desde": 1958,
+    "hasta": 1958,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1958,
+    "detalle": null
+  },
+  "sello": "Contemporary",
+  "musicos": [
+    {
+      "musico": "benny-carter",
+      "nombre": "Benny Carter",
+      "instrumento": "saxo alto, trompeta, arreglos"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "Con Ben Webster y André Previn: el alto más fluido del swing."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

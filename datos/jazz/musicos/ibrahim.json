@@ -6,7 +6,7 @@
   "regiones": [
     "sudafrica"
   ],
-  "spotify": null,
+  "spotify": "https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ",
   "id": "ibrahim",
   "nombre": "Abdullah Ibrahim",
   "nacimiento": {
@@ -27,14 +27,30 @@
   "epocas": [
     {
       "titulo": "Mannenberg",
-      "desde": 1974,
+      "desde": 1973,
       "hasta": 1974,
       "texto": "En una visita a su país grabó la pieza que se volvió himno contra el apartheid.[^wp-mannenberg]",
       "discoClave": {
         "disco": "mannenberg",
         "explicacion": "La pieza más emblemática del jazz del Cabo."
       },
-      "discos": []
+      "discos": [
+        "african-piano"
+      ]
+    },
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 1986,
+      "hasta": 2019,
+      "texto": "",
+      "discoClave": {
+        "disco": "the-balance",
+        "explicacion": "Con Ekaya: melodías del Cabo con una calma inmensa."
+      },
+      "discos": [
+        "water-from-an-ancient-well",
+        "cape-town-revisited"
+      ]
     }
   ],
   "epocasPendientes": [
@@ -55,5 +71,12 @@
       "acceso": "completa",
       "aporta": "Ethan Iverson destaca a Ben Riley \"especially good with Abdullah Ibrahim on the stellar LP Water from an Ancient Well\"."
     }
+  ],
+  "discosEsenciales": [
+    "mannenberg",
+    "the-balance",
+    "water-from-an-ancient-well",
+    "african-piano",
+    "cape-town-revisited"
   ]
 }

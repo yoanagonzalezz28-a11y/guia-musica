@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Organ Grinder Swing Jimmy Smith"
+  },
+  "id": "organ-grinder-swing",
+  "titulo": "Organ Grinder Swing",
+  "credito": "Jimmy Smith",
+  "lideres": [
+    "jimmysmith"
+  ],
+  "grabacion": {
+    "desde": 1965,
+    "hasta": 1965,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1965,
+    "detalle": null
+  },
+  "sello": "Verve",
+  "musicos": [
+    {
+      "musico": "jimmysmith",
+      "nombre": "Jimmy Smith",
+      "instrumento": "órgano Hammond"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "souljazz"
+  ],
+  "comentario": [
+    "Trío con Kenny Burrell y Grady Tate: swing y blues."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

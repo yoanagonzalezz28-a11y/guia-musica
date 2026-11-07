@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/04l5TDoVZFNPvExGNdVjOj",
+    "tituloEnSpotify": "Boss Tenor (RVG Remasters / Remastered 2006)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "boss-tenor",
+  "titulo": "Boss Tenor",
+  "credito": "Gene Ammons",
+  "lideres": [
+    "ammons"
+  ],
+  "grabacion": {
+    "desde": 1960,
+    "hasta": 1960,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1960,
+    "detalle": null
+  },
+  "sello": "Prestige",
+  "musicos": [
+    {
+      "musico": "ammons",
+      "nombre": "Gene Ammons",
+      "instrumento": "saxo tenor"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "souljazz"
+  ],
+  "comentario": [
+    "Con Tommy Flanagan y Ray Barretto: blues y baladas con un tenor gigante."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Boss_Tenor"
+  },
+  "respaldo": []
+}

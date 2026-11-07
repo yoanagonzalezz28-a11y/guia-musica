@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "nordicos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Odyssey Terje Rypdal"
+  },
+  "id": "odyssey-rypdal",
+  "titulo": "Odyssey",
+  "credito": "Terje Rypdal",
+  "lideres": [
+    "rypdal"
+  ],
+  "grabacion": {
+    "desde": 1975,
+    "hasta": 1975,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1975,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "rypdal",
+      "nombre": "Terje Rypdal",
+      "instrumento": "guitarra eléctrica, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Disco doble, con órgano y trombón: largas piezas de atmósfera."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

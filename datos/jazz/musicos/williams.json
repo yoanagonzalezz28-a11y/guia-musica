@@ -39,6 +39,28 @@
         "explicacion": "Su obra más famosa, todavía sin el lugar que merece."
       },
       "discos": []
+    },
+    {
+      "titulo": "Swing",
+      "desde": 1964,
+      "hasta": 1964,
+      "texto": "",
+      "discoClave": {
+        "disco": "black-christ-of-the-andes",
+        "explicacion": "Jazz sacro, dedicado a San Martín de Porres."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Free jazz",
+      "desde": 1975,
+      "hasta": 1975,
+      "texto": "",
+      "discoClave": {
+        "disco": "mary-lou-s-mass",
+        "explicacion": "Una misa en clave de jazz y gospel."
+      },
+      "discos": []
     }
   ],
   "epocasPendientes": [
@@ -60,5 +82,10 @@
       "acceso": "completa",
       "aporta": "Rollins le dio cinco estrellas a \"Mary's Waltz\" en su Blindfold Test, creyendo que era de Ellington."
     }
+  ],
+  "discosEsenciales": [
+    "zodiac-suite",
+    "mary-lou-s-mass",
+    "black-christ-of-the-andes"
   ]
 }

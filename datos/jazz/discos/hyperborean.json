@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "nordicos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Hyperborean Arild Andersen"
+  },
+  "id": "hyperborean",
+  "titulo": "Hyperborean",
+  "credito": "Arild Andersen",
+  "lideres": [
+    "arild-andersen"
+  ],
+  "grabacion": {
+    "desde": 1997,
+    "hasta": 1997,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1997,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "arild-andersen",
+      "nombre": "Arild Andersen",
+      "instrumento": "contrabajo, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Con cuarteto de cuerdas: paisajes amplios y lentos."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

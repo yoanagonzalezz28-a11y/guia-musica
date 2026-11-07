@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Underground Chris Potter"
+  },
+  "id": "underground",
+  "titulo": "Underground",
+  "credito": "Chris Potter",
+  "lideres": [
+    "potter"
+  ],
+  "grabacion": {
+    "desde": 2006,
+    "hasta": 2006,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2006,
+    "detalle": null
+  },
+  "sello": "Sunnyside",
+  "musicos": [
+    {
+      "musico": "potter",
+      "nombre": "Chris Potter",
+      "instrumento": "saxo tenor, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Con Wayne Krantz y Craig Taborn: groove eléctrico sin bajo."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

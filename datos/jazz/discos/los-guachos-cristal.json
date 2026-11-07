@@ -1,0 +1,59 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "rio-de-la-plata",
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3YsL9HfhpFId3BvXmjHfnf",
+    "tituloEnSpotify": "Los Guachos Cristal",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "los-guachos-cristal",
+  "titulo": "Los Guachos Cristal",
+  "credito": "Guillermo Klein",
+  "lideres": [
+    "klein"
+  ],
+  "grabacion": {
+    "desde": 2019,
+    "hasta": 2019,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2019,
+    "detalle": null
+  },
+  "sello": "Sunnyside",
+  "musicos": [
+    {
+      "musico": "klein",
+      "nombre": "Guillermo Klein",
+      "instrumento": "piano, composición, arreglos"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Veinte años después, el grupo sigue sonando nuevo."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

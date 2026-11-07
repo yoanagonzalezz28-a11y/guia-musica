@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "My Favorite Things John Coltrane"
+  },
+  "id": "my-favorite-things",
+  "titulo": "My Favorite Things",
+  "credito": "John Coltrane",
+  "lideres": [
+    "coltrane"
+  ],
+  "grabacion": {
+    "desde": 1961,
+    "hasta": 1961,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1961,
+    "detalle": null
+  },
+  "sello": "Atlantic",
+  "musicos": [
+    {
+      "musico": "coltrane",
+      "nombre": "John Coltrane",
+      "instrumento": "saxo tenor, saxo soprano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "modal"
+  ],
+  "comentario": [
+    "El tema de un musical convertido en un trance modal con saxo soprano."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "My_Favorite_Things_(album)"
+  },
+  "respaldo": []
+}

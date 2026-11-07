@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "mcbride",
+  "nombre": "Christian McBride",
+  "nacimiento": {
+    "anio": 1972,
+    "lugar": "Filadelfia"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "contrabajo",
+    "bajo eléctrico"
+  ],
+  "corrientes": [
+    "neotrad",
+    "hoy"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv",
+  "resumen": "Contrabajista de Filadelfia, uno de los más grabados de su generación: tocó con Freddie Hubbard, Pat Metheny, Chick Corea y Sting. Es también un gran divulgador del jazz.",
+  "epocas": [
+    {
+      "titulo": "Neotradicionalismo",
+      "desde": 1995,
+      "hasta": 1995,
+      "texto": "",
+      "discoClave": {
+        "disco": "gettin-to-it",
+        "explicacion": "Su debut a los 22 años, con Roy Hargrove y Joshua Redman."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2011,
+      "hasta": 2021,
+      "texto": "",
+      "discoClave": {
+        "disco": "the-good-feeling",
+        "explicacion": "Su big band: ganó un Grammy."
+      },
+      "discos": [
+        "but-who-s-gonna-play-the-melody"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-christian-mcbride"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "gettin-to-it",
+    "the-good-feeling",
+    "but-who-s-gonna-play-the-melody",
+    "roundagain"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5jPFmoFsEJ6uGbIAxG3BqX",
+    "tituloEnSpotify": "Latin Tinge",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "latin-tinge",
+  "titulo": "Latin Tinge",
+  "credito": "Cedar Walton",
+  "lideres": [
+    "walton"
+  ],
+  "grabacion": {
+    "desde": 2002,
+    "hasta": 2002,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2002,
+    "detalle": null
+  },
+  "sello": "HighNote",
+  "musicos": [
+    {
+      "musico": "walton",
+      "nombre": "Cedar Walton",
+      "instrumento": "piano, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "latino"
+  ],
+  "comentario": [
+    "Con percusión latina."
+  ],
+  "ids": {
+    "musicbrainz": "d0763a34-f3b4-366a-b897-7b72848193a9",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

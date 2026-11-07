@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "More Blues and the Abstract Truth Oliver Nelson"
+  },
+  "id": "more-blues-and-the-abstract-truth",
+  "titulo": "More Blues and the Abstract Truth",
+  "credito": "Oliver Nelson",
+  "lideres": [
+    "oliver-nelson"
+  ],
+  "grabacion": {
+    "desde": 1964,
+    "hasta": 1964,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1964,
+    "detalle": null
+  },
+  "sello": "Impulse!",
+  "musicos": [
+    {
+      "musico": "oliver-nelson",
+      "nombre": "Oliver Nelson",
+      "instrumento": "saxo, arreglos, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "La continuación, con Thad Jones y Phil Woods."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

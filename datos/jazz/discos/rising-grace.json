@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3OXEbM4AHZQyquxS452avo",
+    "tituloEnSpotify": "Rising Grace",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "rising-grace",
+  "titulo": "Rising Grace",
+  "credito": "Wolfgang Muthspiel",
+  "lideres": [
+    "muthspiel"
+  ],
+  "grabacion": {
+    "desde": 2016,
+    "hasta": 2016,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2016,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "muthspiel",
+      "nombre": "Wolfgang Muthspiel",
+      "instrumento": "guitarra, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Con Ambrose Akinmusire y Brad Mehldau: un quinteto de lujo con mucha calma."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

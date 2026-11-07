@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/59tqiI8OnbxsXlDp6dHeQ8",
+    "tituloEnSpotify": "Avenging Angel",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "avenging-angel",
+  "titulo": "Avenging Angel",
+  "credito": "Craig Taborn",
+  "lideres": [
+    "taborn"
+  ],
+  "grabacion": {
+    "desde": 2011,
+    "hasta": 2011,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2011,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "taborn",
+      "nombre": "Craig Taborn",
+      "instrumento": "piano, electrónica"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Piano solo: piezas que se construyen nota a nota."
+  ],
+  "ids": {
+    "musicbrainz": "7c3fc146-f3b6-4fff-a018-057c5e308c5c",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

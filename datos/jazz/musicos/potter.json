@@ -1,0 +1,67 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "potter",
+  "nombre": "Chris Potter",
+  "nacimiento": {
+    "anio": 1971,
+    "lugar": "Chicago"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "saxo tenor",
+    "composición"
+  ],
+  "corrientes": [
+    "hoy",
+    "ecm"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB",
+  "resumen": "Saxofonista estadounidense de enorme técnica, que tocó con Dave Holland y Pat Metheny. Su tenor combina la potencia de Coltrane con un sentido del groove moderno.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2001,
+      "hasta": 2019,
+      "texto": "",
+      "discoClave": {
+        "disco": "gratitude",
+        "explicacion": "Homenaje a sus saxofonistas favoritos, uno por tema."
+      },
+      "discos": [
+        "underground",
+        "circuits"
+      ]
+    },
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 2015,
+      "hasta": 2017,
+      "texto": "",
+      "discoClave": {
+        "disco": "imaginary-cities",
+        "explicacion": "Con cuarteto de cuerdas: su obra más ambiciosa."
+      },
+      "discos": [
+        "the-dreamer-is-the-dream"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-chris-potter-jazz-saxophonist"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "gratitude",
+    "underground",
+    "imaginary-cities",
+    "the-dreamer-is-the-dream",
+    "circuits"
+  ]
+}

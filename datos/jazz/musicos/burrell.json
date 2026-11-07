@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "burrell",
+  "nombre": "Kenny Burrell",
+  "nacimiento": {
+    "anio": 1931,
+    "lugar": "Detroit"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "guitarra"
+  ],
+  "corrientes": [
+    "hard-bop",
+    "souljazz"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Guitarrista de Detroit, sinónimo del blues elegante. Duke Ellington lo nombró su guitarrista favorito.",
+  "epocas": [
+    {
+      "titulo": "Hard bop",
+      "desde": 1956,
+      "hasta": 1956,
+      "texto": "",
+      "discoClave": {
+        "disco": "introducing-kenny-burrell",
+        "explicacion": "Su debut en Blue Note, con Tommy Flanagan."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Soul jazz",
+      "desde": 1963,
+      "hasta": 1965,
+      "texto": "",
+      "discoClave": {
+        "disco": "midnight-blue",
+        "explicacion": "Con Stanley Turrentine y Ray Barretto: blues nocturno, el disco que definió la guitarra soul jazz."
+      },
+      "discos": [
+        "kenny-burrell-and-john-coltrane",
+        "guitar-forms"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-kenny-burrell"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "midnight-blue",
+    "kenny-burrell-and-john-coltrane",
+    "guitar-forms",
+    "introducing-kenny-burrell"
+  ]
+}

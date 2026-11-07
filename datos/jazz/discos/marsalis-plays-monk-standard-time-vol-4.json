@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7Jv86LD9UZnn4qK9NlEPMP",
+    "tituloEnSpotify": "Marsalis Plays Monk - Standard Time Vol. 4",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "marsalis-plays-monk-standard-time-vol-4",
+  "titulo": "Marsalis Plays Monk: Standard Time Vol. 4",
+  "credito": "Wynton Marsalis",
+  "lideres": [
+    "marsalis"
+  ],
+  "grabacion": {
+    "desde": 1999,
+    "hasta": 1999,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1999,
+    "detalle": null
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "marsalis",
+      "nombre": "Wynton Marsalis",
+      "instrumento": "trompeta, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "neotrad"
+  ],
+  "comentario": [
+    "Monk arreglado para septeto."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

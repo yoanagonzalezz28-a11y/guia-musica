@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Love Cry Albert Ayler"
+  },
+  "id": "love-cry",
+  "titulo": "Love Cry",
+  "credito": "Albert Ayler",
+  "lideres": [
+    "ayler"
+  ],
+  "grabacion": {
+    "desde": 1968,
+    "hasta": 1968,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1968,
+    "detalle": null
+  },
+  "sello": "Impulse!",
+  "musicos": [
+    {
+      "musico": "ayler",
+      "nombre": "Albert Ayler",
+      "instrumento": "saxo tenor"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "free"
+  ],
+  "comentario": [
+    "Más corto y melódico: Ayler en Impulse!, todavía salvaje."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Love_Cry"
+  },
+  "respaldo": []
+}

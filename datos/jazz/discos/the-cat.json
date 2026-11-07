@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6CvGnsHhBjVvGKgmIkpLMs",
+    "tituloEnSpotify": "The Cat",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "the-cat",
+  "titulo": "The Cat",
+  "credito": "Jimmy Smith",
+  "lideres": [
+    "jimmysmith"
+  ],
+  "grabacion": {
+    "desde": 1964,
+    "hasta": 1964,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1964,
+    "detalle": null
+  },
+  "sello": "Verve",
+  "musicos": [
+    {
+      "musico": "jimmysmith",
+      "nombre": "Jimmy Smith",
+      "instrumento": "órgano Hammond"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "souljazz"
+  ],
+  "comentario": [
+    "Órgano con big band arreglada por Lalo Schifrin."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "The_Cat_(album)"
+  },
+  "respaldo": []
+}

@@ -33,6 +33,21 @@
         "disco": "idle-moments",
         "explicacion": "Su disco más recomendado para empezar."
       },
+      "discos": [
+        "street-of-dreams",
+        "green-street",
+        "talkin-about"
+      ]
+    },
+    {
+      "titulo": "Soul jazz",
+      "desde": 1972,
+      "hasta": 1972,
+      "texto": "",
+      "discoClave": {
+        "disco": "live-at-the-lighthouse-green",
+        "explicacion": "Funk caliente en vivo."
+      },
       "discos": []
     }
   ],
@@ -45,5 +60,12 @@
       "acceso": "indirecta",
       "aporta": "Steve Huey lo elige como la mejor entrada a su obra."
     }
+  ],
+  "discosEsenciales": [
+    "idle-moments",
+    "street-of-dreams",
+    "green-street",
+    "talkin-about",
+    "live-at-the-lighthouse-green"
   ]
 }

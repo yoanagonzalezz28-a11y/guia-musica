@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "nordicos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Officium Jan Garbarek"
+  },
+  "id": "officium",
+  "titulo": "Officium",
+  "credito": "Jan Garbarek",
+  "lideres": [
+    "garbarek"
+  ],
+  "grabacion": {
+    "desde": 1994,
+    "hasta": 1994,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1994,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "garbarek",
+      "nombre": "Jan Garbarek",
+      "instrumento": "saxo tenor, saxo soprano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Con el Hilliard Ensemble: canto antiguo y saxo improvisado, un éxito enorme."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Officium_(album)"
+  },
+  "respaldo": []
+}

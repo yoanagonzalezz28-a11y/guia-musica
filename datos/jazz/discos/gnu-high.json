@@ -42,12 +42,12 @@
       "instrumento": "piano"
     },
     {
-      "musico": null,
+      "musico": "holland",
       "nombre": "Dave Holland",
       "instrumento": "contrabajo"
     },
     {
-      "musico": null,
+      "musico": "dejohnette",
       "nombre": "Jack DeJohnette",
       "instrumento": "batería"
     }

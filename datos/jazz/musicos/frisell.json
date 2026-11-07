@@ -1,0 +1,55 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "frisell",
+  "nombre": "Bill Frisell",
+  "nacimiento": {
+    "anio": 1951,
+    "lugar": "Baltimore"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "guitarra"
+  ],
+  "corrientes": [
+    "ecm",
+    "hoy"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5",
+  "resumen": "Guitarrista que mezcla jazz, country, folk y rock con un sonido muy suyo, lleno de efectos sutiles. Empezó en ECM y después se volvió una figura de la música estadounidense en general.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 1993,
+      "hasta": 2014,
+      "texto": "",
+      "discoClave": {
+        "disco": "have-a-little-faith",
+        "explicacion": "Versiones de Copland, Sousa, Dylan y Madonna: un mapa de la música estadounidense."
+      },
+      "discos": [
+        "nashville",
+        "good-dog-happy-man",
+        "all-we-are-saying",
+        "guitar-in-the-space-age"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-bill-frisell"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "have-a-little-faith",
+    "nashville",
+    "good-dog-happy-man",
+    "all-we-are-saying",
+    "guitar-in-the-space-age"
+  ]
+}

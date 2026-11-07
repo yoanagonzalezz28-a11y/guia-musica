@@ -1,0 +1,60 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Monk's Music Thelonious Monk"
+  },
+  "id": "monk-s-music",
+  "titulo": "Monk's Music",
+  "credito": "Thelonious Monk",
+  "lideres": [
+    "monk"
+  ],
+  "grabacion": {
+    "desde": 1957,
+    "hasta": 1957,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1957,
+    "detalle": null
+  },
+  "sello": "Riverside",
+  "musicos": [
+    {
+      "musico": "monk",
+      "nombre": "Thelonious Monk",
+      "instrumento": "piano, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "bebop"
+  ],
+  "comentario": [
+    "Con Coleman Hawkins y John Coltrane: \"Well, You Needn't\" y la famosa llamada a Coltrane en el medio."
+  ],
+  "resenaExtensa": [
+    "En junio de 1957 Monk reunió a dos generaciones de tenores, Hawkins y Coltrane, con Art Blakey en batería. En \"Well, You Needn't\" se lo escucha gritar \"Coltrane, Coltrane!\" para avisarle que le tocaba.",
+    "Es el principio de la época en que Coltrane tocó con Monk en el Five Spot, una experiencia que, según él, le cambió la forma de pensar la armonía."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Monk%27s_Music"
+  },
+  "respaldo": []
+}

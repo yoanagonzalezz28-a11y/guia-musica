@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Empty Bed Blues Bessie Smith"
+  },
+  "id": "empty-bed-blues",
+  "titulo": "Empty Bed Blues",
+  "credito": "Bessie Smith",
+  "lideres": [
+    "bessie"
+  ],
+  "grabacion": {
+    "desde": 1928,
+    "hasta": 1928,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1928,
+    "detalle": null
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "bessie",
+      "nombre": "Bessie Smith",
+      "instrumento": "voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "origenes"
+  ],
+  "comentario": [
+    "Su blues más famoso, con un trombón que contesta a cada verso."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Conquistador! Cecil Taylor"
+  },
+  "id": "conquistador",
+  "titulo": "Conquistador!",
+  "credito": "Cecil Taylor",
+  "lideres": [
+    "taylor"
+  ],
+  "grabacion": {
+    "desde": 1966,
+    "hasta": 1966,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1966,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "taylor",
+      "nombre": "Cecil Taylor",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "free"
+  ],
+  "comentario": [
+    "Con Bill Dixon: dos piezas largas, densas y torrenciales."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Conquistador!"
+  },
+  "respaldo": []
+}

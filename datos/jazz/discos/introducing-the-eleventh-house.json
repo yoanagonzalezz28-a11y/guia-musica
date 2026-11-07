@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Introducing the Eleventh House Larry Coryell"
+  },
+  "id": "introducing-the-eleventh-house",
+  "titulo": "Introducing the Eleventh House",
+  "credito": "Larry Coryell",
+  "lideres": [
+    "coryell"
+  ],
+  "grabacion": {
+    "desde": 1974,
+    "hasta": 1974,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1974,
+    "detalle": null
+  },
+  "sello": "Vanguard",
+  "musicos": [
+    {
+      "musico": "coryell",
+      "nombre": "Larry Coryell",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "fusion"
+  ],
+  "comentario": [
+    "Su banda de fusión: rápida y muy eléctrica."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

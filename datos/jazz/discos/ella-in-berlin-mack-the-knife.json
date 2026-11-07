@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Ella in Berlin: Mack the Knife Ella Fitzgerald"
+  },
+  "id": "ella-in-berlin-mack-the-knife",
+  "titulo": "Ella in Berlin: Mack the Knife",
+  "credito": "Ella Fitzgerald",
+  "lideres": [
+    "fitzgerald"
+  ],
+  "grabacion": {
+    "desde": 1960,
+    "hasta": 1960,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1960,
+    "detalle": null
+  },
+  "sello": "Verve",
+  "musicos": [
+    {
+      "musico": "fitzgerald",
+      "nombre": "Ella Fitzgerald",
+      "instrumento": "voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "Se olvida la letra de \"Mack the Knife\" e improvisa otra: un momento legendario."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Ella_in_Berlin:_Mack_the_Knife"
+  },
+  "respaldo": []
+}

@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "At the Five Spot, Vol. 1 Eric Dolphy"
+  },
+  "id": "at-the-five-spot-vol-1",
+  "titulo": "At the Five Spot, Vol. 1",
+  "credito": "Eric Dolphy",
+  "lideres": [
+    "dolphy"
+  ],
+  "grabacion": {
+    "desde": 1961,
+    "hasta": 1961,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1961,
+    "detalle": null
+  },
+  "sello": "Prestige",
+  "musicos": [
+    {
+      "musico": "dolphy",
+      "nombre": "Eric Dolphy",
+      "instrumento": "saxo alto, clarinete bajo, flauta"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "free"
+  ],
+  "comentario": [
+    "Con Booker Little: una de las grandes noches del jazz en vivo."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

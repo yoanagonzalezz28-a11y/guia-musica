@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1ueFFIHSmbmmi6gkNbo8BJ",
+    "tituloEnSpotify": "Guitar in the Space Age",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "guitar-in-the-space-age",
+  "titulo": "Guitar in the Space Age!",
+  "credito": "Bill Frisell",
+  "lideres": [
+    "frisell"
+  ],
+  "grabacion": {
+    "desde": 2014,
+    "hasta": 2014,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2014,
+    "detalle": null
+  },
+  "sello": "Okeh",
+  "musicos": [
+    {
+      "musico": "frisell",
+      "nombre": "Bill Frisell",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Versiones de guitarra de los 50 y 60, de los Beach Boys a The Kinks."
+  ],
+  "ids": {
+    "musicbrainz": "2eaf5190-8b61-4683-822d-fc49181f6fb6",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

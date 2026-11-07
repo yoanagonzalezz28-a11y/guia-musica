@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "nordicos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Aura Miles Davis"
+  },
+  "id": "aura",
+  "titulo": "Aura",
+  "credito": "Miles Davis",
+  "lideres": [],
+  "grabacion": {
+    "desde": 1989,
+    "hasta": 1989,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1989,
+    "detalle": null
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "mikkelborg",
+      "nombre": "Palle Mikkelborg",
+      "instrumento": "trompeta, composición, arreglos"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "fusion"
+  ],
+  "comentario": [
+    "La suite de Mikkelborg para Miles: cada movimiento lleva el nombre de un color."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

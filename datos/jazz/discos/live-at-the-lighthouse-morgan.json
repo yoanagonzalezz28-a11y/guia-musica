@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Live at the Lighthouse Lee Morgan"
+  },
+  "id": "live-at-the-lighthouse-morgan",
+  "titulo": "Live at the Lighthouse",
+  "credito": "Lee Morgan",
+  "lideres": [
+    "morgan"
+  ],
+  "grabacion": {
+    "desde": 1970,
+    "hasta": 1970,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1970,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "morgan",
+      "nombre": "Lee Morgan",
+      "instrumento": "trompeta"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "modal"
+  ],
+  "comentario": [
+    "Su último gran disco, en vivo: modal y muy intenso."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Live_at_the_Lighthouse_(Lee_Morgan_album)"
+  },
+  "respaldo": []
+}

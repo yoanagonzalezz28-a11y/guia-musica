@@ -1,0 +1,57 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "puerto-rico",
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Palo Pa' Rumba Eddie Palmieri"
+  },
+  "id": "palo-pa-rumba",
+  "titulo": "Palo Pa' Rumba",
+  "credito": "Eddie Palmieri",
+  "lideres": [
+    "palmieri"
+  ],
+  "grabacion": {
+    "desde": 1984,
+    "hasta": 1984,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1984,
+    "detalle": null
+  },
+  "sello": "Música Latina",
+  "musicos": [
+    {
+      "musico": "palmieri",
+      "nombre": "Eddie Palmieri",
+      "instrumento": "piano, dirección"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "latino"
+  ],
+  "comentario": [
+    "Ganó un Grammy: salsa dura con mucha armonía de jazz."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,53 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "coryell",
+  "nombre": "Larry Coryell",
+  "nacimiento": {
+    "anio": 1943,
+    "lugar": "Galveston, Texas"
+  },
+  "muerte": {
+    "anio": 2017
+  },
+  "instrumentos": [
+    "guitarra"
+  ],
+  "corrientes": [
+    "fusion"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Guitarrista llamado a veces \"el padrino de la fusión\": a mediados de los 60 ya mezclaba jazz y rock. Suya es la frase \"We loved Miles but we also loved the Rolling Stones\".",
+  "epocas": [
+    {
+      "titulo": "Fusión",
+      "desde": 1970,
+      "hasta": 1977,
+      "texto": "",
+      "discoClave": {
+        "disco": "spaces",
+        "explicacion": "Con John McLaughlin y Chick Corea: duelo de guitarras eléctricas."
+      },
+      "discos": [
+        "introducing-the-eleventh-house",
+        "twin-house"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-larry-coryell"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "duster",
+    "spaces",
+    "introducing-the-eleventh-house",
+    "twin-house"
+  ]
+}

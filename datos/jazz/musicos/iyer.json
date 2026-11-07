@@ -1,0 +1,66 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "iyer",
+  "nombre": "Vijay Iyer",
+  "nacimiento": {
+    "anio": 1971,
+    "lugar": "Albany, Nueva York"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano",
+    "composición"
+  ],
+  "corrientes": [
+    "hoy",
+    "ecm"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Pianista estadounidense de padres indios, también investigador en música y cognición. Su piano trío trabaja con ritmos complejos y repetitivos, entre el hip hop, la música india y el jazz.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2009,
+      "hasta": 2009,
+      "texto": "",
+      "discoClave": {
+        "disco": "historicity",
+        "explicacion": "Trío con versiones de M.I.A. y Stevie Wonder: ritmos densos."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 2015,
+      "hasta": 2024,
+      "texto": "",
+      "discoClave": {
+        "disco": "break-stuff",
+        "explicacion": "El trío con Stephan Crump y Marcus Gilmore: groove y estructura."
+      },
+      "discos": [
+        "a-cosmic-rhythm-with-each-stroke",
+        "far-from-over",
+        "compassion"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-vijay-iyer"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "historicity",
+    "break-stuff",
+    "a-cosmic-rhythm-with-each-stroke",
+    "far-from-over",
+    "compassion"
+  ]
+}

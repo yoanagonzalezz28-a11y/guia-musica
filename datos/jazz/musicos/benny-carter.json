@@ -1,0 +1,55 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "benny-carter",
+  "nombre": "Benny Carter",
+  "nacimiento": {
+    "anio": 1907,
+    "lugar": "Nueva York"
+  },
+  "muerte": {
+    "anio": 2003
+  },
+  "instrumentos": [
+    "saxo alto",
+    "trompeta",
+    "arreglos"
+  ],
+  "corrientes": [
+    "swing"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Saxofonista alto, trompetista y arreglador cuya carrera duró casi setenta años. Junto con Johnny Hodges definió el saxo alto del swing, y fue uno de los primeros arregladores negros en trabajar en Hollywood.",
+  "epocas": [
+    {
+      "titulo": "Swing",
+      "desde": 1958,
+      "hasta": 1962,
+      "texto": "",
+      "discoClave": {
+        "disco": "further-definitions",
+        "explicacion": "Con Coleman Hawkins: cuatro saxos en arreglos de una elegancia enorme."
+      },
+      "discos": [
+        "jazz-giant-carter",
+        "swingin-the-20s"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-benny-carter"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "further-definitions",
+    "jazz-giant-carter",
+    "swingin-the-20s",
+    "kansas-city-suite"
+  ]
+}

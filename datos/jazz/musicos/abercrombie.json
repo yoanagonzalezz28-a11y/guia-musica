@@ -1,0 +1,55 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "abercrombie",
+  "nombre": "John Abercrombie",
+  "nacimiento": {
+    "anio": 1944,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 2017
+  },
+  "instrumentos": [
+    "guitarra"
+  ],
+  "corrientes": [
+    "ecm"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Guitarrista estadounidense, una de las voces más características de ECM. Su sonido es limpio y lírico, con mucha influencia de Bill Evans.",
+  "epocas": [
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 1975,
+      "hasta": 2013,
+      "texto": "",
+      "discoClave": {
+        "disco": "timeless",
+        "explicacion": "Con Jan Hammer y Jack DeJohnette: fusión rápida y oscura."
+      },
+      "discos": [
+        "characters",
+        "cat-n-mouse",
+        "39-steps"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-john-abercrombie-guitarist"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "timeless",
+    "gateway",
+    "characters",
+    "cat-n-mouse",
+    "39-steps"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/784DdGI83hMQqhFsfjwf96",
+    "tituloEnSpotify": "Nightconcert",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "nightconcert",
+  "titulo": "Nightconcert",
+  "credito": "Erroll Garner",
+  "lideres": [
+    "garner"
+  ],
+  "grabacion": {
+    "desde": 1964,
+    "hasta": 1964,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1964,
+    "detalle": null
+  },
+  "sello": "Mack Avenue",
+  "musicos": [
+    {
+      "musico": "garner",
+      "nombre": "Erroll Garner",
+      "instrumento": "piano, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "Un concierto en Ámsterdam editado décadas después."
+  ],
+  "ids": {
+    "musicbrainz": "2bd9826c-d62b-480c-9cd9-e3f95ea16460",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

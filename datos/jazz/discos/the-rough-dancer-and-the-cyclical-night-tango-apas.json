@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "The Rough Dancer and the Cyclical Night (Tango apasionado) Astor Piazzolla"
+  },
+  "id": "the-rough-dancer-and-the-cyclical-night-tango-apas",
+  "titulo": "The Rough Dancer and the Cyclical Night (Tango apasionado)",
+  "credito": "Astor Piazzolla",
+  "lideres": [
+    "piazzolla"
+  ],
+  "grabacion": {
+    "desde": 1987,
+    "hasta": 1987,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1987,
+    "detalle": null
+  },
+  "sello": "American Clavé",
+  "musicos": [
+    {
+      "musico": "piazzolla",
+      "nombre": "Astor Piazzolla",
+      "instrumento": "bandoneón, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Con Kip Hanrahan: el quinteto con músicos de jazz."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

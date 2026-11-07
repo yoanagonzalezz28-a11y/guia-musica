@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Clifford Brown with Strings Clifford Brown"
+  },
+  "id": "clifford-brown-with-strings",
+  "titulo": "Clifford Brown with Strings",
+  "credito": "Clifford Brown",
+  "lideres": [
+    "brown"
+  ],
+  "grabacion": {
+    "desde": 1955,
+    "hasta": 1955,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1955,
+    "detalle": null
+  },
+  "sello": "EmArcy",
+  "musicos": [
+    {
+      "musico": "brown",
+      "nombre": "Clifford Brown",
+      "instrumento": "trompeta"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Baladas con cuerdas: el sonido redondo y cálido de su trompeta."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Clifford_Brown_with_Strings"
+  },
+  "respaldo": []
+}

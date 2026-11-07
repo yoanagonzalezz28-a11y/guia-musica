@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4dpXhQvZAzAbti2Xpccnat",
+    "tituloEnSpotify": "The Blue Yusef Lateef",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "the-blue-yusef-lateef",
+  "titulo": "The Blue Yusef Lateef",
+  "credito": "Yusef Lateef",
+  "lideres": [
+    "lateef"
+  ],
+  "grabacion": {
+    "desde": 1968,
+    "hasta": 1968,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1968,
+    "detalle": null
+  },
+  "sello": "Atlantic",
+  "musicos": [
+    {
+      "musico": "lateef",
+      "nombre": "Yusef Lateef",
+      "instrumento": "saxo tenor, flauta, oboe"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "souljazz"
+  ],
+  "comentario": [
+    "Blues con voces y koto: un cruce de géneros muy libre."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

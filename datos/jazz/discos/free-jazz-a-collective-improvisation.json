@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Free Jazz: A Collective Improvisation Ornette Coleman"
+  },
+  "id": "free-jazz-a-collective-improvisation",
+  "titulo": "Free Jazz: A Collective Improvisation",
+  "credito": "Ornette Coleman",
+  "lideres": [
+    "ornette"
+  ],
+  "grabacion": {
+    "desde": 1961,
+    "hasta": 1961,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1961,
+    "detalle": null
+  },
+  "sello": "Atlantic",
+  "musicos": [
+    {
+      "musico": "ornette",
+      "nombre": "Ornette Coleman",
+      "instrumento": "saxo alto, trompeta, violín"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "free"
+  ],
+  "comentario": [
+    "Dos cuartetos al mismo tiempo, improvisando 37 minutos: le dio nombre al estilo."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Free_Jazz:_A_Collective_Improvisation"
+  },
+  "respaldo": []
+}

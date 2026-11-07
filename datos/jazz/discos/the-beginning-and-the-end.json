@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2VWBVfXpQ6RPHRwrcAjkOo",
+    "tituloEnSpotify": "The Beginning And The End",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "the-beginning-and-the-end",
+  "titulo": "The Beginning and the End",
+  "credito": "Clifford Brown",
+  "lideres": [
+    "brown"
+  ],
+  "grabacion": {
+    "desde": 1973,
+    "hasta": 1973,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1973,
+    "detalle": null
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "brown",
+      "nombre": "Clifford Brown",
+      "instrumento": "trompeta"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Su primera grabación de 1952 y la última, de 1956, la noche anterior a su muerte."
+  ],
+  "ids": {
+    "musicbrainz": "35f160aa-8c96-3d2f-8186-c15043814666",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

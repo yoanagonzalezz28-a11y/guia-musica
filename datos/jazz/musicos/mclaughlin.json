@@ -33,7 +33,9 @@
       },
       "discos": [
         "emergency",
-        "bitches-brew"
+        "bitches-brew",
+        "my-goal-s-beyond",
+        "birds-of-fire"
       ]
     }
   ],
@@ -49,5 +51,10 @@
       "acceso": "completa",
       "aporta": "Lo ubica entre los fundadores de la fusión."
     }
+  ],
+  "discosEsenciales": [
+    "inner-mounting",
+    "my-goal-s-beyond",
+    "birds-of-fire"
   ]
 }

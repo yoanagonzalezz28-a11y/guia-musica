@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Jelly Roll Morton: Piano Solos Jelly Roll Morton"
+  },
+  "id": "jelly-roll-morton-piano-solos",
+  "titulo": "Jelly Roll Morton: Piano Solos",
+  "credito": "Jelly Roll Morton",
+  "lideres": [
+    "morton"
+  ],
+  "grabacion": {
+    "desde": 1924,
+    "hasta": 1924,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1924,
+    "detalle": null
+  },
+  "sello": "Gennett",
+  "musicos": [
+    {
+      "musico": "morton",
+      "nombre": "Jelly Roll Morton",
+      "instrumento": "piano, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "origenes"
+  ],
+  "comentario": [
+    "Sus piezas para piano solo, como \"King Porter Stomp\"."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "nordicos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "FilmIng Bugge Wesseltoft"
+  },
+  "id": "filming",
+  "titulo": "FilmIng",
+  "credito": "Bugge Wesseltoft",
+  "lideres": [
+    "wesseltoft"
+  ],
+  "grabacion": {
+    "desde": 2004,
+    "hasta": 2004,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2004,
+    "detalle": null
+  },
+  "sello": "Jazzland",
+  "musicos": [
+    {
+      "musico": "wesseltoft",
+      "nombre": "Bugge Wesseltoft",
+      "instrumento": "piano, teclados, electrónica"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Más oscuro y experimental."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

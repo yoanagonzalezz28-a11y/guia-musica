@@ -1,0 +1,53 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "hank-jones",
+  "nombre": "Hank Jones",
+  "nacimiento": {
+    "anio": 1918,
+    "lugar": "Vicksburg, Misisipi"
+  },
+  "muerte": {
+    "anio": 2010
+  },
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "bebop"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Pianista de una elegancia inagotable, hermano de Thad y Elvin Jones. Acompañó a Ella Fitzgerald y tocó durante casi setenta años.",
+  "epocas": [
+    {
+      "titulo": "Bebop",
+      "desde": 1977,
+      "hasta": 2006,
+      "texto": "",
+      "discoClave": {
+        "disco": "west-of-5th",
+        "explicacion": "Grabado con casi 90 años: swing liviano y perfecto."
+      },
+      "discos": [
+        "steal-away",
+        "the-great-jazz-trio-at-the-village-vanguard"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-hank-jones"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "somethin-else",
+    "west-of-5th",
+    "steal-away",
+    "the-great-jazz-trio-at-the-village-vanguard"
+  ]
+}

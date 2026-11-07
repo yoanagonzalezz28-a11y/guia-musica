@@ -31,7 +31,7 @@
       "hasta": 1996,
       "texto": "Nació en Montevideo en 1943. Su primer grupo profesional fue El Kinto, con Eduardo Mateo, donde nació el candombe beat. Después formó Tótem (1970–73), que llevó el candombe al rock y al funk. En Estados Unidos grabó con Opa *Magic Time* (1977), donde compuso con Hugo Fattoruso \"Montevideo\". Desde 1980 vivió en Buenos Aires y tocó en el grupo de jazz Explossion. En 1996 grabó el disco *Montevideo* con músicos de jazz de Nueva York. Es una de las figuras más populares de la música uruguaya.",
       "discoClave": {
-        "disco": "magic-time-opa-rada",
+        "disco": "magic-time-opa",
         "explicacion": "Con Opa; incluye \"Montevideo\"."
       },
       "discos": [
@@ -45,7 +45,7 @@
   ],
   "respaldo": [],
   "discosEsenciales": [
-    "magic-time-opa-rada",
+    "magic-time-opa",
     "montevideo",
     "rada"
   ]

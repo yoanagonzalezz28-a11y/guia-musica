@@ -1,0 +1,60 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "hartman",
+  "nombre": "Johnny Hartman",
+  "nacimiento": {
+    "anio": 1923,
+    "lugar": "Chicago"
+  },
+  "muerte": {
+    "anio": 1983
+  },
+  "instrumentos": [
+    "voz"
+  ],
+  "corrientes": [
+    "modal"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Cantante de barítono profundo y cálido. Su disco con John Coltrane es una de las grabaciones vocales más queridas del jazz.",
+  "epocas": [
+    {
+      "titulo": "Cool",
+      "desde": 1956,
+      "hasta": 1956,
+      "texto": "",
+      "discoClave": {
+        "disco": "songs-from-the-heart",
+        "explicacion": "Con Howard McGhee: su primer disco."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Jazz modal",
+      "desde": 1964,
+      "hasta": 1964,
+      "texto": "",
+      "discoClave": {
+        "disco": "i-just-dropped-by-to-say-hello",
+        "explicacion": "Con Illinois Jacquet y Hank Jones."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-johnny-hartman"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "john-coltrane-and-johnny-hartman",
+    "i-just-dropped-by-to-say-hello",
+    "songs-from-the-heart"
+  ]
+}

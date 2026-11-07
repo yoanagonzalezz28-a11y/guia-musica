@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Mercy, Mercy, Mercy! Live at \"The Club\" Cannonball Adderley"
+  },
+  "id": "mercy-mercy-mercy-live-at-the-club",
+  "titulo": "Mercy, Mercy, Mercy! Live at \"The Club\"",
+  "credito": "Cannonball Adderley",
+  "lideres": [
+    "adderley"
+  ],
+  "grabacion": {
+    "desde": 1966,
+    "hasta": 1966,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1966,
+    "detalle": null
+  },
+  "sello": "Capitol",
+  "musicos": [
+    {
+      "musico": "adderley",
+      "nombre": "Cannonball Adderley",
+      "instrumento": "saxo alto"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "souljazz"
+  ],
+  "comentario": [
+    "El tema de Joe Zawinul se volvió un éxito: soul jazz con piano eléctrico."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Mercy,_Mercy,_Mercy!_Live_at_%22The_Club%22"
+  },
+  "respaldo": []
+}

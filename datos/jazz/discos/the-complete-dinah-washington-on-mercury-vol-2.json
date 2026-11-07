@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": true,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2ijZDafBX3xtZSGUkxccZ6",
+    "tituloEnSpotify": "The Complete Dinah Washington On Mercury Vol. 2 (1950-1952)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "the-complete-dinah-washington-on-mercury-vol-2",
+  "titulo": "The Complete Dinah Washington on Mercury, Vol. 2",
+  "credito": "Dinah Washington",
+  "lideres": [
+    "dinah"
+  ],
+  "grabacion": {
+    "desde": 1987,
+    "hasta": 1987,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1987,
+    "detalle": null
+  },
+  "sello": "Mercury",
+  "musicos": [
+    {
+      "musico": "dinah",
+      "nombre": "Dinah Washington",
+      "instrumento": "voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "Sus grabaciones de 1950 a 1952."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Bags Meets Wes! Milt Jackson"
+  },
+  "id": "bags-meets-wes",
+  "titulo": "Bags Meets Wes!",
+  "credito": "Milt Jackson",
+  "lideres": [
+    "milt-jackson"
+  ],
+  "grabacion": {
+    "desde": 1962,
+    "hasta": 1962,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1962,
+    "detalle": null
+  },
+  "sello": "Riverside",
+  "musicos": [
+    {
+      "musico": "milt-jackson",
+      "nombre": "Milt Jackson",
+      "instrumento": "vibráfono"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Con Wes Montgomery: vibráfono y guitarra en estado de gracia."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

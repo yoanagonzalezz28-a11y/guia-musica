@@ -1,0 +1,60 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "The Savoy Recordings Charlie Parker"
+  },
+  "id": "the-savoy-recordings",
+  "titulo": "The Savoy Recordings",
+  "credito": "Charlie Parker",
+  "lideres": [
+    "parker"
+  ],
+  "grabacion": {
+    "desde": 1945,
+    "hasta": 1945,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1945,
+    "detalle": null
+  },
+  "sello": "Savoy",
+  "musicos": [
+    {
+      "musico": "parker",
+      "nombre": "Charlie Parker",
+      "instrumento": "saxo alto"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "bebop"
+  ],
+  "comentario": [
+    "Las sesiones que fundaron el bebop, con Miles Davis y Max Roach: \"Ko-Ko\" y \"Now's the Time\"."
+  ],
+  "resenaExtensa": [
+    "En noviembre de 1945 Parker grabó para Savoy con un Miles Davis de diecinueve años; Dizzy Gillespie tocó el piano en algunos temas y la trompeta en \"Ko-Ko\".",
+    "Son grabaciones cortas, de tres minutos, pensadas para discos de 78 rpm. Ahí está el bebop en estado puro: tempos vertiginosos y melodías que salen de los acordes de estándares."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

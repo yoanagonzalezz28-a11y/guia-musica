@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Mare Nostrum Paolo Fresu"
+  },
+  "id": "mare-nostrum",
+  "titulo": "Mare Nostrum",
+  "credito": "Paolo Fresu",
+  "lideres": [
+    "fresu"
+  ],
+  "grabacion": {
+    "desde": 2007,
+    "hasta": 2007,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2007,
+    "detalle": null
+  },
+  "sello": "ACT Music",
+  "musicos": [
+    {
+      "musico": "fresu",
+      "nombre": "Paolo Fresu",
+      "instrumento": "trompeta, fliscorno"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Con Richard Galliano y Jan Lundgren: trío mediterráneo de trompeta, acordeón y piano."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

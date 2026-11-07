@@ -1,0 +1,57 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos",
+    "cuba"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Earfood Roy Hargrove"
+  },
+  "id": "earfood",
+  "titulo": "Earfood",
+  "credito": "Roy Hargrove",
+  "lideres": [
+    "hargrove"
+  ],
+  "grabacion": {
+    "desde": 2008,
+    "hasta": 2008,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2008,
+    "detalle": null
+  },
+  "sello": "EmArcy",
+  "musicos": [
+    {
+      "musico": "hargrove",
+      "nombre": "Roy Hargrove",
+      "instrumento": "trompeta, fliscorno"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "neotrad"
+  ],
+  "comentario": [
+    "Quinteto acústico: hard bop moderno y baladas."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3rEExGtWJZ5uRXNKaCgKDl",
+    "tituloEnSpotify": "Milt Jackson And The Thelonious Monk Quintet (Expanded Edition)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "milt-jackson-and-the-thelonious-monk-quintet",
+  "titulo": "Milt Jackson and the Thelonious Monk Quintet",
+  "credito": "Milt Jackson",
+  "lideres": [
+    "milt-jackson"
+  ],
+  "grabacion": {
+    "desde": 1952,
+    "hasta": 1952,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1952,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "milt-jackson",
+      "nombre": "Milt Jackson",
+      "instrumento": "vibráfono"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "bebop"
+  ],
+  "comentario": [
+    "Las sesiones de 1948 y 1952 con Monk."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

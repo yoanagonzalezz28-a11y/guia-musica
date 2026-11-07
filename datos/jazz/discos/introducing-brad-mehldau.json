@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3Xof3jYaVXRtGnmiREePG1",
+    "tituloEnSpotify": "Introducing Brad Mehldau",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "introducing-brad-mehldau",
+  "titulo": "Introducing Brad Mehldau",
+  "credito": "Brad Mehldau",
+  "lideres": [
+    "mehldau"
+  ],
+  "grabacion": {
+    "desde": 1995,
+    "hasta": 1995,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1995,
+    "detalle": null
+  },
+  "sello": "Warner Bros.",
+  "musicos": [
+    {
+      "musico": "mehldau",
+      "nombre": "Brad Mehldau",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Su debut: dos tríos, ya con mucha voz propia."
+  ],
+  "ids": {
+    "musicbrainz": "bb146b3c-aa7e-3230-b587-028ab29e6e6e",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

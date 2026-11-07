@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7FPGRxgQD2GP5q3x3i5YrQ",
+    "tituloEnSpotify": "After You've Gone",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "after-you-ve-gone",
+  "titulo": "After You've Gone",
+  "credito": "Benny Goodman",
+  "lideres": [
+    "goodman"
+  ],
+  "grabacion": {
+    "desde": 1937,
+    "hasta": 1937,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1937,
+    "detalle": null
+  },
+  "sello": "Victor",
+  "musicos": [
+    {
+      "musico": "goodman",
+      "nombre": "Benny Goodman",
+      "instrumento": "clarinete, dirección"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "Su trío y cuarteto con Teddy Wilson y Lionel Hampton: el primer grupo racialmente integrado de gran fama."
+  ],
+  "ids": {
+    "musicbrainz": "6e829a78-2892-4c9c-89f5-d2bd818df797",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

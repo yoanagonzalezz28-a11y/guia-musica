@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4Bxg4OFb2wA6IjoeuWilRF",
+    "tituloEnSpotify": "Solo Monk (Expanded Edition)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "solo-monk",
+  "titulo": "Solo Monk",
+  "credito": "Thelonious Monk",
+  "lideres": [
+    "monk"
+  ],
+  "grabacion": {
+    "desde": 1965,
+    "hasta": 1965,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1965,
+    "detalle": null
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "monk",
+      "nombre": "Thelonious Monk",
+      "instrumento": "piano, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "bebop"
+  ],
+  "comentario": [
+    "Piano solo: la mejor forma de escuchar su armonía rara y sus silencios."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Solo_Monk"
+  },
+  "respaldo": []
+}

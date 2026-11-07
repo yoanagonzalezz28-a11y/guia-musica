@@ -1,0 +1,59 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "puerto-rico",
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7qWQnMHLzLwRjGvum2xpPX",
+    "tituloEnSpotify": "Tipico",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "tipico",
+  "titulo": "Típico",
+  "credito": "Miguel Zenón",
+  "lideres": [
+    "zenon"
+  ],
+  "grabacion": {
+    "desde": 2017,
+    "hasta": 2017,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2017,
+    "detalle": null
+  },
+  "sello": "Miel Music",
+  "musicos": [
+    {
+      "musico": "zenon",
+      "nombre": "Miguel Zenón",
+      "instrumento": "saxo alto, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "latino"
+  ],
+  "comentario": [
+    "El cuarteto tocando temas propios con mucho groove."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

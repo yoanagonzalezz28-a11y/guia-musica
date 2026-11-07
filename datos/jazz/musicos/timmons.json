@@ -1,0 +1,55 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "timmons",
+  "nombre": "Bobby Timmons",
+  "nacimiento": {
+    "anio": 1935,
+    "lugar": "Filadelfia"
+  },
+  "muerte": {
+    "anio": 1974
+  },
+  "instrumentos": [
+    "piano",
+    "composición"
+  ],
+  "corrientes": [
+    "hard-bop",
+    "souljazz"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC",
+  "resumen": "Pianista que llevó el gospel al hard bop. Compuso \"Moanin'\" para los Jazz Messengers y \"Dat Dere\" y \"This Here\" para Cannonball Adderley.",
+  "epocas": [
+    {
+      "titulo": "Soul jazz",
+      "desde": 1960,
+      "hasta": 1964,
+      "texto": "",
+      "discoClave": {
+        "disco": "this-here-is-bobby-timmons",
+        "explicacion": "Trío con sus temas más famosos: piano de iglesia con swing."
+      },
+      "discos": [
+        "little-barefoot-soul",
+        "soul-time"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-bobby-timmons"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "this-here-is-bobby-timmons",
+    "little-barefoot-soul",
+    "moanin",
+    "soul-time"
+  ]
+}

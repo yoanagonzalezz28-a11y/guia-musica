@@ -1,0 +1,52 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "golson",
+  "nombre": "Benny Golson",
+  "nacimiento": {
+    "anio": 1929,
+    "lugar": "Filadelfia"
+  },
+  "muerte": {
+    "anio": 2024
+  },
+  "instrumentos": [
+    "saxo tenor",
+    "composición"
+  ],
+  "corrientes": [
+    "hard-bop"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG",
+  "resumen": "Saxofonista y compositor de temas que se volvieron estándares: \"Whisper Not\", \"Along Came Betty\", \"I Remember Clifford\" y \"Killer Joe\". Fue director musical de los Jazz Messengers.",
+  "epocas": [
+    {
+      "titulo": "Hard bop",
+      "desde": 1958,
+      "hasta": 1960,
+      "texto": "",
+      "discoClave": {
+        "disco": "benny-golson-and-the-philadelphians",
+        "explicacion": "Con Lee Morgan y Ray Bryant: hard bop de Filadelfia."
+      },
+      "discos": [
+        "meet-the-jazztet"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-benny-golson"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "benny-golson-and-the-philadelphians",
+    "meet-the-jazztet",
+    "moanin"
+  ]
+}

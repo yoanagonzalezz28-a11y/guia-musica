@@ -1,0 +1,38 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "mikkelborg",
+  "nombre": "Palle Mikkelborg",
+  "nacimiento": {
+    "anio": 1941,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "trompeta",
+    "composición",
+    "arreglos"
+  ],
+  "corrientes": [
+    "ecm"
+  ],
+  "regiones": [
+    "nordicos"
+  ],
+  "spotify": null,
+  "resumen": "Trompetista y compositor danés. Compuso *Aura*, la obra orquestal que Miles Davis grabó en Copenhague en 1985, uno de los últimos grandes proyectos de Miles.",
+  "epocas": [],
+  "fuentes": [
+    "wp-palle-mikkelborg"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "aura",
+    "once-upon-a-time-far-away-in-the-south",
+    "returnings",
+    "waves"
+  ]
+}

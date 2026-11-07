@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7N3ZysMrLSuJAtPPCjCba0",
+    "tituloEnSpotify": "Concierto (CTI Records 40th Anniversary Edition)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "concierto",
+  "titulo": "Concierto",
+  "credito": "Jim Hall",
+  "lideres": [
+    "jim-hall"
+  ],
+  "grabacion": {
+    "desde": 1975,
+    "hasta": 1975,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1975,
+    "detalle": null
+  },
+  "sello": "CTI",
+  "musicos": [
+    {
+      "musico": "jim-hall",
+      "nombre": "Jim Hall",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "cool"
+  ],
+  "comentario": [
+    "Con Chet Baker y Paul Desmond: el Concierto de Aranjuez en clave de jazz."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Concierto_(Jim_Hall_album)"
+  },
+  "respaldo": []
+}

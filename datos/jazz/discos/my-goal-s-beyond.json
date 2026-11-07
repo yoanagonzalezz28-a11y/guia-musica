@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3zOgms6p35ToZug0MPmEub",
+    "tituloEnSpotify": "My Goal's Beyond",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "my-goal-s-beyond",
+  "titulo": "My Goal's Beyond",
+  "credito": "John McLaughlin",
+  "lideres": [
+    "mclaughlin"
+  ],
+  "grabacion": {
+    "desde": 1971,
+    "hasta": 1971,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1971,
+    "detalle": null
+  },
+  "sello": "Douglas",
+  "musicos": [
+    {
+      "musico": "mclaughlin",
+      "nombre": "John McLaughlin",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "fusion"
+  ],
+  "comentario": [
+    "Guitarra acústica: un lado solo y otro con percusión india."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

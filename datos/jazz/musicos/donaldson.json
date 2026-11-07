@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "donaldson",
+  "nombre": "Lou Donaldson",
+  "nacimiento": {
+    "anio": 1926,
+    "lugar": "Badin, Carolina del Norte"
+  },
+  "muerte": {
+    "anio": 2024
+  },
+  "instrumentos": [
+    "saxo alto"
+  ],
+  "corrientes": [
+    "hard-bop",
+    "souljazz"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Saxofonista alto de Blue Note que pasó del bebop parkeriano al soul jazz con órgano.",
+  "epocas": [
+    {
+      "titulo": "Soul jazz",
+      "desde": 1958,
+      "hasta": 1969,
+      "texto": "",
+      "discoClave": {
+        "disco": "blues-walk",
+        "explicacion": "Con Ray Barretto en congas: blues relajado y un groove irresistible."
+      },
+      "discos": [
+        "alligator-bogaloo",
+        "say-it-loud"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-lou-donaldson"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "blues-walk",
+    "alligator-bogaloo",
+    "say-it-loud",
+    "a-night-at-birdland-1"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "webb",
+  "nombre": "Chick Webb",
+  "nacimiento": {
+    "anio": 1905,
+    "lugar": "Baltimore"
+  },
+  "muerte": {
+    "anio": 1939
+  },
+  "instrumentos": [
+    "batería",
+    "dirección"
+  ],
+  "corrientes": [
+    "swing"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Baterista y director que, a pesar de una enfermedad de la columna, fue el rey del Savoy Ballroom de Harlem. Descubrió a Ella Fitzgerald.",
+  "epocas": [
+    {
+      "titulo": "Swing",
+      "desde": 1934,
+      "hasta": 1994,
+      "texto": "",
+      "discoClave": {
+        "disco": "stompin-at-the-savoy",
+        "explicacion": "La orquesta que hacía bailar al Savoy: batería explosiva y arreglos de Edgar Sampson."
+      },
+      "discos": [
+        "a-tisket-a-tasket",
+        "spinnin-the-webb"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-chick-webb"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "stompin-at-the-savoy",
+    "a-tisket-a-tasket",
+    "spinnin-the-webb"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "nordicos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "From Gagarin's Point of View Esbjörn Svensson"
+  },
+  "id": "from-gagarin-s-point-of-view",
+  "titulo": "From Gagarin's Point of View",
+  "credito": "Esbjörn Svensson",
+  "lideres": [
+    "svensson"
+  ],
+  "grabacion": {
+    "desde": 1999,
+    "hasta": 1999,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1999,
+    "detalle": null
+  },
+  "sello": "ACT Music",
+  "musicos": [
+    {
+      "musico": "svensson",
+      "nombre": "Esbjörn Svensson",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "El disco con el que el trío salió de Suecia."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "medio-oriente"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5lmVJX32hZzCHAf3uYVifn",
+    "tituloEnSpotify": "Human",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "human",
+  "titulo": "Human",
+  "credito": "Shai Maestro",
+  "lideres": [
+    "maestro"
+  ],
+  "grabacion": {
+    "desde": 2021,
+    "hasta": 2021,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2021,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "maestro",
+      "nombre": "Shai Maestro",
+      "instrumento": "piano, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Con el trompetista Philip Dizack."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

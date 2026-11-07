@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "india"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Abstract Joe Harriott"
+  },
+  "id": "abstract",
+  "titulo": "Abstract",
+  "credito": "Joe Harriott",
+  "lideres": [
+    "harriott"
+  ],
+  "grabacion": {
+    "desde": 1962,
+    "hasta": 1962,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1962,
+    "detalle": null
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "harriott",
+      "nombre": "Joe Harriott",
+      "instrumento": "saxo alto"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "free"
+  ],
+  "comentario": [
+    "Continúa la idea: tiempos libres y diálogo colectivo."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

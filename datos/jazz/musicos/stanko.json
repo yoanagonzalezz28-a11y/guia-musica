@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "stanko",
+  "nombre": "Tomasz Stańko",
+  "nacimiento": {
+    "anio": 1942,
+    "lugar": "Rzeszów"
+  },
+  "muerte": {
+    "anio": 2018
+  },
+  "instrumentos": [
+    "trompeta",
+    "composición"
+  ],
+  "corrientes": [
+    "ecm",
+    "mundo"
+  ],
+  "regiones": [
+    "europa-este"
+  ],
+  "spotify": null,
+  "resumen": "Trompetista polaco que se formó en el quinteto de Krzysztof Komeda. Su sonido es oscuro y desgarrado, con mucho aire, y sus discos para ECM de los 90 y 2000 lo convirtieron en una de las grandes voces del jazz europeo.",
+  "epocas": [
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 1976,
+      "hasta": 2009,
+      "texto": "",
+      "discoClave": {
+        "disco": "balladyna",
+        "explicacion": "Su primer disco para ECM, con Tomasz Szukalski y Dave Holland."
+      },
+      "discos": [
+        "litania",
+        "from-the-green-hill",
+        "soul-of-things",
+        "dark-eyes"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-tomasz-stanko"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "balladyna",
+    "litania",
+    "from-the-green-hill",
+    "soul-of-things",
+    "dark-eyes"
+  ]
+}

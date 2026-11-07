@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Le Voyage Paul Motian"
+  },
+  "id": "le-voyage",
+  "titulo": "Le Voyage",
+  "credito": "Paul Motian",
+  "lideres": [
+    "motian"
+  ],
+  "grabacion": {
+    "desde": 1979,
+    "hasta": 1979,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1979,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "motian",
+      "nombre": "Paul Motian",
+      "instrumento": "batería, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Trío con Charles Brackeen y J. F. Jenny-Clark."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

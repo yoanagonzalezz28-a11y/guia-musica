@@ -1,0 +1,52 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "gogo-penguin",
+  "nombre": "GoGo Penguin",
+  "nacimiento": {
+    "anio": null,
+    "lugar": "Mánchester"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano trío"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "regiones": [],
+  "spotify": null,
+  "resumen": "Trío inglés de piano, contrabajo y batería que toca como una banda de electrónica: patrones repetidos, mucha energía y un sonido muy limpio.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2014,
+      "hasta": 2023,
+      "texto": "",
+      "discoClave": {
+        "disco": "v2-0",
+        "explicacion": "El disco que los hizo conocidos: piano trío con lógica de drum and bass."
+      },
+      "discos": [
+        "man-made-object",
+        "a-humdrum-star",
+        "gogo-penguin",
+        "everything-is-going-to-be-ok"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-gogo-penguin"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "v2-0",
+    "man-made-object",
+    "a-humdrum-star",
+    "gogo-penguin",
+    "everything-is-going-to-be-ok"
+  ]
+}

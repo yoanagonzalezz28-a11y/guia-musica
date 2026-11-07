@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6NU2QVQoxMneX6Z7uhTwzm",
+    "tituloEnSpotify": "Jazz Poet",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "jazz-poet",
+  "titulo": "Jazz Poet",
+  "credito": "Tommy Flanagan",
+  "lideres": [
+    "flanagan"
+  ],
+  "grabacion": {
+    "desde": 1989,
+    "hasta": 1989,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1989,
+    "detalle": null
+  },
+  "sello": "Timeless",
+  "musicos": [
+    {
+      "musico": "flanagan",
+      "nombre": "Tommy Flanagan",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "bebop"
+  ],
+  "comentario": [
+    "Su trío tardío con George Mraz y Kenny Washington: madurez total."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

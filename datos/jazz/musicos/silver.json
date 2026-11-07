@@ -59,7 +59,9 @@
         "disco": "song-for-my-father",
         "explicacion": "Su tema más conocido, en un disco que registra el cambio entre dos formaciones."
       },
-      "discos": []
+      "discos": [
+        "the-cape-verdean-blues"
+      ]
     }
   ],
   "fuentes": [
@@ -86,5 +88,11 @@
       "acceso": "completa",
       "aporta": "Kevin Whitehead explica su lugar entre el bebop, el blues y el gospel."
     }
+  ],
+  "discosEsenciales": [
+    "horace-silver-and-the-jazz-messengers",
+    "blowin-the-blues-away",
+    "song-for-my-father",
+    "the-cape-verdean-blues"
   ]
 }

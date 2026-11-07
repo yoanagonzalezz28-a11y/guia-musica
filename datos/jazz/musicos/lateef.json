@@ -1,0 +1,77 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "lateef",
+  "nombre": "Yusef Lateef",
+  "nacimiento": {
+    "anio": 1920,
+    "lugar": "Chattanooga, Tennessee"
+  },
+  "muerte": {
+    "anio": 2013
+  },
+  "instrumentos": [
+    "saxo tenor",
+    "flauta",
+    "oboe"
+  ],
+  "corrientes": [
+    "hard-bop",
+    "mundo"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq",
+  "resumen": "Multiinstrumentista que, en los años 50, ya traía al jazz el oboe, la flauta de bambú y escalas de Medio Oriente y de la India, mucho antes de que se hablara de música del mundo.",
+  "epocas": [
+    {
+      "titulo": "Hard bop",
+      "desde": 1957,
+      "hasta": 1957,
+      "texto": "",
+      "discoClave": {
+        "disco": "jazz-moods",
+        "explicacion": "Su primer disco, con percusiones y escalas no occidentales."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 1961,
+      "hasta": 1965,
+      "texto": "",
+      "discoClave": {
+        "disco": "eastern-sounds",
+        "explicacion": "Oboe, flauta y escalas orientales: un adelantado del jazz con músicas del mundo."
+      },
+      "discos": [
+        "psychicemotus"
+      ]
+    },
+    {
+      "titulo": "Soul jazz",
+      "desde": 1968,
+      "hasta": 1968,
+      "texto": "",
+      "discoClave": {
+        "disco": "the-blue-yusef-lateef",
+        "explicacion": "Blues con voces y koto: un cruce de géneros muy libre."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-yusef-lateef"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "eastern-sounds",
+    "psychicemotus",
+    "the-blue-yusef-lateef",
+    "jazz-moods"
+  ]
+}

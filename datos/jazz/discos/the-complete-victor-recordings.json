@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": true,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "The Complete Victor Recordings Jelly Roll Morton"
+  },
+  "id": "the-complete-victor-recordings",
+  "titulo": "The Complete Victor Recordings",
+  "credito": "Jelly Roll Morton",
+  "lideres": [
+    "morton"
+  ],
+  "grabacion": {
+    "desde": 1926,
+    "hasta": 1926,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1926,
+    "detalle": null
+  },
+  "sello": "Victor",
+  "musicos": [
+    {
+      "musico": "morton",
+      "nombre": "Jelly Roll Morton",
+      "instrumento": "piano, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "origenes"
+  ],
+  "comentario": [
+    "Sus Red Hot Peppers: el jazz de Nueva Orleans arreglado con un cuidado increíble."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

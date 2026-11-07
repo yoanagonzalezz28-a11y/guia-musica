@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h",
+    "tituloEnSpotify": "Benny Golson And The Philadelphians",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "benny-golson-and-the-philadelphians",
+  "titulo": "Benny Golson and the Philadelphians",
+  "credito": "Benny Golson",
+  "lideres": [
+    "golson"
+  ],
+  "grabacion": {
+    "desde": 1958,
+    "hasta": 1958,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1958,
+    "detalle": null
+  },
+  "sello": "United Artists",
+  "musicos": [
+    {
+      "musico": "golson",
+      "nombre": "Benny Golson",
+      "instrumento": "saxo tenor, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Con Lee Morgan y Ray Bryant: hard bop de Filadelfia."
+  ],
+  "ids": {
+    "musicbrainz": "6c903d83-0bb4-3128-bc55-582e08535482",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

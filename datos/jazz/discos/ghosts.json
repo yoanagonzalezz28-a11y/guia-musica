@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/42ONdbrCbtrNR7xsMCucYT",
+    "tituloEnSpotify": "Ghosts",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "ghosts",
+  "titulo": "Ghosts",
+  "credito": "Albert Ayler",
+  "lideres": [
+    "ayler"
+  ],
+  "grabacion": {
+    "desde": 1965,
+    "hasta": 1965,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1965,
+    "detalle": null
+  },
+  "sello": "Debut",
+  "musicos": [
+    {
+      "musico": "ayler",
+      "nombre": "Albert Ayler",
+      "instrumento": "saxo tenor"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "free"
+  ],
+  "comentario": [
+    "La melodía folclórica de \"Ghosts\" se rompe en un grito colectivo."
+  ],
+  "ids": {
+    "musicbrainz": "550b5b69-52c4-3846-9c45-54d69ac585d5",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

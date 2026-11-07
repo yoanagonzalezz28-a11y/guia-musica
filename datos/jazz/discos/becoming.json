@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2ndDhPpR5sSsbtlJtsXCqi",
+    "tituloEnSpotify": "Becoming (Music from the Netflix Original Documentary)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "becoming",
+  "titulo": "Becoming",
+  "credito": "Kamasi Washington",
+  "lideres": [
+    "washington"
+  ],
+  "grabacion": {
+    "desde": 2020,
+    "hasta": 2020,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2020,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "washington",
+      "nombre": "Kamasi Washington",
+      "instrumento": "saxo tenor, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "La música del documental sobre Michelle Obama."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

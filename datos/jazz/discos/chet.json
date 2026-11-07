@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Chet Chet Baker"
+  },
+  "id": "chet",
+  "titulo": "Chet",
+  "credito": "Chet Baker",
+  "lideres": [
+    "baker"
+  ],
+  "grabacion": {
+    "desde": 1959,
+    "hasta": 1959,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1959,
+    "detalle": null
+  },
+  "sello": "Riverside",
+  "musicos": [
+    {
+      "musico": "baker",
+      "nombre": "Chet Baker",
+      "instrumento": "trompeta, voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "cool"
+  ],
+  "comentario": [
+    "Baladas con Bill Evans y Pepper Adams: la trompeta más íntima del jazz."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Chet_(album)"
+  },
+  "respaldo": []
+}

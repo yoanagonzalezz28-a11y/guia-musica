@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX",
+    "tituloEnSpotify": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "art-pepper-meets-the-rhythm-section",
+  "titulo": "Art Pepper Meets the Rhythm Section",
+  "credito": "Art Pepper",
+  "lideres": [
+    "pepper"
+  ],
+  "grabacion": {
+    "desde": 1957,
+    "hasta": 1957,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1957,
+    "detalle": null
+  },
+  "sello": "Contemporary",
+  "musicos": [
+    {
+      "musico": "pepper",
+      "nombre": "Art Pepper",
+      "instrumento": "saxo alto"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "cool"
+  ],
+  "comentario": [
+    "Con la sección rítmica de Miles Davis: uno de los grandes discos de la costa oeste."
+  ],
+  "ids": {
+    "musicbrainz": "5dc7981a-c20f-361b-8365-ad677ba41b7a",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Art_Pepper_Meets_the_Rhythm_Section"
+  },
+  "respaldo": []
+}

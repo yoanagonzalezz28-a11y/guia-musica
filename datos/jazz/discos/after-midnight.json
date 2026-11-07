@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "After Midnight Nat King Cole"
+  },
+  "id": "after-midnight",
+  "titulo": "After Midnight",
+  "credito": "Nat King Cole",
+  "lideres": [
+    "nat-cole"
+  ],
+  "grabacion": {
+    "desde": 1957,
+    "hasta": 1957,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1957,
+    "detalle": null
+  },
+  "sello": "Capitol",
+  "musicos": [
+    {
+      "musico": "nat-cole",
+      "nombre": "Nat King Cole",
+      "instrumento": "piano, voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "Vuelve al jazz con su trío e invitados como Harry Edison: el disco preferido de los jazzeros."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "After_Midnight_(Nat_King_Cole_album)"
+  },
+  "respaldo": []
+}

@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "nordicos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Sagn Arild Andersen"
+  },
+  "id": "sagn",
+  "titulo": "Sagn",
+  "credito": "Arild Andersen",
+  "lideres": [
+    "arild-andersen"
+  ],
+  "grabacion": {
+    "desde": 1990,
+    "hasta": 1990,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1990,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "arild-andersen",
+      "nombre": "Arild Andersen",
+      "instrumento": "contrabajo, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Basado en melodías tradicionales noruegas, con la cantante Kirsten Bråten Berg: folclore y jazz de cámara."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

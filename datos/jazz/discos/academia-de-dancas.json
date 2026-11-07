@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "brasil"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Academia de Danças Egberto Gismonti"
+  },
+  "id": "academia-de-dancas",
+  "titulo": "Academia de Danças",
+  "credito": "Egberto Gismonti",
+  "lideres": [
+    "gismonti"
+  ],
+  "grabacion": {
+    "desde": 1974,
+    "hasta": 1974,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1974,
+    "detalle": null
+  },
+  "sello": "EMI-Odeon",
+  "musicos": [
+    {
+      "musico": "gismonti",
+      "nombre": "Egberto Gismonti",
+      "instrumento": "guitarra, piano, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "brasil"
+  ],
+  "comentario": [
+    "Antes de ECM: orquesta, piano y canciones muy ambiciosas."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

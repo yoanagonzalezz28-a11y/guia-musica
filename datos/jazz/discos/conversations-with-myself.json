@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": "521 409-2",
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0ywH1xIEZYFlvO3cSQbNbv",
+    "tituloEnSpotify": "Conversations With Myself",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "conversations-with-myself",
+  "titulo": "Conversations with Myself",
+  "credito": "Bill Evans",
+  "lideres": [
+    "evans"
+  ],
+  "grabacion": {
+    "desde": 1963,
+    "hasta": 1963,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1963,
+    "detalle": null
+  },
+  "sello": "Verve",
+  "musicos": [
+    {
+      "musico": "evans",
+      "nombre": "Bill Evans",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "cool"
+  ],
+  "comentario": [
+    "Grabó tres pianos superpuestos: el resultado es denso y ganó un Grammy."
+  ],
+  "ids": {
+    "musicbrainz": "db235c76-1560-30dd-9a92-94c71440fd91",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Conversations_with_Myself"
+  },
+  "respaldo": []
+}

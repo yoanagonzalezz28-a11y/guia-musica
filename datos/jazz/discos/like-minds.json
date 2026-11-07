@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Like Minds Gary Burton"
+  },
+  "id": "like-minds",
+  "titulo": "Like Minds",
+  "credito": "Gary Burton",
+  "lideres": [
+    "burton"
+  ],
+  "grabacion": {
+    "desde": 1998,
+    "hasta": 1998,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1998,
+    "detalle": null
+  },
+  "sello": "Concord",
+  "musicos": [
+    {
+      "musico": "burton",
+      "nombre": "Gary Burton",
+      "instrumento": "vibráfono"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Con Corea, Metheny, Holland y Roy Haynes: ganó un Grammy."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

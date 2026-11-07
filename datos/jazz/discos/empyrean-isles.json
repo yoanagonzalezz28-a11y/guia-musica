@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu",
+    "tituloEnSpotify": "Empyrean Isles (Expanded Edition)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "empyrean-isles",
+  "titulo": "Empyrean Isles",
+  "credito": "Herbie Hancock",
+  "lideres": [
+    "hancock"
+  ],
+  "grabacion": {
+    "desde": 1964,
+    "hasta": 1964,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1964,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "hancock",
+      "nombre": "Herbie Hancock",
+      "instrumento": "piano, teclados, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "modal"
+  ],
+  "comentario": [
+    "Con \"Cantaloupe Island\", y Freddie Hubbard en corneta: Blue Note moderno."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Empyrean_Isles"
+  },
+  "respaldo": []
+}

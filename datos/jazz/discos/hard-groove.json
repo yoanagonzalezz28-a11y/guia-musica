@@ -1,0 +1,57 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos",
+    "cuba"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Hard Groove Roy Hargrove"
+  },
+  "id": "hard-groove",
+  "titulo": "Hard Groove",
+  "credito": "Roy Hargrove",
+  "lideres": [
+    "hargrove"
+  ],
+  "grabacion": {
+    "desde": 2003,
+    "hasta": 2003,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2003,
+    "detalle": null
+  },
+  "sello": "Verve",
+  "musicos": [
+    {
+      "musico": "hargrove",
+      "nombre": "Roy Hargrove",
+      "instrumento": "trompeta, fliscorno"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Con su grupo RH Factor: jazz, soul y hip hop con D'Angelo y Erykah Badu."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

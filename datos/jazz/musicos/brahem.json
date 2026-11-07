@@ -6,7 +6,7 @@
   "regiones": [
     "medio-oriente"
   ],
-  "spotify": null,
+  "spotify": "https://open.spotify.com/artist/1aO9NulHwrE9pxHXFfCIoM",
   "id": "brahem",
   "nombre": "Anouar Brahem",
   "nacimiento": {
@@ -33,7 +33,12 @@
         "disco": "thimar",
         "explicacion": "Un trío de cámara con Surman y Holland."
       },
-      "discos": []
+      "discos": [
+        "le-pas-du-chat-noir",
+        "blue-maqams",
+        "souvenance",
+        "khomsa"
+      ]
     }
   ],
   "fuentes": [
@@ -50,5 +55,12 @@
       "acceso": "completa",
       "aporta": "Frédéric Cardin elige After the Last Sky entre lo mejor de 2025."
     }
+  ],
+  "discosEsenciales": [
+    "thimar",
+    "le-pas-du-chat-noir",
+    "blue-maqams",
+    "souvenance",
+    "khomsa"
   ]
 }

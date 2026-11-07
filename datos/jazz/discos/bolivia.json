@@ -1,0 +1,57 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "rio-de-la-plata",
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Bolivia Gato Barbieri"
+  },
+  "id": "bolivia",
+  "titulo": "Bolivia",
+  "credito": "Gato Barbieri",
+  "lideres": [
+    "barbieri"
+  ],
+  "grabacion": {
+    "desde": 1973,
+    "hasta": 1973,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1973,
+    "detalle": null
+  },
+  "sello": "Flying Dutchman",
+  "musicos": [
+    {
+      "musico": "barbieri",
+      "nombre": "Gato Barbieri",
+      "instrumento": "saxo tenor"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Quenas, percusiones y saxo encendido."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

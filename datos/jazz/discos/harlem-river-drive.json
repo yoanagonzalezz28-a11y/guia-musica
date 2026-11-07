@@ -1,0 +1,57 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "puerto-rico",
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Harlem River Drive Eddie Palmieri"
+  },
+  "id": "harlem-river-drive",
+  "titulo": "Harlem River Drive",
+  "credito": "Eddie Palmieri",
+  "lideres": [
+    "palmieri"
+  ],
+  "grabacion": {
+    "desde": 1971,
+    "hasta": 1971,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1971,
+    "detalle": null
+  },
+  "sello": "Roulette",
+  "musicos": [
+    {
+      "musico": "palmieri",
+      "nombre": "Eddie Palmieri",
+      "instrumento": "piano, dirección"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "latino"
+  ],
+  "comentario": [
+    "Salsa, soul y funk: un disco adelantado a su época."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

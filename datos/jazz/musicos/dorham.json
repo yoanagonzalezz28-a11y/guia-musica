@@ -1,0 +1,55 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "dorham",
+  "nombre": "Kenny Dorham",
+  "nacimiento": {
+    "anio": 1924,
+    "lugar": "Fairfield, Texas"
+  },
+  "muerte": {
+    "anio": 1972
+  },
+  "instrumentos": [
+    "trompeta"
+  ],
+  "corrientes": [
+    "hard-bop"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Trompetista de sonido redondo y lírico, siempre un poco a la sombra de otros. Tocó con Parker, con los primeros Jazz Messengers y con Max Roach, y compuso \"Blue Bossa\".",
+  "epocas": [
+    {
+      "titulo": "Hard bop",
+      "desde": 1955,
+      "hasta": 1963,
+      "texto": "",
+      "discoClave": {
+        "disco": "round-about-midnight-at-the-cafe-bohemia",
+        "explicacion": "En vivo con Kenny Burrell y Bobby Timmons: hard bop elegante."
+      },
+      "discos": [
+        "quiet-kenny",
+        "una-mas",
+        "afro-cuban"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-kenny-dorham"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "round-about-midnight-at-the-cafe-bohemia",
+    "quiet-kenny",
+    "una-mas",
+    "afro-cuban",
+    "page-one"
+  ]
+}

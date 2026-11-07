@@ -1,0 +1,64 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "brecker",
+  "nombre": "Michael Brecker",
+  "nacimiento": {
+    "anio": 1949,
+    "lugar": "Filadelfia"
+  },
+  "muerte": {
+    "anio": 2007
+  },
+  "instrumentos": [
+    "saxo tenor"
+  ],
+  "corrientes": [
+    "fusion",
+    "neotrad"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Saxofonista tenor de técnica extraordinaria, muy influyente desde los 80. Tocó en la fusión con los Brecker Brothers y en cientos de discos de pop y jazz.",
+  "epocas": [
+    {
+      "titulo": "Neotradicionalismo",
+      "desde": 1987,
+      "hasta": 1996,
+      "texto": "",
+      "discoClave": {
+        "disco": "michael-brecker",
+        "explicacion": "Su primer disco como líder, con Pat Metheny y Kenny Kirkland."
+      },
+      "discos": [
+        "tales-from-the-hudson"
+      ]
+    },
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2007,
+      "hasta": 2007,
+      "texto": "",
+      "discoClave": {
+        "disco": "pilgrimage",
+        "explicacion": "Grabado poco antes de su muerte, con Herbie Hancock y Brad Mehldau."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-michael-brecker"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "heavy-metal-be-bop",
+    "michael-brecker",
+    "tales-from-the-hudson",
+    "pilgrimage"
+  ]
+}

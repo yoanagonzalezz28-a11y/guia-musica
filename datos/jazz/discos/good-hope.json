@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0Lx4v896QuUIV7yd5aeI4Y",
+    "tituloEnSpotify": "Good Hope",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "good-hope",
+  "titulo": "Good Hope",
+  "credito": "Dave Holland",
+  "lideres": [
+    "holland"
+  ],
+  "grabacion": {
+    "desde": 2019,
+    "hasta": 2019,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2019,
+    "detalle": null
+  },
+  "sello": "Edition",
+  "musicos": [
+    {
+      "musico": "holland",
+      "nombre": "Dave Holland",
+      "instrumento": "contrabajo, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Trío con Zakir Hussain y Chris Potter: percusión india y jazz."
+  ],
+  "ids": {
+    "musicbrainz": "4eb7235f-4cda-41c4-9714-c0ab9f03140f",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

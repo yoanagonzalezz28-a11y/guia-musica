@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0sTCOTNTXhgAxUvwCnyIK2",
+    "tituloEnSpotify": "Gettin' To It",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "gettin-to-it",
+  "titulo": "Gettin' to It",
+  "credito": "Christian McBride",
+  "lideres": [
+    "mcbride"
+  ],
+  "grabacion": {
+    "desde": 1995,
+    "hasta": 1995,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1995,
+    "detalle": null
+  },
+  "sello": "Verve",
+  "musicos": [
+    {
+      "musico": "mcbride",
+      "nombre": "Christian McBride",
+      "instrumento": "contrabajo, bajo eléctrico"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "neotrad"
+  ],
+  "comentario": [
+    "Su debut a los 22 años, con Roy Hargrove y Joshua Redman."
+  ],
+  "ids": {
+    "musicbrainz": "32c28a0c-d32d-3f58-b9e1-74f79f5b7d6d",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

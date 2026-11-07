@@ -31,6 +31,32 @@
         "disco": "bright-size-life",
         "explicacion": "Su debut, un punto de inflexión."
       },
+      "discos": [
+        "watercolors"
+      ]
+    },
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 1982,
+      "hasta": 2003,
+      "texto": "",
+      "discoClave": {
+        "disco": "offramp",
+        "explicacion": "Con la guitarra sintetizada en \"Are You Going with Me?\". Ganó un Grammy."
+      },
+      "discos": [
+        "one-quiet-night"
+      ]
+    },
+    {
+      "titulo": "Jazz brasileño",
+      "desde": 1987,
+      "hasta": 1987,
+      "texto": "",
+      "discoClave": {
+        "disco": "still-life-talking",
+        "explicacion": "Ritmos brasileños y voces: el Group en su momento más luminoso."
+      },
       "discos": []
     }
   ],
@@ -46,5 +72,12 @@
       "acceso": "indirecta",
       "aporta": "La Penguin Guide compara su sonido con el de Jim Hall y Jimmy Raney."
     }
+  ],
+  "discosEsenciales": [
+    "bright-size-life",
+    "watercolors",
+    "offramp",
+    "still-life-talking",
+    "one-quiet-night"
   ]
 }

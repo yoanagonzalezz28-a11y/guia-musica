@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Silent Tongues Cecil Taylor"
+  },
+  "id": "silent-tongues",
+  "titulo": "Silent Tongues",
+  "credito": "Cecil Taylor",
+  "lideres": [
+    "taylor"
+  ],
+  "grabacion": {
+    "desde": 1974,
+    "hasta": 1974,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1974,
+    "detalle": null
+  },
+  "sello": "Arista Freedom",
+  "musicos": [
+    {
+      "musico": "taylor",
+      "nombre": "Cecil Taylor",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "free"
+  ],
+  "comentario": [
+    "Piano solo en Montreux: un torrente de energía."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

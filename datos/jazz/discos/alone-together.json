@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Alone Together Jim Hall"
+  },
+  "id": "alone-together",
+  "titulo": "Alone Together",
+  "credito": "Jim Hall",
+  "lideres": [
+    "jim-hall"
+  ],
+  "grabacion": {
+    "desde": 1972,
+    "hasta": 1972,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1972,
+    "detalle": null
+  },
+  "sello": "Milestone",
+  "musicos": [
+    {
+      "musico": "jim-hall",
+      "nombre": "Jim Hall",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "cool"
+  ],
+  "comentario": [
+    "Dúo con Ron Carter en vivo."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

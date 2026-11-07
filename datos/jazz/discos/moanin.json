@@ -31,12 +31,12 @@
       "instrumento": "trompeta"
     },
     {
-      "musico": null,
+      "musico": "golson",
       "nombre": "Benny Golson",
       "instrumento": "saxo tenor"
     },
     {
-      "musico": null,
+      "musico": "timmons",
       "nombre": "Bobby Timmons",
       "instrumento": "piano"
     },
@@ -49,6 +49,16 @@
       "musico": "blakey",
       "nombre": "Art Blakey",
       "instrumento": "batería"
+    },
+    {
+      "musico": "golson",
+      "nombre": "Benny Golson",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": "timmons",
+      "nombre": "Bobby Timmons",
+      "instrumento": "piano"
     }
   ],
   "corrientes": [

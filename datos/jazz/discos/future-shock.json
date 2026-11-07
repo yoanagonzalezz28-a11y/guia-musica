@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/108uNBYGawRo3aQiaA7lQY",
+    "tituloEnSpotify": "Future Shock",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "future-shock",
+  "titulo": "Future Shock",
+  "credito": "Herbie Hancock",
+  "lideres": [
+    "hancock"
+  ],
+  "grabacion": {
+    "desde": 1983,
+    "hasta": 1983,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1983,
+    "detalle": null
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "hancock",
+      "nombre": "Herbie Hancock",
+      "instrumento": "piano, teclados, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "fusion"
+  ],
+  "comentario": [
+    "Con \"Rockit\": scratch, electrónica y un video icónico de la MTV."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Future_Shock"
+  },
+  "respaldo": []
+}

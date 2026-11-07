@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "nordicos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "The Roc Daniel Herskedal"
+  },
+  "id": "the-roc",
+  "titulo": "The Roc",
+  "credito": "Daniel Herskedal",
+  "lideres": [
+    "herskedal"
+  ],
+  "grabacion": {
+    "desde": 2017,
+    "hasta": 2017,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2017,
+    "detalle": null
+  },
+  "sello": "Edition",
+  "musicos": [
+    {
+      "musico": "herskedal",
+      "nombre": "Daniel Herskedal",
+      "instrumento": "tuba, trompeta baja"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Inspirado en el Medio Oriente: tuba, piano y percusión."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

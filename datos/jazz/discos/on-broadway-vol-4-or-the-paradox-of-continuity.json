@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1krBoEyffLMXuGqGkpKEhw",
+    "tituloEnSpotify": "On Broadway Vol. 4 or the Paradox of Continuity",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "on-broadway-vol-4-or-the-paradox-of-continuity",
+  "titulo": "On Broadway Vol. 4 or The Paradox of Continuity",
+  "credito": "Paul Motian",
+  "lideres": [
+    "motian"
+  ],
+  "grabacion": {
+    "desde": 2006,
+    "hasta": 2006,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2006,
+    "detalle": null
+  },
+  "sello": "Winter & Winter",
+  "musicos": [
+    {
+      "musico": "motian",
+      "nombre": "Paul Motian",
+      "instrumento": "batería, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Estándares de Broadway, tocados con su libertad característica."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

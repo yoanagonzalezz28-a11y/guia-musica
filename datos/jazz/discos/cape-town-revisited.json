@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "sudafrica"
+  ],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2sZDbhndCdkIvyA9dltUUT",
+    "tituloEnSpotify": "Cape Town Revisited",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "cape-town-revisited",
+  "titulo": "Cape Town Revisited",
+  "credito": "Abdullah Ibrahim",
+  "lideres": [
+    "ibrahim"
+  ],
+  "grabacion": {
+    "desde": 2000,
+    "hasta": 2000,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2000,
+    "detalle": null
+  },
+  "sello": "Tiptoe",
+  "musicos": [
+    {
+      "musico": "ibrahim",
+      "nombre": "Abdullah Ibrahim",
+      "instrumento": "piano, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "En vivo en Ciudad del Cabo: su música de vuelta en casa."
+  ],
+  "ids": {
+    "musicbrainz": "66fb3aa2-2f59-30f2-b59d-f35f8a955dfb",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

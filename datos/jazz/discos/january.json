@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "europa-este"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0uZt1xe1sLvt4ZAOLHj3fY",
+    "tituloEnSpotify": "January",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "january",
+  "titulo": "January",
+  "credito": "Marcin Wasilewski",
+  "lideres": [
+    "wasilewski"
+  ],
+  "grabacion": {
+    "desde": 2008,
+    "hasta": 2008,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2008,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "wasilewski",
+      "nombre": "Marcin Wasilewski",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Melodías de una claridad muy nórdica, aunque son polacos."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

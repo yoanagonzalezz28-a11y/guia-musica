@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6KjStP02djmIgt35hkzUcz",
+    "tituloEnSpotify": "Compassion",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "compassion",
+  "titulo": "Compassion",
+  "credito": "Vijay Iyer",
+  "lideres": [
+    "iyer"
+  ],
+  "grabacion": {
+    "desde": 2024,
+    "hasta": 2024,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2024,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "iyer",
+      "nombre": "Vijay Iyer",
+      "instrumento": "piano, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "El trío con Linda May Han Oh y Tyshawn Sorey."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

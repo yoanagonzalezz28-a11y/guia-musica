@@ -25,6 +25,20 @@
   "resumen": "Uno de los pocos músicos de hard bop que triunfó en el jazz funk. También fue un educador destacado, con un doctorado en educación musical.[^wp-byrd]",
   "epocas": [
     {
+      "titulo": "Hard bop",
+      "desde": 1960,
+      "hasta": 1964,
+      "texto": "",
+      "discoClave": {
+        "disco": "royal-flush",
+        "explicacion": "Con Pepper Adams y Herbie Hancock: hard bop elegante."
+      },
+      "discos": [
+        "fuego",
+        "a-new-perspective"
+      ]
+    },
+    {
       "titulo": "Con los Mizell",
       "desde": 1972,
       "hasta": 1975,
@@ -33,7 +47,9 @@
         "disco": "black-byrd",
         "explicacion": "Durante años fue el disco más vendido de Blue Note."
       },
-      "discos": []
+      "discos": [
+        "places-and-spaces"
+      ]
     }
   ],
   "epocasPendientes": [
@@ -48,5 +64,12 @@
       "acceso": "extracto",
       "aporta": "Gioia describe el clima de los sellos de jazz en esos años."
     }
+  ],
+  "discosEsenciales": [
+    "black-byrd",
+    "royal-flush",
+    "fuego",
+    "places-and-spaces",
+    "a-new-perspective"
   ]
 }

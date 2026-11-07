@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "sudafrica"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7wV98ytkf55BxvrzQIbzNg",
+    "tituloEnSpotify": "The Balance",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "the-balance",
+  "titulo": "The Balance",
+  "credito": "Abdullah Ibrahim",
+  "lideres": [
+    "ibrahim"
+  ],
+  "grabacion": {
+    "desde": 2019,
+    "hasta": 2019,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2019,
+    "detalle": null
+  },
+  "sello": "Gearbox",
+  "musicos": [
+    {
+      "musico": "ibrahim",
+      "nombre": "Abdullah Ibrahim",
+      "instrumento": "piano, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "Con Ekaya: melodías del Cabo con una calma inmensa."
+  ],
+  "ids": {
+    "musicbrainz": "e3658e70-eacc-4d7d-99db-03b84b4aca54",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "muthspiel",
+  "nombre": "Wolfgang Muthspiel",
+  "nacimiento": {
+    "anio": 1965,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "guitarra",
+    "composición"
+  ],
+  "corrientes": [
+    "ecm",
+    "hoy"
+  ],
+  "regiones": [],
+  "spotify": null,
+  "resumen": "Guitarrista austríaco que estudió en Estados Unidos y tocó con Gary Burton. Sus discos para ECM unen la guitarra eléctrica y la acústica con un sonido muy limpio y melódico.",
+  "epocas": [
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 2014,
+      "hasta": 2022,
+      "texto": "",
+      "discoClave": {
+        "disco": "driftwood",
+        "explicacion": "Trío con Larry Grenadier y Brian Blade: guitarra que flota."
+      },
+      "discos": [
+        "rising-grace",
+        "where-the-river-goes",
+        "angular-blues",
+        "dance-of-the-elders"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-wolfgang-muthspiel"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "rising-grace",
+    "where-the-river-goes",
+    "angular-blues",
+    "dance-of-the-elders",
+    "driftwood"
+  ]
+}

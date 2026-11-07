@@ -42,7 +42,7 @@
       "instrumento": "trompeta"
     },
     {
-      "musico": null,
+      "musico": "donaldson",
       "nombre": "Lou Donaldson",
       "instrumento": "saxo alto"
     },
@@ -52,7 +52,7 @@
       "instrumento": "saxo tenor"
     },
     {
-      "musico": null,
+      "musico": "burrell",
       "nombre": "Kenny Burrell",
       "instrumento": "guitarra"
     },

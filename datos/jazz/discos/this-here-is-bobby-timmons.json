@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/04GADPFrfT9vbAMsgXXX3Z",
+    "tituloEnSpotify": "This Here Is Bobby Timmons",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "this-here-is-bobby-timmons",
+  "titulo": "This Here Is Bobby Timmons",
+  "credito": "Bobby Timmons",
+  "lideres": [
+    "timmons"
+  ],
+  "grabacion": {
+    "desde": 1960,
+    "hasta": 1960,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1960,
+    "detalle": null
+  },
+  "sello": "Riverside",
+  "musicos": [
+    {
+      "musico": "timmons",
+      "nombre": "Bobby Timmons",
+      "instrumento": "piano, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "souljazz"
+  ],
+  "comentario": [
+    "Trío con sus temas más famosos: piano de iglesia con swing."
+  ],
+  "ids": {
+    "musicbrainz": "0749d0ec-687d-39c0-908a-bb3810777917",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "This_Here_Is_Bobby_Timmons"
+  },
+  "respaldo": []
+}

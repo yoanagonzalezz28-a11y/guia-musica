@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2pS1gCeRHj0h0BZFgfqYjU",
+    "tituloEnSpotify": "We Three",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "we-three",
+  "titulo": "We Three",
+  "credito": "Roy Haynes",
+  "lideres": [
+    "haynes"
+  ],
+  "grabacion": {
+    "desde": 1958,
+    "hasta": 1958,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1958,
+    "detalle": null
+  },
+  "sello": "New Jazz",
+  "musicos": [
+    {
+      "musico": "haynes",
+      "nombre": "Roy Haynes",
+      "instrumento": "batería"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Trío con Phineas Newborn y Paul Chambers: swing liviano y muy ágil."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

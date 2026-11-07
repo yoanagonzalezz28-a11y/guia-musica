@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "medio-oriente"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3G0UgD5jjf2pcwDH1fN5xK",
+    "tituloEnSpotify": "Blue Maqams",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "blue-maqams",
+  "titulo": "Blue Maqams",
+  "credito": "Anouar Brahem",
+  "lideres": [
+    "brahem"
+  ],
+  "grabacion": {
+    "desde": 2017,
+    "hasta": 2017,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2017,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "brahem",
+      "nombre": "Anouar Brahem",
+      "instrumento": "oud, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Con Dave Holland, Jack DeJohnette y Django Bates: oud y jazz de primer nivel."
+  ],
+  "ids": {
+    "musicbrainz": "bc7849e3-3d9f-428b-befc-18f99654ec62",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

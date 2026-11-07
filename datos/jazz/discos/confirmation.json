@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Confirmation Tommy Flanagan"
+  },
+  "id": "confirmation",
+  "titulo": "Confirmation",
+  "credito": "Tommy Flanagan",
+  "lideres": [
+    "flanagan"
+  ],
+  "grabacion": {
+    "desde": 1977,
+    "hasta": 1977,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1977,
+    "detalle": null
+  },
+  "sello": "Enja",
+  "musicos": [
+    {
+      "musico": "flanagan",
+      "nombre": "Tommy Flanagan",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "bebop"
+  ],
+  "comentario": [
+    "Trío con George Mraz y Elvin Jones: temas de Parker y estándares."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

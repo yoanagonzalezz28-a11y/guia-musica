@@ -1,0 +1,51 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "katche",
+  "nombre": "Manu Katché",
+  "nacimiento": {
+    "anio": 1958,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "batería",
+    "composición"
+  ],
+  "corrientes": [
+    "ecm"
+  ],
+  "regiones": [],
+  "spotify": null,
+  "resumen": "Baterista francés que tocó con Peter Gabriel y Sting y, en jazz, con Jan Garbarek. Sus discos para ECM son melódicos y de groove suave.",
+  "epocas": [
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 2005,
+      "hasta": 2016,
+      "texto": "",
+      "discoClave": {
+        "disco": "neighbourhood",
+        "explicacion": "Con Jan Garbarek y Tomasz Stańko: groove suave y melodías claras."
+      },
+      "discos": [
+        "playground",
+        "third-round",
+        "unstatic"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-manu-katche"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "neighbourhood",
+    "playground",
+    "third-round",
+    "unstatic"
+  ]
+}

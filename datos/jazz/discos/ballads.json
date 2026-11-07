@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt",
+    "tituloEnSpotify": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "ballads",
+  "titulo": "Ballads",
+  "credito": "John Coltrane",
+  "lideres": [
+    "coltrane"
+  ],
+  "grabacion": {
+    "desde": 1963,
+    "hasta": 1963,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1963,
+    "detalle": null
+  },
+  "sello": "Impulse!",
+  "musicos": [
+    {
+      "musico": "coltrane",
+      "nombre": "John Coltrane",
+      "instrumento": "saxo tenor, saxo soprano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "modal"
+  ],
+  "comentario": [
+    "El cuarteto clásico tocando lento y suave: un Coltrane que muchos no esperan."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Ballads_(John_Coltrane_album)"
+  },
+  "respaldo": []
+}

@@ -27,15 +27,29 @@
     {
       "titulo": "El trío con LaFaro",
       "desde": 1959,
-      "hasta": 1961,
+      "hasta": 1963,
       "texto": "Dejó el grupo de Davis a fines de 1959 y formó un trío con Scott LaFaro y Paul Motian, hoy considerado un modelo. LaFaro murió diez días después de los conciertos del Village Vanguard.[^wp-evans]",
       "discoClave": {
         "disco": "sunday-vanguard",
         "explicacion": "El resultado más conocido de esa conversación entre tres."
       },
       "discos": [
-        "kind-of-blue"
+        "kind-of-blue",
+        "waltz-for-debby",
+        "undercurrent",
+        "conversations-with-myself"
       ]
+    },
+    {
+      "titulo": "Cool",
+      "desde": 1981,
+      "hasta": 1981,
+      "texto": "",
+      "discoClave": {
+        "disco": "you-must-believe-in-spring",
+        "explicacion": "Grabado en 1977 y editado después de su muerte: su disco más triste y hermoso."
+      },
+      "discos": []
     }
   ],
   "epocasPendientes": [
@@ -56,5 +70,12 @@
       "acceso": "extracto",
       "aporta": "Gioia recuerda que Columbia lo despidió en la purga de 1973."
     }
+  ],
+  "discosEsenciales": [
+    "sunday-vanguard",
+    "waltz-for-debby",
+    "undercurrent",
+    "conversations-with-myself",
+    "you-must-believe-in-spring"
   ]
 }

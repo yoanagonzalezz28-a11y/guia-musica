@@ -6,7 +6,7 @@
   "regiones": [
     "estados-unidos"
   ],
-  "spotify": null,
+  "spotify": "https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp",
   "id": "dolphy",
   "nombre": "Eric Dolphy",
   "nacimiento": {
@@ -35,7 +35,12 @@
         "disco": "out-to-lunch",
         "explicacion": "Su única grabación como líder en Blue Note."
       },
-      "discos": []
+      "discos": [
+        "outward-bound",
+        "out-there",
+        "at-the-five-spot-vol-1",
+        "last-date"
+      ]
     }
   ],
   "fuentes": [
@@ -52,5 +57,12 @@
       "acceso": "indirecta",
       "aporta": "La Penguin Guide le da corona a su disco principal."
     }
+  ],
+  "discosEsenciales": [
+    "out-to-lunch",
+    "outward-bound",
+    "out-there",
+    "at-the-five-spot-vol-1",
+    "last-date"
   ]
 }

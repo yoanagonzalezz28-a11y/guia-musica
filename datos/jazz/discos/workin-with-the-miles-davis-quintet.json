@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7buLIJn2VuqsVORghMEvli",
+    "tituloEnSpotify": "Workin' With The Miles Davis Quintet",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "workin-with-the-miles-davis-quintet",
+  "titulo": "Workin' with the Miles Davis Quintet",
+  "credito": "Miles Davis",
+  "lideres": [],
+  "grabacion": {
+    "desde": 1959,
+    "hasta": 1959,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1959,
+    "detalle": null
+  },
+  "sello": "Prestige",
+  "musicos": [
+    {
+      "musico": "philly-joe-jones",
+      "nombre": "Philly Joe Jones",
+      "instrumento": "batería"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Una de las sesiones maratónicas de 1956 del primer quinteto."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

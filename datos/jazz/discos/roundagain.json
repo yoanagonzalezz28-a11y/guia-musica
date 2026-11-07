@@ -39,6 +39,11 @@
       "musico": "redman",
       "nombre": "Joshua Redman",
       "instrumento": "saxo tenor"
+    },
+    {
+      "musico": "mcbride",
+      "nombre": "Christian McBride",
+      "instrumento": "contrabajo"
     }
   ],
   "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",

@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Strange Fruit Billie Holiday"
+  },
+  "id": "strange-fruit",
+  "titulo": "Strange Fruit",
+  "credito": "Billie Holiday",
+  "lideres": [
+    "holiday"
+  ],
+  "grabacion": {
+    "desde": 1939,
+    "hasta": 1939,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1939,
+    "detalle": null
+  },
+  "sello": "Commodore",
+  "musicos": [
+    {
+      "musico": "holiday",
+      "nombre": "Billie Holiday",
+      "instrumento": "voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "La canción contra los linchamientos: un antes y un después en la música estadounidense."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

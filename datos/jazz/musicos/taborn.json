@@ -1,0 +1,64 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "taborn",
+  "nombre": "Craig Taborn",
+  "nacimiento": {
+    "anio": 1970,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano",
+    "electrónica"
+  ],
+  "corrientes": [
+    "hoy",
+    "ecm"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/2RjYqvCG5Zt1DpQUPhgw77",
+  "resumen": "Pianista estadounidense entre el free, la electrónica y la música contemporánea. Su piano solo es uno de los más originales de su generación.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2004,
+      "hasta": 2004,
+      "texto": "",
+      "discoClave": {
+        "disco": "junk-magic",
+        "explicacion": "Electrónica y jazz libre."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 2011,
+      "hasta": 2017,
+      "texto": "",
+      "discoClave": {
+        "disco": "avenging-angel",
+        "explicacion": "Piano solo: piezas que se construyen nota a nota."
+      },
+      "discos": [
+        "chants",
+        "daylight-ghosts"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-craig-taborn"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "junk-magic",
+    "avenging-angel",
+    "chants",
+    "daylight-ghosts"
+  ]
+}

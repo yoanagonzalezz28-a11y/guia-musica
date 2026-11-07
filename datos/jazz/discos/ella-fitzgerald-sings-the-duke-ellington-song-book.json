@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj",
+    "tituloEnSpotify": "Ella Fitzgerald Sings The Duke Ellington Song Book",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "ella-fitzgerald-sings-the-duke-ellington-song-book",
+  "titulo": "Ella Fitzgerald Sings the Duke Ellington Song Book",
+  "credito": "Ella Fitzgerald",
+  "lideres": [
+    "fitzgerald"
+  ],
+  "grabacion": {
+    "desde": 1957,
+    "hasta": 1957,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1957,
+    "detalle": null
+  },
+  "sello": "Verve",
+  "musicos": [
+    {
+      "musico": "fitzgerald",
+      "nombre": "Ella Fitzgerald",
+      "instrumento": "voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "Con la orquesta de Ellington: una de las grandes series de cancioneros."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

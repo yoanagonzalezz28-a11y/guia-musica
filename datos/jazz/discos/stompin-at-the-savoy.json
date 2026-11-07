@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Stompin' at the Savoy Chick Webb"
+  },
+  "id": "stompin-at-the-savoy",
+  "titulo": "Stompin' at the Savoy",
+  "credito": "Chick Webb",
+  "lideres": [
+    "webb"
+  ],
+  "grabacion": {
+    "desde": 1934,
+    "hasta": 1934,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1934,
+    "detalle": null
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "webb",
+      "nombre": "Chick Webb",
+      "instrumento": "batería, dirección"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "La orquesta que hacía bailar al Savoy: batería explosiva y arreglos de Edgar Sampson."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

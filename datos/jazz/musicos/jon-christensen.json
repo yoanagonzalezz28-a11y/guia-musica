@@ -1,0 +1,39 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "jon-christensen",
+  "nombre": "Jon Christensen",
+  "nacimiento": {
+    "anio": 1943,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 2020
+  },
+  "instrumentos": [
+    "batería"
+  ],
+  "corrientes": [
+    "ecm"
+  ],
+  "regiones": [
+    "nordicos"
+  ],
+  "spotify": null,
+  "resumen": "Baterista noruego que tocó en decenas de discos de ECM. Su manera de tocar, más de colores y de pulso flotante que de ritmo marcado, es parte esencial del sonido nórdico.",
+  "epocas": [],
+  "fuentes": [
+    "wp-jon-christensen"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "belonging",
+    "witchi-tai-to",
+    "afric-pepperbird",
+    "war-orphans",
+    "libera-me"
+  ]
+}

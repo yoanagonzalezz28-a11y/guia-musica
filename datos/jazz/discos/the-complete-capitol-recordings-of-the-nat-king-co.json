@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": true,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "The Complete Capitol Recordings of the Nat King Cole Trio Nat King Cole"
+  },
+  "id": "the-complete-capitol-recordings-of-the-nat-king-co",
+  "titulo": "The Complete Capitol Recordings of the Nat King Cole Trio",
+  "credito": "Nat King Cole",
+  "lideres": [
+    "nat-cole"
+  ],
+  "grabacion": {
+    "desde": 1991,
+    "hasta": 1991,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1991,
+    "detalle": null
+  },
+  "sello": "Mosaic",
+  "musicos": [
+    {
+      "musico": "nat-cole",
+      "nombre": "Nat King Cole",
+      "instrumento": "piano, voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "Las grabaciones de su trío de los 40: piano swing de primer nivel."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

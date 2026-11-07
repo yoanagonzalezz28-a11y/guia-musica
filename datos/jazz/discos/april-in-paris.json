@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "April in Paris Count Basie"
+  },
+  "id": "april-in-paris",
+  "titulo": "April in Paris",
+  "credito": "Count Basie",
+  "lideres": [
+    "basie"
+  ],
+  "grabacion": {
+    "desde": 1956,
+    "hasta": 1956,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1956,
+    "detalle": null
+  },
+  "sello": "Clef",
+  "musicos": [
+    {
+      "musico": "basie",
+      "nombre": "Count Basie",
+      "instrumento": "piano, dirección"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "La orquesta del \"nuevo testamento\", con el célebre \"one more time\"."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "April_in_Paris_(album)"
+  },
+  "respaldo": []
+}

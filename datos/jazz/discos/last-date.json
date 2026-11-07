@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Last Date Eric Dolphy"
+  },
+  "id": "last-date",
+  "titulo": "Last Date",
+  "credito": "Eric Dolphy",
+  "lideres": [
+    "dolphy"
+  ],
+  "grabacion": {
+    "desde": 1964,
+    "hasta": 1964,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1964,
+    "detalle": null
+  },
+  "sello": "Limelight",
+  "musicos": [
+    {
+      "musico": "dolphy",
+      "nombre": "Eric Dolphy",
+      "instrumento": "saxo alto, clarinete bajo, flauta"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "free"
+  ],
+  "comentario": [
+    "Grabado en Holanda semanas antes de su muerte: termina con su voz hablando de la música."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Last_Date"
+  },
+  "respaldo": []
+}

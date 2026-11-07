@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5Nvamlfx3dx6kWaQ3rBhKo",
+    "tituloEnSpotify": "Sing, Sing, Sing",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "sing-sing-sing",
+  "titulo": "Sing, Sing, Sing",
+  "credito": "Benny Goodman",
+  "lideres": [
+    "goodman"
+  ],
+  "grabacion": {
+    "desde": 1937,
+    "hasta": 1937,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1937,
+    "detalle": null
+  },
+  "sello": "Victor",
+  "musicos": [
+    {
+      "musico": "goodman",
+      "nombre": "Benny Goodman",
+      "instrumento": "clarinete, dirección"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "El tema de Louis Prima con la batería de Gene Krupa: el swing en su pico."
+  ],
+  "ids": {
+    "musicbrainz": "c29595d6-86f0-480b-be8b-6d80f297e437",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

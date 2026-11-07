@@ -40,7 +40,7 @@
       "instrumento": "saxo tenor"
     },
     {
-      "musico": null,
+      "musico": "walton",
       "nombre": "Cedar Walton",
       "instrumento": "piano"
     },
@@ -53,6 +53,11 @@
       "musico": "blakey",
       "nombre": "Art Blakey",
       "instrumento": "batería"
+    },
+    {
+      "musico": "walton",
+      "nombre": "Cedar Walton",
+      "instrumento": "piano"
     }
   ],
   "corrientes": [

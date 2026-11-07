@@ -1,0 +1,51 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "philly-joe-jones",
+  "nombre": "Philly Joe Jones",
+  "nacimiento": {
+    "anio": 1923,
+    "lugar": "Filadelfia"
+  },
+  "muerte": {
+    "anio": 1985
+  },
+  "instrumentos": [
+    "batería"
+  ],
+  "corrientes": [
+    "hard-bop"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Baterista del primer quinteto de Miles Davis, junto a Red Garland y Paul Chambers. Su toque explosivo y su swing marcaron el hard bop.",
+  "epocas": [
+    {
+      "titulo": "Hard bop",
+      "desde": 1958,
+      "hasta": 1959,
+      "texto": "",
+      "discoClave": {
+        "disco": "blues-for-dracula",
+        "explicacion": "Con Nat Adderley y Johnny Griffin: hard bop con humor, empezando por una imitación de Bela Lugosi."
+      },
+      "discos": [
+        "drums-around-the-world"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-philly-joe-jones"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "blues-for-dracula",
+    "drums-around-the-world",
+    "workin-with-the-miles-davis-quintet"
+  ]
+}

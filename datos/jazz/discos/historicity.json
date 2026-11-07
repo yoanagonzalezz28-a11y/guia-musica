@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3I3uK5mo0uvj4TnSCxS2zk",
+    "tituloEnSpotify": "Historicity",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "historicity",
+  "titulo": "Historicity",
+  "credito": "Vijay Iyer",
+  "lideres": [
+    "iyer"
+  ],
+  "grabacion": {
+    "desde": 2009,
+    "hasta": 2009,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2009,
+    "detalle": null
+  },
+  "sello": "ACT Music",
+  "musicos": [
+    {
+      "musico": "iyer",
+      "nombre": "Vijay Iyer",
+      "instrumento": "piano, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Trío con versiones de M.I.A. y Stevie Wonder: ritmos densos."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Playground Manu Katché"
+  },
+  "id": "playground",
+  "titulo": "Playground",
+  "credito": "Manu Katché",
+  "lideres": [
+    "katche"
+  ],
+  "grabacion": {
+    "desde": 2007,
+    "hasta": 2007,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2007,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "katche",
+      "nombre": "Manu Katché",
+      "instrumento": "batería, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Con Mathias Eick y Trygve Seim: jazz nórdico con una batería muy musical."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

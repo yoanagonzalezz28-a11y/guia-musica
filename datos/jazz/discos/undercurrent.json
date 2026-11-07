@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ",
+    "tituloEnSpotify": "Undercurrent",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "undercurrent",
+  "titulo": "Undercurrent",
+  "credito": "Bill Evans",
+  "lideres": [
+    "evans"
+  ],
+  "grabacion": {
+    "desde": 1962,
+    "hasta": 1962,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1962,
+    "detalle": null
+  },
+  "sello": "United Artists",
+  "musicos": [
+    {
+      "musico": "evans",
+      "nombre": "Bill Evans",
+      "instrumento": "piano"
+    },
+    {
+      "musico": "jim-hall",
+      "nombre": "Jim Hall",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "cool"
+  ],
+  "comentario": [
+    "Dúo con Jim Hall: piano y guitarra en voz baja, de una delicadeza total."
+  ],
+  "ids": {
+    "musicbrainz": "cf24f192-7cfc-3413-a80d-390b523dfbca",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Undercurrent_(Bill_Evans_and_Jim_Hall_album)"
+  },
+  "respaldo": []
+}

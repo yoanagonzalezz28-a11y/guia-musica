@@ -26,15 +26,31 @@
   "resumen": "Cambió la forma de cantar en el jazz con su manejo del fraseo y del tiempo, influido por los instrumentistas. Lester Young le puso el apodo \"Lady Day\".[^wp-holiday]",
   "epocas": [
     {
+      "titulo": "Swing",
+      "desde": 1939,
+      "hasta": 1956,
+      "texto": "",
+      "discoClave": {
+        "disco": "lady-sings-the-blues",
+        "explicacion": "Sus clásicos regrabados, con una voz ya gastada y aún más expresiva."
+      },
+      "discos": [
+        "strange-fruit",
+        "the-commodore-master-takes"
+      ]
+    },
+    {
       "titulo": "El final",
-      "desde": 1958,
+      "desde": 1957,
       "hasta": 1959,
       "texto": "Su voz ya estaba muy deteriorada, y aun así siguió grabando. A fines de los 30 había desafiado a su público con \"Strange Fruit\", un tema sobre los linchamientos.[^wp-holiday]",
       "discoClave": {
         "disco": "lady-in-satin",
         "explicacion": "Su disco más discutido."
       },
-      "discos": []
+      "discos": [
+        "songs-for-distingue-lovers"
+      ]
     }
   ],
   "epocasPendientes": [
@@ -56,5 +72,12 @@
       "acceso": "indirecta",
       "aporta": "Buck Clayton prefería a la Holiday tardía."
     }
+  ],
+  "discosEsenciales": [
+    "lady-in-satin",
+    "lady-sings-the-blues",
+    "songs-for-distingue-lovers",
+    "strange-fruit",
+    "the-commodore-master-takes"
   ]
 }

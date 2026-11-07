@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz da 2021; acá se usa 2023."
+    }
+  ],
+  "regiones": [
+    "nordicos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7rzUSG7h8pGwMOCvXAiGai",
+    "tituloEnSpotify": "Harbour",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "harbour",
+  "titulo": "Harbour",
+  "credito": "Daniel Herskedal",
+  "lideres": [
+    "herskedal"
+  ],
+  "grabacion": {
+    "desde": 2023,
+    "hasta": 2023,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2023,
+    "detalle": null
+  },
+  "sello": "Edition",
+  "musicos": [
+    {
+      "musico": "herskedal",
+      "nombre": "Daniel Herskedal",
+      "instrumento": "tuba, trompeta baja"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Música que imagina un puerto: tuba y sonidos en capas."
+  ],
+  "ids": {
+    "musicbrainz": "2f887204-4011-4adb-a1d0-14da9f99d222",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

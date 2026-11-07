@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7cyFUEiit3tsFfvv3nHzTV",
+    "tituloEnSpotify": "Flight Path",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "flight-path",
+  "titulo": "Flight Path",
+  "credito": "Kenny Barron",
+  "lideres": [
+    "barron"
+  ],
+  "grabacion": {
+    "desde": 1983,
+    "hasta": 1983,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1983,
+    "detalle": null
+  },
+  "sello": "Uptown",
+  "musicos": [
+    {
+      "musico": "barron",
+      "nombre": "Kenny Barron",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Con su hermano Bill Barron."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

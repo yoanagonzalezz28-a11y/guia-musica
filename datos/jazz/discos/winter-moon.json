@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Winter Moon Art Pepper"
+  },
+  "id": "winter-moon",
+  "titulo": "Winter Moon",
+  "credito": "Art Pepper",
+  "lideres": [
+    "pepper"
+  ],
+  "grabacion": {
+    "desde": 1980,
+    "hasta": 1980,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1980,
+    "detalle": null
+  },
+  "sello": "Galaxy",
+  "musicos": [
+    {
+      "musico": "pepper",
+      "nombre": "Art Pepper",
+      "instrumento": "saxo alto"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "cool"
+  ],
+  "comentario": [
+    "Con cuerdas: baladas de una gran ternura."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

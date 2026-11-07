@@ -1,0 +1,52 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "herskedal",
+  "nombre": "Daniel Herskedal",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "tuba",
+    "trompeta baja"
+  ],
+  "corrientes": [
+    "ecm",
+    "hoy"
+  ],
+  "regiones": [
+    "nordicos"
+  ],
+  "spotify": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS",
+  "resumen": "Tubista noruego que hace de la tuba un instrumento melódico, en paisajes lentos y cinematográficos.",
+  "epocas": [
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 2015,
+      "hasta": 2023,
+      "texto": "",
+      "discoClave": {
+        "disco": "slow-eastbound-train",
+        "explicacion": "Tuba y piano en un viaje lento, con cuerdas."
+      },
+      "discos": [
+        "the-roc",
+        "harbour"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-daniel-herskedal"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "slow-eastbound-train",
+    "the-roc",
+    "harbour"
+  ]
+}

@@ -35,6 +35,20 @@
       "discos": [
         "chapter-one"
       ]
+    },
+    {
+      "titulo": "Jazz rioplatense",
+      "desde": 1986,
+      "hasta": 2007,
+      "texto": "",
+      "discoClave": {
+        "disco": "once-upon-a-time-far-away-in-the-south",
+        "explicacion": "Con Charlie Haden, Palle Mikkelborg y Pierre Favre: el bandoneón en ECM."
+      },
+      "discos": [
+        "cite-de-la-musique",
+        "ojos-negros"
+      ]
     }
   ],
   "fuentes": [
@@ -46,5 +60,11 @@
       "acceso": "completa",
       "aporta": "Aparece en el disco de Barbieri de 1973."
     }
+  ],
+  "discosEsenciales": [
+    "kultrum",
+    "once-upon-a-time-far-away-in-the-south",
+    "cite-de-la-musique",
+    "ojos-negros"
   ]
 }

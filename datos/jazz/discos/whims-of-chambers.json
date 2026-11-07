@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Whims of Chambers Paul Chambers"
+  },
+  "id": "whims-of-chambers",
+  "titulo": "Whims of Chambers",
+  "credito": "Paul Chambers",
+  "lideres": [
+    "chambers"
+  ],
+  "grabacion": {
+    "desde": 1956,
+    "hasta": 1956,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1956,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "chambers",
+      "nombre": "Paul Chambers",
+      "instrumento": "contrabajo"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Con John Coltrane y Kenny Burrell."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

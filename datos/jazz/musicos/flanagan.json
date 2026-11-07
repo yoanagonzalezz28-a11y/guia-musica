@@ -1,0 +1,66 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "flanagan",
+  "nombre": "Tommy Flanagan",
+  "nacimiento": {
+    "anio": 1930,
+    "lugar": "Detroit"
+  },
+  "muerte": {
+    "anio": 2001
+  },
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "bebop",
+    "hard-bop"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Pianista de Detroit, maestro del acompañamiento: tocó en *Saxophone Colossus* y *Giant Steps* y fue durante años el pianista de Ella Fitzgerald. Su toque es limpio, elegante y lleno de swing.",
+  "epocas": [
+    {
+      "titulo": "Bebop",
+      "desde": 1957,
+      "hasta": 1989,
+      "texto": "",
+      "discoClave": {
+        "disco": "overseas",
+        "explicacion": "Trío grabado en Estocolmo con Wilbur Little y Elvin Jones: bebop de una claridad perfecta."
+      },
+      "discos": [
+        "confirmation",
+        "jazz-poet"
+      ]
+    },
+    {
+      "titulo": "Hard bop",
+      "desde": 1960,
+      "hasta": 1960,
+      "texto": "",
+      "discoClave": {
+        "disco": "the-tommy-flanagan-trio",
+        "explicacion": "Baladas en trío, tranquilo y elegante."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-tommy-flanagan"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "overseas",
+    "the-tommy-flanagan-trio",
+    "confirmation",
+    "jazz-poet",
+    "giant-steps"
+  ]
+}

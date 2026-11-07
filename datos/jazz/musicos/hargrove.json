@@ -39,6 +39,20 @@
       "discos": []
     },
     {
+      "titulo": "Neotradicionalismo",
+      "desde": 1994,
+      "hasta": 2008,
+      "texto": "",
+      "discoClave": {
+        "disco": "approaching-standards",
+        "explicacion": "Estándares tocados con una sonoridad cálida y joven."
+      },
+      "discos": [
+        "family",
+        "earfood"
+      ]
+    },
+    {
       "titulo": "Crisol",
       "desde": 1997,
       "hasta": 1997,
@@ -46,6 +60,17 @@
       "discoClave": {
         "disco": "habana",
         "explicacion": "Su paso al jazz afrocubano."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2003,
+      "hasta": 2003,
+      "texto": "",
+      "discoClave": {
+        "disco": "hard-groove",
+        "explicacion": "Con su grupo RH Factor: jazz, soul y hip hop con D'Angelo y Erykah Badu."
       },
       "discos": []
     }
@@ -62,5 +87,12 @@
       "acceso": "indirecta",
       "aporta": "Scott Yanow lo compara con Freddie Hubbard, con voz propia."
     }
+  ],
+  "discosEsenciales": [
+    "diamond-rough",
+    "habana",
+    "approaching-standards",
+    "family",
+    "hard-groove"
   ]
 }

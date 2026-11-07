@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Thembi Pharoah Sanders"
+  },
+  "id": "thembi",
+  "titulo": "Thembi",
+  "credito": "Pharoah Sanders",
+  "lideres": [
+    "sanders"
+  ],
+  "grabacion": {
+    "desde": 1971,
+    "hasta": 1971,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1971,
+    "detalle": null
+  },
+  "sello": "Impulse!",
+  "musicos": [
+    {
+      "musico": "sanders",
+      "nombre": "Pharoah Sanders",
+      "instrumento": "saxo tenor"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "free"
+  ],
+  "comentario": [
+    "Más melódico, con Lonnie Liston Smith."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Thembi"
+  },
+  "respaldo": []
+}

@@ -29,11 +29,26 @@
     {
       "titulo": "Impulse!",
       "desde": 1968,
-      "hasta": 1971,
+      "hasta": 1972,
       "texto": "Después de la muerte de John Coltrane empezó a grabar como líder y a estudiar el arpa.[^wp-alice]",
       "discoClave": {
         "disco": "satchidananda",
         "explicacion": "Su disco más conocido, una influencia hasta hoy."
+      },
+      "discos": [
+        "ptah-the-el-daoud",
+        "world-galaxy",
+        "universal-consciousness"
+      ]
+    },
+    {
+      "titulo": "Free jazz",
+      "desde": 1982,
+      "hasta": 1982,
+      "texto": "",
+      "discoClave": {
+        "disco": "turiya-sings",
+        "explicacion": "Cantos devocionales de su ashram, con sintetizador: casi un secreto durante décadas."
       },
       "discos": []
     }
@@ -47,5 +62,12 @@
       "acceso": "indirecta",
       "aporta": "Thom Jurek destaca que su música es muy accesible y aun así experimental."
     }
+  ],
+  "discosEsenciales": [
+    "satchidananda",
+    "ptah-the-el-daoud",
+    "world-galaxy",
+    "universal-consciousness",
+    "turiya-sings"
   ]
 }

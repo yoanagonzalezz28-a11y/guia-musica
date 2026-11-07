@@ -28,7 +28,7 @@
     {
       "titulo": "De los Messengers a The Sidewinder",
       "desde": 1958,
-      "hasta": 1964,
+      "hasta": 1965,
       "texto": "Se hizo conocido con Blakey, y en 1963 grabó el tema que le dio su mayor éxito.[^wp-morgan]",
       "discoClave": {
         "disco": "sidewinder",
@@ -36,7 +36,22 @@
       },
       "discos": [
         "moanin",
-        "the-sermon"
+        "the-sermon",
+        "lee-way",
+        "cornbread"
+      ]
+    },
+    {
+      "titulo": "Jazz modal",
+      "desde": 1966,
+      "hasta": 1970,
+      "texto": "",
+      "discoClave": {
+        "disco": "search-for-the-new-land",
+        "explicacion": "Morgan en clave modal, con Wayne Shorter y Herbie Hancock."
+      },
+      "discos": [
+        "live-at-the-lighthouse-morgan"
       ]
     }
   ],
@@ -53,5 +68,12 @@
       "acceso": "indirecta",
       "aporta": "El testimonio de Billy Hart sobre el origen casual de su éxito."
     }
+  ],
+  "discosEsenciales": [
+    "sidewinder",
+    "search-for-the-new-land",
+    "lee-way",
+    "cornbread",
+    "live-at-the-lighthouse-morgan"
   ]
 }

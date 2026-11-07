@@ -36,13 +36,13 @@
       "instrumento": "saxo tenor"
     },
     {
-      "musico": null,
+      "musico": "flanagan",
       "nombre": "Tommy Flanagan",
       "instrumento": "piano",
       "nota": "Según la sesión"
     },
     {
-      "musico": null,
+      "musico": "walton",
       "nombre": "Cedar Walton",
       "instrumento": "piano",
       "nota": "Según la sesión"
@@ -54,7 +54,7 @@
       "nota": "Según la sesión"
     },
     {
-      "musico": null,
+      "musico": "chambers",
       "nombre": "Paul Chambers",
       "instrumento": "contrabajo"
     },
@@ -69,6 +69,11 @@
       "nombre": "Jimmy Cobb",
       "instrumento": "batería",
       "nota": "Según la sesión"
+    },
+    {
+      "musico": "flanagan",
+      "nombre": "Tommy Flanagan",
+      "instrumento": "piano"
     }
   ],
   "corrientes": [
@@ -90,5 +95,9 @@
       "acceso": "indirecta",
       "aporta": "La Penguin Guide lo llama \"Trane's first genuinely iconic record\"."
     }
+  ],
+  "resenaExtensa": [
+    "\"Giant Steps\" y \"Countdown\" usan un ciclo de tónicas a distancia de tercera mayor que obliga a improvisar a toda velocidad; Tommy Flanagan, al piano, casi no llega en la toma que quedó.",
+    "Fue su primer disco con todos temas propios. Incluye también \"Naima\", una balada dedicada a su esposa, que muestra el otro lado de su sonido."
   ]
 }

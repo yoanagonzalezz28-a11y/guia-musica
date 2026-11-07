@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Lester Leaps In Lester Young"
+  },
+  "id": "lester-leaps-in",
+  "titulo": "Lester Leaps In",
+  "credito": "Lester Young",
+  "lideres": [
+    "young"
+  ],
+  "grabacion": {
+    "desde": 1939,
+    "hasta": 1939,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1939,
+    "detalle": null
+  },
+  "sello": "Vocalion",
+  "musicos": [
+    {
+      "musico": "young",
+      "nombre": "Lester Young",
+      "instrumento": "saxo tenor"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "Con Count Basie: el tenor más suave y ligero del swing."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

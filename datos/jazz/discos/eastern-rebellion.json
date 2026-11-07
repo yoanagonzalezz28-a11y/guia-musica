@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6Kba7TzUkBLvGJNf0Ycl96",
+    "tituloEnSpotify": "Eastern Rebellion",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "eastern-rebellion",
+  "titulo": "Eastern Rebellion",
+  "credito": "Cedar Walton",
+  "lideres": [
+    "walton"
+  ],
+  "grabacion": {
+    "desde": 1976,
+    "hasta": 1976,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1976,
+    "detalle": null
+  },
+  "sello": "Timeless",
+  "musicos": [
+    {
+      "musico": "walton",
+      "nombre": "Cedar Walton",
+      "instrumento": "piano, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Con George Coleman, Sam Jones y Billy Higgins."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

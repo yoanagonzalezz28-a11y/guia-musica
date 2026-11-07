@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Fish Out of Water Charles Lloyd"
+  },
+  "id": "fish-out-of-water",
+  "titulo": "Fish Out of Water",
+  "credito": "Charles Lloyd",
+  "lideres": [
+    "lloyd"
+  ],
+  "grabacion": {
+    "desde": 1990,
+    "hasta": 1990,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1990,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "lloyd",
+      "nombre": "Charles Lloyd",
+      "instrumento": "saxo tenor, flauta"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Su regreso, con Bobo Stenson y Jon Christensen: tenor lento y espiritual."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

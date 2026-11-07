@@ -1,0 +1,59 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos",
+    "cuba"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1OGhqJimAFVAtyX7PKbakD",
+    "tituloEnSpotify": "Approaching Standards",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "approaching-standards",
+  "titulo": "Approaching Standards",
+  "credito": "Roy Hargrove",
+  "lideres": [
+    "hargrove"
+  ],
+  "grabacion": {
+    "desde": 1994,
+    "hasta": 1994,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1994,
+    "detalle": null
+  },
+  "sello": "Novus",
+  "musicos": [
+    {
+      "musico": "hargrove",
+      "nombre": "Roy Hargrove",
+      "instrumento": "trompeta, fliscorno"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "neotrad"
+  ],
+  "comentario": [
+    "Estándares tocados con una sonoridad cálida y joven."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -43,19 +43,24 @@
       "instrumento": "saxos, clarinete y flauta"
     },
     {
-      "musico": null,
+      "musico": "rypdal",
       "nombre": "Terje Rypdal",
       "instrumento": "guitarra"
     },
     {
-      "musico": null,
+      "musico": "arild-andersen",
       "nombre": "Arild Andersen",
       "instrumento": "contrabajo"
     },
     {
-      "musico": null,
+      "musico": "jon-christensen",
       "nombre": "Jon Christensen",
       "instrumento": "percusión"
+    },
+    {
+      "musico": "jon-christensen",
+      "nombre": "Jon Christensen",
+      "instrumento": "batería"
     }
   ],
   "corrientes": [

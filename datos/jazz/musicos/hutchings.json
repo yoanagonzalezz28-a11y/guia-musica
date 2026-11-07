@@ -31,6 +31,20 @@
         "disco": "we-are-sent",
         "explicacion": "Grabado con músicos sudafricanos para Impulse!."
       },
+      "discos": [
+        "your-queen-is-a-reptile",
+        "trust-in-the-lifeforce-of-the-deep-mystery"
+      ]
+    },
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2024,
+      "hasta": 2024,
+      "texto": "",
+      "discoClave": {
+        "disco": "perceive-its-beauty-acknowledge-its-grace",
+        "explicacion": "Ya sin saxo: flautas, sonido suave y espiritual."
+      },
       "discos": []
     }
   ],
@@ -43,5 +57,11 @@
       "acceso": "completa",
       "aporta": "Sitúa la herencia libre y espiritual que él retoma."
     }
+  ],
+  "discosEsenciales": [
+    "we-are-sent",
+    "your-queen-is-a-reptile",
+    "trust-in-the-lifeforce-of-the-deep-mystery",
+    "perceive-its-beauty-acknowledge-its-grace"
   ]
 }

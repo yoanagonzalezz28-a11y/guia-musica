@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Charlie Parker with Strings Charlie Parker"
+  },
+  "id": "charlie-parker-with-strings",
+  "titulo": "Charlie Parker with Strings",
+  "credito": "Charlie Parker",
+  "lideres": [
+    "parker"
+  ],
+  "grabacion": {
+    "desde": 1950,
+    "hasta": 1950,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1950,
+    "detalle": null
+  },
+  "sello": "Mercury",
+  "musicos": [
+    {
+      "musico": "parker",
+      "nombre": "Charlie Parker",
+      "instrumento": "saxo alto"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "bebop"
+  ],
+  "comentario": [
+    "Parker sobre cuerdas: él lo consideraba su mejor disco; \"Just Friends\" es la prueba."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Charlie_Parker_with_Strings"
+  },
+  "respaldo": []
+}

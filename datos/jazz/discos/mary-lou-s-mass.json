@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1KuLMVUjXCTb8hArSPa9S4",
+    "tituloEnSpotify": "Mary Lou's Mass",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "mary-lou-s-mass",
+  "titulo": "Mary Lou's Mass",
+  "credito": "Mary Lou Williams",
+  "lideres": [
+    "williams"
+  ],
+  "grabacion": {
+    "desde": 1975,
+    "hasta": 1975,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1975,
+    "detalle": null
+  },
+  "sello": "Mary Records",
+  "musicos": [
+    {
+      "musico": "williams",
+      "nombre": "Mary Lou Williams",
+      "instrumento": "piano, composición, arreglos"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "free"
+  ],
+  "comentario": [
+    "Una misa en clave de jazz y gospel."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

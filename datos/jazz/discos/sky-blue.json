@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Sky Blue Maria Schneider"
+  },
+  "id": "sky-blue",
+  "titulo": "Sky Blue",
+  "credito": "Maria Schneider",
+  "lideres": [
+    "schneider"
+  ],
+  "grabacion": {
+    "desde": 2007,
+    "hasta": 2007,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2007,
+    "detalle": null
+  },
+  "sello": "ArtistShare",
+  "musicos": [
+    {
+      "musico": "schneider",
+      "nombre": "Maria Schneider",
+      "instrumento": "composición, dirección"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Con \"Cerulean Skies\", sobre la migración de las aves."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

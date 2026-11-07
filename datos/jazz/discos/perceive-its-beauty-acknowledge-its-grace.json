@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Perceive Its Beauty, Acknowledge Its Grace Shabaka Hutchings"
+  },
+  "id": "perceive-its-beauty-acknowledge-its-grace",
+  "titulo": "Perceive Its Beauty, Acknowledge Its Grace",
+  "credito": "Shabaka Hutchings",
+  "lideres": [
+    "hutchings"
+  ],
+  "grabacion": {
+    "desde": 2024,
+    "hasta": 2024,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2024,
+    "detalle": null
+  },
+  "sello": "Impulse!",
+  "musicos": [
+    {
+      "musico": "hutchings",
+      "nombre": "Shabaka Hutchings",
+      "instrumento": "saxo tenor, clarinete, flautas"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Ya sin saxo: flautas, sonido suave y espiritual."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

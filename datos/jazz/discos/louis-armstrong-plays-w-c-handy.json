@@ -1,0 +1,59 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Louis Armstrong Plays W. C. Handy Louis Armstrong"
+  },
+  "id": "louis-armstrong-plays-w-c-handy",
+  "titulo": "Louis Armstrong Plays W. C. Handy",
+  "credito": "Louis Armstrong",
+  "lideres": [
+    "armstrong"
+  ],
+  "grabacion": {
+    "desde": 1954,
+    "hasta": 1954,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1954,
+    "detalle": null
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "armstrong",
+      "nombre": "Louis Armstrong",
+      "instrumento": "trompeta, voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "Sus All Stars sobre blues de W. C. Handy: el Armstrong maduro, con una trompeta todavía enorme."
+  ],
+  "resenaExtensa": [
+    "Lo produjo George Avakian, que le dio libertad para tocar versiones largas, algo raro en esa época. Con él estaban Trummy Young en trombón y Barney Bigard en clarinete."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Louis_Armstrong_Plays_W._C._Handy"
+  },
+  "respaldo": []
+}

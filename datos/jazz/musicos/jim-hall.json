@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "jim-hall",
+  "nombre": "Jim Hall",
+  "nacimiento": {
+    "anio": 1930,
+    "lugar": "Búfalo"
+  },
+  "muerte": {
+    "anio": 2013
+  },
+  "instrumentos": [
+    "guitarra"
+  ],
+  "corrientes": [
+    "cool"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr",
+  "resumen": "Guitarrista de sonido cálido y muy discreto, que prefería sugerir antes que llenar. Tocó con Jimmy Giuffre, Sonny Rollins y Bill Evans, y fue uno de los grandes guitarristas de dúo.",
+  "epocas": [
+    {
+      "titulo": "Cool",
+      "desde": 1957,
+      "hasta": 1975,
+      "texto": "",
+      "discoClave": {
+        "disco": "jazz-guitar",
+        "explicacion": "Su debut en trío: guitarra suave y melódica."
+      },
+      "discos": [
+        "concierto",
+        "alone-together"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-jim-hall-musician"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "jazz-guitar",
+    "undercurrent",
+    "concierto",
+    "alone-together",
+    "the-bridge"
+  ]
+}

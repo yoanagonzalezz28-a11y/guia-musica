@@ -26,12 +26,25 @@
   "epocas": [
     {
       "titulo": "El folclore sueco",
-      "desde": 1962,
+      "desde": 1961,
       "hasta": 1964,
       "texto": "Grabó con Georg Riedel arreglos de canciones folclóricas.[^wp-jazz-pa-svenska]",
       "discoClave": {
         "disco": "jazz-pa-svenska",
         "explicacion": "El disco de jazz más vendido de Suecia."
+      },
+      "discos": [
+        "8-bitar-johansson"
+      ]
+    },
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 1968,
+      "hasta": 1968,
+      "texto": "",
+      "discoClave": {
+        "disco": "jazz-pa-ungerska",
+        "explicacion": "Folclore húngaro en piano, contrabajo y batería."
       },
       "discos": []
     }
@@ -45,5 +58,10 @@
       "acceso": "completa",
       "aporta": "Su lugar en la cultura sueca."
     }
+  ],
+  "discosEsenciales": [
+    "jazz-pa-svenska",
+    "jazz-pa-ungerska",
+    "8-bitar-johansson"
   ]
 }

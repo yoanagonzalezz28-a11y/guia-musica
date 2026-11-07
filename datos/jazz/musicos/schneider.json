@@ -24,6 +24,21 @@
   "resumen": "Compositora y directora de orquesta, con múltiples Grammy. Fue copista y asistente de Gil Evans.[^wp-schneider]",
   "epocas": [
     {
+      "titulo": "Jazz de hoy",
+      "desde": 1994,
+      "hasta": 2015,
+      "texto": "",
+      "discoClave": {
+        "disco": "concert-in-the-garden",
+        "explicacion": "El primer disco distribuido solo por internet que ganó un Grammy."
+      },
+      "discos": [
+        "the-thompson-fields",
+        "evanescence",
+        "sky-blue"
+      ]
+    },
+    {
       "titulo": "Data Lords",
       "desde": 2019,
       "hasta": 2020,
@@ -44,5 +59,12 @@
       "acceso": "completa",
       "aporta": "Nate Chinen sigue el camino de la obra."
     }
+  ],
+  "discosEsenciales": [
+    "data-lords",
+    "concert-in-the-garden",
+    "the-thompson-fields",
+    "evanescence",
+    "sky-blue"
   ]
 }

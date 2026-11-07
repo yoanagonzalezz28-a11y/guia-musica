@@ -33,6 +33,20 @@
         "explicacion": "Su primer disco para ECM, todavía muy áspero."
       },
       "discos": []
+    },
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 1976,
+      "hasta": 1994,
+      "texto": "",
+      "discoClave": {
+        "disco": "dansere",
+        "explicacion": "Con Bobo Stenson y Palle Danielsson: el sonido ECM ya consolidado."
+      },
+      "discos": [
+        "officium",
+        "ragas-and-sagas"
+      ]
     }
   ],
   "epocasPendientes": [
@@ -48,5 +62,12 @@
       "acceso": "completa",
       "aporta": "Ted Gioia lo señala como líder del jazz europeo independiente."
     }
+  ],
+  "discosEsenciales": [
+    "afric-pepperbird",
+    "dansere",
+    "belonging",
+    "officium",
+    "ragas-and-sagas"
   ]
 }

@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "europa-este"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Ballet Etudes / The Music of Komeda Krzysztof Komeda"
+  },
+  "id": "ballet-etudes-the-music-of-komeda",
+  "titulo": "Ballet Etudes / The Music of Komeda",
+  "credito": "Krzysztof Komeda",
+  "lideres": [
+    "komeda"
+  ],
+  "grabacion": {
+    "desde": 1963,
+    "hasta": 1963,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1963,
+    "detalle": null
+  },
+  "sello": "Metronome",
+  "musicos": [
+    {
+      "musico": "komeda",
+      "nombre": "Krzysztof Komeda",
+      "instrumento": "piano, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "Grabado en Dinamarca: jazz de cámara inspirado en la danza."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

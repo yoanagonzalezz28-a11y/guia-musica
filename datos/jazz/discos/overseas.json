@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3cAo0MxC6MwqpQX76cfPwN",
+    "tituloEnSpotify": "Overseas",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "overseas",
+  "titulo": "Overseas",
+  "credito": "Tommy Flanagan",
+  "lideres": [
+    "flanagan"
+  ],
+  "grabacion": {
+    "desde": 1957,
+    "hasta": 1957,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1957,
+    "detalle": null
+  },
+  "sello": "Metronome",
+  "musicos": [
+    {
+      "musico": "flanagan",
+      "nombre": "Tommy Flanagan",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "bebop"
+  ],
+  "comentario": [
+    "Trío grabado en Estocolmo con Wilbur Little y Elvin Jones: bebop de una claridad perfecta."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Overseas_(album)"
+  },
+  "respaldo": []
+}

@@ -1,0 +1,59 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "rio-de-la-plata",
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0WzAqVNNP4LNU5540k6kCR",
+    "tituloEnSpotify": "Last Tango in Paris (Original Motion Picture Soundtrack)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "last-tango-in-paris",
+  "titulo": "Last Tango in Paris",
+  "credito": "Gato Barbieri",
+  "lideres": [
+    "barbieri"
+  ],
+  "grabacion": {
+    "desde": 1972,
+    "hasta": 1972,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1972,
+    "detalle": null
+  },
+  "sello": "United Artists",
+  "musicos": [
+    {
+      "musico": "barbieri",
+      "nombre": "Gato Barbieri",
+      "instrumento": "saxo tenor"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "La banda sonora de Bertolucci: el tango visto desde el saxo de Barbieri. Ganó un Grammy."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

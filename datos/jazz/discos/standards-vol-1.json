@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Standards, Vol. 1 Keith Jarrett"
+  },
+  "id": "standards-vol-1",
+  "titulo": "Standards, Vol. 1",
+  "credito": "Keith Jarrett",
+  "lideres": [
+    "jarrett"
+  ],
+  "grabacion": {
+    "desde": 1983,
+    "hasta": 1983,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1983,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "jarrett",
+      "nombre": "Keith Jarrett",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "El trío con Gary Peacock y Jack DeJohnette: estándares a la medida de su piano."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Standards,_Vol._1"
+  },
+  "respaldo": []
+}

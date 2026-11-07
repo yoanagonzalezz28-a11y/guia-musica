@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6O9iTjjJF21G35uQ7JozaT",
+    "tituloEnSpotify": "Cité De La Musique",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "cite-de-la-musique",
+  "titulo": "Cité de la Musique",
+  "credito": "Dino Saluzzi",
+  "lideres": [
+    "saluzzi"
+  ],
+  "grabacion": {
+    "desde": 1997,
+    "hasta": 1997,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1997,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "saluzzi",
+      "nombre": "Dino Saluzzi",
+      "instrumento": "bandoneón"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Trío con su hijo José María y Marc Johnson."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

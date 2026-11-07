@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "nordicos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5uW4ZHAMy1pvyoYa04JgiB",
+    "tituloEnSpotify": "Balladeering",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "balladeering",
+  "titulo": "Balladeering",
+  "credito": "Jakob Bro",
+  "lideres": [
+    "bro"
+  ],
+  "grabacion": {
+    "desde": 2009,
+    "hasta": 2009,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2009,
+    "detalle": null
+  },
+  "sello": "Loveland",
+  "musicos": [
+    {
+      "musico": "bro",
+      "nombre": "Jakob Bro",
+      "instrumento": "guitarra, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Con Lee Konitz, Bill Frisell y Paul Motian: baladas de una calma enorme."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

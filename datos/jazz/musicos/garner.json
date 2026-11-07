@@ -1,0 +1,53 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "garner",
+  "nombre": "Erroll Garner",
+  "nacimiento": {
+    "anio": 1923,
+    "lugar": "Pittsburgh"
+  },
+  "muerte": {
+    "anio": 1977
+  },
+  "instrumentos": [
+    "piano",
+    "composición"
+  ],
+  "corrientes": [
+    "swing"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED",
+  "resumen": "Pianista que nunca aprendió a leer música y tenía un estilo inconfundible: la mano izquierda marca el tiempo como una guitarra y la derecha llega un poco tarde. Compuso \"Misty\".",
+  "epocas": [
+    {
+      "titulo": "Swing",
+      "desde": 1954,
+      "hasta": 1964,
+      "texto": "",
+      "discoClave": {
+        "disco": "concert-by-the-sea",
+        "explicacion": "En vivo en Carmel: uno de los discos de jazz más vendidos de los 50."
+      },
+      "discos": [
+        "nightconcert",
+        "misty"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-erroll-garner"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "concert-by-the-sea",
+    "nightconcert",
+    "misty"
+  ]
+}

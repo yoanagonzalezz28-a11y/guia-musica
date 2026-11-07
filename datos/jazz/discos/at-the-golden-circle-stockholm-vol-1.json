@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "At the Golden Circle Stockholm, Vol. 1 Ornette Coleman"
+  },
+  "id": "at-the-golden-circle-stockholm-vol-1",
+  "titulo": "At the Golden Circle Stockholm, Vol. 1",
+  "credito": "Ornette Coleman",
+  "lideres": [
+    "ornette"
+  ],
+  "grabacion": {
+    "desde": 1965,
+    "hasta": 1965,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1965,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "ornette",
+      "nombre": "Ornette Coleman",
+      "instrumento": "saxo alto, trompeta, violín"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "free"
+  ],
+  "comentario": [
+    "Trío en Estocolmo: también toca violín y trompeta."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "At_the_Golden_Circle_Stockholm"
+  },
+  "respaldo": []
+}

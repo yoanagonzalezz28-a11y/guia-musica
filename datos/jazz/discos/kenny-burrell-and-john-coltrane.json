@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4BZcEZub79xqoEJwtVNQoY",
+    "tituloEnSpotify": "Kenny Burrell & John Coltrane",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "kenny-burrell-and-john-coltrane",
+  "titulo": "Kenny Burrell & John Coltrane",
+  "credito": "Kenny Burrell",
+  "lideres": [
+    "burrell"
+  ],
+  "grabacion": {
+    "desde": 1963,
+    "hasta": 1963,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1963,
+    "detalle": null
+  },
+  "sello": "Prestige",
+  "musicos": [
+    {
+      "musico": "burrell",
+      "nombre": "Kenny Burrell",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Una sesión de 1958 con Tommy Flanagan: guitarra y tenor en hard bop clásico."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Kenny_Burrell_%26_John_Coltrane"
+  },
+  "respaldo": []
+}

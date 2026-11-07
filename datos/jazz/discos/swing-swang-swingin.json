@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Swing, Swang, Swingin' Jackie McLean"
+  },
+  "id": "swing-swang-swingin",
+  "titulo": "Swing, Swang, Swingin'",
+  "credito": "Jackie McLean",
+  "lideres": [
+    "mclean"
+  ],
+  "grabacion": {
+    "desde": 1959,
+    "hasta": 1959,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1959,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "mclean",
+      "nombre": "Jackie McLean",
+      "instrumento": "saxo alto"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Cuarteto clásico: el alto más filoso del hard bop sobre estándares."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Swing,_Swang,_Swingin%27"
+  },
+  "respaldo": []
+}

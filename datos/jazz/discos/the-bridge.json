@@ -30,7 +30,7 @@
       "instrumento": "saxo tenor"
     },
     {
-      "musico": null,
+      "musico": "jim-hall",
       "nombre": "Jim Hall",
       "instrumento": "guitarra eléctrica"
     },
@@ -49,6 +49,11 @@
       "nombre": "Harry \"H.T.\" Saunders",
       "instrumento": "batería",
       "nota": "Solo en un tema"
+    },
+    {
+      "musico": "jim-hall",
+      "nombre": "Jim Hall",
+      "instrumento": "guitarra"
     }
   ],
   "corrientes": [

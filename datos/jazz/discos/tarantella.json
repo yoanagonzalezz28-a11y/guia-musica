@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "nordicos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Tarantella Lars Danielsson"
+  },
+  "id": "tarantella",
+  "titulo": "Tarantella",
+  "credito": "Lars Danielsson",
+  "lideres": [
+    "danielsson"
+  ],
+  "grabacion": {
+    "desde": 2009,
+    "hasta": 2009,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2009,
+    "detalle": null
+  },
+  "sello": "ACT Music",
+  "musicos": [
+    {
+      "musico": "danielsson",
+      "nombre": "Lars Danielsson",
+      "instrumento": "contrabajo, violonchelo, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Con Leszek Możdżer: melodías mediterráneas y piano polaco."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

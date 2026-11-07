@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Far East Suite Duke Ellington"
+  },
+  "id": "far-east-suite",
+  "titulo": "Far East Suite",
+  "credito": "Duke Ellington",
+  "lideres": [
+    "ellington"
+  ],
+  "grabacion": {
+    "desde": 1967,
+    "hasta": 1967,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1967,
+    "detalle": null
+  },
+  "sello": "RCA Victor",
+  "musicos": [
+    {
+      "musico": "ellington",
+      "nombre": "Duke Ellington",
+      "instrumento": "piano, composición, dirección"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "Escrita con Billy Strayhorn tras una gira por Asia: colores y escalas de Oriente en su orquesta."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Far_East_Suite"
+  },
+  "respaldo": []
+}

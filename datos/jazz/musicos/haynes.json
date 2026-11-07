@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "haynes",
+  "nombre": "Roy Haynes",
+  "nacimiento": {
+    "anio": 1925,
+    "lugar": "Boston"
+  },
+  "muerte": {
+    "anio": 2024
+  },
+  "instrumentos": [
+    "batería"
+  ],
+  "corrientes": [
+    "bebop",
+    "hard-bop"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Baterista que tocó con Charlie Parker, Sarah Vaughan, Thelonious Monk, John Coltrane y Chick Corea, y siguió en actividad hasta pasados los 90 años. Le decían \"Snap Crackle\" por su toque seco y chispeante.",
+  "epocas": [
+    {
+      "titulo": "Hard bop",
+      "desde": 1958,
+      "hasta": 1962,
+      "texto": "",
+      "discoClave": {
+        "disco": "we-three",
+        "explicacion": "Trío con Phineas Newborn y Paul Chambers: swing liviano y muy ágil."
+      },
+      "discos": [
+        "out-of-the-afternoon",
+        "just-us"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-roy-haynes"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "we-three",
+    "out-of-the-afternoon",
+    "now-he-sings-now-he-sobs",
+    "just-us"
+  ]
+}

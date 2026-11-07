@@ -1,0 +1,64 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "lloyd",
+  "nombre": "Charles Lloyd",
+  "nacimiento": {
+    "anio": 1938,
+    "lugar": "Memphis"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "saxo tenor",
+    "flauta"
+  ],
+  "corrientes": [
+    "modal",
+    "ecm"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5",
+  "resumen": "Saxofonista de Memphis. A fines de los 60 su cuarteto con Keith Jarrett y Jack DeJohnette llenaba salas de rock en San Francisco. Después de años retirado volvió en los 90 con ECM, con un sonido espiritual y lírico.",
+  "epocas": [
+    {
+      "titulo": "Jazz modal",
+      "desde": 1967,
+      "hasta": 1967,
+      "texto": "",
+      "discoClave": {
+        "disco": "forest-flower",
+        "explicacion": "En vivo en Monterey con Keith Jarrett y Jack DeJohnette: uno de los primeros discos de jazz que vendió un millón."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 1990,
+      "hasta": 2010,
+      "texto": "",
+      "discoClave": {
+        "disco": "fish-out-of-water",
+        "explicacion": "Su regreso, con Bobo Stenson y Jon Christensen: tenor lento y espiritual."
+      },
+      "discos": [
+        "the-water-is-wide",
+        "lift-every-voice",
+        "mirror"
+      ]
+    }
+  ],
+  "fuentes": [],
+  "respaldo": [],
+  "discosEsenciales": [
+    "forest-flower",
+    "fish-out-of-water",
+    "the-water-is-wide",
+    "lift-every-voice",
+    "mirror"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "paul-bley",
+  "nombre": "Paul Bley",
+  "nacimiento": {
+    "anio": 1932,
+    "lugar": "Montreal"
+  },
+  "muerte": {
+    "anio": 2016
+  },
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "free",
+    "ecm"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Pianista canadiense que tocó con Ornette Coleman y Charles Mingus. Su forma de tocar, libre pero con mucho espacio y melodía, influyó en Keith Jarrett y en buena parte del sonido de ECM.",
+  "epocas": [
+    {
+      "titulo": "Free jazz",
+      "desde": 1963,
+      "hasta": 1990,
+      "texto": "",
+      "discoClave": {
+        "disco": "footloose",
+        "explicacion": "Trío con Steve Swallow y Pete LaRoca: libertad con lirismo."
+      },
+      "discos": [
+        "memoirs"
+      ]
+    },
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 1973,
+      "hasta": 1999,
+      "texto": "",
+      "discoClave": {
+        "disco": "open-to-love",
+        "explicacion": "Piano solo, con temas de Carla Bley y Annette Peacock: uno de los grandes discos solistas de ECM."
+      },
+      "discos": [
+        "fragments",
+        "not-two-not-one"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-paul-bley"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "footloose",
+    "open-to-love",
+    "fragments",
+    "memoirs",
+    "not-two-not-one"
+  ]
+}

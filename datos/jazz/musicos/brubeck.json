@@ -28,13 +28,16 @@
     {
       "titulo": "El cuarteto con Desmond",
       "desde": 1951,
-      "hasta": 1957,
+      "hasta": 1958,
       "texto": "Formó su cuarteto en 1951, y el saxofonista Paul Desmond le dio al grupo una de sus voces distintivas.[^wp-brubeck]",
       "discoClave": {
         "disco": "jazz-at-oberlin",
         "explicacion": "El mejor registro de esos años, según críticos como Nat Hentoff y Gary Giddins."
       },
-      "discos": []
+      "discos": [
+        "dave-digs-disney",
+        "jazz-impressions-of-eurasia"
+      ]
     },
     {
       "titulo": "Time Out",
@@ -45,7 +48,9 @@
         "disco": "time-out",
         "explicacion": "Convirtió un experimento rítmico en un éxito masivo."
       },
-      "discos": []
+      "discos": [
+        "time-further-out"
+      ]
     }
   ],
   "fuentes": [
@@ -62,5 +67,12 @@
       "acceso": "indirecta",
       "aporta": "Paul Desmond cuenta el origen casual de \"Take Five\"."
     }
+  ],
+  "discosEsenciales": [
+    "jazz-at-oberlin",
+    "time-out",
+    "time-further-out",
+    "dave-digs-disney",
+    "jazz-impressions-of-eurasia"
   ]
 }

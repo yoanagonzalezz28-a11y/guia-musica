@@ -1,0 +1,55 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "arild-andersen",
+  "nombre": "Arild Andersen",
+  "nacimiento": {
+    "anio": 1945,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "contrabajo",
+    "composición"
+  ],
+  "corrientes": [
+    "ecm"
+  ],
+  "regiones": [
+    "nordicos"
+  ],
+  "spotify": null,
+  "resumen": "Contrabajista noruego, del grupo de los primeros años de ECM junto a Jan Garbarek, Terje Rypdal y Jon Christensen. Tocó en Estados Unidos con Sonny Rollins y Paul Bley, y después desarrolló un sonido propio, con efectos electrónicos y raíces folclóricas noruegas.",
+  "epocas": [
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 1975,
+      "hasta": 2014,
+      "texto": "",
+      "discoClave": {
+        "disco": "clouds-in-my-head",
+        "explicacion": "Su primer disco como líder: cuarteto con Knut Riisnæs y Jon Balke, todavía cerca del jazz modal."
+      },
+      "discos": [
+        "sagn",
+        "hyperborean",
+        "live-at-belleville",
+        "mira"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-arild-andersen"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "clouds-in-my-head",
+    "sagn",
+    "hyperborean",
+    "live-at-belleville",
+    "mira"
+  ]
+}

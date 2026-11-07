@@ -1,0 +1,61 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "nordicos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3umW5Iv1dGHICvfdtkwQ1H",
+    "tituloEnSpotify": "Libera Me (with Nils Petter Molvaer, Jon Christensen & Cæcilie Norby)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "libera-me",
+  "titulo": "Libera Me",
+  "credito": "Lars Danielsson",
+  "lideres": [],
+  "grabacion": {
+    "desde": 2004,
+    "hasta": 2004,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2004,
+    "detalle": null
+  },
+  "sello": "ACT Music",
+  "musicos": [
+    {
+      "musico": "jon-christensen",
+      "nombre": "Jon Christensen",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "danielsson",
+      "nombre": "Lars Danielsson",
+      "instrumento": "contrabajo"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Con Lars Danielsson y Nils Petter Molvær: lírico y orquestal."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

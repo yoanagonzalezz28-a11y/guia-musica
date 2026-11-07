@@ -1,0 +1,55 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "wasilewski",
+  "nombre": "Marcin Wasilewski",
+  "nacimiento": {
+    "anio": 1975,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "ecm",
+    "hoy"
+  ],
+  "regiones": [
+    "europa-este"
+  ],
+  "spotify": null,
+  "resumen": "Pianista polaco. Su trío con Sławomir Kurkiewicz y Michał Miśkiewicz acompañó a Tomasz Stańko y es uno de los tríos de piano más sólidos de Europa.",
+  "epocas": [
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 2005,
+      "hasta": 2025,
+      "texto": "",
+      "discoClave": {
+        "disco": "trio",
+        "explicacion": "Su debut en ECM: lírico, con una conexión muy fina entre los tres."
+      },
+      "discos": [
+        "january",
+        "spark-of-life",
+        "arctic-riff",
+        "homage"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-marcin-wasilewski"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "trio",
+    "january",
+    "spark-of-life",
+    "arctic-riff",
+    "homage"
+  ]
+}

@@ -45,7 +45,9 @@
         "disco": "brilliant-corners",
         "explicacion": "El primer disco del sello con composiciones propias, tocadas por un grupo de primer nivel."
       },
-      "discos": []
+      "discos": [
+        "monk-s-music"
+      ]
     },
     {
       "titulo": "Columbia",
@@ -56,7 +58,11 @@
         "disco": "monks-dream",
         "explicacion": "Vuelve a su propio repertorio con la banda que lo acompañó durante esta etapa."
       },
-      "discos": []
+      "discos": [
+        "criss-cross",
+        "solo-monk",
+        "straight-no-chaser"
+      ]
     }
   ],
   "fuentes": [
@@ -68,5 +74,12 @@
       "acceso": "completa",
       "aporta": "Ethan Iverson repasa toda su discografía, con entusiasmos y objeciones concretas."
     }
+  ],
+  "discosEsenciales": [
+    "genius-of-modern-music-1",
+    "brilliant-corners",
+    "monks-dream",
+    "criss-cross",
+    "solo-monk"
   ]
 }

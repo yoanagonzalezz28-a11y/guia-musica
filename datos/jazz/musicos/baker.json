@@ -37,6 +37,20 @@
       "discos": [
         "mulligan-quartet"
       ]
+    },
+    {
+      "titulo": "Cool",
+      "desde": 1956,
+      "hasta": 1979,
+      "texto": "",
+      "discoClave": {
+        "disco": "chet-baker-and-crew",
+        "explicacion": "Sexteto de la costa oeste con Phil Urso: un Chet más enérgico de lo habitual."
+      },
+      "discos": [
+        "chet",
+        "the-touch-of-your-lips"
+      ]
     }
   ],
   "fuentes": [
@@ -48,5 +62,11 @@
       "acceso": "indirecta",
       "aporta": "Su propio testimonio sobre cómo reaccionó el público cuando empezó a cantar."
     }
+  ],
+  "discosEsenciales": [
+    "chet-baker-sings",
+    "chet-baker-and-crew",
+    "chet",
+    "the-touch-of-your-lips"
   ]
 }

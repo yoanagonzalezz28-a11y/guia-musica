@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7Dd9kbH46vk4fIA9esp3rf",
+    "tituloEnSpotify": "Eastern Sounds (Remastered 2023)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "eastern-sounds",
+  "titulo": "Eastern Sounds",
+  "credito": "Yusef Lateef",
+  "lideres": [
+    "lateef"
+  ],
+  "grabacion": {
+    "desde": 1961,
+    "hasta": 1961,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1961,
+    "detalle": null
+  },
+  "sello": "Moodsville",
+  "musicos": [
+    {
+      "musico": "lateef",
+      "nombre": "Yusef Lateef",
+      "instrumento": "saxo tenor, flauta, oboe"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "Oboe, flauta y escalas orientales: un adelantado del jazz con músicas del mundo."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Eastern_Sounds"
+  },
+  "respaldo": []
+}

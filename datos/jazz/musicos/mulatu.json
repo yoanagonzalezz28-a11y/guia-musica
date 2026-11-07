@@ -35,6 +35,20 @@
         "explicacion": "Grabado en Nueva York."
       },
       "discos": []
+    },
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 1998,
+      "hasta": 2025,
+      "texto": "",
+      "discoClave": {
+        "disco": "ethiopiques-vol-4-ethio-jazz-and-musique-instrumen",
+        "explicacion": "La recopilación que lo dio a conocer en el mundo: vibráfono, órgano y escalas etíopes."
+      },
+      "discos": [
+        "mulatu-steps-ahead",
+        "mulatu-plays-mulatu"
+      ]
     }
   ],
   "epocasPendientes": [
@@ -55,5 +69,11 @@
       "acceso": "completa",
       "aporta": "Reseña de Mulatu Plays Mulatu."
     }
+  ],
+  "discosEsenciales": [
+    "mulatu-of-ethiopia",
+    "ethiopiques-vol-4-ethio-jazz-and-musique-instrumen",
+    "mulatu-steps-ahead",
+    "mulatu-plays-mulatu"
   ]
 }

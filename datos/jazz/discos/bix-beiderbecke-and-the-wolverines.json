@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Bix Beiderbecke and the Wolverines Bix Beiderbecke"
+  },
+  "id": "bix-beiderbecke-and-the-wolverines",
+  "titulo": "Bix Beiderbecke and the Wolverines",
+  "credito": "Bix Beiderbecke",
+  "lideres": [
+    "beiderbecke"
+  ],
+  "grabacion": {
+    "desde": 1924,
+    "hasta": 1924,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1924,
+    "detalle": null
+  },
+  "sello": "Gennett",
+  "musicos": [
+    {
+      "musico": "beiderbecke",
+      "nombre": "Bix Beiderbecke",
+      "instrumento": "corneta, piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "origenes"
+  ],
+  "comentario": [
+    "Sus primeras grabaciones: corneta clara y lírica, distinta de Armstrong."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

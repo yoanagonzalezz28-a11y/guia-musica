@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "oliver-nelson",
+  "nombre": "Oliver Nelson",
+  "nacimiento": {
+    "anio": 1932,
+    "lugar": "St. Louis"
+  },
+  "muerte": {
+    "anio": 1975
+  },
+  "instrumentos": [
+    "saxo",
+    "arreglos",
+    "composición"
+  ],
+  "corrientes": [
+    "hard-bop"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Saxofonista y arreglador que después compuso para el cine y la televisión. Su gran disco es una referencia del jazz de los 60.",
+  "epocas": [
+    {
+      "titulo": "Hard bop",
+      "desde": 1961,
+      "hasta": 1964,
+      "texto": "",
+      "discoClave": {
+        "disco": "the-blues-and-the-abstract-truth",
+        "explicacion": "Con Freddie Hubbard, Eric Dolphy y Bill Evans: \"Stolen Moments\" es un clásico."
+      },
+      "discos": [
+        "more-blues-and-the-abstract-truth",
+        "afro-american-sketches"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-oliver-nelson"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "the-blues-and-the-abstract-truth",
+    "more-blues-and-the-abstract-truth",
+    "afro-american-sketches"
+  ]
+}

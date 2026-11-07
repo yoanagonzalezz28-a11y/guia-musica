@@ -55,6 +55,11 @@
       "musico": "fattoruso",
       "nombre": "Hugo Fattoruso",
       "instrumento": "piano"
+    },
+    {
+      "musico": "ofattoruso",
+      "nombre": "Osvaldo Fattoruso",
+      "instrumento": "batería, voz"
     }
   ],
   "corrientes": [

@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6c2YK2NhQfnN1eyVqxF5bm",
+    "tituloEnSpotify": "The Touch Of Your Lips",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "the-touch-of-your-lips",
+  "titulo": "The Touch of Your Lips",
+  "credito": "Chet Baker",
+  "lideres": [
+    "baker"
+  ],
+  "grabacion": {
+    "desde": 1979,
+    "hasta": 1979,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1979,
+    "detalle": null
+  },
+  "sello": "SteepleChase",
+  "musicos": [
+    {
+      "musico": "baker",
+      "nombre": "Chet Baker",
+      "instrumento": "trompeta, voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "cool"
+  ],
+  "comentario": [
+    "Trío sin batería, grabado en Dinamarca: el Chet tardío, frágil y muy expresivo."
+  ],
+  "ids": {
+    "musicbrainz": "b90093c9-5f33-3c97-8b4d-23c0547d93e1",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

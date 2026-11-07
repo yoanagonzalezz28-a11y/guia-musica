@@ -1,0 +1,60 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Money Jungle Duke Ellington"
+  },
+  "id": "money-jungle",
+  "titulo": "Money Jungle",
+  "credito": "Duke Ellington",
+  "lideres": [
+    "ellington"
+  ],
+  "grabacion": {
+    "desde": 1963,
+    "hasta": 1963,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1963,
+    "detalle": null
+  },
+  "sello": "United Artists",
+  "musicos": [
+    {
+      "musico": "ellington",
+      "nombre": "Duke Ellington",
+      "instrumento": "piano, composición, dirección"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Trío con Charles Mingus y Max Roach: Ellington como pianista moderno, áspero y percusivo."
+  ],
+  "resenaExtensa": [
+    "Se grabó en un solo día de septiembre de 1962. Mingus y Roach eran de una generación posterior, y la tensión se nota: Mingus estuvo a punto de irse en plena sesión.",
+    "Importa porque muestra a Ellington lejos de su orquesta, demostrando que su piano podía estar a la altura del jazz más moderno."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Money_Jungle"
+  },
+  "respaldo": []
+}

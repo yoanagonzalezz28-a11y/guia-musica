@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4RTqDJ4oYVxpgd8Hbt73Bt",
+    "tituloEnSpotify": "Tauhid",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "tauhid",
+  "titulo": "Tauhid",
+  "credito": "Pharoah Sanders",
+  "lideres": [
+    "sanders"
+  ],
+  "grabacion": {
+    "desde": 1967,
+    "hasta": 1967,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1967,
+    "detalle": null
+  },
+  "sello": "Impulse!",
+  "musicos": [
+    {
+      "musico": "sanders",
+      "nombre": "Pharoah Sanders",
+      "instrumento": "saxo tenor"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "free"
+  ],
+  "comentario": [
+    "Su primer disco en Impulse!: espiritual, con Sonny Sharrock en guitarra."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Tauhid_(album)"
+  },
+  "respaldo": []
+}

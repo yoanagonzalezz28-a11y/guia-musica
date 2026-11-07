@@ -1,0 +1,51 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "barron",
+  "nombre": "Kenny Barron",
+  "nacimiento": {
+    "anio": 1943,
+    "lugar": "Filadelfia"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "hard-bop"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Pianista elegante y versátil, que tocó con Dizzy Gillespie y Stan Getz y lideró el cuarteto Sphere, dedicado a Monk.",
+  "epocas": [
+    {
+      "titulo": "Hard bop",
+      "desde": 1983,
+      "hasta": 2009,
+      "texto": "",
+      "discoClave": {
+        "disco": "landscape",
+        "explicacion": "Trío de una claridad perfecta."
+      },
+      "discos": [
+        "minor-blues",
+        "flight-path"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-kenny-barron"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "people-time",
+    "landscape",
+    "minor-blues",
+    "flight-path"
+  ]
+}

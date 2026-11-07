@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3Pj04LF6C6giZdzHYoSyLL",
+    "tituloEnSpotify": "Tempo Di Chet",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "tempo-di-chet",
+  "titulo": "Tempo di Chet",
+  "credito": "Paolo Fresu",
+  "lideres": [
+    "fresu"
+  ],
+  "grabacion": {
+    "desde": 2015,
+    "hasta": 2015,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2015,
+    "detalle": null
+  },
+  "sello": "Tǔk Music",
+  "musicos": [
+    {
+      "musico": "fresu",
+      "nombre": "Paolo Fresu",
+      "instrumento": "trompeta, fliscorno"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "cool"
+  ],
+  "comentario": [
+    "Homenaje a Chet Baker, grabado para una obra de teatro sobre él."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

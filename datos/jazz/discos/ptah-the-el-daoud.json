@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6XyhwP7a50E4u83H9aM8sD",
+    "tituloEnSpotify": "Ptah The El Daoud",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "ptah-the-el-daoud",
+  "titulo": "Ptah, the El Daoud",
+  "credito": "Alice Coltrane",
+  "lideres": [
+    "alice"
+  ],
+  "grabacion": {
+    "desde": 1970,
+    "hasta": 1970,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1970,
+    "detalle": null
+  },
+  "sello": "Impulse!",
+  "musicos": [
+    {
+      "musico": "alice",
+      "nombre": "Alice Coltrane",
+      "instrumento": "piano, arpa, órgano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "free"
+  ],
+  "comentario": [
+    "Con Pharoah Sanders y Joe Henderson: piano y arpa, espiritual y muy hipnótico."
+  ],
+  "ids": {
+    "musicbrainz": "fff2cc9b-1747-321d-8dff-6addb7c3ce96",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Ptah,_the_El_Daoud"
+  },
+  "respaldo": []
+}

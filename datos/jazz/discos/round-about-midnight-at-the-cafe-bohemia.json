@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "'Round About Midnight at the Cafe Bohemia Kenny Dorham"
+  },
+  "id": "round-about-midnight-at-the-cafe-bohemia",
+  "titulo": "'Round About Midnight at the Cafe Bohemia",
+  "credito": "Kenny Dorham",
+  "lideres": [
+    "dorham"
+  ],
+  "grabacion": {
+    "desde": 1956,
+    "hasta": 1956,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1956,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "dorham",
+      "nombre": "Kenny Dorham",
+      "instrumento": "trompeta"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "En vivo con Kenny Burrell y Bobby Timmons: hard bop elegante."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

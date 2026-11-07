@@ -6,7 +6,7 @@
   "regiones": [
     "estados-unidos"
   ],
-  "spotify": null,
+  "spotify": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7",
   "id": "marsalis",
   "nombre": "Wynton Marsalis",
   "nacimiento": {
@@ -26,13 +26,15 @@
     {
       "titulo": "El primer quinteto",
       "desde": 1982,
-      "hasta": 1985,
+      "hasta": 1986,
       "texto": "Salió de los Jazz Messengers y formó un grupo con su hermano Branford, Kenny Kirkland y Jeff \"Tain\" Watts.[^wp-marsalis]",
       "discoClave": {
         "disco": "black-codes",
         "explicacion": "El disco más ambicioso de esa formación."
       },
-      "discos": []
+      "discos": [
+        "j-mood"
+      ]
     },
     {
       "titulo": "El Lincoln Center",
@@ -42,6 +44,19 @@
       "discoClave": {
         "disco": "blood-fields",
         "explicacion": "Un oratorio sobre la esclavitud, ganador del Pulitzer."
+      },
+      "discos": [
+        "standard-time-vol-1"
+      ]
+    },
+    {
+      "titulo": "Neotradicionalismo",
+      "desde": 1999,
+      "hasta": 1999,
+      "texto": "",
+      "discoClave": {
+        "disco": "marsalis-plays-monk-standard-time-vol-4",
+        "explicacion": "Monk arreglado para septeto."
       },
       "discos": []
     }
@@ -60,5 +75,12 @@
       "acceso": "completa",
       "aporta": "Charles McPherson comenta su evolución en un Blindfold Test."
     }
+  ],
+  "discosEsenciales": [
+    "black-codes",
+    "blood-fields",
+    "standard-time-vol-1",
+    "marsalis-plays-monk-standard-time-vol-4",
+    "j-mood"
   ]
 }

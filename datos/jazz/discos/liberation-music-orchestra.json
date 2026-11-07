@@ -37,6 +37,11 @@
       "musico": "haden",
       "nombre": "Charlie Haden",
       "instrumento": "contrabajo"
+    },
+    {
+      "musico": "carla",
+      "nombre": "Carla Bley",
+      "instrumento": "piano, órgano, composición"
     }
   ],
   "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",

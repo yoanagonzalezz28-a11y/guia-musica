@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "danielsson",
+  "nombre": "Lars Danielsson",
+  "nacimiento": {
+    "anio": 1958,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "contrabajo",
+    "violonchelo",
+    "composición"
+  ],
+  "corrientes": [
+    "ecm",
+    "hoy"
+  ],
+  "regiones": [
+    "nordicos"
+  ],
+  "spotify": null,
+  "resumen": "Contrabajista sueco de sonido muy melódico, que también toca el violonchelo. Sus discos para ACT combinan el jazz con la canción escandinava y la música de cámara.",
+  "epocas": [
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 2009,
+      "hasta": 2018,
+      "texto": "",
+      "discoClave": {
+        "disco": "tarantella",
+        "explicacion": "Con Leszek Możdżer: melodías mediterráneas y piano polaco."
+      },
+      "discos": [
+        "liberetto",
+        "liberetto-ii",
+        "summerwind"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-lars-danielsson"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "libera-me",
+    "tarantella",
+    "liberetto",
+    "liberetto-ii",
+    "summerwind"
+  ]
+}

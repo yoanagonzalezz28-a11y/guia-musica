@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7s6ExEC25Hy8JirFPrghQY",
+    "tituloEnSpotify": "Romaria",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "romaria",
+  "titulo": "Romaria",
+  "credito": "Andy Sheppard",
+  "lideres": [
+    "sheppard"
+  ],
+  "grabacion": {
+    "desde": 2018,
+    "hasta": 2018,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2018,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "sheppard",
+      "nombre": "Andy Sheppard",
+      "instrumento": "saxo tenor, saxo soprano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "El cuarteto, con un tema del brasileño Renato Teixeira."
+  ],
+  "ids": {
+    "musicbrainz": "8d8c448d-41f9-45fd-b98a-02454918d030",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

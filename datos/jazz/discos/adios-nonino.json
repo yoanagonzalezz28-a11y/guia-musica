@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Adiós Nonino Astor Piazzolla"
+  },
+  "id": "adios-nonino",
+  "titulo": "Adiós Nonino",
+  "credito": "Astor Piazzolla",
+  "lideres": [
+    "piazzolla"
+  ],
+  "grabacion": {
+    "desde": 1969,
+    "hasta": 1969,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1969,
+    "detalle": null
+  },
+  "sello": "Trova",
+  "musicos": [
+    {
+      "musico": "piazzolla",
+      "nombre": "Astor Piazzolla",
+      "instrumento": "bandoneón, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "El tema dedicado a su padre, en una de sus grandes versiones."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

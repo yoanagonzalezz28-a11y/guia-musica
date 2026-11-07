@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "marsh",
+  "nombre": "Warne Marsh",
+  "nacimiento": {
+    "anio": 1927,
+    "lugar": "Los Ángeles"
+  },
+  "muerte": {
+    "anio": 1987
+  },
+  "instrumentos": [
+    "saxo tenor"
+  ],
+  "corrientes": [
+    "cool"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Discípulo de Lennie Tristano, de sonido suave y líneas largas e impredecibles. Formó con Lee Konitz un dúo de saxos de una afinidad enorme.",
+  "epocas": [
+    {
+      "titulo": "Cool",
+      "desde": 1955,
+      "hasta": 1982,
+      "texto": "",
+      "discoClave": {
+        "disco": "warne-marsh",
+        "explicacion": "Con Paul Chambers y Philly Joe Jones: un tenor sutil sobre una sección de hard bop."
+      },
+      "discos": [
+        "lee-konitz-with-warne-marsh",
+        "ne-plus-ultra",
+        "star-highs"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-warne-marsh"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "warne-marsh",
+    "lee-konitz-with-warne-marsh",
+    "ne-plus-ultra",
+    "star-highs"
+  ]
+}

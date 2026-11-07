@@ -34,6 +34,21 @@
         "explicacion": "El disco más raro de ECM, según AllMusic."
       },
       "discos": []
+    },
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 2000,
+      "hasta": 2021,
+      "texto": "",
+      "discoClave": {
+        "disco": "solid-ether",
+        "explicacion": "Trompeta y electrónica, más pesada que *Khmer*."
+      },
+      "discos": [
+        "np3",
+        "switch",
+        "stitches"
+      ]
     }
   ],
   "fuentes": [
@@ -45,5 +60,12 @@
       "acceso": "indirecta",
       "aporta": "Christian Genzel destaca su mezcla de jazz y electrónica."
     }
+  ],
+  "discosEsenciales": [
+    "khmer",
+    "solid-ether",
+    "np3",
+    "switch",
+    "stitches"
   ]
 }

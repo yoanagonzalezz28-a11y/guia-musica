@@ -32,7 +32,23 @@
         "disco": "the-epic",
         "explicacion": "Casi tres horas de jazz espiritual."
       },
-      "discos": []
+      "discos": [
+        "harmony-of-difference",
+        "heaven-and-earth"
+      ]
+    },
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2020,
+      "hasta": 2024,
+      "texto": "",
+      "discoClave": {
+        "disco": "fearless-movement",
+        "explicacion": "Con invitados del hip hop: su disco más bailable."
+      },
+      "discos": [
+        "becoming"
+      ]
     }
   ],
   "fuentes": [
@@ -44,5 +60,12 @@
       "acceso": "indirecta",
       "aporta": "Thom Jurek destaca que amplió la conversación sobre el jazz."
     }
+  ],
+  "discosEsenciales": [
+    "the-epic",
+    "harmony-of-difference",
+    "heaven-and-earth",
+    "fearless-movement",
+    "becoming"
   ]
 }

@@ -1,0 +1,52 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "fletcher-henderson",
+  "nombre": "Fletcher Henderson",
+  "nacimiento": {
+    "anio": 1897,
+    "lugar": "Cuthbert, Georgia"
+  },
+  "muerte": {
+    "anio": 1952
+  },
+  "instrumentos": [
+    "piano",
+    "arreglos",
+    "dirección"
+  ],
+  "corrientes": [
+    "swing"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Su orquesta de los años 20 inventó la big band de swing: secciones de vientos que se contestan y solistas como Louis Armstrong y Coleman Hawkins. Después, sus arreglos hicieron famoso a Benny Goodman.",
+  "epocas": [
+    {
+      "titulo": "Swing",
+      "desde": 1961,
+      "hasta": 1990,
+      "texto": "",
+      "discoClave": {
+        "disco": "a-study-in-frustration",
+        "explicacion": "Recopilación de sus grabaciones de 1923 a 1938: el nacimiento de la big band."
+      },
+      "discos": [
+        "hocus-pocus"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-fletcher-henderson"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "a-study-in-frustration",
+    "hocus-pocus"
+  ]
+}

@@ -35,7 +35,21 @@
         "explicacion": "Su disco más logrado de los 60, para muchos."
       },
       "discos": [
-        "speak-no-evil"
+        "speak-no-evil",
+        "empyrean-isles"
+      ]
+    },
+    {
+      "titulo": "Fusión",
+      "desde": 1971,
+      "hasta": 1983,
+      "texto": "",
+      "discoClave": {
+        "disco": "mwandishi",
+        "explicacion": "Su sexteto eléctrico y experimental: largas piezas de espacio y ritmo."
+      },
+      "discos": [
+        "future-shock"
       ]
     },
     {
@@ -50,6 +64,17 @@
       "discos": [
         "native-dancer"
       ]
+    },
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2007,
+      "hasta": 2007,
+      "texto": "",
+      "discoClave": {
+        "disco": "river-the-joni-letters",
+        "explicacion": "Canciones de Joni Mitchell: ganó el Grammy al disco del año."
+      },
+      "discos": []
     }
   ],
   "epocasPendientes": [
@@ -64,5 +89,12 @@
       "acceso": "indirecta",
       "aporta": "La Penguin Guide destaca lo que logró con apenas 24 años."
     }
+  ],
+  "discosEsenciales": [
+    "maiden-voyage",
+    "head-hunters",
+    "empyrean-isles",
+    "mwandishi",
+    "future-shock"
   ]
 }

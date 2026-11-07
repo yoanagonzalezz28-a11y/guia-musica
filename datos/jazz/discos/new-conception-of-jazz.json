@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "nordicos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "New Conception of Jazz Bugge Wesseltoft"
+  },
+  "id": "new-conception-of-jazz",
+  "titulo": "New Conception of Jazz",
+  "credito": "Bugge Wesseltoft",
+  "lideres": [
+    "wesseltoft"
+  ],
+  "grabacion": {
+    "desde": 1996,
+    "hasta": 1996,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1996,
+    "detalle": null
+  },
+  "sello": "Jazzland",
+  "musicos": [
+    {
+      "musico": "wesseltoft",
+      "nombre": "Bugge Wesseltoft",
+      "instrumento": "piano, teclados, electrónica"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Jazz con bases electrónicas: uno de los primeros discos de lo que se llamó future jazz."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

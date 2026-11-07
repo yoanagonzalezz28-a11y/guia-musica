@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6Nyc37jV5GlyqeGJ9EN75j",
+    "tituloEnSpotify": "The Dreamer Is The Dream",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "the-dreamer-is-the-dream",
+  "titulo": "The Dreamer Is the Dream",
+  "credito": "Chris Potter",
+  "lideres": [
+    "potter"
+  ],
+  "grabacion": {
+    "desde": 2017,
+    "hasta": 2017,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2017,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "potter",
+      "nombre": "Chris Potter",
+      "instrumento": "saxo tenor, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Cuarteto acústico con David Virelles: lírico."
+  ],
+  "ids": {
+    "musicbrainz": "d8808a3a-58c3-40f4-a744-459f84b645ea",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Pilgrimage Michael Brecker"
+  },
+  "id": "pilgrimage",
+  "titulo": "Pilgrimage",
+  "credito": "Michael Brecker",
+  "lideres": [
+    "brecker"
+  ],
+  "grabacion": {
+    "desde": 2007,
+    "hasta": 2007,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2007,
+    "detalle": null
+  },
+  "sello": "Heads Up",
+  "musicos": [
+    {
+      "musico": "brecker",
+      "nombre": "Michael Brecker",
+      "instrumento": "saxo tenor"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Grabado poco antes de su muerte, con Herbie Hancock y Brad Mehldau."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

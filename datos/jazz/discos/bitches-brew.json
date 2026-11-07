@@ -62,7 +62,7 @@
       "instrumento": "guitarra eléctrica"
     },
     {
-      "musico": null,
+      "musico": "holland",
       "nombre": "Dave Holland",
       "instrumento": "contrabajo"
     },
@@ -77,7 +77,7 @@
       "instrumento": "batería"
     },
     {
-      "musico": null,
+      "musico": "dejohnette",
       "nombre": "Jack DeJohnette",
       "instrumento": "batería"
     }
@@ -106,5 +106,9 @@
       "acceso": "completa",
       "aporta": "Larry Coryell resume a esa generación: \"We loved Miles but we also loved the Rolling Stones\"."
     }
+  ],
+  "resenaExtensa": [
+    "Se grabó en tres días de agosto de 1969, con dos baterías, dos o tres teclados eléctricos, clarinete bajo y guitarra. Teo Macero cortó y pegó las tomas como si fueran cinta de un collage.",
+    "Importa porque de esa sala salieron Weather Report, Return to Forever y la Mahavishnu Orchestra: medio mapa de la fusión de los 70."
   ]
 }

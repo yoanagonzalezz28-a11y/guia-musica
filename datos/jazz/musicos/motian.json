@@ -1,0 +1,68 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "motian",
+  "nombre": "Paul Motian",
+  "nacimiento": {
+    "anio": 1931,
+    "lugar": "Filadelfia"
+  },
+  "muerte": {
+    "anio": 2011
+  },
+  "instrumentos": [
+    "batería",
+    "composición"
+  ],
+  "corrientes": [
+    "cool",
+    "ecm"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX",
+  "resumen": "Baterista del trío de Bill Evans en el Village Vanguard. Después armó sus propios grupos sin bajo, con Bill Frisell y Joe Lovano, de un sonido muy libre y melódico.",
+  "epocas": [
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 1975,
+      "hasta": 2010,
+      "texto": "",
+      "discoClave": {
+        "disco": "tribute",
+        "explicacion": "Con Carlos Ward y Sam Brown: música abierta y tranquila."
+      },
+      "discos": [
+        "le-voyage",
+        "it-should-ve-happened-a-long-time-ago",
+        "lost-in-a-dream"
+      ]
+    },
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2006,
+      "hasta": 2006,
+      "texto": "",
+      "discoClave": {
+        "disco": "on-broadway-vol-4-or-the-paradox-of-continuity",
+        "explicacion": "Estándares de Broadway, tocados con su libertad característica."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-paul-motian"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "tribute",
+    "le-voyage",
+    "it-should-ve-happened-a-long-time-ago",
+    "on-broadway-vol-4-or-the-paradox-of-continuity",
+    "lost-in-a-dream"
+  ]
+}

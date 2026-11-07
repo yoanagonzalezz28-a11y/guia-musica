@@ -1,0 +1,66 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "nordicos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6dmq2NJgWAvrzRVrpPwkzv",
+    "tituloEnSpotify": "Belonging",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "belonging",
+  "titulo": "Belonging",
+  "credito": "Keith Jarrett",
+  "lideres": [],
+  "grabacion": {
+    "desde": 1974,
+    "hasta": 1974,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1974,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "garbarek",
+      "nombre": "Jan Garbarek",
+      "instrumento": "saxo tenor, saxo soprano"
+    },
+    {
+      "musico": "jarrett",
+      "nombre": "Keith Jarrett",
+      "instrumento": "piano"
+    },
+    {
+      "musico": "jon-christensen",
+      "nombre": "Jon Christensen",
+      "instrumento": "batería"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Con Keith Jarrett: el \"cuarteto europeo\", de una luz muy nórdica."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Belonging_(Keith_Jarrett_album)"
+  },
+  "respaldo": []
+}

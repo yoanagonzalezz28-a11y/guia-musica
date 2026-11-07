@@ -1,0 +1,76 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "holland",
+  "nombre": "Dave Holland",
+  "nacimiento": {
+    "anio": 1946,
+    "lugar": "Wolverhampton"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "contrabajo",
+    "composición"
+  ],
+  "corrientes": [
+    "free",
+    "ecm"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH",
+  "resumen": "Contrabajista inglés que llegó a Estados Unidos para tocar con Miles Davis en *Bitches Brew*. Sus grupos combinan compases complejos, groove y mucha escritura.",
+  "epocas": [
+    {
+      "titulo": "Free jazz",
+      "desde": 1973,
+      "hasta": 1973,
+      "texto": "",
+      "discoClave": {
+        "disco": "conference-of-the-birds",
+        "explicacion": "Con Anthony Braxton, Sam Rivers y Barry Altschul: libre y melódico a la vez."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 1990,
+      "hasta": 2002,
+      "texto": "",
+      "discoClave": {
+        "disco": "extensions-holland",
+        "explicacion": "Con Steve Coleman y Kevin Eubanks: groove y compases raros."
+      },
+      "discos": [
+        "prime-directive",
+        "what-goes-around"
+      ]
+    },
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2019,
+      "hasta": 2019,
+      "texto": "",
+      "discoClave": {
+        "disco": "good-hope",
+        "explicacion": "Trío con Zakir Hussain y Chris Potter: percusión india y jazz."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-dave-holland"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "conference-of-the-birds",
+    "extensions-holland",
+    "prime-directive",
+    "what-goes-around",
+    "good-hope"
+  ]
+}

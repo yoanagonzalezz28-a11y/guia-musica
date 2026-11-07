@@ -24,6 +24,19 @@
   "resumen": "Pianista de Recife que trabaja sobre las tradiciones afrobrasileñas e indígenas, con el piano preparado.[^db-amaro]",
   "epocas": [
     {
+      "titulo": "Jazz brasileño",
+      "desde": 2016,
+      "hasta": 2018,
+      "texto": "",
+      "discoClave": {
+        "disco": "rasif",
+        "explicacion": "Trío de Recife: frevo y maracatú en clave de jazz."
+      },
+      "discos": [
+        "sangue-negro"
+      ]
+    },
+    {
       "titulo": "Sankofa y Y'Y",
       "desde": 2021,
       "hasta": 2024,
@@ -32,7 +45,9 @@
         "disco": "sankofa",
         "explicacion": "Ocho homenajes a músicos brasileños."
       },
-      "discos": []
+      "discos": [
+        "y-y"
+      ]
     }
   ],
   "fuentes": [
@@ -44,5 +59,11 @@
       "acceso": "completa",
       "aporta": "Randall Roberts reseña Y'Y y recuerda Sankofa."
     }
+  ],
+  "discosEsenciales": [
+    "sankofa",
+    "y-y",
+    "rasif",
+    "sangue-negro"
   ]
 }

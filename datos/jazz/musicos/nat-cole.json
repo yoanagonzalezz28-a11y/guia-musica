@@ -1,0 +1,53 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "nat-cole",
+  "nombre": "Nat King Cole",
+  "nacimiento": {
+    "anio": 1919,
+    "lugar": "Montgomery, Alabama"
+  },
+  "muerte": {
+    "anio": 1965
+  },
+  "instrumentos": [
+    "piano",
+    "voz"
+  ],
+  "corrientes": [
+    "swing"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Antes de ser una estrella de la canción, fue uno de los pianistas más influyentes del swing, con un trío de piano, guitarra y contrabajo que copiaron Oscar Peterson y Ahmad Jamal.",
+  "epocas": [
+    {
+      "titulo": "Swing",
+      "desde": 1957,
+      "hasta": 1991,
+      "texto": "",
+      "discoClave": {
+        "disco": "after-midnight",
+        "explicacion": "Vuelve al jazz con su trío e invitados como Harry Edison: el disco preferido de los jazzeros."
+      },
+      "discos": [
+        "the-very-thought-of-you",
+        "the-complete-capitol-recordings-of-the-nat-king-co"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-nat-king-cole"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "after-midnight",
+    "the-very-thought-of-you",
+    "the-complete-capitol-recordings-of-the-nat-king-co"
+  ]
+}

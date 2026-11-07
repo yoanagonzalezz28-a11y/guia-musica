@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Special Edition Jack DeJohnette"
+  },
+  "id": "special-edition",
+  "titulo": "Special Edition",
+  "credito": "Jack DeJohnette",
+  "lideres": [
+    "dejohnette"
+  ],
+  "grabacion": {
+    "desde": 1980,
+    "hasta": 1980,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1980,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "dejohnette",
+      "nombre": "Jack DeJohnette",
+      "instrumento": "batería, piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Con David Murray y Arthur Blythe: groove libre y mucho swing."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -36,6 +36,19 @@
         "disco": "scenery",
         "explicacion": "Su debut, y el disco por el que hoy lo conoce el mundo."
       },
+      "discos": [
+        "mellow-dream"
+      ]
+    },
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 1999,
+      "hasta": 1999,
+      "texto": "",
+      "discoClave": {
+        "disco": "ryo-fukui-in-new-york",
+        "explicacion": "Grabado en Nueva York con músicos de allá."
+      },
       "discos": []
     }
   ],
@@ -58,5 +71,10 @@
       "acceso": "completa",
       "aporta": "Repasa su vida, su formación y su vínculo con Barry Harris."
     }
+  ],
+  "discosEsenciales": [
+    "scenery",
+    "mellow-dream",
+    "ryo-fukui-in-new-york"
   ]
 }

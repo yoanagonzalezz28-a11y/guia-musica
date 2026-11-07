@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7zjXm5zkxvBMU3JhE7D3ZM",
+    "tituloEnSpotify": "Cannonball Adderley Sextet In New York",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "cannonball-adderley-sextet-in-new-york",
+  "titulo": "Cannonball Adderley Sextet in New York",
+  "credito": "Cannonball Adderley",
+  "lideres": [
+    "adderley"
+  ],
+  "grabacion": {
+    "desde": 1962,
+    "hasta": 1962,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1962,
+    "detalle": null
+  },
+  "sello": "Riverside",
+  "musicos": [
+    {
+      "musico": "adderley",
+      "nombre": "Cannonball Adderley",
+      "instrumento": "saxo alto"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Con Yusef Lateef: hard bop con mucho groove y un toque de música oriental."
+  ],
+  "ids": {
+    "musicbrainz": "9cb8a61e-3e98-47c7-9b93-013e6ea404fe",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

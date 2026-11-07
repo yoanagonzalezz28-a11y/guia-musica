@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "wesseltoft",
+  "nombre": "Bugge Wesseltoft",
+  "nacimiento": {
+    "anio": 1964,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano",
+    "teclados",
+    "electrónica"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "regiones": [
+    "nordicos"
+  ],
+  "spotify": "https://open.spotify.com/artist/1QmN1bgfUC7G74P3LiJRgf",
+  "resumen": "Pianista noruego, pionero del cruce entre jazz y electrónica a mediados de los 90 con su New Conception of Jazz. Fundó el sello Jazzland.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 1996,
+      "hasta": 2004,
+      "texto": "",
+      "discoClave": {
+        "disco": "new-conception-of-jazz",
+        "explicacion": "Jazz con bases electrónicas: uno de los primeros discos de lo que se llamó future jazz."
+      },
+      "discos": [
+        "it-s-snowing-on-my-piano",
+        "moving",
+        "filming"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-bugge-wesseltoft"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "new-conception-of-jazz",
+    "it-s-snowing-on-my-piano",
+    "moving",
+    "filming"
+  ]
+}

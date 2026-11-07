@@ -1,0 +1,49 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "sheppard",
+  "nombre": "Andy Sheppard",
+  "nacimiento": {
+    "anio": 1957,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "saxo tenor",
+    "saxo soprano"
+  ],
+  "corrientes": [
+    "ecm"
+  ],
+  "regiones": [],
+  "spotify": "https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD",
+  "resumen": "Saxofonista inglés que tocó con Carla Bley. Sus discos para ECM tienen un sonido muy cálido y mediterráneo.",
+  "epocas": [
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 2012,
+      "hasta": 2018,
+      "texto": "",
+      "discoClave": {
+        "disco": "trio-libero",
+        "explicacion": "Trío con Michel Benita y Sebastian Rochford: saxo libre y melódico."
+      },
+      "discos": [
+        "surrounded-by-sea",
+        "romaria"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-andy-sheppard"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "trio-libero",
+    "surrounded-by-sea",
+    "romaria"
+  ]
+}

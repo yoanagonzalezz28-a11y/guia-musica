@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "nigeria"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Sorrow, Tears and Blood Fela Kuti"
+  },
+  "id": "sorrow-tears-and-blood",
+  "titulo": "Sorrow, Tears and Blood",
+  "credito": "Fela Kuti",
+  "lideres": [
+    "fela"
+  ],
+  "grabacion": {
+    "desde": 1977,
+    "hasta": 1977,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1977,
+    "detalle": null
+  },
+  "sello": "Kalakuta",
+  "musicos": [
+    {
+      "musico": "fela",
+      "nombre": "Fela Kuti",
+      "instrumento": "saxo, teclados, voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "Escrito tras el ataque a su comuna: afrobeat de protesta."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

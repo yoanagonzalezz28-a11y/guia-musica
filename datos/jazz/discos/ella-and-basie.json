@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/752AJr22BFy9yubj4XJauv",
+    "tituloEnSpotify": "Ella And Basie",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "ella-and-basie",
+  "titulo": "Ella and Basie!",
+  "credito": "Ella Fitzgerald",
+  "lideres": [
+    "fitzgerald"
+  ],
+  "grabacion": {
+    "desde": 1963,
+    "hasta": 1963,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1963,
+    "detalle": null
+  },
+  "sello": "Verve",
+  "musicos": [
+    {
+      "musico": "fitzgerald",
+      "nombre": "Ella Fitzgerald",
+      "instrumento": "voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "Con la orquesta de Count Basie y arreglos de Quincy Jones: swing perfecto."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Ella_and_Basie!"
+  },
+  "respaldo": []
+}

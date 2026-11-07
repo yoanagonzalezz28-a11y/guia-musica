@@ -38,6 +38,20 @@
       "discos": [
         "birth-of-the-cool"
       ]
+    },
+    {
+      "titulo": "Cool",
+      "desde": 1957,
+      "hasta": 1963,
+      "texto": "",
+      "discoClave": {
+        "disco": "night-lights",
+        "explicacion": "Con Art Farmer y Jim Hall: jazz nocturno y suave."
+      },
+      "discos": [
+        "mulligan-meets-monk",
+        "reunion-with-chet-baker"
+      ]
     }
   ],
   "fuentes": [
@@ -49,5 +63,11 @@
       "acceso": "extracto",
       "aporta": "La Biblioteca del Congreso conserva su archivo y destaca la influencia del cuarteto."
     }
+  ],
+  "discosEsenciales": [
+    "mulligan-quartet",
+    "night-lights",
+    "mulligan-meets-monk",
+    "reunion-with-chet-baker"
   ]
 }

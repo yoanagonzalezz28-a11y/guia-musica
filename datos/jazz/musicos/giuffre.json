@@ -1,0 +1,67 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "giuffre",
+  "nombre": "Jimmy Giuffre",
+  "nacimiento": {
+    "anio": 1921,
+    "lugar": "Dallas"
+  },
+  "muerte": {
+    "anio": 2008
+  },
+  "instrumentos": [
+    "clarinete",
+    "saxo",
+    "composición"
+  ],
+  "corrientes": [
+    "cool",
+    "free"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Clarinetista y compositor que escribió \"Four Brothers\" para Woody Herman. Después armó tríos sin batería, muy silenciosos, que anticiparon el free y el sonido ECM.",
+  "epocas": [
+    {
+      "titulo": "Cool",
+      "desde": 1957,
+      "hasta": 1957,
+      "texto": "",
+      "discoClave": {
+        "disco": "the-jimmy-giuffre-3",
+        "explicacion": "Con Jim Hall: clarinete, guitarra y contrabajo, casi folk."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Free jazz",
+      "desde": 1961,
+      "hasta": 1963,
+      "texto": "",
+      "discoClave": {
+        "disco": "fusion",
+        "explicacion": "Trío con Paul Bley y Steve Swallow: libre, de cámara y muy delicado."
+      },
+      "discos": [
+        "thesis",
+        "free-fall"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-jimmy-giuffre"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "the-jimmy-giuffre-3",
+    "fusion",
+    "thesis",
+    "free-fall"
+  ]
+}

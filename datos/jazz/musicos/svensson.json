@@ -34,7 +34,12 @@
         "disco": "seven-days",
         "explicacion": "El disco que cruzó a las listas de pop."
       },
-      "discos": []
+      "discos": [
+        "strange-place-for-snow",
+        "leucocyte",
+        "viaticum",
+        "from-gagarin-s-point-of-view"
+      ]
     }
   ],
   "fuentes": [
@@ -46,5 +51,12 @@
       "acceso": "completa",
       "aporta": "La historia del trío y sus influencias."
     }
+  ],
+  "discosEsenciales": [
+    "seven-days",
+    "strange-place-for-snow",
+    "leucocyte",
+    "viaticum",
+    "from-gagarin-s-point-of-view"
   ]
 }

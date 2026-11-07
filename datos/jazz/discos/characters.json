@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Characters John Abercrombie"
+  },
+  "id": "characters",
+  "titulo": "Characters",
+  "credito": "John Abercrombie",
+  "lideres": [
+    "abercrombie"
+  ],
+  "grabacion": {
+    "desde": 1978,
+    "hasta": 1978,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1978,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "abercrombie",
+      "nombre": "John Abercrombie",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Guitarra sola: piezas cortas, casi miniaturas."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

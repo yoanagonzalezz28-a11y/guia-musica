@@ -37,6 +37,11 @@
       "musico": "henderson",
       "nombre": "Joe Henderson",
       "instrumento": "saxo tenor"
+    },
+    {
+      "musico": "dorham",
+      "nombre": "Kenny Dorham",
+      "instrumento": "trompeta"
     }
   ],
   "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",

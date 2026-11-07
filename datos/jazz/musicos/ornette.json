@@ -35,7 +35,23 @@
         "disco": "shape-of-jazz",
         "explicacion": "El manifiesto de esta música, y además un disco muy melódico."
       },
-      "discos": []
+      "discos": [
+        "free-jazz-a-collective-improvisation",
+        "change-of-the-century"
+      ]
+    },
+    {
+      "titulo": "Free jazz",
+      "desde": 1965,
+      "hasta": 1977,
+      "texto": "",
+      "discoClave": {
+        "disco": "at-the-golden-circle-stockholm-vol-1",
+        "explicacion": "Trío en Estocolmo: también toca violín y trompeta."
+      },
+      "discos": [
+        "dancing-in-your-head"
+      ]
     }
   ],
   "epocasPendientes": [
@@ -62,5 +78,12 @@
       "acceso": "completa",
       "aporta": "Gioia lo usa de ejemplo: las revoluciones no siempre nacen en los grandes centros culturales."
     }
+  ],
+  "discosEsenciales": [
+    "shape-of-jazz",
+    "free-jazz-a-collective-improvisation",
+    "change-of-the-century",
+    "at-the-golden-circle-stockholm-vol-1",
+    "dancing-in-your-head"
   ]
 }

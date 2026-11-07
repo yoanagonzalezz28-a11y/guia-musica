@@ -24,6 +24,21 @@
   "resumen": "Pianista de formación jazzística que cruza con el hip hop y el neo soul. Ganó cinco Grammy.[^wp-glasper]",
   "epocas": [
     {
+      "titulo": "Jazz de hoy",
+      "desde": 2005,
+      "hasta": 2019,
+      "texto": "",
+      "discoClave": {
+        "disco": "canvas",
+        "explicacion": "Su debut en Blue Note: piano trío con ritmos de hip hop."
+      },
+      "discos": [
+        "in-my-element",
+        "covered",
+        "fuck-yo-feelings"
+      ]
+    },
+    {
       "titulo": "Black Radio",
       "desde": 2012,
       "hasta": 2013,
@@ -44,5 +59,12 @@
       "acceso": "completa",
       "aporta": "Butcher Brown lo reconoce al instante en su Blindfold Test."
     }
+  ],
+  "discosEsenciales": [
+    "black-radio",
+    "canvas",
+    "in-my-element",
+    "covered",
+    "fuck-yo-feelings"
   ]
 }

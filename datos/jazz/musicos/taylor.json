@@ -6,7 +6,7 @@
   "regiones": [
     "estados-unidos"
   ],
-  "spotify": null,
+  "spotify": "https://open.spotify.com/artist/5jtGuhEEDh07yaFfm8qHg7",
   "id": "taylor",
   "nombre": "Cecil Taylor",
   "nacimiento": {
@@ -25,6 +25,20 @@
   "resumen": "Pianista de formación clásica, pionero del free jazz, con un abordaje físico y enérgico del instrumento. Recibió una beca MacArthur en 1993.[^wp-taylor]",
   "epocas": [
     {
+      "titulo": "Free jazz",
+      "desde": 1956,
+      "hasta": 1976,
+      "texto": "",
+      "discoClave": {
+        "disco": "silent-tongues",
+        "explicacion": "Piano solo en Montreux: un torrente de energía."
+      },
+      "discos": [
+        "jazz-advance",
+        "air-above-mountains"
+      ]
+    },
+    {
       "titulo": "La Unit",
       "desde": 1962,
       "hasta": 1966,
@@ -33,7 +47,9 @@
         "disco": "unit-structures",
         "explicacion": "El disco más citado de su etapa con Blue Note."
       },
-      "discos": []
+      "discos": [
+        "conquistador"
+      ]
     }
   ],
   "fuentes": [
@@ -45,5 +61,12 @@
       "acceso": "indirecta",
       "aporta": "La Penguin Guide habla de la riqueza de color de su grupo."
     }
+  ],
+  "discosEsenciales": [
+    "unit-structures",
+    "conquistador",
+    "silent-tongues",
+    "jazz-advance",
+    "air-above-mountains"
   ]
 }

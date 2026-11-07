@@ -1,0 +1,55 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "rypdal",
+  "nombre": "Terje Rypdal",
+  "nacimiento": {
+    "anio": 1947,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "guitarra eléctrica",
+    "composición"
+  ],
+  "corrientes": [
+    "ecm"
+  ],
+  "regiones": [
+    "nordicos"
+  ],
+  "spotify": null,
+  "resumen": "Guitarrista y compositor noruego que llevó a ECM un sonido de guitarra eléctrica con mucha reverberación, más cerca del rock y de la música sinfónica que del jazz tradicional.",
+  "epocas": [
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 1971,
+      "hasta": 1995,
+      "texto": "",
+      "discoClave": {
+        "disco": "terje-rypdal",
+        "explicacion": "Su debut en ECM: guitarra eléctrica casi orquestal, con Jan Garbarek."
+      },
+      "discos": [
+        "whenever-i-seem-to-be-far-away",
+        "odyssey-rypdal",
+        "waves",
+        "if-mountains-could-sing"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-terje-rypdal"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "terje-rypdal",
+    "whenever-i-seem-to-be-far-away",
+    "odyssey-rypdal",
+    "waves",
+    "if-mountains-could-sing"
+  ]
+}

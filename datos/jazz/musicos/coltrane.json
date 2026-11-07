@@ -33,14 +33,16 @@
     {
       "titulo": "Con Davis y Giant Steps",
       "desde": 1957,
-      "hasta": 1960,
+      "hasta": 1961,
       "texto": "Pasó por los grupos de Miles Davis y Thelonious Monk, y en 1959 grabó dos discos casi opuestos: *Kind of Blue*, con Davis, y *Giant Steps*, a su nombre.[^wp-coltrane]",
       "discoClave": {
         "disco": "giant-steps",
         "explicacion": "Muchos de estos temas son todavía material de práctica para saxofonistas."
       },
       "discos": [
-        "kind-of-blue"
+        "kind-of-blue",
+        "blue-train",
+        "my-favorite-things"
       ]
     },
     {
@@ -52,7 +54,11 @@
         "disco": "love-supreme",
         "explicacion": "Su obra más querida y una de las más influyentes."
       },
-      "discos": []
+      "discos": [
+        "ballads",
+        "john-coltrane-and-johnny-hartman",
+        "impressions"
+      ]
     }
   ],
   "fuentes": [
@@ -69,5 +75,12 @@
       "acceso": "completa",
       "aporta": "Iverson analiza su cuarteto a través de McCoy Tyner."
     }
+  ],
+  "discosEsenciales": [
+    "giant-steps",
+    "love-supreme",
+    "blue-train",
+    "my-favorite-things",
+    "ballads"
   ]
 }

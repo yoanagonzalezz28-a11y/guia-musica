@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Ghost Song Cécile McLorin Salvant"
+  },
+  "id": "ghost-song",
+  "titulo": "Ghost Song",
+  "credito": "Cécile McLorin Salvant",
+  "lideres": [
+    "salvant"
+  ],
+  "grabacion": {
+    "desde": 2022,
+    "hasta": 2022,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2022,
+    "detalle": null
+  },
+  "sello": "Nonesuch",
+  "musicos": [
+    {
+      "musico": "salvant",
+      "nombre": "Cécile McLorin Salvant",
+      "instrumento": "voz, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Canciones propias y de Kate Bush: su disco más personal."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

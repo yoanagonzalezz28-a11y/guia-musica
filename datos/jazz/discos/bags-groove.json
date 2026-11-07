@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo",
+    "tituloEnSpotify": "Bags' Groove (Rudy Van Gelder 2008 Remaster)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "bags-groove",
+  "titulo": "Bags' Groove",
+  "credito": "Miles Davis",
+  "lideres": [],
+  "grabacion": {
+    "desde": 1957,
+    "hasta": 1957,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1957,
+    "detalle": null
+  },
+  "sello": "Prestige",
+  "musicos": [
+    {
+      "musico": "milt-jackson",
+      "nombre": "Milt Jackson",
+      "instrumento": "vibráfono"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Con Miles y Monk, en la famosa sesión de Navidad de 1954."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

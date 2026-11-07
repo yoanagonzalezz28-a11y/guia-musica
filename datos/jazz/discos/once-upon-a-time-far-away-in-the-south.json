@@ -1,0 +1,61 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Once Upon a Time – Far Away in the South Dino Saluzzi"
+  },
+  "id": "once-upon-a-time-far-away-in-the-south",
+  "titulo": "Once Upon a Time – Far Away in the South",
+  "credito": "Dino Saluzzi",
+  "lideres": [
+    "saluzzi"
+  ],
+  "grabacion": {
+    "desde": 1986,
+    "hasta": 1986,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1986,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "saluzzi",
+      "nombre": "Dino Saluzzi",
+      "instrumento": "bandoneón"
+    },
+    {
+      "musico": "mikkelborg",
+      "nombre": "Palle Mikkelborg",
+      "instrumento": "trompeta"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Con Charlie Haden, Palle Mikkelborg y Pierre Favre: el bandoneón en ECM."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

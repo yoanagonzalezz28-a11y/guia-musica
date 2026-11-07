@@ -1,0 +1,64 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "pass",
+  "nombre": "Joe Pass",
+  "nacimiento": {
+    "anio": 1929,
+    "lugar": "New Brunswick, Nueva Jersey"
+  },
+  "muerte": {
+    "anio": 1994
+  },
+  "instrumentos": [
+    "guitarra"
+  ],
+  "corrientes": [
+    "bebop"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ",
+  "resumen": "Guitarrista que tocaba solo como si fuera un trío: bajo, acordes y melodía al mismo tiempo. Acompañó a Ella Fitzgerald y Oscar Peterson en el sello Pablo.",
+  "epocas": [
+    {
+      "titulo": "Swing",
+      "desde": 1964,
+      "hasta": 1964,
+      "texto": "",
+      "discoClave": {
+        "disco": "for-django",
+        "explicacion": "Homenaje a Django Reinhardt, en cuarteto."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Bebop",
+      "desde": 1970,
+      "hasta": 1974,
+      "texto": "",
+      "discoClave": {
+        "disco": "virtuoso",
+        "explicacion": "Guitarra sola: estándares con bajo, acordes y melodía a la vez."
+      },
+      "discos": [
+        "intercontinental",
+        "take-love-easy"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-joe-pass"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "virtuoso",
+    "intercontinental",
+    "for-django",
+    "take-love-easy"
+  ]
+}

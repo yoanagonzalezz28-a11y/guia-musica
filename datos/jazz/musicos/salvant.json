@@ -24,6 +24,19 @@
   "resumen": "Una de las cantantes más premiadas de su generación, con tres Grammy al mejor disco vocal de jazz.[^wp-salvant]",
   "epocas": [
     {
+      "titulo": "Jazz de hoy",
+      "desde": 2013,
+      "hasta": 2022,
+      "texto": "",
+      "discoClave": {
+        "disco": "womanchild",
+        "explicacion": "Su primer disco en Mack Avenue: estándares raros y blues antiguos."
+      },
+      "discos": [
+        "ghost-song"
+      ]
+    },
+    {
       "titulo": "Mack Avenue",
       "desde": 2015,
       "hasta": 2018,
@@ -32,7 +45,10 @@
         "disco": "dreams-daggers",
         "explicacion": "Un retrato de su repertorio y de su teatralidad."
       },
-      "discos": []
+      "discos": [
+        "for-one-to-love",
+        "the-window"
+      ]
     }
   ],
   "fuentes": [
@@ -44,5 +60,12 @@
       "acceso": "indirecta",
       "aporta": "Fred Kaplan, en Stereophile, le dedica su mayor elogio."
     }
+  ],
+  "discosEsenciales": [
+    "dreams-daggers",
+    "womanchild",
+    "for-one-to-love",
+    "the-window",
+    "ghost-song"
   ]
 }

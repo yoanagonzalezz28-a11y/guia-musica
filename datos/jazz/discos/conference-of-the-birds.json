@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Conference of the Birds Dave Holland"
+  },
+  "id": "conference-of-the-birds",
+  "titulo": "Conference of the Birds",
+  "credito": "Dave Holland",
+  "lideres": [
+    "holland"
+  ],
+  "grabacion": {
+    "desde": 1973,
+    "hasta": 1973,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1973,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "holland",
+      "nombre": "Dave Holland",
+      "instrumento": "contrabajo, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "free"
+  ],
+  "comentario": [
+    "Con Anthony Braxton, Sam Rivers y Barry Altschul: libre y melódico a la vez."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Conference_of_the_Birds"
+  },
+  "respaldo": []
+}

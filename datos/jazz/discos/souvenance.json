@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "medio-oriente"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0MVaGeFdZy81oPZJFzSqKI",
+    "tituloEnSpotify": "Souvenance",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "souvenance",
+  "titulo": "Souvenance",
+  "credito": "Anouar Brahem",
+  "lideres": [
+    "brahem"
+  ],
+  "grabacion": {
+    "desde": 2014,
+    "hasta": 2014,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2014,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "brahem",
+      "nombre": "Anouar Brahem",
+      "instrumento": "oud, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Con orquesta de cuerdas: una obra pensada tras la revolución tunecina."
+  ],
+  "ids": {
+    "musicbrainz": "25921450-c2d5-49a4-8044-9d2fcaeb19ff",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

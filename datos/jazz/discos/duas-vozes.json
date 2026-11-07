@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "brasil"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Duas Vozes Egberto Gismonti"
+  },
+  "id": "duas-vozes",
+  "titulo": "Duas Vozes",
+  "credito": "Egberto Gismonti",
+  "lideres": [
+    "gismonti"
+  ],
+  "grabacion": {
+    "desde": 1985,
+    "hasta": 1985,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1985,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "gismonti",
+      "nombre": "Egberto Gismonti",
+      "instrumento": "guitarra, piano, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "brasil"
+  ],
+  "comentario": [
+    "Dúo con Naná Vasconcelos."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

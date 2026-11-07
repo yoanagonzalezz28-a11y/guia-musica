@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Songs from the Heart Johnny Hartman"
+  },
+  "id": "songs-from-the-heart",
+  "titulo": "Songs from the Heart",
+  "credito": "Johnny Hartman",
+  "lideres": [
+    "hartman"
+  ],
+  "grabacion": {
+    "desde": 1956,
+    "hasta": 1956,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1956,
+    "detalle": null
+  },
+  "sello": "Bethlehem",
+  "musicos": [
+    {
+      "musico": "hartman",
+      "nombre": "Johnny Hartman",
+      "instrumento": "voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "cool"
+  ],
+  "comentario": [
+    "Con Howard McGhee: su primer disco."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

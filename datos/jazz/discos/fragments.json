@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2QfvRltklv7ydh5KV78JLT",
+    "tituloEnSpotify": "Fragments",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "fragments",
+  "titulo": "Fragments",
+  "credito": "Paul Bley",
+  "lideres": [
+    "paul-bley"
+  ],
+  "grabacion": {
+    "desde": 1986,
+    "hasta": 1986,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1986,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "paul-bley",
+      "nombre": "Paul Bley",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Cuarteto con John Surman, Bill Frisell y Paul Motian."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

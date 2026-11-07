@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4tYokQ6vjGVHC0wEBMbeY0",
+    "tituloEnSpotify": "Highway Rider",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "highway-rider",
+  "titulo": "Highway Rider",
+  "credito": "Brad Mehldau",
+  "lideres": [
+    "mehldau"
+  ],
+  "grabacion": {
+    "desde": 2010,
+    "hasta": 2010,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2010,
+    "detalle": null
+  },
+  "sello": "Nonesuch",
+  "musicos": [
+    {
+      "musico": "mehldau",
+      "nombre": "Brad Mehldau",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Orquesta y Joshua Redman: un disco conceptual de viaje."
+  ],
+  "ids": {
+    "musicbrainz": "48db9168-0a3d-4e2b-af39-f9d269a75b54",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

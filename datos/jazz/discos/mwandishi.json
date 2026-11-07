@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2mqMMupKZi5wBf7bXiqDR5",
+    "tituloEnSpotify": "Mwandishi",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "mwandishi",
+  "titulo": "Mwandishi",
+  "credito": "Herbie Hancock",
+  "lideres": [
+    "hancock"
+  ],
+  "grabacion": {
+    "desde": 1971,
+    "hasta": 1971,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1971,
+    "detalle": null
+  },
+  "sello": "Warner Bros.",
+  "musicos": [
+    {
+      "musico": "hancock",
+      "nombre": "Herbie Hancock",
+      "instrumento": "piano, teclados, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "fusion"
+  ],
+  "comentario": [
+    "Su sexteto eléctrico y experimental: largas piezas de espacio y ritmo."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Mwandishi"
+  },
+  "respaldo": []
+}

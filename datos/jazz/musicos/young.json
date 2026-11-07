@@ -34,7 +34,10 @@
         "disco": "basie-decca",
         "explicacion": "Donde quedó el \"sonido de Lester Young\"."
       },
-      "discos": []
+      "discos": [
+        "lester-leaps-in",
+        "the-kansas-city-sessions"
+      ]
     },
     {
       "titulo": "Después de la guerra",
@@ -44,6 +47,17 @@
       "discoClave": {
         "disco": "lester-oscar",
         "explicacion": "Un encuentro relajado, de los últimos grandes momentos de su carrera."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Swing",
+      "desde": 1956,
+      "hasta": 1956,
+      "texto": "",
+      "discoClave": {
+        "disco": "pres-and-teddy",
+        "explicacion": "Con Teddy Wilson: baladas y swing tranquilo."
       },
       "discos": []
     }
@@ -62,5 +76,12 @@
       "acceso": "completa",
       "aporta": "Iverson: \"Lester Young created many of the riffs in the Basie book\"."
     }
+  ],
+  "discosEsenciales": [
+    "basie-decca",
+    "lester-oscar",
+    "lester-leaps-in",
+    "the-kansas-city-sessions",
+    "pres-and-teddy"
   ]
 }

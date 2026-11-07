@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4NVlIW7uOVhJH9LEhV4fmi",
+    "tituloEnSpotify": "All We Are Saying...",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "all-we-are-saying",
+  "titulo": "All We Are Saying",
+  "credito": "Bill Frisell",
+  "lideres": [
+    "frisell"
+  ],
+  "grabacion": {
+    "desde": 2011,
+    "hasta": 2011,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2011,
+    "detalle": null
+  },
+  "sello": "Savoy",
+  "musicos": [
+    {
+      "musico": "frisell",
+      "nombre": "Bill Frisell",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Canciones de John Lennon: melodías simples, tocadas con cariño."
+  ],
+  "ids": {
+    "musicbrainz": "8945f0ad-4db3-42b9-8173-9aaecf53acf2",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

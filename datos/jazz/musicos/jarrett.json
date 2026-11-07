@@ -24,7 +24,7 @@
   "epocas": [
     {
       "titulo": "Los conciertos solistas",
-      "desde": 1973,
+      "desde": 1972,
       "hasta": 1975,
       "texto": "Después de que Columbia lo dejara ir, siguió su carrera en ECM, donde sus improvisaciones a piano solo se volvieron un fenómeno.[^gioia-worst]",
       "discoClave": {
@@ -32,7 +32,21 @@
         "explicacion": "El disco de piano más vendido de la historia."
       },
       "discos": [
-        "gnu-high"
+        "gnu-high",
+        "facing-you"
+      ]
+    },
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 1977,
+      "hasta": 1983,
+      "texto": "",
+      "discoClave": {
+        "disco": "standards-vol-1",
+        "explicacion": "El trío con Gary Peacock y Jack DeJohnette: estándares a la medida de su piano."
+      },
+      "discos": [
+        "the-survivors-suite"
       ]
     }
   ],
@@ -59,5 +73,12 @@
       "acceso": "completa",
       "aporta": "Gioia: tras salir de Columbia, \"pursued a historic career with the ECM label\"."
     }
+  ],
+  "discosEsenciales": [
+    "koln-concert",
+    "facing-you",
+    "belonging",
+    "standards-vol-1",
+    "the-survivors-suite"
   ]
 }

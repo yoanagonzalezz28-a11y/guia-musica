@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0zlSV683pRVrcTmtyQ8IZ9",
+    "tituloEnSpotify": "Watercolors",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "watercolors",
+  "titulo": "Watercolors",
+  "credito": "Pat Metheny",
+  "lideres": [
+    "metheny"
+  ],
+  "grabacion": {
+    "desde": 1977,
+    "hasta": 1977,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1977,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "metheny",
+      "nombre": "Pat Metheny",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Su segundo disco, con Lyle Mays: el sonido del Pat Metheny Group en germen."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

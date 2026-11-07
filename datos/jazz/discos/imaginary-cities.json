@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6IB0EL6P44ulsfPbawd23R",
+    "tituloEnSpotify": "Imaginary Cities",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "imaginary-cities",
+  "titulo": "Imaginary Cities",
+  "credito": "Chris Potter",
+  "lideres": [
+    "potter"
+  ],
+  "grabacion": {
+    "desde": 2015,
+    "hasta": 2015,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2015,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "potter",
+      "nombre": "Chris Potter",
+      "instrumento": "saxo tenor, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Con cuarteto de cuerdas: su obra más ambiciosa."
+  ],
+  "ids": {
+    "musicbrainz": "6fc95c77-fb64-4f02-ac86-309ca452fc72",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

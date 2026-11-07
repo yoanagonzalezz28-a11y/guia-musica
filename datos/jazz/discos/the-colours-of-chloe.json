@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5JVwdYu7I04LMIQ6VYhlY1",
+    "tituloEnSpotify": "The Colours Of Chloë",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "the-colours-of-chloe",
+  "titulo": "The Colours of Chloë",
+  "credito": "Eberhard Weber",
+  "lideres": [
+    "weber"
+  ],
+  "grabacion": {
+    "desde": 1974,
+    "hasta": 1974,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1974,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "weber",
+      "nombre": "Eberhard Weber",
+      "instrumento": "contrabajo eléctrico, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Su debut: contrabajo, cuerdas y piano en un clima casi cinematográfico."
+  ],
+  "ids": {
+    "musicbrainz": "f2799018-f4bd-31e8-8718-49e626a1b5f4",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,59 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "puerto-rico",
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2SIGAEy9Rfsf43z93LDhHO",
+    "tituloEnSpotify": "El Arte Del Bolero, Vol. 3",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "el-arte-del-bolero-vol-3",
+  "titulo": "El Arte del Bolero, Vol. 3",
+  "credito": "Miguel Zenón",
+  "lideres": [
+    "zenon"
+  ],
+  "grabacion": {
+    "desde": 2026,
+    "hasta": 2026,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2026,
+    "detalle": null
+  },
+  "sello": "Miel Music",
+  "musicos": [
+    {
+      "musico": "zenon",
+      "nombre": "Miguel Zenón",
+      "instrumento": "saxo alto, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "latino"
+  ],
+  "comentario": [
+    "El tercer volumen de los boleros a dúo con Luis Perdomo."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

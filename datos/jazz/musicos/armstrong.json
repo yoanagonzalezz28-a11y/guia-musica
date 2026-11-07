@@ -43,6 +43,19 @@
         "creole-jazz-band",
         "essential-bessie"
       ]
+    },
+    {
+      "titulo": "Swing",
+      "desde": 1954,
+      "hasta": 1956,
+      "texto": "",
+      "discoClave": {
+        "disco": "ella-and-louis",
+        "explicacion": "Dúos con Ella Fitzgerald y el trío de Oscar Peterson: dos voces opuestas que se encuentran."
+      },
+      "discos": [
+        "louis-armstrong-plays-w-c-handy"
+      ]
     }
   ],
   "fuentes": [
@@ -59,5 +72,10 @@
       "acceso": "extracto",
       "aporta": "Ethan Iverson lo pone en la base de cualquier formación en jazz."
     }
+  ],
+  "discosEsenciales": [
+    "hot-fives",
+    "ella-and-louis",
+    "louis-armstrong-plays-w-c-handy"
   ]
 }

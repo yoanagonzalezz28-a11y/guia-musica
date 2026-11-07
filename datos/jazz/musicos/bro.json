@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "bro",
+  "nombre": "Jakob Bro",
+  "nacimiento": {
+    "anio": 1978,
+    "lugar": "Copenhague"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "guitarra",
+    "composición"
+  ],
+  "corrientes": [
+    "ecm",
+    "hoy"
+  ],
+  "regiones": [
+    "nordicos"
+  ],
+  "spotify": null,
+  "resumen": "Guitarrista danés que tocó con Paul Motian y Lee Konitz. Su música es muy lenta y aireada: acordes que se dejan sonar y melodías que aparecen de a poco.",
+  "epocas": [
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 2009,
+      "hasta": 2024,
+      "texto": "",
+      "discoClave": {
+        "disco": "balladeering",
+        "explicacion": "Con Lee Konitz, Bill Frisell y Paul Motian: baladas de una calma enorme."
+      },
+      "discos": [
+        "gefion",
+        "returnings",
+        "uma-elmo",
+        "taking-turns"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-jakob-bro"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "balladeering",
+    "gefion",
+    "returnings",
+    "uma-elmo",
+    "taking-turns"
+  ]
+}

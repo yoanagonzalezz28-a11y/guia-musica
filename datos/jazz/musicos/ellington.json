@@ -47,6 +47,21 @@
         "explicacion": "Sigue siendo uno de los discos en vivo más famosos del jazz."
       },
       "discos": []
+    },
+    {
+      "titulo": "Swing",
+      "desde": 1959,
+      "hasta": 1967,
+      "texto": "",
+      "discoClave": {
+        "disco": "anatomy-of-a-murder",
+        "explicacion": "La banda sonora del film de Otto Preminger: una de las primeras grandes partituras de jazz para el cine."
+      },
+      "discos": [
+        "duke-ellington-and-john-coltrane",
+        "money-jungle",
+        "far-east-suite"
+      ]
     }
   ],
   "epocasPendientes": [
@@ -72,5 +87,12 @@
       "acceso": "completa",
       "aporta": "Gioia lanzó una petición para reparar el Pulitzer negado en 1965."
     }
+  ],
+  "discosEsenciales": [
+    "never-no-lament",
+    "ellington-newport",
+    "anatomy-of-a-murder",
+    "duke-ellington-and-john-coltrane",
+    "money-jungle"
   ]
 }

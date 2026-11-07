@@ -32,7 +32,7 @@
       "hasta": 1976,
       "texto": "",
       "discoClave": {
-        "disco": "goldenwings-opa",
+        "disco": "goldenwings",
         "explicacion": "Candombe y fusión con Opa."
       },
       "discos": []
@@ -43,7 +43,7 @@
   ],
   "respaldo": [],
   "discosEsenciales": [
-    "goldenwings-opa",
+    "goldenwings",
     "magic-time-opa"
   ]
 }

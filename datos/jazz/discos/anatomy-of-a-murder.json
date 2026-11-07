@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3WbMnT3abDjzrCzZQ9WtLK",
+    "tituloEnSpotify": "Anatomy of a Murder",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "anatomy-of-a-murder",
+  "titulo": "Anatomy of a Murder",
+  "credito": "Duke Ellington",
+  "lideres": [
+    "ellington"
+  ],
+  "grabacion": {
+    "desde": 1959,
+    "hasta": 1959,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1959,
+    "detalle": null
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "ellington",
+      "nombre": "Duke Ellington",
+      "instrumento": "piano, composición, dirección"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "La banda sonora del film de Otto Preminger: una de las primeras grandes partituras de jazz para el cine."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Anatomy_of_a_Murder_(soundtrack)"
+  },
+  "respaldo": []
+}

@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6YFRoF4ZfN8P93Oj5AAWUS",
+    "tituloEnSpotify": "Junk Magic",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "junk-magic",
+  "titulo": "Junk Magic",
+  "credito": "Craig Taborn",
+  "lideres": [
+    "taborn"
+  ],
+  "grabacion": {
+    "desde": 2004,
+    "hasta": 2004,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2004,
+    "detalle": null
+  },
+  "sello": "Thirsty Ear",
+  "musicos": [
+    {
+      "musico": "taborn",
+      "nombre": "Craig Taborn",
+      "instrumento": "piano, electrónica"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Electrónica y jazz libre."
+  ],
+  "ids": {
+    "musicbrainz": "ef9efb38-064f-3324-b202-bf07e6368143",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

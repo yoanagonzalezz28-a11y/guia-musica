@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3kfnwa4p4uYiTOP8K8ooSE",
+    "tituloEnSpotify": "Ella and Louis",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "ella-and-louis",
+  "titulo": "Ella and Louis",
+  "credito": "Louis Armstrong",
+  "lideres": [
+    "armstrong"
+  ],
+  "grabacion": {
+    "desde": 1956,
+    "hasta": 1956,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1956,
+    "detalle": null
+  },
+  "sello": "Verve",
+  "musicos": [
+    {
+      "musico": "armstrong",
+      "nombre": "Louis Armstrong",
+      "instrumento": "trompeta, voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "Dúos con Ella Fitzgerald y el trío de Oscar Peterson: dos voces opuestas que se encuentran."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Ella_and_Louis"
+  },
+  "respaldo": []
+}

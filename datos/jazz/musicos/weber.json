@@ -1,0 +1,53 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "weber",
+  "nombre": "Eberhard Weber",
+  "nacimiento": {
+    "anio": 1940,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "contrabajo eléctrico",
+    "composición"
+  ],
+  "corrientes": [
+    "ecm"
+  ],
+  "regiones": [],
+  "spotify": "https://open.spotify.com/artist/2BPSfZHtSYon5DKvp95xXT",
+  "resumen": "Contrabajista alemán que diseñó su propio contrabajo eléctrico, de sonido muy cantado. Sus discos de los 70 definieron una de las caras más melódicas de ECM. Tocó también con Jan Garbarek y Pat Metheny.",
+  "epocas": [
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 1974,
+      "hasta": 2015,
+      "texto": "",
+      "discoClave": {
+        "disco": "the-colours-of-chloe",
+        "explicacion": "Su debut: contrabajo, cuerdas y piano en un clima casi cinematográfico."
+      },
+      "discos": [
+        "yellow-fields",
+        "later-that-evening",
+        "pendulum",
+        "hommage-a-eberhard-weber"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-eberhard-weber"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "the-colours-of-chloe",
+    "yellow-fields",
+    "later-that-evening",
+    "pendulum",
+    "hommage-a-eberhard-weber"
+  ]
+}

@@ -33,7 +33,23 @@
         "disco": "spiritual-unity",
         "explicacion": "El disco que lo hizo conocer en el mundo."
       },
-      "discos": []
+      "discos": [
+        "ghosts",
+        "bells"
+      ]
+    },
+    {
+      "titulo": "Free jazz",
+      "desde": 1968,
+      "hasta": 1969,
+      "texto": "",
+      "discoClave": {
+        "disco": "love-cry",
+        "explicacion": "Más corto y melódico: Ayler en Impulse!, todavía salvaje."
+      },
+      "discos": [
+        "new-grass"
+      ]
     }
   ],
   "fuentes": [
@@ -45,5 +61,12 @@
       "acceso": "indirecta",
       "aporta": "DeVeaux y Giddins registran la división que provocó en la crítica."
     }
+  ],
+  "discosEsenciales": [
+    "spiritual-unity",
+    "ghosts",
+    "bells",
+    "love-cry",
+    "new-grass"
   ]
 }

@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5",
+    "tituloEnSpotify": "Your Queen Is A Reptile",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "your-queen-is-a-reptile",
+  "titulo": "Your Queen Is a Reptile",
+  "credito": "Shabaka Hutchings",
+  "lideres": [
+    "hutchings"
+  ],
+  "grabacion": {
+    "desde": 2018,
+    "hasta": 2018,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2018,
+    "detalle": null
+  },
+  "sello": "Impulse!",
+  "musicos": [
+    {
+      "musico": "hutchings",
+      "nombre": "Shabaka Hutchings",
+      "instrumento": "saxo tenor, clarinete, flautas"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Con Sons of Kemet: tuba, dos baterías y saxo, con raíces caribeñas."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

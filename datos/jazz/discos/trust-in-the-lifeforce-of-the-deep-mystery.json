@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Trust in the Lifeforce of the Deep Mystery Shabaka Hutchings"
+  },
+  "id": "trust-in-the-lifeforce-of-the-deep-mystery",
+  "titulo": "Trust in the Lifeforce of the Deep Mystery",
+  "credito": "Shabaka Hutchings",
+  "lideres": [
+    "hutchings"
+  ],
+  "grabacion": {
+    "desde": 2019,
+    "hasta": 2019,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2019,
+    "detalle": null
+  },
+  "sello": "Impulse!",
+  "musicos": [
+    {
+      "musico": "hutchings",
+      "nombre": "Shabaka Hutchings",
+      "instrumento": "saxo tenor, clarinete, flautas"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Con The Comet Is Coming: electrónica, ritmo y saxo apocalíptico."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

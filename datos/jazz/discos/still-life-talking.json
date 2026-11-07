@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2hLXa5j81nsOy8KmqM1sSx",
+    "tituloEnSpotify": "Still Life (Talking)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "still-life-talking",
+  "titulo": "Still Life (Talking)",
+  "credito": "Pat Metheny",
+  "lideres": [
+    "metheny"
+  ],
+  "grabacion": {
+    "desde": 1987,
+    "hasta": 1987,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1987,
+    "detalle": null
+  },
+  "sello": "Geffen",
+  "musicos": [
+    {
+      "musico": "metheny",
+      "nombre": "Pat Metheny",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "brasil"
+  ],
+  "comentario": [
+    "Ritmos brasileños y voces: el Group en su momento más luminoso."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Still_Life_(Talking)"
+  },
+  "respaldo": []
+}

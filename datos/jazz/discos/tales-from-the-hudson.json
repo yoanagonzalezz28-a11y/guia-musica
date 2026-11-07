@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Tales from the Hudson Michael Brecker"
+  },
+  "id": "tales-from-the-hudson",
+  "titulo": "Tales from the Hudson",
+  "credito": "Michael Brecker",
+  "lideres": [
+    "brecker"
+  ],
+  "grabacion": {
+    "desde": 1996,
+    "hasta": 1996,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1996,
+    "detalle": null
+  },
+  "sello": "Impulse!",
+  "musicos": [
+    {
+      "musico": "brecker",
+      "nombre": "Michael Brecker",
+      "instrumento": "saxo tenor"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "neotrad"
+  ],
+  "comentario": [
+    "Con McCoy Tyner y Pat Metheny: ganó dos Grammy."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

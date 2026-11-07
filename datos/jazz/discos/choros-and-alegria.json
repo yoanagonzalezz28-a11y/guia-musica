@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "brasil"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Choros & Alegria Moacir Santos"
+  },
+  "id": "choros-and-alegria",
+  "titulo": "Choros & Alegria",
+  "credito": "Moacir Santos",
+  "lideres": [
+    "moacir"
+  ],
+  "grabacion": {
+    "desde": 2005,
+    "hasta": 2005,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2005,
+    "detalle": null
+  },
+  "sello": "Adventure Music",
+  "musicos": [
+    {
+      "musico": "moacir",
+      "nombre": "Moacir Santos",
+      "instrumento": "saxo, composición, arreglos"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "brasil"
+  ],
+  "comentario": [
+    "Grabado al final de su vida, con nuevos arreglos de sus temas."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

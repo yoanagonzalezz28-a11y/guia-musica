@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0DdCvhMUteCmQw5M8JyFQ8",
+    "tituloEnSpotify": "Facing You",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "facing-you",
+  "titulo": "Facing You",
+  "credito": "Keith Jarrett",
+  "lideres": [
+    "jarrett"
+  ],
+  "grabacion": {
+    "desde": 1972,
+    "hasta": 1972,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1972,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "jarrett",
+      "nombre": "Keith Jarrett",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Su primer disco de piano solo en ECM: ocho piezas compactas."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Facing_You"
+  },
+  "respaldo": []
+}

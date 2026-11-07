@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "etiopia"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Mulatu Plays Mulatu Mulatu Astatke"
+  },
+  "id": "mulatu-plays-mulatu",
+  "titulo": "Mulatu Plays Mulatu",
+  "credito": "Mulatu Astatke",
+  "lideres": [
+    "mulatu"
+  ],
+  "grabacion": {
+    "desde": 2025,
+    "hasta": 2025,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2025,
+    "detalle": null
+  },
+  "sello": "Strut",
+  "musicos": [
+    {
+      "musico": "mulatu",
+      "nombre": "Mulatu Astatke",
+      "instrumento": "vibráfono, percusión, teclados, arreglos"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "Su despedida: sus clásicos con nuevos arreglos."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

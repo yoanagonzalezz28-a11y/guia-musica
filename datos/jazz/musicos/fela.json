@@ -35,7 +35,11 @@
         "disco": "zombie",
         "explicacion": "Su disco más popular e influyente."
       },
-      "discos": []
+      "discos": [
+        "expensive-shit",
+        "gentleman",
+        "sorrow-tears-and-blood"
+      ]
     }
   ],
   "fuentes": [
@@ -47,5 +51,11 @@
       "acceso": "indirecta",
       "aporta": "Christgau escucha en su música \"real fusion music\"."
     }
+  ],
+  "discosEsenciales": [
+    "zombie",
+    "expensive-shit",
+    "gentleman",
+    "sorrow-tears-and-blood"
   ]
 }

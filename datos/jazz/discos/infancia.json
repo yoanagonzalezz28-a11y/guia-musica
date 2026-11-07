@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "brasil"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Infância Egberto Gismonti"
+  },
+  "id": "infancia",
+  "titulo": "Infância",
+  "credito": "Egberto Gismonti",
+  "lideres": [
+    "gismonti"
+  ],
+  "grabacion": {
+    "desde": 1991,
+    "hasta": 1991,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1991,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "gismonti",
+      "nombre": "Egberto Gismonti",
+      "instrumento": "guitarra, piano, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "brasil"
+  ],
+  "comentario": [
+    "Su grupo de cámara: piano, violonchelo y bajo."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

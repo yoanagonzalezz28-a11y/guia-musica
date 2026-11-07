@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Heavy Metal Be-Bop The Brecker Brothers"
+  },
+  "id": "heavy-metal-be-bop",
+  "titulo": "Heavy Metal Be-Bop",
+  "credito": "The Brecker Brothers",
+  "lideres": [],
+  "grabacion": {
+    "desde": 1978,
+    "hasta": 1978,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1978,
+    "detalle": null
+  },
+  "sello": "Arista",
+  "musicos": [
+    {
+      "musico": "brecker",
+      "nombre": "Michael Brecker",
+      "instrumento": "saxo tenor"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "fusion"
+  ],
+  "comentario": [
+    "Los Brecker Brothers en vivo: funk y fusión con efectos eléctricos."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

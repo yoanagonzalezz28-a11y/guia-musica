@@ -1,0 +1,53 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "rava",
+  "nombre": "Enrico Rava",
+  "nacimiento": {
+    "anio": 1939,
+    "lugar": "Trieste"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "trompeta",
+    "fliscorno"
+  ],
+  "corrientes": [
+    "ecm"
+  ],
+  "regiones": [],
+  "spotify": null,
+  "resumen": "Trompetista italiano, de la vanguardia de los 60 a un lirismo muy mediterráneo. Fue clave para que el jazz italiano tuviera voz propia.",
+  "epocas": [
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 1975,
+      "hasta": 2015,
+      "texto": "",
+      "discoClave": {
+        "disco": "the-pilgrim-and-the-stars",
+        "explicacion": "Con John Abercrombie: trompeta lírica y espacio."
+      },
+      "discos": [
+        "easy-living",
+        "new-york-days",
+        "tribe",
+        "wild-dance"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-enrico-rava"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "the-pilgrim-and-the-stars",
+    "easy-living",
+    "new-york-days",
+    "tribe",
+    "wild-dance"
+  ]
+}

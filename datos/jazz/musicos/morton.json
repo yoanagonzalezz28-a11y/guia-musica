@@ -26,6 +26,20 @@
   "resumen": "El primer gran arreglador del jazz: mostró que una música basada en la improvisación podía escribirse sin perder su carácter. Su \"Jelly Roll Blues\", de 1915, fue una de las primeras partituras de jazz publicadas.[^wp-morton]",
   "epocas": [
     {
+      "titulo": "Orígenes",
+      "desde": 1924,
+      "hasta": 1926,
+      "texto": "",
+      "discoClave": {
+        "disco": "the-complete-victor-recordings",
+        "explicacion": "Sus Red Hot Peppers: el jazz de Nueva Orleans arreglado con un cuidado increíble."
+      },
+      "discos": [
+        "black-bottom-stomp",
+        "jelly-roll-morton-piano-solos"
+      ]
+    },
+    {
       "titulo": "El relato de una vida",
       "desde": 1938,
       "hasta": 1938,
@@ -49,5 +63,11 @@
       "acceso": "indirecta",
       "aporta": "Harvey Pekar dice que sus afirmaciones parecen difíciles de creer, hasta que se escucha cómo toca."
     }
+  ],
+  "discosEsenciales": [
+    "morton-loc",
+    "the-complete-victor-recordings",
+    "black-bottom-stomp",
+    "jelly-roll-morton-piano-solos"
   ]
 }

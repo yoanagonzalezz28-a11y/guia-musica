@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Standard Time, Vol. 1 Wynton Marsalis"
+  },
+  "id": "standard-time-vol-1",
+  "titulo": "Standard Time, Vol. 1",
+  "credito": "Wynton Marsalis",
+  "lideres": [
+    "marsalis"
+  ],
+  "grabacion": {
+    "desde": 1987,
+    "hasta": 1987,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1987,
+    "detalle": null
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "marsalis",
+      "nombre": "Wynton Marsalis",
+      "instrumento": "trompeta, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "neotrad"
+  ],
+  "comentario": [
+    "Estándares tocados con un cuarteto de precisión casi clásica."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

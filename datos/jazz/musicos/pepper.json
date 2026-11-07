@@ -1,0 +1,66 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "pepper",
+  "nombre": "Art Pepper",
+  "nacimiento": {
+    "anio": 1925,
+    "lugar": "Gardena, California"
+  },
+  "muerte": {
+    "anio": 1982
+  },
+  "instrumentos": [
+    "saxo alto"
+  ],
+  "corrientes": [
+    "cool"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA",
+  "resumen": "El gran alto de la costa oeste: sonido lírico y muy emotivo. Su vida estuvo marcada por la adicción y la cárcel, como cuenta en su autobiografía, *Straight Life*.",
+  "epocas": [
+    {
+      "titulo": "Cool",
+      "desde": 1957,
+      "hasta": 1980,
+      "texto": "",
+      "discoClave": {
+        "disco": "art-pepper-meets-the-rhythm-section",
+        "explicacion": "Con la sección rítmica de Miles Davis: uno de los grandes discos de la costa oeste."
+      },
+      "discos": [
+        "smack-up",
+        "art-pepper-eleven",
+        "winter-moon"
+      ]
+    },
+    {
+      "titulo": "Hard bop",
+      "desde": 1975,
+      "hasta": 1975,
+      "texto": "",
+      "discoClave": {
+        "disco": "living-legend",
+        "explicacion": "Su regreso después de años de cárcel: más intenso y doloroso."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-art-pepper"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "art-pepper-meets-the-rhythm-section",
+    "smack-up",
+    "art-pepper-eleven",
+    "living-legend",
+    "winter-moon"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3nmLPoLaRsN7cj9XkkDq2r",
+    "tituloEnSpotify": "John Coltrane & Johnny Hartman",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "john-coltrane-and-johnny-hartman",
+  "titulo": "John Coltrane and Johnny Hartman",
+  "credito": "John Coltrane",
+  "lideres": [
+    "coltrane"
+  ],
+  "grabacion": {
+    "desde": 1963,
+    "hasta": 1963,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1963,
+    "detalle": null
+  },
+  "sello": "Impulse!",
+  "musicos": [
+    {
+      "musico": "coltrane",
+      "nombre": "John Coltrane",
+      "instrumento": "saxo tenor, saxo soprano"
+    },
+    {
+      "musico": "hartman",
+      "nombre": "Johnny Hartman",
+      "instrumento": "voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "modal"
+  ],
+  "comentario": [
+    "La voz de barítono de Hartman con el cuarteto: el disco de baladas más perfecto del jazz."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "John_Coltrane_and_Johnny_Hartman"
+  },
+  "respaldo": []
+}

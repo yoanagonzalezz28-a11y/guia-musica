@@ -27,15 +27,30 @@
   "resumen": "Tocó con Lalo Schifrin y, en Roma, con Don Cherry. Tomó el sonido del Coltrane tardío y lo cruzó con la música sudamericana. Su música para *Último tango en París* ganó un Grammy.[^wp-barbieri]",
   "epocas": [
     {
+      "titulo": "Jazz rioplatense",
+      "desde": 1970,
+      "hasta": 1970,
+      "texto": "",
+      "discoClave": {
+        "disco": "the-third-world",
+        "explicacion": "Free jazz y folclore latinoamericano, con el saxo en su registro más rasposo."
+      },
+      "discos": []
+    },
+    {
       "titulo": "Los capítulos de Impulse!",
-      "desde": 1973,
-      "hasta": 1975,
+      "desde": 1972,
+      "hasta": 1976,
       "texto": "Tras el Grammy, grabó para Impulse! una serie de discos sobre América Latina.[^wp-barbieri]",
       "discoClave": {
         "disco": "chapter-one",
         "explicacion": "Grabado con músicos de folclore en Buenos Aires."
       },
-      "discos": []
+      "discos": [
+        "last-tango-in-paris",
+        "caliente",
+        "bolivia"
+      ]
     }
   ],
   "epocasPendientes": [
@@ -51,5 +66,12 @@
       "acceso": "indirecta",
       "aporta": "Christgau elogia su forma de volver popular la vanguardia."
     }
+  ],
+  "discosEsenciales": [
+    "chapter-one",
+    "last-tango-in-paris",
+    "the-third-world",
+    "caliente",
+    "bolivia"
   ]
 }

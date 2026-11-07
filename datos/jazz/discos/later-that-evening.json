@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Later That Evening Eberhard Weber"
+  },
+  "id": "later-that-evening",
+  "titulo": "Later That Evening",
+  "credito": "Eberhard Weber",
+  "lideres": [
+    "weber"
+  ],
+  "grabacion": {
+    "desde": 1982,
+    "hasta": 1982,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1982,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "weber",
+      "nombre": "Eberhard Weber",
+      "instrumento": "contrabajo eléctrico, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Con Bill Frisell y Paul McCandless: grupo de cámara de sonido suave."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

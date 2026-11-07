@@ -25,6 +25,17 @@
   "resumen": "Saxofonista de técnicas extendidas, figura del free y del jazz espiritual, formado en los grupos de John Coltrane.[^wp-pharoah]",
   "epocas": [
     {
+      "titulo": "Free jazz",
+      "desde": 1967,
+      "hasta": 1967,
+      "texto": "",
+      "discoClave": {
+        "disco": "tauhid",
+        "explicacion": "Su primer disco en Impulse!: espiritual, con Sonny Sharrock en guitarra."
+      },
+      "discos": []
+    },
+    {
       "titulo": "Después de Coltrane",
       "desde": 1969,
       "hasta": 1971,
@@ -34,8 +45,20 @@
         "explicacion": "Su disco más popular."
       },
       "discos": [
-        "satchidananda"
+        "satchidananda",
+        "thembi"
       ]
+    },
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2021,
+      "hasta": 2021,
+      "texto": "",
+      "discoClave": {
+        "disco": "promises",
+        "explicacion": "Con Floating Points y la London Symphony: un final sereno."
+      },
+      "discos": []
     }
   ],
   "fuentes": [
@@ -47,5 +70,11 @@
       "acceso": "indirecta",
       "aporta": "Jazzwise y Pitchfork destacan su lugar en la historia del género."
     }
+  ],
+  "discosEsenciales": [
+    "karma",
+    "tauhid",
+    "thembi",
+    "promises"
   ]
 }

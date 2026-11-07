@@ -17,8 +17,8 @@
     "consulta": "Magic Time (Opa) Hugo Fattoruso"
   },
   "id": "magic-time-opa",
-  "titulo": "Magic Time (Opa)",
-  "credito": "Hugo Fattoruso",
+  "titulo": "Magic Time",
+  "credito": "Opa",
   "lideres": [
     "fattoruso"
   ],
@@ -42,6 +42,11 @@
       "musico": "ofattoruso",
       "nombre": "Osvaldo Fattoruso",
       "instrumento": "batería"
+    },
+    {
+      "musico": "rada",
+      "nombre": "Rubén Rada",
+      "instrumento": "voz, percusión, composición"
     }
   ],
   "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",

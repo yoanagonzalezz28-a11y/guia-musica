@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Everything Is Going to Be OK GoGo Penguin"
+  },
+  "id": "everything-is-going-to-be-ok",
+  "titulo": "Everything Is Going to Be OK",
+  "credito": "GoGo Penguin",
+  "lideres": [
+    "gogo-penguin"
+  ],
+  "grabacion": {
+    "desde": 2023,
+    "hasta": 2023,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2023,
+    "detalle": null
+  },
+  "sello": "XXIM",
+  "musicos": [
+    {
+      "musico": "gogo-penguin",
+      "nombre": "GoGo Penguin",
+      "instrumento": "piano trío"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Nuevo baterista y un sonido más melancólico."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

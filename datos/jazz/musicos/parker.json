@@ -34,7 +34,9 @@
         "disco": "charlie-parker-story",
         "explicacion": "Es el acta de esa búsqueda: su primera sesión como líder, con todas las tomas a la vista."
       },
-      "discos": []
+      "discos": [
+        "the-savoy-recordings"
+      ]
     },
     {
       "titulo": "Prestigio y final",
@@ -46,7 +48,8 @@
         "explicacion": "El último encuentro grabado con Gillespie, en Toronto, y un gran concierto en plena etapa final."
       },
       "discos": [
-        "bird-and-diz"
+        "bird-and-diz",
+        "charlie-parker-with-strings"
       ]
     }
   ],
@@ -74,5 +77,11 @@
       "acceso": "completa",
       "aporta": "Max Roach, Red Rodney y Jackie McLean, que tocaron o aprendieron con él, recuerdan su influencia."
     }
+  ],
+  "discosEsenciales": [
+    "charlie-parker-story",
+    "jazz-at-massey-hall",
+    "charlie-parker-with-strings",
+    "the-savoy-recordings"
   ]
 }

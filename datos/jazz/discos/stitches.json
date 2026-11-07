@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "nordicos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4L0UZCIP3EPOnvUs2xa5hF",
+    "tituloEnSpotify": "Stitches",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "stitches",
+  "titulo": "Stitches",
+  "credito": "Nils Petter Molvær",
+  "lideres": [
+    "molvaer"
+  ],
+  "grabacion": {
+    "desde": 2021,
+    "hasta": 2021,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2021,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "molvaer",
+      "nombre": "Nils Petter Molvær",
+      "instrumento": "trompeta, producción"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Trompeta y paisajes electrónicos en un registro más íntimo."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

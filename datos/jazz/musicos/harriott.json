@@ -26,6 +26,20 @@
   "resumen": "Saxofonista jamaicano instalado en Gran Bretaña. Empezó en el bebop, fue pionero del free jazz desde 1960 y luego, con John Mayer, de la fusión con la música india.[^wp-harriott]",
   "epocas": [
     {
+      "titulo": "Free jazz",
+      "desde": 1960,
+      "hasta": 1962,
+      "texto": "",
+      "discoClave": {
+        "disco": "free-form",
+        "explicacion": "Grabado en Londres antes de que se conociera a Ornette: improvisación libre muy temprana."
+      },
+      "discos": [
+        "abstract",
+        "southern-horizons"
+      ]
+    },
+    {
       "titulo": "Indo-Jazz Fusions",
       "desde": 1966,
       "hasta": 1968,
@@ -34,7 +48,9 @@
         "disco": "indo-jazz-suite",
         "explicacion": "El primer disco de ese proyecto."
       },
-      "discos": []
+      "discos": [
+        "indo-jazz-fusions"
+      ]
     }
   ],
   "epocasPendientes": [
@@ -49,5 +65,12 @@
       "acceso": "completa",
       "aporta": "Cuenta el origen de Indo-Jazz Fusions."
     }
+  ],
+  "discosEsenciales": [
+    "indo-jazz-suite",
+    "free-form",
+    "abstract",
+    "indo-jazz-fusions",
+    "southern-horizons"
   ]
 }

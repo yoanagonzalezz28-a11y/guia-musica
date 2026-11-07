@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/439SsuO2Esw1G67Xuw1HPS",
+    "tituloEnSpotify": "Know What I Mean?",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "know-what-i-mean",
+  "titulo": "Know What I Mean?",
+  "credito": "Cannonball Adderley",
+  "lideres": [
+    "adderley"
+  ],
+  "grabacion": {
+    "desde": 1961,
+    "hasta": 1961,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1961,
+    "detalle": null
+  },
+  "sello": "Riverside",
+  "musicos": [
+    {
+      "musico": "adderley",
+      "nombre": "Cannonball Adderley",
+      "instrumento": "saxo alto"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Con el trío de Bill Evans: el alto de Cannonball en su versión más lírica."
+  ],
+  "ids": {
+    "musicbrainz": "4ff40ed9-d478-3037-914a-6f0f185d3ec3",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Know_What_I_Mean%3F"
+  },
+  "respaldo": []
+}

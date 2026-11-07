@@ -26,6 +26,20 @@
   "resumen": "Estudió con Nadia Boulanger, que lo animó a volcar la experiencia brasileña en su música. En 1978 fundó el sello Carmo, asociado con ECM.[^wp-gismonti]",
   "epocas": [
     {
+      "titulo": "Jazz brasileño",
+      "desde": 1974,
+      "hasta": 1991,
+      "texto": "",
+      "discoClave": {
+        "disco": "infancia",
+        "explicacion": "Su grupo de cámara: piano, violonchelo y bajo."
+      },
+      "discos": [
+        "academia-de-dancas",
+        "duas-vozes"
+      ]
+    },
+    {
       "titulo": "ECM",
       "desde": 1976,
       "hasta": 1980,
@@ -34,7 +48,9 @@
         "disco": "danca-das-cabecas",
         "explicacion": "A dúo con Naná Vasconcelos."
       },
-      "discos": []
+      "discos": [
+        "sol-do-meio-dia"
+      ]
     }
   ],
   "fuentes": [
@@ -46,5 +62,12 @@
       "acceso": "indirecta",
       "aporta": "Álvaro Neder lo considera un hito en su carrera."
     }
+  ],
+  "discosEsenciales": [
+    "danca-das-cabecas",
+    "sol-do-meio-dia",
+    "infancia",
+    "academia-de-dancas",
+    "duas-vozes"
   ]
 }

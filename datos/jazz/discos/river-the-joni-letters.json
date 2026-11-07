@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4XkWqozX4Uqc0qwncCVZxi",
+    "tituloEnSpotify": "River: The Joni Letters",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "river-the-joni-letters",
+  "titulo": "River: The Joni Letters",
+  "credito": "Herbie Hancock",
+  "lideres": [
+    "hancock"
+  ],
+  "grabacion": {
+    "desde": 2007,
+    "hasta": 2007,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2007,
+    "detalle": null
+  },
+  "sello": "Verve",
+  "musicos": [
+    {
+      "musico": "hancock",
+      "nombre": "Herbie Hancock",
+      "instrumento": "piano, teclados, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Canciones de Joni Mitchell: ganó el Grammy al disco del año."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "River:_The_Joni_Letters"
+  },
+  "respaldo": []
+}

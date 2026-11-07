@@ -33,7 +33,11 @@
         "disco": "essential-bessie",
         "explicacion": "Una buena selección de su etapa completa en Columbia."
       },
-      "discos": []
+      "discos": [
+        "empty-bed-blues",
+        "nobody-knows-you-when-you-re-down-and-out",
+        "the-complete-recordings-vol-1"
+      ]
     }
   ],
   "fuentes": [
@@ -45,5 +49,11 @@
       "acceso": "extracto",
       "aporta": "\"Downhearted Blues\" integra el registro de preservación de la Biblioteca del Congreso."
     }
+  ],
+  "discosEsenciales": [
+    "essential-bessie",
+    "empty-bed-blues",
+    "nobody-knows-you-when-you-re-down-and-out",
+    "the-complete-recordings-vol-1"
   ]
 }

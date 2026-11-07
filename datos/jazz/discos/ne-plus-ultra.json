@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Ne Plus Ultra Warne Marsh"
+  },
+  "id": "ne-plus-ultra",
+  "titulo": "Ne Plus Ultra",
+  "credito": "Warne Marsh",
+  "lideres": [
+    "marsh"
+  ],
+  "grabacion": {
+    "desde": 1969,
+    "hasta": 1969,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1969,
+    "detalle": null
+  },
+  "sello": "Revelation",
+  "musicos": [
+    {
+      "musico": "marsh",
+      "nombre": "Warne Marsh",
+      "instrumento": "saxo tenor"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "cool"
+  ],
+  "comentario": [
+    "Cuarteto con Gary Foster: líneas largas y frías."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

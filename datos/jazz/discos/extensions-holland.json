@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Extensions Dave Holland"
+  },
+  "id": "extensions-holland",
+  "titulo": "Extensions",
+  "credito": "Dave Holland",
+  "lideres": [
+    "holland"
+  ],
+  "grabacion": {
+    "desde": 1990,
+    "hasta": 1990,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1990,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "holland",
+      "nombre": "Dave Holland",
+      "instrumento": "contrabajo, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Con Steve Coleman y Kevin Eubanks: groove y compases raros."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

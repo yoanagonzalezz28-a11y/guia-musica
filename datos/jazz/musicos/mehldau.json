@@ -24,14 +24,30 @@
   "epocas": [
     {
       "titulo": "The Art of the Trio",
-      "desde": 1996,
-      "hasta": 2001,
+      "desde": 1995,
+      "hasta": 2002,
       "texto": "Su serie en trío mezcló estándares, temas propios y canciones de Nick Drake o Radiohead.[^wp-mehldau]",
       "discoClave": {
         "disco": "art-of-trio-3",
         "explicacion": "El disco que mejor resume esa apertura."
       },
-      "discos": []
+      "discos": [
+        "introducing-brad-mehldau",
+        "largo"
+      ]
+    },
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2010,
+      "hasta": 2019,
+      "texto": "",
+      "discoClave": {
+        "disco": "highway-rider",
+        "explicacion": "Orquesta y Joshua Redman: un disco conceptual de viaje."
+      },
+      "discos": [
+        "finding-gabriel"
+      ]
     }
   ],
   "fuentes": [
@@ -43,5 +59,12 @@
       "acceso": "indirecta",
       "aporta": "Steve Huey y Richard Cook valoran el disco."
     }
+  ],
+  "discosEsenciales": [
+    "art-of-trio-3",
+    "introducing-brad-mehldau",
+    "largo",
+    "highway-rider",
+    "finding-gabriel"
   ]
 }

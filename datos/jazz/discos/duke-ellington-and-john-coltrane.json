@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5",
+    "tituloEnSpotify": "Duke Ellington & John Coltrane",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "duke-ellington-and-john-coltrane",
+  "titulo": "Duke Ellington & John Coltrane",
+  "credito": "Duke Ellington",
+  "lideres": [
+    "ellington"
+  ],
+  "grabacion": {
+    "desde": 1963,
+    "hasta": 1963,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1963,
+    "detalle": null
+  },
+  "sello": "Impulse!",
+  "musicos": [
+    {
+      "musico": "ellington",
+      "nombre": "Duke Ellington",
+      "instrumento": "piano, composición, dirección"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "El encuentro de dos generaciones: \"In a Sentimental Mood\" es inolvidable."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Duke_Ellington_%26_John_Coltrane"
+  },
+  "respaldo": []
+}

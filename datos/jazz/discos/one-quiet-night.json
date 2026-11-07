@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6lUW37ehhdAZNF3cJPkSpK",
+    "tituloEnSpotify": "One Quiet Night",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "one-quiet-night",
+  "titulo": "One Quiet Night",
+  "credito": "Pat Metheny",
+  "lideres": [
+    "metheny"
+  ],
+  "grabacion": {
+    "desde": 2003,
+    "hasta": 2003,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2003,
+    "detalle": null
+  },
+  "sello": "Warner Bros.",
+  "musicos": [
+    {
+      "musico": "metheny",
+      "nombre": "Pat Metheny",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Guitarra barítono sola, grabada en una noche en su casa."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

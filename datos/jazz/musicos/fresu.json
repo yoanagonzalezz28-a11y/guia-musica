@@ -1,0 +1,73 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "fresu",
+  "nombre": "Paolo Fresu",
+  "nacimiento": {
+    "anio": 1961,
+    "lugar": "Berchidda, Cerdeña"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "trompeta",
+    "fliscorno"
+  ],
+  "corrientes": [
+    "ecm",
+    "hoy"
+  ],
+  "regiones": [],
+  "spotify": null,
+  "resumen": "Trompetista sardo de sonido cálido y suave, cercano a Miles Davis y Chet Baker, con un pie en la canción mediterránea.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2002,
+      "hasta": 2002,
+      "texto": "",
+      "discoClave": {
+        "disco": "kind-of-porgy-and-bess",
+        "explicacion": "La ópera de Gershwin reimaginada, con el sonido redondo de su trompeta."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 2007,
+      "hasta": 2019,
+      "texto": "",
+      "discoClave": {
+        "disco": "mare-nostrum",
+        "explicacion": "Con Richard Galliano y Jan Lundgren: trío mediterráneo de trompeta, acordeón y piano."
+      },
+      "discos": [
+        "mare-nostrum-iii"
+      ]
+    },
+    {
+      "titulo": "Cool",
+      "desde": 2015,
+      "hasta": 2015,
+      "texto": "",
+      "discoClave": {
+        "disco": "tempo-di-chet",
+        "explicacion": "Homenaje a Chet Baker, grabado para una obra de teatro sobre él."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-paolo-fresu"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "kind-of-porgy-and-bess",
+    "mare-nostrum",
+    "tempo-di-chet",
+    "mare-nostrum-iii",
+    "summerwind"
+  ]
+}

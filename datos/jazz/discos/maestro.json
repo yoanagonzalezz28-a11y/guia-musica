@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "brasil"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Maestro Moacir Santos"
+  },
+  "id": "maestro",
+  "titulo": "Maestro",
+  "credito": "Moacir Santos",
+  "lideres": [
+    "moacir"
+  ],
+  "grabacion": {
+    "desde": 1972,
+    "hasta": 1972,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1972,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "moacir",
+      "nombre": "Moacir Santos",
+      "instrumento": "saxo, composición, arreglos"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "brasil"
+  ],
+  "comentario": [
+    "Su primer disco en Estados Unidos, con músicos de Los Ángeles."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,67 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "mclean",
+  "nombre": "Jackie McLean",
+  "nacimiento": {
+    "anio": 1931,
+    "lugar": "Nueva York"
+  },
+  "muerte": {
+    "anio": 2006
+  },
+  "instrumentos": [
+    "saxo alto"
+  ],
+  "corrientes": [
+    "hard-bop",
+    "free"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Saxofonista alto de sonido ácido y afilado, discípulo de Charlie Parker. En los 60 llevó el hard bop de Blue Note hacia formas más libres, sin perder el blues.",
+  "epocas": [
+    {
+      "titulo": "Hard bop",
+      "desde": 1959,
+      "hasta": 1959,
+      "texto": "",
+      "discoClave": {
+        "disco": "swing-swang-swingin",
+        "explicacion": "Cuarteto clásico: el alto más filoso del hard bop sobre estándares."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Free jazz",
+      "desde": 1962,
+      "hasta": 1964,
+      "texto": "",
+      "discoClave": {
+        "disco": "let-freedom-ring",
+        "explicacion": "El momento en que empieza a soltarse: agudos gritados y formas más abiertas."
+      },
+      "discos": [
+        "one-step-beyond",
+        "destination-out",
+        "bluesnik"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-jackie-mclean"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "swing-swang-swingin",
+    "let-freedom-ring",
+    "one-step-beyond",
+    "destination-out",
+    "bluesnik"
+  ]
+}

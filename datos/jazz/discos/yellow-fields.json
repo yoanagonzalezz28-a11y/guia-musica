@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1OqHwHtEmQ7zPdndGdRwzh",
+    "tituloEnSpotify": "Yellow Fields",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "yellow-fields",
+  "titulo": "Yellow Fields",
+  "credito": "Eberhard Weber",
+  "lideres": [
+    "weber"
+  ],
+  "grabacion": {
+    "desde": 1976,
+    "hasta": 1976,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1976,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "weber",
+      "nombre": "Eberhard Weber",
+      "instrumento": "contrabajo eléctrico, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Con Charlie Mariano y Rainer Brüninghaus: melodías largas y luminosas."
+  ],
+  "ids": {
+    "musicbrainz": "3c357937-c662-4633-8eb5-77611c3f001d",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

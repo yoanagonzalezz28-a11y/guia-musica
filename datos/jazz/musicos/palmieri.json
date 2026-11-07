@@ -35,6 +35,20 @@
         "disco": "sun-of-latin-music",
         "explicacion": "El primer Grammy latino de la historia."
       },
+      "discos": [
+        "azucar-pa-ti",
+        "harlem-river-drive"
+      ]
+    },
+    {
+      "titulo": "Jazz latino",
+      "desde": 1984,
+      "hasta": 1984,
+      "texto": "",
+      "discoClave": {
+        "disco": "palo-pa-rumba",
+        "explicacion": "Ganó un Grammy: salsa dura con mucha armonía de jazz."
+      },
       "discos": []
     }
   ],
@@ -56,5 +70,11 @@
       "acceso": "completa",
       "aporta": "Palmieri explica su relación con la clave y la estructura de la música afrocubana."
     }
+  ],
+  "discosEsenciales": [
+    "sun-of-latin-music",
+    "azucar-pa-ti",
+    "harlem-river-drive",
+    "palo-pa-rumba"
   ]
 }

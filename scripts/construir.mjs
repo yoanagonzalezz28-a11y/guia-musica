@@ -381,7 +381,7 @@ const construir = {
         <p class="heroe-anios">${esc(aniosVida(m))} · ${esc(unir(m.instrumentos))}</p>
         <h1>${esc(m.nombre)}</h1>
         ${m.redescubrimiento ? `<p>${etiquetaRedescubrimiento()}</p>` : ''}
-        <p class="heroe-datos">Nació en ${esc(m.nacimiento.lugar)}. ${m.apodo ? `Le decían ${esc(m.apodo)}. ` : ''}${m.corrientes.length ? `Corrientes: ${unir(m.corrientes.map(c => enlaceCorriente(ctx, c)))}. ` : ''}Regiones: ${unir(m.regiones.map(r => enlaceRegion(ctx, r)))}.</p>
+        <p class="heroe-datos">${m.nacimiento.lugar ? `Nació en ${esc(m.nacimiento.lugar)}. ` : ""}${m.apodo ? `Le decían ${esc(m.apodo)}. ` : ''}${m.corrientes.length ? `Corrientes: ${unir(m.corrientes.map(c => enlaceCorriente(ctx, c)))}. ` : ''}${m.regiones.length ? `Regiones: ${unir(m.regiones.map(r => enlaceRegion(ctx, r)))}.` : ""}</p>
       </header>
       <div class="lectura lectura-ancha"><p class="entrada">${ctx.texto(m.resumen)}</p>
       ${m.redescubrimiento ? `<p class="nota-datos"><strong>Por qué es un redescubrimiento.</strong> ${ctx.texto(m.redescubrimiento.motivo)}</p>` : ''}

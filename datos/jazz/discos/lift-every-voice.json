@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/38BgIU5OWiNhTpjRFE3WE0",
+    "tituloEnSpotify": "Lift Every Voice",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "lift-every-voice",
+  "titulo": "Lift Every Voice",
+  "credito": "Charles Lloyd",
+  "lideres": [
+    "lloyd"
+  ],
+  "grabacion": {
+    "desde": 2002,
+    "hasta": 2002,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2002,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "lloyd",
+      "nombre": "Charles Lloyd",
+      "instrumento": "saxo tenor, flauta"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Disco doble tras el 11 de septiembre: himnos, espirituales y canciones de protesta."
+  ],
+  "ids": {
+    "musicbrainz": "d8fbe231-37b6-333a-90cd-cbc81db24859",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

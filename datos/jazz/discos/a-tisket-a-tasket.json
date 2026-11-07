@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "A-Tisket, A-Tasket Chick Webb"
+  },
+  "id": "a-tisket-a-tasket",
+  "titulo": "A-Tisket, A-Tasket",
+  "credito": "Chick Webb",
+  "lideres": [
+    "webb"
+  ],
+  "grabacion": {
+    "desde": 1938,
+    "hasta": 1938,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1938,
+    "detalle": null
+  },
+  "sello": "Decca",
+  "musicos": [
+    {
+      "musico": "webb",
+      "nombre": "Chick Webb",
+      "instrumento": "batería, dirección"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "Con Ella Fitzgerald: el éxito que la lanzó a la fama."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

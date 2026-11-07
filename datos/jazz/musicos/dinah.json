@@ -1,0 +1,72 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "dinah",
+  "nombre": "Dinah Washington",
+  "nacimiento": {
+    "anio": 1924,
+    "lugar": "Tuscaloosa, Alabama"
+  },
+  "muerte": {
+    "anio": 1963
+  },
+  "instrumentos": [
+    "voz"
+  ],
+  "corrientes": [
+    "hard-bop",
+    "souljazz"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "La \"reina del blues\": cantaba jazz, blues, gospel y pop con una voz filosa y una dicción perfecta.",
+  "epocas": [
+    {
+      "titulo": "Hard bop",
+      "desde": 1955,
+      "hasta": 1955,
+      "texto": "",
+      "discoClave": {
+        "disco": "dinah-jams",
+        "explicacion": "Jam session con Clifford Brown y Max Roach."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Soul jazz",
+      "desde": 1959,
+      "hasta": 1959,
+      "texto": "",
+      "discoClave": {
+        "disco": "what-a-diff-rence-a-day-makes",
+        "explicacion": "El gran éxito pop que la llevó a otro público."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Swing",
+      "desde": 1987,
+      "hasta": 1987,
+      "texto": "",
+      "discoClave": {
+        "disco": "the-complete-dinah-washington-on-mercury-vol-2",
+        "explicacion": "Sus grabaciones de 1950 a 1952."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-dinah-washington"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "dinah-jams",
+    "what-a-diff-rence-a-day-makes",
+    "the-complete-dinah-washington-on-mercury-vol-2"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1bvhjpp45aO2i1d7kjbsjh",
+    "tituloEnSpotify": "Crystal Silence",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "crystal-silence",
+  "titulo": "Crystal Silence",
+  "credito": "Gary Burton",
+  "lideres": [
+    "burton"
+  ],
+  "grabacion": {
+    "desde": 1973,
+    "hasta": 1973,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1973,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "burton",
+      "nombre": "Gary Burton",
+      "instrumento": "vibráfono"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Dúo con Chick Corea: una de las colaboraciones más perfectas del jazz."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

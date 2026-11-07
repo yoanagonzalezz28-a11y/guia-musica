@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": true,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "The Complete Recordings, Vol. 1 Bessie Smith"
+  },
+  "id": "the-complete-recordings-vol-1",
+  "titulo": "The Complete Recordings, Vol. 1",
+  "credito": "Bessie Smith",
+  "lideres": [
+    "bessie"
+  ],
+  "grabacion": {
+    "desde": 1923,
+    "hasta": 1923,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1923,
+    "detalle": null
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "bessie",
+      "nombre": "Bessie Smith",
+      "instrumento": "voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "origenes"
+  ],
+  "comentario": [
+    "Sus primeras grabaciones, con \"Downhearted Blues\", que vendió cientos de miles."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

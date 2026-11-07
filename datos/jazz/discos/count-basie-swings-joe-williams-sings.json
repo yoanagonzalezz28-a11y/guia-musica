@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5",
+    "tituloEnSpotify": "Count Basie Swings - Joe Williams Sings",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "count-basie-swings-joe-williams-sings",
+  "titulo": "Count Basie Swings, Joe Williams Sings",
+  "credito": "Count Basie",
+  "lideres": [
+    "basie"
+  ],
+  "grabacion": {
+    "desde": 1955,
+    "hasta": 1955,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1955,
+    "detalle": null
+  },
+  "sello": "Clef",
+  "musicos": [
+    {
+      "musico": "basie",
+      "nombre": "Count Basie",
+      "instrumento": "piano, dirección"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "Blues cantado por Joe Williams con la orquesta: \"Every Day I Have the Blues\"."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

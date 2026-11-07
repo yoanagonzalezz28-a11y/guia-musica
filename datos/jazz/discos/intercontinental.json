@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2zdmAZybFyUmIMPDok4y6A",
+    "tituloEnSpotify": "Intercontinental",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "intercontinental",
+  "titulo": "Intercontinental",
+  "credito": "Joe Pass",
+  "lideres": [
+    "pass"
+  ],
+  "grabacion": {
+    "desde": 1970,
+    "hasta": 1970,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1970,
+    "detalle": null
+  },
+  "sello": "MPS",
+  "musicos": [
+    {
+      "musico": "pass",
+      "nombre": "Joe Pass",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "bebop"
+  ],
+  "comentario": [
+    "Trío grabado en Alemania: swing relajado."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

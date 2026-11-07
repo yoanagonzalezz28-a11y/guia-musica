@@ -27,14 +27,28 @@
     {
       "titulo": "ECM",
       "desde": 1975,
-      "hasta": 1977,
+      "hasta": 1978,
       "texto": "Sus primeros grupos chicos con repercusión crítica fueron los de ECM.[^wp-wheeler]",
       "discoClave": {
         "disco": "gnu-high",
         "explicacion": "Con Jarrett, Holland y DeJohnette."
       },
       "discos": [
-        "blue-camel"
+        "blue-camel",
+        "deer-wan"
+      ]
+    },
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 1990,
+      "hasta": 1997,
+      "texto": "",
+      "discoClave": {
+        "disco": "music-for-large-and-small-ensembles",
+        "explicacion": "Sus composiciones para big band."
+      },
+      "discos": [
+        "angel-song"
       ]
     }
   ],
@@ -47,5 +61,11 @@
       "acceso": "completa",
       "aporta": "Iverson lo pone junto a Wayne Shorter entre los compositores más líricos de la música modal."
     }
+  ],
+  "discosEsenciales": [
+    "gnu-high",
+    "deer-wan",
+    "music-for-large-and-small-ensembles",
+    "angel-song"
   ]
 }

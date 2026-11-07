@@ -7,7 +7,7 @@
     "rio-de-la-plata",
     "estados-unidos"
   ],
-  "spotify": null,
+  "spotify": "https://open.spotify.com/artist/6TV13Hya75hVUbLTvX1Jh3",
   "id": "klein",
   "nombre": "Guillermo Klein",
   "nacimiento": {
@@ -35,6 +35,20 @@
         "disco": "los-guachos-v",
         "explicacion": "El disco de los veinte años."
       },
+      "discos": [
+        "filtros",
+        "carrera"
+      ]
+    },
+    {
+      "titulo": "Jazz rioplatense",
+      "desde": 2019,
+      "hasta": 2019,
+      "texto": "",
+      "discoClave": {
+        "disco": "los-guachos-cristal",
+        "explicacion": "Veinte años después, el grupo sigue sonando nuevo."
+      },
       "discos": []
     }
   ],
@@ -52,5 +66,11 @@
       "acceso": "completa",
       "aporta": "Ben Ratliff destaca su originalidad."
     }
+  ],
+  "discosEsenciales": [
+    "los-guachos-v",
+    "filtros",
+    "carrera",
+    "los-guachos-cristal"
   ]
 }

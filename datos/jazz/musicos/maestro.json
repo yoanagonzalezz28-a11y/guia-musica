@@ -1,0 +1,67 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "maestro",
+  "nombre": "Shai Maestro",
+  "nacimiento": {
+    "anio": 1987,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano",
+    "composición"
+  ],
+  "corrientes": [
+    "ecm",
+    "hoy"
+  ],
+  "regiones": [
+    "medio-oriente"
+  ],
+  "spotify": null,
+  "resumen": "Pianista israelí que tocó en el trío de Avishai Cohen. Su música une la melodía de Medio Oriente, la armonía del jazz y un sentido muy delicado del silencio.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2012,
+      "hasta": 2016,
+      "texto": "",
+      "discoClave": {
+        "disco": "shai-maestro-trio",
+        "explicacion": "Su debut en trío: melodías cantables y compases complejos."
+      },
+      "discos": [
+        "the-road-to-ithaca",
+        "the-stone-skipper"
+      ]
+    },
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 2018,
+      "hasta": 2021,
+      "texto": "",
+      "discoClave": {
+        "disco": "the-dream-thief",
+        "explicacion": "Su debut en ECM: piano trío de una calma y una claridad enormes."
+      },
+      "discos": [
+        "human"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-shai-maestro"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "the-dream-thief",
+    "human",
+    "shai-maestro-trio",
+    "the-road-to-ithaca",
+    "the-stone-skipper"
+  ]
+}

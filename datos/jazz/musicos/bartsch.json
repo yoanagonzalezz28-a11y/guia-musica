@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "bartsch",
+  "nombre": "Nik Bärtsch",
+  "nacimiento": {
+    "anio": 1971,
+    "lugar": "Zúrich"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano",
+    "composición"
+  ],
+  "corrientes": [
+    "ecm",
+    "hoy"
+  ],
+  "regiones": [],
+  "spotify": null,
+  "resumen": "Pianista suizo que llama a su música \"ritual groove\": patrones que se repiten y cambian de a poco, entre el minimalismo, el funk y el jazz.",
+  "epocas": [
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 2006,
+      "hasta": 2021,
+      "texto": "",
+      "discoClave": {
+        "disco": "stoa",
+        "explicacion": "Con su grupo Ronin: módulos que se repiten y crecen, hipnóticos."
+      },
+      "discos": [
+        "holon",
+        "llyria",
+        "awase",
+        "entendre"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-nik-bartsch"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "stoa",
+    "holon",
+    "llyria",
+    "awase",
+    "entendre"
+  ]
+}

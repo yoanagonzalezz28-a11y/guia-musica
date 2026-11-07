@@ -1,0 +1,57 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "rio-de-la-plata",
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Caliente! Gato Barbieri"
+  },
+  "id": "caliente",
+  "titulo": "Caliente!",
+  "credito": "Gato Barbieri",
+  "lideres": [
+    "barbieri"
+  ],
+  "grabacion": {
+    "desde": 1976,
+    "hasta": 1976,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1976,
+    "detalle": null
+  },
+  "sello": "A&M",
+  "musicos": [
+    {
+      "musico": "barbieri",
+      "nombre": "Gato Barbieri",
+      "instrumento": "saxo tenor"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Producido por Herb Alpert: el Barbieri más popular, con \"Europa\" de Santana."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

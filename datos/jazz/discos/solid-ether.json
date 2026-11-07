@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "nordicos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5rbrFbZIHGQtGchq4LBH3R",
+    "tituloEnSpotify": "Solid Ether",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "solid-ether",
+  "titulo": "Solid Ether",
+  "credito": "Nils Petter Molvær",
+  "lideres": [
+    "molvaer"
+  ],
+  "grabacion": {
+    "desde": 2000,
+    "hasta": 2000,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2000,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "molvaer",
+      "nombre": "Nils Petter Molvær",
+      "instrumento": "trompeta, producción"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Trompeta y electrónica, más pesada que *Khmer*."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

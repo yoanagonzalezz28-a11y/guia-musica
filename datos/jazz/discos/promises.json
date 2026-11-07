@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Promises Pharoah Sanders"
+  },
+  "id": "promises",
+  "titulo": "Promises",
+  "credito": "Pharoah Sanders",
+  "lideres": [
+    "sanders"
+  ],
+  "grabacion": {
+    "desde": 2021,
+    "hasta": 2021,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2021,
+    "detalle": null
+  },
+  "sello": "Luaka Bop",
+  "musicos": [
+    {
+      "musico": "sanders",
+      "nombre": "Pharoah Sanders",
+      "instrumento": "saxo tenor"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Con Floating Points y la London Symphony: un final sereno."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Promises_(Floating_Points,_Pharoah_Sanders_and_the_London_Symphony_Orchestra_album)"
+  },
+  "respaldo": []
+}

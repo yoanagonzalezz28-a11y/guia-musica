@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Hocus Pocus Fletcher Henderson"
+  },
+  "id": "hocus-pocus",
+  "titulo": "Hocus Pocus",
+  "credito": "Fletcher Henderson",
+  "lideres": [
+    "fletcher-henderson"
+  ],
+  "grabacion": {
+    "desde": 1990,
+    "hasta": 1990,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1990,
+    "detalle": null
+  },
+  "sello": "RCA Bluebird",
+  "musicos": [
+    {
+      "musico": "fletcher-henderson",
+      "nombre": "Fletcher Henderson",
+      "instrumento": "piano, arreglos, dirección"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "Grabaciones de 1927 a 1936, con \"Hocus Pocus\" y \"Wrappin' It Up\"."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

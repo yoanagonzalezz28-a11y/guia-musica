@@ -35,7 +35,10 @@
         "explicacion": "El primer disco en vivo del cuarteto."
       },
       "discos": [
-        "los-guachos-v"
+        "los-guachos-v",
+        "tipico",
+        "sonero-the-music-of-ismael-rivera",
+        "el-arte-del-bolero-vol-3"
       ]
     }
   ],
@@ -53,5 +56,11 @@
       "acceso": "completa",
       "aporta": "Jim Hynes reseña su primer disco en vivo."
     }
+  ],
+  "discosEsenciales": [
+    "vanguardia-subterranea",
+    "tipico",
+    "sonero-the-music-of-ismael-rivera",
+    "el-arte-del-bolero-vol-3"
   ]
 }

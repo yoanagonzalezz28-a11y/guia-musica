@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "medio-oriente"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1Vi1fmvatCuzuASdvUGTuf",
+    "tituloEnSpotify": "Le pas du chat noir",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "le-pas-du-chat-noir",
+  "titulo": "Le pas du chat noir",
+  "credito": "Anouar Brahem",
+  "lideres": [
+    "brahem"
+  ],
+  "grabacion": {
+    "desde": 2002,
+    "hasta": 2002,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2002,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "brahem",
+      "nombre": "Anouar Brahem",
+      "instrumento": "oud, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Trío con piano y acordeón: oud lento, casi en suspensión."
+  ],
+  "ids": {
+    "musicbrainz": "255277a0-1c51-477b-bc05-68bcfebd20fe",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

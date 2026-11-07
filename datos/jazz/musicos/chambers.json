@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "chambers",
+  "nombre": "Paul Chambers",
+  "nacimiento": {
+    "anio": 1935,
+    "lugar": "Pittsburgh"
+  },
+  "muerte": {
+    "anio": 1969
+  },
+  "instrumentos": [
+    "contrabajo"
+  ],
+  "corrientes": [
+    "hard-bop"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "El contrabajista del quinteto de Miles Davis y de cientos de discos de los 50 y 60. Fue de los primeros en tocar solos con arco en el contrabajo.",
+  "epocas": [
+    {
+      "titulo": "Hard bop",
+      "desde": 1956,
+      "hasta": 1959,
+      "texto": "",
+      "discoClave": {
+        "disco": "bass-on-top",
+        "explicacion": "Con Kenny Burrell y Hank Jones: el contrabajo como solista."
+      },
+      "discos": [
+        "paul-chambers-quintet",
+        "whims-of-chambers",
+        "go-chambers"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-paul-chambers"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "bass-on-top",
+    "paul-chambers-quintet",
+    "whims-of-chambers",
+    "go-chambers"
+  ]
+}

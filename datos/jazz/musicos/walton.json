@@ -1,0 +1,64 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "walton",
+  "nombre": "Cedar Walton",
+  "nacimiento": {
+    "anio": 1934,
+    "lugar": "Dallas"
+  },
+  "muerte": {
+    "anio": 2013
+  },
+  "instrumentos": [
+    "piano",
+    "composición"
+  ],
+  "corrientes": [
+    "hard-bop"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/7DCTgrI6aDK3nBRZm5RUKT",
+  "resumen": "Pianista y compositor de los Jazz Messengers de los 60, autor de temas como \"Bolivia\" y \"Mosaic\".",
+  "epocas": [
+    {
+      "titulo": "Hard bop",
+      "desde": 1967,
+      "hasta": 1976,
+      "texto": "",
+      "discoClave": {
+        "disco": "cedar",
+        "explicacion": "Su debut como líder, con Kenny Dorham y Junior Cook."
+      },
+      "discos": [
+        "eastern-rebellion"
+      ]
+    },
+    {
+      "titulo": "Jazz latino",
+      "desde": 2002,
+      "hasta": 2002,
+      "texto": "",
+      "discoClave": {
+        "disco": "latin-tinge",
+        "explicacion": "Con percusión latina."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-cedar-walton"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "cedar",
+    "eastern-rebellion",
+    "latin-tinge",
+    "mosaic"
+  ]
+}

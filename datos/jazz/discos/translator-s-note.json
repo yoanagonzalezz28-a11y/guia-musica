@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "medio-oriente"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2DfkUe9ybAGmBKtY1sjIq7",
+    "tituloEnSpotify": "Translator's Note (with Shai Maestro, Petros Klampanis & Ziv Ravitz)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "translator-s-note",
+  "titulo": "Translator's Note",
+  "credito": "Oded Tzur",
+  "lideres": [
+    "tzur"
+  ],
+  "grabacion": {
+    "desde": 2017,
+    "hasta": 2017,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2017,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "tzur",
+      "nombre": "Oded Tzur",
+      "instrumento": "saxo tenor, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Con Shai Maestro: el saxo como voz de raga."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

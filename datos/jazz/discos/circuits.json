@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1NcTTZqU6GGgyez1avoqwl",
+    "tituloEnSpotify": "Circuits",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "circuits",
+  "titulo": "Circuits",
+  "credito": "Chris Potter",
+  "lideres": [
+    "potter"
+  ],
+  "grabacion": {
+    "desde": 2019,
+    "hasta": 2019,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2019,
+    "detalle": null
+  },
+  "sello": "Edition",
+  "musicos": [
+    {
+      "musico": "potter",
+      "nombre": "Chris Potter",
+      "instrumento": "saxo tenor, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Con James Francies y Eric Harland: groove eléctrico."
+  ],
+  "ids": {
+    "musicbrainz": "ffdd6e82-fcf7-4acf-a408-7d110ab3804c",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

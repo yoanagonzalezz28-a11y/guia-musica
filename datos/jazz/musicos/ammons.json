@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "ammons",
+  "nombre": "Gene Ammons",
+  "nacimiento": {
+    "anio": 1925,
+    "lugar": "Chicago"
+  },
+  "muerte": {
+    "anio": 1974
+  },
+  "instrumentos": [
+    "saxo tenor"
+  ],
+  "corrientes": [
+    "hard-bop",
+    "souljazz"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Tenor de sonido enorme y bluesero, hijo del pianista de boogie-woogie Albert Ammons. Es uno de los padres del soul jazz.",
+  "epocas": [
+    {
+      "titulo": "Hard bop",
+      "desde": 1956,
+      "hasta": 1956,
+      "texto": "",
+      "discoClave": {
+        "disco": "the-happy-blues",
+        "explicacion": "Jam session con Art Farmer y Jackie McLean."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Soul jazz",
+      "desde": 1960,
+      "hasta": 1961,
+      "texto": "",
+      "discoClave": {
+        "disco": "boss-tenor",
+        "explicacion": "Con Tommy Flanagan y Ray Barretto: blues y baladas con un tenor gigante."
+      },
+      "discos": [
+        "jug"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-gene-ammons"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "boss-tenor",
+    "jug",
+    "the-happy-blues"
+  ]
+}

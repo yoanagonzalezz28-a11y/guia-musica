@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4kHHWOwd6G2RHJiGDzkfIK",
+    "tituloEnSpotify": "Canvas",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "canvas",
+  "titulo": "Canvas",
+  "credito": "Robert Glasper",
+  "lideres": [
+    "glasper"
+  ],
+  "grabacion": {
+    "desde": 2005,
+    "hasta": 2005,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2005,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "glasper",
+      "nombre": "Robert Glasper",
+      "instrumento": "piano, teclados"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Su debut en Blue Note: piano trío con ritmos de hip hop."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

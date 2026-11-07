@@ -1,0 +1,62 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG",
+    "tituloEnSpotify": "Blue Train (Expanded Edition)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "blue-train",
+  "titulo": "Blue Train",
+  "credito": "John Coltrane",
+  "lideres": [
+    "coltrane"
+  ],
+  "grabacion": {
+    "desde": 1958,
+    "hasta": 1958,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1958,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "coltrane",
+      "nombre": "John Coltrane",
+      "instrumento": "saxo tenor, saxo soprano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Su único disco como líder para Blue Note: hard bop con tres vientos y un blues que se volvió clásico."
+  ],
+  "resenaExtensa": [
+    "Lo grabó en septiembre de 1957, después de su paso por el cuarteto de Monk, con Lee Morgan, Curtis Fuller, Kenny Drew, Paul Chambers y Philly Joe Jones.",
+    "Es el Coltrane que ya domina el hard bop y empieza a correr por los acordes, la etapa que el crítico Ira Gitler llamó \"sheets of sound\". Dos años después llegaría *Giant Steps*."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Blue_Train_(album)"
+  },
+  "respaldo": []
+}

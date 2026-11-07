@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Angel Song Kenny Wheeler"
+  },
+  "id": "angel-song",
+  "titulo": "Angel Song",
+  "credito": "Kenny Wheeler",
+  "lideres": [
+    "wheeler"
+  ],
+  "grabacion": {
+    "desde": 1997,
+    "hasta": 1997,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1997,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "wheeler",
+      "nombre": "Kenny Wheeler",
+      "instrumento": "fliscorno, trompeta, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Con Lee Konitz, Bill Frisell y Dave Holland: sin batería, todo flota."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

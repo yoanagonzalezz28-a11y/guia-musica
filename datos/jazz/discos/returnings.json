@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "nordicos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0Oko9SZeGlIDRiURyc1f3y",
+    "tituloEnSpotify": "Returnings",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "returnings",
+  "titulo": "Returnings",
+  "credito": "Jakob Bro",
+  "lideres": [
+    "bro"
+  ],
+  "grabacion": {
+    "desde": 2018,
+    "hasta": 2018,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2018,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "bro",
+      "nombre": "Jakob Bro",
+      "instrumento": "guitarra, composición"
+    },
+    {
+      "musico": "mikkelborg",
+      "nombre": "Palle Mikkelborg",
+      "instrumento": "trompeta"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Con Palle Mikkelborg: trompeta y guitarra en paisajes muy abiertos."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

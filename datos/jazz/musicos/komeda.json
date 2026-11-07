@@ -28,13 +28,16 @@
     {
       "titulo": "El quinteto",
       "desde": 1963,
-      "hasta": 1967,
+      "hasta": 1968,
       "texto": "Tomasz Stańko fue su trompetista y aprendió con él sobre armonía y estructura.[^wp-stanko]",
       "discoClave": {
         "disco": "astigmatic",
         "explicacion": "Su obra maestra."
       },
-      "discos": []
+      "discos": [
+        "rosemary-s-baby",
+        "ballet-etudes-the-music-of-komeda"
+      ]
     }
   ],
   "epocasPendientes": [
@@ -54,5 +57,10 @@
       "acceso": "completa",
       "aporta": "John Cumming recuerda la historia de Stańko y Komeda."
     }
+  ],
+  "discosEsenciales": [
+    "astigmatic",
+    "rosemary-s-baby",
+    "ballet-etudes-the-music-of-komeda"
   ]
 }

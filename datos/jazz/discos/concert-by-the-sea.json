@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Concert by the Sea Erroll Garner"
+  },
+  "id": "concert-by-the-sea",
+  "titulo": "Concert by the Sea",
+  "credito": "Erroll Garner",
+  "lideres": [
+    "garner"
+  ],
+  "grabacion": {
+    "desde": 1955,
+    "hasta": 1955,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1955,
+    "detalle": null
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "garner",
+      "nombre": "Erroll Garner",
+      "instrumento": "piano, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "En vivo en Carmel: uno de los discos de jazz más vendidos de los 50."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Concert_by_the_Sea"
+  },
+  "respaldo": []
+}

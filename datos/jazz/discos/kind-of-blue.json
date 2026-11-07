@@ -59,7 +59,7 @@
       "nota": "Solo \"Freddie Freeloader\""
     },
     {
-      "musico": null,
+      "musico": "chambers",
       "nombre": "Paul Chambers",
       "instrumento": "contrabajo"
     },
@@ -92,5 +92,9 @@
       "acceso": "completa",
       "aporta": "Gioia recomienda el libro de James Kaplan sobre Davis, Coltrane y Evans, con el relato de cómo Davis contrató a Coltrane."
     }
+  ],
+  "resenaExtensa": [
+    "Davis llegó a las dos sesiones de marzo y abril de 1959 con apenas unos bocetos: escalas y climas, no canciones terminadas. Con él estaban John Coltrane, Cannonball Adderley, Bill Evans (Wynton Kelly en \"Freddie Freeloader\"), Paul Chambers y Jimmy Cobb.",
+    "Importa porque cambió la manera de improvisar: en vez de recorrer acordes a toda velocidad, como en el bebop, cada músico se queda en un modo y construye una melodía. Coltrane y Evans tomaron caminos muy distintos a partir de esta idea."
   ]
 }

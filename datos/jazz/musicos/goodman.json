@@ -35,6 +35,20 @@
         "disco": "carnegie-1938",
         "explicacion": "El concierto que llevó el jazz a Carnegie Hall."
       },
+      "discos": [
+        "sing-sing-sing",
+        "after-you-ve-gone"
+      ]
+    },
+    {
+      "titulo": "Swing",
+      "desde": 1950,
+      "hasta": 1950,
+      "texto": "",
+      "discoClave": {
+        "disco": "benny-goodman-sextet",
+        "explicacion": "Grupo chico con Lionel Hampton y Charlie Christian en grabaciones de 1939–41."
+      },
       "discos": []
     }
   ],
@@ -47,5 +61,11 @@
       "acceso": "completa",
       "aporta": "Recuerda el peso de los arreglos de Fletcher Henderson en el sonido del swing."
     }
+  ],
+  "discosEsenciales": [
+    "carnegie-1938",
+    "benny-goodman-sextet",
+    "sing-sing-sing",
+    "after-you-ve-gone"
   ]
 }

@@ -34,7 +34,12 @@
         "disco": "cole-porter-songbook",
         "explicacion": "El primero de una serie de discos sobre grandes compositores."
       },
-      "discos": []
+      "discos": [
+        "ella-and-basie",
+        "porgy-and-bess",
+        "ella-in-berlin-mack-the-knife",
+        "ella-fitzgerald-sings-the-duke-ellington-song-book"
+      ]
     }
   ],
   "fuentes": [
@@ -46,5 +51,12 @@
       "acceso": "extracto",
       "aporta": "Su Song Book de Cole Porter integra el registro de preservación."
     }
+  ],
+  "discosEsenciales": [
+    "cole-porter-songbook",
+    "ella-and-basie",
+    "porgy-and-bess",
+    "ella-in-berlin-mack-the-knife",
+    "ella-fitzgerald-sings-the-duke-ellington-song-book"
   ]
 }

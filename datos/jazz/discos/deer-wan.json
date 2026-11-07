@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Deer Wan Kenny Wheeler"
+  },
+  "id": "deer-wan",
+  "titulo": "Deer Wan",
+  "credito": "Kenny Wheeler",
+  "lideres": [
+    "wheeler"
+  ],
+  "grabacion": {
+    "desde": 1978,
+    "hasta": 1978,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1978,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "wheeler",
+      "nombre": "Kenny Wheeler",
+      "instrumento": "fliscorno, trompeta, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Con Jan Garbarek y John Abercrombie: el fliscorno lírico en ECM."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

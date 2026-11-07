@@ -46,6 +46,17 @@
         "explicacion": "Su disco más celebrado y más discutido por la manipulación de las cintas."
       },
       "discos": []
+    },
+    {
+      "titulo": "Cool",
+      "desde": 1962,
+      "hasta": 1962,
+      "texto": "",
+      "discoClave": {
+        "disco": "the-new-tristano",
+        "explicacion": "Piano solo sin trucos de estudio: contrapunto y líneas largas."
+      },
+      "discos": []
     }
   ],
   "fuentes": [
@@ -62,5 +73,10 @@
       "acceso": "completa",
       "aporta": "Iverson lo presenta como una \"esoteric alternative\" al bebop."
     }
+  ],
+  "discosEsenciales": [
+    "crosscurrents",
+    "lennie-tristano",
+    "the-new-tristano"
   ]
 }

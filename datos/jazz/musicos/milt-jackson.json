@@ -1,0 +1,64 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "milt-jackson",
+  "nombre": "Milt Jackson",
+  "nacimiento": {
+    "anio": 1923,
+    "lugar": "Detroit"
+  },
+  "muerte": {
+    "anio": 1999
+  },
+  "instrumentos": [
+    "vibráfono"
+  ],
+  "corrientes": [
+    "bebop",
+    "cool"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "El gran vibrafonista del bebop. En el Modern Jazz Quartet tocó con una calma de cámara, y en sus discos propios desplegó todo su blues.",
+  "epocas": [
+    {
+      "titulo": "Bebop",
+      "desde": 1952,
+      "hasta": 1952,
+      "texto": "",
+      "discoClave": {
+        "disco": "milt-jackson-and-the-thelonious-monk-quintet",
+        "explicacion": "Las sesiones de 1948 y 1952 con Monk."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Hard bop",
+      "desde": 1957,
+      "hasta": 1962,
+      "texto": "",
+      "discoClave": {
+        "disco": "plenty-plenty-soul",
+        "explicacion": "Con Cannonball Adderley y Horace Silver: blues de vibráfono."
+      },
+      "discos": [
+        "bags-meets-wes"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-milt-jackson"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "bags-groove",
+    "milt-jackson-and-the-thelonious-monk-quintet",
+    "plenty-plenty-soul",
+    "bags-meets-wes"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Nobody Knows You When You're Down and Out Bessie Smith"
+  },
+  "id": "nobody-knows-you-when-you-re-down-and-out",
+  "titulo": "Nobody Knows You When You're Down and Out",
+  "credito": "Bessie Smith",
+  "lideres": [
+    "bessie"
+  ],
+  "grabacion": {
+    "desde": 1929,
+    "hasta": 1929,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1929,
+    "detalle": null
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "bessie",
+      "nombre": "Bessie Smith",
+      "instrumento": "voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "origenes"
+  ],
+  "comentario": [
+    "La canción de la crisis, grabada antes del crac de 1929."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

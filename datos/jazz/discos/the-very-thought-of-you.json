@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB",
+    "tituloEnSpotify": "The Very Thought Of You (Expanded Edition)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "the-very-thought-of-you",
+  "titulo": "The Very Thought of You",
+  "credito": "Nat King Cole",
+  "lideres": [
+    "nat-cole"
+  ],
+  "grabacion": {
+    "desde": 1958,
+    "hasta": 1958,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1958,
+    "detalle": null
+  },
+  "sello": "Capitol",
+  "musicos": [
+    {
+      "musico": "nat-cole",
+      "nombre": "Nat King Cole",
+      "instrumento": "piano, voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "Baladas con orquesta de Gordon Jenkins: voz de terciopelo."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

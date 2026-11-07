@@ -3,7 +3,7 @@
     "estado": "borrador",
     "gioia": "pendiente"
   },
-  "spotify": null,
+  "spotify": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO",
   "id": "brown",
   "nombre": "Clifford Brown",
   "apodo": "Brownie",
@@ -36,8 +36,20 @@
       },
       "discos": [
         "a-night-at-birdland-1",
-        "clifford-brown-and-max-roach"
+        "clifford-brown-and-max-roach",
+        "clifford-brown-with-strings"
       ]
+    },
+    {
+      "titulo": "Hard bop",
+      "desde": 1973,
+      "hasta": 1973,
+      "texto": "",
+      "discoClave": {
+        "disco": "the-beginning-and-the-end",
+        "explicacion": "Su primera grabación de 1952 y la última, de 1956, la noche anterior a su muerte."
+      },
+      "discos": []
     }
   ],
   "fuentes": [
@@ -64,5 +76,10 @@
       "acceso": "completa",
       "aporta": "Tom Harrell recuerda cómo lo marcó escuchar a Brown."
     }
+  ],
+  "discosEsenciales": [
+    "study-in-brown",
+    "clifford-brown-with-strings",
+    "the-beginning-and-the-end"
   ]
 }

@@ -37,6 +37,20 @@
         "disco": "slaves-mass",
         "explicacion": "Su música sin límites, con cerdos incluidos."
       },
+      "discos": [
+        "hermeto",
+        "a-musica-livre-de-hermeto-pascoal"
+      ]
+    },
+    {
+      "titulo": "Jazz brasileño",
+      "desde": 1979,
+      "hasta": 1979,
+      "texto": "",
+      "discoClave": {
+        "disco": "zabumbe-bum-a",
+        "explicacion": "El nordeste brasileño reinventado."
+      },
       "discos": []
     }
   ],
@@ -54,5 +68,11 @@
       "acceso": "completa",
       "aporta": "Despedida de Gioia, que lo cuenta entre sus héroes musicales."
     }
+  ],
+  "discosEsenciales": [
+    "slaves-mass",
+    "hermeto",
+    "a-musica-livre-de-hermeto-pascoal",
+    "zabumbe-bum-a"
   ]
 }

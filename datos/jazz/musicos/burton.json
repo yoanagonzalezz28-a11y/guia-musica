@@ -1,0 +1,76 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "burton",
+  "nombre": "Gary Burton",
+  "nacimiento": {
+    "anio": 1943,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "vibráfono"
+  ],
+  "corrientes": [
+    "fusion",
+    "ecm"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Vibrafonista que tocaba con cuatro baquetas a la vez, lo que le permitía armar acordes como un pianista. A fines de los 60 mezcló el jazz con el rock y el country. Fue un gran maestro en Berklee.",
+  "epocas": [
+    {
+      "titulo": "Fusión",
+      "desde": 1967,
+      "hasta": 1971,
+      "texto": "",
+      "discoClave": {
+        "disco": "duster",
+        "explicacion": "Con Larry Coryell: uno de los primeros discos de jazz rock."
+      },
+      "discos": [
+        "gary-burton-and-keith-jarrett"
+      ]
+    },
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 1973,
+      "hasta": 1977,
+      "texto": "",
+      "discoClave": {
+        "disco": "crystal-silence",
+        "explicacion": "Dúo con Chick Corea: una de las colaboraciones más perfectas del jazz."
+      },
+      "discos": [
+        "passengers"
+      ]
+    },
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 1998,
+      "hasta": 1998,
+      "texto": "",
+      "discoClave": {
+        "disco": "like-minds",
+        "explicacion": "Con Corea, Metheny, Holland y Roy Haynes: ganó un Grammy."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-gary-burton"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "duster",
+    "gary-burton-and-keith-jarrett",
+    "crystal-silence",
+    "passengers",
+    "like-minds"
+  ]
+}

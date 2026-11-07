@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY",
+    "tituloEnSpotify": "The Blues And The Abstract Truth",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "the-blues-and-the-abstract-truth",
+  "titulo": "The Blues and the Abstract Truth",
+  "credito": "Oliver Nelson",
+  "lideres": [
+    "oliver-nelson"
+  ],
+  "grabacion": {
+    "desde": 1961,
+    "hasta": 1961,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1961,
+    "detalle": null
+  },
+  "sello": "Impulse!",
+  "musicos": [
+    {
+      "musico": "oliver-nelson",
+      "nombre": "Oliver Nelson",
+      "instrumento": "saxo, arreglos, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Con Freddie Hubbard, Eric Dolphy y Bill Evans: \"Stolen Moments\" es un clásico."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "The_Blues_and_the_Abstract_Truth"
+  },
+  "respaldo": []
+}

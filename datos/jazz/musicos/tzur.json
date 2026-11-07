@@ -1,0 +1,64 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "tzur",
+  "nombre": "Oded Tzur",
+  "nacimiento": {
+    "anio": 1984,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "saxo tenor",
+    "composición"
+  ],
+  "corrientes": [
+    "ecm",
+    "hoy"
+  ],
+  "regiones": [
+    "medio-oriente"
+  ],
+  "spotify": null,
+  "resumen": "Saxofonista israelí que estudió música clásica india. Su técnica le permite deslizarse entre notas como en un raga, con un sonido muy suave.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2017,
+      "hasta": 2017,
+      "texto": "",
+      "discoClave": {
+        "disco": "translator-s-note",
+        "explicacion": "Con Shai Maestro: el saxo como voz de raga."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 2020,
+      "hasta": 2024,
+      "texto": "",
+      "discoClave": {
+        "disco": "here-be-dragons",
+        "explicacion": "Su debut en ECM: cuarteto de una delicadeza extrema."
+      },
+      "discos": [
+        "isabela",
+        "my-prophet"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-oded-tzur"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "translator-s-note",
+    "here-be-dragons",
+    "isabela",
+    "my-prophet"
+  ]
+}

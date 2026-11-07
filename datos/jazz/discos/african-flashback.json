@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4WPwANSgcW1616wt7B3e3W",
+    "tituloEnSpotify": "African Flashback",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "african-flashback",
+  "titulo": "African Flashback",
+  "credito": "Henri Texier",
+  "lideres": [
+    "texier"
+  ],
+  "grabacion": {
+    "desde": 2005,
+    "hasta": 2005,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2005,
+    "detalle": null
+  },
+  "sello": "Label Bleu",
+  "musicos": [
+    {
+      "musico": "texier",
+      "nombre": "Henri Texier",
+      "instrumento": "contrabajo, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "La continuación africana, con mucho groove."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

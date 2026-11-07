@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/25FnmQMWGTGiwTGK8IKFGs",
+    "tituloEnSpotify": "Reunion With Chet Baker",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "reunion-with-chet-baker",
+  "titulo": "Reunion with Chet Baker",
+  "credito": "Gerry Mulligan",
+  "lideres": [
+    "mulligan"
+  ],
+  "grabacion": {
+    "desde": 1957,
+    "hasta": 1957,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1957,
+    "detalle": null
+  },
+  "sello": "Pacific Jazz",
+  "musicos": [
+    {
+      "musico": "mulligan",
+      "nombre": "Gerry Mulligan",
+      "instrumento": "saxo barítono, arreglos"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "cool"
+  ],
+  "comentario": [
+    "El cuarteto sin piano, unos años después."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Forest Flower Charles Lloyd"
+  },
+  "id": "forest-flower",
+  "titulo": "Forest Flower",
+  "credito": "Charles Lloyd",
+  "lideres": [
+    "lloyd"
+  ],
+  "grabacion": {
+    "desde": 1967,
+    "hasta": 1967,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1967,
+    "detalle": null
+  },
+  "sello": "Atlantic",
+  "musicos": [
+    {
+      "musico": "lloyd",
+      "nombre": "Charles Lloyd",
+      "instrumento": "saxo tenor, flauta"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "modal"
+  ],
+  "comentario": [
+    "En vivo en Monterey con Keith Jarrett y Jack DeJohnette: uno de los primeros discos de jazz que vendió un millón."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Forest_Flower"
+  },
+  "respaldo": []
+}

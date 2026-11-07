@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1wq4WlOpndhRd3nhjIFO38",
+    "tituloEnSpotify": "But Who's Gonna Play the Melody?",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "but-who-s-gonna-play-the-melody",
+  "titulo": "But Who's Gonna Play the Melody?",
+  "credito": "Christian McBride",
+  "lideres": [
+    "mcbride"
+  ],
+  "grabacion": {
+    "desde": 2021,
+    "hasta": 2021,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2021,
+    "detalle": null
+  },
+  "sello": "Mack Avenue",
+  "musicos": [
+    {
+      "musico": "mcbride",
+      "nombre": "Christian McBride",
+      "instrumento": "contrabajo, bajo eléctrico"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Dúo de contrabajos con Edgar Meyer: dos maneras de tocar el instrumento, del jazz a lo clásico."
+  ],
+  "ids": {
+    "musicbrainz": "148f02b1-d46a-4e25-8272-4e5769665880",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

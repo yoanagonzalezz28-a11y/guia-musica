@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "medio-oriente"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/53LA5Radjeit5J77Ka1T0w",
+    "tituloEnSpotify": "Shai Maestro Trio",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "shai-maestro-trio",
+  "titulo": "Shai Maestro Trio",
+  "credito": "Shai Maestro",
+  "lideres": [
+    "maestro"
+  ],
+  "grabacion": {
+    "desde": 2012,
+    "hasta": 2012,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2012,
+    "detalle": null
+  },
+  "sello": "Laborie",
+  "musicos": [
+    {
+      "musico": "maestro",
+      "nombre": "Shai Maestro",
+      "instrumento": "piano, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Su debut en trío: melodías cantables y compases complejos."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

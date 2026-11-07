@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "sonny-clark",
+  "nombre": "Sonny Clark",
+  "nacimiento": {
+    "anio": 1931,
+    "lugar": "Herminie, Pensilvania"
+  },
+  "muerte": {
+    "anio": 1963
+  },
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "hard-bop"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Pianista de Blue Note de toque bluesero y relajado, muy querido en Japón. Murió a los 31 años.",
+  "epocas": [
+    {
+      "titulo": "Hard bop",
+      "desde": 1957,
+      "hasta": 1961,
+      "texto": "",
+      "discoClave": {
+        "disco": "cool-struttin",
+        "explicacion": "Con Art Farmer y Jackie McLean: uno de los discos más emblemáticos de Blue Note."
+      },
+      "discos": [
+        "sonny-s-crib",
+        "sonny-clark-trio",
+        "leapin-and-lopin"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-sonny-clark"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "cool-struttin",
+    "sonny-s-crib",
+    "sonny-clark-trio",
+    "leapin-and-lopin"
+  ]
+}
