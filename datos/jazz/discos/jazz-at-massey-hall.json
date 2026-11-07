@@ -1,0 +1,83 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "id": "jazz-at-massey-hall",
+  "titulo": "Jazz at Massey Hall",
+  "credito": "The Quintet",
+  "lideres": [
+    "parker",
+    "gillespie"
+  ],
+  "grabacion": {
+    "desde": 1953,
+    "hasta": 1953,
+    "detalle": "15 de mayo de 1953"
+  },
+  "edicion": {
+    "anio": 1953,
+    "detalle": "Diciembre de 1953"
+  },
+  "sello": "Debut",
+  "catalogo": null,
+  "tipo": "vivo",
+  "compilacion": false,
+  "lugar": "Massey Hall, Toronto",
+  "musicos": [
+    {
+      "musico": "gillespie",
+      "nombre": "Dizzy Gillespie",
+      "instrumento": "trompeta y voz"
+    },
+    {
+      "musico": "parker",
+      "nombre": "Charlie Parker",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Bud Powell",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Charles Mingus",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "roach",
+      "nombre": "Max Roach",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "bebop"
+  ],
+  "comentario": [
+    "La única vez que estos cinco grabaron juntos, y la última grabación de Parker con Gillespie. Salió en Debut, el sello que Mingus y Roach habían fundado el año anterior. Parker tocó con un saxo de plástico y, por razones de contrato, no pudo figurar con su nombre en la tapa original."
+  ],
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Jazz at Massey Hall The Quintet"
+  },
+  "ids": {
+    "musicbrainz": "f9afcb1d-6674-353e-8a8a-0dbff1054ed7",
+    "discogsMaster": "176938",
+    "wikidata": "Q824981",
+    "wikipedia": "Jazz_at_Massey_Hall"
+  },
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz lo fecha en 1956 y Wikipedia en diciembre de 1953. Usamos 1953."
+    }
+  ],
+  "respaldo": [
+    {
+      "fuente": "npr-massey",
+      "acceso": "completa",
+      "aporta": "A. B. Spellman duda de la etiqueta de \"mejor concierto de jazz\", pero lo considera un encuentro histórico de los gigantes del bebop."
+    }
+  ]
+}

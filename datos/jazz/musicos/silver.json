@@ -1,0 +1,79 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "spotify": null,
+  "id": "silver",
+  "nombre": "Horace Silver",
+  "nacimiento": {
+    "anio": 1928,
+    "lugar": "Norwalk, Connecticut"
+  },
+  "muerte": {
+    "anio": 2014
+  },
+  "instrumentos": [
+    "piano",
+    "composición"
+  ],
+  "corrientes": [
+    "hard-bop"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "resumen": "Pianista y compositor de toque blusero, uno de los pioneros del hard bop. Su padre, nacido en Cabo Verde, le enseñó la música de las islas.[^wp-silver]",
+  "epocas": [
+    {
+      "titulo": "Los Messengers",
+      "desde": 1954,
+      "hasta": 1956,
+      "texto": "Stan Getz lo descubrió en 1950 y poco después se instaló en Nueva York, donde se hizo conocido como compositor.[^wp-silver] Con Blakey lideró al principio los Jazz Messengers.[^wp-blakey]",
+      "discoClave": {
+        "disco": "horace-silver-and-the-jazz-messengers",
+        "explicacion": "Trae \"The Preacher\", el tema que muestra adónde iba el estilo."
+      },
+      "discos": [
+        "a-night-at-birdland-1"
+      ]
+    },
+    {
+      "titulo": "Su propio quinteto",
+      "desde": 1956,
+      "hasta": 1963,
+      "texto": "Dejó a los Messengers y armó un grupo propio que mantuvo durante años.[^wp-blakey][^wp-silver]",
+      "discoClave": {
+        "disco": "blowin-the-blues-away",
+        "explicacion": "Una de sus sesiones más celebradas, con su grupo ya consolidado."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Otras músicas",
+      "desde": 1964,
+      "hasta": 1965,
+      "texto": "Un viaje a Brasil y la memoria de su padre se cuelan en lo que escribe.",
+      "discoClave": {
+        "disco": "song-for-my-father",
+        "explicacion": "Su tema más conocido, en un disco que registra el cambio entre dos formaciones."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-silver"
+  ],
+  "respaldo": [
+    {
+      "fuente": "db-brecker",
+      "acceso": "completa",
+      "aporta": "En su Blindfold Test, Randy Brecker recuerda la audición con la que entró a la banda de Silver."
+    },
+    {
+      "fuente": "npr-song",
+      "acceso": "completa",
+      "aporta": "Spellman y Horwitz lo eligen para una discoteca básica."
+    }
+  ]
+}

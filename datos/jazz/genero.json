@@ -1,0 +1,20 @@
+{
+  "id": "jazz",
+  "nombre": "Jazz",
+  "intro": "Corrientes, músicos, discos y regiones del jazz, conectados entre sí. Esta versión de prueba tiene dos corrientes y cuatro regiones, para calibrar el nivel antes de cargar el resto.",
+  "rangoLinea": [
+    1940,
+    1970
+  ],
+  "regionesPlanificadas": [
+    "Puerto Rico",
+    "Brasil",
+    "Sudáfrica",
+    "Etiopía",
+    "Nigeria",
+    "India",
+    "Medio Oriente",
+    "Países nórdicos",
+    "Europa del Este"
+  ]
+}

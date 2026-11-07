@@ -1,0 +1,83 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "id": "sonny-side-up",
+  "titulo": "Sonny Side Up",
+  "credito": "Dizzy Gillespie, Sonny Stitt y Sonny Rollins",
+  "lideres": [
+    "gillespie"
+  ],
+  "grabacion": {
+    "desde": 1957,
+    "hasta": 1957,
+    "detalle": "19 de diciembre de 1957"
+  },
+  "edicion": {
+    "anio": 1959,
+    "detalle": "Enero de 1959"
+  },
+  "sello": "Verve",
+  "catalogo": "MG V-8262",
+  "tipo": "estudio",
+  "compilacion": false,
+  "lugar": "Nueva York",
+  "musicos": [
+    {
+      "musico": "gillespie",
+      "nombre": "Dizzy Gillespie",
+      "instrumento": "trompeta y voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Sonny Stitt",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": "rollins",
+      "nombre": "Sonny Rollins",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Ray Bryant",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Tommy Bryant",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Charlie Persip",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "bebop"
+  ],
+  "comentario": [
+    "Dos saxos tenores de una misma raíz, Parker, con enfoques muy distintos: Stitt lleva su intensidad al tenor y Rollins es más reflexivo. Sirve para escuchar cómo conviven dos maneras de improvisar en un mismo tema."
+  ],
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7xg5prvRYEtxfjSTKFAfIi",
+    "tituloEnSpotify": "Sonny Side Up"
+  },
+  "ids": {
+    "musicbrainz": "19f3ecb4-eef6-418c-8c01-da2c90ecf7c7",
+    "discogsMaster": null,
+    "wikidata": "Q3490666",
+    "wikipedia": "Sonny_Side_Up"
+  },
+  "discrepancias": [],
+  "respaldo": [
+    {
+      "fuente": "am-sonny",
+      "acceso": "indirecta",
+      "aporta": "Stephen Cook lo describe como uno de los discos de jam session más excitantes del catálogo."
+    }
+  ]
+}

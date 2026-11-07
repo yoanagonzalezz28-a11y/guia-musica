@@ -1,0 +1,69 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Spotify lo lista como 2021; MusicBrainz y All About Jazz dan 2018."
+    }
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "id": "naumay",
+  "titulo": "NauMay",
+  "credito": "Juan Ibarra",
+  "lideres": [],
+  "grabacion": {
+    "desde": 2018,
+    "hasta": 2018,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2018,
+    "detalle": null
+  },
+  "sello": "DomusJazz",
+  "catalogo": null,
+  "tipo": "estudio",
+  "compilacion": false,
+  "lugar": null,
+  "musicos": [
+    {
+      "musico": null,
+      "nombre": "Juan Ibarra",
+      "instrumento": "batería y composición"
+    }
+  ],
+  "personalNota": "Falta confirmar el resto del grupo: All About Jazz bloquea la lectura directa.",
+  "corrientes": [],
+  "corrientePendiente": "Jazz rioplatense",
+  "comentario": [
+    "El debut de un baterista de Montevideo que cruza el jazz con el candombe. Interesa porque el ritmo local no aparece como adorno, sino como punto de partida."
+  ],
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1Ug0FUDN3rWx6AIDBVj7lt",
+    "tituloEnSpotify": "Naumay"
+  },
+  "ids": {
+    "musicbrainz": "72d83d9a-bee1-4572-841d-648f53746b78",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "aaj-ibarra",
+      "acceso": "extracto",
+      "aporta": "Reseña de Jerome Wilson para All About Jazz."
+    },
+    {
+      "fuente": "aaj-ibarra-bio",
+      "acceso": "extracto",
+      "aporta": "Confirma el origen del disco y el trabajo de Ibarra con el candombe."
+    }
+  ]
+}

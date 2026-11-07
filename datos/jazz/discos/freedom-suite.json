@@ -1,0 +1,67 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "id": "freedom-suite",
+  "titulo": "Freedom Suite",
+  "credito": "Sonny Rollins",
+  "lideres": [
+    "rollins"
+  ],
+  "grabacion": {
+    "desde": 1958,
+    "hasta": 1958,
+    "detalle": "11 de febrero y 7 de marzo de 1958"
+  },
+  "edicion": {
+    "anio": 1958,
+    "detalle": "Junio de 1958"
+  },
+  "sello": "Riverside",
+  "catalogo": null,
+  "tipo": "estudio",
+  "compilacion": false,
+  "lugar": "WOR Recording Studio",
+  "musicos": [
+    {
+      "musico": "rollins",
+      "nombre": "Sonny Rollins",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Oscar Pettiford",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "roach",
+      "nombre": "Max Roach",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Su último disco para Riverside. Otra vez en trío sin piano, abre con una pieza extensa de unos 19 minutos cuyo título habla por sí solo. El resto son canciones ajenas, de Noël Coward a \"Till There Was You\", que Rollins transforma por completo."
+  ],
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Freedom Suite Sonny Rollins"
+  },
+  "ids": {
+    "musicbrainz": "c0178fc2-3eb7-3391-b69d-6416ddbe77a3",
+    "discogsMaster": "285417",
+    "wikidata": "Q1453534",
+    "wikipedia": "Freedom_Suite_(Sonny_Rollins_album)"
+  },
+  "discrepancias": [],
+  "respaldo": [
+    {
+      "fuente": "am-freedom",
+      "acceso": "extracto",
+      "aporta": "Scott Yanow lo llama \"a near masterpiece\"."
+    }
+  ]
+}

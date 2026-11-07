@@ -1,0 +1,78 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Las fuentes dan 1979 o 1980 según cuenten el año del disco o de la ceremonia del Grammy."
+    }
+  ],
+  "regiones": [
+    "cuba"
+  ],
+  "id": "irakere-1979",
+  "titulo": "Irakere",
+  "credito": "Irakere",
+  "lideres": [],
+  "grabacion": {
+    "desde": 1978,
+    "hasta": 1978,
+    "detalle": "Junio de 1978, en los festivales de Newport y Montreux"
+  },
+  "edicion": {
+    "anio": 1979,
+    "detalle": null
+  },
+  "sello": "Columbia",
+  "catalogo": null,
+  "tipo": "vivo",
+  "compilacion": false,
+  "lugar": "Newport y Montreux",
+  "musicos": [
+    {
+      "musico": null,
+      "nombre": "Chucho Valdés",
+      "instrumento": "piano y dirección"
+    },
+    {
+      "musico": null,
+      "nombre": "Paquito D'Rivera",
+      "instrumento": "saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Arturo Sandoval",
+      "instrumento": "trompeta"
+    }
+  ],
+  "personalNota": "Lista parcial: son integrantes de esa época, pero no encontramos la formación completa de los conciertos.",
+  "corrientes": [],
+  "corrientePendiente": "Jazz afrocubano",
+  "comentario": [
+    "Con Irakere, Cuba deja de ser solo una fuente de ritmos para el jazz de Nueva York y pasa a hablar con voz propia. Tambores rituales como los batá conviven con vientos virtuosos. Este disco en vivo le dio al grupo un Grammy y proyección internacional."
+  ],
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Irakere 1979"
+  },
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "timba-irakere",
+      "acceso": "completa",
+      "aporta": "Reconstruye la formación del grupo y el origen de las grabaciones de 1978."
+    },
+    {
+      "fuente": "wp-irakere",
+      "acceso": "completa",
+      "aporta": "Explica su lugar en el jazz cubano y el premio Grammy."
+    }
+  ]
+}

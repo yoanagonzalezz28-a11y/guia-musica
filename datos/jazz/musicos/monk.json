@@ -1,0 +1,72 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "spotify": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN",
+  "id": "monk",
+  "nombre": "Thelonious Monk",
+  "nacimiento": {
+    "anio": 1917,
+    "lugar": "Rocky Mount, Carolina del Norte"
+  },
+  "muerte": {
+    "anio": 1982
+  },
+  "instrumentos": [
+    "piano",
+    "composición"
+  ],
+  "corrientes": [
+    "bebop"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "resumen": "Pianista y compositor único, con disonancias y melodías angulosas. Escribió \"'Round Midnight\", \"Blue Monk\" y \"Straight, No Chaser\", entre muchos otros estándares.[^wp-monk]",
+  "epocas": [
+    {
+      "titulo": "Blue Note",
+      "desde": 1947,
+      "hasta": 1952,
+      "texto": "Fue pianista de la casa en Minton's Playhouse a comienzos de los 40, y allí desarrolló buena parte de su estilo.[^wp-monk] Sus sesiones para Blue Note lo registran como líder.",
+      "discoClave": {
+        "disco": "genius-of-modern-music-1",
+        "explicacion": "Sus primeras versiones de varios temas que después serían estándares."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Riverside",
+      "desde": 1955,
+      "hasta": 1961,
+      "texto": "Cuando firma con Riverside ya es muy respetado por sus colegas y por una parte de la crítica, aunque sus discos todavía se venden poco y su música se considera difícil.[^wp-monk]",
+      "discoClave": {
+        "disco": "brilliant-corners",
+        "explicacion": "El primer disco del sello con composiciones propias, tocadas por un grupo de primer nivel."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Columbia",
+      "desde": 1962,
+      "hasta": 1968,
+      "texto": "Con un gran sello y un cuarteto estable, llega a la tapa de la revista *Time*: es uno de los cinco músicos de jazz que lo lograron.[^wp-monk]",
+      "discoClave": {
+        "disco": "monks-dream",
+        "explicacion": "Vuelve a su propio repertorio con la banda que lo acompañó durante esta etapa."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-monk"
+  ],
+  "respaldo": [
+    {
+      "fuente": "iverson-monk",
+      "acceso": "completa",
+      "aporta": "Ethan Iverson repasa toda su discografía, con entusiasmos y objeciones concretas."
+    }
+  ]
+}

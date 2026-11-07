@@ -1,0 +1,699 @@
+{
+  "gioia": {
+    "tipo": "libro",
+    "titulo": "Ted Gioia, The History of Jazz (Oxford University Press)",
+    "url": null,
+    "consultada": null,
+    "estado": "pendiente",
+    "nota": "Referencia principal del proyecto. Todavía no se cotejó ningún texto con el libro, y por eso ninguna ficha lo cita.",
+    "nivel": "guia-critica"
+  },
+  "wp-bebop": {
+    "tipo": "wikipedia",
+    "titulo": "Bebop (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Bebop",
+    "consultada": "2026-11-06",
+    "estado": "consultada",
+    "nivel": "referencia"
+  },
+  "wp-hardbop": {
+    "tipo": "wikipedia",
+    "titulo": "Hard bop (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Hard_bop",
+    "consultada": "2026-11-06",
+    "estado": "consultada",
+    "nivel": "referencia"
+  },
+  "wp-afrocuban": {
+    "tipo": "wikipedia",
+    "titulo": "Afro-Cuban jazz (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Afro-Cuban_jazz",
+    "consultada": "2026-11-06",
+    "estado": "consultada",
+    "nivel": "referencia"
+  },
+  "wp-chanopozo": {
+    "tipo": "wikipedia",
+    "titulo": "Chano Pozo (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Chano_Pozo",
+    "consultada": "2026-11-06",
+    "estado": "consultada",
+    "nivel": "referencia"
+  },
+  "wp-manteca": {
+    "tipo": "wikipedia",
+    "titulo": "Manteca (song) (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Manteca_(song)",
+    "consultada": "2026-11-06",
+    "estado": "consultada",
+    "nivel": "referencia"
+  },
+  "wp-mintons": {
+    "tipo": "wikipedia",
+    "titulo": "Minton's Playhouse (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Minton's_Playhouse",
+    "consultada": "2026-11-06",
+    "estado": "consultada",
+    "nivel": "referencia"
+  },
+  "wp-huelga": {
+    "tipo": "wikipedia",
+    "titulo": "1942–1944 musicians' strike (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/1942%E2%80%931944_musicians'_strike",
+    "consultada": "2026-11-06",
+    "estado": "consultada",
+    "nivel": "referencia"
+  },
+  "wp-parker": {
+    "tipo": "wikipedia",
+    "titulo": "Charlie Parker (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Charlie_Parker",
+    "consultada": "2026-11-06",
+    "estado": "consultada",
+    "nivel": "referencia"
+  },
+  "wp-gillespie": {
+    "tipo": "wikipedia",
+    "titulo": "Dizzy Gillespie (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Dizzy_Gillespie",
+    "consultada": "2026-11-06",
+    "estado": "consultada",
+    "nivel": "referencia"
+  },
+  "wp-monk": {
+    "tipo": "wikipedia",
+    "titulo": "Thelonious Monk (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Thelonious_Monk",
+    "consultada": "2026-11-06",
+    "estado": "consultada",
+    "nivel": "referencia"
+  },
+  "wp-roach": {
+    "tipo": "wikipedia",
+    "titulo": "Max Roach (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Max_Roach",
+    "consultada": "2026-11-06",
+    "estado": "consultada",
+    "nivel": "referencia"
+  },
+  "wp-blakey": {
+    "tipo": "wikipedia",
+    "titulo": "Art Blakey (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Art_Blakey",
+    "consultada": "2026-11-06",
+    "estado": "consultada",
+    "nivel": "referencia"
+  },
+  "wp-brown": {
+    "tipo": "wikipedia",
+    "titulo": "Clifford Brown (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Clifford_Brown",
+    "consultada": "2026-11-06",
+    "estado": "consultada",
+    "nivel": "referencia"
+  },
+  "wp-silver": {
+    "tipo": "wikipedia",
+    "titulo": "Horace Silver (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Horace_Silver",
+    "consultada": "2026-11-06",
+    "estado": "consultada",
+    "nivel": "referencia"
+  },
+  "wp-rollins": {
+    "tipo": "wikipedia",
+    "titulo": "Sonny Rollins (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Sonny_Rollins",
+    "consultada": "2026-11-06",
+    "estado": "consultada",
+    "nivel": "referencia"
+  },
+  "iverson-monk": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "Ethan Iverson, \"Thelonious Sphere Monk Centennial\" (Do the Math)",
+    "url": "https://ethaniverson.com/thelonious-sphere-monk-centennial-primary-and-secondary-documents/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "iverson-nichols": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "Ethan Iverson, \"Herbie Nichols Trio\" (Do the Math)",
+    "url": "https://ethaniverson.com/herbie-nichols-trio/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "iverson-walton": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "Ethan Iverson, \"Interview with Cedar Walton\" (Do the Math)",
+    "url": "https://ethaniverson.com/interview-with-cedar-walton/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "db-brecker": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "DownBeat, \"The Blindfold Test with Randy Brecker\" (2022)",
+    "url": "https://downbeat.com/news/detail/the-blindfold-test-with-randy-brecker",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "iverson-hasaan": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "Ethan Iverson, notas de Metaphysics, citadas en la reseña de Making a Scene",
+    "url": "https://makingascene.org/?p=96441",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "rollins-sobre-brown": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "Sonny Rollins sobre Clifford Brown, citado en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Clifford_Brown",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "penguin": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "The Penguin Guide to Jazz Recordings, citada en Wikipedia",
+    "url": null,
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "hentoff-db": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "Nat Hentoff en DownBeat (1957), citado en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Brilliant_Corners",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "welding-db": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "Pete Welding en DownBeat (1963), citado en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Monk's_Dream_(Thelonious_Monk_album)",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "db-1952": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "Reseña de DownBeat (1952), citada en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bird_and_Diz",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "blumenthal": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "Bob Blumenthal, citado en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/A_Night_at_Birdland_Vol._1",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "loc-koko": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "Ed Komara, ensayo sobre \"Ko Ko\" (National Recording Registry, Biblioteca del Congreso)",
+    "url": "https://www.loc.gov/static/programs/national-recording-preservation-board/documents/ko-ko.pdf",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "loc-registro": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "National Recording Registry, Biblioteca del Congreso de EE. UU.",
+    "url": "https://www.loc.gov/programs/national-recording-preservation-board/recording-registry/descriptions-and-essays/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "npr-colossus": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "A. B. Spellman y Murray Horwitz, NPR Basic Jazz Record Library: Saxophone Colossus",
+    "url": "https://www.npr.org/2011/06/20/4181980/sonny-rollins-saxophone-colossus",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "npr-song": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "A. B. Spellman y Murray Horwitz, NPR Basic Jazz Record Library: Song for My Father",
+    "url": "https://www.npr.org/2011/06/20/4177141/horace-silver-song-for-my-father",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "npr-massey": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "A. B. Spellman y Murray Horwitz, NPR Basic Jazz Record Library: Jazz at Massey Hall",
+    "url": "https://www.npr.org/2011/06/20/4184802/charlie-parker-jazz-at-massey-hall",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "npr-vanguard": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "Nate Chinen, NPR: A Night at the Village Vanguard, 60 años después",
+    "url": "https://www.npr.org/2017/11/03/561559986/sonny-rollins-spent-a-mythical-night-at-the-village-vanguard-60-years-ago-today",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "npr-rollins": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "Nate Chinen, NPR: obituario de Sonny Rollins (2026)",
+    "url": "https://www.npr.org/2026/05/26/nx-s1-5834963/sonny-rollins-a-giant-of-jazz-saxophone-had-a-lifelong-commitment-to-spontaneity",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "npr-golson": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "NPR: Benny Golson, From Jazz to Hollywood and Back",
+    "url": "https://www.npr.org/2007/05/03/9972619/benny-golson-from-jazz-to-hollywood-and-back",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "npr-hasaan": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "NPR: The Lost Recordings Of Hasaan Ibn Ali",
+    "url": "https://www.npr.org/2021/04/26/990881665/the-lost-recordings-of-hasaan-ibn-ali-reveal-a-legend-just-getting-started",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "am-birdland": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "AllMusic, citado en Wikipedia: A Night at Birdland",
+    "url": "https://en.wikipedia.org/wiki/A_Night_at_Birdland_Vol._1",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "am-afro": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "AllMusic: Afro",
+    "url": "https://www.allmusic.com/album/afro-mw0000216146",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "am-blowin": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "AllMusic, citado en Wikipedia: Blowin' the Blues Away",
+    "url": "https://en.wikipedia.org/wiki/Blowin'_the_Blues_Away",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "am-cbmr": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "AllMusic, citado en Wikipedia: Clifford Brown and Max Roach",
+    "url": "https://en.wikipedia.org/wiki/Clifford_Brown_%26_Max_Roach",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "am-freedom": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "AllMusic: Freedom Suite",
+    "url": "https://www.allmusic.com/album/freedom-suite-mw0000188709",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "am-hsjm": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "AllMusic, citado en Wikipedia: Horace Silver and the Jazz Messengers",
+    "url": "https://www.allmusic.com/album/horace-silver-and-the-jazz-messengers-mw0000192509",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "am-moanin": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "AllMusic: Moanin'",
+    "url": "https://www.allmusic.com/album/moanin-mw0000241419",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "am-mosaic": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "AllMusic: Mosaic",
+    "url": "https://www.allmusic.com/album/mosaic-mw0000649410",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "am-sonny": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "AllMusic, citado en Wikipedia: Sonny Side Up",
+    "url": "https://en.wikipedia.org/wiki/Sonny_Side_Up",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "am-study": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "AllMusic: Study in Brown",
+    "url": "https://www.allmusic.com/album/study-in-brown-mw0000187908",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "am-bridge": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "AllMusic: The Bridge",
+    "url": "https://www.allmusic.com/album/the-bridge-mw0000678485",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "jw-study": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Jazzwise: Study in Brown",
+    "url": "https://www.jazzwise.com/reviews/clifford-brown-max-roach-study-in-brown",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "jw-mosaic": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Jazzwise: Jazz Messengers!!!! + Mosaic",
+    "url": "https://www.jazzwise.com/reviews/art-blakey-and-the-jazz-messengers-jazz-messengers-mosaic",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "jw-monk": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Jazzwise: Monk's Dream",
+    "url": "https://www.jazzwise.com/reviews/thelonious-monk-quartet-monks-dream",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "jw-truebl": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Jazzwise: True Blue",
+    "url": "https://www.jazzwise.com/reviews/tina-brooks-true-blue",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "jw-goldenwings": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Jazzwise: Goldenwings",
+    "url": "https://jazzwise.com/review/opa-goldenwings",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "aaj-genius": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "All About Jazz: Genius of Modern Music, Vol. 1 (Marc Davis)",
+    "url": "https://www.allaboutjazz.com/thelonious-monk-genius-of-modern-music-volume-1--blue-note-1510-thelonious-monk-by-marc-davis",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "aaj-wow": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "All About Jazz: Way Out West (Mike Jurkovic)",
+    "url": "https://www.allaboutjazz.com/way-out-west-sonny-rollins-craft-recordings-review-by-mike-jurkovic",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "aaj-truebl": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "All About Jazz: True Blue (Norman Weinstein)",
+    "url": "https://www.allaboutjazz.com/true-blue-tina-brooks-blue-note-records-review-by-norman-weinstein",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "aaj-metaphysics": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "All About Jazz: Metaphysics",
+    "url": "https://www.allaboutjazz.com/metaphysics-the-lost-atlantic-album-hasaan-ibn-ali-omnivore-recordings",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "aaj-ibarra": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "All About Jazz: NauMay (Jerome Wilson)",
+    "url": "https://allaboutjazz.com/naumay-juan-ibarra-domusjazz-review-by-jerome-wilson.php",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "aaj-ibarra-bio": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "All About Jazz: ficha de Juan Ibarra",
+    "url": "https://www.allaboutjazz.com/musicians/juan-ibarra",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "aaj-hayes": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "All About Jazz: Luces hoy",
+    "url": "https://www.allaboutjazz.com/album/luces-hoy-andres-hayes",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "aaj-opa": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "All About Jazz: Opa y The Blackbyrds",
+    "url": "https://www.allaboutjazz.com/opa-and-the-blackbyrds-coveted-1970s-jazz-funk-craft-recordings",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "aaj-fujii": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "All About Jazz: Kappa Ondo",
+    "url": "https://www.allaboutjazz.com/kappa-ondo-satoko-fujii-orchestra-tokyo-libra-records",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "aaj-virelles": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "All About Jazz: Creative Inspirations",
+    "url": "https://www.allaboutjazz.com/creative-inspirations-david-virelles-pi-recordings",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "aaj-lopez-nussa": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "All About Jazz: López-Nussa en Bray, 2026",
+    "url": "https://www.allaboutjazz.com/harold-lopez-nussa-at-whale-theatre",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "tiempo-hayes": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Tiempo Argentino: Hayes en Luces (Carlos Salatino, 2024)",
+    "url": "https://www.tiempoar.com.ar/ta_article/hayes-en-luces-disco/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "litoral-hayes": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "El Litoral: nota sobre Andrés Hayes (Juan Ignacio Novak, 2024)",
+    "url": "https://www.ellitoral.com/escenarios-sociedad/arte-musica-jazz-luces-creacion-saxofon-innovacion_0_n0FyvqSz8w.html",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "cooltivarte-ibarra": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Cooltivarte: ARGENTO, adelanto de SURIN (2025)",
+    "url": "https://cooltivarte.com/portal/wp-json/wp/v2/posts/114559",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "pop-opa": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "PopMatters: Goldenwings",
+    "url": "https://www.popmatters.com/opa-goldenwings-reissue-review",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "pop-virelles": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "PopMatters: Creative Inspirations",
+    "url": "https://www.popmatters.com/david-virelles-creative-inspirations",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "pen-fukui": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "PEN: Ryo Fukui, redescubierto (Miranda Remington)",
+    "url": "https://pen-online.com/culture/ryo-fukui-japanese-jazz-legend-rediscovered",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "ein-fukui": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Everything Is Noise: Scenery en retrospectiva (Dominik Böhmer, 2023)",
+    "url": "https://everythingisnoise.net/features/a-scene-in-retrospect-ryo-fukui-scenery/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "hhv-tbm": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "HHV Mag: Three Blind Mice",
+    "url": "https://www.hhv-mag.com/tag/three-blind-mice-en/?lang=en",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "jma-midnight": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Jazz Music Archives: Midnight Sugar",
+    "url": "https://jazzmusicarchives.com/album/tsuyoshi-yamamoto-%E5%B1%B1%E6%9C%AC%E5%89%9B/midnight-sugar",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "jj-fujii": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Jazz Journal: Satoko Fujii Orchestra Kobe, After the Storm (2026)",
+    "url": "https://jazzjournal.co.uk/?p=145966",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "jij-asari": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Jazz in Japan: Fumika Asari Trio, agosto de 2026",
+    "url": "https://www.jazzinjapan.com/live-reviews-posts/fumika-asari-trio",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "birdland-asari": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Birdland Records: Enter a New Phase (ficha comercial)",
+    "url": "https://www.birdland.com.au/fumika-asari-enter-a-new-phase",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "pl-falcon": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Prensa Latina: concierto de Alejandro Falcón (abril de 2026)",
+    "url": "https://www.prensa-latina.cu/2026/04/30/conciertazo-en-cuba-de-alejandro-falcon-festeja-dia-del-jazz/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "timba-falcon": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Timba.com: Falcón in Blue (Bill Tilford, 2026)",
+    "url": "https://www.timba.com/reviews/falc-n-in-blue",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "timba-irakere": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Timba.com: historia y discografía de Irakere",
+    "url": "https://www.timba.com/encyclopedia_pages/history-and-discography-of-irakere",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "db-wilkins": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "DownBeat: Thinking Big with Immanuel Wilkins (Bill Milkowski, 2024)",
+    "url": "https://downbeat.com/news/detail/thinking-big-with-immanuel-wilkins",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "bn-grammy": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Blue Note: nominados a los Grammy 2026 (noviembre de 2025)",
+    "url": "https://www.bluenote.com/congrats-2026-grammy-nominees-branford-marsalis-immanuel-wilkins-gerald-clayton/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "db-ross": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "DownBeat: Joel Ross Doesn’t ‘Do The Obvious Thing’ (Phillip Lutz, 2020)",
+    "url": "https://downbeat.com/news/detail/joel-ross-doesnt-do-obvious-thing",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-irakere": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Irakere (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Irakere",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-tbm": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Three Blind Mice (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Three_Blind_Mice_(record_label)",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-fukui": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Ryo Fukui (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Ryo_Fukui",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-opa": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Opa (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Opa_(Uruguayan_band)",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-nichols": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Herbie Nichols (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Herbie_Nichols",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "bn-lopez-nussa": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Blue Note: Harold López-Nussa, Nueva Timba (2025)",
+    "url": "https://www.bluenote.com/harold-lopez-nussa-returns-with-nueva-timba/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  }
+}

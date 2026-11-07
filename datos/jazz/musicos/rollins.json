@@ -1,0 +1,74 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "spotify": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR",
+  "id": "rollins",
+  "nombre": "Sonny Rollins",
+  "nacimiento": {
+    "anio": 1930,
+    "lugar": "Nueva York"
+  },
+  "muerte": {
+    "anio": 2026
+  },
+  "instrumentos": [
+    "saxo tenor"
+  ],
+  "corrientes": [
+    "hard-bop"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "resumen": "Uno de los saxofonistas más influyentes del jazz, con una carrera de siete décadas. Escribió \"St. Thomas\", \"Oleo\", \"Doxy\" y \"Airegin\".[^wp-rollins]",
+  "epocas": [
+    {
+      "titulo": "El coloso",
+      "desde": 1955,
+      "hasta": 1958,
+      "texto": "En 1955 se sumó al quinteto de Clifford Brown y Max Roach. Tras el accidente de 1956 siguió tocando con Roach y empezó a publicar discos a su nombre en varios sellos.[^wp-rollins]",
+      "discoClave": {
+        "disco": "saxophone-colossus",
+        "explicacion": "El disco que lo consagró, grabado en un solo día con una improvisación de enorme claridad."
+      },
+      "discos": [
+        "way-out-west",
+        "village-vanguard",
+        "freedom-suite"
+      ]
+    },
+    {
+      "titulo": "El puente",
+      "desde": 1959,
+      "hasta": 1962,
+      "texto": "En 1959, descontento con sus propias limitaciones, dejó de tocar en público y se fue a practicar al puente de Williamsburg. Volvió en noviembre de 1961.[^wp-rollins]",
+      "discoClave": {
+        "disco": "the-bridge",
+        "explicacion": "El regreso. El título lo dice todo."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-rollins"
+  ],
+  "respaldo": [
+    {
+      "fuente": "npr-rollins",
+      "acceso": "completa",
+      "aporta": "Nate Chinen lo recuerda por su sonido personal y su compromiso con la espontaneidad."
+    },
+    {
+      "fuente": "iverson-monk",
+      "acceso": "completa",
+      "aporta": "Ethan Iverson lo llama \"superlative\" en las sesiones con Monk."
+    },
+    {
+      "fuente": "npr-vanguard",
+      "acceso": "completa",
+      "aporta": "Rollins habla sobre el Village Vanguard en una entrevista con Chinen."
+    }
+  ]
+}

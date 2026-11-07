@@ -1,0 +1,80 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "id": "the-bridge",
+  "titulo": "The Bridge",
+  "credito": "Sonny Rollins",
+  "lideres": [
+    "rollins"
+  ],
+  "grabacion": {
+    "desde": 1962,
+    "hasta": 1962,
+    "detalle": "30 de enero y 13 y 14 de febrero de 1962"
+  },
+  "edicion": {
+    "anio": 1962,
+    "detalle": "Abril de 1962"
+  },
+  "sello": "RCA Victor",
+  "catalogo": null,
+  "tipo": "estudio",
+  "compilacion": false,
+  "lugar": "RCA Victor, Nueva York",
+  "musicos": [
+    {
+      "musico": "rollins",
+      "nombre": "Sonny Rollins",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Jim Hall",
+      "instrumento": "guitarra eléctrica"
+    },
+    {
+      "musico": null,
+      "nombre": "Bob Cranshaw",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Ben Riley",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Harry \"H.T.\" Saunders",
+      "instrumento": "batería",
+      "nota": "Solo en un tema"
+    }
+  ],
+  "corrientes": [
+    "hard-bop"
+  ],
+  "corrienteNota": "Ya está más allá del período central del hard bop. Lo incluimos porque cierra una etapa de Rollins.",
+  "comentario": [
+    "Su regreso después de casi tres años sin grabar, durante los que practicaba en el puente de Williamsburg, en Nueva York, por no molestar a una vecina embarazada. La guitarra de Jim Hall le da al disco un aire más abierto que el de sus trabajos anteriores."
+  ],
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ",
+    "tituloEnSpotify": "The Bridge"
+  },
+  "ids": {
+    "musicbrainz": "8e98c716-6fb8-3dc2-aea6-2be48f804e6d",
+    "discogsMaster": "170468",
+    "wikidata": "Q3048864",
+    "wikipedia": "The_Bridge_(Sonny_Rollins_album)"
+  },
+  "discrepancias": [],
+  "respaldo": [
+    {
+      "fuente": "am-bridge",
+      "acceso": "extracto",
+      "aporta": "AllMusic lo considera un regreso muy logrado."
+    }
+  ]
+}

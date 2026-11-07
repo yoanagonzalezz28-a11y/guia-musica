@@ -1,0 +1,99 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "id": "brilliant-corners",
+  "titulo": "Brilliant Corners",
+  "credito": "Thelonious Monk",
+  "lideres": [
+    "monk"
+  ],
+  "grabacion": {
+    "desde": 1956,
+    "hasta": 1956,
+    "detalle": "9 y 15 de octubre y 7 de diciembre de 1956"
+  },
+  "edicion": {
+    "anio": 1957,
+    "detalle": "4 de abril de 1957"
+  },
+  "sello": "Riverside",
+  "catalogo": null,
+  "tipo": "estudio",
+  "compilacion": false,
+  "lugar": null,
+  "musicos": [
+    {
+      "musico": "monk",
+      "nombre": "Thelonious Monk",
+      "instrumento": "piano y celesta"
+    },
+    {
+      "musico": "rollins",
+      "nombre": "Sonny Rollins",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Ernie Henry",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Clark Terry",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Oscar Pettiford",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Chambers",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "roach",
+      "nombre": "Max Roach",
+      "instrumento": "batería y timbales"
+    }
+  ],
+  "corrientes": [
+    "bebop"
+  ],
+  "corrienteNota": "Monk viene del bebop pero ya es difícil de encasillar. Wikipedia también lo incluye entre los músicos de hard bop.",
+  "comentario": [
+    "Su tercer disco para Riverside y el primero del sello con temas propios. En \"Pannonica\", Monk toca la celesta, un teclado de sonido parecido a una cajita de música. Junta a Rollins y Roach, así que también sirve de puente hacia el hard bop."
+  ],
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5gWF47eGSbv4BOfxoFcQtd",
+    "tituloEnSpotify": "Brilliant Corners"
+  },
+  "ids": {
+    "musicbrainz": "764d0d9e-68b1-39fe-b1d1-eda104926777",
+    "discogsMaster": "120705",
+    "wikidata": "Q849707",
+    "wikipedia": "Brilliant_Corners"
+  },
+  "discrepancias": [],
+  "respaldo": [
+    {
+      "fuente": "iverson-monk",
+      "acceso": "completa",
+      "aporta": "Ethan Iverson lo encuentra algo irregular: Rollins está \"masterful\", pero al resto le cuesta resolver los detalles, y el tema principal está muy editado."
+    },
+    {
+      "fuente": "penguin",
+      "acceso": "indirecta",
+      "aporta": "Lo incluye en su colección esencial (\"core collection\")."
+    },
+    {
+      "fuente": "hentoff-db",
+      "acceso": "indirecta",
+      "aporta": "Nat Hentoff le dio cinco estrellas en DownBeat."
+    }
+  ]
+}

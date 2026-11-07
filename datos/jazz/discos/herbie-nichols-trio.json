@@ -1,0 +1,82 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "id": "herbie-nichols-trio",
+  "titulo": "Herbie Nichols Trio",
+  "credito": "Herbie Nichols",
+  "lideres": [],
+  "grabacion": {
+    "desde": 1955,
+    "hasta": 1956,
+    "detalle": "Sesiones de 1955 y 1956"
+  },
+  "edicion": {
+    "anio": 1956,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "catalogo": null,
+  "tipo": "estudio",
+  "compilacion": false,
+  "lugar": null,
+  "musicos": [
+    {
+      "musico": null,
+      "nombre": "Herbie Nichols",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Al McKibbon",
+      "instrumento": "contrabajo",
+      "nota": "Según la sesión"
+    },
+    {
+      "musico": null,
+      "nombre": "Teddy Kotick",
+      "instrumento": "contrabajo",
+      "nota": "Según la sesión"
+    },
+    {
+      "musico": "roach",
+      "nombre": "Max Roach",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "bebop"
+  ],
+  "corrienteNota": "Cruza el bebop con una escritura muy personal. Ethan Iverson lo emparenta con Monk.",
+  "redescubrimiento": {
+    "motivo": "Murió en 1963 casi sin reconocimiento y se ganaba la vida tocando dixieland. Su música se revaloró después, con Roswell Rudd y Steve Lacy entre sus defensores."
+  },
+  "comentario": [
+    "Ethan Iverson lo presenta como un gran pianista y un compositor todavía mayor, con temas que son \"finished masterpieces\". Es también uno de los puntos más altos de Max Roach, que resuelve cada giro de una escritura muy exigente."
+  ],
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Herbie Nichols Trio"
+  },
+  "ids": {
+    "musicbrainz": "795a0b73-7706-43fd-96e9-369cfa7b9334",
+    "discogsMaster": "208989",
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "iverson-nichols",
+      "acceso": "completa",
+      "aporta": "\"Peak modernist piano with peak Max Roach\". Considera \"Spinning Song\" una de las grandes actuaciones de Roach."
+    },
+    {
+      "fuente": "wp-nichols",
+      "acceso": "completa",
+      "aporta": "Reconstruye su vida, su falta de reconocimiento y su valoración posterior."
+    }
+  ]
+}

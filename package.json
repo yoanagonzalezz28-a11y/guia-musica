@@ -1,0 +1,14 @@
+{
+  "name": "banco-de-musica",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Banco de aprendizaje de géneros musicales. Sitio estático, sin dependencias.",
+  "scripts": {
+    "construir": "node scripts/construir.mjs",
+    "servir": "node scripts/construir.mjs && node scripts/servir.mjs",
+    "servir:pages": "node scripts/construir.mjs && node scripts/servir.mjs --base /guia-musica/",
+    "verificar": "node scripts/verificar-fuentes.mjs",
+    "auditar": "node scripts/auditar.mjs"
+  }
+}

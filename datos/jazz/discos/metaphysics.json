@@ -1,0 +1,91 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz da marzo de 2021 y Wikipedia abril de 2021. El año coincide."
+    }
+  ],
+  "regiones": [],
+  "id": "metaphysics",
+  "titulo": "Metaphysics: The Lost Atlantic Album",
+  "credito": "Hasaan Ibn Ali",
+  "lideres": [],
+  "grabacion": {
+    "desde": 1965,
+    "hasta": 1965,
+    "detalle": "23 de agosto y 7 de septiembre de 1965"
+  },
+  "edicion": {
+    "anio": 2021,
+    "detalle": "2021, 56 años después de grabarse"
+  },
+  "sello": "Omnivore Recordings",
+  "catalogo": null,
+  "tipo": "estudio",
+  "compilacion": false,
+  "lugar": "Atlantic Studios, Nueva York",
+  "musicos": [
+    {
+      "musico": null,
+      "nombre": "Hasaan Ibn Ali",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Odean Pope",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Art Davis",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Kalil Madi",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "hard-bop"
+  ],
+  "corrienteNota": "Por fecha y formación, dialoga con el hard bop, pero su armonía va mucho más allá. Es provisorio.",
+  "redescubrimiento": {
+    "motivo": "Atlantic no lo publicó cuando Hasaan fue preso, y las cintas originales se quemaron en 1978. En 2017 apareció una copia."
+  },
+  "comentario": [
+    "El pianista de Filadelfia, de culto entre músicos, solo tenía un disco publicado junto a Max Roach. Esta sesión perdida le dio por fin un disco propio. Ethan Iverson, que escribió las notas, se preguntó si podría \"recalibrar los libros de historia\"."
+  ],
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3be6v8Wu6hcP8NKhWwNrAm",
+    "tituloEnSpotify": "Metaphysics: The Lost Atlantic Album"
+  },
+  "ids": {
+    "musicbrainz": "888f6fb0-16a3-4e62-89b7-4326e5c5b989",
+    "discogsMaster": "2093782",
+    "wikidata": "Q106695591",
+    "wikipedia": "Metaphysics:_The_Lost_Atlantic_Album"
+  },
+  "respaldo": [
+    {
+      "fuente": "iverson-hasaan",
+      "acceso": "extracto",
+      "aporta": "Iverson: \"Maybe this will recalibrate the history books.\""
+    },
+    {
+      "fuente": "npr-hasaan",
+      "acceso": "completa",
+      "aporta": "NPR cuenta cómo, durante décadas, casi todo lo conocido de él venía de un solo disco."
+    },
+    {
+      "fuente": "aaj-metaphysics",
+      "acceso": "extracto",
+      "aporta": "All About Jazz habla de una pequeña obra maestra."
+    }
+  ]
+}

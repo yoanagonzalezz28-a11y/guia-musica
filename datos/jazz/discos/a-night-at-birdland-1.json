@@ -1,0 +1,93 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "id": "a-night-at-birdland-1",
+  "titulo": "A Night at Birdland, Vol. 1",
+  "credito": "Art Blakey Quintet",
+  "lideres": [
+    "blakey"
+  ],
+  "grabacion": {
+    "desde": 1954,
+    "hasta": 1954,
+    "detalle": "21 de febrero de 1954"
+  },
+  "edicion": {
+    "anio": 1954,
+    "detalle": "Julio de 1954, LP de 10 pulgadas"
+  },
+  "sello": "Blue Note",
+  "catalogo": "BLP 5037",
+  "tipo": "vivo",
+  "compilacion": false,
+  "lugar": "Birdland, Nueva York",
+  "musicos": [
+    {
+      "musico": "brown",
+      "nombre": "Clifford Brown",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Lou Donaldson",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": "silver",
+      "nombre": "Horace Silver",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Curley Russell",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "blakey",
+      "nombre": "Art Blakey",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Una noche en vivo que suele tomarse como punto de partida del hard bop. Todavía no se llaman Jazz Messengers, pero la energía ya está: Blakey empuja desde la batería, Silver le pone blues al piano y Brown brilla en la trompeta."
+  ],
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/00kSJu1snceWGZ0yYkTZXr",
+    "tituloEnSpotify": "A Night At Birdland (Volume 1/Live)"
+  },
+  "ids": {
+    "musicbrainz": "dcb10e95-ce52-3b1d-9ad6-6189150ef8c0",
+    "discogsMaster": "259211",
+    "wikidata": "Q2819836",
+    "wikipedia": "A_Night_at_Birdland_Vol._1"
+  },
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz da julio de 1956, que parece corresponder a la reedición en 12 pulgadas. Wikipedia da julio de 1954. Usamos 1954."
+    }
+  ],
+  "respaldo": [
+    {
+      "fuente": "penguin",
+      "acceso": "indirecta",
+      "aporta": "Lo incluye en su colección esencial."
+    },
+    {
+      "fuente": "blumenthal",
+      "acceso": "indirecta",
+      "aporta": "Bob Blumenthal lo considera un hito histórico."
+    },
+    {
+      "fuente": "am-birdland",
+      "acceso": "indirecta",
+      "aporta": "AllMusic: todos los participantes están inspirados."
+    }
+  ]
+}

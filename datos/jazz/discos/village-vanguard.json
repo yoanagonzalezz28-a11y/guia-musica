@@ -1,0 +1,86 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "id": "village-vanguard",
+  "titulo": "A Night at the “Village Vanguard”",
+  "credito": "Sonny Rollins",
+  "lideres": [
+    "rollins"
+  ],
+  "grabacion": {
+    "desde": 1957,
+    "hasta": 1957,
+    "detalle": "3 de noviembre de 1957"
+  },
+  "edicion": {
+    "anio": 1958,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "catalogo": "BLP 1581",
+  "tipo": "vivo",
+  "compilacion": false,
+  "lugar": "Village Vanguard, Nueva York",
+  "musicos": [
+    {
+      "musico": "rollins",
+      "nombre": "Sonny Rollins",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Donald Bailey",
+      "instrumento": "contrabajo",
+      "nota": "Función de la tarde"
+    },
+    {
+      "musico": null,
+      "nombre": "Pete LaRoca",
+      "instrumento": "batería",
+      "nota": "Función de la tarde"
+    },
+    {
+      "musico": null,
+      "nombre": "Wilbur Ware",
+      "instrumento": "contrabajo",
+      "nota": "Funciones de la noche"
+    },
+    {
+      "musico": null,
+      "nombre": "Elvin Jones",
+      "instrumento": "batería",
+      "nota": "Funciones de la noche"
+    }
+  ],
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "La primera grabación en vivo hecha en el Village Vanguard, a cargo de Rudy Van Gelder. Rollins tocó una función a la tarde y dos a la noche con dos bases rítmicas distintas, otra vez en trío y sin piano."
+  ],
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "A Night at the Village Vanguard Sonny Rollins"
+  },
+  "ids": {
+    "musicbrainz": "35cb5391-a144-31e9-853b-4728b9b2a511",
+    "discogsMaster": "169232",
+    "wikidata": "Q2819840",
+    "wikipedia": "A_Night_at_the_Village_Vanguard"
+  },
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz da 1957, el año de la grabación. Wikipedia da 1958, con una referencia de Billboard de ese año. Usamos 1958."
+    }
+  ],
+  "respaldo": [
+    {
+      "fuente": "npr-vanguard",
+      "acceso": "completa",
+      "aporta": "Nate Chinen lo define como un documento improvisado, sin plan ni manifiesto, con Rollins en su mejor día; incluye un testimonio del propio Rollins."
+    }
+  ]
+}

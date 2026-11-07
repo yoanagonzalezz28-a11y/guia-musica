@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "spotify": null,
+  "id": "brown",
+  "nombre": "Clifford Brown",
+  "apodo": "Brownie",
+  "nacimiento": {
+    "anio": 1930,
+    "lugar": "Wilmington, Delaware"
+  },
+  "muerte": {
+    "anio": 1956
+  },
+  "instrumentos": [
+    "trompeta"
+  ],
+  "corrientes": [
+    "hard-bop"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "resumen": "Murió a los 25 años en un accidente de auto y dejó apenas cuatro años de grabaciones. Temas suyos como \"Joy Spring\", \"Daahoud\" y \"Sandu\" quedaron como estándares.[^wp-brown]",
+  "epocas": [
+    {
+      "titulo": "Cuatro años",
+      "desde": 1953,
+      "hasta": 1956,
+      "texto": "En febrero de 1954 está en el escenario de Birdland con Blakey. Ese mismo año forma con Max Roach el quinteto que lo define.[^wp-brown] En junio de 1956, viajando de noche y bajo la lluvia hacia Chicago, el auto se sale de la autopista de Pensilvania: mueren Brown, el pianista Richie Powell y su esposa, Nancy.[^wp-brown]",
+      "discoClave": {
+        "disco": "study-in-brown",
+        "explicacion": "Su solo sobre \"Cherokee\" es uno de los más celebrados del jazz, y resume en pocos minutos todo su lenguaje."
+      },
+      "discos": [
+        "a-night-at-birdland-1",
+        "clifford-brown-and-max-roach"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-brown"
+  ],
+  "respaldo": [
+    {
+      "fuente": "rollins-sobre-brown",
+      "acceso": "indirecta",
+      "aporta": "Sonny Rollins: \"Clifford was a profound influence on my personal life\". Le mostró que se podía vivir sin drogas y tocar bien."
+    },
+    {
+      "fuente": "jw-study",
+      "acceso": "extracto",
+      "aporta": "Jazzwise mide la pérdida de Brown a partir de este disco."
+    }
+  ]
+}

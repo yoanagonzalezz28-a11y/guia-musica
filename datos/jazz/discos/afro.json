@@ -1,0 +1,117 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "id": "afro",
+  "titulo": "Afro",
+  "credito": "Dizzy Gillespie",
+  "lideres": [
+    "gillespie"
+  ],
+  "grabacion": {
+    "desde": 1954,
+    "hasta": 1954,
+    "detalle": "24 de mayo y 3 de junio de 1954"
+  },
+  "edicion": {
+    "anio": 1954,
+    "detalle": "Noviembre de 1954"
+  },
+  "sello": "Norgran",
+  "catalogo": "MGN 1003",
+  "tipo": "estudio",
+  "compilacion": false,
+  "lugar": "Nueva York",
+  "musicos": [
+    {
+      "musico": "gillespie",
+      "nombre": "Dizzy Gillespie",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Chico O'Farrill",
+      "instrumento": "arreglos"
+    },
+    {
+      "musico": null,
+      "nombre": "Quincy Jones",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "J. J. Johnson",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Hank Mobley",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Lucky Thompson",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Gilberto Valdés",
+      "instrumento": "flauta"
+    },
+    {
+      "musico": null,
+      "nombre": "René Hernández",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Cándido Camero",
+      "instrumento": "congas y percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Mongo Santamaría",
+      "instrumento": "congas"
+    },
+    {
+      "musico": null,
+      "nombre": "José Mangual",
+      "instrumento": "bongó"
+    },
+    {
+      "musico": null,
+      "nombre": "Ubaldo Nieto",
+      "instrumento": "timbales"
+    }
+  ],
+  "personalNota": "Lista parcial: la big band de la primera parte tiene más músicos.",
+  "corrientes": [
+    "bebop"
+  ],
+  "corrienteNota": "Lo ubicamos en bebop hasta que se cargue la corriente de jazz afrocubano, que es donde mejor encaja.",
+  "regiones": [
+    "cuba"
+  ],
+  "comentario": [
+    "Gillespie trabaja con muchos músicos cubanos. En la primera parte, una big band toca arreglos de Chico O'Farrill, entre ellos una versión de \"Manteca\". En la segunda, un grupo chico con base rítmica latina toca temas como \"A Night in Tunisia\" y \"Con Alma\"."
+  ],
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Afro Dizzy Gillespie"
+  },
+  "ids": {
+    "musicbrainz": "30c0d7cb-789f-3e21-a07c-eba2de2d03ac",
+    "discogsMaster": "259365",
+    "wikidata": "Q4690207",
+    "wikipedia": "Afro_(album)"
+  },
+  "discrepancias": [],
+  "respaldo": [
+    {
+      "fuente": "am-afro",
+      "acceso": "extracto",
+      "aporta": "Ken Dryden elogia la sesión con O'Farrill, y encuentra algo más despareja la parte en grupo chico."
+    }
+  ]
+}

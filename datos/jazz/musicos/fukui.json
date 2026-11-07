@@ -1,0 +1,55 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "spotify": null,
+  "id": "fukui",
+  "nombre": "Ryo Fukui",
+  "nacimiento": {
+    "anio": 1948,
+    "lugar": "Japón"
+  },
+  "muerte": {
+    "anio": 2016
+  },
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [],
+  "regiones": [
+    "japon"
+  ],
+  "redescubrimiento": {
+    "motivo": "Casi desconocido fuera de Japón en vida. Su obra se difundió sobre todo después de su muerte."
+  },
+  "resumen": "Pianista autodidacta de Sapporo, donde tuvo el club Slowboat con su esposa, Yasuko. Su fama internacional creció después de su muerte, con las reediciones de sus discos.[^wp-fukui]",
+  "epocas": [
+    {
+      "titulo": "Los primeros discos",
+      "desde": 1976,
+      "hasta": 1977,
+      "texto": "Empezó con el acordeón a los 18 y a los 22 aprendió solo el piano. Después de años de práctica en Tokio publicó *Scenery* y, un año más tarde, *Mellow Dream*.[^wp-fukui] Mucho después, en 1992, conoció a Barry Harris, que fue su mentor en el bebop.[^wp-fukui]",
+      "discoClave": {
+        "disco": "scenery",
+        "explicacion": "Su debut, y el disco por el que hoy lo conoce el mundo."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-fukui"
+  ],
+  "respaldo": [
+    {
+      "fuente": "pen-fukui",
+      "acceso": "completa",
+      "aporta": "Repasa su vida y su redescubrimiento."
+    },
+    {
+      "fuente": "ein-fukui",
+      "acceso": "completa",
+      "aporta": "Analiza su debut y su difusión por YouTube."
+    }
+  ]
+}

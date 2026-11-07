@@ -1,0 +1,67 @@
+{
+  "id": "japon",
+  "nombre": "Japón",
+  "resumen": "De los sellos audiófilos de los 70 a un disco olvidado que YouTube devolvió al mundo.",
+  "texto": [
+    "En los años 70, Japón ya tenía una escena propia con sellos a su medida. Three Blind Mice nació en Tokio en junio de 1970, de la mano de Takeshi Fujii, para dar lugar a los músicos japoneses emergentes. Sus discos, grabados a menudo por Yoshihiko Kannari, se hicieron famosos por la calidad del sonido.[^wp-tbm]",
+    "Esa historia casi no cruzó el océano en su momento. *Scenery*, el debut de Ryo Fukui en 1976, pasó casi inadvertido en Estados Unidos, en años de poco interés por el jazz, y décadas después lo rescataron las reediciones y las recomendaciones de YouTube.[^pen-fukui][^ein-fukui]",
+    "Este es el nivel de profundidad buscado para cada región: no solo los nombres que llegaron a los libros en inglés, sino los sellos, los clubes y los discos que definieron la escena local."
+  ],
+  "corrientes": [],
+  "musicos": [
+    "fukui"
+  ],
+  "discos": [
+    "scenery",
+    "midnight-sugar"
+  ],
+  "sellos": [
+    {
+      "nombre": "Three Blind Mice",
+      "texto": "Fundado en Tokio en 1970 por Takeshi Fujii. Grabó los primeros discos de Isao Suzuki, Tsuyoshi Yamamoto y Terumasa Hino, entre otros."
+    },
+    {
+      "nombre": "Trio Records",
+      "texto": "El sello donde apareció *Scenery*, de Ryo Fukui."
+    },
+    {
+      "nombre": "Slowboat, Sapporo",
+      "texto": "El club que Fukui tuvo con su esposa, Yasuko."
+    }
+  ],
+  "figurasPendientes": [
+    "Isao Suzuki",
+    "Terumasa Hino",
+    "Masabumi Kikuchi",
+    "Toshiko Akiyoshi",
+    "Tsuyoshi Yamamoto"
+  ],
+  "escenaActual": [
+    {
+      "nombre": "Satoko Fujii",
+      "instrumento": "piano y dirección",
+      "base": null,
+      "ultimaActividad": 2026,
+      "detalle": "En 2026 publica una serie de discos con sus orquestas, entre ellos *Kappa Ondo* y *After the Storm*.",
+      "fuentes": [
+        "jj-fujii",
+        "aaj-fujii"
+      ]
+    },
+    {
+      "nombre": "Fumika Asari",
+      "instrumento": "guitarra",
+      "base": "Tokio",
+      "ultimaActividad": 2026,
+      "detalle": "Jazz in Japan la reseñó con su trío en agosto de 2026, con la sala llena. Su disco más reciente es *Enter a New Phase*.",
+      "fuentes": [
+        "jij-asari",
+        "birdland-asari"
+      ]
+    }
+  ],
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  }
+}

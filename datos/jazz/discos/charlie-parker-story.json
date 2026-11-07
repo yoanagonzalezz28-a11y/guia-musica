@@ -1,0 +1,84 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "id": "charlie-parker-story",
+  "titulo": "The Charlie Parker Story",
+  "credito": "Charlie Parker",
+  "lideres": [
+    "parker"
+  ],
+  "grabacion": {
+    "desde": 1945,
+    "hasta": 1945,
+    "detalle": "26 de noviembre de 1945"
+  },
+  "edicion": {
+    "anio": 1956,
+    "detalle": "LP de 1956. Parte del material ya había salido en discos de 78 rpm."
+  },
+  "sello": "Savoy",
+  "catalogo": "MG 12079",
+  "tipo": "estudio",
+  "compilacion": true,
+  "lugar": null,
+  "musicos": [
+    {
+      "musico": "parker",
+      "nombre": "Charlie Parker",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Miles Davis",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": "gillespie",
+      "nombre": "Dizzy Gillespie",
+      "instrumento": "trompeta y piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Bud Powell",
+      "instrumento": "piano",
+      "nota": "Figura en la etiqueta, casi seguro por error"
+    },
+    {
+      "musico": "roach",
+      "nombre": "Max Roach",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Curley Russell",
+      "instrumento": "contrabajo"
+    }
+  ],
+  "personalNota": "Sigue sin saberse con certeza quién toca la trompeta y el piano en cada tema. Esta es la lista que aparece en el disco.",
+  "corrientes": [
+    "bebop"
+  ],
+  "comentario": [
+    "La primera sesión a nombre de Parker, con todas las tomas de todos los temas. Por eso se escucha algo poco habitual: cómo se va armando un clásico, con intentos que se caen por el camino. Acá está \"Ko-Ko\", escrito sobre los acordes de \"Cherokee\"."
+  ],
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "The Charlie Parker Story Charlie Parker"
+  },
+  "ids": {
+    "musicbrainz": "9186abe8-6467-4ac3-88d5-fafad14df2d2",
+    "discogsMaster": null,
+    "wikidata": "Q2410186",
+    "wikipedia": "The_Charlie_Parker_Story"
+  },
+  "discrepancias": [],
+  "respaldo": [
+    {
+      "fuente": "loc-koko",
+      "acceso": "extracto",
+      "aporta": "\"Ko Ko\" integra el registro de preservación de la Biblioteca del Congreso, que lo presenta como inicio de la era bebop."
+    }
+  ]
+}

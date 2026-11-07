@@ -1,0 +1,20 @@
+[
+  {
+    "id": "jazz",
+    "nombre": "Jazz",
+    "estado": "activo",
+    "lema": "Dos corrientes de prueba: bebop y hard bop."
+  },
+  {
+    "id": "clasica",
+    "nombre": "Clásica",
+    "estado": "planificado",
+    "lema": "Viene después del jazz."
+  },
+  {
+    "id": "post-rock",
+    "nombre": "Post-rock",
+    "estado": "planificado",
+    "lema": "Viene después de la clásica."
+  }
+]

@@ -1,0 +1,95 @@
+{
+  "id": "bebop",
+  "nombre": "Bebop",
+  "lema": "Jazz para escuchar, no para bailar",
+  "tinta": "#FFC400",
+  "tintaTexto": "#101318",
+  "periodo": {
+    "desde": 1944,
+    "hasta": 1956,
+    "aproximado": true
+  },
+  "deriva": [],
+  "derivaPendiente": [
+    "Swing"
+  ],
+  "regiones": [
+    "estados-unidos",
+    "cuba"
+  ],
+  "lugares": [
+    "Harlem",
+    "Calle 52, Nueva York"
+  ],
+  "texto": [
+    "A comienzos de los años 40, una generación joven empezó a llevar el jazz más allá de la música de baile de la era del swing. Lo que salió de ahí pedía otra escucha: tempos muy rápidos, acordes que cambian todo el tiempo, melodías angulosas y solos virtuosos. Como ya nadie tenía que bailar, se podía tocar más rápido.[^wp-bebop]",
+    "El laboratorio estuvo en Harlem. En Minton's Playhouse, donde Thelonious Monk y Kenny Clarke formaban parte de la banda de la casa, y en Monroe's Uptown House, donde tocaba Max Roach, las jam sessions fueron probando ese lenguaje nuevo.[^wp-bebop][^wp-mintons] Quedó poco registro de esos primeros años, que coinciden con la huelga que desde agosto de 1942 impidió a los músicos del sindicato grabar para las discográficas.[^wp-huelga]",
+    "La orquesta de 16 o 18 músicos le dejó el lugar al grupo chico. El esquema es simple: se expone la melodía, cada músico improvisa un solo y se vuelve a la melodía.[^wp-bebop] Roach y Clarke pasaron el pulso del bombo al platillo, y eso les dio más libertad a los solistas.[^wp-roach]",
+    "En 1947, Dizzy Gillespie y el percusionista cubano Chano Pozo cruzaron este lenguaje con los ritmos afrocubanos. Así nació el *cubop*, y de ahí sale una rama propia del jazz.[^wp-afrocuban]"
+  ],
+  "suena": [
+    "Saxo y trompeta tocan juntos una melodía veloz y quebrada, y después cada uno se larga a improvisar.",
+    "El ritmo fluye en el platillo. La batería suelta golpes sorpresivos en vez de marcar cada tiempo.",
+    "Muchos temas nuevos se escriben sobre los acordes de canciones conocidas: \"Ko-Ko\", por ejemplo, usa los de \"Cherokee\"."
+  ],
+  "hitos": [
+    {
+      "fecha": "1941",
+      "texto": "Se graban informalmente algunas sesiones en Minton's.[^wp-bebop]"
+    },
+    {
+      "fecha": "1942",
+      "texto": "Empieza la huelga de grabaciones del sindicato de músicos.[^wp-huelga]"
+    },
+    {
+      "fecha": "26 nov. 1945",
+      "texto": "Primera sesión a nombre de Parker, con \"Ko-Ko\".[^wp-parker]"
+    },
+    {
+      "fecha": "1947",
+      "texto": "Gillespie, Pozo y Gil Fuller escriben \"Manteca\".[^wp-manteca]"
+    },
+    {
+      "fecha": "15 may. 1953",
+      "texto": "Concierto de Massey Hall, en Toronto: última grabación de Parker y Gillespie juntos.[^wp-parker]"
+    },
+    {
+      "fecha": "12 mar. 1955",
+      "texto": "Muere Charlie Parker, a los 34 años.[^wp-parker]"
+    }
+  ],
+  "legado": "Es el idioma de base de la improvisación moderna: casi todo lo que vino después parte del bebop o discute con él.",
+  "musicos": [
+    "parker",
+    "gillespie",
+    "monk",
+    "roach"
+  ],
+  "musicosPendientes": [
+    "Bud Powell",
+    "Sarah Vaughan",
+    "Dexter Gordon",
+    "Kenny Clarke",
+    "Oscar Peterson",
+    "Fats Navarro",
+    "Tadd Dameron"
+  ],
+  "discosEsenciales": [
+    {
+      "disco": "charlie-parker-story",
+      "porque": "Para oír nacer el estilo, con tomas fallidas incluidas."
+    },
+    {
+      "disco": "jazz-at-massey-hall",
+      "porque": "Cinco fundadores en un mismo escenario."
+    },
+    {
+      "disco": "genius-of-modern-music-1",
+      "porque": "El mismo lenguaje, con otra idea del tiempo y del silencio."
+    }
+  ],
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  }
+}

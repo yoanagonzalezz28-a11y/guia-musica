@@ -1,0 +1,86 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "spotify": null,
+  "id": "roach",
+  "nombre": "Max Roach",
+  "nacimiento": {
+    "anio": 1924,
+    "lugar": "Condado de Pasquotank, Carolina del Norte"
+  },
+  "muerte": {
+    "anio": 2007
+  },
+  "instrumentos": [
+    "batería",
+    "composición"
+  ],
+  "corrientes": [
+    "bebop",
+    "hard-bop"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "resumen": "Uno de los bateristas más importantes de la historia. Junto con Kenny Clarke cambió el lugar de la batería en el jazz moderno.[^wp-roach] Es también el hilo que une las dos corrientes de esta prueba.",
+  "epocas": [
+    {
+      "titulo": "Con los fundadores",
+      "desde": 1945,
+      "hasta": 1953,
+      "texto": "Al llevar el pulso del bombo al platillo, él y Clarke crearon un ritmo más flexible que dejaba más libres a los solistas. En 1952 fundó con Charles Mingus el sello Debut, uno de los primeros en manos de sus propios artistas.[^wp-roach]",
+      "discoClave": {
+        "disco": "jazz-at-massey-hall",
+        "explicacion": "Lo editó su propio sello, y Roach es parte central del concierto."
+      },
+      "discos": [
+        "charlie-parker-story",
+        "bird-and-diz"
+      ]
+    },
+    {
+      "titulo": "El quinteto con Clifford Brown",
+      "desde": 1954,
+      "hasta": 1958,
+      "texto": "A mediados de los 50 codirigió un quinteto pionero con Brown, que terminó con el accidente de 1956.[^wp-roach][^wp-brown] Siguió tocando después con Rollins, en discos que también marcaron el período.",
+      "discoClave": {
+        "disco": "clifford-brown-and-max-roach",
+        "explicacion": "El debut del quinteto: una batería que dialoga con la melodía en lugar de solo acompañarla."
+      },
+      "discos": [
+        "study-in-brown",
+        "saxophone-colossus",
+        "brilliant-corners",
+        "freedom-suite"
+      ]
+    },
+    {
+      "titulo": "La música como toma de posición",
+      "desde": 1960,
+      "hasta": 1961,
+      "texto": "Con *We Insist!*, junto a Abbey Lincoln, su música habla de frente sobre los derechos civiles.",
+      "discoClave": {
+        "disco": "we-insist",
+        "explicacion": "La síntesis de esta etapa: una suite pensada como declaración política."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-roach"
+  ],
+  "respaldo": [
+    {
+      "fuente": "iverson-nichols",
+      "acceso": "completa",
+      "aporta": "Ethan Iverson: \"Peak modernist piano with peak Max Roach\". En 1955, dice, pocos bateristas podían seguir esos giros."
+    },
+    {
+      "fuente": "iverson-monk",
+      "acceso": "completa",
+      "aporta": "Iverson llama \"impossibly great\" a su trabajo en \"Bemsha Swing\", con Monk."
+    }
+  ]
+}

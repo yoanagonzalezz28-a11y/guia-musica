@@ -1,0 +1,63 @@
+{
+  "id": "estados-unidos",
+  "nombre": "Estados Unidos",
+  "resumen": "Donde nacen estas dos corrientes, entre Harlem y los estudios de Nueva Jersey.",
+  "texto": [
+    "Tanto el bebop como el hard bop son, ante todo, músicas afroamericanas de Nueva York. El bebop toma forma en clubes de Harlem como Minton's Playhouse.[^wp-mintons] Muchos de sus protagonistas llegan de otras partes: Charlie Parker, de Kansas City; Art Blakey, de Pittsburgh; Clifford Brown, de Wilmington.[^wp-parker][^wp-blakey][^wp-brown]",
+    "Esta ficha es de prueba. Sirve para mostrar cómo una región reúne corrientes, músicos y discos. Más adelante se puede dividir en escenas, como Nueva York, Detroit, Filadelfia o la Costa Oeste."
+  ],
+  "corrientes": [
+    "bebop",
+    "hard-bop"
+  ],
+  "musicos": [
+    "parker",
+    "gillespie",
+    "monk",
+    "roach",
+    "blakey",
+    "silver",
+    "brown",
+    "rollins"
+  ],
+  "discos": [],
+  "figurasPendientes": [],
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "sellos": [
+    {
+      "nombre": "Blue Note, Prestige y Riverside",
+      "texto": "Sellos independientes que registraron buena parte del bebop tardío y el hard bop, a menudo en el estudio de Rudy Van Gelder."
+    },
+    {
+      "nombre": "Debut",
+      "texto": "Fundado en 1952 por Charles Mingus y Max Roach, uno de los primeros sellos en manos de sus propios artistas."
+    }
+  ],
+  "escenaActual": [
+    {
+      "nombre": "Immanuel Wilkins",
+      "instrumento": "saxo alto",
+      "base": null,
+      "ultimaActividad": 2025,
+      "detalle": "Su disco *Blues Blood* fue nominado al Grammy de 2026, y ganó en el DownBeat Critics Poll.",
+      "fuentes": [
+        "db-wilkins",
+        "bn-grammy"
+      ]
+    },
+    {
+      "nombre": "Joel Ross",
+      "instrumento": "vibráfono",
+      "base": null,
+      "ultimaActividad": 2025,
+      "detalle": "DownBeat lo incluyó entre los 25 artistas que marcarán el futuro del jazz. En 2025 tocó en el disco nominado de Gerald Clayton.",
+      "fuentes": [
+        "db-ross",
+        "bn-grammy"
+      ]
+    }
+  ]
+}

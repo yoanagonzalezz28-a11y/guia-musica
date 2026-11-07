@@ -1,0 +1,124 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "id": "genius-of-modern-music-1",
+  "titulo": "Genius of Modern Music, Vol. 1",
+  "credito": "Thelonious Monk",
+  "lideres": [
+    "monk"
+  ],
+  "grabacion": {
+    "desde": 1947,
+    "hasta": 1948,
+    "detalle": "Sesiones de octubre y noviembre de 1947 y julio de 1948"
+  },
+  "edicion": {
+    "anio": 1951,
+    "detalle": "LP de 10 pulgadas en 1951; la versión de 12 pulgadas que hoy circula, en 1956"
+  },
+  "sello": "Blue Note",
+  "catalogo": null,
+  "tipo": "estudio",
+  "compilacion": true,
+  "lugar": "Nueva York",
+  "musicos": [
+    {
+      "musico": "monk",
+      "nombre": "Thelonious Monk",
+      "instrumento": "piano"
+    },
+    {
+      "musico": "blakey",
+      "nombre": "Art Blakey",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Idrees Sulieman",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Danny Quebec West",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Smith",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Gene Ramey",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "George Taitt",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Sahib Shihab",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Bob Paige",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Milt Jackson",
+      "instrumento": "vibráfono"
+    },
+    {
+      "musico": null,
+      "nombre": "John Simmons",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Shadow Wilson",
+      "instrumento": "batería"
+    }
+  ],
+  "personalNota": "El grupo cambia en cada sesión.",
+  "corrientes": [
+    "bebop"
+  ],
+  "comentario": [
+    "Las primeras grabaciones de Monk como líder, reunidas después en un LP. Acá ya están sus temas más conocidos y su manera tan propia de tocar: disonancias, silencios y melodías que parecen tropezar a propósito."
+  ],
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3dw9k0UHKn25TfksiJuNGE",
+    "tituloEnSpotify": "Genius Of Modern Music, Vol. 1"
+  },
+  "ids": {
+    "musicbrainz": "4ef4f9b3-f1e1-35fa-a117-ca9004b2a80c",
+    "discogsMaster": "120707",
+    "wikidata": "Q1502265",
+    "wikipedia": "Genius_of_Modern_Music"
+  },
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz da 1951 (10 pulgadas) y Wikipedia destaca 1956 (12 pulgadas). Las dos fechas son correctas para formatos distintos."
+    }
+  ],
+  "respaldo": [
+    {
+      "fuente": "iverson-monk",
+      "acceso": "completa",
+      "aporta": "Ethan Iverson llama a estas sesiones \"some of the most crucial 78s ever recorded\", aunque advierte que no todas las versiones son las mejores de Monk."
+    },
+    {
+      "fuente": "aaj-genius",
+      "acceso": "extracto",
+      "aporta": "Marc Davis destaca que Monk ya creaba algo que nadie había oído."
+    }
+  ]
+}

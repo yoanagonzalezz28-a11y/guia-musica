@@ -1,0 +1,84 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "id": "monks-dream",
+  "titulo": "Monk's Dream",
+  "credito": "Thelonious Monk Quartet",
+  "lideres": [
+    "monk"
+  ],
+  "grabacion": {
+    "desde": 1962,
+    "hasta": 1962,
+    "detalle": "31 de octubre y 1, 2 y 6 de noviembre de 1962"
+  },
+  "edicion": {
+    "anio": 1963,
+    "detalle": "Enero de 1963"
+  },
+  "sello": "Columbia",
+  "catalogo": null,
+  "tipo": "estudio",
+  "compilacion": false,
+  "lugar": "Estudio de la calle 30 de Columbia, Nueva York",
+  "musicos": [
+    {
+      "musico": "monk",
+      "nombre": "Thelonious Monk",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Charlie Rouse",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "John Ore",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Frankie Dunlop",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "bebop"
+  ],
+  "corrienteNota": "Editado mucho después del período del bebop. Lo incluimos por la obra de Monk, no por la fecha.",
+  "comentario": [
+    "Su primer disco para Columbia, después de cinco años en Riverside. Casi todo es repertorio que ya había grabado: \"Bright Mississippi\" es el único tema nuevo. Por eso es un buen punto para escuchar cómo vuelve sobre su propia música con un cuarteto estable."
+  ],
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5VTlqV8lZH3YspQ1cDcjrL",
+    "tituloEnSpotify": "Monk's Dream"
+  },
+  "ids": {
+    "musicbrainz": "e592af5d-94e1-33a5-bc42-2a500a818c92",
+    "discogsMaster": "147910",
+    "wikidata": "Q2347501",
+    "wikipedia": "Monk's_Dream_(Thelonious_Monk_album)"
+  },
+  "discrepancias": [],
+  "respaldo": [
+    {
+      "fuente": "iverson-monk",
+      "acceso": "completa",
+      "aporta": "Ethan Iverson lo considera el más fresco de los discos de cuarteto, sobre todo por la batería de Frankie Dunlop."
+    },
+    {
+      "fuente": "jw-monk",
+      "acceso": "extracto",
+      "aporta": "Jazzwise es más medido: repertorio poco ambicioso y una base rítmica fuerte."
+    },
+    {
+      "fuente": "welding-db",
+      "acceso": "indirecta",
+      "aporta": "Pete Welding le dio cinco estrellas en DownBeat."
+    }
+  ]
+}

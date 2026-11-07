@@ -1,0 +1,84 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "id": "clifford-brown-and-max-roach",
+  "titulo": "Clifford Brown and Max Roach",
+  "credito": "Clifford Brown y Max Roach",
+  "lideres": [
+    "brown",
+    "roach"
+  ],
+  "grabacion": {
+    "desde": 1954,
+    "hasta": 1955,
+    "detalle": "Agosto de 1954 (LP original) y febrero de 1955 (versión ampliada)"
+  },
+  "edicion": {
+    "anio": 1954,
+    "detalle": "Diciembre de 1954, LP de 10 pulgadas"
+  },
+  "sello": "EmArcy",
+  "catalogo": "MG 26043",
+  "tipo": "estudio",
+  "compilacion": false,
+  "lugar": "Estudios Capitol",
+  "musicos": [
+    {
+      "musico": "brown",
+      "nombre": "Clifford Brown",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Harold Land",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Richie Powell",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "George Morrow",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "roach",
+      "nombre": "Max Roach",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "El debut de un quinteto que el *New York Times* describió como quizá el grupo de bop definitivo hasta la muerte de Brown. Trae \"Daahoud\" y \"Joy Spring\", que se volvieron estándares. Roach no se queda atrás: acá la batería también conversa con la melodía."
+  ],
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG",
+    "tituloEnSpotify": "Clifford Brown And Max Roach (Expanded Edition)"
+  },
+  "ids": {
+    "musicbrainz": "492e9fb1-5992-3efb-99ca-fda9c713fa8b",
+    "discogsMaster": "302135",
+    "wikidata": "Q5132880",
+    "wikipedia": "Clifford_Brown_%26_Max_Roach"
+  },
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz da 1955 y Wikipedia diciembre de 1954 (10 pulgadas). Usamos 1954."
+    }
+  ],
+  "respaldo": [
+    {
+      "fuente": "am-cbmr",
+      "acceso": "indirecta",
+      "aporta": "AllMusic lo recomienda tanto para coleccionistas como para quienes recién empiezan."
+    }
+  ]
+}

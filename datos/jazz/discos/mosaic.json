@@ -1,0 +1,98 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "id": "mosaic",
+  "titulo": "Mosaic",
+  "credito": "Art Blakey and the Jazz Messengers",
+  "lideres": [
+    "blakey"
+  ],
+  "grabacion": {
+    "desde": 1961,
+    "hasta": 1961,
+    "detalle": "2 de octubre de 1961"
+  },
+  "edicion": {
+    "anio": 1962,
+    "detalle": "Enero de 1962"
+  },
+  "sello": "Blue Note",
+  "catalogo": "BLP 4090",
+  "tipo": "estudio",
+  "compilacion": false,
+  "lugar": "Estudio Van Gelder, Englewood Cliffs, Nueva Jersey",
+  "musicos": [
+    {
+      "musico": null,
+      "nombre": "Freddie Hubbard",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Curtis Fuller",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Wayne Shorter",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Cedar Walton",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Jymie Merritt",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "blakey",
+      "nombre": "Art Blakey",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Con tres vientos en vez de dos, la banda suena más ancha y los arreglos se vuelven más densos. Comparado con *Moanin'*, se oye cuánto cambió el hard bop en apenas tres años."
+  ],
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0ROzOHhkPnjLnHFLJ49Xco",
+    "tituloEnSpotify": "Mosaic (The Rudy Van Gelder Edition)"
+  },
+  "ids": {
+    "musicbrainz": "aac05e6c-4c7e-31da-ba7e-e5b70d288ef3",
+    "discogsMaster": "62494",
+    "wikidata": "Q1948817",
+    "wikipedia": "Mosaic_(Art_Blakey_album)"
+  },
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz da 1 de diciembre de 1960, anterior a la grabación, así que no puede ser correcta. Usamos la de Wikipedia: enero de 1962."
+    }
+  ],
+  "respaldo": [
+    {
+      "fuente": "iverson-walton",
+      "acceso": "completa",
+      "aporta": "Cedar Walton cuenta que escribió \"Mosaic\" en minutos, que otra banda lo descartó tras unas 30 tomas y que los Messengers lo adoptaron de inmediato."
+    },
+    {
+      "fuente": "jw-mosaic",
+      "acceso": "extracto",
+      "aporta": "Roy Carr ubica esta formación en un pico creativo."
+    },
+    {
+      "fuente": "am-mosaic",
+      "acceso": "extracto",
+      "aporta": "Thom Jurek recomienda el disco a cualquier seguidor de Blakey."
+    }
+  ]
+}

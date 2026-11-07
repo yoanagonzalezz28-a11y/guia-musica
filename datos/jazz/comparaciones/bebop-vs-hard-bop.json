@@ -1,0 +1,63 @@
+{
+  "id": "bebop-vs-hard-bop",
+  "titulo": "Bebop y hard bop",
+  "a": "bebop",
+  "b": "hard-bop",
+  "tintaCruce": "#0F4A3A",
+  "intro": "El hard bop no reemplaza al bebop: sale de él y usa el mismo idioma. La diferencia está en el acento. Si el bebop mira hacia la velocidad y la armonía, el hard bop mira hacia el blues y la iglesia.",
+  "ejes": [
+    {
+      "eje": "De dónde sale",
+      "a": "De la generación que quiere ir más allá de la música de baile del swing.[^wp-bebop]",
+      "b": "Del propio bebop, con el rhythm and blues, el gospel y el blues sumados.[^wp-hardbop]"
+    },
+    {
+      "eje": "Melodías",
+      "a": "Angulosas y rápidas, difíciles de cantar.[^wp-bebop]",
+      "b": "Más simples y bluseras. Los tempos pueden seguir siendo muy rápidos.[^wp-hardbop]"
+    },
+    {
+      "eje": "Base rítmica",
+      "a": "El pulso pasa al platillo y el bajo marca el tiempo.[^wp-bebop][^wp-roach]",
+      "b": "Sensación más pesada, y el contrabajo gana espacio para solear.[^wp-hardbop]"
+    },
+    {
+      "eje": "Formación típica",
+      "a": "Grupo chico: saxo, trompeta, piano, contrabajo, batería.[^wp-bebop]",
+      "b": "Casi la misma, en general con saxo tenor al frente. Las diferencias están en el repertorio y el sonido."
+    },
+    {
+      "eje": "Cómo se publicó",
+      "a": "Sobre todo en discos sencillos de 78 rpm: muchos \"álbumes\" son recopilaciones posteriores.",
+      "b": "Ya en la era del LP: los discos se pensaron como álbumes desde el principio."
+    }
+  ],
+  "escuchaParalela": [
+    {
+      "a": {
+        "disco": "charlie-parker-story",
+        "tema": "Ko-Ko"
+      },
+      "b": {
+        "disco": "study-in-brown",
+        "tema": "Cherokee"
+      },
+      "consigna": "Los dos se apoyan en los mismos acordes, con diez años de diferencia. Fijate qué conserva Brown de Parker y qué cambia."
+    },
+    {
+      "a": {
+        "disco": "jazz-at-massey-hall",
+        "tema": "Salt Peanuts"
+      },
+      "b": {
+        "disco": "moanin",
+        "tema": "Moanin'"
+      },
+      "consigna": "Probá tararear cada tema después de escucharlo. Lo que te cueste cantar dice mucho sobre la diferencia entre los dos estilos."
+    }
+  ],
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  }
+}

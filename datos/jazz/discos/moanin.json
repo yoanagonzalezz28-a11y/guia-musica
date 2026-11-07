@@ -1,0 +1,89 @@
+{
+  "id": "moanin",
+  "titulo": "Moanin'",
+  "tituloOriginal": "Art Blakey and the Jazz Messengers",
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "credito": "Art Blakey and the Jazz Messengers",
+  "lideres": [
+    "blakey"
+  ],
+  "grabacion": {
+    "desde": 1958,
+    "hasta": 1958,
+    "detalle": "30 de octubre de 1958"
+  },
+  "edicion": {
+    "anio": 1958,
+    "detalle": "Fines de 1958, según Wikipedia"
+  },
+  "sello": "Blue Note",
+  "catalogo": "BLP 4003",
+  "tipo": "estudio",
+  "compilacion": false,
+  "lugar": "Estudio Van Gelder, Hackensack, Nueva Jersey",
+  "musicos": [
+    {
+      "musico": null,
+      "nombre": "Lee Morgan",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Benny Golson",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Bobby Timmons",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Jymie Merritt",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "blakey",
+      "nombre": "Art Blakey",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "El disco se llamaba igual que la banda, pero el tema de apertura pegó tan fuerte que terminó dándole nombre. Lo escribió el pianista Bobby Timmons y funciona como pregunta y respuesta de iglesia: el piano llama y los vientos contestan. El resto de los temas originales son de Benny Golson."
+  ],
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5PzlTnVafjgt5RtjTdIKoC",
+    "tituloEnSpotify": "Moanin' (Expanded Edition)"
+  },
+  "ids": {
+    "musicbrainz": "e809b0f3-5683-3248-b39a-e7ee8e86d2d9",
+    "discogsMaster": "62462",
+    "wikidata": "Q1229728",
+    "wikipedia": "Moanin'"
+  },
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Wikipedia y MusicBrainz dan 1958; la edición de Spotify figura como 1959."
+    }
+  ],
+  "respaldo": [
+    {
+      "fuente": "npr-golson",
+      "acceso": "completa",
+      "aporta": "Testimonio de Benny Golson sobre el papel que jugó en el nacimiento del disco y del tema de Timmons."
+    },
+    {
+      "fuente": "am-moanin",
+      "acceso": "indirecta",
+      "aporta": "AllMusic le da cinco estrellas."
+    }
+  ]
+}

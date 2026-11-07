@@ -1,0 +1,78 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "id": "saxophone-colossus",
+  "titulo": "Saxophone Colossus",
+  "credito": "Sonny Rollins",
+  "lideres": [
+    "rollins"
+  ],
+  "grabacion": {
+    "desde": 1956,
+    "hasta": 1956,
+    "detalle": "22 de junio de 1956"
+  },
+  "edicion": {
+    "anio": 1957,
+    "detalle": "Marzo o abril de 1957"
+  },
+  "sello": "Prestige",
+  "catalogo": null,
+  "tipo": "estudio",
+  "compilacion": false,
+  "lugar": "Estudio Van Gelder, Hackensack, Nueva Jersey",
+  "musicos": [
+    {
+      "musico": "rollins",
+      "nombre": "Sonny Rollins",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Tommy Flanagan",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Doug Watkins",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "roach",
+      "nombre": "Max Roach",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Se grabó cuatro días antes de que murieran Clifford Brown y Richie Powell, compañeros de Rollins y de Roach en el quinteto. Suele considerarse el disco que lo consagró, y la Biblioteca del Congreso de Estados Unidos lo eligió para su registro de preservación en 2016."
+  ],
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0yodD8uAkAT5UmrlF2xy97",
+    "tituloEnSpotify": "Saxophone Colossus"
+  },
+  "ids": {
+    "musicbrainz": "cf29d6a2-a18a-3bb6-a861-495148baee1f",
+    "discogsMaster": "174519",
+    "wikidata": "Q1806977",
+    "wikipedia": "Saxophone_Colossus"
+  },
+  "discrepancias": [],
+  "respaldo": [
+    {
+      "fuente": "npr-colossus",
+      "acceso": "completa",
+      "aporta": "A. B. Spellman lo señala como el disco en que Rollins se reveló como maestro."
+    },
+    {
+      "fuente": "loc-registro",
+      "acceso": "extracto",
+      "aporta": "Integra el registro de preservación de la Biblioteca del Congreso."
+    }
+  ]
+}

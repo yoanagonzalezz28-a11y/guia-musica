@@ -1,0 +1,65 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "spotify": "https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t",
+  "id": "blakey",
+  "nombre": "Art Blakey",
+  "nacimiento": {
+    "anio": 1919,
+    "lugar": "Pittsburgh, Pensilvania"
+  },
+  "muerte": {
+    "anio": 1990
+  },
+  "instrumentos": [
+    "batería"
+  ],
+  "corrientes": [
+    "hard-bop"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "resumen": "Baterista y líder de los Jazz Messengers, la banda que durante décadas funcionó como escuela de músicos jóvenes.[^wp-blakey]",
+  "epocas": [
+    {
+      "titulo": "Del bebop a los Messengers",
+      "desde": 1947,
+      "hasta": 1956,
+      "texto": "Se hizo un nombre en los 40 en las big bands de Fletcher Henderson y Billy Eckstine, y tocó con Monk, Parker y Gillespie. A mediados de los 50 formó los Jazz Messengers junto con Horace Silver, y se quedó con el nombre cuando Silver se fue.[^wp-blakey]",
+      "discoClave": {
+        "disco": "a-night-at-birdland-1",
+        "explicacion": "La noche en vivo que suele señalarse como inicio del hard bop, antes de que existiera el nombre de la banda."
+      },
+      "discos": [
+        "horace-silver-and-the-jazz-messengers",
+        "genius-of-modern-music-1"
+      ]
+    },
+    {
+      "titulo": "La escuela de los Messengers",
+      "desde": 1958,
+      "hasta": 1964,
+      "texto": "Por la banda pasaron Lee Morgan, Benny Golson, Wayne Shorter y Freddie Hubbard, entre muchos otros: para muchos fue el trampolín a una carrera propia.[^wp-blakey]",
+      "discoClave": {
+        "disco": "moanin",
+        "explicacion": "El gran éxito de la banda, con un tema de gospel y blues que todavía se toca en todos lados."
+      },
+      "discos": [
+        "mosaic"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-blakey"
+  ],
+  "respaldo": [
+    {
+      "fuente": "iverson-walton",
+      "acceso": "completa",
+      "aporta": "Cedar Walton, que tocó en su banda: \"Blakey insisted on us writing\". La exigencia de componer era parte de la escuela."
+    }
+  ]
+}

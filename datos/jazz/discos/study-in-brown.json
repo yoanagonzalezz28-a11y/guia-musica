@@ -1,0 +1,84 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "id": "study-in-brown",
+  "titulo": "Study in Brown",
+  "credito": "Clifford Brown y Max Roach",
+  "lideres": [
+    "brown",
+    "roach"
+  ],
+  "grabacion": {
+    "desde": 1955,
+    "hasta": 1955,
+    "detalle": "23 a 25 de febrero de 1955"
+  },
+  "edicion": {
+    "anio": 1955,
+    "detalle": null
+  },
+  "sello": "EmArcy",
+  "catalogo": "MG 36037",
+  "tipo": "estudio",
+  "compilacion": false,
+  "lugar": "Estudios Capitol, Nueva York",
+  "musicos": [
+    {
+      "musico": "brown",
+      "nombre": "Clifford Brown",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Harold Land",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Richie Powell",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "George Morrow",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "roach",
+      "nombre": "Max Roach",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Abre con \"Cherokee\", los mismos acordes que Parker había usado en \"Ko-Ko\" diez años antes, y el solo de Brown es uno de los más celebrados del jazz. Casi todo lo demás es material propio de la banda, incluidos \"Sandu\" y \"Lands End\", que quedaron como estándares."
+  ],
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3158RZskTkHMhPvQICUeQ1",
+    "tituloEnSpotify": "Study In Brown"
+  },
+  "ids": {
+    "musicbrainz": "ecdf91a1-9e2a-44db-83f2-7f6c9ff82c10",
+    "discogsMaster": "183534",
+    "wikidata": "Q3976323",
+    "wikipedia": "Study_in_Brown"
+  },
+  "discrepancias": [],
+  "respaldo": [
+    {
+      "fuente": "jw-study",
+      "acceso": "extracto",
+      "aporta": "Jazzwise lo califica de indispensable."
+    },
+    {
+      "fuente": "am-study",
+      "acceso": "extracto",
+      "aporta": "Scott Yanow destaca \"Cherokee\", \"Swingin'\" y \"Sandu\"."
+    }
+  ]
+}

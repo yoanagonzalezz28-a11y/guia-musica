@@ -1,0 +1,85 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [],
+  "id": "true-blue",
+  "titulo": "True Blue",
+  "credito": "Tina Brooks",
+  "lideres": [],
+  "grabacion": {
+    "desde": 1960,
+    "hasta": 1960,
+    "detalle": "25 de junio de 1960"
+  },
+  "edicion": {
+    "anio": 1960,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "catalogo": null,
+  "tipo": "estudio",
+  "compilacion": false,
+  "lugar": null,
+  "musicos": [
+    {
+      "musico": null,
+      "nombre": "Tina Brooks",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Freddie Hubbard",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Duke Jordan",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Sam Jones",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Art Taylor",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "hard-bop"
+  ],
+  "redescubrimiento": {
+    "motivo": "Fue el único disco a su nombre que se publicó mientras vivía. Otras sesiones para Blue Note quedaron guardadas durante décadas."
+  },
+  "comentario": [
+    "Hard bop en estado puro, de un saxofonista que casi nadie conoce. Sirve para comprobar que la profundidad del estilo no termina en los nombres famosos. Las críticas son favorables, aunque no unánimes: Norman Weinstein no encuentra inspirados los temas, pero igual considera el disco algo para atesorar."
+  ],
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3OCVszWqG11K9afch58wM4",
+    "tituloEnSpotify": "True Blue"
+  },
+  "ids": {
+    "musicbrainz": "575abc88-b4a6-3fa8-93af-c0c8b6674485",
+    "discogsMaster": "186748",
+    "wikidata": "Q17036522",
+    "wikipedia": "True_Blue_(Tina_Brooks_album)"
+  },
+  "respaldo": [
+    {
+      "fuente": "jw-truebl",
+      "acceso": "extracto",
+      "aporta": "Jazzwise lo presenta como una buena muestra del mejor hard bop."
+    },
+    {
+      "fuente": "aaj-truebl",
+      "acceso": "extracto",
+      "aporta": "Norman Weinstein señala sus límites y aun así lo valora."
+    }
+  ]
+}

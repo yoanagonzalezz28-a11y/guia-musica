@@ -1,0 +1,116 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "id": "bird-and-diz",
+  "titulo": "Bird and Diz",
+  "credito": "Charlie Parker y Dizzy Gillespie",
+  "lideres": [
+    "parker",
+    "gillespie"
+  ],
+  "grabacion": {
+    "desde": 1949,
+    "hasta": 1950,
+    "detalle": "Sobre todo el 6 de junio de 1950; dos temas de 1949"
+  },
+  "edicion": {
+    "anio": 1952,
+    "detalle": "Julio o agosto de 1952, LP de 10 pulgadas"
+  },
+  "sello": "Clef / Verve",
+  "catalogo": null,
+  "tipo": "estudio",
+  "compilacion": false,
+  "lugar": "Nueva York",
+  "musicos": [
+    {
+      "musico": "parker",
+      "nombre": "Charlie Parker",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": "gillespie",
+      "nombre": "Dizzy Gillespie",
+      "instrumento": "trompeta",
+      "nota": "Salvo \"Passport\" y \"Visa\""
+    },
+    {
+      "musico": "monk",
+      "nombre": "Thelonious Monk",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Curley Russell",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Buddy Rich",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Kenny Dorham",
+      "instrumento": "trompeta",
+      "nota": "Solo \"Passport\" y \"Visa\""
+    },
+    {
+      "musico": null,
+      "nombre": "Tommy Turk",
+      "instrumento": "trombón",
+      "nota": "Solo \"Visa\""
+    },
+    {
+      "musico": null,
+      "nombre": "Al Haig",
+      "instrumento": "piano",
+      "nota": "Solo \"Passport\" y \"Visa\""
+    },
+    {
+      "musico": null,
+      "nombre": "Tommy Potter",
+      "instrumento": "contrabajo",
+      "nota": "Solo \"Passport\" y \"Visa\""
+    },
+    {
+      "musico": "roach",
+      "nombre": "Max Roach",
+      "instrumento": "batería",
+      "nota": "Solo \"Passport\" y \"Visa\""
+    },
+    {
+      "musico": null,
+      "nombre": "Carlos Vidal Bolado",
+      "instrumento": "bongó",
+      "nota": "Solo \"Visa\""
+    }
+  ],
+  "corrientes": [
+    "bebop"
+  ],
+  "comentario": [
+    "El formato clásico del bebop, sin orquesta: saxo, trompeta, piano, contrabajo y batería. Tiene su rareza: Monk al piano y Buddy Rich, un baterista de la era del swing, empujando desde atrás."
+  ],
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5p0nwXltopUy8MNMEtyNfD",
+    "tituloEnSpotify": "Bird & Diz"
+  },
+  "ids": {
+    "musicbrainz": "069a4693-1752-36da-9707-d98b47a57146",
+    "discogsMaster": "176947",
+    "wikidata": "Q865074",
+    "wikipedia": "Bird_and_Diz"
+  },
+  "discrepancias": [],
+  "respaldo": [
+    {
+      "fuente": "db-1952",
+      "acceso": "indirecta",
+      "aporta": "DownBeat le dio cuatro estrellas al disco en 1952."
+    }
+  ]
+}

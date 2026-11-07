@@ -1,0 +1,78 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [
+    {
+      "campo": "músicos",
+      "texto": "Un listado comercial nombra a Hideto Kanai en contrabajo; la mayoría de los catálogos dan a Isoo Fukui."
+    }
+  ],
+  "regiones": [
+    "japon"
+  ],
+  "id": "midnight-sugar",
+  "titulo": "Midnight Sugar",
+  "credito": "Tsuyoshi Yamamoto Trio",
+  "lideres": [],
+  "grabacion": {
+    "desde": 1974,
+    "hasta": 1974,
+    "detalle": "1 de marzo de 1974, Aoi Studio, Tokio, según listados de catálogo"
+  },
+  "edicion": {
+    "anio": 1974,
+    "detalle": null
+  },
+  "sello": "Three Blind Mice",
+  "catalogo": "TBM-23",
+  "tipo": "estudio",
+  "compilacion": false,
+  "lugar": "Aoi Studio, Tokio",
+  "musicos": [
+    {
+      "musico": null,
+      "nombre": "Tsuyoshi Yamamoto",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Isoo Fukui",
+      "instrumento": "contrabajo",
+      "nota": "También figura como Isao Fukui"
+    },
+    {
+      "musico": null,
+      "nombre": "Tetsujiro Obara",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [],
+  "corrientePendiente": "Jazz japonés de los 70",
+  "comentario": [
+    "El disco más difundido de Three Blind Mice, el sello que quiso ser el Blue Note de Japón. Hoy suele usarse para demostrar equipos de audio: es un trío íntimo, grabado con un cuidado poco común."
+  ],
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Tsuyoshi Yamamoto Trio Midnight Sugar"
+  },
+  "ids": {
+    "musicbrainz": "d2a91dd3-cb71-40b0-81ca-ad4bee8d25eb",
+    "discogsMaster": "374521",
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-tbm",
+      "acceso": "completa",
+      "aporta": "Lista el disco en el catálogo y describe el valor del sello."
+    },
+    {
+      "fuente": "jma-midnight",
+      "acceso": "extracto",
+      "aporta": "Detalla la formación y el repertorio."
+    }
+  ]
+}

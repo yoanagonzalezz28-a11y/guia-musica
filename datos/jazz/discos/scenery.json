@@ -1,0 +1,87 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [
+    {
+      "campo": "grabación",
+      "texto": "Un blog da septiembre de 1976. Wikipedia y Everything Is Noise dan julio; usamos julio."
+    },
+    {
+      "campo": "sello",
+      "texto": "Una fuente lo atribuye a Nadja, sublabel de Trio. No pudimos confirmarlo."
+    }
+  ],
+  "regiones": [
+    "japon"
+  ],
+  "id": "scenery",
+  "titulo": "Scenery",
+  "credito": "Ryo Fukui",
+  "lideres": [
+    "fukui"
+  ],
+  "grabacion": {
+    "desde": 1976,
+    "hasta": 1976,
+    "detalle": "Julio de 1976, según Wikipedia y Everything Is Noise"
+  },
+  "edicion": {
+    "anio": 1976,
+    "detalle": null
+  },
+  "sello": "Trio Records",
+  "catalogo": null,
+  "tipo": "estudio",
+  "compilacion": false,
+  "lugar": null,
+  "musicos": [
+    {
+      "musico": "fukui",
+      "nombre": "Ryo Fukui",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Satoshi Denpo",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Yoshinori Fukui",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [],
+  "corrientePendiente": "Jazz japonés de los 70",
+  "redescubrimiento": {
+    "motivo": "Pasó casi inadvertido fuera de Japón hasta que las reediciones y las recomendaciones de YouTube lo llevaron a un público nuevo."
+  },
+  "comentario": [
+    "El debut de un pianista autodidacta que empezó a tocar el piano a los 22 años. Casi todo el repertorio es ajeno y hay un solo tema propio, entre el bop y el jazz modal, en trío con su hermano en la batería. Es el ejemplo perfecto de cómo un disco local puede tardar décadas en encontrar su público."
+  ],
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5Uny0mkKiVGDat7H6SNDyS",
+    "tituloEnSpotify": "シーナリィ"
+  },
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Scenery_(Ryo_Fukui_album)"
+  },
+  "respaldo": [
+    {
+      "fuente": "pen-fukui",
+      "acceso": "completa",
+      "aporta": "Miranda Remington: \"Completely under the radar until its miraculous recent online rediscovery\"."
+    },
+    {
+      "fuente": "ein-fukui",
+      "acceso": "completa",
+      "aporta": "Un análisis colectivo, con el relato de quien lo descubrió por una recomendación de YouTube."
+    }
+  ]
+}

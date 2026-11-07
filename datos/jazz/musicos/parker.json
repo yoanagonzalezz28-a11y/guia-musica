@@ -1,0 +1,68 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "spotify": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC",
+  "id": "parker",
+  "nombre": "Charlie Parker",
+  "apodo": "Bird",
+  "nacimiento": {
+    "anio": 1920,
+    "lugar": "Kansas City, Kansas"
+  },
+  "muerte": {
+    "anio": 1955
+  },
+  "instrumentos": [
+    "saxo alto"
+  ],
+  "corrientes": [
+    "bebop"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "resumen": "La figura central del bebop. Cambió cómo se improvisa en el jazz: frases muy rápidas, armonías avanzadas y una libertad rítmica nueva.[^wp-parker]",
+  "epocas": [
+    {
+      "titulo": "La sesión que lo cambia todo",
+      "desde": 1945,
+      "hasta": 1948,
+      "texto": "De adolescente, en una jam session de 1936, perdió el hilo de los acordes y el baterista Jo Jones le tiró un platillo a los pies para sacarlo del escenario. Se puso a estudiar con obsesión. Tiempo después, en Nueva York, practicando \"Cherokee\", encontró el camino hacia lo que se llamaría bebop.[^wp-parker]",
+      "discoClave": {
+        "disco": "charlie-parker-story",
+        "explicacion": "Es el acta de esa búsqueda: su primera sesión como líder, con todas las tomas a la vista."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Prestigio y final",
+      "desde": 1949,
+      "hasta": 1955,
+      "texto": "En 1946 había pasado seis meses internado en el hospital de Camarillo, en California.[^wp-parker] Volvió a Nueva York y siguió tocando en sus grupos, y muchas de sus grabaciones de esta etapa salieron por los sellos de Norman Granz. La discriminación racial y la adicción fueron cerrándole caminos, hasta su muerte en 1955.[^wp-parker]",
+      "discoClave": {
+        "disco": "jazz-at-massey-hall",
+        "explicacion": "El último encuentro grabado con Gillespie, en Toronto, y un gran concierto en plena etapa final."
+      },
+      "discos": [
+        "bird-and-diz"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-parker"
+  ],
+  "respaldo": [
+    {
+      "fuente": "loc-koko",
+      "acceso": "extracto",
+      "aporta": "Ensayo de Ed Komara sobre la grabación que marca el inicio de la era bebop."
+    },
+    {
+      "fuente": "npr-massey",
+      "acceso": "completa",
+      "aporta": "Spellman y Horwitz destacan a los músicos de Massey Hall como creadores de melodías en tiempo real."
+    }
+  ]
+}

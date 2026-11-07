@@ -1,0 +1,105 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "id": "we-insist",
+  "titulo": "We Insist! Max Roach’s Freedom Now Suite",
+  "credito": "Max Roach",
+  "lideres": [
+    "roach"
+  ],
+  "grabacion": {
+    "desde": 1960,
+    "hasta": 1960,
+    "detalle": "31 de agosto y 6 de septiembre de 1960"
+  },
+  "edicion": {
+    "anio": 1961,
+    "detalle": "Enero de 1961"
+  },
+  "sello": "Candid",
+  "catalogo": null,
+  "tipo": "estudio",
+  "compilacion": false,
+  "lugar": "Nola Penthouse Sound Studio, Nueva York",
+  "musicos": [
+    {
+      "musico": "roach",
+      "nombre": "Max Roach",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Abbey Lincoln",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Booker Little",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Julian Priester",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Walter Benton",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Coleman Hawkins",
+      "instrumento": "saxo tenor",
+      "nota": "Solo \"Driva' Man\""
+    },
+    {
+      "musico": null,
+      "nombre": "James Schenk",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Michael Olatunji",
+      "instrumento": "congas y voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Raymond Mantilla",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Tomas du Vall",
+      "instrumento": "percusión"
+    }
+  ],
+  "corrientes": [
+    "hard-bop"
+  ],
+  "corrienteNota": "Excede al hard bop: Wikipedia lo clasifica como jazz de vanguardia. Lo dejamos acá hasta que exista esa corriente.",
+  "comentario": [
+    "Una suite sobre la lucha por los derechos civiles, con títulos como \"Freedom Day\" y \"Tears for Johannesburg\". Abbey Lincoln canta con una libertad poco habitual para la época. Es el ejemplo más claro de cómo el lenguaje del bop se volvió también una toma de posición."
+  ],
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7uOAlGltyQP54f13DMBbHq",
+    "tituloEnSpotify": "We Insist! Max Roach's Freedom Now Suite"
+  },
+  "ids": {
+    "musicbrainz": "74a22423-bc30-3f20-8339-bcee59483819",
+    "discogsMaster": "64368",
+    "wikidata": "Q841734",
+    "wikipedia": "We_Insist!"
+  },
+  "discrepancias": [],
+  "respaldo": [
+    {
+      "fuente": "loc-registro",
+      "acceso": "extracto",
+      "aporta": "Integra el registro de preservación de la Biblioteca del Congreso."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "rio-de-la-plata",
+  "nombre": "Río de la Plata",
+  "resumen": "Del candombe de Montevideo al jazz porteño de hoy, entre Uruguay y la Argentina.",
+  "texto": [
+    "Una marca de esta región es el cruce del jazz con ritmos propios, y el candombe es el caso más visible. A mediados de los 70, los hermanos Hugo y George Fattoruso y Ringo Thielmann formaban Opa, un trío uruguayo instalado en Estados Unidos. Airto Moreira los descubrió tocando en clubes y produjo sus discos para Milestone.[^wp-opa]",
+    "Ese diálogo sigue vivo. Juan Ibarra, baterista nacido en Montevideo en 1988, debutó con *NauMay* en el sello DomusJazz, y sigue trabajando sobre el candombe.[^aaj-ibarra-bio] En Buenos Aires, Andrés Hayes lleva ocho discos a su nombre y una larga trayectoria en grupos de la escena local.[^tiempo-hayes][^litoral-hayes]",
+    "Esta ficha es una prueba de calibración. Faltan figuras centrales, como Gato Barbieri, Astor Piazzolla en su diálogo con el jazz, Guillermo Klein y El Kinto, y falta consultar mejor a DomusJazz y a la prensa cultural de ambos países."
+  ],
+  "corrientes": [],
+  "musicos": [],
+  "discos": [
+    "goldenwings",
+    "naumay",
+    "luces-hoy"
+  ],
+  "sellos": [
+    {
+      "nombre": "DomusJazz",
+      "texto": "Sello que publicó el debut de Juan Ibarra."
+    },
+    {
+      "nombre": "Club del Disco",
+      "texto": "Editó *Luces hoy*, de Andrés Hayes."
+    },
+    {
+      "nombre": "Little Butterfly Records",
+      "texto": "Editó *Arco* y *Surin*, de Juan Ibarra."
+    }
+  ],
+  "figurasPendientes": [
+    "Hugo Fattoruso",
+    "Gato Barbieri",
+    "Guillermo Klein",
+    "El Kinto",
+    "Rubén Rada"
+  ],
+  "escenaActual": [
+    {
+      "nombre": "Juan Ibarra",
+      "instrumento": "batería",
+      "base": "Montevideo",
+      "ultimaActividad": 2025,
+      "detalle": "Tras *NauMay* y *Arco*, publicó *Surin* con el pianista Ramiro Zayas en 2025.",
+      "fuentes": [
+        "aaj-ibarra-bio",
+        "cooltivarte-ibarra"
+      ]
+    },
+    {
+      "nombre": "Andrés Hayes",
+      "instrumento": "saxo",
+      "base": "Buenos Aires",
+      "ultimaActividad": 2024,
+      "detalle": "Presentó *Luces hoy* en 2024. No encontramos registros más recientes, y hay que confirmarlo con fuentes locales.",
+      "fuentes": [
+        "tiempo-hayes",
+        "litoral-hayes"
+      ]
+    }
+  ],
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  }
+}

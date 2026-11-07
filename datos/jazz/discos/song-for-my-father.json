@@ -1,0 +1,104 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "id": "song-for-my-father",
+  "titulo": "Song for My Father",
+  "credito": "The Horace Silver Quintet",
+  "lideres": [
+    "silver"
+  ],
+  "grabacion": {
+    "desde": 1963,
+    "hasta": 1964,
+    "detalle": "31 de octubre de 1963; 28 de enero y 26 de octubre de 1964"
+  },
+  "edicion": {
+    "anio": 1965,
+    "detalle": "Fines de enero de 1965"
+  },
+  "sello": "Blue Note",
+  "catalogo": "BST 84185",
+  "tipo": "estudio",
+  "compilacion": false,
+  "lugar": "Estudio Van Gelder, Englewood Cliffs, Nueva Jersey",
+  "musicos": [
+    {
+      "musico": "silver",
+      "nombre": "Horace Silver",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Carmell Jones",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Henderson",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Teddy Smith",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Roger Humphries",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Blue Mitchell",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Junior Cook",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Gene Taylor",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Roy Brooks",
+      "instrumento": "batería"
+    }
+  ],
+  "personalNota": "Registra el cambio entre el quinteto anterior de Silver y el nuevo.",
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Nace de un viaje de Silver a Brasil. La tapa muestra a su padre, John Tavares Silver, nacido en la isla de Maio, en Cabo Verde, a quien está dedicado el tema principal. Es probablemente su composición más conocida."
+  ],
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE",
+    "tituloEnSpotify": "Song For My Father"
+  },
+  "ids": {
+    "musicbrainz": "5fd8134c-ff96-3f48-a0a7-952a1e00e78e",
+    "discogsMaster": "155008",
+    "wikidata": "Q2301374",
+    "wikipedia": "Song_for_My_Father_(album)"
+  },
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz da diciembre de 1964 y Wikipedia fines de enero de 1965. Usamos 1965."
+    }
+  ],
+  "respaldo": [
+    {
+      "fuente": "npr-song",
+      "acceso": "completa",
+      "aporta": "A. B. Spellman y Murray Horwitz lo eligen para una discoteca básica de jazz."
+    }
+  ]
+}

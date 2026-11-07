@@ -1,0 +1,71 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "spotify": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn",
+  "id": "gillespie",
+  "nombre": "Dizzy Gillespie",
+  "nacimiento": {
+    "anio": 1917,
+    "lugar": "Cheraw, Carolina del Sur"
+  },
+  "muerte": {
+    "anio": 1993
+  },
+  "instrumentos": [
+    "trompeta",
+    "voz"
+  ],
+  "corrientes": [
+    "bebop"
+  ],
+  "regiones": [
+    "estados-unidos",
+    "cuba"
+  ],
+  "resumen": "Virtuoso de la trompeta y gran difusor del bebop, con su boina, sus anteojos y su trompeta con la campana hacia arriba. También abrió el jazz a la música afrocubana.[^wp-gillespie]",
+  "epocas": [
+    {
+      "titulo": "Bebop y big band",
+      "desde": 1945,
+      "hasta": 1953,
+      "texto": "Sumó capas de armonía y ritmo a una tradición de trompeta que venía de Roy Eldridge. Sus big bands de fines de los 40 hicieron popular el bebop e incorporaron a músicos cubanos como Chano Pozo.[^wp-gillespie]",
+      "discoClave": {
+        "disco": "jazz-at-massey-hall",
+        "explicacion": "Lo muestra de igual a igual con Parker en el escenario, y además con mucho humor: canta en \"Salt Peanuts\"."
+      },
+      "discos": [
+        "bird-and-diz"
+      ]
+    },
+    {
+      "titulo": "Puentes hacia otros lados",
+      "desde": 1954,
+      "hasta": 1959,
+      "texto": "En los años de Norman Granz siguió cruzando mundos: repertorio afrocubano con big band y encuentros con saxofonistas de otras generaciones.[^wp-gillespie]",
+      "discoClave": {
+        "disco": "afro",
+        "explicacion": "Reúne a Gillespie con el arreglador cubano Chico O'Farrill y una base rítmica latina."
+      },
+      "discos": [
+        "sonny-side-up"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-gillespie"
+  ],
+  "respaldo": [
+    {
+      "fuente": "loc-registro",
+      "acceso": "extracto",
+      "aporta": "\"Manteca\" integra el registro de preservación, con ensayo de Raúl Fernández."
+    },
+    {
+      "fuente": "npr-massey",
+      "acceso": "completa",
+      "aporta": "Spellman y Horwitz lo sitúan entre los gigantes del bebop."
+    }
+  ]
+}

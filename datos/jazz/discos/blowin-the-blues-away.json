@@ -1,0 +1,83 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "id": "blowin-the-blues-away",
+  "titulo": "Blowin' the Blues Away",
+  "credito": "Horace Silver Quintet & Trio",
+  "lideres": [
+    "silver"
+  ],
+  "grabacion": {
+    "desde": 1959,
+    "hasta": 1959,
+    "detalle": "29 y 30 de agosto y 13 de septiembre de 1959"
+  },
+  "edicion": {
+    "anio": 1959,
+    "detalle": "Principios de noviembre de 1959"
+  },
+  "sello": "Blue Note",
+  "catalogo": "BLP 4017",
+  "tipo": "estudio",
+  "compilacion": false,
+  "lugar": "Estudio Van Gelder, Englewood Cliffs, Nueva Jersey",
+  "musicos": [
+    {
+      "musico": null,
+      "nombre": "Blue Mitchell",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Junior Cook",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": "silver",
+      "nombre": "Horace Silver",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Eugene Taylor",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Louis Hayes",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Silver ya tiene su propia banda y escribe para ella. El crítico Ralph J. Gleason le encontró \"fuego y azufre\", una buena descripción para este disco. Hay temas en quinteto y otros en trío, donde se escucha mejor su piano."
+  ],
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2yjs1MxTiDffQ1VGY9ilJc",
+    "tituloEnSpotify": "Blowin' The Blues Away"
+  },
+  "ids": {
+    "musicbrainz": "f69dc17c-6931-4c28-b5d6-57f55ab372cb",
+    "discogsMaster": "155010",
+    "wikidata": "Q4928589",
+    "wikipedia": "Blowin'_the_Blues_Away"
+  },
+  "discrepancias": [],
+  "respaldo": [
+    {
+      "fuente": "penguin",
+      "acceso": "indirecta",
+      "aporta": "Lo incluye en su colección esencial."
+    },
+    {
+      "fuente": "am-blowin",
+      "acceso": "indirecta",
+      "aporta": "Steve Huey lo ubica entre los mejores discos de Silver."
+    }
+  ]
+}

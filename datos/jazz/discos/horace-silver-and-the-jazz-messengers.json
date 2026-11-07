@@ -1,0 +1,83 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "id": "horace-silver-and-the-jazz-messengers",
+  "titulo": "Horace Silver and the Jazz Messengers",
+  "credito": "Horace Silver and the Jazz Messengers",
+  "lideres": [
+    "silver"
+  ],
+  "grabacion": {
+    "desde": 1954,
+    "hasta": 1955,
+    "detalle": "13 de noviembre de 1954 y 6 de febrero de 1955"
+  },
+  "edicion": {
+    "anio": 1955,
+    "detalle": "Dos LP de 10 pulgadas en 1955; reunidos en 12 pulgadas en octubre de 1956"
+  },
+  "sello": "Blue Note",
+  "catalogo": "BLP 1518",
+  "tipo": "estudio",
+  "compilacion": true,
+  "lugar": "Estudio Van Gelder, Hackensack, Nueva Jersey",
+  "musicos": [
+    {
+      "musico": "silver",
+      "nombre": "Horace Silver",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Kenny Dorham",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Hank Mobley",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Doug Watkins",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "blakey",
+      "nombre": "Art Blakey",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Silver y Blakey juntos, cuando los Messengers todavía eran un proyecto compartido. El tema más famoso es \"The Preacher\": al productor Alfred Lion le parecía demasiado anticuado y casi queda afuera, hasta que Silver y Blakey insistieron. Ese aire de iglesia es justamente lo que definió al estilo."
+  ],
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/43GdAcVQZYjh470lJaS5xV",
+    "tituloEnSpotify": "Horace Silver And The Jazz Messengers"
+  },
+  "ids": {
+    "musicbrainz": "ea8ca1bb-5a93-40d8-aa99-dec4fe715af1",
+    "discogsMaster": "155021",
+    "wikidata": "Q1532592",
+    "wikipedia": "Horace_Silver_and_the_Jazz_Messengers"
+  },
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz da 1955 (los 10 pulgadas) y Wikipedia octubre de 1956 (el 12 pulgadas). Las dos fechas son correctas para formatos distintos."
+    }
+  ],
+  "respaldo": [
+    {
+      "fuente": "am-hsjm",
+      "acceso": "indirecta",
+      "aporta": "Scott Yanow lo llama \"a true classic\"."
+    }
+  ]
+}

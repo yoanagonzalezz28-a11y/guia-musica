@@ -1,0 +1,87 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "id": "goldenwings",
+  "titulo": "Goldenwings",
+  "credito": "Opa",
+  "lideres": [],
+  "grabacion": {
+    "desde": 1976,
+    "hasta": 1976,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1976,
+    "detalle": null
+  },
+  "sello": "Milestone",
+  "catalogo": "M-9069",
+  "tipo": "estudio",
+  "compilacion": false,
+  "lugar": null,
+  "musicos": [
+    {
+      "musico": null,
+      "nombre": "Hugo Fattoruso",
+      "instrumento": "teclados y voz"
+    },
+    {
+      "musico": null,
+      "nombre": "George Fattoruso",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Ringo Thielmann",
+      "instrumento": "bajo y voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Hermeto Pascoal",
+      "instrumento": "flauta y percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "David Amaro",
+      "instrumento": "guitarra"
+    }
+  ],
+  "corrientes": [],
+  "corrientePendiente": "Jazz rioplatense",
+  "comentario": [
+    "Un trío uruguayo llega a Estados Unidos, lo descubre Airto Moreira y lo produce para Milestone. El resultado cruza fusión latina con la raíz rioplatense. Las críticas de la reedición son favorables pero no coinciden en todo: Jazzwise le dio cuatro estrellas y Songlines tres."
+  ],
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Opa Goldenwings"
+  },
+  "ids": {
+    "musicbrainz": "f8f185b8-821f-459d-a9e2-46c3dc944e44",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-opa",
+      "acceso": "completa",
+      "aporta": "Reconstruye la historia de la banda y su vínculo con Airto Moreira."
+    },
+    {
+      "fuente": "jw-goldenwings",
+      "acceso": "extracto",
+      "aporta": "Jazzwise: cuatro estrellas y elección del editor."
+    },
+    {
+      "fuente": "pop-opa",
+      "acceso": "extracto",
+      "aporta": "PopMatters lo describe como un disco influyente y poco difundido."
+    }
+  ]
+}

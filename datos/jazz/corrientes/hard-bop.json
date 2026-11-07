@@ -1,0 +1,95 @@
+{
+  "id": "hard-bop",
+  "nombre": "Hard bop",
+  "lema": "El bebop vuelve al blues y a la iglesia",
+  "tinta": "#1F2FD0",
+  "tintaTexto": "#FFFFFF",
+  "periodo": {
+    "desde": 1954,
+    "hasta": 1966,
+    "aproximado": true
+  },
+  "deriva": [
+    "bebop"
+  ],
+  "derivaPendiente": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "lugares": [
+    "Nueva York",
+    "Hackensack y Englewood Cliffs, Nueva Jersey"
+  ],
+  "texto": [
+    "A mediados de los 50, periodistas y discográficas empezaron a usar la etiqueta *hard bop* para una corriente que extendía el bebop y le sumaba rhythm and blues, gospel y blues.[^wp-hardbop] El historiador David Rosenthal la entiende como la música natural de una generación afroamericana que creció escuchando bebop y rhythm and blues al mismo tiempo.[^wp-hardbop]",
+    "Los tempos podían seguir siendo vertiginosos, pero las melodías se simplificaron y el contrabajo ganó espacio para solear.[^wp-hardbop] Algunos críticos también lo leen como una respuesta al cool y al jazz de la Costa Oeste.[^wp-hardbop]",
+    "El grupo más identificado con el estilo son los Jazz Messengers, que Art Blakey y Horace Silver lideraron primero en conjunto.[^wp-blakey] Buena parte de esta música se grabó con el ingeniero Rudy Van Gelder en Nueva Jersey, para sellos como Blue Note y Prestige: lo vas a ver en las fichas de los discos.",
+    "También son años de lucha por los derechos civiles, y algunos discos lo dicen en su título: *Freedom Suite*, de Sonny Rollins, y *We Insist!*, de Max Roach."
+  ],
+  "suena": [
+    "Grooves pesados, con el blues muy adelante: los temas se pueden tararear.",
+    "Frases de pregunta y respuesta, como en una iglesia gospel: escuchalas en \"Moanin'\".",
+    "Quintetos de trompeta, saxo tenor, piano, contrabajo y batería."
+  ],
+  "hitos": [
+    {
+      "fecha": "21 feb. 1954",
+      "texto": "Blakey graba en vivo *A Night at Birdland*, con Clifford Brown y Horace Silver."
+    },
+    {
+      "fecha": "nov. 1954",
+      "texto": "Se usa por primera vez el nombre Jazz Messengers para este grupo, en una grabación a nombre de Silver.[^wp-blakey]"
+    },
+    {
+      "fecha": "22 jun. 1956",
+      "texto": "Rollins graba *Saxophone Colossus*."
+    },
+    {
+      "fecha": "26 jun. 1956",
+      "texto": "Clifford Brown y Richie Powell mueren en un accidente de auto.[^wp-brown]"
+    },
+    {
+      "fecha": "30 oct. 1958",
+      "texto": "Blakey graba *Moanin'*, con Lee Morgan y Benny Golson."
+    },
+    {
+      "fecha": "ene. 1965",
+      "texto": "Sale *Song for My Father*, de Horace Silver."
+    }
+  ],
+  "legado": "El sonido de esos discos sigue siendo, para mucha gente, la imagen misma del jazz. También es la base de buena parte de lo que se enseña en las escuelas.",
+  "musicos": [
+    "blakey",
+    "silver",
+    "brown",
+    "rollins",
+    "roach"
+  ],
+  "musicosPendientes": [
+    "Lee Morgan",
+    "Charles Mingus",
+    "Hank Mobley",
+    "Wes Montgomery",
+    "Freddie Hubbard",
+    "Joe Henderson",
+    "Abbey Lincoln"
+  ],
+  "discosEsenciales": [
+    {
+      "disco": "moanin",
+      "porque": "La puerta de entrada más directa al estilo."
+    },
+    {
+      "disco": "saxophone-colossus",
+      "porque": "Un solista construyendo ideas en tiempo real."
+    },
+    {
+      "disco": "song-for-my-father",
+      "porque": "Hard bop abierto a otras músicas, ya en los 60."
+    }
+  ],
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  }
+}

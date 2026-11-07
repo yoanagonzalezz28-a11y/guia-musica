@@ -1,0 +1,68 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "id": "way-out-west",
+  "titulo": "Way Out West",
+  "credito": "Sonny Rollins",
+  "lideres": [
+    "rollins"
+  ],
+  "grabacion": {
+    "desde": 1957,
+    "hasta": 1957,
+    "detalle": "7 de marzo de 1957"
+  },
+  "edicion": {
+    "anio": 1957,
+    "detalle": null
+  },
+  "sello": "Contemporary",
+  "catalogo": null,
+  "tipo": "estudio",
+  "compilacion": false,
+  "lugar": "Contemporary Records, Los Ángeles",
+  "musicos": [
+    {
+      "musico": "rollins",
+      "nombre": "Sonny Rollins",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Ray Brown",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Shelly Manne",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Primera vez que Rollins graba un disco solo con contrabajo y batería, sin piano ni guitarra que marquen los acordes. El título juega con todo a la vez: lo grabó en la Costa Oeste, con músicos de esa escena, y toca canciones de cowboys, con sombrero y traje de pistolero en la tapa."
+  ],
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/329FlHJbEbhUKkv0TmOULH",
+    "tituloEnSpotify": "Way Out West"
+  },
+  "ids": {
+    "musicbrainz": "2e0a64d0-4788-3951-abac-7c42f53fca6f",
+    "discogsMaster": "174528",
+    "wikidata": "Q3566790",
+    "wikipedia": "Way_Out_West_(Sonny_Rollins_album)"
+  },
+  "discrepancias": [],
+  "respaldo": [
+    {
+      "fuente": "aaj-wow",
+      "acceso": "extracto",
+      "aporta": "Mike Jurkovic lo ve como el ensayo de los tríos sin piano que llevarían al Village Vanguard."
+    }
+  ]
+}

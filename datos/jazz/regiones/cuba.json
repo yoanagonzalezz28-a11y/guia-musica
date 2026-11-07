@@ -1,0 +1,74 @@
+{
+  "id": "cuba",
+  "nombre": "Cuba",
+  "resumen": "De La Habana a Nueva York: la clave afrocubana entra al jazz moderno.",
+  "texto": [
+    "La influencia cubana ya estaba en los orígenes del jazz, pero el jazz afrocubano como tal aparece a comienzos de los 40 en Nueva York, con Mario Bauzá y Machito. \"Tanga\", de 1943, suele considerarse el primer tema de jazz construido sobre la clave.[^wp-afrocuban]",
+    "En 1947, Gillespie le pidió a Bauzá que le recomendara un percusionista cubano, y así llegó Chano Pozo a su big band. De ese encuentro sale \"Manteca\", el primer tema basado en la clave que se convirtió en estándar de jazz.[^wp-manteca][^wp-chanopozo] Pozo murió en 1948, a los 33 años.[^wp-chanopozo]",
+    "Durante sus primeras décadas, este movimiento fue más fuerte en Estados Unidos que en la propia Cuba. Con Irakere, fundado en 1973 por Chucho Valdés, la isla pasó a tener voz propia: tambores rituales como los batá y virtuosos como Paquito D'Rivera y Arturo Sandoval.[^wp-afrocuban][^wp-irakere] Esa historia sigue hoy, dentro y fuera de la isla."
+  ],
+  "corrientes": [
+    "bebop"
+  ],
+  "musicos": [
+    "gillespie"
+  ],
+  "discos": [
+    "afro",
+    "irakere-1979"
+  ],
+  "figurasPendientes": [
+    "Mario Bauzá",
+    "Machito",
+    "Chano Pozo",
+    "Chico O'Farrill",
+    "Chucho Valdés",
+    "Paquito D'Rivera",
+    "Arturo Sandoval"
+  ],
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "sellos": [
+    {
+      "nombre": "EGREM / Areíto",
+      "texto": "El sello estatal cubano. Allí salió el primer LP de Irakere, en 1974."
+    }
+  ],
+  "escenaActual": [
+    {
+      "nombre": "Alejandro Falcón",
+      "instrumento": "piano",
+      "base": "La Habana",
+      "ultimaActividad": 2026,
+      "detalle": "En abril de 2026 llenó la Casa Vitier García Marruz, y en mayo salió *Falcón in Blue*, grabado en Cuba para un sello de Estados Unidos.",
+      "fuentes": [
+        "pl-falcon",
+        "timba-falcon"
+      ]
+    },
+    {
+      "nombre": "Harold López-Nussa",
+      "instrumento": "piano",
+      "base": null,
+      "ultimaActividad": 2026,
+      "detalle": "Publicó *Nueva Timba* en Blue Note en 2025 y tocó en el festival de Bray en mayo de 2026.",
+      "fuentes": [
+        "aaj-lopez-nussa",
+        "bn-lopez-nussa"
+      ]
+    },
+    {
+      "nombre": "David Virelles",
+      "instrumento": "piano",
+      "base": null,
+      "ultimaActividad": 2026,
+      "detalle": "Pianista cubano que en 2026 publicó *Creative Inspirations*, con Reggie Workman y Andrew Cyrille.",
+      "fuentes": [
+        "aaj-virelles",
+        "pop-virelles"
+      ]
+    }
+  ]
+}

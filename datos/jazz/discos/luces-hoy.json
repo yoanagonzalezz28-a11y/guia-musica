@@ -1,0 +1,97 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "id": "luces-hoy",
+  "titulo": "Luces hoy",
+  "credito": "Andrés Hayes",
+  "lideres": [],
+  "grabacion": {
+    "desde": 2023,
+    "hasta": 2023,
+    "detalle": "30 de agosto de 2023, Fortmusic Studios, Buenos Aires"
+  },
+  "edicion": {
+    "anio": 2024,
+    "detalle": "Marzo de 2024"
+  },
+  "sello": "Club del Disco",
+  "catalogo": null,
+  "tipo": "estudio",
+  "compilacion": false,
+  "lugar": "Fortmusic Studios, Buenos Aires",
+  "musicos": [
+    {
+      "musico": null,
+      "nombre": "Andrés Hayes",
+      "instrumento": "saxo y composición"
+    },
+    {
+      "musico": null,
+      "nombre": "Juana Sallies",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Juan Cruz de Urquiza",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Ezequiel Dutil",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Bruno Varela",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Damien Poots",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Pablo Passini",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Facundo Flores",
+      "instrumento": "percusión"
+    }
+  ],
+  "corrientes": [],
+  "corrientePendiente": "Jazz rioplatense",
+  "comentario": [
+    "El octavo disco del saxofonista porteño, con temas propios, canciones, un coral de Bach y un estándar. Hayes buscó un tono \"azul\", más introspectivo que en sus discos anteriores."
+  ],
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Andrés Hayes Luces hoy"
+  },
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "tiempo-hayes",
+      "acceso": "completa",
+      "aporta": "Carlos Salatino destaca su \"gran madurez como compositor y arreglador\"."
+    },
+    {
+      "fuente": "litoral-hayes",
+      "acceso": "completa",
+      "aporta": "Juan Ignacio Novak repasa su carrera, y Hayes cuenta qué buscó en el disco."
+    }
+  ]
+}
