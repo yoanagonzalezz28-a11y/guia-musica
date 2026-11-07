@@ -1,0 +1,71 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [
+    "brasil"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": "ECM 1089 ST",
+  "lugar": "Talent Studio, Oslo",
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Dança das Cabeças Egberto Gismonti"
+  },
+  "id": "danca-das-cabecas",
+  "titulo": "Dança das Cabeças",
+  "credito": "Egberto Gismonti",
+  "lideres": [
+    "gismonti"
+  ],
+  "grabacion": {
+    "desde": 1976,
+    "hasta": 1976,
+    "detalle": "Noviembre de 1976"
+  },
+  "edicion": {
+    "anio": 1977,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "gismonti",
+      "nombre": "Egberto Gismonti",
+      "instrumento": "guitarra de ocho cuerdas, piano, flautas y voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Naná Vasconcelos",
+      "instrumento": "percusión, berimbau y voz"
+    }
+  ],
+  "corrientes": [
+    "brasil",
+    "ecm"
+  ],
+  "comentario": [
+    "Solo dos músicos, en Oslo, para el sello de Eicher. Gismonti dijo que la idea era la de dos chicos que se pierden en una selva húmeda, llena de bichos. El disco cambió la vida de ambos: Naná Vasconcelos se volvió un percusionista de fama internacional. Es Brasil sin samba ni bossa: otra puerta."
+  ],
+  "ids": {
+    "musicbrainz": "2c04fb3e-2e24-48df-be09-a7eb574b0bba",
+    "discogsMaster": null,
+    "wikidata": "Q5221484",
+    "wikipedia": "Dan%C3%A7a_das_cabe%C3%A7as"
+  },
+  "respaldo": [
+    {
+      "fuente": "critica-danca",
+      "acceso": "indirecta",
+      "aporta": "Álvaro Neder: \"A landmark of the careers of Gismonti and percussionist Naná Vasconcelos\"."
+    },
+    {
+      "fuente": "wp-gismonti",
+      "acceso": "completa",
+      "aporta": "Lo señala como su primer disco para ECM y repasa sus premios."
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "id": "mira-lo-que-te-traje",
+  "nombre": "Mirá lo que te traje",
+  "conductor": "Héctor Larrea y Bobby Flores (Radio Nacional Argentina)",
+  "descripcion": "Dos conductores históricos de la radio argentina comparten discos y anécdotas cada semana. No es un programa de jazz, pero el jazz, el tango y la música latinoamericana aparecen todo el tiempo.",
+  "idioma": "es",
+  "pais": "Argentina",
+  "web": "https://www.radionacional.com.ar/category/mira-lo-que-te-traje/",
+  "rss": "https://www.radionacional.com.ar/category/mira-lo-que-te-traje/feed/podcast/",
+  "spotify": null,
+  "episodios": [
+    {
+      "id": "el-gato-barbieri-una-pagina-en-el-jazz-argentino",
+      "titulo": "El \"Gato\" Barbieri, una página en el jazz argentino",
+      "fecha": "2025-07-24",
+      "duracionMin": 112,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.radionacional.com.ar/el-gato-barbieri-una-pagina-en-el-jazz-argentino/",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-07"
+      },
+      "temas": [
+        "Gato Barbieri",
+        "Río de la Plata"
+      ]
+    },
+    {
+      "id": "el-gato-barbieri-le-canta-a-la-luna",
+      "titulo": "El Gato Barbieri le canta a la luna",
+      "fecha": "2017-04-23",
+      "duracionMin": 56,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.radionacional.com.ar/el-gato-barbieri-le-canta-la-luna/",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-07"
+      },
+      "temas": [
+        "Gato Barbieri"
+      ]
+    },
+    {
+      "id": "nestor-astarita-un-invitado-de-honor",
+      "titulo": "Néstor Astarita, un invitado de honor",
+      "fecha": "2025-08-17",
+      "duracionMin": 116,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.radionacional.com.ar/nestor-astarita-un-invitado-de-honor/",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-07"
+      },
+      "temas": [
+        "Río de la Plata",
+        "Gato Barbieri"
+      ]
+    },
+    {
+      "id": "eddie-palmieri-lleva-la-salsa-a-el-dia-que-me-quieras",
+      "titulo": "Eddie Palmieri lleva la salsa a El día que me quieras",
+      "fecha": "2025-07-23",
+      "duracionMin": 114,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.radionacional.com.ar/eddie-palmieri-lleva-la-salsa-a-el-dia-que-me-quieras/",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-07"
+      },
+      "temas": [
+        "Eddie Palmieri",
+        "Jazz latino"
+      ]
+    },
+    {
+      "id": "de-los-tips-de-terry-callier-para-el-acid-jazz-a-la-salsa-or",
+      "titulo": "De los tips de Terry Callier para el acid-jazz a la salsa-orchestra de Eddie Palmieri",
+      "fecha": "2017-11-13",
+      "duracionMin": 54,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.radionacional.com.ar/de-los-tips-de-terry-callier-para-el-acid-jazz-a-la-salsa-orchestra-de-eddie-palmieri/",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-07"
+      },
+      "temas": [
+        "Eddie Palmieri"
+      ]
+    },
+    {
+      "id": "el-jazz-cubano-de-valdes-y-sandoval-y-el-tango-de-anabella-z",
+      "titulo": "El jazz cubano de Valdés y Sandoval, y el tango de Anabella Zoch",
+      "fecha": "2020-01-25",
+      "duracionMin": 52,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.radionacional.com.ar/el-jazz-cubano-de-valdes-y-sandoval-y-el-tango-de-anabella-zoch/",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-07"
+      },
+      "temas": [
+        "Jazz latino",
+        "Cuba"
+      ]
+    },
+    {
+      "id": "el-origen-del-tango-en-las-versiones-de-astor-piazzolla",
+      "titulo": "El origen del tango, en las versiones de Astor Piazzolla",
+      "fecha": "2025-07-17",
+      "duracionMin": 117,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.radionacional.com.ar/el-origen-del-tango-en-las-versiones-de-astor-piazzolla/",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-07"
+      },
+      "temas": [
+        "Astor Piazzolla",
+        "Jazz latino"
+      ]
+    },
+    {
+      "id": "joao-gilberto-y-la-musica-para-departamentos",
+      "titulo": "João Gilberto y la música para departamentos",
+      "fecha": "2017-07-30",
+      "duracionMin": 50,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.radionacional.com.ar/joao-gilberto-y-la-musica-para-departamentos/",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-07"
+      },
+      "temas": [
+        "Brasil",
+        "Getz/Gilberto"
+      ]
+    }
+  ]
+}

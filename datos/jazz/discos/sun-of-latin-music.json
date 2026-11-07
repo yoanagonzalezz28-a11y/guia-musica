@@ -1,0 +1,77 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [
+    "puerto-rico"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": "CLP 109XX",
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7llmJ2ic5oNai8FDVnhcBo",
+    "tituloEnSpotify": "The Sun Of Latin Music (Remastered)"
+  },
+  "id": "sun-of-latin-music",
+  "titulo": "The Sun of Latin Music",
+  "credito": "Eddie Palmieri",
+  "lideres": [
+    "palmieri"
+  ],
+  "grabacion": {
+    "desde": 1974,
+    "hasta": 1974,
+    "detalle": "Fecha exacta sin confirmar: se usa el año de edición."
+  },
+  "edicion": {
+    "anio": 1974,
+    "detalle": null
+  },
+  "sello": "Coco Records",
+  "musicos": [
+    {
+      "musico": "palmieri",
+      "nombre": "Eddie Palmieri",
+      "instrumento": "piano y dirección"
+    },
+    {
+      "musico": null,
+      "nombre": "René Hernández",
+      "instrumento": "arreglos"
+    },
+    {
+      "musico": null,
+      "nombre": "Barry Rogers",
+      "instrumento": "arreglos"
+    }
+  ],
+  "personalNota": "Lista parcial: no pudimos confirmar el resto de la orquesta en fuentes abiertas.",
+  "corrientes": [
+    "latino"
+  ],
+  "comentario": [
+    "Con este disco Palmieri ganó el primer Grammy de la historia en la categoría de música latina. René Hernández, que había sido pianista de Machito, hizo los arreglos junto con Barry Rogers. Rogers firmó \"Un día bonito\", que empieza con un largo solo de piano libre, casi de vanguardia, antes de que entre la orquesta. Es salsa, pero pensada con la cabeza de un músico de jazz."
+  ],
+  "ids": {
+    "musicbrainz": "97d7bfac-cdfc-37bd-a99d-ff22661d05e0",
+    "discogsMaster": "13923",
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-palmieri",
+      "acceso": "completa",
+      "aporta": "Primer Grammy en la nueva categoría de grabación latina; arreglos de René Hernández y Barry Rogers."
+    },
+    {
+      "fuente": "db-fire",
+      "acceso": "completa",
+      "aporta": "Palmieri explica su método en DownBeat: \"As a student of Afro-Cuban music I found that all the different structures follow the same pattern, which always delivers that climax\"."
+    }
+  ]
+}

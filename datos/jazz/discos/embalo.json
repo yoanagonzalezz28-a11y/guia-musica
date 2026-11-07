@@ -1,0 +1,87 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [
+    {
+      "campo": "sello",
+      "texto": "Algunas fuentes comerciales dan el sello RGE; no lo pudimos confirmar en una fuente de referencia."
+    }
+  ],
+  "regiones": [
+    "brasil",
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Embalo Tenório Jr."
+  },
+  "id": "embalo",
+  "titulo": "Embalo",
+  "credito": "Tenório Jr.",
+  "lideres": [
+    "tenorio"
+  ],
+  "grabacion": {
+    "desde": 1964,
+    "hasta": 1964,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1964,
+    "detalle": null
+  },
+  "sello": "RGE",
+  "musicos": [
+    {
+      "musico": "tenorio",
+      "nombre": "Tenório Jr.",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Paulo Moura",
+      "instrumento": "arreglos",
+      "nota": "en \"Embalo\""
+    }
+  ],
+  "personalNota": "Lista parcial: no pudimos confirmar el resto del grupo en fuentes abiertas.",
+  "corrientes": [
+    "brasil"
+  ],
+  "redescubrimiento": {
+    "motivo": "Es el único disco a su nombre. Tenório Jr. desapareció en Buenos Aires en 1976, y recién en 2025 se confirmó que lo había asesinado la dictadura argentina. Hoy muchos músicos lo consideran una obra maestra del samba jazz."
+  },
+  "comentario": [
+    "El samba jazz nació en las noches del Beco das Garrafas, en Río, mezclando el samba con el bebop. Este disco es uno de sus mejores ejemplos: temas propios y de Jobim, Baden Powell y Vinicius de Moraes, con arreglos de Paulo Moura en el tema que le da nombre.",
+    "En marzo de 1976, Tenório estaba en Buenos Aires como pianista de Vinicius de Moraes y Toquinho, que tocaban en el Gran Rex. Salió del hotel a hacer unas compras y nunca volvió. En septiembre de 2025, el Equipo Argentino de Antropología Forense lo identificó por sus huellas dactilares: el cuerpo había aparecido dos días después y había sido enterrado como NN en el cementerio de Benavídez."
+  ],
+  "ids": {
+    "musicbrainz": "350e2660-9c91-3687-bbca-75908e824ff2",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "bj-tenorio",
+      "acceso": "completa",
+      "aporta": "Lo describe como uno de los discos más emblemáticos del samba jazz, y reconstruye su desaparición."
+    },
+    {
+      "fuente": "tiempo-tenorio",
+      "acceso": "completa",
+      "aporta": "Informa su identificación por el EAAF y su entierro como NN en Benavídez."
+    },
+    {
+      "fuente": "wp-tenorio",
+      "acceso": "completa",
+      "aporta": "Lista los temas del disco."
+    }
+  ]
+}

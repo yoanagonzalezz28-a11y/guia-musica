@@ -1,0 +1,77 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [
+    "nordicos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5xQmfqjJTr3Hn6pCmHDVK2",
+    "tituloEnSpotify": "Seven Days of Falling"
+  },
+  "id": "seven-days",
+  "titulo": "Seven Days of Falling",
+  "credito": "Esbjörn Svensson Trio",
+  "lideres": [
+    "svensson"
+  ],
+  "grabacion": {
+    "desde": 2003,
+    "hasta": 2003,
+    "detalle": "Junio de 2003"
+  },
+  "edicion": {
+    "anio": 2003,
+    "detalle": "9 de diciembre de 2003"
+  },
+  "sello": "ACT Music",
+  "musicos": [
+    {
+      "musico": "svensson",
+      "nombre": "Esbjörn Svensson",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Dan Berglund",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Magnus Öström",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "mundo",
+    "hoy"
+  ],
+  "comentario": [
+    "Un trío de piano sueco que mezclaba el jazz con elementos del rock, el pop y el techno. Este disco entró en las listas de jazz y también en las de pop. e.s.t. fue el primer grupo europeo de jazz en la tapa de DownBeat. Svensson murió en 2008, a los 44 años, en un accidente de buceo."
+  ],
+  "ids": {
+    "musicbrainz": "d38d40b7-c78e-3dd2-8315-91a0cfcddf18",
+    "discogsMaster": "133776",
+    "wikidata": "Q2268506",
+    "wikipedia": "Seven_Days_of_Falling"
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-seven-days",
+      "acceso": "completa",
+      "aporta": "Entró en las listas de jazz y de pop."
+    },
+    {
+      "fuente": "wp-svensson",
+      "acceso": "completa",
+      "aporta": "Primer grupo de jazz europeo en la tapa de DownBeat, en mayo de 2006."
+    }
+  ]
+}

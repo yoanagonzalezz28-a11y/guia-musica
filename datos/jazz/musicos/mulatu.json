@@ -1,0 +1,59 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "etiopia"
+  ],
+  "spotify": null,
+  "id": "mulatu",
+  "nombre": "Mulatu Astatke",
+  "nacimiento": {
+    "anio": 1943,
+    "lugar": "Jimma"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "vibráfono",
+    "percusión",
+    "teclados",
+    "arreglos"
+  ],
+  "corrientes": [
+    "mundo"
+  ],
+  "resumen": "Considerado el padre del etiojazz. Se formó en Londres, Nueva York y Boston, donde fue el primer estudiante africano de Berklee. Introdujo el vibráfono y las congas en la música popular etíope.[^wp-mulatu]",
+  "epocas": [
+    {
+      "titulo": "Del etiojazz al mundo",
+      "desde": 1966,
+      "hasta": 1974,
+      "texto": "Grabó en Nueva York y en Addis Abeba, para el sello Amha.[^wp-mulatu]",
+      "discoClave": {
+        "disco": "mulatu-of-ethiopia",
+        "explicacion": "Grabado en Nueva York."
+      },
+      "discos": []
+    }
+  ],
+  "epocasPendientes": [
+    "Éthiopiques",
+    "Mulatu Plays Mulatu"
+  ],
+  "fuentes": [
+    "wp-mulatu"
+  ],
+  "respaldo": [
+    {
+      "fuente": "db-mulatu",
+      "acceso": "completa",
+      "aporta": "Howard Mandel celebra su disco de despedida de 2025."
+    },
+    {
+      "fuente": "artsdesk-mulatu",
+      "acceso": "completa",
+      "aporta": "Reseña de Mulatu Plays Mulatu."
+    }
+  ]
+}

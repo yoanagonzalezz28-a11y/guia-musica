@@ -1,0 +1,76 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [
+    {
+      "campo": "sello",
+      "texto": "MusicBrainz registra la edición estadounidense de Atlantic. No pudimos confirmar el sello de la edición británica original."
+    }
+  ],
+  "regiones": [
+    "india"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": "1465",
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Indo-Jazz Suite Joe Harriott John Mayer"
+  },
+  "id": "indo-jazz-suite",
+  "titulo": "Indo-Jazz Suite",
+  "credito": "Joe Harriott y John Mayer",
+  "lideres": [
+    "harriott"
+  ],
+  "grabacion": {
+    "desde": 1966,
+    "hasta": 1966,
+    "detalle": "Fecha exacta sin confirmar: se usa el año de edición."
+  },
+  "edicion": {
+    "anio": 1966,
+    "detalle": null
+  },
+  "sello": "Atlantic",
+  "musicos": [
+    {
+      "musico": "harriott",
+      "nombre": "Joe Harriott",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "John Mayer",
+      "instrumento": "violín, composición y dirección"
+    }
+  ],
+  "personalNota": "Era un \"doble quinteto\" de cinco músicos indios y cinco de jazz; no confirmamos los demás nombres.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "John Mayer, compositor nacido en Calcuta, y Joe Harriott, saxofonista jamaicano y pionero del free jazz en Londres, juntaron a cinco músicos indios y cinco de jazz. Fue uno de los primeros intentos serios de cruzar el jazz con la música clásica india, años antes de Shakti. Las opiniones sobre el resultado están divididas, y eso es parte del interés."
+  ],
+  "ids": {
+    "musicbrainz": "f15c5579-2250-39c0-a672-1b4b0a7e85eb",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-harriott",
+      "acceso": "completa",
+      "aporta": "Describe el \"double quintet\" y advierte que \"opinion is divided on the success of these experiments\"."
+    },
+    {
+      "fuente": "wp-mayer",
+      "acceso": "completa",
+      "aporta": "Biografía de Mayer, nacido en Calcuta."
+    }
+  ]
+}

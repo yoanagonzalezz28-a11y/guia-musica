@@ -1,0 +1,48 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "brasil"
+  ],
+  "spotify": null,
+  "id": "freitas",
+  "nombre": "Amaro Freitas",
+  "nacimiento": {
+    "anio": null,
+    "lugar": "Recife"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "brasil",
+    "hoy"
+  ],
+  "resumen": "Pianista de Recife que trabaja sobre las tradiciones afrobrasileñas e indígenas, con el piano preparado.[^db-amaro]",
+  "epocas": [
+    {
+      "titulo": "Sankofa y Y'Y",
+      "desde": 2021,
+      "hasta": 2024,
+      "texto": "Tras *Sankofa*, en 2024 publicó *Y'Y*, dedicado al Amazonas.[^qobuz-amaro]",
+      "discoClave": {
+        "disco": "sankofa",
+        "explicacion": "Ocho homenajes a músicos brasileños."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "db-amaro"
+  ],
+  "respaldo": [
+    {
+      "fuente": "qobuz-amaro",
+      "acceso": "completa",
+      "aporta": "Randall Roberts reseña Y'Y y recuerda Sankofa."
+    }
+  ]
+}

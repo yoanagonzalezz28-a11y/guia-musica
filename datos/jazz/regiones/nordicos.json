@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "id": "nordicos",
+  "nombre": "Países nórdicos",
+  "resumen": "Del folclore sueco de Jan Johansson al trompetista noruego de la electrónica.",
+  "texto": [
+    "Mucho antes de ECM, el pianista sueco Jan Johansson grabó canciones folclóricas en piano y contrabajo, y logró el disco de jazz más vendido de su país.[^wp-jazz-pa-svenska] Desde los 70, el sello de Eicher hizo de Oslo uno de sus centros, con músicos como Jan Garbarek.[^wp-garbarek]",
+    "El sonido nórdico no es uno solo: el trío sueco e.s.t. cruzó a las listas de pop, y Nils Petter Molvær mezcló la trompeta con la electrónica.[^wp-est][^wp-molvaer]"
+  ],
+  "corrientes": [
+    "mundo",
+    "ecm"
+  ],
+  "musicos": [
+    "johansson",
+    "garbarek",
+    "svensson",
+    "molvaer"
+  ],
+  "discos": [
+    "jazz-pa-svenska",
+    "afric-pepperbird",
+    "seven-days",
+    "khmer"
+  ],
+  "figurasPendientes": [
+    "Bobo Stenson",
+    "Arild Andersen",
+    "Jon Christensen",
+    "Tord Gustavsen",
+    "Jakob Bro"
+  ],
+  "sellos": [
+    {
+      "nombre": "Megafon",
+      "texto": "Editó Jazz på svenska."
+    },
+    {
+      "nombre": "ACT Music",
+      "texto": "El sello del trío e.s.t."
+    },
+    {
+      "nombre": "Rainbow Studio",
+      "texto": "El estudio de Oslo de Jan Erik Kongshaug, donde grabó buena parte de ECM."
+    }
+  ],
+  "escenaActual": [
+    {
+      "nombre": "Mathias Eick",
+      "instrumento": "trompeta",
+      "base": null,
+      "ultimaActividad": 2025,
+      "detalle": "En febrero de 2025 publicó *Lullaby* en ECM, con un cuarteto nuevo.",
+      "fuentes": [
+        "ecm-eick",
+        "aaj-eick"
+      ]
+    }
+  ]
+}

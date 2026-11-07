@@ -1,0 +1,51 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "nigeria"
+  ],
+  "spotify": null,
+  "id": "fela",
+  "nombre": "Fela Kuti",
+  "nacimiento": {
+    "anio": 1938,
+    "lugar": "Abeokuta"
+  },
+  "muerte": {
+    "anio": 1997
+  },
+  "instrumentos": [
+    "saxo",
+    "teclados",
+    "voz"
+  ],
+  "corrientes": [
+    "mundo"
+  ],
+  "resumen": "Creador del afrobeat, una mezcla de música de África Occidental con funk y jazz. Empezó tocando jazz y highlife con Koola Lobitos, y fue un crítico feroz de las juntas militares nigerianas.[^wp-fela]",
+  "epocas": [
+    {
+      "titulo": "Africa 70",
+      "desde": 1970,
+      "hasta": 1979,
+      "texto": "Con Tony Allen como baterista y director musical, se convirtió en una estrella en Nigeria.[^wp-tony-allen]",
+      "discoClave": {
+        "disco": "zombie",
+        "explicacion": "Su disco más popular e influyente."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-fela"
+  ],
+  "respaldo": [
+    {
+      "fuente": "critica-zombie",
+      "acceso": "indirecta",
+      "aporta": "Christgau escucha en su música \"real fusion music\"."
+    }
+  ]
+}

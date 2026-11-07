@@ -1,0 +1,122 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "derivaPendiente": [],
+  "regiones": [
+    "sudafrica",
+    "etiopia",
+    "nigeria",
+    "india",
+    "medio-oriente",
+    "nordicos",
+    "europa-este",
+    "japon"
+  ],
+  "id": "mundo",
+  "nombre": "Jazz del mundo",
+  "alias": [
+    "Jazz japonés de los 70",
+    "Etiojazz",
+    "Jazz europeo del Este"
+  ],
+  "lema": "El jazz con otros acentos",
+  "tinta": "#9C6644",
+  "tintaTexto": "#FFFFFF",
+  "periodo": {
+    "desde": 1958,
+    "hasta": 2026,
+    "aproximado": true
+  },
+  "deriva": [
+    "bebop",
+    "free",
+    "modal"
+  ],
+  "lugares": [
+    "Ciudad del Cabo",
+    "Addis Abeba",
+    "Lagos",
+    "Varsovia",
+    "Estocolmo",
+    "Tokio"
+  ],
+  "texto": [
+    "Desde los años 50, el jazz se tocó en todas partes y se mezcló con las músicas de cada lugar. Esta ficha reúne esos cruces, que en el banco tienen su propia región. No es un estilo, sino un mapa.",
+    "Algunos son historias de resistencia. En Sudáfrica, los Jazz Epistles grabaron en 1960 un disco de hard bop en una época en que los músicos negros casi no podían grabar.[^gioia-africa1] Abdullah Ibrahim y los Blue Notes de Chris McGregor terminaron exiliados por el apartheid.[^wp-ibrahim][^wp-mcgregor] En la Polonia comunista, Krzysztof Komeda grabó *Astigmatic*, que para Stuart Nicholson marcó el nacimiento de una estética europea propia.[^critica-astigmatic]",
+    "Otros son encuentros. Mulatu Astatke, el padre del etiojazz, se formó en Londres, Nueva York y Boston.[^wp-mulatu] Fela Kuti partió del jazz y el highlife para inventar el afrobeat.[^wp-fela] En Londres, Joe Harriott y John Mayer cruzaron el jazz con la música india, y el oud de Rabih Abou-Khalil y Anouar Brahem se volvió un instrumento del jazz.[^wp-harriott][^wp-abou-khalil] En Japón, la escena de los 70 tuvo sus propios sellos y sus gemas, como *Scenery*, de Ryo Fukui."
+  ],
+  "suena": [
+    "Escalas y ritmos de cada tradición, junto a la armonía y la improvisación del jazz.",
+    "Instrumentos como el oud, el kanún o el vibráfono etíope.",
+    "Mucha historia política detrás de cada disco."
+  ],
+  "hitos": [
+    {
+      "fecha": "1958",
+      "texto": "*Jazz Sahara*, de Ahmed Abdul-Malik.[^wp-jazz-sahara]"
+    },
+    {
+      "fecha": "1960",
+      "texto": "Los Jazz Epistles graban en Sudáfrica.[^gioia-africa1]"
+    },
+    {
+      "fecha": "1964",
+      "texto": "*Jazz på svenska*.[^wp-jazz-pa-svenska]"
+    },
+    {
+      "fecha": "1965",
+      "texto": "Komeda graba *Astigmatic*.[^wp-astigmatic]"
+    },
+    {
+      "fecha": "1974",
+      "texto": "\"Mannenberg\" en Ciudad del Cabo.[^wp-mannenberg]"
+    },
+    {
+      "fecha": "2025",
+      "texto": "Mulatu Astatke se despide de las giras.[^db-mulatu]"
+    }
+  ],
+  "legado": "Dejó en claro que el jazz no es una música de un solo país, y que cada escena puede tener su propia voz.",
+  "musicos": [
+    "ibrahim",
+    "mcgregor",
+    "mulatu",
+    "fela",
+    "harriott",
+    "abou-khalil",
+    "brahem",
+    "abdul-malik",
+    "komeda",
+    "johansson",
+    "svensson",
+    "molvaer",
+    "fukui"
+  ],
+  "musicosPendientes": [
+    "Hugh Masekela",
+    "Dudu Pukwana",
+    "Tony Allen",
+    "Shakti",
+    "Dhafer Youssef",
+    "Tomasz Stańko",
+    "Zbigniew Namysłowski",
+    "Terumasa Hino",
+    "Toshiko Akiyoshi"
+  ],
+  "discosEsenciales": [
+    {
+      "disco": "mannenberg",
+      "porque": "Un himno contra el apartheid."
+    },
+    {
+      "disco": "mulatu-of-ethiopia",
+      "porque": "La entrada al etiojazz."
+    },
+    {
+      "disco": "astigmatic",
+      "porque": "El jazz europeo encuentra su voz."
+    }
+  ]
+}

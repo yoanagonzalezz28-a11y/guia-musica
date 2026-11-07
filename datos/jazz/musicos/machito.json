@@ -1,0 +1,57 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "cuba",
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "id": "machito",
+  "nombre": "Machito",
+  "nacimiento": {
+    "anio": 1909,
+    "lugar": "La Habana o Tampa (él mismo dio versiones distintas)"
+  },
+  "muerte": {
+    "anio": 1984
+  },
+  "instrumentos": [
+    "voz",
+    "maracas",
+    "dirección"
+  ],
+  "corrientes": [
+    "latino"
+  ],
+  "resumen": "Fundó los Afro-Cubans en Nueva York en 1940, con Mario Bauzá como director musical durante 34 años. Gillespie, Parker y Kenton lo reconocieron como influencia.[^wp-machito]",
+  "epocas": [
+    {
+      "titulo": "Los Afro-Cubans",
+      "desde": 1940,
+      "hasta": 1958,
+      "texto": "Unió ritmos cubanos y arreglos de big band. En 1943 grabó \"Tanga\", de Bauzá, considerado el primer tema de jazz basado en la clave.[^wp-latin-jazz]",
+      "discoClave": {
+        "disco": "kenya",
+        "explicacion": "Su encuentro con solistas de jazz."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-machito"
+  ],
+  "respaldo": [
+    {
+      "fuente": "wp-latin-jazz",
+      "acceso": "completa",
+      "aporta": "Ubica \"Tanga\" (1943) como el primer tema de jazz latino propiamente dicho."
+    },
+    {
+      "fuente": "db-corea-bf",
+      "acceso": "completa",
+      "aporta": "Chick Corea recuerda haberlo escuchado en el Palladium."
+    }
+  ]
+}

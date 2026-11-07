@@ -1681,6 +1681,24 @@
       "temas": [
         "Charlie Parker"
       ]
+    },
+    {
+      "id": "cti-records-the-brazilian-connection",
+      "titulo": "CTI Records: The Brazilian Connection",
+      "fecha": "2017-04-12",
+      "duracionMin": 103,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/cti-records-the-brazilian-connection-audios-mp3_rf_18114195_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-07"
+      },
+      "temas": [
+        "Brasil"
+      ]
     }
   ]
 }

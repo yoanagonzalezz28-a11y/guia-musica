@@ -53,8 +53,9 @@
       "instrumento": "batería"
     }
   ],
-  "corrientes": [],
-  "corrientePendiente": "Jazz japonés de los 70",
+  "corrientes": [
+    "mundo"
+  ],
   "redescubrimiento": {
     "motivo": "Pasó casi inadvertido fuera de Japón hasta que las reediciones y las recomendaciones de YouTube lo llevaron a un público nuevo."
   },

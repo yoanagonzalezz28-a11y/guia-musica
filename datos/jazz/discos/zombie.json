@@ -1,0 +1,72 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [
+    "nigeria"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Zombie Fela Kuti Africa 70"
+  },
+  "id": "zombie",
+  "titulo": "Zombie",
+  "credito": "Fela Kuti y Africa 70",
+  "lideres": [
+    "fela"
+  ],
+  "grabacion": {
+    "desde": 1976,
+    "hasta": 1976,
+    "detalle": "Fecha exacta sin confirmar: se usa el año de edición."
+  },
+  "edicion": {
+    "anio": 1976,
+    "detalle": "En Nigeria; en 1977 en el Reino Unido"
+  },
+  "sello": "Coconut",
+  "musicos": [
+    {
+      "musico": "fela",
+      "nombre": "Fela Kuti",
+      "instrumento": "saxo, teclados, voz y arreglos"
+    },
+    {
+      "musico": null,
+      "nombre": "Tony Allen",
+      "instrumento": "batería",
+      "nota": "director musical de Africa 70"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "El afrobeat no es jazz, pero salió en parte de él: Fela empezó tocando jazz y highlife, y a Tony Allen, su baterista, Brian Eno lo llamó \"perhaps the greatest drummer who has ever lived\". El disco critica al gobierno militar nigeriano. La respuesta del gobierno militar fue brutal: se cree que provocó el ataque en el que murió la madre de Fela y fue destruida su comuna. Christgau lo llamó \"real fusion music\"."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": "Q643431",
+    "wikipedia": "Zombie_(album)"
+  },
+  "respaldo": [
+    {
+      "fuente": "critica-zombie",
+      "acceso": "indirecta",
+      "aporta": "Robert Christgau: \"real fusion music — if James Brown's stuff is Afro-American, his is American-African\"."
+    },
+    {
+      "fuente": "wp-tony-allen",
+      "acceso": "completa",
+      "aporta": "Fela: \"without Tony Allen, there would be no Afrobeat\"."
+    }
+  ]
+}

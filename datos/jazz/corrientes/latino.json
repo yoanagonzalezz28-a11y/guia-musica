@@ -1,0 +1,99 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "derivaPendiente": [],
+  "regiones": [
+    "cuba",
+    "puerto-rico",
+    "estados-unidos"
+  ],
+  "id": "latino",
+  "nombre": "Jazz latino",
+  "alias": [
+    "Jazz afrocubano",
+    "Latin jazz"
+  ],
+  "lema": "El jazz sobre la clave",
+  "tinta": "#D62828",
+  "tintaTexto": "#FFFFFF",
+  "periodo": {
+    "desde": 1943,
+    "hasta": 2026,
+    "aproximado": true
+  },
+  "deriva": [
+    "swing",
+    "bebop"
+  ],
+  "lugares": [
+    "Nueva York",
+    "La Habana",
+    "San Juan"
+  ],
+  "texto": [
+    "El jazz latino se basa en los ritmos de América Latina. Sus dos grandes ramas son el jazz afrocubano, construido sobre la música bailable cubana y la clave, y el jazz afrobrasileño, con el samba y la bossa nova.[^wp-latin-jazz] Esta ficha se ocupa de la primera; la segunda tiene la suya.",
+    "Su punto de partida suele fecharse en Nueva York, en 1943, cuando la orquesta de Machito grabó \"Tanga\", de Mario Bauzá, el primer tema de jazz basado en la clave.[^wp-latin-jazz] Bauzá había tocado con Chick Webb y Cab Calloway, .[^wp-bauza] También fue él quien le presentó a Chano Pozo a Dizzy Gillespie.[^wp-pozo]",
+    "Después vinieron el mambo de Tito Puente, la salsa con cabeza de jazz de Eddie Palmieri y, desde Cuba, Irakere.[^wp-palmieri] Ethan Iverson recuerda que la clave no es un asunto solo latino: \"Clave is as relevant to Charlie Parker, Miles Davis, and John Coltrane as it is to the most famous rumba and salsa musicians\".[^iverson-clave]"
+  ],
+  "suena": [
+    "Una sección de percusión con congas, timbales y bongó, organizada alrededor de la clave.",
+    "Armonía y solos de jazz sobre patrones rítmicos que se repiten.",
+    "Una relación estrecha con el baile."
+  ],
+  "hitos": [
+    {
+      "fecha": "1940",
+      "texto": "Machito funda los Afro-Cubans en Nueva York.[^wp-machito]"
+    },
+    {
+      "fecha": "1943",
+      "texto": "\"Tanga\", de Bauzá.[^wp-latin-jazz]"
+    },
+    {
+      "fecha": "1947",
+      "texto": "Chano Pozo toca con Gillespie en el Carnegie Hall.[^wp-pozo]"
+    },
+    {
+      "fecha": "1975",
+      "texto": "Palmieri gana el primer Grammy latino.[^wp-palmieri]"
+    },
+    {
+      "fecha": "1998",
+      "texto": "*Habana* gana el Grammy al mejor jazz latino.[^wp-habana]"
+    }
+  ],
+  "legado": "Le dio al jazz una segunda gramática rítmica. Hoy músicos como Miguel Zenón la llevan hacia la música de Puerto Rico y del continente.",
+  "musicos": [
+    "machito",
+    "gillespie",
+    "palmieri",
+    "hargrove",
+    "zenon"
+  ],
+  "musicosPendientes": [
+    "Mario Bauzá",
+    "Chano Pozo",
+    "Tito Puente",
+    "Chico O'Farrill",
+    "Chucho Valdés",
+    "Paquito D'Rivera",
+    "Danilo Pérez",
+    "Dafnis Prieto"
+  ],
+  "discosEsenciales": [
+    {
+      "disco": "kenya",
+      "porque": "La orquesta que inventó el estilo, con solistas de jazz."
+    },
+    {
+      "disco": "sun-of-latin-music",
+      "porque": "La salsa llevada hacia el jazz."
+    },
+    {
+      "disco": "irakere-1979",
+      "porque": "La voz propia de Cuba."
+    }
+  ]
+}

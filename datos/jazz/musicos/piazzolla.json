@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "spotify": null,
+  "id": "piazzolla",
+  "nombre": "Astor Piazzolla",
+  "nacimiento": {
+    "anio": 1921,
+    "lugar": "Mar del Plata"
+  },
+  "muerte": {
+    "anio": 1992
+  },
+  "instrumentos": [
+    "bandoneón",
+    "composición"
+  ],
+  "corrientes": [
+    "rioplat"
+  ],
+  "resumen": "Revolucionó el tango con el nuevo tango, que incorporó elementos del jazz y de la música clásica, y fue polémico en la Argentina. Escuchar el octeto de Gerry Mulligan le dio la idea de su propio octeto.[^wp-piazzolla]",
+  "epocas": [
+    {
+      "titulo": "Nueva York y Montreux",
+      "desde": 1986,
+      "hasta": 1987,
+      "texto": "En 1986 tocó en Montreux con Gary Burton, y en 1987 dio un concierto en el Central Park de Nueva York, la ciudad donde pasó su infancia.[^wp-piazzolla]",
+      "discoClave": {
+        "disco": "zero-hour",
+        "explicacion": "El disco que él consideraba su mejor."
+      },
+      "discos": []
+    }
+  ],
+  "epocasPendientes": [
+    "Octeto Buenos Aires",
+    "Summit con Mulligan"
+  ],
+  "fuentes": [
+    "wp-piazzolla"
+  ],
+  "respaldo": [
+    {
+      "fuente": "wp-zero-hour",
+      "acceso": "completa",
+      "aporta": "Rolling Stone compara su mezcla con el jazz, el rock y la música contemporánea."
+    }
+  ]
+}

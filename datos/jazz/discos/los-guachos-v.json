@@ -1,0 +1,87 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Los Guachos V Guillermo Klein"
+  },
+  "id": "los-guachos-v",
+  "titulo": "Los Guachos V",
+  "credito": "Guillermo Klein y Los Guachos",
+  "lideres": [
+    "klein"
+  ],
+  "grabacion": {
+    "desde": 2016,
+    "hasta": 2016,
+    "detalle": "Fecha exacta sin confirmar: se usa el año de edición."
+  },
+  "edicion": {
+    "anio": 2016,
+    "detalle": null
+  },
+  "sello": "Sunnyside",
+  "musicos": [
+    {
+      "musico": "klein",
+      "nombre": "Guillermo Klein",
+      "instrumento": "piano, composición y dirección"
+    },
+    {
+      "musico": "zenon",
+      "nombre": "Miguel Zenón",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Bill McHenry",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Chris Cheek",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Jeff Ballard",
+      "instrumento": "batería"
+    }
+  ],
+  "personalNota": "Lista parcial: Los Guachos son once músicos.",
+  "corrientes": [
+    "rioplat",
+    "hoy"
+  ],
+  "comentario": [
+    "Klein, pianista porteño, formó Los Guachos en Nueva York en 1996. El disco celebra los veinte años del grupo y es su sexto disco: el primero se llamó, en broma, *Los Guachos II*. Klein explica en DownBeat que trabaja con \"simetrías\": melodías que pueden invertirse o leerse al revés. Mezcla folclore argentino, procedimientos de la música antigua y el jazz de Nueva York."
+  ],
+  "ids": {
+    "musicbrainz": "c77e4238-4953-4fbe-81d0-6072452633ab",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "db-klein",
+      "acceso": "completa",
+      "aporta": "Michael J. West: veinte años del grupo, la numeración de los discos y su concepto de simetría."
+    },
+    {
+      "fuente": "npr-klein",
+      "acceso": "completa",
+      "aporta": "Ben Ratliff destaca, en NPR, sus elementos clásicos, de fugas a la técnica medieval del hocket."
+    }
+  ]
+}

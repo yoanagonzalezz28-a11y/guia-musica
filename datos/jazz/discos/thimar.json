@@ -1,0 +1,77 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [
+    "medio-oriente"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": "ECM 1641",
+  "lugar": "Rainbow Studio, Oslo",
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6zgEfxPPHcwEV7cXb32oTl",
+    "tituloEnSpotify": "Thimar"
+  },
+  "id": "thimar",
+  "titulo": "Thimar",
+  "credito": "Anouar Brahem, John Surman y Dave Holland",
+  "lideres": [
+    "brahem"
+  ],
+  "grabacion": {
+    "desde": 1997,
+    "hasta": 1997,
+    "detalle": "Tres días de marzo de 1997"
+  },
+  "edicion": {
+    "anio": 1998,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "brahem",
+      "nombre": "Anouar Brahem",
+      "instrumento": "oud"
+    },
+    {
+      "musico": null,
+      "nombre": "John Surman",
+      "instrumento": "saxo soprano y clarinete bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Dave Holland",
+      "instrumento": "contrabajo"
+    }
+  ],
+  "corrientes": [
+    "mundo",
+    "ecm"
+  ],
+  "comentario": [
+    "Un trío sin batería: el oud tunecino, el clarinete bajo de un inglés y el contrabajo de Dave Holland. Es música de cámara, lenta y muy aireada, como corresponde a ECM. AllMusic destacó que cruza las tradiciones del jazz y de la música clásica árabe sin caer en los clichés de ninguna."
+  ],
+  "ids": {
+    "musicbrainz": "69f2a8d1-fdbc-3fa7-96c1-898b78205afa",
+    "discogsMaster": null,
+    "wikidata": "Q7784198",
+    "wikipedia": "Thimar"
+  },
+  "respaldo": [
+    {
+      "fuente": "critica-thimar",
+      "acceso": "indirecta",
+      "aporta": "Raymond McKinney: \"pushing the parameters of both while succumbing to the clichés of neither\"."
+    },
+    {
+      "fuente": "brahem-site",
+      "acceso": "completa",
+      "aporta": "Su biografía oficial repasa su llegada a ECM y su larga relación con Eicher."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [
+    "nordicos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6JAj80R40giQEAg3Le4CPE",
+    "tituloEnSpotify": "Jazz på svenska"
+  },
+  "id": "jazz-pa-svenska",
+  "titulo": "Jazz på svenska",
+  "credito": "Jan Johansson",
+  "lideres": [
+    "johansson"
+  ],
+  "grabacion": {
+    "desde": 1962,
+    "hasta": 1964,
+    "detalle": "28 de febrero de 1962, 18 de octubre de 1963 y 6 de mayo de 1964, en Estocolmo"
+  },
+  "edicion": {
+    "anio": 1964,
+    "detalle": null
+  },
+  "sello": "Megafon",
+  "musicos": [
+    {
+      "musico": "johansson",
+      "nombre": "Jan Johansson",
+      "instrumento": "piano y arreglos"
+    },
+    {
+      "musico": null,
+      "nombre": "Georg Riedel",
+      "instrumento": "contrabajo"
+    }
+  ],
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "Canciones folclóricas suecas en piano y contrabajo, casi sin adornos. Es el disco de jazz más vendido de la historia de Suecia, y \"Visa från Utanmyra\" se volvió parte de la cultura del país. Johansson había tocado con Stan Getz, y murió en 1968, a los 37 años. En este disco ya se puede escuchar mucho de lo que después se llamó sonido nórdico."
+  ],
+  "ids": {
+    "musicbrainz": "9bc8367f-4a67-38c2-974c-5344d917fc7a",
+    "discogsMaster": "183665",
+    "wikidata": "Q1326442",
+    "wikipedia": "Jazz_p%C3%A5_svenska"
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-jazz-pa-svenska",
+      "acceso": "completa",
+      "aporta": "Lo señala como el disco de jazz sueco más vendido de la historia."
+    },
+    {
+      "fuente": "wp-johansson",
+      "acceso": "completa",
+      "aporta": "Su trabajo con Stan Getz y Georg Riedel, y su muerte en 1968."
+    }
+  ]
+}

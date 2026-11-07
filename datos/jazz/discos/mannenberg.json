@@ -1,0 +1,85 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [
+    "sudafrica"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": "Ciudad del Cabo",
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Mannenberg Dollar Brand"
+  },
+  "id": "mannenberg",
+  "titulo": "Mannenberg – Is Where It's Happening",
+  "credito": "Dollar Brand (Abdullah Ibrahim)",
+  "lideres": [
+    "ibrahim"
+  ],
+  "grabacion": {
+    "desde": 1974,
+    "hasta": 1974,
+    "detalle": "Junio de 1974"
+  },
+  "edicion": {
+    "anio": 1974,
+    "detalle": null
+  },
+  "sello": "As-Shams",
+  "musicos": [
+    {
+      "musico": "ibrahim",
+      "nombre": "Dollar Brand (Abdullah Ibrahim)",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Basil Coetzee",
+      "instrumento": "saxo tenor y flauta"
+    },
+    {
+      "musico": null,
+      "nombre": "Robbie Jansen",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Morris Goldberg",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Monty Weber",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "Grabado en una visita de Ibrahim a Ciudad del Cabo, mientras vivía exiliado por el apartheid. El tema salió de una improvisación en el estudio, y el productor Rashid Vally lo hizo sonar en la vereda de su disquería antes de editarlo. Se vendieron cinco mil copias en la primera semana, y se convirtió en un himno contra el apartheid y en la pieza más emblemática del jazz del Cabo. Ibrahim murió en junio de 2026."
+  ],
+  "ids": {
+    "musicbrainz": "00d1efb0-9349-472e-b210-26854b3d0bbe",
+    "discogsMaster": null,
+    "wikidata": "Q6750794",
+    "wikipedia": "Mannenberg"
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-mannenberg",
+      "acceso": "completa",
+      "aporta": "Grabación, producción de Rashid Vally para As-Shams y su recepción."
+    },
+    {
+      "fuente": "wp-ibrahim",
+      "acceso": "completa",
+      "aporta": "Lo presenta como un himno contra el apartheid; su exilio y su muerte en 2026."
+    }
+  ]
+}

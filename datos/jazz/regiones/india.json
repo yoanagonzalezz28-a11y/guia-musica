@@ -1,0 +1,48 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "id": "india",
+  "nombre": "India",
+  "resumen": "Del jazz de los hoteles de Bombay a la fusión con la música clásica india.",
+  "texto": [
+    "El jazz llegó a la India hacia 1935, al Taj Mahal Hotel de Bombay, y entre los 50 y los 70 había decenas de locales con música en vivo en Bombay, Calcuta y Delhi.[^ri-india]",
+    "Uno de los primeros cruces con la música clásica india se hizo en Londres, con Joe Harriott y John Mayer, nacido en Calcuta.[^wp-harriott][^wp-mayer] Hoy la escena se apoya en festivales como el NCPA International Jazz Festival de Bombay y en figuras como Louiz Banks.[^ri-ncpa][^esq-india]"
+  ],
+  "corrientes": [
+    "mundo"
+  ],
+  "musicos": [
+    "harriott"
+  ],
+  "discos": [
+    "indo-jazz-suite"
+  ],
+  "figurasPendientes": [
+    "Louiz Banks",
+    "Shakti",
+    "L. Shankar",
+    "Zakir Hussain",
+    "Braz Gonsalves"
+  ],
+  "sellos": [
+    {
+      "nombre": "NCPA International Jazz Festival",
+      "texto": "Festival anual de Bombay, desde 2011."
+    }
+  ],
+  "escenaActual": [
+    {
+      "nombre": "Louiz Banks",
+      "instrumento": "piano y teclados",
+      "base": "Bombay",
+      "ultimaActividad": 2024,
+      "detalle": "En 2024 tocó por primera vez en Trincas, uno de los locales históricos de jazz de la India.",
+      "fuentes": [
+        "esq-india",
+        "ri-india"
+      ]
+    }
+  ]
+}

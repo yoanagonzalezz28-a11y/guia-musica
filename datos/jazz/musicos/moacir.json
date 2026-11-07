@@ -1,0 +1,51 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "brasil"
+  ],
+  "spotify": null,
+  "id": "moacir",
+  "nombre": "Moacir Santos",
+  "nacimiento": {
+    "anio": 1926,
+    "lugar": "Flores do Pajeú, Pernambuco"
+  },
+  "muerte": {
+    "anio": 2006
+  },
+  "instrumentos": [
+    "saxo",
+    "composición",
+    "arreglos"
+  ],
+  "corrientes": [
+    "brasil"
+  ],
+  "resumen": "Compositor y maestro: Baden Powell, Bola Sete y Wilson das Neves estudiaron con él. Más tarde vivió en California.[^wp-moacir]",
+  "epocas": [
+    {
+      "titulo": "Coisas",
+      "desde": 1965,
+      "hasta": 1965,
+      "texto": "Publicó su disco más importante en el sello Forma.[^wp-moacir]",
+      "discoClave": {
+        "disco": "coisas",
+        "explicacion": "Una obra maestra que tardó en ser reconocida."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-moacir"
+  ],
+  "respaldo": [
+    {
+      "fuente": "critica-coisas",
+      "acceso": "indirecta",
+      "aporta": "Ben Ratliff lo eligió entre las cien grabaciones más importantes."
+    }
+  ]
+}

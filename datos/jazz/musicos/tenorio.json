@@ -1,0 +1,59 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "brasil",
+    "rio-de-la-plata"
+  ],
+  "spotify": null,
+  "id": "tenorio",
+  "nombre": "Tenório Jr.",
+  "nacimiento": {
+    "anio": 1940,
+    "lugar": "Río de Janeiro"
+  },
+  "muerte": {
+    "anio": 1976
+  },
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "brasil"
+  ],
+  "redescubrimiento": {
+    "motivo": "Grabó un solo disco a su nombre. Desapareció en Buenos Aires en 1976 y fue identificado recién en 2025."
+  },
+  "resumen": "Pianista del samba jazz. Tocó con Chico Buarque, Gal Costa, Milton Nascimento y Edu Lobo, entre otros.[^bj-tenorio] En marzo de 1976, de gira en Buenos Aires con Vinicius de Moraes y Toquinho, lo secuestró y asesinó la represión de la dictadura argentina.[^bj-tenorio] En 2025, el Equipo Argentino de Antropología Forense lo identificó por sus huellas.[^tiempo-tenorio]",
+  "epocas": [
+    {
+      "titulo": "Embalo",
+      "desde": 1964,
+      "hasta": 1964,
+      "texto": "Su único disco como líder, una de las cumbres del samba jazz.[^bj-tenorio]",
+      "discoClave": {
+        "disco": "embalo",
+        "explicacion": "Su único disco."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-tenorio",
+    "bdf-tenorio"
+  ],
+  "respaldo": [
+    {
+      "fuente": "bj-tenorio",
+      "acceso": "completa",
+      "aporta": "Reconstruye su carrera, su disco y su desaparición."
+    },
+    {
+      "fuente": "tiempo-tenorio",
+      "acceso": "completa",
+      "aporta": "La identificación de 2025."
+    }
+  ]
+}

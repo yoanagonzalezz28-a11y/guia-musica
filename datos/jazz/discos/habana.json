@@ -1,0 +1,111 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [
+    "cuba"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": "Teatro Mancinelli, Orvieto (Italia), y Nueva York",
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Habana Roy Hargrove Crisol"
+  },
+  "id": "habana",
+  "titulo": "Habana",
+  "credito": "Roy Hargrove's Crisol",
+  "lideres": [
+    "hargrove"
+  ],
+  "grabacion": {
+    "desde": 1997,
+    "hasta": 1997,
+    "detalle": "5 y 6 de enero de 1997"
+  },
+  "edicion": {
+    "anio": 1997,
+    "detalle": null
+  },
+  "sello": "Verve",
+  "musicos": [
+    {
+      "musico": "hargrove",
+      "nombre": "Roy Hargrove",
+      "instrumento": "trompeta y fliscorno"
+    },
+    {
+      "musico": null,
+      "nombre": "Chucho Valdés",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Gary Bartz",
+      "instrumento": "saxos alto y soprano"
+    },
+    {
+      "musico": null,
+      "nombre": "David Sánchez",
+      "instrumento": "saxos tenor y soprano"
+    },
+    {
+      "musico": null,
+      "nombre": "Frank Lacy",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Russell Malone",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "John Benitez",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Horacio \"El Negro\" Hernández",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Miguel \"Angá\" Díaz",
+      "instrumento": "congas"
+    },
+    {
+      "musico": null,
+      "nombre": "José Luis \"Changuito\" Quintana",
+      "instrumento": "timbales"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "latino"
+  ],
+  "comentario": [
+    "Hargrove, el joven león del neotradicionalismo, se junta con músicos cubanos como Chucho Valdés y Changuito y con estadounidenses como Gary Bartz y David Sánchez. Ganó el Grammy al mejor disco de jazz latino. En All About Jazz, Jim Santell contó que muchos fans se preguntaban si el cambio iba en serio. Lo iba."
+  ],
+  "ids": {
+    "musicbrainz": "c187c69f-3f5b-3614-8538-c339d91ef025",
+    "discogsMaster": "286560",
+    "wikidata": "Q5636606",
+    "wikipedia": "Habana_(album)"
+  },
+  "respaldo": [
+    {
+      "fuente": "critica-habana",
+      "acceso": "indirecta",
+      "aporta": "Richard S. Ginell (AllMusic): \"At last, this highly touted, heretofore conservative Young Lion makes his move beyond neo-bop\"."
+    },
+    {
+      "fuente": "wp-habana",
+      "acceso": "completa",
+      "aporta": "Detalla la formación de Crisol y el Grammy de 1998."
+    }
+  ]
+}

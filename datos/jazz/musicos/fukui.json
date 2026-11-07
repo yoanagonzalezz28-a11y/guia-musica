@@ -16,7 +16,9 @@
   "instrumentos": [
     "piano"
   ],
-  "corrientes": [],
+  "corrientes": [
+    "mundo"
+  ],
   "regiones": [
     "japon"
   ],

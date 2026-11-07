@@ -47,7 +47,9 @@
         "disco": "head-hunters",
         "explicacion": "Su mayor éxito y un disco muy influyente."
       },
-      "discos": []
+      "discos": [
+        "native-dancer"
+      ]
     }
   ],
   "epocasPendientes": [

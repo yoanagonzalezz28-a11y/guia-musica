@@ -1,0 +1,62 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "id": "etiopia",
+  "nombre": "Etiopía",
+  "resumen": "El etiojazz de Mulatu Astatke y la edad de oro de Addis Abeba.",
+  "texto": [
+    "El etiojazz combina las escalas de la música tradicional etíope con el jazz y la música latina. Su figura central es Mulatu Astatke, que se formó en Londres, Nueva York y Boston, y que introdujo el vibráfono y las congas en la música popular del país.[^wp-mulatu]",
+    "Buena parte de esa música salió en Addis Abeba en los 60 y 70, en sellos como Amha y Kaifa, y volvió a circular con la serie de reediciones *Éthiopiques*.[^wp-ethiopiques] Hoy, músicos como el pianista Samuel Yirga renuevan el estilo.[^npr-yirga]"
+  ],
+  "corrientes": [
+    "mundo"
+  ],
+  "musicos": [
+    "mulatu"
+  ],
+  "discos": [
+    "mulatu-of-ethiopia"
+  ],
+  "figurasPendientes": [
+    "Getatchew Mekurya",
+    "Hailu Mergia",
+    "Mahmoud Ahmed",
+    "Emahoy Tsegué-Maryam Guèbrou"
+  ],
+  "sellos": [
+    {
+      "nombre": "Amha Records",
+      "texto": "El sello de Amha Eshete en Addis Abeba, donde salió buena parte de la música de Mulatu."
+    },
+    {
+      "nombre": "Buda Musique (Éthiopiques)",
+      "texto": "La serie francesa que reeditó la música etíope de los 60 y 70."
+    }
+  ],
+  "escenaActual": [
+    {
+      "nombre": "Mulatu Astatke",
+      "instrumento": "vibráfono",
+      "base": "Addis Abeba",
+      "ultimaActividad": 2025,
+      "detalle": "En 2025, a los 81 años, publicó *Mulatu Plays Mulatu* en Strut e hizo su gira de despedida.",
+      "fuentes": [
+        "db-mulatu",
+        "artsdesk-mulatu"
+      ]
+    },
+    {
+      "nombre": "Samuel Yirga",
+      "instrumento": "piano",
+      "base": "Addis Abeba",
+      "ultimaActividad": 2023,
+      "detalle": "Pianista del etiojazz actual. Su última actividad documentada que encontramos es una gira por Austria en 2023.",
+      "fuentes": [
+        "kb-yirga",
+        "npr-yirga"
+      ]
+    }
+  ]
+}

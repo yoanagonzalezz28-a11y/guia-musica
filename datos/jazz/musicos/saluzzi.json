@@ -1,0 +1,50 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "spotify": null,
+  "id": "saluzzi",
+  "nombre": "Dino Saluzzi",
+  "nacimiento": {
+    "anio": 1935,
+    "lugar": "Campo Santo, Salta"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "bandoneón"
+  ],
+  "corrientes": [
+    "rioplat",
+    "ecm"
+  ],
+  "resumen": "Bandoneonista salteño que toca desde chico. En ECM grabó con Charlie Haden, Palle Mikkelborg y Tomasz Stańko, entre otros.[^wp-saluzzi]",
+  "epocas": [
+    {
+      "titulo": "ECM",
+      "desde": 1982,
+      "hasta": 1983,
+      "texto": "Su contrato con ECM le dio un público internacional.[^wp-saluzzi]",
+      "discoClave": {
+        "disco": "kultrum",
+        "explicacion": "Solo, entre el folclore y el silencio."
+      },
+      "discos": [
+        "chapter-one"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-saluzzi"
+  ],
+  "respaldo": [
+    {
+      "fuente": "wp-chapter-one",
+      "acceso": "completa",
+      "aporta": "Aparece en el disco de Barbieri de 1973."
+    }
+  ]
+}

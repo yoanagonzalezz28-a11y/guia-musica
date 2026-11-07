@@ -1,0 +1,82 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [
+    "europa-este"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": "Filarmónica de Varsovia",
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5oZhK8gGIvJVSQxEUlKDqG",
+    "tituloEnSpotify": "Astigmatic"
+  },
+  "id": "astigmatic",
+  "titulo": "Astigmatic",
+  "credito": "Krzysztof Komeda Quintet",
+  "lideres": [
+    "komeda"
+  ],
+  "grabacion": {
+    "desde": 1965,
+    "hasta": 1965,
+    "detalle": "5 a 7 de diciembre de 1965"
+  },
+  "edicion": {
+    "anio": 1965,
+    "detalle": null
+  },
+  "sello": "Muza",
+  "musicos": [
+    {
+      "musico": "komeda",
+      "nombre": "Krzysztof Komeda",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Tomasz Stańko",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Zbigniew Namysłowski",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Günter Lenz",
+      "instrumento": "contrabajo"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "El compositor de las películas de Polanski, como *El bebé de Rosemary*, grabó en la Polonia comunista lo que suele considerarse uno de los mejores discos del jazz polaco y europeo. Stuart Nicholson escribió que marcó el momento en que el jazz europeo empezó a alejarse del modelo estadounidense. Con Komeda estaba un joven Tomasz Stańko, que después sería una figura de ECM."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": "482461",
+    "wikidata": "Q11686871",
+    "wikipedia": "Astigmatic_(album)"
+  },
+  "respaldo": [
+    {
+      "fuente": "critica-astigmatic",
+      "acceso": "indirecta",
+      "aporta": "The Penguin Guide: \"one of the finest jazz albums ever made in Europe\"."
+    },
+    {
+      "fuente": "cumming",
+      "acceso": "completa",
+      "aporta": "El productor John Cumming, en charla con Iverson, recuerda la historia de Stańko y Komeda y \"that one album that's a seminal album that they made in the mid-sixties\"."
+    }
+  ]
+}

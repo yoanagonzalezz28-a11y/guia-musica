@@ -1,0 +1,93 @@
+{
+  "id": "polish-jazz-podcasts",
+  "nombre": "Polish Jazz Podcasts",
+  "conductor": "Cezary Lerski (PolishJazz.com)",
+  "descripcion": "Episodios breves, en inglés, sobre la historia del jazz polaco, con entrevistas de archivo.",
+  "idioma": "en",
+  "pais": "Polonia",
+  "web": "https://www.polishjazz.com/podcasts",
+  "rss": "https://anchor.fm/s/f15301c8/podcast/rss",
+  "spotify": "https://open.spotify.com/show/5TnwEki1FEr0AzTG4z2oUA",
+  "episodios": [
+    {
+      "id": "astigmatic-krzysztof-komeda-s-jazz-masterpiece-a-jazz-landma",
+      "titulo": "Astigmatic: Krzysztof Komeda’s Jazz Masterpiece. A Jazz Landmark That Changed European Jaz.",
+      "fecha": "2025-09-16",
+      "duracionMin": 8,
+      "spotify": {
+        "estado": "verificado",
+        "url": "https://open.spotify.com/episode/2nLXv4HLVfG6QNrQOh93po"
+      },
+      "original": "https://podcasters.spotify.com/pod/show/cezele5/episodes/Astigmatic-Krzysztof-Komedas-Jazz-Masterpiece--A-Jazz-Landmark-That-Changed-European-Jaz-e38agsp",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-07"
+      },
+      "temas": [
+        "Astigmatic",
+        "Krzysztof Komeda",
+        "Europa del Este"
+      ]
+    },
+    {
+      "id": "season-1-episode-1-a-little-history-of-polish-jazz",
+      "titulo": "Season 1, Episode 1: A Little History of Polish Jazz",
+      "fecha": "2024-12-16",
+      "duracionMin": 12,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "Polish Jazz Podcasts Season 1, Episode 1: A Little History of Polish Jazz"
+      },
+      "original": "https://podcasters.spotify.com/pod/show/cezele5/episodes/Season-1--Episode-1-A-Little-History-of-Polish-Jazz-e2sdd65",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-07"
+      },
+      "temas": [
+        "Europa del Este",
+        "Jazz del mundo"
+      ]
+    },
+    {
+      "id": "season-1-episode-2-krzysztof-komeda-the-father-of-polish-jaz",
+      "titulo": "Season 1, Episode 2: Krzysztof Komeda - the father of Polish Jazz",
+      "fecha": "2024-12-28",
+      "duracionMin": 11,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "Polish Jazz Podcasts Season 1, Episode 2: Krzysztof Komeda"
+      },
+      "original": "https://podcasters.spotify.com/pod/show/cezele5/episodes/Season-1--Episode-2-Krzysztof-Komeda---the-father-of-Polish-Jazz-e2sqcpo",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-07"
+      },
+      "temas": [
+        "Krzysztof Komeda",
+        "Europa del Este"
+      ]
+    },
+    {
+      "id": "tomasz-stanko-a-conversation-with-a-jazz-visionary-a-2004-in",
+      "titulo": "Tomasz Stańko: A Conversation with a Jazz Visionary (A 2004 Interview)",
+      "fecha": "2025-02-22",
+      "duracionMin": 20,
+      "spotify": {
+        "estado": "busqueda",
+        "consulta": "Polish Jazz Podcasts Tomasz Stańko: A Conversation"
+      },
+      "original": "https://podcasters.spotify.com/pod/show/cezele5/episodes/Tomasz-Stako-A-Conversation-with-a-Jazz-Visionary-A-2004-Interview-e2v7t9v",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-07"
+      },
+      "temas": [
+        "Europa del Este"
+      ]
+    }
+  ]
+}

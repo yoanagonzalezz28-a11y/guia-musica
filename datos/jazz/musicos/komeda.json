@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "europa-este"
+  ],
+  "spotify": null,
+  "id": "komeda",
+  "nombre": "Krzysztof Komeda",
+  "nacimiento": {
+    "anio": 1931,
+    "lugar": "Poznań"
+  },
+  "muerte": {
+    "anio": 1969
+  },
+  "instrumentos": [
+    "piano",
+    "composición"
+  ],
+  "corrientes": [
+    "mundo"
+  ],
+  "resumen": "Pianista y compositor de cine, autor de las músicas de *El cuchillo en el agua* y *El bebé de Rosemary*, de Roman Polanski. Es una de las figuras más influyentes de la música polaca.[^wp-komeda]",
+  "epocas": [
+    {
+      "titulo": "El quinteto",
+      "desde": 1963,
+      "hasta": 1967,
+      "texto": "Tomasz Stańko fue su trompetista y aprendió con él sobre armonía y estructura.[^wp-stanko]",
+      "discoClave": {
+        "disco": "astigmatic",
+        "explicacion": "Su obra maestra."
+      },
+      "discos": []
+    }
+  ],
+  "epocasPendientes": [
+    "Música para Polanski"
+  ],
+  "fuentes": [
+    "wp-komeda"
+  ],
+  "respaldo": [
+    {
+      "fuente": "critica-astigmatic",
+      "acceso": "indirecta",
+      "aporta": "Stuart Nicholson: el disco que marcó \"a specific European aesthetic\"."
+    },
+    {
+      "fuente": "cumming",
+      "acceso": "completa",
+      "aporta": "John Cumming recuerda la historia de Stańko y Komeda."
+    }
+  ]
+}

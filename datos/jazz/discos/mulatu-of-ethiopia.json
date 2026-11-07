@@ -1,0 +1,67 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [
+    "etiopia"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": "W-1020",
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2FBK03r5TaxQmWMqLuOdF7",
+    "tituloEnSpotify": "Mulatu Of Ethiopia"
+  },
+  "id": "mulatu-of-ethiopia",
+  "titulo": "Mulatu of Ethiopia",
+  "credito": "Mulatu Astatke",
+  "lideres": [
+    "mulatu"
+  ],
+  "grabacion": {
+    "desde": 1972,
+    "hasta": 1972,
+    "detalle": "En Nueva York"
+  },
+  "edicion": {
+    "anio": 1972,
+    "detalle": null
+  },
+  "sello": "Worthy",
+  "musicos": [
+    {
+      "musico": "mulatu",
+      "nombre": "Mulatu Astatke",
+      "instrumento": "vibráfono, percusión, teclados y arreglos"
+    }
+  ],
+  "personalNota": "No pudimos confirmar el resto del grupo en fuentes abiertas.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "El padre del etiojazz, primer estudiante africano de Berklee, grabó este disco en Nueva York. Combina las escalas de la música tradicional etíope con el jazz y la música latina que había conocido en Estados Unidos. Llegó a un público mucho más amplio en 2005, cuando Jim Jarmusch usó su música en *Broken Flowers*. En 2025, a los 81 años, se despidió de las giras con *Mulatu Plays Mulatu*."
+  ],
+  "ids": {
+    "musicbrainz": "eec0dc49-b8b0-3480-9f37-2e67e4571252",
+    "discogsMaster": "18050",
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-mulatu",
+      "acceso": "completa",
+      "aporta": "Grabado en Nueva York para Worthy; su formación en Berklee y el efecto de Broken Flowers."
+    },
+    {
+      "fuente": "db-mulatu",
+      "acceso": "completa",
+      "aporta": "Howard Mandel, en DownBeat, oye en él a Ellington, Sun Ra, James Brown y Eddie Palmieri."
+    }
+  ]
+}

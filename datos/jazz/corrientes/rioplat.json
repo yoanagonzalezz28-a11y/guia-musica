@@ -1,0 +1,96 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "derivaPendiente": [],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "id": "rioplat",
+  "nombre": "Jazz rioplatense",
+  "alias": [
+    "Jazz argentino",
+    "Jazz uruguayo",
+    "Río de la Plata"
+  ],
+  "lema": "Candombe, tango y folclore",
+  "tinta": "#6CACE4",
+  "tintaTexto": "#101318",
+  "periodo": {
+    "desde": 1955,
+    "hasta": 2026,
+    "aproximado": true
+  },
+  "deriva": [
+    "free",
+    "ecm"
+  ],
+  "lugares": [
+    "Buenos Aires",
+    "Montevideo",
+    "Nueva York"
+  ],
+  "texto": [
+    "El jazz del Río de la Plata se define por sus cruces: el candombe uruguayo, el tango y el folclore del interior. Muchas de sus figuras hicieron carrera afuera. Gato Barbieri, de Rosario, pasó por el free jazz con Don Cherry y después llevó a Impulse! una banda de quenas, charangos y bombos.[^wp-barbieri][^wp-chapter-one]",
+    "Astor Piazzolla no fue un músico de jazz, pero su nuevo tango le debe mucho: el octeto de Gerry Mulligan le dio la idea de formar el suyo.[^wp-piazzolla] Dino Saluzzi, un salteño que había tocado con Barbieri, llevó el bandoneón y el folclore a ECM.[^wp-saluzzi]",
+    "Hoy la escena es muy activa en las dos orillas, y algunas figuras siguen trabajando entre Buenos Aires, Montevideo, Nueva York y España, como Guillermo Klein con Los Guachos.[^wp-klein] La historia del jazz en esta región también tiene una herida: el pianista brasileño Tenório Jr. fue asesinado por la dictadura en Buenos Aires en 1976.[^tiempo-tenorio]"
+  ],
+  "suena": [
+    "El candombe y el tango como base rítmica.",
+    "El bandoneón, la quena y el bombo legüero junto a los instrumentos del jazz.",
+    "Mucha composición, a veces muy cerca de la música de cámara."
+  ],
+  "hitos": [
+    {
+      "fecha": "1973",
+      "texto": "Barbieri graba *Chapter One* en Buenos Aires y Río.[^wp-chapter-one]"
+    },
+    {
+      "fecha": "1976",
+      "texto": "Tenório Jr. desaparece en Buenos Aires. Opa graba *Goldenwings*.[^tiempo-tenorio]"
+    },
+    {
+      "fecha": "1983",
+      "texto": "*Kultrum*, de Saluzzi, en ECM.[^wp-kultrum]"
+    },
+    {
+      "fecha": "1986",
+      "texto": "Piazzolla graba *Tango: Zero Hour* en Nueva York.[^wp-zero-hour]"
+    },
+    {
+      "fecha": "1996",
+      "texto": "Klein forma Los Guachos en Nueva York.[^db-klein]"
+    }
+  ],
+  "legado": "Mostró que el jazz podía hablar con el acento del candombe, el tango y el folclore sin perder su forma de improvisar.",
+  "musicos": [
+    "barbieri",
+    "piazzolla",
+    "saluzzi",
+    "klein"
+  ],
+  "musicosPendientes": [
+    "Hugo Fattoruso",
+    "Rubén Rada",
+    "Lalo Schifrin",
+    "El Kinto",
+    "Escalandrum",
+    "Ernesto Jodos",
+    "Juan Cruz de Urquiza"
+  ],
+  "discosEsenciales": [
+    {
+      "disco": "chapter-one",
+      "porque": "El jazz de vanguardia con el folclore andino."
+    },
+    {
+      "disco": "goldenwings",
+      "porque": "El candombe en Estados Unidos."
+    },
+    {
+      "disco": "zero-hour",
+      "porque": "El tango que dialoga con el jazz."
+    }
+  ]
+}

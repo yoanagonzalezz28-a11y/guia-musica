@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "sudafrica"
+  ],
+  "spotify": null,
+  "id": "mcgregor",
+  "nombre": "Chris McGregor",
+  "nacimiento": {
+    "anio": 1936,
+    "lugar": "Somerset West"
+  },
+  "muerte": {
+    "anio": 1990
+  },
+  "instrumentos": [
+    "piano",
+    "dirección"
+  ],
+  "corrientes": [
+    "mundo",
+    "free"
+  ],
+  "resumen": "Fundó los Blue Notes, un sexteto sudafricano que terminó exiliado en Londres, y en 1969 la Brotherhood of Breath, una big band con improvisadores ingleses.[^wp-mcgregor]",
+  "epocas": [
+    {
+      "titulo": "Los Blue Notes",
+      "desde": 1964,
+      "hasta": 1968,
+      "texto": "Con Dudu Pukwana, Mongezi Feza, Johnny Dyani y Louis Moholo.[^wp-mcgregor]",
+      "discoClave": {
+        "disco": "very-urgent",
+        "explicacion": "El debut en estudio del grupo."
+      },
+      "discos": []
+    }
+  ],
+  "epocasPendientes": [
+    "Brotherhood of Breath"
+  ],
+  "fuentes": [
+    "wp-mcgregor"
+  ],
+  "respaldo": [
+    {
+      "fuente": "critica-very-urgent",
+      "acceso": "indirecta",
+      "aporta": "John Fordham lo llama \"a world-class free-band\"."
+    }
+  ]
+}

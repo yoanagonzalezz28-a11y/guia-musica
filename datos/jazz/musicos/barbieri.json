@@ -1,0 +1,55 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "rio-de-la-plata",
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "id": "barbieri",
+  "nombre": "Gato Barbieri",
+  "nacimiento": {
+    "anio": 1932,
+    "lugar": "Rosario, Santa Fe"
+  },
+  "muerte": {
+    "anio": 2016
+  },
+  "instrumentos": [
+    "saxo tenor"
+  ],
+  "corrientes": [
+    "rioplat",
+    "free"
+  ],
+  "resumen": "Tocó con Lalo Schifrin y, en Roma, con Don Cherry. Tomó el sonido del Coltrane tardío y lo cruzó con la música sudamericana. Su música para *Último tango en París* ganó un Grammy.[^wp-barbieri]",
+  "epocas": [
+    {
+      "titulo": "Los capítulos de Impulse!",
+      "desde": 1973,
+      "hasta": 1975,
+      "texto": "Tras el Grammy, grabó para Impulse! una serie de discos sobre América Latina.[^wp-barbieri]",
+      "discoClave": {
+        "disco": "chapter-one",
+        "explicacion": "Grabado con músicos de folclore en Buenos Aires."
+      },
+      "discos": []
+    }
+  ],
+  "epocasPendientes": [
+    "El free jazz con Don Cherry",
+    "Caliente!"
+  ],
+  "fuentes": [
+    "wp-barbieri"
+  ],
+  "respaldo": [
+    {
+      "fuente": "critica-chapter-one",
+      "acceso": "indirecta",
+      "aporta": "Christgau elogia su forma de volver popular la vanguardia."
+    }
+  ]
+}

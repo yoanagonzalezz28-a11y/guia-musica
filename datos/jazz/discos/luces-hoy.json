@@ -67,8 +67,9 @@
       "instrumento": "percusión"
     }
   ],
-  "corrientes": [],
-  "corrientePendiente": "Jazz rioplatense",
+  "corrientes": [
+    "rioplat"
+  ],
   "comentario": [
     "El octavo disco del saxofonista porteño, con temas propios, canciones, un coral de Bach y un estándar. Hayes buscó un tono \"azul\", más introspectivo que en sus discos anteriores."
   ],

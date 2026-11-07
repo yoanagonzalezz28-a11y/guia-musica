@@ -1,0 +1,49 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "nordicos"
+  ],
+  "spotify": null,
+  "id": "johansson",
+  "nombre": "Jan Johansson",
+  "nacimiento": {
+    "anio": 1931,
+    "lugar": "Söderhamn"
+  },
+  "muerte": {
+    "anio": 1968
+  },
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "mundo"
+  ],
+  "resumen": "Pianista sueco que tocó con Stan Getz y trabajó la música folclórica europea desde el jazz.[^wp-johansson]",
+  "epocas": [
+    {
+      "titulo": "El folclore sueco",
+      "desde": 1962,
+      "hasta": 1964,
+      "texto": "Grabó con Georg Riedel arreglos de canciones folclóricas.[^wp-jazz-pa-svenska]",
+      "discoClave": {
+        "disco": "jazz-pa-svenska",
+        "explicacion": "El disco de jazz más vendido de Suecia."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-johansson"
+  ],
+  "respaldo": [
+    {
+      "fuente": "wp-jazz-pa-svenska",
+      "acceso": "completa",
+      "aporta": "Su lugar en la cultura sueca."
+    }
+  ]
+}

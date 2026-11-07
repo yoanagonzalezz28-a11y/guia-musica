@@ -1,0 +1,32 @@
+{
+  "id": "hermeto-mec",
+  "nombre": "Hermeto Pascoal e a Música Universal",
+  "conductor": "Rádio MEC (EBC)",
+  "descripcion": "Serie de la radio pública brasileña por los 85 años de Hermeto Pascoal, armada a partir de una entrevista exclusiva. En portugués.",
+  "idioma": "pt",
+  "pais": "Brasil",
+  "web": "https://podcasters.spotify.com/pod/show/radiomec-hermeto",
+  "rss": "https://anchor.fm/s/60ef1bf8/podcast/rss",
+  "spotify": null,
+  "episodios": [
+    {
+      "id": "hermeto-pascoal-85-anos",
+      "titulo": "Hermeto Pascoal 85 anos",
+      "fecha": "2021-06-21",
+      "duracionMin": 222,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://podcasters.spotify.com/pod/show/radiomec-hermeto/episodes/Hermeto-Pascoal-85-anos-e136qj9",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-07"
+      },
+      "temas": [
+        "Hermeto Pascoal",
+        "Brasil"
+      ]
+    }
+  ]
+}

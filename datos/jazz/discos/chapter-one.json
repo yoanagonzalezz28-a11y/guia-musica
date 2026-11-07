@@ -1,0 +1,115 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": "AS-9248",
+  "lugar": "Music Hall, Buenos Aires, y Odeon, Río de Janeiro",
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Chapter One Latin America Gato Barbieri"
+  },
+  "id": "chapter-one",
+  "titulo": "Chapter One: Latin America",
+  "credito": "Gato Barbieri",
+  "lideres": [
+    "barbieri"
+  ],
+  "grabacion": {
+    "desde": 1973,
+    "hasta": 1973,
+    "detalle": "Abril de 1973"
+  },
+  "edicion": {
+    "anio": 1973,
+    "detalle": "Octubre de 1973"
+  },
+  "sello": "Impulse!",
+  "musicos": [
+    {
+      "musico": "barbieri",
+      "nombre": "Gato Barbieri",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": "saluzzi",
+      "nombre": "Dino Saluzzi",
+      "instrumento": "bandoneón",
+      "nota": "en un tema"
+    },
+    {
+      "musico": null,
+      "nombre": "Raúl Mercado",
+      "instrumento": "quena"
+    },
+    {
+      "musico": null,
+      "nombre": "Amadeo Monges",
+      "instrumento": "arpa india"
+    },
+    {
+      "musico": null,
+      "nombre": "Ricardo Lew",
+      "instrumento": "guitarra eléctrica"
+    },
+    {
+      "musico": null,
+      "nombre": "Quelo Palacios",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Isoca Fumero",
+      "instrumento": "charango"
+    },
+    {
+      "musico": null,
+      "nombre": "Antonio Pantoja",
+      "instrumento": "anapa, erke, siku y quena"
+    },
+    {
+      "musico": null,
+      "nombre": "Adalberto Cevasco",
+      "instrumento": "bajo eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Domingo Cura",
+      "instrumento": "bombo legüero"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "redescubrimiento": {
+    "motivo": "AllMusic lo considera parte de \"one of the great all but forgotten masterpieces in 1970s jazz\", junto con el resto de los capítulos."
+  },
+  "comentario": [
+    "El saxo de Barbieri, que venía del free jazz con Don Cherry, sobre una banda de folclore andino y rioplatense: quena, charango, arpa, bombo legüero y el bandoneón de un joven Dino Saluzzi. Se grabó en Buenos Aires y en Río, para Impulse!, el sello de Coltrane, justo después del éxito de *Último tango en París*. Robert Christgau dijo que Barbieri era el único jazzman, además de Miles Davis, capaz de volver semipopular la vanguardia sin sonar venal."
+  ],
+  "ids": {
+    "musicbrainz": "32f1f3e7-7098-494e-888b-e27adc35b8fa",
+    "discogsMaster": "68310",
+    "wikidata": "Q3666273",
+    "wikipedia": "Chapter_One:_Latin_America"
+  },
+  "respaldo": [
+    {
+      "fuente": "critica-chapter-one",
+      "acceso": "indirecta",
+      "aporta": "Christgau: \"the only jazzman this side of Miles Davis to translate avant-garde into semi-popular without sounding venal\"."
+    },
+    {
+      "fuente": "wp-barbieri",
+      "acceso": "completa",
+      "aporta": "Repasa su paso por el free jazz con Don Cherry y el Grammy por Último tango en París."
+    }
+  ]
+}

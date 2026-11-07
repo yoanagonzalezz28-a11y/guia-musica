@@ -1,0 +1,66 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "id": "medio-oriente",
+  "nombre": "Medio Oriente y norte de África",
+  "resumen": "El oud y las escalas árabes dentro del jazz.",
+  "texto": [
+    "Ya en 1958, el contrabajista Ahmed Abdul-Malik grabó en Nueva York un disco con oud, kanún y darbuka.[^wp-abdul-malik] Desde los 80, oudistas como el libanés Rabih Abou-Khalil y los tunecinos Anouar Brahem y Dhafer Youssef hicieron del oud un instrumento central del jazz de cruce.[^wp-abou-khalil]",
+    "Buena parte de esa música se grabó en Europa, en sellos como Enja y ECM.[^brahem-site]"
+  ],
+  "corrientes": [
+    "mundo"
+  ],
+  "musicos": [
+    "abou-khalil",
+    "brahem",
+    "abdul-malik"
+  ],
+  "discos": [
+    "jazz-sahara",
+    "blue-camel",
+    "thimar"
+  ],
+  "figurasPendientes": [
+    "Dhafer Youssef",
+    "Ibrahim Maalouf",
+    "Tarek Yamani",
+    "Avishai Cohen"
+  ],
+  "sellos": [
+    {
+      "nombre": "Enja",
+      "texto": "Sello de Múnich donde grabó Abou-Khalil."
+    },
+    {
+      "nombre": "ECM",
+      "texto": "El sello de casi toda la obra de Brahem."
+    }
+  ],
+  "escenaActual": [
+    {
+      "nombre": "Dhafer Youssef",
+      "instrumento": "oud y voz",
+      "base": null,
+      "ultimaActividad": 2025,
+      "detalle": "En 2025 publicó *Shiraz* en ACT, dedicado a su esposa, con Nguyên Lê como invitado.",
+      "fuentes": [
+        "marl-dhafer",
+        "dhafer-site"
+      ]
+    },
+    {
+      "nombre": "Anouar Brahem",
+      "instrumento": "oud",
+      "base": null,
+      "ultimaActividad": 2025,
+      "detalle": "En 2025 publicó *After the Last Sky*, en Deutsche Grammophon, con Anja Lechner, Django Bates y Dave Holland.",
+      "fuentes": [
+        "pan-brahem",
+        "brahem-site"
+      ]
+    }
+  ]
+}

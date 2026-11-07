@@ -1,0 +1,73 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz da octubre de 1997. Wikipedia da 1998."
+    }
+  ],
+  "regiones": [
+    "nordicos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": "ECM 1560",
+  "lugar": "Lydlab, Oslo",
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5HCmMUDGYjFrcREEbaBGrg",
+    "tituloEnSpotify": "Khmer"
+  },
+  "id": "khmer",
+  "titulo": "Khmer",
+  "credito": "Nils Petter Molvær",
+  "lideres": [
+    "molvaer"
+  ],
+  "grabacion": {
+    "desde": 1996,
+    "hasta": 1997,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1998,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "molvaer",
+      "nombre": "Nils Petter Molvær",
+      "instrumento": "trompeta y producción"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "mundo",
+    "ecm"
+  ],
+  "comentario": [
+    "Trompeta noruega sobre ritmos electrónicos. AllMusic lo llamó el disco más raro que había publicado ECM. Es el más exitoso de Molvær y una de las bases de lo que se llamó future jazz. Si te gustaba la idea del sonido nórdico como algo frío y quieto, este disco la complica."
+  ],
+  "ids": {
+    "musicbrainz": "ecb60660-25d3-3b65-9f9d-5ac472dfe606",
+    "discogsMaster": "102122",
+    "wikidata": "Q13641403",
+    "wikipedia": "Khmer_(album)"
+  },
+  "respaldo": [
+    {
+      "fuente": "critica-khmer",
+      "acceso": "indirecta",
+      "aporta": "Christian Genzel: \"Khmer is surely the most unusual album ever released by ECM\"."
+    },
+    {
+      "fuente": "wp-molvaer",
+      "acceso": "completa",
+      "aporta": "Lo considera pionero del future jazz y destaca este disco como su mayor éxito."
+    }
+  ]
+}

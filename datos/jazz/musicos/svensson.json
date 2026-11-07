@@ -1,0 +1,50 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "nordicos"
+  ],
+  "spotify": null,
+  "id": "svensson",
+  "nombre": "Esbjörn Svensson",
+  "nacimiento": {
+    "anio": 1964,
+    "lugar": "Skultuna"
+  },
+  "muerte": {
+    "anio": 2008
+  },
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "mundo",
+    "hoy"
+  ],
+  "resumen": "Uno de los músicos de jazz más exitosos de Europa en el cambio de siglo, con su trío e.s.t. Murió a los 44 años en un accidente de buceo.[^wp-svensson]",
+  "epocas": [
+    {
+      "titulo": "e.s.t.",
+      "desde": 1993,
+      "hasta": 2008,
+      "texto": "Con Dan Berglund y Magnus Öström mezcló el jazz con el rock, el pop y la electrónica.[^wp-est]",
+      "discoClave": {
+        "disco": "seven-days",
+        "explicacion": "El disco que cruzó a las listas de pop."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-svensson"
+  ],
+  "respaldo": [
+    {
+      "fuente": "wp-est",
+      "acceso": "completa",
+      "aporta": "La historia del trío y sus influencias."
+    }
+  ]
+}

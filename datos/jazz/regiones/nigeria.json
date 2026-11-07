@@ -1,0 +1,57 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "id": "nigeria",
+  "nombre": "Nigeria",
+  "resumen": "El afrobeat de Fela Kuti y Tony Allen, entre el jazz, el highlife y el funk.",
+  "texto": [
+    "El afrobeat no es jazz, pero nació en parte de él. Fela Kuti empezó tocando jazz y highlife, y terminó creando una música que combinaba los ritmos de África Occidental con el funk y el jazz.[^wp-fela]",
+    "Su baterista, Tony Allen, fue el director musical de Africa 70 y uno de los creadores del género. Fela dijo que, sin él, no habría afrobeat.[^wp-tony-allen] Hoy sus hijos Femi y Seun mantienen la tradición.[^rp-femi][^rsa-seun]"
+  ],
+  "corrientes": [
+    "mundo"
+  ],
+  "musicos": [
+    "fela"
+  ],
+  "discos": [
+    "zombie"
+  ],
+  "figurasPendientes": [
+    "Tony Allen",
+    "Fela Sowande",
+    "Orlando Julius"
+  ],
+  "sellos": [
+    {
+      "nombre": "Coconut",
+      "texto": "Editó Zombie en Nigeria en 1976."
+    }
+  ],
+  "escenaActual": [
+    {
+      "nombre": "Femi Kuti",
+      "instrumento": "saxo y voz",
+      "base": "Lagos",
+      "ultimaActividad": 2025,
+      "detalle": "En abril de 2025 publicó *Journey Through Life*, en Partisan.",
+      "fuentes": [
+        "rp-femi",
+        "afrocritik-femi"
+      ]
+    },
+    {
+      "nombre": "Seun Kuti",
+      "instrumento": "saxo y voz",
+      "base": "Lagos",
+      "ultimaActividad": 2024,
+      "detalle": "En 2024 publicó *Heavier Yet (Lays the Crownless Head)* con Egypt 80, la antigua banda de su padre.",
+      "fuentes": [
+        "rsa-seun",
+        "afropop-seun"
+      ]
+    }
+  ]
+}

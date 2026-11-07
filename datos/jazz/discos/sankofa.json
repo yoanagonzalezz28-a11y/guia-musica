@@ -1,0 +1,68 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [
+    "brasil"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5cT5wndmYkuba7x4bnvIRf",
+    "tituloEnSpotify": "Sankofa"
+  },
+  "id": "sankofa",
+  "titulo": "Sankofa",
+  "credito": "Amaro Freitas",
+  "lideres": [
+    "freitas"
+  ],
+  "grabacion": {
+    "desde": 2021,
+    "hasta": 2021,
+    "detalle": "Fecha exacta sin confirmar: se usa el año de edición."
+  },
+  "edicion": {
+    "anio": 2021,
+    "detalle": "25 de junio de 2021"
+  },
+  "sello": "Far Out Recordings",
+  "musicos": [
+    {
+      "musico": "freitas",
+      "nombre": "Amaro Freitas",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Es un trío; no confirmamos los nombres del bajista y del baterista en las fuentes consultadas.",
+  "corrientes": [
+    "brasil",
+    "hoy"
+  ],
+  "comentario": [
+    "El tercer disco de un pianista nacido en Recife, en el nordeste de Brasil. En trío, dedica cada uno de sus ocho temas a una figura de la música brasileña. Ted Panken, en DownBeat, describe su técnica: prepara el piano con semillas del Amazonas y otros objetos, y toca polirritmos a velocidades extremas. Estuvo en muchas listas de fin de año."
+  ],
+  "ids": {
+    "musicbrainz": "b872eb91-2b64-4598-aff5-0e6c9864348b",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "db-amaro",
+      "acceso": "completa",
+      "aporta": "Ted Panken describe un recital con temas de Sankofa y su técnica de piano preparado."
+    },
+    {
+      "fuente": "qobuz-amaro",
+      "acceso": "completa",
+      "aporta": "Randall Roberts: \"his acclaimed Sankofa landed on many year-end lists\"."
+    }
+  ]
+}

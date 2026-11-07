@@ -1,0 +1,59 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "sudafrica"
+  ],
+  "spotify": null,
+  "id": "ibrahim",
+  "nombre": "Abdullah Ibrahim",
+  "nacimiento": {
+    "anio": 1934,
+    "lugar": "Ciudad del Cabo"
+  },
+  "muerte": {
+    "anio": 2026
+  },
+  "instrumentos": [
+    "piano",
+    "composición"
+  ],
+  "corrientes": [
+    "mundo"
+  ],
+  "resumen": "Conocido primero como Dollar Brand. Su música refleja el puerto multicultural de Ciudad del Cabo, de los cantos tradicionales al gospel, y en el jazz la influencia de Monk y Ellington. Vivió exiliado del apartheid hasta comienzos de los 90 y murió en junio de 2026.[^wp-ibrahim]",
+  "epocas": [
+    {
+      "titulo": "Mannenberg",
+      "desde": 1974,
+      "hasta": 1974,
+      "texto": "En una visita a su país grabó la pieza que se volvió himno contra el apartheid.[^wp-mannenberg]",
+      "discoClave": {
+        "disco": "mannenberg",
+        "explicacion": "La pieza más emblemática del jazz del Cabo."
+      },
+      "discos": []
+    }
+  ],
+  "epocasPendientes": [
+    "Jazz Epistles",
+    "Water from an Ancient Well"
+  ],
+  "fuentes": [
+    "wp-ibrahim"
+  ],
+  "respaldo": [
+    {
+      "fuente": "gioia-africa1",
+      "acceso": "completa",
+      "aporta": "Gioia: Ellington lo apadrinó después de los Jazz Epistles, \"a genuine hard bop session\" sudafricana de 1960."
+    },
+    {
+      "fuente": "iverson-riley",
+      "acceso": "completa",
+      "aporta": "Ethan Iverson destaca a Ben Riley \"especially good with Abdullah Ibrahim on the stellar LP Water from an Ancient Well\"."
+    }
+  ]
+}

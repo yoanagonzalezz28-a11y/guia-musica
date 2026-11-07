@@ -9,7 +9,9 @@
       "texto": "MusicBrainz da 1970 y Wikipedia 1971."
     }
   ],
-  "regiones": [],
+  "regiones": [
+    "nordicos"
+  ],
   "compilacion": false,
   "tipo": "estudio",
   "catalogo": "ECM 1007 ST",

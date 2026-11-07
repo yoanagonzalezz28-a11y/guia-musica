@@ -42,7 +42,7 @@
       "instrumento": "bajo y voz"
     },
     {
-      "musico": null,
+      "musico": "hermeto",
       "nombre": "Hermeto Pascoal",
       "instrumento": "flauta y percusión"
     },
@@ -52,8 +52,9 @@
       "instrumento": "guitarra"
     }
   ],
-  "corrientes": [],
-  "corrientePendiente": "Jazz rioplatense",
+  "corrientes": [
+    "rioplat"
+  ],
   "comentario": [
     "Un trío uruguayo llega a Estados Unidos, lo descubre Airto Moreira y lo produce para Milestone. El resultado cruza fusión latina con la raíz rioplatense. Las críticas de la reedición son favorables pero no coinciden en todo: Jazzwise le dio cuatro estrellas y Songlines tres."
   ],

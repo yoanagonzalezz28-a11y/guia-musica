@@ -1,0 +1,48 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "medio-oriente"
+  ],
+  "spotify": null,
+  "id": "abou-khalil",
+  "nombre": "Rabih Abou-Khalil",
+  "nacimiento": {
+    "anio": 1957,
+    "lugar": "Beirut"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "oud",
+    "composición"
+  ],
+  "corrientes": [
+    "mundo"
+  ],
+  "resumen": "Estudió oud en el conservatorio de Beirut y se fue a Múnich en 1978, durante la guerra civil. Con Anouar Brahem y Dhafer Youssef, hizo del oud un instrumento central del jazz de cruce.[^wp-abou-khalil]",
+  "epocas": [
+    {
+      "titulo": "Blue Camel",
+      "desde": 1992,
+      "hasta": 1992,
+      "texto": "Grabó para el sello alemán Enja con músicos de jazz como Kenny Wheeler y Charlie Mariano.[^wp-blue-camel]",
+      "discoClave": {
+        "disco": "blue-camel",
+        "explicacion": "Su disco más elogiado."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-abou-khalil"
+  ],
+  "respaldo": [
+    {
+      "fuente": "critica-blue-camel",
+      "acceso": "indirecta",
+      "aporta": "Kurt Keefner lo considera la cumbre de su obra."
+    }
+  ]
+}

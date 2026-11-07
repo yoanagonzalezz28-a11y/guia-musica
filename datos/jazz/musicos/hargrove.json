@@ -4,7 +4,8 @@
     "gioia": "pendiente"
   },
   "regiones": [
-    "estados-unidos"
+    "estados-unidos",
+    "cuba"
   ],
   "spotify": null,
   "id": "hargrove",
@@ -21,7 +22,8 @@
     "fliscorno"
   ],
   "corrientes": [
-    "neotrad"
+    "neotrad",
+    "latino"
   ],
   "resumen": "Trompetista descubierto por Wynton Marsalis. Ganó dos Grammy en estilos muy distintos, y tocó en *Voodoo*, de D'Angelo.[^wp-hargrove]",
   "epocas": [
@@ -35,10 +37,20 @@
         "explicacion": "Su primer disco como líder."
       },
       "discos": []
+    },
+    {
+      "titulo": "Crisol",
+      "desde": 1997,
+      "hasta": 1997,
+      "texto": "Armó un grupo con músicos cubanos y estadounidenses, que ganó el Grammy al mejor disco de jazz latino.[^wp-habana]",
+      "discoClave": {
+        "disco": "habana",
+        "explicacion": "Su paso al jazz afrocubano."
+      },
+      "discos": []
     }
   ],
   "epocasPendientes": [
-    "Habana con Crisol",
     "RH Factor"
   ],
   "fuentes": [

@@ -1,0 +1,99 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "derivaPendiente": [],
+  "regiones": [
+    "brasil"
+  ],
+  "id": "brasil",
+  "nombre": "Jazz brasileño",
+  "alias": [
+    "Brasil",
+    "Bossa nova",
+    "Samba jazz"
+  ],
+  "lema": "Samba, bossa y algo más",
+  "tinta": "#2BA84A",
+  "tintaTexto": "#101318",
+  "periodo": {
+    "desde": 1958,
+    "hasta": 2026,
+    "aproximado": true
+  },
+  "deriva": [
+    "cool"
+  ],
+  "lugares": [
+    "Río de Janeiro",
+    "Recife",
+    "Los Ángeles"
+  ],
+  "texto": [
+    "La bossa nova nació en Río a fines de los 50, como una versión más calma del samba. Se suele decir que su armonía salió del jazz, pero los guitarristas de samba ya usaban esos acordes desde los años 20: fue una evolución paralela. Eso no impidió que los dos mundos se encontraran, y muchos temas de bossa son hoy estándares de jazz.[^wp-bossa]",
+    "El encuentro estalló con *Getz/Gilberto*, en 1964.[^wp-jobim] Mientras tanto, en las noches del Beco das Garrafas, en Río, nacía el samba jazz, que mezclaba el samba con el bebop. Su gran disco es *Embalo*, de Tenório Jr., cuya historia terminó en Buenos Aires.[^bj-tenorio]",
+    "Brasil siguió por caminos propios: las orquestas afrobrasileñas de Moacir Santos, la libertad absoluta de Hermeto Pascoal, que Ted Gioia llama \"the most musical man in the world\", y el piano preparado de Amaro Freitas.[^wp-moacir][^gioia-hermeto-85][^db-amaro]"
+  ],
+  "suena": [
+    "La guitarra de la bossa, que estiliza la percusión del samba.",
+    "Melodías largas y armonías muy ricas.",
+    "Ritmos afrobrasileños y del nordeste, lejos de la postal de Ipanema."
+  ],
+  "hitos": [
+    {
+      "fecha": "Fines de los 50",
+      "texto": "Elizeth Cardoso graba los primeros temas de Jobim y Vinicius con João Gilberto.[^wp-bossa]"
+    },
+    {
+      "fecha": "1964",
+      "texto": "*Getz/Gilberto* y *Embalo*.[^wp-jobim][^bj-tenorio]"
+    },
+    {
+      "fecha": "1965",
+      "texto": "*Coisas*, de Moacir Santos.[^wp-moacir]"
+    },
+    {
+      "fecha": "1970",
+      "texto": "Hermeto Pascoal toca en *Live-Evil*, de Miles Davis.[^gioia-hermeto-85]"
+    },
+    {
+      "fecha": "2025",
+      "texto": "Muere Hermeto Pascoal.[^gioia-hermeto-rip]"
+    }
+  ],
+  "legado": "Le dio al jazz un repertorio entero de estándares y una manera distinta de sentir el ritmo. Muchos episodios de los podcasts de este banco giran alrededor de Brasil.",
+  "musicos": [
+    "moacir",
+    "tenorio",
+    "hermeto",
+    "gismonti",
+    "freitas",
+    "shorter"
+  ],
+  "musicosPendientes": [
+    "Antônio Carlos Jobim",
+    "João Gilberto",
+    "Stan Getz",
+    "Elis Regina",
+    "Milton Nascimento",
+    "Airto Moreira",
+    "Flora Purim",
+    "Naná Vasconcelos",
+    "Toninho Horta"
+  ],
+  "discosEsenciales": [
+    {
+      "disco": "getz-gilberto",
+      "porque": "El disco que llevó la bossa al mundo."
+    },
+    {
+      "disco": "coisas",
+      "porque": "Otra idea de orquesta."
+    },
+    {
+      "disco": "embalo",
+      "porque": "El samba jazz en su mejor momento."
+    }
+  ]
+}

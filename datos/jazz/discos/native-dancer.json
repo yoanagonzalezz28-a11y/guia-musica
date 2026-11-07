@@ -1,0 +1,83 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [
+    "brasil"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": "The Village Recorder, Los Ángeles",
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0Gsue0re8X1U9rqHe4urBx",
+    "tituloEnSpotify": "Native Dancer"
+  },
+  "id": "native-dancer",
+  "titulo": "Native Dancer",
+  "credito": "Wayne Shorter con Milton Nascimento",
+  "lideres": [
+    "shorter"
+  ],
+  "grabacion": {
+    "desde": 1974,
+    "hasta": 1974,
+    "detalle": "12 de septiembre de 1974"
+  },
+  "edicion": {
+    "anio": 1975,
+    "detalle": "18 de enero de 1975"
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "shorter",
+      "nombre": "Wayne Shorter",
+      "instrumento": "saxos soprano y tenor, y piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Milton Nascimento",
+      "instrumento": "voz y guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "David Amaro",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": "hancock",
+      "nombre": "Herbie Hancock",
+      "instrumento": "piano y teclados"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "brasil",
+    "fusion"
+  ],
+  "comentario": [
+    "En plena época de Weather Report, Shorter grabó con Milton Nascimento, la voz del Clube da Esquina de Minas Gerais. Tiene temas de él, de Shorter y de Herbie Hancock, y canta en portugués y en inglés."
+  ],
+  "ids": {
+    "musicbrainz": "9861d108-d00f-3dfd-9623-bb2270363bf1",
+    "discogsMaster": "140430",
+    "wikidata": null,
+    "wikipedia": "Native_Dancer_(album)"
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-native",
+      "acceso": "completa",
+      "aporta": "Fechas, estudio, personal y repertorio."
+    },
+    {
+      "fuente": "wp-jobim",
+      "acceso": "extracto",
+      "aporta": "Describe el boom previo de la bossa nova en Estados Unidos, que preparó el terreno para estos cruces."
+    }
+  ]
+}

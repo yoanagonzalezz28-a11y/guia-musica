@@ -1,0 +1,60 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "puerto-rico",
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "id": "palmieri",
+  "nombre": "Eddie Palmieri",
+  "nacimiento": {
+    "anio": 1936,
+    "lugar": "Manhattan, Nueva York"
+  },
+  "muerte": {
+    "anio": 2025
+  },
+  "instrumentos": [
+    "piano",
+    "dirección"
+  ],
+  "corrientes": [
+    "latino"
+  ],
+  "resumen": "Hijo de puertorriqueños de Ponce, creció en el Bronx. Grabó 45 discos como líder, ganó diez Grammy y fue nombrado NEA Jazz Master en 2013. Murió en agosto de 2025.[^db-palmieri][^wp-palmieri]",
+  "epocas": [
+    {
+      "titulo": "El sol de la música latina",
+      "desde": 1962,
+      "hasta": 1975,
+      "texto": "De La Perfecta a Harlem River Drive, llevó la salsa hacia el jazz sin perder a los bailarines.[^db-fire]",
+      "discoClave": {
+        "disco": "sun-of-latin-music",
+        "explicacion": "El primer Grammy latino de la historia."
+      },
+      "discos": []
+    }
+  ],
+  "epocasPendientes": [
+    "Harlem River Drive",
+    "Palmieri y Tito Puente"
+  ],
+  "fuentes": [
+    "wp-palmieri"
+  ],
+  "respaldo": [
+    {
+      "fuente": "db-palmieri",
+      "acceso": "completa",
+      "aporta": "Frank Alkyer repasa su carrera y sus premios."
+    },
+    {
+      "fuente": "db-fire",
+      "acceso": "completa",
+      "aporta": "Palmieri explica su relación con la clave y la estructura de la música afrocubana."
+    }
+  ]
+}

@@ -638,6 +638,25 @@
         "Tete Montoliu",
         "España"
       ]
+    },
+    {
+      "id": "t4-x-41-la-verdadera-chica-de-ipanema",
+      "titulo": "T4 x 41: La verdadera Chica de Ipanema",
+      "fecha": "2023-02-11",
+      "duracionMin": 25,
+      "spotify": {
+        "estado": "sin-confirmar"
+      },
+      "original": "https://www.ivoox.com/t4-x-41-la-verdadera-chica-ipanema-audios-mp3_rf_102915615_1.html",
+      "verificacion": {
+        "estado": "verificado",
+        "http": 200,
+        "fecha": "2026-11-07"
+      },
+      "temas": [
+        "Brasil",
+        "Getz/Gilberto"
+      ]
     }
   ]
 }

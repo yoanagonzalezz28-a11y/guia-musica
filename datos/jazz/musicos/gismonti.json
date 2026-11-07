@@ -1,0 +1,50 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "brasil"
+  ],
+  "spotify": null,
+  "id": "gismonti",
+  "nombre": "Egberto Gismonti",
+  "nacimiento": {
+    "anio": 1947,
+    "lugar": "Carmo, Río de Janeiro"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "guitarra",
+    "piano",
+    "composición"
+  ],
+  "corrientes": [
+    "brasil",
+    "ecm"
+  ],
+  "resumen": "Estudió con Nadia Boulanger, que lo animó a volcar la experiencia brasileña en su música. En 1978 fundó el sello Carmo, asociado con ECM.[^wp-gismonti]",
+  "epocas": [
+    {
+      "titulo": "ECM",
+      "desde": 1976,
+      "hasta": 1980,
+      "texto": "Su primer disco para ECM ganó premios en varios países.[^wp-gismonti]",
+      "discoClave": {
+        "disco": "danca-das-cabecas",
+        "explicacion": "A dúo con Naná Vasconcelos."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-gismonti"
+  ],
+  "respaldo": [
+    {
+      "fuente": "critica-danca",
+      "acceso": "indirecta",
+      "aporta": "Álvaro Neder lo considera un hito en su carrera."
+    }
+  ]
+}

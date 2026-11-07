@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "id": "puerto-rico",
+  "nombre": "Puerto Rico",
+  "resumen": "De la salsa con cabeza de jazz a la plena y la música jíbara en el saxo de Miguel Zenón.",
+  "texto": [
+    "La comunidad puertorriqueña de Nueva York tuvo un papel central en el jazz latino. Eddie Palmieri, hijo de puertorriqueños de Ponce, creció en el Bronx y llevó la salsa hacia el jazz.[^db-palmieri]",
+    "Miguel Zenón, nacido en San Juan, dedicó discos enteros a la música jíbara y a la plena, y es hoy una de las voces más premiadas del jazz.[^wp-zenon]"
+  ],
+  "corrientes": [
+    "latino"
+  ],
+  "musicos": [
+    "palmieri",
+    "zenon"
+  ],
+  "discos": [
+    "sun-of-latin-music",
+    "vanguardia-subterranea"
+  ],
+  "figurasPendientes": [
+    "Tito Puente",
+    "Juan Tizol",
+    "Ray Barretto",
+    "David Sánchez",
+    "Papo Vázquez"
+  ],
+  "sellos": [
+    {
+      "nombre": "Miel Music",
+      "texto": "El sello de los discos recientes de Miguel Zenón."
+    },
+    {
+      "nombre": "Coco Records",
+      "texto": "Editó The Sun of Latin Music, de Palmieri."
+    }
+  ],
+  "escenaActual": [
+    {
+      "nombre": "Miguel Zenón",
+      "instrumento": "saxo alto",
+      "base": "Nueva York",
+      "ultimaActividad": 2026,
+      "detalle": "En 2026 publicó *El arte del bolero, vol. 3*, a dúo con Luis Perdomo, después de *Vanguardia Subterránea*, de 2025.",
+      "fuentes": [
+        "pg-zenon-bolero",
+        "jt-zenon"
+      ]
+    }
+  ]
+}

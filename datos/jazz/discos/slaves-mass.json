@@ -1,0 +1,82 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [
+    "brasil"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Slaves Mass Hermeto Pascoal"
+  },
+  "id": "slaves-mass",
+  "titulo": "Slaves Mass",
+  "credito": "Hermeto Pascoal",
+  "lideres": [
+    "hermeto"
+  ],
+  "grabacion": {
+    "desde": 1977,
+    "hasta": 1977,
+    "detalle": "Fecha exacta sin confirmar: se usa el año de edición."
+  },
+  "edicion": {
+    "anio": 1977,
+    "detalle": null
+  },
+  "sello": "Warner Bros.",
+  "musicos": [
+    {
+      "musico": "hermeto",
+      "nombre": "Hermeto Pascoal",
+      "instrumento": "teclados, saxo soprano, flautas, guitarra y voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Flora Purim",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Airto Moreira",
+      "instrumento": "batería y percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Chester Thompson",
+      "instrumento": "batería",
+      "nota": "en tres temas"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "brasil"
+  ],
+  "comentario": [
+    "Hermeto para Warner Bros., rodeado de Flora Purim y Airto Moreira. En el tema que le da título, los créditos incluyen cerdos vivos. Ted Gioia, que lo considera \"el hombre más musical del mundo\", recuerda que podía hacer música con teteras, juguetes o cualquier cosa. El disco es un buen lugar para conocer esa libertad."
+  ],
+  "ids": {
+    "musicbrainz": "5b18feb1-4845-3973-8869-99f92755ff01",
+    "discogsMaster": "349820",
+    "wikidata": "Q7539293",
+    "wikipedia": "Slaves_Mass"
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-slaves",
+      "acceso": "completa",
+      "aporta": "Detalla el personal, incluidos los cerdos."
+    },
+    {
+      "fuente": "gioia-hermeto-rip",
+      "acceso": "completa",
+      "aporta": "Gioia: el Sorcerer podía hacer música \"from teapots, toys, napkins, pints of beer\"."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "puerto-rico",
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "id": "zenon",
+  "nombre": "Miguel Zenón",
+  "nacimiento": {
+    "anio": 1976,
+    "lugar": "San Juan, Puerto Rico"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "saxo alto",
+    "composición"
+  ],
+  "corrientes": [
+    "latino",
+    "hoy"
+  ],
+  "resumen": "Saxofonista que creció en Lloréns Torres, el mayor caserío de la isla. Recibió las becas Guggenheim y MacArthur, y basó discos enteros en la música jíbara y en la plena.[^wp-zenon]",
+  "epocas": [
+    {
+      "titulo": "El cuarteto",
+      "desde": 2004,
+      "hasta": 2026,
+      "texto": "Con Luis Perdomo, Hans Glawischnig y Henry Cole lleva más de veinte años de trabajo sobre la música de Puerto Rico y del continente.[^pg-zenon][^db-zenon]",
+      "discoClave": {
+        "disco": "vanguardia-subterranea",
+        "explicacion": "El primer disco en vivo del cuarteto."
+      },
+      "discos": [
+        "los-guachos-v"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-zenon"
+  ],
+  "respaldo": [
+    {
+      "fuente": "db-zenon",
+      "acceso": "completa",
+      "aporta": "Frank Alkyer: \"groove-centric music packed with meaning, soul and ambition\"."
+    },
+    {
+      "fuente": "pg-zenon",
+      "acceso": "completa",
+      "aporta": "Jim Hynes reseña su primer disco en vivo."
+    }
+  ]
+}

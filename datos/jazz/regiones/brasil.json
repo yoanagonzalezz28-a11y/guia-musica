@@ -1,0 +1,69 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "id": "brasil",
+  "nombre": "Brasil",
+  "resumen": "De la bossa nova y el samba jazz al piano preparado de Recife.",
+  "texto": [
+    "La bossa nova y el samba jazz nacieron en Río de Janeiro entre fines de los 50 y comienzos de los 60.[^wp-bossa][^bj-tenorio] Pero el jazz brasileño es más amplio que la postal de Ipanema: viene también de Pernambuco, de Alagoas y de Minas Gerais.",
+    "Moacir Santos, de Pernambuco, fue maestro de toda una generación.[^wp-moacir] Hermeto Pascoal, de Alagoas, llevó su música a cualquier objeto que sonara.[^gioia-hermeto-rip] Hoy Amaro Freitas, de Recife, trabaja sobre las tradiciones afrobrasileñas e indígenas.[^db-amaro]"
+  ],
+  "corrientes": [
+    "brasil"
+  ],
+  "musicos": [
+    "moacir",
+    "tenorio",
+    "hermeto",
+    "gismonti",
+    "freitas"
+  ],
+  "discos": [
+    "getz-gilberto",
+    "coisas",
+    "embalo",
+    "slaves-mass",
+    "danca-das-cabecas",
+    "native-dancer",
+    "sankofa"
+  ],
+  "figurasPendientes": [
+    "Antônio Carlos Jobim",
+    "João Gilberto",
+    "Elis Regina",
+    "Milton Nascimento",
+    "Airto Moreira",
+    "Flora Purim",
+    "Toninho Horta",
+    "Letieres Leite"
+  ],
+  "sellos": [
+    {
+      "nombre": "Forma",
+      "texto": "Sello carioca que editó Coisas, de Moacir Santos."
+    },
+    {
+      "nombre": "Far Out Recordings",
+      "texto": "Sello londinense dedicado a la música brasileña; editó Sankofa."
+    },
+    {
+      "nombre": "Beco das Garrafas",
+      "texto": "Callejón de Copacabana donde nació el samba jazz."
+    }
+  ],
+  "escenaActual": [
+    {
+      "nombre": "Amaro Freitas",
+      "instrumento": "piano",
+      "base": "Recife",
+      "ultimaActividad": 2024,
+      "detalle": "En 2024 publicó *Y'Y*, dedicado al Amazonas, con Shabaka Hutchings entre los invitados. No encontramos un disco posterior.",
+      "fuentes": [
+        "qobuz-amaro",
+        "db-amaro"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [
+    "puerto-rico"
+  ],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": "Village Vanguard, Nueva York",
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Vanguardia Subterránea Miguel Zenón"
+  },
+  "id": "vanguardia-subterranea",
+  "titulo": "Vanguardia Subterránea: Live at the Village Vanguard",
+  "credito": "Miguel Zenón Quartet",
+  "lideres": [
+    "zenon"
+  ],
+  "grabacion": {
+    "desde": 2024,
+    "hasta": 2024,
+    "detalle": "Dos noches de septiembre de 2024"
+  },
+  "edicion": {
+    "anio": 2025,
+    "detalle": "29 de agosto de 2025"
+  },
+  "sello": "Miel Music",
+  "musicos": [
+    {
+      "musico": "zenon",
+      "nombre": "Miguel Zenón",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Luis Perdomo",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Hans Glawischnig",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Henry Cole",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "latino",
+    "hoy"
+  ],
+  "comentario": [
+    "El primer disco en vivo del cuarteto de Zenón, grabado en el Village Vanguard para celebrar sus veinte años juntos. Seis temas propios y dos versiones de la música popular puertorriqueña y caribeña: \"El día de mi suerte\", de Willie Colón y Héctor Lavoe, y \"Perdóname\", de Gilberto Santa Rosa. Es una muestra de lo que hace Zenón desde hace años: jazz moderno y complejo construido sobre la música de su isla."
+  ],
+  "ids": {
+    "musicbrainz": "0d6dcf8b-d2bd-4a72-a6f9-0e53a5533597",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "pg-zenon",
+      "acceso": "completa",
+      "aporta": "Jim Hynes: primer disco en vivo del cuarteto y decimoctavo de Zenón; grabado en septiembre de 2024."
+    },
+    {
+      "fuente": "jt-zenon",
+      "acceso": "completa",
+      "aporta": "JazzTrail confirma la formación y lo describe como \"post-bop-infused Latin jazz\"."
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz registra la reedición en CD de 2008. El LP original es de 1968."
+    }
+  ],
+  "regiones": [
+    "sudafrica"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": "184 137",
+  "lugar": "Sound Techniques, Londres",
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Very Urgent Chris McGregor"
+  },
+  "id": "very-urgent",
+  "titulo": "Very Urgent",
+  "credito": "Chris McGregor Group",
+  "lideres": [
+    "mcgregor"
+  ],
+  "grabacion": {
+    "desde": 1968,
+    "hasta": 1968,
+    "detalle": "Fecha exacta sin confirmar: se usa el año de edición."
+  },
+  "edicion": {
+    "anio": 1968,
+    "detalle": null
+  },
+  "sello": "Polydor",
+  "musicos": [
+    {
+      "musico": "mcgregor",
+      "nombre": "Chris McGregor",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Dudu Pukwana",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Ronnie Beer",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Mongezi Feza",
+      "instrumento": "trompeta de bolsillo"
+    },
+    {
+      "musico": null,
+      "nombre": "Johnny Dyani",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Louis Moholo",
+      "instrumento": "batería"
+    }
+  ],
+  "corrientes": [
+    "mundo",
+    "free"
+  ],
+  "redescubrimiento": {
+    "motivo": "Es en los hechos el debut en estudio de los Blue Notes, la banda que el apartheid empujó al exilio en Londres. Recién se reeditó en CD en 2008."
+  },
+  "comentario": [
+    "Los Blue Notes salieron de la Sudáfrica del apartheid y terminaron instalados en Londres. Acá cruzan la alegría de la música sudafricana con el free jazz más intenso. John Fordham escribió en The Guardian que podría sorprender a los fans de John Zorn por lo lejos que llega, y que era \"a world-class free-band\"."
+  ],
+  "ids": {
+    "musicbrainz": "3b194e9e-2d5d-4e39-b2ff-80b8cd18efff",
+    "discogsMaster": null,
+    "wikidata": "Q117086010",
+    "wikipedia": "Very_Urgent"
+  },
+  "respaldo": [
+    {
+      "fuente": "critica-very-urgent",
+      "acceso": "indirecta",
+      "aporta": "Andrey Henkin: \"combined celebratory South African music with burgeoning modern jazz\"."
+    },
+    {
+      "fuente": "wp-mcgregor",
+      "acceso": "completa",
+      "aporta": "Reconstruye la historia de los Blue Notes y de la Brotherhood of Breath."
+    }
+  ]
+}

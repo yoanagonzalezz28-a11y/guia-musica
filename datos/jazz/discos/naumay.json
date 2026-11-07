@@ -38,8 +38,9 @@
     }
   ],
   "personalNota": "Falta confirmar el resto del grupo: All About Jazz bloquea la lectura directa.",
-  "corrientes": [],
-  "corrientePendiente": "Jazz rioplatense",
+  "corrientes": [
+    "rioplat"
+  ],
   "comentario": [
     "El debut de un baterista de Montevideo que cruza el jazz con el candombe. Interesa porque el ritmo local no aparece como adorno, sino como punto de partida."
   ],

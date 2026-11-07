@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "medio-oriente"
+  ],
+  "spotify": null,
+  "id": "brahem",
+  "nombre": "Anouar Brahem",
+  "nacimiento": {
+    "anio": 1957,
+    "lugar": "Túnez"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "oud",
+    "composición"
+  ],
+  "corrientes": [
+    "mundo",
+    "ecm"
+  ],
+  "resumen": "Estudió oud en el conservatorio de Túnez y con el maestro Ali Sriti. Desde 1990 grabó once discos para ECM. En 2025 publicó *After the Last Sky* en Deutsche Grammophon.[^brahem-site][^pan-brahem]",
+  "epocas": [
+    {
+      "titulo": "ECM",
+      "desde": 1990,
+      "hasta": 2017,
+      "texto": "Su encuentro con Manfred Eicher cambió su obra.[^brahem-site]",
+      "discoClave": {
+        "disco": "thimar",
+        "explicacion": "Un trío de cámara con Surman y Holland."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-brahem"
+  ],
+  "respaldo": [
+    {
+      "fuente": "brahem-site",
+      "acceso": "completa",
+      "aporta": "Su biografía oficial."
+    },
+    {
+      "fuente": "pan-brahem",
+      "acceso": "completa",
+      "aporta": "Frédéric Cardin elige After the Last Sky entre lo mejor de 2025."
+    }
+  ]
+}

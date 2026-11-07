@@ -1,0 +1,53 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "india"
+  ],
+  "spotify": null,
+  "id": "harriott",
+  "nombre": "Joe Harriott",
+  "nacimiento": {
+    "anio": 1928,
+    "lugar": "Kingston, Jamaica"
+  },
+  "muerte": {
+    "anio": 1973
+  },
+  "instrumentos": [
+    "saxo alto"
+  ],
+  "corrientes": [
+    "mundo",
+    "free"
+  ],
+  "resumen": "Saxofonista jamaicano instalado en Gran Bretaña. Empezó en el bebop, fue pionero del free jazz desde 1960 y luego, con John Mayer, de la fusión con la música india.[^wp-harriott]",
+  "epocas": [
+    {
+      "titulo": "Indo-Jazz Fusions",
+      "desde": 1966,
+      "hasta": 1968,
+      "texto": "Desarrolló con Mayer un doble quinteto de músicos indios y de jazz.[^wp-harriott]",
+      "discoClave": {
+        "disco": "indo-jazz-suite",
+        "explicacion": "El primer disco de ese proyecto."
+      },
+      "discos": []
+    }
+  ],
+  "epocasPendientes": [
+    "Free Form"
+  ],
+  "fuentes": [
+    "wp-harriott"
+  ],
+  "respaldo": [
+    {
+      "fuente": "wp-mayer",
+      "acceso": "completa",
+      "aporta": "Cuenta el origen de Indo-Jazz Fusions."
+    }
+  ]
+}

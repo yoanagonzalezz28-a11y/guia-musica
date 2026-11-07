@@ -48,8 +48,9 @@
       "instrumento": "batería"
     }
   ],
-  "corrientes": [],
-  "corrientePendiente": "Jazz japonés de los 70",
+  "corrientes": [
+    "mundo"
+  ],
   "comentario": [
     "El disco más difundido de Three Blind Mice, el sello que quiso ser el Blue Note de Japón. Hoy suele usarse para demostrar equipos de audio: es un trío íntimo, grabado con un cuidado poco común."
   ],

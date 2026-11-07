@@ -1,0 +1,55 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "id": "sudafrica",
+  "nombre": "Sudáfrica",
+  "resumen": "El jazz del Cabo, el exilio del apartheid y una escena actual muy fuerte.",
+  "texto": [
+    "El jazz sudafricano se desarrolló bajo el apartheid, que limitaba lo que los músicos negros podían grabar y con quién podían tocar. Los Jazz Epistles, con Abdullah Ibrahim y Hugh Masekela, grabaron en 1960 un disco de hard bop de primer nivel.[^gioia-africa1]",
+    "Muchos terminaron en el exilio. Ibrahim vivió en Nueva York y en Europa, y los Blue Notes de Chris McGregor se instalaron en Londres.[^wp-ibrahim][^wp-mcgregor] \"Mannenberg\", grabado en Ciudad del Cabo en 1974, se volvió un himno contra el régimen.[^wp-mannenberg] Hoy la escena vive una nueva etapa, con músicos como Nduduzo Makhathini en Blue Note.[^jt-makhathini]"
+  ],
+  "corrientes": [
+    "mundo"
+  ],
+  "musicos": [
+    "ibrahim",
+    "mcgregor"
+  ],
+  "discos": [
+    "mannenberg",
+    "very-urgent"
+  ],
+  "figurasPendientes": [
+    "Hugh Masekela",
+    "Dudu Pukwana",
+    "Louis Moholo",
+    "Johnny Dyani",
+    "Bheki Mseleku",
+    "Thandi Ntuli"
+  ],
+  "sellos": [
+    {
+      "nombre": "As-Shams",
+      "texto": "El sello de Rashid Vally en Ciudad del Cabo; editó Mannenberg."
+    },
+    {
+      "nombre": "Ogun",
+      "texto": "Sello londinense ligado a los Blue Notes en el exilio."
+    }
+  ],
+  "escenaActual": [
+    {
+      "nombre": "Nduduzo Makhathini",
+      "instrumento": "piano",
+      "base": null,
+      "ultimaActividad": 2026,
+      "detalle": "En 2026 publicó *The Myth We Choose* en Blue Note, con su trío sudafricano e invitados como Shabaka.",
+      "fuentes": [
+        "jt-makhathini",
+        "aaj-makhathini"
+      ]
+    }
+  ]
+}

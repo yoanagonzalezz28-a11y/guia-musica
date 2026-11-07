@@ -1,0 +1,94 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [
+    "brasil"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": "FM-8",
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Coisas Moacir Santos"
+  },
+  "id": "coisas",
+  "titulo": "Coisas",
+  "credito": "Moacir Santos",
+  "lideres": [
+    "moacir"
+  ],
+  "grabacion": {
+    "desde": 1965,
+    "hasta": 1965,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1965,
+    "detalle": null
+  },
+  "sello": "Forma",
+  "musicos": [
+    {
+      "musico": "moacir",
+      "nombre": "Moacir Santos",
+      "instrumento": "saxo barítono, composición y arreglos"
+    },
+    {
+      "musico": null,
+      "nombre": "Wilson das Neves",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Dulcilando Pereira",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Jorge Ferreira da Silva",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Geraldo Medeiros",
+      "instrumento": "saxo barítono"
+    },
+    {
+      "musico": null,
+      "nombre": "Armando Pallas",
+      "instrumento": "trombón bajo"
+    }
+  ],
+  "personalNota": "Lista parcial: incluye vientos y cuerdas.",
+  "corrientes": [
+    "brasil"
+  ],
+  "redescubrimiento": {
+    "motivo": "No tuvo repercusión cuando salió. Con los años, The New York Times lo llamó uno de los grandes logros de la música brasileña moderna, y Ben Ratliff lo eligió entre las cien grabaciones más importantes."
+  },
+  "comentario": [
+    "Piezas numeradas como \"cosas\" (Coisa nº 1, Coisa nº 7…), escritas por un maestro de músicos: Baden Powell y Wilson das Neves estudiaron con él. Es una orquesta de cámara que cruza los ritmos afrobrasileños con el lenguaje de las big bands. Suena a película, a ritual y a jazz al mismo tiempo."
+  ],
+  "ids": {
+    "musicbrainz": "0a0a8212-9663-3f97-9a3a-7af23ff706f9",
+    "discogsMaster": "617134",
+    "wikidata": null,
+    "wikipedia": "Coisas"
+  },
+  "respaldo": [
+    {
+      "fuente": "critica-coisas",
+      "acceso": "indirecta",
+      "aporta": "The New York Times: \"one of the great accomplishments of modern Brazilian music\"."
+    },
+    {
+      "fuente": "wp-moacir",
+      "acceso": "completa",
+      "aporta": "Cuenta que Baden Powell, Bola Sete y Wilson das Neves estudiaron con él."
+    }
+  ]
+}

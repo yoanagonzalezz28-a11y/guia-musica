@@ -1,0 +1,86 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": "Sound Ideas, Nueva York",
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6NNvUtOmrKH7DlRUfnbx7d",
+    "tituloEnSpotify": "Tango: Zero Hour"
+  },
+  "id": "zero-hour",
+  "titulo": "Tango: Zero Hour",
+  "credito": "Astor Piazzolla y su Quinteto Tango Nuevo",
+  "lideres": [
+    "piazzolla"
+  ],
+  "grabacion": {
+    "desde": 1986,
+    "hasta": 1986,
+    "detalle": "Mayo de 1986"
+  },
+  "edicion": {
+    "anio": 1986,
+    "detalle": "Septiembre de 1986"
+  },
+  "sello": "American Clavé",
+  "musicos": [
+    {
+      "musico": "piazzolla",
+      "nombre": "Astor Piazzolla",
+      "instrumento": "bandoneón y arreglos"
+    },
+    {
+      "musico": null,
+      "nombre": "Fernando Suárez Paz",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Pablo Ziegler",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Horacio Malvicino",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Héctor Console",
+      "instrumento": "contrabajo"
+    }
+  ],
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "No es un disco de jazz, pero es imposible contar el jazz rioplatense sin él. Producido por Kip Hanrahan en Nueva York, es el disco que Piazzolla consideraba el mejor de su vida. Rolling Stone comparó su mezcla de forma, improvisación y dinámica con la música clásica contemporánea, el jazz y el rock. Piazzolla había tomado la idea de su octeto del de Gerry Mulligan, y luego grabó con él."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": "Q7683076",
+    "wikipedia": "Tango:_Zero_Hour"
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-zero-hour",
+      "acceso": "completa",
+      "aporta": "Piazzolla lo consideraba su mejor disco; resume las reseñas de Rolling Stone y Christgau."
+    },
+    {
+      "fuente": "wp-piazzolla",
+      "acceso": "completa",
+      "aporta": "Cuenta que el octeto de Mulligan le dio la idea de formar el suyo, y su posterior disco con él."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "id": "europa-este",
+  "nombre": "Europa del Este",
+  "resumen": "El jazz como música de libertad bajo el comunismo.",
+  "texto": [
+    "En la Polonia comunista, el jazz tuvo una carga de libertad. Tomasz Stańko contaba que lo impresionaba esa relación.[^wp-stanko] En 1965, el quinteto de Krzysztof Komeda grabó *Astigmatic*, que para Stuart Nicholson marcó el inicio de una estética europea propia.[^critica-astigmatic]",
+    "Tocar desde allí no era fácil: el productor John Cumming recuerda que había que contratar a los músicos a través del Ministerio de Cultura, y que los músicos no veían nada de ese pago: se les pagaba aparte, en un sobre.[^cumming] Hoy el trío de Marcin Wasilewski graba para ECM.[^was-homage]"
+  ],
+  "corrientes": [
+    "mundo"
+  ],
+  "musicos": [
+    "komeda"
+  ],
+  "discos": [
+    "astigmatic"
+  ],
+  "figurasPendientes": [
+    "Tomasz Stańko",
+    "Zbigniew Namysłowski",
+    "Michał Urbaniak",
+    "Urszula Dudziak",
+    "Miroslav Vitouš",
+    "Gábor Szabó"
+  ],
+  "sellos": [
+    {
+      "nombre": "Muza / Polskie Nagrania",
+      "texto": "El sello estatal polaco que editó Astigmatic."
+    }
+  ],
+  "escenaActual": [
+    {
+      "nombre": "Marcin Wasilewski Trio",
+      "instrumento": "piano",
+      "base": "Polonia",
+      "ultimaActividad": 2025,
+      "detalle": "En 2025 publicó *Homage*, con Joe Lovano, en ECM.",
+      "fuentes": [
+        "was-homage",
+        "ecmr-was"
+      ]
+    }
+  ]
+}

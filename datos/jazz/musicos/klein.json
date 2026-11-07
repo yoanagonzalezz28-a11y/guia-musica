@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "rio-de-la-plata",
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "id": "klein",
+  "nombre": "Guillermo Klein",
+  "nacimiento": {
+    "anio": null,
+    "lugar": "Buenos Aires"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano",
+    "composición",
+    "arreglos"
+  ],
+  "corrientes": [
+    "rioplat",
+    "hoy"
+  ],
+  "resumen": "Se graduó en Berklee en 1994 y tuvo una residencia en el club Smalls de Nueva York. Pasó buena parte de los 2000 entre la Argentina y España.[^wp-klein]",
+  "epocas": [
+    {
+      "titulo": "Los Guachos",
+      "desde": 1996,
+      "hasta": 2016,
+      "texto": "Formó en Nueva York una banda de once músicos que sigue junta.[^db-klein]",
+      "discoClave": {
+        "disco": "los-guachos-v",
+        "explicacion": "El disco de los veinte años."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-klein"
+  ],
+  "respaldo": [
+    {
+      "fuente": "db-klein",
+      "acceso": "completa",
+      "aporta": "Entrevista sobre su concepto de simetría."
+    },
+    {
+      "fuente": "npr-klein",
+      "acceso": "completa",
+      "aporta": "Ben Ratliff destaca su originalidad."
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [
+    "medio-oriente"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": "RLP 12-287",
+  "lugar": "Reeves Sound Studio, Nueva York",
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Jazz Sahara Ahmed Abdul-Malik"
+  },
+  "id": "jazz-sahara",
+  "titulo": "Jazz Sahara",
+  "credito": "Ahmed Abdul-Malik",
+  "lideres": [
+    "abdul-malik"
+  ],
+  "grabacion": {
+    "desde": 1958,
+    "hasta": 1958,
+    "detalle": "Octubre de 1958"
+  },
+  "edicion": {
+    "anio": 1958,
+    "detalle": null
+  },
+  "sello": "Riverside",
+  "musicos": [
+    {
+      "musico": "abdul-malik",
+      "nombre": "Ahmed Abdul-Malik",
+      "instrumento": "contrabajo y oud"
+    },
+    {
+      "musico": null,
+      "nombre": "Johnny Griffin",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Naim Karacand",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Al Harewood",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Bilal Abdurrahman",
+      "instrumento": "pandereta"
+    },
+    {
+      "musico": null,
+      "nombre": "Jack Ghanaim",
+      "instrumento": "kanún"
+    },
+    {
+      "musico": null,
+      "nombre": "Mike Hemway",
+      "instrumento": "darbuka"
+    }
+  ],
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "El contrabajista del cuarteto de Monk con Coltrane, de Brooklyn, decía que su padre venía de Sudán. Monk y Coltrane lo animaron a armar su propio grupo, y en este debut tocó el oud junto a músicos de tradición árabe y al tenor de Johnny Griffin. Scott Yanow lo llama un ejemplo temprano de cruce con músicas del mundo: interesante e innovador, aunque no esencial. Escuchalo como documento."
+  ],
+  "ids": {
+    "musicbrainz": "3331d4f3-d220-3173-8bfb-35b2c5e38347",
+    "discogsMaster": "159719",
+    "wikidata": "Q6168308",
+    "wikipedia": "Jazz_Sahara"
+  },
+  "respaldo": [
+    {
+      "fuente": "critica-sahara",
+      "acceso": "indirecta",
+      "aporta": "Scott Yanow: \"an early example of fusing jazz with world music... interesting and, in its own way, innovative but not essential\"."
+    },
+    {
+      "fuente": "wp-abdul-malik",
+      "acceso": "completa",
+      "aporta": "Su paso por el grupo de Monk y el estímulo de Monk y Coltrane."
+    }
+  ]
+}

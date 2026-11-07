@@ -1,0 +1,90 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [
+    "brasil"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": "A & R, Nueva York",
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3JvFflPIx7bB6lJ4qId2Er",
+    "tituloEnSpotify": "Getz / Gilberto"
+  },
+  "id": "getz-gilberto",
+  "titulo": "Getz/Gilberto",
+  "credito": "Stan Getz y João Gilberto",
+  "lideres": [],
+  "grabacion": {
+    "desde": 1963,
+    "hasta": 1963,
+    "detalle": "18 y 19 de marzo de 1963"
+  },
+  "edicion": {
+    "anio": 1964,
+    "detalle": "Marzo de 1964"
+  },
+  "sello": "Verve",
+  "musicos": [
+    {
+      "musico": null,
+      "nombre": "Stan Getz",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "João Gilberto",
+      "instrumento": "guitarra y voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Antônio Carlos Jobim",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Sebastião Neto",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Milton Banana",
+      "instrumento": "batería y pandeiro"
+    },
+    {
+      "musico": null,
+      "nombre": "Astrud Gilberto",
+      "instrumento": "voz",
+      "nota": "en dos temas"
+    }
+  ],
+  "corrientes": [
+    "brasil"
+  ],
+  "comentario": [
+    "El disco que llevó la bossa nova al mundo. Astrud Gilberto canta en inglés \"The Girl from Ipanema\", que ganó el Grammy a la grabación del año. El disco ganó el Grammy al álbum del año, y fue apenas la segunda vez que lo lograba un disco de jazz. La bossa nova no salió del jazz, como a veces se dice: la guitarra de João Gilberto viene del samba, aunque los dos mundos se encontraron enseguida."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": "Q1010134",
+    "wikipedia": "Getz/Gilberto"
+  },
+  "respaldo": [
+    {
+      "fuente": "critica-getz-gilberto",
+      "acceso": "indirecta",
+      "aporta": "JazzTimes: \"served as proof that it is possible for music to be both artistically and commercially successful\"."
+    },
+    {
+      "fuente": "wp-bossa",
+      "acceso": "completa",
+      "aporta": "Advierte que es un error pensar que su armonía salió del jazz: hubo una evolución paralela."
+    }
+  ]
+}

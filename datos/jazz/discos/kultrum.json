@@ -1,0 +1,71 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "MusicBrainz da 1991, probablemente por la edición en CD. Wikipedia da 1983."
+    }
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": "ECM 1251",
+  "lugar": "Tonstudio Bauer, Ludwigsburg",
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Kultrum Dino Saluzzi"
+  },
+  "id": "kultrum",
+  "titulo": "Kultrum",
+  "credito": "Dino Saluzzi",
+  "lideres": [
+    "saluzzi"
+  ],
+  "grabacion": {
+    "desde": 1982,
+    "hasta": 1982,
+    "detalle": "Noviembre de 1982"
+  },
+  "edicion": {
+    "anio": 1983,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "saluzzi",
+      "nombre": "Dino Saluzzi",
+      "instrumento": "bandoneón, voz, percusión y flautas"
+    }
+  ],
+  "corrientes": [
+    "rioplat",
+    "ecm"
+  ],
+  "comentario": [
+    "Saluzzi, nacido en Campo Santo, Salta, solo con su bandoneón, flautas, percusión y voz. Toma sonidos del folclore andino y de los pueblos originarios, grabados con la claridad típica de ECM. El kultrún es el tambor ceremonial mapuche."
+  ],
+  "ids": {
+    "musicbrainz": "9c721b12-d78c-3226-85ff-6e8c22a64348",
+    "discogsMaster": null,
+    "wikidata": "Q6443245",
+    "wikipedia": "Kultrum"
+  },
+  "respaldo": [
+    {
+      "fuente": "critica-kultrum",
+      "acceso": "indirecta",
+      "aporta": "Michael G. Nastos: un proyecto multicultural que toma \"the folkloric, ancestral, and traditional sounds\" de sus raíces sudamericanas."
+    },
+    {
+      "fuente": "wp-saluzzi",
+      "acceso": "completa",
+      "aporta": "Lugar de nacimiento y su llegada a ECM."
+    }
+  ]
+}

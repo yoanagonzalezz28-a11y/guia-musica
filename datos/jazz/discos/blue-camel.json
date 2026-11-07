@@ -1,0 +1,95 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [
+    "medio-oriente"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": "ENJ 7053",
+  "lugar": "Sound Studio N, Colonia",
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Blue Camel Rabih Abou-Khalil"
+  },
+  "id": "blue-camel",
+  "titulo": "Blue Camel",
+  "credito": "Rabih Abou-Khalil",
+  "lideres": [
+    "abou-khalil"
+  ],
+  "grabacion": {
+    "desde": 1992,
+    "hasta": 1992,
+    "detalle": "19 a 21 de mayo de 1992"
+  },
+  "edicion": {
+    "anio": 1992,
+    "detalle": null
+  },
+  "sello": "Enja",
+  "musicos": [
+    {
+      "musico": "abou-khalil",
+      "nombre": "Rabih Abou-Khalil",
+      "instrumento": "oud"
+    },
+    {
+      "musico": "wheeler",
+      "nombre": "Kenny Wheeler",
+      "instrumento": "fliscorno y trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Charlie Mariano",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Swallow",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Ramesh Shotham",
+      "instrumento": "percusión del sur de la India"
+    },
+    {
+      "musico": null,
+      "nombre": "Milton Cardona",
+      "instrumento": "congas"
+    },
+    {
+      "musico": null,
+      "nombre": "Nabil Khaiat",
+      "instrumento": "tambores de marco"
+    }
+  ],
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "El oud libanés con músicos de jazz de primera línea, incluido Kenny Wheeler. Abou-Khalil creció en Beirut y se fue a Múnich por la guerra civil. La música árabe no queda como decorado: manda en las escalas y en los ritmos. AllMusic llegó a llamarlo casi un nuevo *Kind of Blue*."
+  ],
+  "ids": {
+    "musicbrainz": "1db0a998-2bb6-34fc-8195-8f25e68e5315",
+    "discogsMaster": "244714",
+    "wikidata": "Q6008198",
+    "wikipedia": "Blue_Camel"
+  },
+  "respaldo": [
+    {
+      "fuente": "critica-blue-camel",
+      "acceso": "indirecta",
+      "aporta": "Kurt Keefner: \"it can almost be characterized as a new Kind of Blue\"."
+    },
+    {
+      "fuente": "wp-abou-khalil",
+      "acceso": "completa",
+      "aporta": "Su formación en Beirut y su exilio en Alemania."
+    }
+  ]
+}

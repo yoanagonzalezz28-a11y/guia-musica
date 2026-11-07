@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "brasil"
+  ],
+  "spotify": null,
+  "id": "hermeto",
+  "nombre": "Hermeto Pascoal",
+  "nacimiento": {
+    "anio": 1936,
+    "lugar": "Olho d'Água das Flores, Alagoas"
+  },
+  "muerte": {
+    "anio": 2025
+  },
+  "instrumentos": [
+    "teclados",
+    "flautas",
+    "saxo",
+    "percusión",
+    "composición"
+  ],
+  "corrientes": [
+    "brasil"
+  ],
+  "resumen": "Multiinstrumentista y compositor, llamado O Bruxo. Llamó la atención internacional con su paso por *Live-Evil*, de Miles Davis. Murió en septiembre de 2025, a los 89 años.[^wp-hermeto][^gioia-hermeto-rip]",
+  "epocas": [
+    {
+      "titulo": "Slaves Mass",
+      "desde": 1970,
+      "hasta": 1977,
+      "texto": "Tras su paso por la banda de Davis, grabó para Warner Bros. con Flora Purim y Airto Moreira.[^wp-slaves]",
+      "discoClave": {
+        "disco": "slaves-mass",
+        "explicacion": "Su música sin límites, con cerdos incluidos."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-hermeto"
+  ],
+  "respaldo": [
+    {
+      "fuente": "gioia-hermeto-85",
+      "acceso": "completa",
+      "aporta": "Ted Gioia cuenta que Davis lo habría llamado \"the most impressive musician in the world\"."
+    },
+    {
+      "fuente": "gioia-hermeto-rip",
+      "acceso": "completa",
+      "aporta": "Despedida de Gioia, que lo cuenta entre sus héroes musicales."
+    }
+  ]
+}

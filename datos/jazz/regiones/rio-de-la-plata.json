@@ -5,14 +5,27 @@
   "texto": [
     "Una marca de esta región es el cruce del jazz con ritmos propios, y el candombe es el caso más visible. A mediados de los 70, los hermanos Hugo y George Fattoruso y Ringo Thielmann formaban Opa, un trío uruguayo instalado en Estados Unidos. Airto Moreira los descubrió tocando en clubes y produjo sus discos para Milestone.[^wp-opa]",
     "Ese diálogo sigue vivo. Juan Ibarra, baterista nacido en Montevideo en 1988, debutó con *NauMay* en el sello DomusJazz, y sigue trabajando sobre el candombe.[^aaj-ibarra-bio] En Buenos Aires, Andrés Hayes lleva ocho discos a su nombre y una larga trayectoria en grupos de la escena local.[^tiempo-hayes][^litoral-hayes]",
-    "Esta ficha es una prueba de calibración. Faltan figuras centrales, como Gato Barbieri, Astor Piazzolla en su diálogo con el jazz, Guillermo Klein y El Kinto, y falta consultar mejor a DomusJazz y a la prensa cultural de ambos países."
+    "A ese diálogo se suman figuras que hicieron carrera afuera: Gato Barbieri, Astor Piazzolla en su cruce con el jazz, Dino Saluzzi en ECM y Guillermo Klein con Los Guachos en Nueva York.[^wp-barbieri][^wp-saluzzi][^db-klein] Falta consultar mejor a DomusJazz y a la prensa cultural de ambos países."
   ],
-  "corrientes": [],
-  "musicos": [],
+  "corrientes": [
+    "rioplat"
+  ],
+  "musicos": [
+    "barbieri",
+    "piazzolla",
+    "saluzzi",
+    "klein",
+    "tenorio"
+  ],
   "discos": [
     "goldenwings",
     "naumay",
-    "luces-hoy"
+    "luces-hoy",
+    "chapter-one",
+    "zero-hour",
+    "kultrum",
+    "los-guachos-v",
+    "embalo"
   ],
   "sellos": [
     {
@@ -26,14 +39,18 @@
     {
       "nombre": "Little Butterfly Records",
       "texto": "Editó *Arco* y *Surin*, de Juan Ibarra."
+    },
+    {
+      "nombre": "Music Hall (Buenos Aires)",
+      "texto": "Allí se grabó buena parte de Chapter One, de Barbieri, en 1973."
     }
   ],
   "figurasPendientes": [
     "Hugo Fattoruso",
-    "Gato Barbieri",
-    "Guillermo Klein",
+    "Rubén Rada",
+    "Lalo Schifrin",
     "El Kinto",
-    "Rubén Rada"
+    "Escalandrum"
   ],
   "escenaActual": [
     {

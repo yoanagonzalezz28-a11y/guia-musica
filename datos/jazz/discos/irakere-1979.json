@@ -48,8 +48,9 @@
     }
   ],
   "personalNota": "Lista parcial: son integrantes de esa época, pero no encontramos la formación completa de los conciertos.",
-  "corrientes": [],
-  "corrientePendiente": "Jazz afrocubano",
+  "corrientes": [
+    "latino"
+  ],
   "comentario": [
     "Con Irakere, Cuba deja de ser solo una fuente de ritmos para el jazz de Nueva York y pasa a hablar con voz propia. Tambores rituales como los batá conviven con vientos virtuosos. Este disco en vivo le dio al grupo un Grammy y proyección internacional."
   ],

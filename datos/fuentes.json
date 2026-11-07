@@ -2095,5 +2095,885 @@
     "url": "https://ethaniverson.com/50-tracks-for-ecm-at-50/",
     "consultada": "2026-11-06",
     "estado": "consultada"
+  },
+  "wp-latin-jazz": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Latin jazz (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Latin_jazz",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-machito": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Machito (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Machito",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-bauza": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Mario Bauzá (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Mario_Bauz%C3%A1",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-palmieri": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Eddie Palmieri (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Eddie_Palmieri",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-zenon": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Miguel Zenón (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Miguel_Zen%C3%B3n",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-habana": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Habana (álbum de Roy Hargrove) (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Habana_(album)",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-bossa": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Bossa nova (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Bossa_nova",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-jobim": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Antônio Carlos Jobim (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Ant%C3%B4nio_Carlos_Jobim",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-getz-gilberto": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Getz/Gilberto (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Getz/Gilberto",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-getz": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Stan Getz (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Stan_Getz",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-native": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Native Dancer (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Native_Dancer_(album)",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-coisas": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Coisas (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Coisas",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-moacir": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Moacir Santos (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Moacir_Santos",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-tenorio": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Francisco Tenório Júnior (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Francisco_Ten%C3%B3rio_J%C3%BAnior",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-hermeto": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Hermeto Pascoal (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Hermeto_Pascoal",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-slaves": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Slaves Mass (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Slaves_Mass",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-gismonti": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Egberto Gismonti (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Egberto_Gismonti",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-danca": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Dança das Cabeças (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Dan%C3%A7a_das_cabe%C3%A7as",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-barbieri": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Gato Barbieri (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Gato_Barbieri",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-chapter-one": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Chapter One: Latin America (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Chapter_One:_Latin_America",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-piazzolla": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Astor Piazzolla (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Astor_Piazzolla",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-zero-hour": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Tango: Zero Hour (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Tango:_Zero_Hour",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-saluzzi": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Dino Saluzzi (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Dino_Saluzzi",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-kultrum": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Kultrum (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Kultrum",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-klein": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Guillermo Klein (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Guillermo_Klein",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-ibrahim": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Abdullah Ibrahim (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Abdullah_Ibrahim",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-mannenberg": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Mannenberg (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Mannenberg",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-mcgregor": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Chris McGregor (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Chris_McGregor",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-very-urgent": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Very Urgent (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Very_Urgent",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-blue-notes-mongezi": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Blue Notes for Mongezi (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Blue_Notes_for_Mongezi",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-mulatu": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Mulatu Astatke (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Mulatu_Astatke",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-ethiopiques": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Éthiopiques (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/%C3%89thiopiques",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-fela": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Fela Kuti (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Fela_Kuti",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-tony-allen": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Tony Allen (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Tony_Allen_(musician)",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-zombie": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Zombie (álbum) (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Zombie_(album)",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-harriott": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Joe Harriott (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Joe_Harriott",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-mayer": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "John Mayer (compositor) (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/John_Mayer_(composer)",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-abou-khalil": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Rabih Abou-Khalil (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Rabih_Abou-Khalil",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-blue-camel": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Blue Camel (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Blue_Camel",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-brahem": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Anouar Brahem (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Anouar_Brahem",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-thimar": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Thimar (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Thimar",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-abdul-malik": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Ahmed Abdul-Malik (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Ahmed_Abdul-Malik",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-jazz-sahara": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Jazz Sahara (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Jazz_Sahara",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-komeda": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Krzysztof Komeda (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Krzysztof_Komeda",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-astigmatic": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Astigmatic (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Astigmatic_(album)",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-stanko": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Tomasz Stańko (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Tomasz_Sta%C5%84ko",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-johansson": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Jan Johansson (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Jan_Johansson_(jazz_musician)",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-jazz-pa-svenska": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Jazz på svenska (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Jazz_p%C3%A5_svenska",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-est": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Esbjörn Svensson Trio (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Esbj%C3%B6rn_Svensson_Trio",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-svensson": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Esbjörn Svensson (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Esbj%C3%B6rn_Svensson",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-seven-days": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Seven Days of Falling (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Seven_Days_of_Falling",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-molvaer": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Nils Petter Molvær (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Nils_Petter_Molv%C3%A6r",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-khmer": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Khmer (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Khmer_(album)",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-szabo": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Jazz Raga (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Jazz_Raga",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "gioia-africa1": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "Ted Gioia, \"50 Essential African Albums (Part 1 of 3)\" (The Honest Broker)",
+    "url": "https://www.honest-broker.com/p/50-essential-african-albums-part",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "gioia-hermeto-85": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "Ted Gioia, \"The Most Musical Man in the World Turns 85\" (The Honest Broker)",
+    "url": "https://www.honest-broker.com/p/the-most-musical-man-in-the-world",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "gioia-hermeto-rip": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "Ted Gioia, \"\"The Most Musical Man in the World\" (2025)\" (The Honest Broker)",
+    "url": "https://www.honest-broker.com/p/the-most-musical-man-in-the-world-5c7",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "iverson-clave": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "Ethan Iverson, \"A 'New' (meaning 'Old') Approach to Jazz Education\" (Do the Math)",
+    "url": "https://ethaniverson.com/a-new-meaning-old-approach-to-jazz-education/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "iverson-riley": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "Ethan Iverson, \"A Little Left Hand from Ben Riley\" (Do the Math)",
+    "url": "https://ethaniverson.com/a-little-left-hand-from-ben-riley/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "cumming": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "Ethan Iverson, entrevista con el productor John Cumming (Do the Math)",
+    "url": "https://ethaniverson.com/interview-with-john-cumming/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "db-corea-bf": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "DownBeat, Blindfold Test \"perdido\" de Chick Corea (2021)",
+    "url": "https://downbeat.com/news/detail/blindfold-test-chick-corea",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "db-oconnell": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "DownBeat, Blindfold Test de Bill O'Connell (2023)",
+    "url": "https://downbeat.com/news/detail/blindfold-test-bill-oconnell",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "db-fire": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "DownBeat, \"Eddie Palmieri: Fire on the Clave\" (1994)",
+    "url": "https://downbeat.com/archives/detail/fire-on-the-clave",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "db-palmieri": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Frank Alkyer, DownBeat: \"Latin Jazz Pianist-Composer Eddie Palmieri, 1936–2025\"",
+    "url": "https://downbeat.com/news/detail/latin-jazz-pianist-composer-eddie-palmieri-19362025",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "db-zenon": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Frank Alkyer, DownBeat: reseña de Música de las Américas (2022)",
+    "url": "https://downbeat.com/reviews/detail/musica-de-las-americas",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "pg-zenon": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Jim Hynes, PostGenre: reseña de Vanguardia Subterránea (2025)",
+    "url": "https://postgenre.org/review-miguel-zenon-vanguardia-subterranea/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "pg-zenon-bolero": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Jim Hynes, PostGenre: reseña de El arte del bolero, vol. 3 (2026)",
+    "url": "https://postgenre.org/review-zenon-perdomo-bolero-3/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "jt-zenon": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "JazzTrail: reseña de Vanguardia Subterránea (2025)",
+    "url": "https://jazztrail.net/blog/tag/vanguardia+subterranea",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "db-klein": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "Michael J. West, DownBeat: \"Klein Pursues the Sound of Symmetry\" (2016)",
+    "url": "https://downbeat.com/news/detail/klein-pursues-the-sound-of-symmetry",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "npr-klein": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "Tom Vitale, NPR: \"Guillermo Klein and His Band of Devotees\" (2008)",
+    "url": "https://laist.com/news/npr-news/guillermo-klein-and-his-band-of-devotees",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "bj-tenorio": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Flávio Ribeiro de Castro, Brazil Journal: \"O triste fim (e o disco imperdível) de Tenório Jr.\" (2025)",
+    "url": "https://braziljournal.com/o-triste-fim-e-o-disco-imperdivel-de-tenorio-jr/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "tiempo-tenorio": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Tiempo Argentino: \"Antropología Forense identificó a Tenório Jr.\" (2025)",
+    "url": "https://www.tiempoar.com.ar/ta_article/antropologia-forense-identifico-tenorio-jr-pianista-brasileno-desaparecido-1976/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "bdf-tenorio": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Brasil de Fato: \"Quem era Tenorinho\" (2025)",
+    "url": "https://www.brasildefato.com.br/2025/09/14/quem-era-tenorinho-o-pianista-brasileiro-assassinado-pela-ditadura-argentina-e-identificado-50-anos-depois/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "db-amaro": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "Ted Panken, DownBeat: \"Amaro Freitas Explores His Brazilian Roots\" (2024)",
+    "url": "https://downbeat.com/news/detail/amaro-freitas-explores-his-brazilian-roots",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "qobuz-amaro": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Randall Roberts, Qobuz: reseña de Y'Y (2024)",
+    "url": "https://www.qobuz.com/au-en/magazine/story/2024/03/04/album-of-the-week-amaro-freitas/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "jt-makhathini": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "JazzTrail: reseña de The Myth We Choose (2026)",
+    "url": "https://jazztrail.net/blog/tag/the+myth+we+choose",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "aaj-makhathini": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "All About Jazz: reseña de The Myth We Choose (2026)",
+    "url": "https://www.allaboutjazz.com/the-myth-we-choose-nduduzo-makhathini-blue-note-records",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "db-mulatu": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Howard Mandel, DownBeat: reseña de Mulatu Plays Mulatu (2025)",
+    "url": "https://downbeat.com/reviews/detail/mulatu-plays-mulatu",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "artsdesk-mulatu": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "The Arts Desk: reseña de Mulatu Plays Mulatu (2025)",
+    "url": "https://www.theartsdesk.com/new-music/album-mulatu-astatke-mulatu-plays-mulatu",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "npr-yirga": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "Banning Eyre, NPR: \"Samuel Yirga: A Prodigy Reviving Ethiopian Jazz\" (2012)",
+    "url": "https://www.kunc.org/2012-11-21/samuel-yirga-a-prodigy-reviving-ethiopian-jazz",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "kb-yirga": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "kulturen in bewegung: gira de Samuel Yirga por Austria (2023)",
+    "url": "https://www.kultureninbewegung.org/en/single-view/samuel-yirga-2",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "rsa-seun": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Rolling Stone Africa: Seun Kuti y Heavier Yet (2024)",
+    "url": "https://rollingstoneafrica.com/music/music-news/seun-kuti-and-egypt-80-aim-to-spark-a-revolution-with-heavier-yet-lays-the-crownless-head/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "afropop-seun": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "Banning Eyre, Afropop Worldwide: \"Seun Kuti Gets Heavier Yet\" (2024)",
+    "url": "https://allafrica.com/stories/202410250006.html",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "rp-femi": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Lucas Keen, Rhythm Passport: reseña de Journey Through Life (2025)",
+    "url": "https://rhythmpassport.com/album-review-femi-kuti-journey-through-life/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "afrocritik-femi": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Emmanuel Okoro, Afrocritik: reseña de Journey Through Life (2025)",
+    "url": "https://afrocritik.com/femi-kuti-journey-through-life-review/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "ri-india": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "Sunil Sampat, Rolling Stone India: \"Jazz Corner: Whither 'Indian' Jazz?\" (2020)",
+    "url": "https://rollingstoneindia.com/jazz-corner-whither-indian-jazz/amp",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "ri-ncpa": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "Sunil Sampat, Rolling Stone India: el NCPA Jazz Festival 2025",
+    "url": "https://rollingstoneindia.com/ncpa-jazz-festival-2025-review-mike-stern-nicki-parrott",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "esq-india": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Esquire India: bares y restaurantes que mantienen vivo el jazz (2026)",
+    "url": "https://www.esquireindia.co.in/food-and-drinks/where-to-drink/the-restaurants-and-bars-keeping-jazz-alive-in-india",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "marl-dhafer": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Stephen Graham, Marlbank: reseña de Shiraz (2025)",
+    "url": "https://marlbank.net/2025/11/17/dhafer-youssef-shiraz-act/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "dhafer-site": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Sitio oficial de Dhafer Youssef: Shiraz",
+    "url": "https://dhaferyoussef.com/new-album-shiraz/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "pan-brahem": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Frédéric Cardin, PAN M 360: After the Last Sky, lo mejor de 2025",
+    "url": "https://panm360.com/en/?p=149729",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "brahem-site": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Sitio oficial de Anouar Brahem: biografía",
+    "url": "https://anouarbrahem.com/en/full-biography",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "ecm-eick": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Tyran Grillo, ECM Reviews: Lullaby (2025)",
+    "url": "https://ecmreviews.com/2025/07/22/mathias-eick-lullaby-ecm-2825/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "aaj-eick": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "All About Jazz: reseña de Lullaby (2025)",
+    "url": "https://www.allaboutjazz.com/lullaby-mathias-eick-ecm-records",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "was-homage": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Sitio del Marcin Wasilewski Trio: Homage, con Joe Lovano (2025)",
+    "url": "https://www.marcinwasilewskitrio.com/en/news/2025/05/27-joelovano-marcinwasilewskitrio-homage-album",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "ecmr-was": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Tyran Grillo, ECM Reviews: Homage (2025)",
+    "url": "https://ecmreviews.com/tag/marcin-wasilewski/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "critica-getz-gilberto": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "JazzTimes sobre Getz/Gilberto, citado en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Getz/Gilberto",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "critica-chapter-one": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "Robert Christgau y AllMusic sobre Chapter One, citados en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Chapter_One:_Latin_America",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "critica-very-urgent": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "John Fordham (The Guardian) y All About Jazz sobre Very Urgent, citados en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Very_Urgent",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "critica-blue-camel": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "Kurt Keefner (AllMusic) sobre Blue Camel, citado en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Blue_Camel",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "critica-astigmatic": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "The Penguin Guide y Stuart Nicholson sobre Astigmatic, citados en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Astigmatic_(album)",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "critica-zombie": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "Robert Christgau sobre Zombie, citado en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Zombie_(album)",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "critica-habana": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "All About Jazz y AllMusic sobre Habana, citados en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Habana_(album)",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "critica-danca": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "Álvaro Neder (AllMusic) sobre Dança das Cabeças, citado en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Dan%C3%A7a_das_cabe%C3%A7as",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "critica-thimar": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "Raymond McKinney (AllMusic) sobre Thimar, citado en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Thimar",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "critica-sahara": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "Scott Yanow (AllMusic) sobre Jazz Sahara, citado en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Jazz_Sahara",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "critica-khmer": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "Christian Genzel (AllMusic) sobre Khmer, citado en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Khmer_(album)",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "critica-kultrum": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "Michael G. Nastos (AllMusic) sobre Kultrum, citado en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Kultrum",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "critica-coisas": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "The New York Times y Ben Ratliff sobre Coisas, citados en Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Coisas",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "wp-pozo": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Chano Pozo (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Chano_Pozo",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
   }
 }

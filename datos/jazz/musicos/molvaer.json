@@ -1,0 +1,49 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "regiones": [
+    "nordicos"
+  ],
+  "spotify": null,
+  "id": "molvaer",
+  "nombre": "Nils Petter Molvær",
+  "nacimiento": {
+    "anio": 1960,
+    "lugar": "Langevåg, Noruega"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "trompeta",
+    "producción"
+  ],
+  "corrientes": [
+    "mundo",
+    "ecm"
+  ],
+  "resumen": "Trompetista noruego considerado pionero del future jazz, que mezcla el jazz con la electrónica. Antes tocó en Masqualero con Arild Andersen y Jon Christensen.[^wp-molvaer]",
+  "epocas": [
+    {
+      "titulo": "Khmer",
+      "desde": 1996,
+      "hasta": 1998,
+      "texto": "Su disco para ECM se volvió su mayor éxito.[^wp-molvaer]",
+      "discoClave": {
+        "disco": "khmer",
+        "explicacion": "El disco más raro de ECM, según AllMusic."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-molvaer"
+  ],
+  "respaldo": [
+    {
+      "fuente": "critica-khmer",
+      "acceso": "indirecta",
+      "aporta": "Christian Genzel destaca su mezcla de jazz y electrónica."
+    }
+  ]
+}

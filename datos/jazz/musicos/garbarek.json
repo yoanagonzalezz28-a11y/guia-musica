@@ -3,7 +3,9 @@
     "estado": "borrador",
     "gioia": "pendiente"
   },
-  "regiones": [],
+  "regiones": [
+    "nordicos"
+  ],
   "spotify": "https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym",
   "id": "garbarek",
   "nombre": "Jan Garbarek",

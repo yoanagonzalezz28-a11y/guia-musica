@@ -1,0 +1,105 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "discrepancias": [],
+  "regiones": [
+    "cuba"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": "SR-52006",
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1BHUIrORQwywRkl5cjapQz",
+    "tituloEnSpotify": "Kenya"
+  },
+  "id": "kenya",
+  "titulo": "Kenya",
+  "credito": "Machito and His Afro-Cuban Orchestra",
+  "lideres": [
+    "machito"
+  ],
+  "grabacion": {
+    "desde": 1957,
+    "hasta": 1957,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1958,
+    "detalle": null
+  },
+  "sello": "Roulette",
+  "musicos": [
+    {
+      "musico": "machito",
+      "nombre": "Machito",
+      "instrumento": "dirección y maracas"
+    },
+    {
+      "musico": "adderley",
+      "nombre": "Cannonball Adderley",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Newman",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Doc Cheatham",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Eddie Bert",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Ray Santos",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Cándido Camero",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Carlos \"Patato\" Valdés",
+      "instrumento": "percusión"
+    }
+  ],
+  "personalNota": "Lista parcial: la sección de percusión era de siete músicos.",
+  "corrientes": [
+    "latino"
+  ],
+  "redescubrimiento": {
+    "motivo": "Machito y Mario Bauzá armaron el jazz afrocubano en Nueva York antes de que Gillespie lo hiciera famoso, pero sus discos suelen quedar a la sombra. Medio siglo después de su edición, Kenya entró en la lista de 1001 discos de Robert Dimery."
+  },
+  "comentario": [
+    "La orquesta de Machito, con Bauzá como director musical, invita a solistas de jazz como Cannonball Adderley y Joe Newman. Casi todos los temas son originales; la única versión es \"Tin Tin Deo\", de Chano Pozo. Una sección de percusión de siete músicos sostiene todo. Es la mejor manera de escuchar la idea de Bauzá: armonía y solos de jazz sobre la clave cubana."
+  ],
+  "ids": {
+    "musicbrainz": "2b5535ee-adbe-33a5-8986-74eace9dd169",
+    "discogsMaster": "409551",
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-machito",
+      "acceso": "completa",
+      "aporta": "Detalla el personal y su permanencia: medio siglo después lo incluyó Robert Dimery en su libro de 1001 discos."
+    },
+    {
+      "fuente": "db-corea-bf",
+      "acceso": "completa",
+      "aporta": "Chick Corea recuerda cómo iba del Birdland al Palladium a escuchar a Tito Puente: \"Machito used to work there, too\"."
+    }
+  ]
+}
