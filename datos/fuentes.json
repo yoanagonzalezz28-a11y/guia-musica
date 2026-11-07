@@ -695,5 +695,213 @@
     "url": "https://www.bluenote.com/harold-lopez-nussa-returns-with-nueva-timba/",
     "consultada": "2026-11-06",
     "estado": "consultada"
+  },
+  "giddins-koko": {
+    "tipo": "web",
+    "nivel": "guia-critica",
+    "titulo": "Gary Giddins y Phil Schaap en NPR: The Story Of Charlie Parker's \"Ko Ko\"",
+    "url": "https://www.npr.org/2000/08/27/1081208/-i-ko-ko-i",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "npr-tres": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "NPR Fresh Air: Max Roach, Red Rodney y Jackie McLean sobre Charlie Parker",
+    "url": "https://www.npr.org/2020/08/28/906689208/3-jazz-greats-reflect-on-charlie-parkers-enduring-influence",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "npr-roach": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "NPR Fresh Air: entrevista a Max Roach (1987)",
+    "url": "https://www.npr.org/2017/08/31/547305328/celebrating-30-years-of-fresh-air-drummer-and-composer-max-roach",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "db-blakey": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "DownBeat, \"Art Blakey, the Mightiest Mentor\", con Reggie Workman, Brian Lynch y Billy Pierce",
+    "url": "https://downbeat.com/news/detail/art-blakey-the-mightiest-mentor/P1",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "iverson-shorter": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "Ethan Iverson, \"Interview with Wayne Shorter\" (Do the Math)",
+    "url": "https://ethaniverson.com/interview-with-wayne-shorter/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "iverson-harrell": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "Ethan Iverson, \"Interview with Tom Harrell\" (Do the Math)",
+    "url": "https://ethaniverson.com/interview-with-tom-harrell/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "iverson-person": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "Ethan Iverson, \"Interview with Houston Person\" (Do the Math)",
+    "url": "https://ethaniverson.com/interview-with-houston-person/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "iverson-eisenman": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "Ethan Iverson, \"Interview with Jed Eisenman\" (Do the Math)",
+    "url": "https://ethaniverson.com/interviews/interview-with-jed-eisenman/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "iverson-nec": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "Ethan Iverson, \"Teaching Tradition, Innovation, and Practicality\" (Do the Math)",
+    "url": "https://ethaniverson.com/teaching-tradition-innovation/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "stryker-saxes": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "Mark Stryker con Ethan Iverson, \"Mark Stryker and the Saxes\" (Do the Math)",
+    "url": "https://ethaniverson.com/mark-stryker-and-the-saxes/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "db-rollins": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "Nat Hentoff, DownBeat (28 de noviembre de 1956): entrevista a Sonny Rollins",
+    "url": "https://downbeat.com/microsites/prestige/sonny-interview.html",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "npr-rollins-90": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "NPR Fresh Air: 90 años de Sonny Rollins, con Kevin Whitehead y entrevista a Rollins",
+    "url": "https://www.npr.org/2020/09/07/909598297/fresh-air-celebrates-the-90th-birthday-of-jazz-improviser-sonny-rollins",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "jw-rollins": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "JazzWax, entrevista a Sonny Rollins, parte 2 (2009)",
+    "url": "https://www.jazzwax.com/2009/10/interview-sonny-rollins-part-2.html",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "nea-paquito": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "NEA Jazz Masters: Paquito D'Rivera",
+    "url": "https://www.arts.gov/honors/jazz/paquito-drivera",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "montevideo-fattoruso": {
+    "tipo": "web",
+    "nivel": "musico",
+    "titulo": "Montevideo Portal: entrevista a Hugo Fattoruso por sus 80 años",
+    "url": "https://www.montevideo.com.uy/Noticias/Fattoruso-celebra-sus-80--No-soy-un-musico-virtuoso-estoy-estudiando-y-tengo-facilidad--uc856960",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "npr-solos": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "Tom Moon y Patrick Jarenwattananon, NPR: 75 grandes solos de Blue Note",
+    "url": "https://www.npr.org/sections/ablogsupreme/2014/05/28/316713372/take-75-great-solos-in-blue-note-records-history",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "npr-silver": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "Kevin Whitehead, NPR: Remembering Horace Silver",
+    "url": "https://www.npr.org/transcripts/323950913",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "npr-weinsist": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "Kevin Whitehead, NPR: We Insist! en su reedición (2022)",
+    "url": "https://www.npr.org/2022/05/20/1100346975/max-roachs-1960-landmark-we-insist-proves-timeless-in-a-reissue",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "npr-remember": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "NPR Fresh Air: Remembering Sonny Rollins (2026), con Kevin Whitehead",
+    "url": "https://www.npr.org/2026/05/29/nx-s1-5837306/remembering-sonny-rollins",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "db-donaldson": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "DownBeat: In Memoriam, Lou Donaldson (2024)",
+    "url": "https://downbeat.com/news/detail/in-memoriam-lou-donaldson-1926-2024",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "ljn-chucho": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "Latin Jazz Network: perfil de Chucho Valdés",
+    "url": "https://latinjazznet.com/artist-profiles/artist-profile-chucho-valdes/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "ljn-ofarrill": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "Latin Jazz Network: Chico O'Farrill, arquitecto del jazz latino",
+    "url": "https://latinjazznet.com/featured/chico-o-farrill-arquitecto-del-jazz-latino/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "jt-solos": {
+    "tipo": "web",
+    "nivel": "especialista",
+    "titulo": "JazzTimes: 40 improvisaciones esenciales",
+    "url": "https://www.jazztimes.com/features/40-essential-solos/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "biagiola-hayes": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Mariano Biagiola, \"Escuchame una cosita\" n.º 53 (2024)",
+    "url": "https://marianobiagiola.substack.com/p/escuchame-una-cosita-53",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "yoko-fukui": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Yokogao: The legacy of Japanese jazz icon Ryo Fukui",
+    "url": "https://www.yokogaomag.com/editorial/ryo-fukui-legacy",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
+  },
+  "bn-brooks": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Blue Note: biografía de Tina Brooks",
+    "url": "https://www.bluenote.com/artist/tina-brooks/",
+    "consultada": "2026-11-06",
+    "estado": "consultada"
   }
 }

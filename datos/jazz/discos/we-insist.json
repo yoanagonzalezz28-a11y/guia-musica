@@ -100,6 +100,11 @@
       "fuente": "loc-registro",
       "acceso": "extracto",
       "aporta": "Integra el registro de preservación de la Biblioteca del Congreso."
+    },
+    {
+      "fuente": "npr-weinsist",
+      "acceso": "completa",
+      "aporta": "Kevin Whitehead: hoy es un clásico, pero al salir recibió críticas de quienes creían que el jazz debía mantenerse lejos de la política."
     }
   ]
 }
