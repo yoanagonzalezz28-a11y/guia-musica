@@ -1,10 +1,20 @@
 {
   "id": "jazz",
   "nombre": "Jazz",
-  "intro": "Corrientes, músicos, discos y regiones del jazz, conectados entre sí. Es una versión de prueba que se va ampliando por etapas.",
+  "intro": "Corrientes, músicos, discos y regiones del jazz, conectados entre sí. Se amplía todo el tiempo.",
   "rangoLinea": [
     1905,
     2026
   ],
-  "regionesPlanificadas": []
+  "regionesPlanificadas": [],
+  "caminoParalelas": [
+    "manouche",
+    "latino",
+    "rioplat",
+    "souljazz",
+    "brasil",
+    "mundo",
+    "ecm",
+    "acid"
+  ]
 }

@@ -247,10 +247,12 @@ const grillaDeTapas = ctx => `<div class="grilla-tapas">${porDecada(g.corrientes
 // ---------- Tu camino: la línea completa, de Orígenes a hoy ----------
 // Sale gris desde el servidor; sitio.js la colorea con las marcas guardadas en el navegador.
 const totalDeEpoca = c => g.discos.filter(d => d.corrientes.includes(c.id)).length + c.musicos.filter(id => g.por.musico.has(id)).length;
-const metroInicial = ctx => `<ol class="metro-linea">${ORDEN.map(c => `<li class="parada sin-empezar" data-parada="${c.id}" style="${tintaVars(c)};--p:0">
+// Una sola línea fina y continua; las épocas paralelas (genero.json → caminoParalelas) van apenas desplazadas.
+const paralelas = new Set(g.caminoParalelas || []);
+const metroInicial = ctx => `<ol class="metro-linea">${ORDEN.map(c => `<li class="parada sin-empezar${paralelas.has(c.id) ? ' paralela' : ''}" data-parada="${c.id}" style="${tintaVars(c)};--p:0">
   <span class="parada-punto" aria-hidden="true"></span>
-  <div><a class="parada-nombre" href="${ctx.a(URL.corriente(c.id))}">${esc(c.nombre)}</a>
-  <span class="parada-datos dato"><span class="parada-anios">${c.periodo.desde}–${finEpoca(c)}</span> · <span data-parada-cuenta>0 de ${totalDeEpoca(c)}</span><span data-parada-fecha></span></span></div></li>`).join('')}</ol>
+  <a class="parada-nombre" href="${ctx.a(URL.corriente(c.id))}">${esc(c.nombre)}</a>
+  <span class="parada-datos"><span class="parada-anios">${c.periodo.desde}–${finEpoca(c)}</span> · <span data-parada-cuenta>0 de ${totalDeEpoca(c)}</span><span data-parada-fecha></span></span></li>`).join('')}</ol>
   <div class="metro-elegir" data-metro-elegir hidden></div>`;
 
 // ---------- Comparación de dos corrientes ----------

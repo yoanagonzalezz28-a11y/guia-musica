@@ -129,37 +129,31 @@ main { max-width: var(--ancho); margin: 0 auto; padding: 0 var(--gutter) 72px; }
 .sticker.completa::after { content: "✓"; }
 .tapa .sticker { top: auto; bottom: 10px; }
 
-/* ---------- Tu camino: una línea de metro ---------- */
-.camino { margin-top: clamp(56px, 9vw, 104px); padding-top: 16px; border-top: 1px solid var(--tinta); }
-.camino h2 { font: 400 clamp(3rem, 12vw, 5.5rem)/.9 var(--display); text-transform: uppercase; }
-.metro { position: relative; margin: 28px 0 0; padding-left: 4px; }
-.metro-linea { position: relative; display: grid; gap: 0; }
-.parada { position: relative; display: grid; grid-template-columns: 40px 1fr; gap: 14px; padding-bottom: 26px; }
-.parada::before { content: ""; position: absolute; left: 19px; top: 20px; bottom: -6px; width: 2px; background: var(--rojo); }
-.parada:last-child::before { display: none; }
-.parada-punto { position: relative; z-index: 1; width: 40px; height: 40px; border-radius: 50%; display: grid; place-items: center; background: var(--papel);
-  border: 3px solid var(--tinta-c); box-shadow: 0 0 0 4px var(--papel); }
-.parada-punto::before { content: ""; position: absolute; inset: 4px; border-radius: 50%; background: conic-gradient(var(--tinta-c) calc(var(--p, 0) * 1%), transparent 0); }
-.parada.completa .parada-punto { background: var(--tinta-c); }
-.parada.completa .parada-punto::after { content: "✓"; position: relative; color: var(--tinta-c-texto); font: 900 1.125rem/1 var(--sans); }
-.parada-nombre { display: block; font: 400 clamp(1.75rem, 6vw, 2.5rem)/.9 var(--display); text-transform: uppercase; color: var(--tinta-c-fg); text-decoration: none; }
-.parada-datos { display: block; margin-top: 4px; color: var(--gris); }
-.ramas { position: relative; display: grid; gap: 10px; margin: 2px 0 0 18px; padding: 6px 0 4px 34px; border-left: 2px dashed var(--rojo); }
-.rama { position: relative; display: grid; grid-template-columns: 26px 1fr; gap: 10px; align-items: center; }
-.rama::before { content: ""; position: absolute; left: -34px; top: 13px; width: 30px; border-top: 2px dashed var(--rojo); }
-.rama-punto { width: 26px; height: 26px; border-radius: 50%; border: 2px dashed var(--tinta-c-fg); background: var(--papel); }
-.rama a { font: 400 1.5rem/.95 var(--display); text-transform: uppercase; color: var(--tinta-c-fg); text-decoration: none; }
-.rama .dato { color: var(--gris); }
-.metro-elegir { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-top: 18px; }
-.metro-elegir select { padding: 8px; font: 400 .9375rem var(--sans); color: var(--tinta); background: var(--papel); border: 1px solid var(--tinta); }
-.metro-vacio { max-width: 52ch; }
-/* La línea completa: las paradas sin empezar quedan en gris, y la cuenta y la fecha van debajo del nombre. */
-.metro-linea .parada { padding-bottom: 16px; }
-.metro-linea .parada-nombre { font-size: clamp(1.5rem, 5vw, 2rem); }
-.parada.sin-empezar .parada-nombre { color: var(--gris); }
+/* ---------- Tu camino: una línea fina con puntos, como la de hitos ---------- */
+/* Una sola línea continua de Orígenes a hoy. Las épocas paralelas van apenas desplazadas, con un trazo corto que las une. */
+.camino { margin-top: clamp(40px, 6vw, 72px); padding-top: 12px; border-top: 1px solid var(--linea); }
+.camino h2 { font: 800 .875rem/1.3 var(--sans); font-stretch: 75%; text-transform: uppercase; letter-spacing: .1em; }
+.camino .ayuda { font-size: .8125rem; margin: 2px 0 10px; }
+.metro { margin: 0; max-width: 40rem; }
+.metro-linea { position: relative; display: grid; gap: 0; padding-left: 34px; }
+.metro-linea::before { content: ""; position: absolute; left: 6px; top: 10px; bottom: 10px; width: 1px; background: var(--tinta); }
+.parada { position: relative; display: flex; flex-wrap: wrap; align-items: baseline; column-gap: 8px; padding: 3px 0; min-height: 20px; font-size: .875rem; line-height: 1.35; }
+.parada-punto { position: absolute; left: -34px; top: 5px; width: 13px; height: 13px; border-radius: 50%; box-sizing: border-box;
+  background: var(--papel); border: 1px solid var(--tinta-c-fg); display: grid; place-items: center; }
 .parada.sin-empezar .parada-punto { border-color: var(--gris); }
-.parada-anios { color: var(--gris); }
-@media (min-width: 900px) { .metro-linea { grid-template-columns: repeat(2, minmax(0, 1fr)); grid-auto-flow: column; grid-template-rows: repeat(9, auto); column-gap: 48px; } .metro-linea .parada:nth-child(9)::before { display: none; } }
+.parada:not(.sin-empezar):not(.completa) .parada-punto { background: linear-gradient(90deg, var(--tinta-c) 50%, var(--papel) 50%); }
+.parada.completa .parada-punto { background: var(--tinta-c); border-color: var(--tinta-c); }
+.parada.completa .parada-punto::after { content: "✓"; color: var(--tinta-c-texto); font: 900 .5625rem/1 var(--sans); }
+.parada.paralela { margin-left: 14px; }
+
+.parada.paralela::before { content: ""; position: absolute; left: -42px; top: 11px; width: 8px; height: 1px; background: var(--linea); }
+.parada-nombre { font-weight: 600; color: var(--tinta-c-fg); text-decoration: none; }
+.parada-nombre:hover { text-decoration: underline; }
+.parada.sin-empezar .parada-nombre { color: var(--tinta); font-weight: 400; }
+.parada-datos { color: var(--gris); font-size: .75rem; }
+.metro-elegir { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-top: 12px; font-size: .8125rem; }
+.metro-elegir select { padding: 6px; font: 400 .8125rem var(--sans); color: var(--tinta); background: var(--papel); border: 1px solid var(--linea); }
+.metro-vacio { max-width: 52ch; }
 
 /* ---------- Para ver y escuchar, y la página Audiovisual ---------- */
 .ver-y-escuchar { display: grid; gap: 28px; }
