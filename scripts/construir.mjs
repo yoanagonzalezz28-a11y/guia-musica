@@ -288,7 +288,7 @@ function fuentesPlegadas(ctx, { respaldo = '', extra = [], cotejado = null } = {
   const gioia = cotejado ?? ctx.citas.includes('gioia');
   return `<details class="fuentes" id="fuentes"><summary>Fuentes (${total})</summary>
     ${items ? `<ol>${items}</ol>` : ''}${respaldo}${extra.map(x => x.html).join('')}
-    <p class="aviso-gioia">${gioia ? 'Texto propio, cotejado con <cite>Historia del jazz</cite>, de Ted Gioia.' : 'Texto propio, en borrador. Falta cotejarlo con <cite>Historia del jazz</cite>, de Ted Gioia.'} <a href="${ctx.a(URL.acerca())}">Sobre este banco</a>.</p></details>`;
+    <p class="aviso-gioia">${gioia ? 'Texto propio, cotejado con <cite>Historia del jazz</cite>, de Ted Gioia.' : 'Texto propio.'} <a href="${ctx.a(URL.acerca())}">Sobre este banco</a>.</p></details>`;
 }
 
 function pagina(ruta, ctx, { titulo, descripcion, cuerpo, seccion, claseCuerpo = '', scripts = [] }) {
@@ -310,7 +310,6 @@ function pagina(ruta, ctx, { titulo, descripcion, cuerpo, seccion, claseCuerpo =
 </head>
 <body class="${claseCuerpo}">
 <a class="saltar" href="#contenido">Saltar al contenido</a>
-<p class="aviso-prueba">Versión de prueba: los textos están en borrador.</p>
 <header class="cabecera">
   <a class="marca-sitio" href="${ctx.a(URL.jazz())}">Banco de <span>música</span></a>
   <nav aria-label="Principal"><ul>${nav.map(([t, u, s]) => `<li><a href="${ctx.a(u)}"${s === seccion ? ' aria-current="page"' : ''}>${t}</a></li>`).join('')}</ul></nav>
@@ -328,6 +327,7 @@ ${cuerpo}
 </main>
 <footer class="pie">
   <p>${SITIO}. Datos de <a href="https://musicbrainz.org" rel="noopener">MusicBrainz</a>, <a href="https://www.discogs.com" rel="noopener">Discogs</a>, <a href="https://www.wikipedia.org" rel="noopener">Wikipedia</a> y Spotify. Textos propios. <a href="${ctx.a(URL.acerca())}">Sobre este banco</a>.</p>
+  <p class="en-construccion">En construcción: se suman músicos, discos y enlaces todo el tiempo.</p>
 </footer>
 <script src="${ctx.a('recursos/indice.js')}"></script>
 <script src="${ctx.a('recursos/camino.js')}"></script>
@@ -399,7 +399,7 @@ const construir = {
         return `<li class="esencial"><span class="dato">${esc(d.credito)} · ${anioDisco(d)}</span><h3><a href="${ctx.a(URL.disco(d.id))}">${esc(d.titulo)}</a></h3><p>${ctx.texto(e.porque)}</p>${marcarDisco(d)}</li>`;
       }).join('')}</ol>`, 'Para empezar') : '',
       numerado(++n, `<ul class="lista-musicos">${c.musicos.filter(id => g.por.musico.has(id)).map(id => tarjetaMusico(ctx, id)).join('')}</ul>
-        ${c.musicosPendientes.length ? `<p class="pendientes"><strong>Fichas por escribir:</strong> ${esc(c.musicosPendientes.join(', '))}.</p>` : ''}`, 'Músicos'),
+        `, 'Músicos'),
       numerado(++n, `<p class="ayuda">${discos.length} discos. Marcá los que vas escuchando: tu camino se llena con ellos.</p><ul class="lista-discos">${discos.map(d => filaDisco(ctx, d)).join('')}</ul>`, 'Los discos'),
       bloqueVerYEscuchar(ctx, 'corriente', c.id, { numero: ++n }),
     ].filter(Boolean).join('');
@@ -467,7 +467,6 @@ const construir = {
       </header>
       <div class="lectura bloque"><p class="entrada">${ctx.texto(m.resumen)}</p>
       ${m.redescubrimiento ? `<p class="nota-datos"><strong>Por qué es un redescubrimiento.</strong> ${ctx.texto(m.redescubrimiento.motivo)}</p>` : ''}</div>
-      ${m.epocasPendientes?.length ? `<p class="pendientes lectura"><strong>Etapas por cargar:</strong> ${esc(m.epocasPendientes.join(', '))}.</p>` : ''}
       ${m.epocas.length ? `<section class="bloque" aria-label="Carrera por épocas"><h2>Su carrera</h2><div class="epocas">
         ${m.epocas.map(e => {
           const clave = g.por.disco.get(e.discoClave.disco);
@@ -571,7 +570,7 @@ const construir = {
             ${dato('Grabado', esc(grabado))}
             ${dato('Editado', esc(editado))}
             ${dato('Lugar', esc(d.lugar))}
-            ${dato('Época', d.corrientes.length ? unir(d.corrientes.map(x => enlaceCorriente(ctx, x))) : `${esc(d.corrientePendiente)} (por cargar)`)}
+            ${dato('Época', d.corrientes.length ? unir(d.corrientes.map(x => enlaceCorriente(ctx, x))) : esc(d.corrientePendiente))}
             ${d.regiones?.length ? dato('Región', unir(d.regiones.filter(x => g.por.region.has(x)).map(x => enlaceRegion(ctx, x)))) : ''}
           </dl></section>
         </div>
@@ -604,7 +603,7 @@ const construir = {
       ${r.sellos?.length ? `<section class="bloque"><h2>Sellos y lugares</h2><ul class="sellos">${r.sellos.map(s => `<li><strong>${esc(s.nombre)}</strong><span>${ctx.texto(s.texto)}</span></li>`).join('')}</ul></section>` : ''}
       ${r.escenaActual?.length ? `<section class="bloque"><h2>Escena actual</h2><p class="ayuda">Músicos activos hoy, con su última actividad que pudimos documentar.</p><ul class="escena">${r.escenaActual.map(e => `<li><div class="escena-cabeza"><strong>${esc(e.nombre)}</strong><span class="dato">${esc(e.instrumento)}${e.base ? ` · ${esc(e.base)}` : ''}</span></div><p>${ctx.texto(e.detalle)}</p><p class="respaldo-fuente">Última actividad documentada: ${e.ultimaActividad}. Fuentes: ${e.fuentes.map(f => `<a href="${esc(fuentes[f].url)}" rel="noopener">${esc(fuentes[f].titulo)}</a>`).join(' · ')}</p></li>`).join('')}</ul></section>` : ''}
       <section class="bloque"><h2>Músicos</h2>${r.musicos.length ? `<ul class="lista-musicos">${r.musicos.filter(id => g.por.musico.has(id)).map(id => tarjetaMusico(ctx, id)).join('')}</ul>` : ''}
-      ${r.figurasPendientes?.length ? `<p class="pendientes"><strong>Fichas por escribir:</strong> ${esc(r.figurasPendientes.join(', '))}.</p>` : ''}</section>
+</section>
       ${discos.length ? `<section class="bloque"><h2>Discos</h2><ul class="lista-discos">${discos.map(d => filaDisco(ctx, d)).join('')}</ul></section>` : ''}
       ${bloquePodcasts(ctx, 'region', r.id)}
       ${fuentesPlegadas(ctx)}`,

@@ -59,7 +59,7 @@ p { margin: 0 0 1em; }
 .ayuda { color: var(--gris); font-size: .9375rem; margin: 4px 0 14px; max-width: 62ch; }
 
 /* ---------- Cabecera ---------- */
-.aviso-prueba { margin: 0; padding: 4px var(--gutter); background: var(--rojo); color: var(--rojo-texto); font: 600 .6875rem/1.5 var(--sans); font-stretch: 62%; text-transform: uppercase; letter-spacing: .12em; }
+.en-construccion { margin-top: 6px; color: var(--gris); font-size: .875rem; }
 .cabecera { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 24px; padding: 14px var(--gutter); border-bottom: 1px solid var(--tinta); background: var(--papel); position: relative; z-index: 40; }
 .marca-sitio { font: 400 1.625rem/1 var(--display); text-transform: uppercase; letter-spacing: .04em; color: var(--tinta); text-decoration: none; }
 .marca-sitio span { color: var(--rojo); }
@@ -249,7 +249,6 @@ main { max-width: var(--ancho); margin: 0 auto; padding: 0 var(--gutter) 72px; }
 .tarjeta-musico a { display: grid; gap: 1px; text-decoration: none; min-width: 0; }
 .tarjeta-musico strong { font: 400 1.5rem/1 var(--display); text-transform: uppercase; letter-spacing: .01em; }
 .tarjeta-musico a > span { font-size: .8125rem; color: var(--gris); }
-.pendientes { font-size: .9375rem; color: var(--gris); margin-top: 14px; }
 .esenciales { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 240px), 1fr)); gap: 14px; }
 .esencial { display: grid; gap: 8px; align-content: start; padding: 16px; background: var(--papel-2); border-top: 6px solid var(--tinta-c); }
 .esencial h3 { font: 400 1.875rem/.95 var(--display); text-transform: uppercase; }
