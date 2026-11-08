@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Bohemia After Dark Kenny Clarke"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3KbkvTcjUYddhYy3C8X5Hi",
+    "tituloEnSpotify": "Bohemia After Dark",
+    "via": "api-spotify"
   },
   "id": "bohemia-after-dark",
   "titulo": "Bohemia After Dark",

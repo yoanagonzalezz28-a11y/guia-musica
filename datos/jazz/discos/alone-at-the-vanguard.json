@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Alone at the Vanguard Fred Hersch"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5eeSHIlJkI0bcgn2DdOnZa",
+    "tituloEnSpotify": "Alone at the Vanguard",
+    "via": "api-spotify"
   },
   "id": "alone-at-the-vanguard",
   "titulo": "Alone at the Vanguard",

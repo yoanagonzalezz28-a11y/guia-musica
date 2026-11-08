@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "El Arte del Sabor Bebo Valdés"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4LDZ6YuIEV1eJPyxNp5QNX",
+    "tituloEnSpotify": "El Arte del Sabor",
+    "via": "api-spotify"
   },
   "id": "el-arte-del-sabor",
   "titulo": "El Arte del Sabor",

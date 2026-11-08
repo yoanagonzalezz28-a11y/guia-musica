@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Duster Gary Burton"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7hA6gmViMYYoSpb8FxJsFf",
+    "tituloEnSpotify": "Duster",
+    "via": "api-spotify"
   },
   "id": "duster",
   "titulo": "Duster",

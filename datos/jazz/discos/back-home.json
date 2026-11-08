@@ -11,8 +11,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Back Home Melissa Aldana"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5CmzBbvCU7PLu0ue8pcazZ",
+    "tituloEnSpotify": "Back Home",
+    "via": "api-spotify"
   },
   "id": "back-home",
   "titulo": "Back Home",

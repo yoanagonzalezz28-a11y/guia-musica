@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Home Is Where the Music Is Hugh Masekela"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7qfqgYcxCsLhu2xIRWKOdD",
+    "tituloEnSpotify": "Home Is Where The Music Is",
+    "via": "api-spotify"
   },
   "id": "home-is-where-the-music-is",
   "titulo": "Home Is Where the Music Is",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Cuerpo y alma Eduardo Mateo"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5LigBf2htSs8LEH14NyNlc",
+    "tituloEnSpotify": "Cuerpo y Alma",
+    "via": "api-spotify"
   },
   "id": "cuerpo-y-alma",
   "titulo": "Cuerpo y alma",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Blues Blood Immanuel Wilkins"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/06soS30HJn1VxcuucuWydD",
+    "tituloEnSpotify": "Blues Blood",
+    "via": "api-spotify"
   },
   "id": "blues-blood",
   "titulo": "Blues Blood",

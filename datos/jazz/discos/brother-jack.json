@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Brother Jack Jack McDuff"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4AdBLXutQ2Tumd3kdyISXq",
+    "tituloEnSpotify": "Brother Jack",
+    "via": "api-spotify"
   },
   "id": "brother-jack",
   "titulo": "Brother Jack",

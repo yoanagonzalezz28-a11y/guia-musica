@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Dialogue Bobby Hutcherson"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5142jRc6IrvsI7F6V7tUy2",
+    "tituloEnSpotify": "Dialogue",
+    "via": "api-spotify"
   },
   "id": "dialogue",
   "titulo": "Dialogue",

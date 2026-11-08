@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Coryell Larry Coryell"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0JNgZR2gKZBcHE41xLD5BG",
+    "tituloEnSpotify": "Coryell",
+    "via": "api-spotify"
   },
   "id": "coryell",
   "titulo": "Coryell",

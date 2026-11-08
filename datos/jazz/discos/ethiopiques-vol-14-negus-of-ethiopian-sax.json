@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Éthiopiques, Vol. 14: Negus of Ethiopian Sax Getatchew Mekurya"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2cqmpOhJfwWvTAJzpbdgnl",
+    "tituloEnSpotify": "Ethiopiques, Vol. 14: Negus of Ethiopian Sax",
+    "via": "api-spotify"
   },
   "id": "ethiopiques-vol-14-negus-of-ethiopian-sax",
   "titulo": "Éthiopiques, Vol. 14: Negus of Ethiopian Sax",

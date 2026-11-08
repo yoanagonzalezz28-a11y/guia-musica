@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Alligator Bogaloo Lou Donaldson"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4XBcW9JiDXOxXb9sfI1CiX",
+    "tituloEnSpotify": "Alligator Bogaloo",
+    "via": "api-spotify"
   },
   "id": "alligator-bogaloo",
   "titulo": "Alligator Bogaloo",

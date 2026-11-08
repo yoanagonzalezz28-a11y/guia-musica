@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Fontessa Modern Jazz Quartet"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4ceTTa0JKnKsppT43oe8dc",
+    "tituloEnSpotify": "Fontessa",
+    "via": "api-spotify"
   },
   "id": "fontessa",
   "titulo": "Fontessa",

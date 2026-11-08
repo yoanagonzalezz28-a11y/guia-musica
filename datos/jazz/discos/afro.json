@@ -97,8 +97,10 @@
     "Gillespie trabaja con muchos músicos cubanos. En la primera parte, una big band toca arreglos de Chico O'Farrill, entre ellos una versión de \"Manteca\". En la segunda, un grupo chico con base rítmica latina toca temas como \"A Night in Tunisia\" y \"Con Alma\"."
   ],
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Afro Dizzy Gillespie"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0trcpUrMlHBGmOHvIvVGYF",
+    "tituloEnSpotify": "Afro",
+    "via": "api-spotify"
   },
   "ids": {
     "musicbrainz": "30c0d7cb-789f-3e21-a07c-eba2de2d03ac",

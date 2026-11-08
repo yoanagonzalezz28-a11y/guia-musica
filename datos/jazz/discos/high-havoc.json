@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "High Havoc Corduroy"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6xgXGbhqrLTkHeI3A3OUt2",
+    "tituloEnSpotify": "High Havoc",
+    "via": "api-spotify"
   },
   "id": "high-havoc",
   "titulo": "High Havoc",

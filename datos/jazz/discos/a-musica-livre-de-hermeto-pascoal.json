@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "A Música Livre de Hermeto Pascoal Hermeto Pascoal"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4LAGROgqIcMFAAEKb3iUT5",
+    "tituloEnSpotify": "A Música Livre De Hermeto Pascoal",
+    "via": "api-spotify"
   },
   "id": "a-musica-livre-de-hermeto-pascoal",
   "titulo": "A Música Livre de Hermeto Pascoal",

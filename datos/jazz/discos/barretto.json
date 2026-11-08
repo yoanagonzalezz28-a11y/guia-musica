@@ -14,8 +14,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Barretto Ray Barretto"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0NB4niAUw3wEKOOkobsPTF",
+    "tituloEnSpotify": "Barretto (Remastered 2025)",
+    "via": "api-spotify"
   },
   "id": "barretto",
   "titulo": "Barretto",

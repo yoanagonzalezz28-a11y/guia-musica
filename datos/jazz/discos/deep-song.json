@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Deep Song Kurt Rosenwinkel"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/61ABrp2sjUlG2QhJr0LaZ8",
+    "tituloEnSpotify": "Deep Song",
+    "via": "api-spotify"
   },
   "id": "deep-song",
   "titulo": "Deep Song",

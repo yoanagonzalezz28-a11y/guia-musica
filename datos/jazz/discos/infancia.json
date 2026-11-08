@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Infância Egberto Gismonti"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4KZiNPnju3kNbSj1cUWL1v",
+    "tituloEnSpotify": "Infância",
+    "via": "api-spotify"
   },
   "id": "infancia",
   "titulo": "Infância",

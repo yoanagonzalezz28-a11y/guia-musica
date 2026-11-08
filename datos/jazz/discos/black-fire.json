@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Black Fire Andrew Hill"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5eTLd8qlHh0QHW6IF7Bi3J",
+    "tituloEnSpotify": "Black Fire",
+    "via": "api-spotify"
   },
   "id": "black-fire",
   "titulo": "Black Fire",

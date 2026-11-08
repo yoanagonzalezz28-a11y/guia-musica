@@ -60,8 +60,10 @@
     "Con Irakere, Cuba deja de ser solo una fuente de ritmos para el jazz de Nueva York y pasa a hablar con voz propia. Tambores rituales como los batá conviven con vientos virtuosos. Este disco en vivo le dio al grupo un Grammy y proyección internacional."
   ],
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Irakere 1979"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2LVi8aaFt3oL0213Vz7QXa",
+    "tituloEnSpotify": "Irakere en Vivo",
+    "via": "api-spotify"
   },
   "ids": {
     "musicbrainz": null,

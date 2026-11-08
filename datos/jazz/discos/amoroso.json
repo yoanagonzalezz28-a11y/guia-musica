@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Amoroso João Gilberto"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH",
+    "tituloEnSpotify": "Amoroso",
+    "via": "api-spotify"
   },
   "id": "amoroso",
   "titulo": "Amoroso",

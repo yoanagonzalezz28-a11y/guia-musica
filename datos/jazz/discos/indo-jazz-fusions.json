@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Indo-Jazz Fusions Joe Harriott"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/01DMagkqAEvBWTmIkdn619",
+    "tituloEnSpotify": "Indo Jazz Fusions",
+    "via": "api-spotify"
   },
   "id": "indo-jazz-fusions",
   "titulo": "Indo-Jazz Fusions",

@@ -11,8 +11,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Alors ?... Voilà ! Tchavolo Schmitt"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5HISZ8MGWh2AYll9KimCoq",
+    "tituloEnSpotify": "Alors ? … voilà !",
+    "via": "api-spotify"
   },
   "id": "alors-voila",
   "titulo": "Alors ?... Voilà !",

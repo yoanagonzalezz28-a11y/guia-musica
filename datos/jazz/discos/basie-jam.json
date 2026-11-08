@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Basie Jam Count Basie"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0zMVZVhzYK0QBu1s48PLz9",
+    "tituloEnSpotify": "Basie Jam",
+    "via": "api-spotify"
   },
   "id": "basie-jam",
   "titulo": "Basie Jam",

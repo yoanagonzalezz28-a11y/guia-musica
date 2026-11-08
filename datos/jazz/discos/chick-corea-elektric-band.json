@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Chick Corea Elektric Band Chick Corea"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0DMn5J9IfbdhjTpmYyPstG",
+    "tituloEnSpotify": "The Chick Corea Elektric Band",
+    "via": "api-spotify"
   },
   "id": "chick-corea-elektric-band",
   "titulo": "Chick Corea Elektric Band",

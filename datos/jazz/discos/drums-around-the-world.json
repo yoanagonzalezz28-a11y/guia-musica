@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Drums Around the World Philly Joe Jones"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5ijYzG9bkgJCKeqXuKAXAG",
+    "tituloEnSpotify": "Drums Around The World",
+    "via": "api-spotify"
   },
   "id": "drums-around-the-world",
   "titulo": "Drums Around the World",

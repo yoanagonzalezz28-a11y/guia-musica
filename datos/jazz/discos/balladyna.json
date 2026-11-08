@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Balladyna Tomasz Stańko"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6kA1f6X1LuBHzrFvTgjElg",
+    "tituloEnSpotify": "Balladyna",
+    "via": "api-spotify"
   },
   "id": "balladyna",
   "titulo": "Balladyna",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Brian Blade Fellowship Brian Blade"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4zR22xnwshsV7Muly7KDLl",
+    "tituloEnSpotify": "Brian Blade Fellowship",
+    "via": "api-spotify"
   },
   "id": "brian-blade-fellowship",
   "titulo": "Brian Blade Fellowship",

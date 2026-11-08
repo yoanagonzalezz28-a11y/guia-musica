@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Anything But Grey Palle Mikkelborg"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/050UV2ogLh4kipN8eAk48O",
+    "tituloEnSpotify": "Anything But Grey",
+    "via": "api-spotify"
   },
   "id": "anything-but-grey",
   "titulo": "Anything But Grey",

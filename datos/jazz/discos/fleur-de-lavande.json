@@ -11,8 +11,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Fleur de Lavande Fapy Lafertin"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/41Zi8OA7eFM4uADtY2Qk73",
+    "tituloEnSpotify": "Fleur de Lavande",
+    "via": "api-spotify"
   },
   "id": "fleur-de-lavande",
   "titulo": "Fleur de Lavande",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Duologue Alfredo Rodríguez"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0mx69uTzexLrWTxdA5zcTF",
+    "tituloEnSpotify": "Duologue",
+    "via": "api-spotify"
   },
   "id": "duologue",
   "titulo": "Duologue",

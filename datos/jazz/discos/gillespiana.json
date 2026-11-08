@@ -14,8 +14,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Gillespiana Dizzy Gillespie"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6qXy7Tzp469JYe1thOBOfR",
+    "tituloEnSpotify": "Gillespiana",
+    "via": "api-spotify"
   },
   "id": "gillespiana",
   "titulo": "Gillespiana",

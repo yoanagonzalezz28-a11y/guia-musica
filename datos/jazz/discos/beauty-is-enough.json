@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Beauty Is Enough Ambrose Akinmusire"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5DUDhwICpKGvnG6BZTCTcW",
+    "tituloEnSpotify": "Beauty is Enough",
+    "via": "api-spotify"
   },
   "id": "beauty-is-enough",
   "titulo": "Beauty Is Enough",

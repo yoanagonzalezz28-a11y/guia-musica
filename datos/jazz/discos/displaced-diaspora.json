@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Displaced Diaspora Moses Boyd"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4WWRlmtebEZnZ1S1sTArzF",
+    "tituloEnSpotify": "Displaced Diaspora",
+    "via": "api-spotify"
   },
   "id": "displaced-diaspora",
   "titulo": "Displaced Diaspora",

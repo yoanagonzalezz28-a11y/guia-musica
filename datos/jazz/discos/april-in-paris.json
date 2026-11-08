@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "April in Paris Count Basie"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1gDs61sxoI4By9TKxe8Y0k",
+    "tituloEnSpotify": "April In Paris (Expanded Edition)",
+    "via": "api-spotify"
   },
   "id": "april-in-paris",
   "titulo": "April in Paris",

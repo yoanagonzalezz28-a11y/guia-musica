@@ -11,8 +11,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Boulevard St Germain"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3z6aGZfwBF0obHrf3c5swg",
+    "tituloEnSpotify": "Boulevard (The Complete Series)",
+    "via": "api-spotify"
   },
   "id": "boulevard",
   "titulo": "Boulevard",

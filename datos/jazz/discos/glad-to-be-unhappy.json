@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Glad to Be Unhappy Paul Desmond"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2UAhO873vD6JXgrthqTcEG",
+    "tituloEnSpotify": "Glad To Be Unhappy",
+    "via": "api-spotify"
   },
   "id": "glad-to-be-unhappy",
   "titulo": "Glad to Be Unhappy",

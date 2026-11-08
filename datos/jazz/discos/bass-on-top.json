@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Bass on Top Paul Chambers"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4wKkVSHqJDGjSAOfULYoZf",
+    "tituloEnSpotify": "Bass On Top (Rudy Van Gelder Edition / Remastered 2007)",
+    "via": "api-spotify"
   },
   "id": "bass-on-top",
   "titulo": "Bass on Top",

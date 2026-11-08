@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Bluesnik Jackie McLean"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7CmJtFT51EZcUKhQg1s6pS",
+    "tituloEnSpotify": "Bluesnik",
+    "via": "api-spotify"
   },
   "id": "bluesnik",
   "titulo": "Bluesnik",

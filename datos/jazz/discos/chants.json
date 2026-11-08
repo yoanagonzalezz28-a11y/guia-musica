@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Chants Craig Taborn"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4gFdeuXg01hHXTU5OTcbWd",
+    "tituloEnSpotify": "Chants",
+    "via": "api-spotify"
   },
   "id": "chants",
   "titulo": "Chants",

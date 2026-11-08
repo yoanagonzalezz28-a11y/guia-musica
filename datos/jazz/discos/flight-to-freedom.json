@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Flight to Freedom Arturo Sandoval"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1ADoH1IJpSVyPsa638jbwO",
+    "tituloEnSpotify": "Flight To Freedom",
+    "via": "api-spotify"
   },
   "id": "flight-to-freedom",
   "titulo": "Flight to Freedom",

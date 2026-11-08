@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Infinite Search Miroslav Vitouš"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2F9hELPozxk6biUkQwVkyT",
+    "tituloEnSpotify": "Infinite Search",
+    "via": "api-spotify"
   },
   "id": "infinite-search",
   "titulo": "Infinite Search",

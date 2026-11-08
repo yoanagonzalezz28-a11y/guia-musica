@@ -69,8 +69,10 @@
     "Un trío uruguayo llega a Estados Unidos, lo descubre Airto Moreira y lo produce para Milestone. El resultado cruza fusión latina con la raíz rioplatense. Las críticas de la reedición son favorables pero no coinciden en todo: Jazzwise le dio cuatro estrellas y Songlines tres."
   ],
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Opa Goldenwings"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1RkSdeC3UNjhzz9SU51HNr",
+    "tituloEnSpotify": "Goldenwings",
+    "via": "api-spotify"
   },
   "ids": {
     "musicbrainz": "f8f185b8-821f-459d-a9e2-46c3dc944e44",

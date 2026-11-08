@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Hope Hugh Masekela"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6jUtNfFM8Dx50KTaQFwKtj",
+    "tituloEnSpotify": "Hope (Live)",
+    "via": "api-spotify"
   },
   "id": "hope",
   "titulo": "Hope",

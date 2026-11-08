@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "First Meeting Miroslav Vitouš"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3oUOl8AJAJfDAlnuPhUeav",
+    "tituloEnSpotify": "First Meeting",
+    "via": "api-spotify"
   },
   "id": "first-meeting",
   "titulo": "First Meeting",

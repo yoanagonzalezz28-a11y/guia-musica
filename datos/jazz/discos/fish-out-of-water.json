@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Fish Out of Water Charles Lloyd"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1zd6K7LZK1Km1kTYUYO62k",
+    "tituloEnSpotify": "Fish Out Of Water",
+    "via": "api-spotify"
   },
   "id": "fish-out-of-water",
   "titulo": "Fish Out of Water",

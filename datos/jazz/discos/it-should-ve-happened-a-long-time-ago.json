@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "It Should've Happened a Long Time Ago Paul Motian"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/24kr1KBohyzTQ9qzZKpjqm",
+    "tituloEnSpotify": "It Should've Happened A Long Time Ago",
+    "via": "api-spotify"
   },
   "id": "it-should-ve-happened-a-long-time-ago",
   "titulo": "It Should've Happened a Long Time Ago",

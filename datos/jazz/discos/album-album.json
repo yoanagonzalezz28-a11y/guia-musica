@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Album Album Jack DeJohnette"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0nNO0dD2Y53RYOdkxjPm5h",
+    "tituloEnSpotify": "Album Album",
+    "via": "api-spotify"
   },
   "id": "album-album",
   "titulo": "Album Album",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Gershwin for Lovers Marcus Roberts"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1fmizidXDzZpCFuQU8l5LG",
+    "tituloEnSpotify": "Gershwin For Lovers",
+    "via": "api-spotify"
   },
   "id": "gershwin-for-lovers",
   "titulo": "Gershwin for Lovers",

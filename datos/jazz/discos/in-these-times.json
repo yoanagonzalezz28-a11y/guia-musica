@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "In These Times Makaya McCraven"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0",
+    "tituloEnSpotify": "In These Times",
+    "via": "api-spotify"
   },
   "id": "in-these-times",
   "titulo": "In These Times",

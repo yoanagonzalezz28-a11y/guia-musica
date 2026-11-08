@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Academia de Danças Egberto Gismonti"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3UHDXNgjTXkIp70lIu8WEx",
+    "tituloEnSpotify": "Academia De Danças",
+    "via": "api-spotify"
   },
   "id": "academia-de-dancas",
   "titulo": "Academia de Danças",

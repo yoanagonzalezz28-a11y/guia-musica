@@ -11,8 +11,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Hecho a mano Chano Domínguez"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0KMNP6jGukb5YoV9f132gG",
+    "tituloEnSpotify": "Hecho A Mano",
+    "via": "api-spotify"
   },
   "id": "hecho-a-mano",
   "titulo": "Hecho a mano",

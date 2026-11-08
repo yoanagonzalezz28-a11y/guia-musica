@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Footsteps of Our Fathers Branford Marsalis"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3QTUcOBNftYXYRg2GaFPEQ",
+    "tituloEnSpotify": "Footsteps of Our Fathers",
+    "via": "api-spotify"
   },
   "id": "footsteps-of-our-fathers",
   "titulo": "Footsteps of Our Fathers",

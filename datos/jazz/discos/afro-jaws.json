@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Afro-Jaws Eddie \"Lockjaw\" Davis"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5LDyLoyv7hIIpR7gvp3hpK",
+    "tituloEnSpotify": "Afro-Jaws",
+    "via": "api-spotify"
   },
   "id": "afro-jaws",
   "titulo": "Afro-Jaws",

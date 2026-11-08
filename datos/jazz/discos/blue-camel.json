@@ -12,8 +12,10 @@
   "catalogo": "ENJ 7053",
   "lugar": "Sound Studio N, Colonia",
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Blue Camel Rabih Abou-Khalil"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4Qxx712hAyTvTsl1EsWeRj",
+    "tituloEnSpotify": "Blue Camel",
+    "via": "api-spotify"
   },
   "id": "blue-camel",
   "titulo": "Blue Camel",

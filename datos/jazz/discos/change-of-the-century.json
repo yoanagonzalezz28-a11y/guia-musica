@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Change of the Century Ornette Coleman"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0ME2xPIm65f5cJve3ALqdi",
+    "tituloEnSpotify": "Change Of The Century",
+    "via": "api-spotify"
   },
   "id": "change-of-the-century",
   "titulo": "Change of the Century",

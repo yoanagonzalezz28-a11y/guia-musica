@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Celebration Bheki Mseleku"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5uIcFalqC6QjvKesBf4erF",
+    "tituloEnSpotify": "Celebration",
+    "via": "api-spotify"
   },
   "id": "celebration",
   "titulo": "Celebration",

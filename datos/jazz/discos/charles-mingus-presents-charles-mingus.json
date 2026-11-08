@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Charles Mingus Presents Charles Mingus Charles Mingus"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/49532T0V4ClaKsEdZHE8x0",
+    "tituloEnSpotify": "Charles Mingus Presents Charles Mingus (Remastered)",
+    "via": "api-spotify"
   },
   "id": "charles-mingus-presents-charles-mingus",
   "titulo": "Charles Mingus Presents Charles Mingus",

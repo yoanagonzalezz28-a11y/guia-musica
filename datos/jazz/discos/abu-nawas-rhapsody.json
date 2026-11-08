@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Abu Nawas Rhapsody Dhafer Youssef"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/21B3ckDMGBE7WzorsseUkl",
+    "tituloEnSpotify": "Abu Nawas Rhapsody",
+    "via": "api-spotify"
   },
   "id": "abu-nawas-rhapsody",
   "titulo": "Abu Nawas Rhapsody",

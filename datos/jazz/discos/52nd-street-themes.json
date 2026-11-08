@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "52nd Street Themes Joe Lovano"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2JVMFtlPtdyXOtei4K16pJ",
+    "tituloEnSpotify": "52nd Street Themes",
+    "via": "api-spotify"
   },
   "id": "52nd-street-themes",
   "titulo": "52nd Street Themes",

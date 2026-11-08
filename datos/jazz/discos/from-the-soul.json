@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "From the Soul Joe Lovano"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5365ZyloGCXuGUitQF7qtq",
+    "tituloEnSpotify": "From The Soul",
+    "via": "api-spotify"
   },
   "id": "from-the-soul",
   "titulo": "From the Soul",

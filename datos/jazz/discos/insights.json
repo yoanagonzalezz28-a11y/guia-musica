@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Insights Toshiko Akiyoshi"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3pTWpseCD6nEysmafXujiR",
+    "tituloEnSpotify": "Insights",
+    "via": "api-spotify"
   },
   "id": "insights",
   "titulo": "Insights",

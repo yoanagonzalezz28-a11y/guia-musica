@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Hip Soul Shirley Scott"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6MymNv3poZJAEgBmgbkT7Y",
+    "tituloEnSpotify": "Hip Soul",
+    "via": "api-spotify"
   },
   "id": "hip-soul",
   "titulo": "Hip Soul",

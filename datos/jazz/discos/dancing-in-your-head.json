@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Dancing in Your Head Ornette Coleman"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2GUaxvV3Ziln8TLjK7YLIz",
+    "tituloEnSpotify": "Dancing in Your Head",
+    "via": "api-spotify"
   },
   "id": "dancing-in-your-head",
   "titulo": "Dancing in Your Head",

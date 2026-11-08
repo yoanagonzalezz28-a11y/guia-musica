@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Artist in Residence Jason Moran"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/47rhg4jJFzaOAarOBV6LWh",
+    "tituloEnSpotify": "Artist In Residence",
+    "via": "api-spotify"
   },
   "id": "artist-in-residence",
   "titulo": "Artist in Residence",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Charlie Parker with Strings Charlie Parker"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1DPRDrZgfU3rAo2SL4GrZw",
+    "tituloEnSpotify": "Charlie Parker With Strings (Deluxe Edition)",
+    "via": "api-spotify"
   },
   "id": "charlie-parker-with-strings",
   "titulo": "Charlie Parker with Strings",

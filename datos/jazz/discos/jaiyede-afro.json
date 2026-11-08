@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Jaiyede Afro Orlando Julius"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6qbKpBTwlQw53EjMD0BLs5",
+    "tituloEnSpotify": "Jaiyede Afro",
+    "via": "api-spotify"
   },
   "id": "jaiyede-afro",
   "titulo": "Jaiyede Afro",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Dear Diz (Every Day I Think of You) Arturo Sandoval"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4rnii3Pe8XYtr1uLu2bfv3",
+    "tituloEnSpotify": "Dear Diz (Every Day I Think of You)",
+    "via": "api-spotify"
   },
   "id": "dear-diz-every-day-i-think-of-you",
   "titulo": "Dear Diz (Every Day I Think of You)",

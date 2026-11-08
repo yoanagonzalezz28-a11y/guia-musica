@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "It Might as Well Be Spring Ike Quebec"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6Rc2EDYN4oBnAVys26todP",
+    "tituloEnSpotify": "It Might As Well Be Spring",
+    "via": "api-spotify"
   },
   "id": "it-might-as-well-be-spring",
   "titulo": "It Might as Well Be Spring",

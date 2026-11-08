@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "A Study in Frustration Fletcher Henderson"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/40AbebkqFacdneCachvH1Q",
+    "tituloEnSpotify": "A Study In Frustration",
+    "via": "api-spotify"
   },
   "id": "a-study-in-frustration",
   "titulo": "A Study in Frustration",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "After Hours at the London House Sarah Vaughan"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2U3o34rb3OPW4WTdjqAWQz",
+    "tituloEnSpotify": "After Hours At The London House",
+    "via": "api-spotify"
   },
   "id": "after-hours-at-the-london-house",
   "titulo": "After Hours at the London House",

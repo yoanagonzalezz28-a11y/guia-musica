@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Bar Talk Jeff \"Tain\" Watts"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/41SGBFYRWS9fbD3LaSraMm",
+    "tituloEnSpotify": "Bar Talk",
+    "via": "api-spotify"
   },
   "id": "bar-talk",
   "titulo": "Bar Talk",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Blackstar David Bowie"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0vxg8oJKDu3i0bXQu7vEpi",
+    "tituloEnSpotify": "Blackstar",
+    "via": "api-spotify"
   },
   "id": "blackstar",
   "titulo": "Blackstar",

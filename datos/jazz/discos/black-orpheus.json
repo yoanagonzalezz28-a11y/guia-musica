@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Black Orpheus Masabumi Kikuchi"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6F4T5UmmfPFoesVIMcF7mO",
+    "tituloEnSpotify": "Black Orpheus (Live)",
+    "via": "api-spotify"
   },
   "id": "black-orpheus",
   "titulo": "Black Orpheus",

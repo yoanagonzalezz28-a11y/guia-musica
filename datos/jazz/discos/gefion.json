@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Gefion Jakob Bro"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7oBGBUeoPT402ls5ANCQdT",
+    "tituloEnSpotify": "Gefion",
+    "via": "api-spotify"
   },
   "id": "gefion",
   "titulo": "Gefion",

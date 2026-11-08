@@ -11,8 +11,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Echoes of the Inner Prophet Melissa Aldana"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3nJsyrcJShA6wyjSPvAwEg",
+    "tituloEnSpotify": "Echoes Of The Inner Prophet",
+    "via": "api-spotify"
   },
   "id": "echoes-of-the-inner-prophet",
   "titulo": "Echoes of the Inner Prophet",

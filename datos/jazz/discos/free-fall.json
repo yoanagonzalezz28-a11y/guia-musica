@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Free Fall Jimmy Giuffre"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4HPZfvQ4NELH6ESH1PKJFn",
+    "tituloEnSpotify": "Free Fall",
+    "via": "api-spotify"
   },
   "id": "free-fall",
   "titulo": "Free Fall",

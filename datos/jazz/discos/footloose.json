@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Footloose! Paul Bley"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3Q7VJuXn3zRdlhqoSMlmJ9",
+    "tituloEnSpotify": "Footloose",
+    "via": "api-spotify"
   },
   "id": "footloose",
   "titulo": "Footloose!",

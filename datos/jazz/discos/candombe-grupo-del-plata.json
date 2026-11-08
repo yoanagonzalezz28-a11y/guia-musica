@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Candombe (Grupo del Plata) Manolo Guardia"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5cU8aittBkjBGUrveAdi4k",
+    "tituloEnSpotify": "Candombe!",
+    "via": "api-spotify"
   },
   "id": "candombe-grupo-del-plata",
   "titulo": "Candombe (Grupo del Plata)",

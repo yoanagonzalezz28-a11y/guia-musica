@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Into the Blue Nicholas Payton"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3sKFT6DFw4kMA5DxvhmRjL",
+    "tituloEnSpotify": "Into the Blue",
+    "via": "api-spotify"
   },
   "id": "into-the-blue",
   "titulo": "Into the Blue",

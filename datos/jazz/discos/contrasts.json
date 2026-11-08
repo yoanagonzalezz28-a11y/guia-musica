@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Contrasts Erroll Garner"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3GK5d7DT1GbKhFxeINgjyQ",
+    "tituloEnSpotify": "Contrasts",
+    "via": "api-spotify"
   },
   "id": "contrasts",
   "titulo": "Contrasts",

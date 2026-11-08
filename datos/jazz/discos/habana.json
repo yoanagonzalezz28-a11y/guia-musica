@@ -12,8 +12,10 @@
   "catalogo": null,
   "lugar": "Teatro Mancinelli, Orvieto (Italia), y Nueva York",
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Habana Roy Hargrove Crisol"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6wV9FgUyUXOqE84uz2uNIy",
+    "tituloEnSpotify": "Habana",
+    "via": "api-spotify"
   },
   "id": "habana",
   "titulo": "Habana",

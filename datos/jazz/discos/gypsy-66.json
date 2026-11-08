@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Gypsy '66 Gábor Szabó"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/656PK59fHEtby5KktU1ZAK",
+    "tituloEnSpotify": "Gypsy '66",
+    "via": "api-spotify"
   },
   "id": "gypsy-66",
   "titulo": "Gypsy '66",

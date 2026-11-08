@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Art Pepper + Eleven Art Pepper"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/40ZjxKQt07URZv51dqacUr",
+    "tituloEnSpotify": "Art Pepper + Eleven (Modern Jazz Classics)",
+    "via": "api-spotify"
   },
   "id": "art-pepper-eleven",
   "titulo": "Art Pepper + Eleven",

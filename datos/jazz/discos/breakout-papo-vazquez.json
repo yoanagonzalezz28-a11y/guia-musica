@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Breakout Papo Vázquez"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6lnEhVU1Mr6ywQopatw5Dk",
+    "tituloEnSpotify": "Breakout",
+    "via": "api-spotify"
   },
   "id": "breakout-papo-vazquez",
   "titulo": "Breakout",

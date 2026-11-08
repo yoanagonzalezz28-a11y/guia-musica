@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "A Saga da Travessia Letieres Leite & Orkestra Rumpilezz"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6QHk2m38W1FbKTuEq0h4Fh",
+    "tituloEnSpotify": "A Saga da Travessia",
+    "via": "api-spotify"
   },
   "id": "a-saga-da-travessia",
   "titulo": "A Saga da Travessia",

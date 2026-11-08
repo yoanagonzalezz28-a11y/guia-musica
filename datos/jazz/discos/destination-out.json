@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Destination... Out! Jackie McLean"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5G3L2XFdPWxKmsFSljLjj1",
+    "tituloEnSpotify": "Destination...Out!",
+    "via": "api-spotify"
   },
   "id": "destination-out",
   "titulo": "Destination... Out!",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Everyday, Everynight Flora Purim"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4KpEF7d5QMqPbv0gPTz8fy",
+    "tituloEnSpotify": "Everyday, Everynight",
+    "via": "api-spotify"
   },
   "id": "everyday-everynight",
   "titulo": "Everyday, Everynight",

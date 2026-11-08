@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Jazz Advance Cecil Taylor"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4K5bRZioLqEBk5e9qv5vJn",
+    "tituloEnSpotify": "Jazz Advance",
+    "via": "api-spotify"
   },
   "id": "jazz-advance",
   "titulo": "Jazz Advance",

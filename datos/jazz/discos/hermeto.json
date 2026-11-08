@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Hermeto Hermeto Pascoal"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1a27XMHaGOKql51XRXoR2z",
+    "tituloEnSpotify": "Hermeto",
+    "via": "api-spotify"
   },
   "id": "hermeto",
   "titulo": "Hermeto",

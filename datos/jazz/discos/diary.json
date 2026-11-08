@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Diary Ralph Towner"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7Mgw3yzqrIHVlvy5Zz1ggU",
+    "tituloEnSpotify": "Diary",
+    "via": "api-spotify"
   },
   "id": "diary",
   "titulo": "Diary",

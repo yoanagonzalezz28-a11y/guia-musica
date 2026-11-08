@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Django Modern Jazz Quartet"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0JrqNgHqIWKu2UfOoSUeXQ",
+    "tituloEnSpotify": "Django (Remastered)",
+    "via": "api-spotify"
   },
   "id": "django",
   "titulo": "Django",

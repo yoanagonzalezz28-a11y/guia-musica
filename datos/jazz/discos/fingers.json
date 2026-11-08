@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Fingers Airto Moreira"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0QAzLcDuvTjdXQpvNsCtC5",
+    "tituloEnSpotify": "Fingers (CTI Records 40th Anniversary Edition)",
+    "via": "api-spotify"
   },
   "id": "fingers",
   "titulo": "Fingers",

@@ -11,8 +11,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Gipsy Summer The Rosenberg Trio"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6mUAnkJgL919Tc8baKkge3",
+    "tituloEnSpotify": "Gipsy Summer",
+    "via": "api-spotify"
   },
   "id": "gipsy-summer",
   "titulo": "Gipsy Summer",

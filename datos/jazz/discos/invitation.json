@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Invitation Jaco Pastorius"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5oWGqHzOTLFqhZzGSfiBcH",
+    "tituloEnSpotify": "Invitation [Live]",
+    "via": "api-spotify"
   },
   "id": "invitation",
   "titulo": "Invitation",

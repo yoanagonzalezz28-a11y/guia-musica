@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Jazz Impressions of Eurasia Dave Brubeck"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6r0rjJgC6VTKGn6gQv9VMs",
+    "tituloEnSpotify": "Jazz Impressions Of Eurasia",
+    "via": "api-spotify"
   },
   "id": "jazz-impressions-of-eurasia",
   "titulo": "Jazz Impressions of Eurasia",

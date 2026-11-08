@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Far East Suite Duke Ellington"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3hUTxBF5n3Zf8zmB4rqll9",
+    "tituloEnSpotify": "Far East Suite (Remastered)",
+    "via": "api-spotify"
   },
   "id": "far-east-suite",
   "titulo": "Far East Suite",

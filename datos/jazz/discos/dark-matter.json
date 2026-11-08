@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Dark Matter Moses Boyd"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4XRA7yDYWSkO5BMvZinESW",
+    "tituloEnSpotify": "Dark Matter",
+    "via": "api-spotify"
   },
   "id": "dark-matter",
   "titulo": "Dark Matter",

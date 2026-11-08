@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Further Definitions Benny Carter"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k",
+    "tituloEnSpotify": "Further Definitions",
+    "via": "api-spotify"
   },
   "id": "further-definitions",
   "titulo": "Further Definitions",

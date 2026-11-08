@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Hocus Pocus Fletcher Henderson"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4DfDTVX8TTpNPnbbcbDOBt",
+    "tituloEnSpotify": "Hocus Pocus",
+    "via": "api-spotify"
   },
   "id": "hocus-pocus",
   "titulo": "Hocus Pocus",

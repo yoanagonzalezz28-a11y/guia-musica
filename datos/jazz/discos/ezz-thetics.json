@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Ezz-thetics George Russell"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4keWZCz1GPnRgRSCSXRRpb",
+    "tituloEnSpotify": "Ezz-thetics (Remastered)",
+    "via": "api-spotify"
   },
   "id": "ezz-thetics",
   "titulo": "Ezz-thetics",

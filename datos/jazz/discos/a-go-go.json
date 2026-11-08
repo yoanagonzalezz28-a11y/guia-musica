@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "A Go Go John Scofield"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/08JMKtDS0StcwDUgdxKIw3",
+    "tituloEnSpotify": "A Go Go",
+    "via": "api-spotify"
   },
   "id": "a-go-go",
   "titulo": "A Go Go",

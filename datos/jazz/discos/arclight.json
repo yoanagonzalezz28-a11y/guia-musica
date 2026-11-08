@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Arclight Julian Lage"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5ptwV5wz6Ft0oQDRuZnXV8",
+    "tituloEnSpotify": "Arclight",
+    "via": "api-spotify"
   },
   "id": "arclight",
   "titulo": "Arclight",

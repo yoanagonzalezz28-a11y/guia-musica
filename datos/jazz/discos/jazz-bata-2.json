@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Jazz Batá 2 Chucho Valdés"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/61S5vhnbwGfK27QfnwNqrQ",
+    "tituloEnSpotify": "Jazz Batá 2",
+    "via": "api-spotify"
   },
   "id": "jazz-bata-2",
   "titulo": "Jazz Batá 2",

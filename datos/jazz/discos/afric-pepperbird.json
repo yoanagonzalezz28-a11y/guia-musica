@@ -17,8 +17,10 @@
   "catalogo": "ECM 1007 ST",
   "lugar": "Bendiksen Studio, Oslo",
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Afric Pepperbird Jan Garbarek"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0WIfWkL0HGKAh8HQur58Sr",
+    "tituloEnSpotify": "Afric Pepperbird",
+    "via": "api-spotify"
   },
   "id": "afric-pepperbird",
   "titulo": "Afric Pepperbird",

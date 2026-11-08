@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "El Sonido Nuevo Cal Tjader"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4rzynODIi4mNflsICsYZoX",
+    "tituloEnSpotify": "El Sonido Nuevo",
+    "via": "api-spotify"
   },
   "id": "el-sonido-nuevo",
   "titulo": "El Sonido Nuevo",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Homecoming: Live at the Village Vanguard Dexter Gordon"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3wxFlq2Aq2t37lvFLLkdMa",
+    "tituloEnSpotify": "Homecoming: Live At The Village Vanguard",
+    "via": "api-spotify"
   },
   "id": "homecoming-live-at-the-village-vanguard",
   "titulo": "Homecoming: Live at the Village Vanguard",

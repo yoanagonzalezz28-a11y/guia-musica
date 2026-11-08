@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Free Form Joe Harriott"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3Qfjsk5OAx2ohqZdb7T21W",
+    "tituloEnSpotify": "Free Form",
+    "via": "api-spotify"
   },
   "id": "free-form",
   "titulo": "Free Form",

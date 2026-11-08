@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Global Drum Project Zakir Hussain"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/61CsHeByNm8j9E55unbaNq",
+    "tituloEnSpotify": "Global Drum Project",
+    "via": "api-spotify"
   },
   "id": "global-drum-project",
   "titulo": "Global Drum Project",

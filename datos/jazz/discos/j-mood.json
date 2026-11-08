@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "J Mood Wynton Marsalis"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5FB00MyD0Q81w5C4Xm8f7q",
+    "tituloEnSpotify": "J Mood",
+    "via": "api-spotify"
   },
   "id": "j-mood",
   "titulo": "J Mood",

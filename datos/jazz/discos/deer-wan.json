@@ -11,8 +11,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Deer Wan Kenny Wheeler"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2eZ6pd2bselm1M1yD6gCnB",
+    "tituloEnSpotify": "Deer Wan",
+    "via": "api-spotify"
   },
   "id": "deer-wan",
   "titulo": "Deer Wan",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Brother Sister The Brand New Heavies"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0n6y7yVyZBKpwZICyTvFFh",
+    "tituloEnSpotify": "Brother Sister",
+    "via": "api-spotify"
   },
   "id": "brother-sister",
   "titulo": "Brother Sister",

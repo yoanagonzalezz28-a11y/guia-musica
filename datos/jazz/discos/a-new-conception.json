@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "A New Conception Sam Rivers"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2esEYklyLQdagITeU8aWq2",
+    "tituloEnSpotify": "A New Conception",
+    "via": "api-spotify"
   },
   "id": "a-new-conception",
   "titulo": "A New Conception",

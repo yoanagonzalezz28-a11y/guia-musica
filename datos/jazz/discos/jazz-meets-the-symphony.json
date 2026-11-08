@@ -14,8 +14,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Jazz Meets the Symphony Lalo Schifrin"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6d9qD3TGQ1nOI83Lkwz7P1",
+    "tituloEnSpotify": "Jazz Meets the Symphony (feat. Ray Brown, Grady Tate, The London Philharmonic)",
+    "via": "api-spotify"
   },
   "id": "jazz-meets-the-symphony",
   "titulo": "Jazz Meets the Symphony",

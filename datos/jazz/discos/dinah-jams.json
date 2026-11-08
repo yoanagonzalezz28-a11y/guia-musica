@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Dinah Jams Dinah Washington"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2QjkCel3cxXA573yPStwVg",
+    "tituloEnSpotify": "Dinah Jams (Live)",
+    "via": "api-spotify"
   },
   "id": "dinah-jams",
   "titulo": "Dinah Jams",

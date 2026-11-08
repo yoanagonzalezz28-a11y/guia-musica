@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Give The Bad Plus"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5VgOcl2cNKQ2zKDi71cqh7",
+    "tituloEnSpotify": "Give",
+    "via": "api-spotify"
   },
   "id": "give",
   "titulo": "Give",

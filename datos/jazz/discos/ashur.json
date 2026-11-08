@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Ashur Tarek Yamani"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1YTCKj7vOeXamYwFF1DdHS",
+    "tituloEnSpotify": "Ashur",
+    "via": "api-spotify"
   },
   "id": "ashur",
   "titulo": "Ashur",

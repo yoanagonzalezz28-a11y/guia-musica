@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "At the Pershing: But Not for Me Ahmad Jamal"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4kbD6uvXwMkSxag25Sv8RX",
+    "tituloEnSpotify": "At the Pershing but Not for Me (Hd Remastered)",
+    "via": "api-spotify"
   },
   "id": "at-the-pershing-but-not-for-me",
   "titulo": "At the Pershing: But Not for Me",

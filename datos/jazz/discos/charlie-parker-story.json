@@ -64,8 +64,10 @@
     "La primera sesión a nombre de Parker, con todas las tomas de todos los temas. Por eso se escucha algo poco habitual: cómo se va armando un clásico, con intentos que se caen por el camino. Acá está \"Ko-Ko\", escrito sobre los acordes de \"Cherokee\"."
   ],
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Charlie Parker Story Charlie Parker"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2jgWsNu1Nq8H8ZpPgHhYw8",
+    "tituloEnSpotify": "The Charlie Parker Story",
+    "via": "api-spotify"
   },
   "ids": {
     "musicbrainz": "9186abe8-6467-4ac3-88d5-fafad14df2d2",

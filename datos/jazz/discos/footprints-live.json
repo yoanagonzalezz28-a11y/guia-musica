@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Footprints Live! Wayne Shorter"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/77hBFKuRXGV6kgHsG2c034",
+    "tituloEnSpotify": "Footprints - Live",
+    "via": "api-spotify"
   },
   "id": "footprints-live",
   "titulo": "Footprints Live!",

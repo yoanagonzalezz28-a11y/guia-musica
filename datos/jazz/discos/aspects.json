@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Aspects Benny Carter"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4sooghEEl3c02QPLB57Cs1",
+    "tituloEnSpotify": "Aspects (Expanded Edition)",
+    "via": "api-spotify"
   },
   "id": "aspects",
   "titulo": "Aspects",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Absence Terence Blanchard"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1fzoq1zIpM4L6KOpjpfLdp",
+    "tituloEnSpotify": "Absence",
+    "via": "api-spotify"
   },
   "id": "absence",
   "titulo": "Absence",

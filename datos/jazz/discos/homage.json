@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Homage Marcin Wasilewski"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/03iukKxMidzmP0ZhywfX5D",
+    "tituloEnSpotify": "Homage",
+    "via": "api-spotify"
   },
   "id": "homage",
   "titulo": "Homage",

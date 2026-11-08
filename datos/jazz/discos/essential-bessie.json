@@ -10,8 +10,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Essential Bessie Smith"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0NSxpb50uBMgAzOJQpp4Ag",
+    "tituloEnSpotify": "The Essential Bessie Smith",
+    "via": "api-spotify"
   },
   "id": "essential-bessie",
   "titulo": "The Essential Bessie Smith",

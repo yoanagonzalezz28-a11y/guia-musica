@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "It's Snowing on My Piano Bugge Wesseltoft"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4oqLAHTr9n7g4sGj63Dcte",
+    "tituloEnSpotify": "It's Snowing on My Piano (Streaming Version)",
+    "via": "api-spotify"
   },
   "id": "it-s-snowing-on-my-piano",
   "titulo": "It's Snowing on My Piano",

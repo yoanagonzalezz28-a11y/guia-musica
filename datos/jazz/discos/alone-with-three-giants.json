@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Alone with Three Giants Marcus Roberts"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3u1KUeXqV5l4Fr9uf11odM",
+    "tituloEnSpotify": "Alone With Three Giants",
+    "via": "api-spotify"
   },
   "id": "alone-with-three-giants",
   "titulo": "Alone with Three Giants",

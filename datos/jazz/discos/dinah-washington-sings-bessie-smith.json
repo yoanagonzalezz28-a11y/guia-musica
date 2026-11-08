@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Dinah Washington Sings Bessie Smith Dinah Washington"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1Y8JyTROex2Hxgd3bN05PR",
+    "tituloEnSpotify": "Dinah Washington Sings Bessie Smith",
+    "via": "api-spotify"
   },
   "id": "dinah-washington-sings-bessie-smith",
   "titulo": "Dinah Washington Sings Bessie Smith",

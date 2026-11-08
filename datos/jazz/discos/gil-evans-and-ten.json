@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Gil Evans & Ten Gil Evans"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6hwFU0H59bLky6yinevPoc",
+    "tituloEnSpotify": "Gil Evans & Ten",
+    "via": "api-spotify"
   },
   "id": "gil-evans-and-ten",
   "titulo": "Gil Evans & Ten",

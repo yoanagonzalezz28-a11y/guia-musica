@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Beyond Now Donny McCaslin"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3X4YKPVvDwNWBXcHmAALJ7",
+    "tituloEnSpotify": "Beyond Now",
+    "via": "api-spotify"
   },
   "id": "beyond-now",
   "titulo": "Beyond Now",

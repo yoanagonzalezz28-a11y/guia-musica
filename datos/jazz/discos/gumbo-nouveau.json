@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Gumbo Nouveau Nicholas Payton"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3vY22Qw23bBtcjalGeCcLU",
+    "tituloEnSpotify": "Gumbo Nouveau",
+    "via": "api-spotify"
   },
   "id": "gumbo-nouveau",
   "titulo": "Gumbo Nouveau",

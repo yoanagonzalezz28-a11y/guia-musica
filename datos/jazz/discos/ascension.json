@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Ascension John Coltrane"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2TtadFmrnrFZecasfj0p4t",
+    "tituloEnSpotify": "Ascension",
+    "via": "api-spotify"
   },
   "id": "ascension",
   "titulo": "Ascension",

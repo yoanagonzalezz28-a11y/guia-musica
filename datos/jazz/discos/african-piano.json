@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "African Piano Abdullah Ibrahim"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0wVkwyXwehVFZRv87c1DoE",
+    "tituloEnSpotify": "African Piano (Live At Jazzhus Montmartre, Copenhagen / 1969)",
+    "via": "api-spotify"
   },
   "id": "african-piano",
   "titulo": "African Piano",

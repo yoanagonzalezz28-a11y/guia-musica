@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Elis & Tom Antônio Carlos Jobim"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS",
+    "tituloEnSpotify": "Elis & Tom",
+    "via": "api-spotify"
   },
   "id": "elis-and-tom",
   "titulo": "Elis & Tom",

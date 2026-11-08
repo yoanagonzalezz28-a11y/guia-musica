@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Abstract Joe Harriott"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5ZHHuhZ9FraotHCrdQBMoY",
+    "tituloEnSpotify": "Abstract (Remastered 2015)",
+    "via": "api-spotify"
   },
   "id": "abstract",
   "titulo": "Abstract",

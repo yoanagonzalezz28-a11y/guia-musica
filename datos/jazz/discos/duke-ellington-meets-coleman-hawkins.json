@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Duke Ellington Meets Coleman Hawkins Coleman Hawkins"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0Kggi4r3OcApji9xJI3olG",
+    "tituloEnSpotify": "Duke Ellington Meets Coleman Hawkins",
+    "via": "api-spotify"
   },
   "id": "duke-ellington-meets-coleman-hawkins",
   "titulo": "Duke Ellington Meets Coleman Hawkins",

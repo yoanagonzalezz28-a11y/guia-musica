@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "A Tale of God's Will (A Requiem for Katrina) Terence Blanchard"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/18a88dlKggqBgocGWXvVJa",
+    "tituloEnSpotify": "A Tale Of God's Will (A Requiem For Katrina)",
+    "via": "api-spotify"
   },
   "id": "a-tale-of-god-s-will-a-requiem-for-katrina",
   "titulo": "A Tale of God's Will (A Requiem for Katrina)",

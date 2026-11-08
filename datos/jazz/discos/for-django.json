@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "For Django Joe Pass"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/52hlifh2FGBhx4BQVl2OJD",
+    "tituloEnSpotify": "For Django",
+    "via": "api-spotify"
   },
   "id": "for-django",
   "titulo": "For Django",

@@ -14,8 +14,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Bullitt Lalo Schifrin"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5E1Rw9xvIgCOJtlrVKsnYO",
+    "tituloEnSpotify": "Bullitt (Original Motion Picture Soundtrack)",
+    "via": "api-spotify"
   },
   "id": "bullitt",
   "titulo": "Bullitt",

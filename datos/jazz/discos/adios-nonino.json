@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Adiós Nonino Astor Piazzolla"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0tIh0zWyBY7xxwVZoNECJN",
+    "tituloEnSpotify": "Adios Nonino",
+    "via": "api-spotify"
   },
   "id": "adios-nonino",
   "titulo": "Adiós Nonino",

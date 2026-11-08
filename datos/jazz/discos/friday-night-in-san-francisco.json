@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Friday Night in San Francisco Al Di Meola"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2zJMxui25tclR2FYj8jDYT",
+    "tituloEnSpotify": "Friday Night in San Francisco",
+    "via": "api-spotify"
   },
   "id": "friday-night-in-san-francisco",
   "titulo": "Friday Night in San Francisco",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Abbey Is Blue Abbey Lincoln"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0iB0NXkmIxevlpf2v2OWug",
+    "tituloEnSpotify": "Abbey is Blue",
+    "via": "api-spotify"
   },
   "id": "abbey-is-blue",
   "titulo": "Abbey Is Blue",

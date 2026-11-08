@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Hyperborean Arild Andersen"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5gNfF8TmnhuPROttbzlKdw",
+    "tituloEnSpotify": "Hyperborean",
+    "via": "api-spotify"
   },
   "id": "hyperborean",
   "titulo": "Hyperborean",

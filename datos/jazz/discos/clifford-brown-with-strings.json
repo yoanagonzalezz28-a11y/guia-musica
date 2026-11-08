@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Clifford Brown with Strings Clifford Brown"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0CysHI1oFb18YjWGdcgj1j",
+    "tituloEnSpotify": "Clifford Brown With Strings",
+    "via": "api-spotify"
   },
   "id": "clifford-brown-with-strings",
   "titulo": "Clifford Brown with Strings",

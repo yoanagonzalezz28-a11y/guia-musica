@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Concert by the Sea Erroll Garner"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6P8W18Qy0P2vreXHoEeVQL",
+    "tituloEnSpotify": "Concert By The Sea",
+    "via": "api-spotify"
   },
   "id": "concert-by-the-sea",
   "titulo": "Concert by the Sea",

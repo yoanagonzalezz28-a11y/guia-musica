@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "A Swingin' Affair Dexter Gordon"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2MDFi0jt8SnjYIFwgtU2Q3",
+    "tituloEnSpotify": "A Swingin' Affair",
+    "via": "api-spotify"
   },
   "id": "a-swingin-affair",
   "titulo": "A Swingin' Affair",

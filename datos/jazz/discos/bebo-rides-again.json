@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Bebo Rides Again Bebo Valdés"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0k4NZSAhdnjrsoJOB0gwLN",
+    "tituloEnSpotify": "Bebo Rides Again",
+    "via": "api-spotify"
   },
   "id": "bebo-rides-again",
   "titulo": "Bebo Rides Again",

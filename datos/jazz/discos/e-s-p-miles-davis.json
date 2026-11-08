@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "E.S.P. (Miles Davis) Ron Carter"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs",
+    "tituloEnSpotify": "E.S.P. (2022 Remaster)",
+    "via": "api-spotify"
   },
   "id": "e-s-p-miles-davis",
   "titulo": "E.S.P. (Miles Davis)",

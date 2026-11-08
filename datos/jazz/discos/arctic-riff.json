@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Arctic Riff Marcin Wasilewski"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/019T87LVzoR6yBR8pYahZr",
+    "tituloEnSpotify": "Arctic Riff",
+    "via": "api-spotify"
   },
   "id": "arctic-riff",
   "titulo": "Arctic Riff",

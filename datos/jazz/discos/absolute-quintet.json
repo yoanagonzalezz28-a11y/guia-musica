@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Absolute Quintet Dafnis Prieto"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1kcelPTg369ZiGVNbrkfDD",
+    "tituloEnSpotify": "Absolute Quintet",
+    "via": "api-spotify"
   },
   "id": "absolute-quintet",
   "titulo": "Absolute Quintet",

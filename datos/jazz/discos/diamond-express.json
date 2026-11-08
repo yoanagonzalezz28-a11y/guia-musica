@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Diamond Express Dudu Pukwana"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3GhHvjo4nExHvxx3Ts2aMI",
+    "tituloEnSpotify": "Diamond Express",
+    "via": "api-spotify"
   },
   "id": "diamond-express",
   "titulo": "Diamond Express",

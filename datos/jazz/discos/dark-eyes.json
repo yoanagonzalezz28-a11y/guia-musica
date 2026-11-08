@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Dark Eyes Tomasz Stańko"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3zGibhhlf6j9YRjJ5D8rcd",
+    "tituloEnSpotify": "Dark Eyes",
+    "via": "api-spotify"
   },
   "id": "dark-eyes",
   "titulo": "Dark Eyes",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Afro Roots Mongo Santamaría"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6LAXKSzQJKmfCB6Xo0hiXO",
+    "tituloEnSpotify": "Afro-Roots",
+    "via": "api-spotify"
   },
   "id": "afro-roots",
   "titulo": "Afro Roots",

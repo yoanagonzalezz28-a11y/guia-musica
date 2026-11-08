@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Heavy Metal Be-Bop The Brecker Brothers"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5Ogp1XkplgR6hO099uEjIL",
+    "tituloEnSpotify": "Heavy Metal Be-Bop",
+    "via": "api-spotify"
   },
   "id": "heavy-metal-be-bop",
   "titulo": "Heavy Metal Be-Bop",

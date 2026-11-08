@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Be Good Gregory Porter"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/69ZmeBUgHg0EWmeHCgIxlN",
+    "tituloEnSpotify": "Be Good",
+    "via": "api-spotify"
   },
   "id": "be-good",
   "titulo": "Be Good",

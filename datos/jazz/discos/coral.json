@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Coral David Sánchez"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4Yd9KUMJGVjOth6WEHc0EM",
+    "tituloEnSpotify": "Coral",
+    "via": "api-spotify"
   },
   "id": "coral",
   "titulo": "Coral",

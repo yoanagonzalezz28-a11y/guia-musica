@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Hang On Ramsey! Ramsey Lewis"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0BDQaqJGDMnWwkNqihHNUW",
+    "tituloEnSpotify": "Hang On Ramsey!",
+    "via": "api-spotify"
   },
   "id": "hang-on-ramsey",
   "titulo": "Hang On Ramsey!",

@@ -11,8 +11,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Easy Living Enrico Rava"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7pbof6U2aYE9AD3WRwLTrw",
+    "tituloEnSpotify": "Easy Living",
+    "via": "api-spotify"
   },
   "id": "easy-living",
   "titulo": "Easy Living",

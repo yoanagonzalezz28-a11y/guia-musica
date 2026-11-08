@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Characters John Abercrombie"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0bknidHHnplpPqM0nsJpDp",
+    "tituloEnSpotify": "Characters",
+    "via": "api-spotify"
   },
   "id": "characters",
   "titulo": "Characters",

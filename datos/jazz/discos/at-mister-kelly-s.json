@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "At Mister Kelly's Sarah Vaughan"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6IklVAvNtQaI3YRMI97EdX",
+    "tituloEnSpotify": "At Mister Kelly's",
+    "via": "api-spotify"
   },
   "id": "at-mister-kelly-s",
   "titulo": "At Mister Kelly's",

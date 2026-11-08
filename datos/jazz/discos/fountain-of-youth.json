@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Fountain of Youth Roy Haynes"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6lQpjU8lOuvMMMOL2CDhOo",
+    "tituloEnSpotify": "Fountain of Youth",
+    "via": "api-spotify"
   },
   "id": "fountain-of-youth",
   "titulo": "Fountain of Youth",

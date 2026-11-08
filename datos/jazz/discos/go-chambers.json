@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Go Paul Chambers"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2uJlo1xFDtyGER5KAWcYl4",
+    "tituloEnSpotify": "Go",
+    "via": "api-spotify"
   },
   "id": "go-chambers",
   "titulo": "Go",

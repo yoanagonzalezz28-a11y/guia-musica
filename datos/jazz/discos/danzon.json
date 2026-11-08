@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Danzón Arturo Sandoval"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3L2UdSpS14NUFNjS7U0yxb",
+    "tituloEnSpotify": "Danzon (Dance On)",
+    "via": "api-spotify"
   },
   "id": "danzon",
   "titulo": "Danzón",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Dance, No One's Watching Ezra Collective"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2BwKd9lWotQIhROHSWQ78h",
+    "tituloEnSpotify": "Dance, No One's Watching",
+    "via": "api-spotify"
   },
   "id": "dance-no-one-s-watching",
   "titulo": "Dance, No One's Watching",

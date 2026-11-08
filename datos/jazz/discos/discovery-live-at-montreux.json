@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Discovery: Live at Montreux Gonzalo Rubalcaba"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6aYnWzlCSBdCC7C7LWyWLo",
+    "tituloEnSpotify": "Discovery (Live At Montreux)",
+    "via": "api-spotify"
   },
   "id": "discovery-live-at-montreux",
   "titulo": "Discovery: Live at Montreux",

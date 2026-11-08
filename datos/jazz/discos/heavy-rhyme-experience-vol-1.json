@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Heavy Rhyme Experience, Vol. 1 The Brand New Heavies"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1rcB3G2fEGV0cjx2ZEl2vt",
+    "tituloEnSpotify": "Heavy Rhyme Experience Vol. 1",
+    "via": "api-spotify"
   },
   "id": "heavy-rhyme-experience-vol-1",
   "titulo": "Heavy Rhyme Experience, Vol. 1",

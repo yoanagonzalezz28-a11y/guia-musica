@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Eternal Branford Marsalis"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/75PATxS9geJNjgSfdGzwGf",
+    "tituloEnSpotify": "Eternal",
+    "via": "api-spotify"
   },
   "id": "eternal",
   "titulo": "Eternal",

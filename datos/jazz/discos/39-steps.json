@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "39 Steps John Abercrombie"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1cGDpDbNSfIKpLZ8BgFQ6H",
+    "tituloEnSpotify": "39 Steps",
+    "via": "api-spotify"
   },
   "id": "39-steps",
   "titulo": "39 Steps",

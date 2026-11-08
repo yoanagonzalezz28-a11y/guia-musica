@@ -14,8 +14,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Bolivia Gato Barbieri"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/05YzfZS57MYDGO7xdYkBsW",
+    "tituloEnSpotify": "Bolivia",
+    "via": "api-spotify"
   },
   "id": "bolivia",
   "titulo": "Bolivia",

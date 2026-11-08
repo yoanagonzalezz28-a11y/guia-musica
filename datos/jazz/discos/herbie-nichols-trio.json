@@ -58,8 +58,10 @@
     "Ethan Iverson lo presenta como un gran pianista y un compositor todavía mayor, con temas que son \"finished masterpieces\". Es también uno de los puntos más altos de Max Roach, que resuelve cada giro de una escritura muy exigente."
   ],
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Herbie Nichols Trio"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0X4i2tGfCate6RMkBvYUSG",
+    "tituloEnSpotify": "Herbie Nichols Trio",
+    "via": "api-spotify"
   },
   "ids": {
     "musicbrainz": "795a0b73-7706-43fd-96e9-369cfa7b9334",

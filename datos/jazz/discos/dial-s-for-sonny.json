@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Dial \"S\" for Sonny Sonny Clark"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7xd0RVxMTA86eXK5OAScEa",
+    "tituloEnSpotify": "Dial S For Sonny",
+    "via": "api-spotify"
   },
   "id": "dial-s-for-sonny",
   "titulo": "Dial \"S\" for Sonny",

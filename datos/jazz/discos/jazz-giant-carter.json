@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Jazz Giant Benny Carter"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5ZXQ2OoNlgRZt25UhSytSS",
+    "tituloEnSpotify": "Jazz Giant (Remastered)",
+    "via": "api-spotify"
   },
   "id": "jazz-giant-carter",
   "titulo": "Jazz Giant",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Components Bobby Hutcherson"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP",
+    "tituloEnSpotify": "Components",
+    "via": "api-spotify"
   },
   "id": "components",
   "titulo": "Components",

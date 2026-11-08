@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Dad Man Cat Corduroy"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3jKJyvl0TGB6uLPlCoUClR",
+    "tituloEnSpotify": "Dad Man Cat",
+    "via": "api-spotify"
   },
   "id": "dad-man-cat",
   "titulo": "Dad Man Cat",

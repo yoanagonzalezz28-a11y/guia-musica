@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Heavy Sounds Elvin Jones"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3nBv7F1rNLtVjVgueYXDqy",
+    "tituloEnSpotify": "Heavy Sounds",
+    "via": "api-spotify"
   },
   "id": "heavy-sounds",
   "titulo": "Heavy Sounds",

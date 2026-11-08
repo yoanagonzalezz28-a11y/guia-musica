@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Images on Guitar Baden Powell"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7mWVR4KA1yuYZeTQDrHRsz",
+    "tituloEnSpotify": "Images On Guitar",
+    "via": "api-spotify"
   },
   "id": "images-on-guitar",
   "titulo": "Images on Guitar",

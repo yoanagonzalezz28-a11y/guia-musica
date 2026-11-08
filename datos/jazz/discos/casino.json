@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Casino Al Di Meola"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2n8DcbmSTtN7Gda05GXQqe",
+    "tituloEnSpotify": "Casino",
+    "via": "api-spotify"
   },
   "id": "casino",
   "titulo": "Casino",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Being There Tord Gustavsen"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5JuT4GGK3RKVtbqQTDwlkS",
+    "tituloEnSpotify": "Being There",
+    "via": "api-spotify"
   },
   "id": "being-there",
   "titulo": "Being There",

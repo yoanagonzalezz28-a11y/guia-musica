@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Exiled Thandi Ntuli"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6OxJmexn8RZI1fi8RDDKG8",
+    "tituloEnSpotify": "Exiled",
+    "via": "api-spotify"
   },
   "id": "exiled-ntuli",
   "titulo": "Exiled",

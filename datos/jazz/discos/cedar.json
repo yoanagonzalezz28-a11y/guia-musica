@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Cedar! Cedar Walton"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0TQXUNupzbowYm1ZJhs57I",
+    "tituloEnSpotify": "Cedar! (Remastered 1990)",
+    "via": "api-spotify"
   },
   "id": "cedar",
   "titulo": "Cedar!",

@@ -11,8 +11,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Élégance Stochelo Rosenberg y Romane"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0vu5L2gfSjVzOSap7VgJdt",
+    "tituloEnSpotify": "Elegance (Intégrale Romane, vol. 6)",
+    "via": "api-spotify"
   },
   "id": "elegance-stochelo",
   "titulo": "Élégance",

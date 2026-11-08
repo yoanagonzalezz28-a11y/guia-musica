@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Briyumba Palo Congo Chucho Valdés"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/33xWyJEnLrgVsmt61y9NVx",
+    "tituloEnSpotify": "Briyumba Palo Congo",
+    "via": "api-spotify"
   },
   "id": "briyumba-palo-congo",
   "titulo": "Briyumba Palo Congo",

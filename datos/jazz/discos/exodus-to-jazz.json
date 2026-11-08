@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Exodus to Jazz Eddie Harris"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4X6bhFvpNfBG2v6DTBA7lL",
+    "tituloEnSpotify": "Exodus To Jazz",
+    "via": "api-spotify"
   },
   "id": "exodus-to-jazz",
   "titulo": "Exodus to Jazz",

@@ -17,8 +17,10 @@
   "catalogo": "1465",
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Indo-Jazz Suite Joe Harriott John Mayer"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2t3N4NoSEEbXD2YNMaW2HD",
+    "tituloEnSpotify": "Indo Jazz Suite",
+    "via": "api-spotify"
   },
   "id": "indo-jazz-suite",
   "titulo": "Indo-Jazz Suite",

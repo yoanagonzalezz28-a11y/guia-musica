@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Free Jazz: A Collective Improvisation Ornette Coleman"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3racVIt6FlCRRz3IGTLAOG",
+    "tituloEnSpotify": "Free Jazz: A Collective Improvisation (Remastered 2014)",
+    "via": "api-spotify"
   },
   "id": "free-jazz-a-collective-improvisation",
   "titulo": "Free Jazz: A Collective Improvisation",
