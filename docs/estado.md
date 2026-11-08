@@ -48,13 +48,17 @@ Las credenciales están en `.env` (`SPOTIFY_CLIENT_ID` y `SPOTIFY_CLIENT_SECRET`
 - Las 18 épocas tienen texto, hitos, cómo suena, músicos, discos para empezar y fuentes. 15 están cotejadas con *Historia del jazz* de Ted Gioia por capítulo y página.
 - No quedan fichas de músicos "por escribir" ni etapas de carrera pendientes.
 - Todas las reseñas de discos tienen al menos dos frases. Las 1323 que tenían una sola pasaron a tres: cómo suena, qué tiene de particular y por qué está en el banco.
+- El 8/11 se reescribieron 581 reseñas en las que la segunda frase repetía la primera. Ahora la primera dice cómo suena; la segunda, un dato particular (contexto, personal, sello o historia), y la tercera, por qué está en el banco. Para la frase del medio solo se usaron datos seguros; 12 reseñas quedaron con dos frases porque no había uno (ver "Qué falta").
 
 ### Sitio
 
 - Generador estático propio, sin dependencias: `scripts/construir.mjs` arma `dist/` a partir de `datos/`.
 - Validación (`scripts/datos.mjs`): frena la construcción solo ante referencias rotas, fechas imposibles y links mal formados. La falta de fuentes es un aviso; el detalle sale con `npm run auditar`.
 - Marcas personales en el navegador (localStorage), con exportar e importar: disco escuchado, músico visto, puntaje, notas y época estudiada.
-- Pruebas automáticas con Playwright y Edge: 43 generales y 18 de diseño. Solo se publica si pasan todas.
+- **Llevar las marcas a otro dispositivo:** en "Mis marcas", un botón genera un link y un código QR con las marcas adentro, sin servidor ni cuenta. Al abrirlo, el otro navegador pregunta si combinar o reemplazar. El QR aparece hasta unas 55 marcas; con más, queda solo el link. "Mis marcas" también avisa que se guardan en este navegador y muestra cuándo fue la última exportación.
+- **Ids estables:** si un id publicado desaparece sin estar en `datos/renombres.json`, la construcción se frena. Las marcas de un id renombrado se mudan solas al nuevo, y la dirección vieja redirige. Ya hay registrados cuatro renombres y cuatro fichas retiradas.
+- **Formato de las marcas:** al convertir una versión vieja o mudar un id, la copia original queda como respaldo en el navegador. Los datos ilegibles o de una versión más nueva nunca se pisan. Detalle en [modelo-de-datos.md](modelo-de-datos.md).
+- **Pruebas:** las de Playwright con Edge (43 generales, 18 de diseño y 31 de marcas) se corren a mano en local y **no están en el repositorio**. La publicación en GitHub Pages solo corre `npm run construir`, que frena ante errores en los datos, pero no espera a las pruebas del navegador.
 
 ## Decisiones de diseño
 
@@ -96,11 +100,15 @@ La carpeta está en `.gitignore`: **nada de esto se sube a GitHub ni se publica.
 1. **Terminar la búsqueda de Spotify** con `npm run spotify` (ver arriba): 454 discos todavía sin buscar.
 2. **Revisar los dudosos** de [sin-spotify.md](sin-spotify.md): por ahora son 26 (13 de importancia alta). Cada uno tiene su link candidato; alcanza con decir cuáles se aprueban.
 3. **Decidir qué hacer con los que no aparecen en Spotify** (por ahora 74, 25 de importancia alta): buscarlos en YouTube o sacarlos del banco.
-4. **Pulir las reseñas ampliadas:** en algunos discos la segunda frase repite un poco la primera.
+4. **Terminar de pulir las reseñas:**
+   - Quedan unas 174 con una repetición más leve entre la primera y la segunda frase. Algunas todavía repiten, como *We Three* o *Plenty, Plenty Soul*, y otras están bien.
+   - Estas 12 tienen dos frases porque falta un dato particular seguro: *Son dos*, *El jardín de Ordóñez*, *Turista*, *Cajita de música*, *La cocina magnética*, *Gonzalo Levin Octeto*, *Into Forever*, *Characters*, *Everyday, Everynight*, *Ravensburg*, *Downhill from Here* y *Live in Montreux 1987*.
 5. **Ampliar los datos sin cotejar con Gioia:** quedan 3 épocas sin cotejar (de 18), y la mayoría de los discos y músicos tiene una sola fuente.
 6. **Más datos por disco:** el personal completo y el número de catálogo faltan en muchos discos.
 7. **Pendientes de contenido opcionales:** más reseñas extensas, más comparaciones si ayudan y nuevas regiones o épocas, por ejemplo spiritual jazz o third stream, que se propusieron pero no se agregaron.
 8. **Otros géneros:** música clásica y post-rock están previstos en la portada pero sin contenido.
+9. **Más adelante:** evaluar cuentas con sincronización automática de las marcas. Por ahora no.
+10. **Opcional:** sumar las pruebas de Playwright al repositorio y a la publicación, para que el sitio solo se publique si pasan.
 
 ## Comandos
 
