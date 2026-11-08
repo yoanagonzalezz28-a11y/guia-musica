@@ -1,0 +1,62 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "nigeria"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Seun Kuti A Long Way to the Beginning"
+  },
+  "id": "a-long-way-to-the-beginning",
+  "titulo": "A Long Way to the Beginning",
+  "credito": "Seun Kuti",
+  "lideres": [
+    "seun-kuti"
+  ],
+  "grabacion": {
+    "desde": 2014,
+    "hasta": 2014,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2014,
+    "detalle": null
+  },
+  "sello": "Knitting Factory Records",
+  "musicos": [
+    {
+      "musico": "seun-kuti",
+      "nombre": "Seun Kuti",
+      "instrumento": "saxo, voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "Afrobeat con Egypt 80 y algunos invitados del rap. Lo produjo el pianista Robert Glasper, que acerca el sonido al jazz y al hip hop actual. Es uno de los discos que el banco elige para conocer a Seun Kuti."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "mb-seun-kuti",
+      "acceso": "extracto",
+      "aporta": "Because Music y Knitting Factory, febrero de 2014."
+    }
+  ]
+}

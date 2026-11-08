@@ -1,0 +1,68 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "etiopia"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Samuel Yirga Guzo"
+  },
+  "id": "guzo",
+  "titulo": "Guzo",
+  "credito": "Samuel Yirga",
+  "lideres": [
+    "yirga"
+  ],
+  "grabacion": {
+    "desde": 2012,
+    "hasta": 2012,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2012,
+    "detalle": null
+  },
+  "sello": "Real World Records",
+  "musicos": [
+    {
+      "musico": "yirga",
+      "nombre": "Samuel Yirga",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "mundo",
+    "hoy"
+  ],
+  "comentario": [
+    "Piano solo y con grupo, entre el etiojazz, el soul y la música tradicional etíope, con invitados como el Creole Choir of Cuba. Guzo quiere decir \"viaje\" en amárico, y se grabó entre Adís Abeba y los estudios Real World, en Inglaterra. Es el disco clave de Samuel Yirga en la etapa \"Jazz del mundo\"."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "rw-guzo",
+      "acceso": "extracto",
+      "aporta": "Real World Records, 9 de julio de 2012; grabado en Adís Abeba y en Real World Studios; el título significa \"viaje\"."
+    },
+    {
+      "fuente": "npr-yirga",
+      "acceso": "extracto",
+      "aporta": "Reseña de 2012."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "japon"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Satoko Fujii Orchestra Kobe After the Storm"
+  },
+  "id": "after-the-storm",
+  "titulo": "After the Storm",
+  "credito": "Satoko Fujii",
+  "lideres": [
+    "fujii"
+  ],
+  "grabacion": {
+    "desde": 2026,
+    "hasta": 2026,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2026,
+    "detalle": null
+  },
+  "sello": "Libra Records",
+  "musicos": [
+    {
+      "musico": "fujii",
+      "nombre": "Satoko Fujii",
+      "instrumento": "piano, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "free",
+    "hoy"
+  ],
+  "comentario": [
+    "Su Orchestra Kobe, otra de sus big bands, en piezas propias. Es uno de los varios discos de orquesta que publicó en 2026. Es uno de los discos que el banco elige para conocer a Satoko Fujii."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "jj-fujii",
+      "acceso": "extracto",
+      "aporta": "Reseña de 2026."
+    }
+  ]
+}

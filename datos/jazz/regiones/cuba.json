@@ -104,6 +104,7 @@
   ],
   "escenaActual": [
     {
+      "musico": "falcon",
       "nombre": "Alejandro Falcón",
       "instrumento": "piano",
       "base": "La Habana",
@@ -115,6 +116,7 @@
       ]
     },
     {
+      "musico": "lopez-nussa",
       "nombre": "Harold López-Nussa",
       "instrumento": "piano",
       "base": null,
@@ -126,6 +128,7 @@
       ]
     },
     {
+      "musico": "virelles",
       "nombre": "David Virelles",
       "instrumento": "piano",
       "base": null,

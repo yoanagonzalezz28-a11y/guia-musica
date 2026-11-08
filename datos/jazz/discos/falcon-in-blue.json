@@ -1,0 +1,68 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "cuba"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Alejandro Falcón Falcón in Blue"
+  },
+  "id": "falcon-in-blue",
+  "titulo": "Falcón in Blue",
+  "credito": "Alejandro Falcón",
+  "lideres": [
+    "falcon"
+  ],
+  "grabacion": {
+    "desde": 2026,
+    "hasta": 2026,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2026,
+    "detalle": null
+  },
+  "sello": "Dot Time Records",
+  "musicos": [
+    {
+      "musico": "falcon",
+      "nombre": "Alejandro Falcón",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "latino",
+    "hoy"
+  ],
+  "comentario": [
+    "Piano de jazz latino con mucho blues, como anuncia el título. Se grabó en Cuba para Dot Time, un sello de Estados Unidos, y salió en mayo de 2026. Es uno de los discos que el banco elige para conocer a Alejandro Falcón."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "dottime-falcon-in-blue",
+      "acceso": "extracto",
+      "aporta": "Ficha del sello, 2026."
+    },
+    {
+      "fuente": "timba-falcon",
+      "acceso": "extracto",
+      "aporta": "Reseña de 2026."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "virelles",
+  "nombre": "David Virelles",
+  "nacimiento": {
+    "anio": 1983,
+    "lugar": "Santiago de Cuba"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "hoy",
+    "ecm"
+  ],
+  "regiones": [
+    "cuba"
+  ],
+  "spotify": "https://open.spotify.com/artist/2yHMWN7OFCTJ9ZiGSVU0F8",
+  "resumen": "Pianista cubano radicado en Nueva York que cruza el jazz de vanguardia con la música ritual afrocubana y la tradición de Santiago de Cuba.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2012,
+      "hasta": 2026,
+      "texto": "",
+      "discoClave": {
+        "disco": "mboko",
+        "explicacion": "Su debut en ECM, donde cruza el jazz con la música abakuá."
+      },
+      "discos": [
+        "continuum",
+        "gnosis",
+        "igbo-alakorin",
+        "creative-inspirations"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-david-virelles",
+    "mb-david-virelles"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "mboko",
+    "continuum",
+    "gnosis",
+    "igbo-alakorin",
+    "creative-inspirations"
+  ]
+}

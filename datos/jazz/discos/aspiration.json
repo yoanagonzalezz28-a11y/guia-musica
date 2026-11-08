@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "japon"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Satoko Fujii Aspiration"
+  },
+  "id": "aspiration",
+  "titulo": "Aspiration",
+  "credito": "Satoko Fujii",
+  "lideres": [
+    "fujii"
+  ],
+  "grabacion": {
+    "desde": 2017,
+    "hasta": 2017,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2017,
+    "detalle": null
+  },
+  "sello": "Libra Records",
+  "musicos": [
+    {
+      "musico": "fujii",
+      "nombre": "Satoko Fujii",
+      "instrumento": "piano, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "free",
+    "hoy"
+  ],
+  "comentario": [
+    "Piano con dos trompetas y electrónica, en improvisaciones lentas y abiertas. Junta a Wadada Leo Smith y a Natsuki Tamura, su marido, con la electrónica de Ikue Mori. Es el disco clave de Satoko Fujii en la etapa \"Jazz de hoy\"."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "aaj-aspiration",
+      "acceso": "extracto",
+      "aporta": "Libra Records, 2017; con Wadada Leo Smith, Natsuki Tamura e Ikue Mori."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "cuba"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "David Virelles Mbókò"
+  },
+  "id": "mboko",
+  "titulo": "Ḿbọ̀kọ́",
+  "credito": "David Virelles",
+  "lideres": [
+    "virelles"
+  ],
+  "grabacion": {
+    "desde": 2014,
+    "hasta": 2014,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2014,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "virelles",
+      "nombre": "David Virelles",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm",
+    "hoy"
+  ],
+  "comentario": [
+    "Piano con dos contrabajos, batería y el biankomeko, los tambores de la sociedad abakuá. Fue su debut en ECM, con Thomas Morgan y Robert Hurst en los contrabajos y Marcus Gilmore en batería. Es el disco clave de David Virelles en la etapa \"Jazz de hoy\"."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "mb-david-virelles",
+      "acceso": "extracto",
+      "aporta": "ECM, 10 de octubre de 2014."
+    }
+  ]
+}

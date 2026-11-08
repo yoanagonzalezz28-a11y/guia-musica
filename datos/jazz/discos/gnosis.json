@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "cuba"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "David Virelles Gnosis"
+  },
+  "id": "gnosis",
+  "titulo": "Gnosis",
+  "credito": "David Virelles",
+  "lideres": [
+    "virelles"
+  ],
+  "grabacion": {
+    "desde": 2017,
+    "hasta": 2017,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2017,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "virelles",
+      "nombre": "David Virelles",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "ecm",
+    "hoy"
+  ],
+  "comentario": [
+    "Un grupo grande con vientos de madera y percusión afrocubana, en piezas cortas que se encadenan. Sigue la búsqueda de *Ḿbọ̀kọ́* sobre la música ritual abakuá, ahora con un ensamble más amplio. Es uno de los discos que el banco elige para conocer a David Virelles."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "mb-david-virelles",
+      "acceso": "extracto",
+      "aporta": "ECM, 15 de septiembre de 2017."
+    }
+  ]
+}

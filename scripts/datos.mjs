@@ -160,6 +160,7 @@ export function validar(g, fuentes) {
     if (!r.escenaActual?.length) aviso(d, 'necesita músicos activos en escenaActual');
     for (const e of r.escenaActual || []) {
       const de = `${d}, ${e.nombre}`;
+      if (!e.musico) err(de, 'necesita el id de su ficha en "musico"'); else existe(de, g.por.musico, e.musico, 'músico');
       if (!Number.isInteger(e.ultimaActividad)) aviso(de, 'necesita el año de su última actividad documentada');
       if (new Set(e.fuentes).size < 2) aviso(de, 'necesita al menos dos fuentes');
       e.fuentes.forEach(f => { if (!fuentes[f]) err(de, `fuente inexistente: ${f}`); });

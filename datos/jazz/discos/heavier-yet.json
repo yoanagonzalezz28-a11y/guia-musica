@@ -1,0 +1,68 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "nigeria"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2xsxl1780BXMEfxw5ZsTja",
+    "via": "musicbrainz-o-busqueda"
+  },
+  "id": "heavier-yet",
+  "titulo": "Heavier Yet (Lays the Crownless Head)",
+  "credito": "Seun Kuti",
+  "lideres": [
+    "seun-kuti"
+  ],
+  "grabacion": {
+    "desde": 2024,
+    "hasta": 2024,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2024,
+    "detalle": null
+  },
+  "sello": "Record Kicks",
+  "musicos": [
+    {
+      "musico": "seun-kuti",
+      "nombre": "Seun Kuti",
+      "instrumento": "saxo, voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "Afrobeat con Egypt 80, la antigua banda de su padre, con un sonido más pesado y oscuro. Es su disco más reciente con la banda, y lo presentó como un llamado a la acción política. Es uno de los discos que el banco elige para conocer a Seun Kuti."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "rsa-seun",
+      "acceso": "extracto",
+      "aporta": "Nota de 2024."
+    },
+    {
+      "fuente": "afropop-seun",
+      "acceso": "extracto",
+      "aporta": "Reseña de 2024."
+    }
+  ]
+}

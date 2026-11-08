@@ -1,0 +1,62 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "nigeria"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Femi Kuti Fight to Win"
+  },
+  "id": "fight-to-win",
+  "titulo": "Fight to Win",
+  "credito": "Femi Kuti",
+  "lideres": [
+    "femi-kuti"
+  ],
+  "grabacion": {
+    "desde": 2001,
+    "hasta": 2001,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2001,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "femi-kuti",
+      "nombre": "Femi Kuti",
+      "instrumento": "saxo, voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "Afrobeat con invitados del hip hop y el soul de Estados Unidos, como Mos Def y Common. Es el disco en el que Femi abre el afrobeat a la música negra estadounidense de su tiempo. Es uno de los discos que el banco elige para conocer a Femi Kuti."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "mb-femi-kuti",
+      "acceso": "extracto",
+      "aporta": "Fecha de edición (16 de octubre de 2001)."
+    }
+  ]
+}

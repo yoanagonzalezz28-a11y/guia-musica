@@ -1,0 +1,52 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "falcon",
+  "nombre": "Alejandro Falcón",
+  "nacimiento": {
+    "anio": 1981,
+    "lugar": "Matanzas"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "latino",
+    "hoy"
+  ],
+  "regiones": [
+    "cuba"
+  ],
+  "spotify": "https://open.spotify.com/artist/1TYPyZeqwAxmsLSdJa1Zcn",
+  "resumen": "Pianista cubano nacido en Matanzas, la cuna del danzón, que actualiza esa música desde el latin jazz.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2012,
+      "hasta": 2026,
+      "texto": "",
+      "discoClave": {
+        "disco": "cuba-now-danzon",
+        "explicacion": "Su trabajo más claro sobre el danzón, la música de su ciudad natal."
+      },
+      "discos": [
+        "claroscuro",
+        "falcon-in-blue"
+      ]
+    }
+  ],
+  "fuentes": [
+    "hms-falcon",
+    "oncuba-falcon"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "cuba-now-danzon",
+    "claroscuro",
+    "falcon-in-blue"
+  ]
+}

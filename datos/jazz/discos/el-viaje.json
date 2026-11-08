@@ -1,0 +1,64 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "cuba"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5QdJxq7c8zJO0A4Uy8nzCK",
+    "via": "musicbrainz-o-busqueda"
+  },
+  "id": "el-viaje",
+  "titulo": "El Viaje",
+  "credito": "Harold López-Nussa",
+  "lideres": [
+    "lopez-nussa"
+  ],
+  "grabacion": {
+    "desde": 2016,
+    "hasta": 2016,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2016,
+    "detalle": null
+  },
+  "sello": "Mack Avenue",
+  "musicos": [
+    {
+      "musico": "lopez-nussa",
+      "nombre": "Harold López-Nussa",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "latino",
+    "hoy"
+  ],
+  "comentario": [
+    "Piano con su trío e invitados, entre el jazz, la música cubana y ritmos africanos. Fue su primer disco para Mack Avenue, con el bajista senegalés Alune Wade entre los invitados. Es uno de los discos que el banco elige para conocer a Harold López-Nussa."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "mb-harold-lopez-nussa",
+      "acceso": "extracto",
+      "aporta": "Sello y año."
+    }
+  ]
+}

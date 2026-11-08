@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "japon"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Satoko Fujii Orchestra Tokyo Kappa Ondo"
+  },
+  "id": "kappa-ondo",
+  "titulo": "Kappa Ondo",
+  "credito": "Satoko Fujii",
+  "lideres": [
+    "fujii"
+  ],
+  "grabacion": {
+    "desde": 2026,
+    "hasta": 2026,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2026,
+    "detalle": null
+  },
+  "sello": "Libra Records",
+  "musicos": [
+    {
+      "musico": "fujii",
+      "nombre": "Satoko Fujii",
+      "instrumento": "piano, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "free",
+    "hoy"
+  ],
+  "comentario": [
+    "Su Orchestra Tokyo en un disco doble, con mucha energía colectiva. Las piezas llevan nombres de criaturas del folclore japonés, como el kappa, el kitsune y el oni. Es uno de los discos que el banco elige para conocer a Satoko Fujii."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "aaj-fujii",
+      "acceso": "extracto",
+      "aporta": "Reseña de 2026, con la lista de temas."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "yirga",
+  "nombre": "Samuel Yirga",
+  "nacimiento": {
+    "anio": null,
+    "lugar": "Adís Abeba"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "mundo",
+    "hoy"
+  ],
+  "regiones": [
+    "etiopia"
+  ],
+  "spotify": null,
+  "resumen": "Pianista etíope que renueva el etiojazz; grabó para Real World, el sello de Peter Gabriel, y tocó en Dub Colossus.",
+  "epocas": [
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 2012,
+      "hasta": 2023,
+      "texto": "",
+      "discoClave": {
+        "disco": "guzo",
+        "explicacion": "Su debut, entre el etiojazz, el soul y la música tradicional etíope."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-samuel-yirga"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "guzo"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "cuba"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5mn5iwfIRb069gdc5kyrVZ",
+    "via": "musicbrainz-o-busqueda"
+  },
+  "id": "un-dia-cualquiera",
+  "titulo": "Un Día Cualquiera",
+  "credito": "Harold López-Nussa",
+  "lideres": [
+    "lopez-nussa"
+  ],
+  "grabacion": {
+    "desde": 2018,
+    "hasta": 2018,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2018,
+    "detalle": null
+  },
+  "sello": "Mack Avenue",
+  "musicos": [
+    {
+      "musico": "lopez-nussa",
+      "nombre": "Harold López-Nussa",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "latino",
+    "hoy"
+  ],
+  "comentario": [
+    "Trío de piano en temas propios y clásicos cubanos, con un swing muy suelto. Lo completan su hermano Ruy Adrián López-Nussa en batería y Julio César González en contrabajo. Es uno de los discos que el banco elige para conocer a Harold López-Nussa."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "mb-harold-lopez-nussa",
+      "acceso": "extracto",
+      "aporta": "Sello y fecha (15 de junio de 2018)."
+    }
+  ]
+}

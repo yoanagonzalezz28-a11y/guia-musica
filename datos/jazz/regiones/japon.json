@@ -46,6 +46,7 @@
   "figurasPendientes": [],
   "escenaActual": [
     {
+      "musico": "fujii",
       "nombre": "Satoko Fujii",
       "instrumento": "piano y dirección",
       "base": null,
@@ -57,6 +58,7 @@
       ]
     },
     {
+      "musico": "asari",
       "nombre": "Fumika Asari",
       "instrumento": "guitarra",
       "base": "Tokio",

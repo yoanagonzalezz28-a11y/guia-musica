@@ -59,6 +59,7 @@
   ],
   "escenaActual": [
     {
+      "musico": "youssef",
       "nombre": "Dhafer Youssef",
       "instrumento": "oud y voz",
       "base": null,
@@ -70,6 +71,7 @@
       ]
     },
     {
+      "musico": "brahem",
       "nombre": "Anouar Brahem",
       "instrumento": "oud",
       "base": null,

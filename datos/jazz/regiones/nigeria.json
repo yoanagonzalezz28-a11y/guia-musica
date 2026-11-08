@@ -40,6 +40,7 @@
   ],
   "escenaActual": [
     {
+      "musico": "femi-kuti",
       "nombre": "Femi Kuti",
       "instrumento": "saxo y voz",
       "base": "Lagos",
@@ -51,6 +52,7 @@
       ]
     },
     {
+      "musico": "seun-kuti",
       "nombre": "Seun Kuti",
       "instrumento": "saxo y voz",
       "base": "Lagos",

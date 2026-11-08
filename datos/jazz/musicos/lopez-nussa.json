@@ -1,0 +1,53 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "lopez-nussa",
+  "nombre": "Harold López-Nussa",
+  "nacimiento": {
+    "anio": 1983,
+    "lugar": "La Habana"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "latino",
+    "hoy"
+  ],
+  "regiones": [
+    "cuba"
+  ],
+  "spotify": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR",
+  "resumen": "Pianista cubano de una familia de músicos, que lleva la timba y la música popular de la isla a un trío de jazz.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2016,
+      "hasta": 2026,
+      "texto": "",
+      "discoClave": {
+        "disco": "timba-a-la-americana",
+        "explicacion": "Su llegada a Blue Note, con la timba como base."
+      },
+      "discos": [
+        "el-viaje",
+        "un-dia-cualquiera",
+        "nueva-timba"
+      ]
+    }
+  ],
+  "fuentes": [
+    "mb-harold-lopez-nussa"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "timba-a-la-americana",
+    "el-viaje",
+    "un-dia-cualquiera",
+    "nueva-timba"
+  ]
+}

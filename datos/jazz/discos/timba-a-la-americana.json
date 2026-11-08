@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "cuba"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Harold López-Nussa Timba a la Americana"
+  },
+  "id": "timba-a-la-americana",
+  "titulo": "Timba a la Americana",
+  "credito": "Harold López-Nussa",
+  "lideres": [
+    "lopez-nussa"
+  ],
+  "grabacion": {
+    "desde": 2023,
+    "hasta": 2023,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2023,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "lopez-nussa",
+      "nombre": "Harold López-Nussa",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "latino",
+    "hoy"
+  ],
+  "comentario": [
+    "La timba, la música bailable cubana de los 90, tocada por un grupo de jazz con armónica. Fue su primer disco para Blue Note, producido por Michael League, de Snarky Puppy, con Grégoire Maret en armónica. Es el disco clave de Harold López-Nussa en la etapa \"Jazz de hoy\"."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "mb-harold-lopez-nussa",
+      "acceso": "extracto",
+      "aporta": "Blue Note, 25 de agosto de 2023."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "nigeria"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7hOXAn7l304hJRxOmVO6XQ",
+    "via": "musicbrainz-o-busqueda"
+  },
+  "id": "from-africa-with-fury-rise",
+  "titulo": "From Africa With Fury: Rise",
+  "credito": "Seun Kuti",
+  "lideres": [
+    "seun-kuti"
+  ],
+  "grabacion": {
+    "desde": 2011,
+    "hasta": 2011,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2011,
+    "detalle": null
+  },
+  "sello": "Because Music",
+  "musicos": [
+    {
+      "musico": "seun-kuti",
+      "nombre": "Seun Kuti",
+      "instrumento": "saxo, voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "Afrobeat con letras políticas y una producción más pulida. Lo coprodujo Brian Eno. Es el disco clave de Seun Kuti en la etapa \"Jazz del mundo\"."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "mb-seun-kuti",
+      "acceso": "extracto",
+      "aporta": "Because Music, 4 de abril de 2011."
+    }
+  ]
+}

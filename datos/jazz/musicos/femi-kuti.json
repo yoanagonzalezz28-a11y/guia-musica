@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "femi-kuti",
+  "nombre": "Femi Kuti",
+  "nacimiento": {
+    "anio": 1962,
+    "lugar": "Londres"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "saxo",
+    "voz"
+  ],
+  "corrientes": [
+    "mundo"
+  ],
+  "regiones": [
+    "nigeria"
+  ],
+  "spotify": "https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb",
+  "resumen": "Saxofonista y cantante nigeriano, hijo mayor de Fela Kuti, que sigue el afrobeat de su padre con su banda Positive Force.",
+  "epocas": [
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 1998,
+      "hasta": 2025,
+      "texto": "",
+      "discoClave": {
+        "disco": "shoki-shoki",
+        "explicacion": "El disco que lo hizo conocido fuera de Nigeria."
+      },
+      "discos": [
+        "fight-to-win",
+        "africa-for-africa",
+        "stop-the-hate",
+        "journey-through-life"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-femi-kuti",
+    "mb-femi-kuti"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "shoki-shoki",
+    "fight-to-win",
+    "africa-for-africa",
+    "stop-the-hate",
+    "journey-through-life"
+  ]
+}

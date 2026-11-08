@@ -1,0 +1,68 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "cuba"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Harold López-Nussa Nueva Timba"
+  },
+  "id": "nueva-timba",
+  "titulo": "Nueva Timba",
+  "credito": "Harold López-Nussa",
+  "lideres": [
+    "lopez-nussa"
+  ],
+  "grabacion": {
+    "desde": 2025,
+    "hasta": 2025,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2025,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "lopez-nussa",
+      "nombre": "Harold López-Nussa",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "latino",
+    "hoy"
+  ],
+  "comentario": [
+    "Timba y jazz con un grupo eléctrico, en la línea de *Timba a la Americana*. Es su segundo disco para Blue Note, y en mayo de 2026 lo presentó en el festival de Bray, en Irlanda. Es uno de los discos que el banco elige para conocer a Harold López-Nussa."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "bn-lopez-nussa",
+      "acceso": "extracto",
+      "aporta": "Anuncio del sello, 2025."
+    },
+    {
+      "fuente": "aaj-lopez-nussa",
+      "acceso": "extracto",
+      "aporta": "Concierto en Bray, 2026."
+    }
+  ]
+}

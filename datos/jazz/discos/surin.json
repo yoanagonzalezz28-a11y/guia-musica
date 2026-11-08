@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Juan Ibarra Ramiro Zayas Surin"
+  },
+  "id": "surin",
+  "titulo": "Surin",
+  "credito": "Juan Ibarra",
+  "lideres": [
+    "ibarra"
+  ],
+  "grabacion": {
+    "desde": 2025,
+    "hasta": 2025,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2025,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "ibarra",
+      "nombre": "Juan Ibarra",
+      "instrumento": "batería, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "rioplat",
+    "hoy"
+  ],
+  "comentario": [
+    "Batería y piano en un proyecto compartido con el pianista Ramiro Zayas. Salió en 2025 y lo adelantaron con el tema \"Argento\". Es uno de los discos que el banco elige para conocer a Juan Ibarra."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "cooltivarte-ibarra",
+      "acceso": "extracto",
+      "aporta": "Presentación de \"Argento\", adelanto de Surin (2025)."
+    }
+  ]
+}

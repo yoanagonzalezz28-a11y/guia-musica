@@ -359,7 +359,9 @@ main { max-width: var(--ancho); margin: 0 auto; padding: 0 var(--gutter) 72px; }
 .escena { display: grid; gap: 14px; }
 .escena li { padding: 14px; background: var(--papel-2); }
 .escena-cabeza { display: flex; flex-wrap: wrap; align-items: baseline; gap: 2px 12px; }
-.escena-cabeza strong { font: 400 1.875rem/1 var(--display); text-transform: uppercase; }
+.escena-nombre { font: 400 1.875rem/1 var(--display); text-transform: uppercase; color: var(--tinta); text-decoration: none; }
+.escena-nombre:hover { text-decoration: underline; }
+.escena-actividad { color: var(--gris); font-size: .8125rem; }
 .escena p { margin: 6px 0 0; }
 .tintas { --alto: calc(var(--filas, 2) * clamp(110px, 17vw, 200px)); margin-top: 24px; }
 .tintas-marco { position: relative; height: var(--alto); border-bottom: 1px solid var(--tinta); }

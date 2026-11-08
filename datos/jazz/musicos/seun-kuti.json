@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "seun-kuti",
+  "nombre": "Seun Kuti",
+  "nacimiento": {
+    "anio": 1983,
+    "lugar": "Lagos"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "saxo",
+    "voz"
+  ],
+  "corrientes": [
+    "mundo"
+  ],
+  "regiones": [
+    "nigeria"
+  ],
+  "spotify": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ",
+  "resumen": "Cantante y saxofonista nigeriano, hijo menor de Fela Kuti, que dirige Egypt 80, la última banda de su padre.",
+  "epocas": [
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 2008,
+      "hasta": 2024,
+      "texto": "",
+      "discoClave": {
+        "disco": "from-africa-with-fury-rise",
+        "explicacion": "Afrobeat político, coproducido por Brian Eno."
+      },
+      "discos": [
+        "many-things",
+        "a-long-way-to-the-beginning",
+        "black-times",
+        "heavier-yet"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-seun-kuti",
+    "mb-seun-kuti"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "from-africa-with-fury-rise",
+    "many-things",
+    "a-long-way-to-the-beginning",
+    "black-times",
+    "heavier-yet"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "detalle": "Algunas listas lo fechan en 2020; las reseñas, en 2021."
+    }
+  ],
+  "regiones": [
+    "japon"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Satoko Fujii Hazuki"
+  },
+  "id": "hazuki",
+  "titulo": "Hazuki",
+  "credito": "Satoko Fujii",
+  "lideres": [
+    "fujii"
+  ],
+  "grabacion": {
+    "desde": 2021,
+    "hasta": 2021,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2021,
+    "detalle": null
+  },
+  "sello": "Libra Records",
+  "musicos": [
+    {
+      "musico": "fujii",
+      "nombre": "Satoko Fujii",
+      "instrumento": "piano, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "free",
+    "hoy"
+  ],
+  "comentario": [
+    "Piano solo, íntimo y de mucho silencio. Lo grabó en su casa, en la sala donde practica, en los meses en que no podía tocar en público. Es uno de los discos que el banco elige para conocer a Satoko Fujii."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "jp-hazuki",
+      "acceso": "extracto",
+      "aporta": "Salió el 19 de marzo de 2021; grabado en su sala de práctica."
+    }
+  ]
+}

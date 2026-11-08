@@ -1,0 +1,50 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "asari",
+  "nombre": "Fumika Asari",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "guitarra"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "regiones": [
+    "japon"
+  ],
+  "spotify": "https://open.spotify.com/artist/0XhLhf8Kv1Ox6l7Y2l9gtK",
+  "resumen": "Guitarrista japonesa de jazz, de sonido limpio y fraseo de la tradición del bebop, con base en Tokio.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2020,
+      "hasta": 2026,
+      "texto": "",
+      "discoClave": {
+        "disco": "thanks-for-emily",
+        "explicacion": "Un homenaje a Emily Remler, con temas propios y estándares."
+      },
+      "discos": [
+        "introducin",
+        "enter-a-new-phase"
+      ]
+    }
+  ],
+  "fuentes": [
+    "mb-fumika-asari"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "thanks-for-emily",
+    "introducin",
+    "enter-a-new-phase"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "ibarra",
+  "nombre": "Juan Ibarra",
+  "nacimiento": {
+    "anio": null,
+    "lugar": "Montevideo"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "batería",
+    "composición"
+  ],
+  "corrientes": [
+    "rioplat",
+    "hoy"
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "spotify": "https://open.spotify.com/artist/2cNQlFJx5v5M8yX6gRfATS",
+  "resumen": "Baterista y compositor de Montevideo que mezcla el candombe con el jazz; dirige su propio quinteto y enseña en el Conservatorio de Música Sur.",
+  "epocas": [
+    {
+      "titulo": "Jazz rioplatense",
+      "desde": 2018,
+      "hasta": 2025,
+      "texto": "",
+      "discoClave": {
+        "disco": "naumay",
+        "explicacion": "Su debut, donde el candombe es el punto de partida."
+      },
+      "discos": [
+        "arco-ibarra",
+        "surin"
+      ]
+    }
+  ],
+  "fuentes": [
+    "aaj-ibarra-bio",
+    "aaj-naumay"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "naumay",
+    "arco-ibarra",
+    "surin"
+  ]
+}

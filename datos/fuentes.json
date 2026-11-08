@@ -5175,5 +5175,157 @@
     "url": "https://musicbrainz.org/artist/76fb7908-e8cf-4b7f-86ee-18c20f998000",
     "consultada": "2026-11-09",
     "estado": "consultada"
+  },
+  "wp-david-virelles": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "David Virelles (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/David_Virelles",
+    "consultada": "2026-11-08",
+    "estado": "consultada"
+  },
+  "wp-femi-kuti": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Femi Kuti (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Femi_Kuti",
+    "consultada": "2026-11-08",
+    "estado": "consultada"
+  },
+  "wp-seun-kuti": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Seun Kuti (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Seun_Kuti",
+    "consultada": "2026-11-08",
+    "estado": "consultada"
+  },
+  "wp-satoko-fujii": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Satoko Fujii (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Satoko_Fujii",
+    "consultada": "2026-11-08",
+    "estado": "consultada"
+  },
+  "wp-samuel-yirga": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Samuel Yirga (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Samuel_Yirga",
+    "consultada": "2026-11-08",
+    "estado": "consultada"
+  },
+  "mb-harold-lopez-nussa": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Harold López-Nussa en MusicBrainz",
+    "url": "https://musicbrainz.org/artist/1e107a6a-7350-44d4-b450-e024c99f29de",
+    "consultada": "2026-11-08",
+    "estado": "consultada"
+  },
+  "mb-david-virelles": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "David Virelles en MusicBrainz",
+    "url": "https://musicbrainz.org/artist/efabc055-7d63-47f2-a44b-de750556f0b0",
+    "consultada": "2026-11-08",
+    "estado": "consultada"
+  },
+  "mb-femi-kuti": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Femi Kuti en MusicBrainz",
+    "url": "https://musicbrainz.org/artist/702d2b90-eef0-4354-b2c4-6366eba92b7f",
+    "consultada": "2026-11-08",
+    "estado": "consultada"
+  },
+  "mb-seun-kuti": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Seun Kuti en MusicBrainz",
+    "url": "https://musicbrainz.org/artist/02e5d1fe-db84-450d-b58f-b4f5a34a7a35",
+    "consultada": "2026-11-08",
+    "estado": "consultada"
+  },
+  "mb-fumika-asari": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Fumika Asari en MusicBrainz",
+    "url": "https://musicbrainz.org/artist/96f8c320-ae4a-4294-b5cf-cbaa77b52109",
+    "consultada": "2026-11-08",
+    "estado": "consultada"
+  },
+  "timba-claroscuro": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Bill Tilford, Timba.com: reseña de Claroscuro (2012)",
+    "url": "https://www.timba.com/reviews/claroscuro-cinquillo-colibri-released-2012",
+    "consultada": "2026-11-08",
+    "estado": "consultada"
+  },
+  "timba-cuba-now-danzon": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Timba.com: reseña de Cuba Now Danzón (Colibrí)",
+    "url": "https://www.timba.com/reviews/cuba-now-danz-n-colibr-2015",
+    "consultada": "2026-11-08",
+    "estado": "consultada"
+  },
+  "oncuba-falcon": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "OnCuba News: \"Alejandro Falcón, la evolución constante de la música\"",
+    "url": "https://oncubanews.com/en/culture/alejandro-falcon-constant-evolution-music/",
+    "consultada": "2026-11-08",
+    "estado": "consultada"
+  },
+  "hms-falcon": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Havana Music School: Alejandro Falcón",
+    "url": "https://havanamusicschool.com/alejandro-falcon-supports-the-cuban-culture",
+    "consultada": "2026-11-08",
+    "estado": "consultada"
+  },
+  "dottime-falcon-in-blue": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Dot Time Records: Falcón in Blue (2026)",
+    "url": "https://www.dottimerecords.com/product/falconinblue/",
+    "consultada": "2026-11-08",
+    "estado": "consultada"
+  },
+  "rw-guzo": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Real World Records: Guzo (2012)",
+    "url": "https://realworldrecords.com/releases/guzo",
+    "consultada": "2026-11-08",
+    "estado": "consultada"
+  },
+  "aaj-aspiration": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "All About Jazz: Aspiration",
+    "url": "https://www.allaboutjazz.com/album/aspiration-satoko-fujii",
+    "consultada": "2026-11-08",
+    "estado": "consultada"
+  },
+  "jp-hazuki": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Jazz Press: Hazuki, de Satoko Fujii (2021)",
+    "url": "https://jazzpress.gpoint-audio.com/2021/03/march-19th-2021-release-via-libra-records-satoko-fujii-hazuki/",
+    "consultada": "2026-11-08",
+    "estado": "consultada"
+  },
+  "aaj-naumay": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "All About Jazz: NauMay, de Juan Ibarra",
+    "url": "https://www.allaboutjazz.com/album/naumay-juan-ibarra",
+    "consultada": "2026-11-08",
+    "estado": "consultada"
   }
 }

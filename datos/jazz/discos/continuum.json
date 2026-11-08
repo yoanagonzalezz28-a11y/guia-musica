@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "cuba"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2SIPkK3RLrF96EMNm2KH0w",
+    "via": "musicbrainz-o-busqueda"
+  },
+  "id": "continuum",
+  "titulo": "Continuum",
+  "credito": "David Virelles",
+  "lideres": [
+    "virelles"
+  ],
+  "grabacion": {
+    "desde": 2012,
+    "hasta": 2012,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2012,
+    "detalle": null
+  },
+  "sello": "Pi Recordings",
+  "musicos": [
+    {
+      "musico": "virelles",
+      "nombre": "David Virelles",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Piano con contrabajo, batería y la voz y percusión de Román Díaz, en un clima ritual. Andrew Cyrille toca la batería y Ben Street el contrabajo; fue su primer disco para el sello Pi. Es uno de los discos que el banco elige para conocer a David Virelles."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "mb-david-virelles",
+      "acceso": "extracto",
+      "aporta": "Pi Recordings, 9 de octubre de 2012."
+    }
+  ]
+}

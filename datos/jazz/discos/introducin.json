@@ -1,0 +1,62 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "japon"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Fumika Asari Introducin'"
+  },
+  "id": "introducin",
+  "titulo": "Introducin'",
+  "credito": "Fumika Asari",
+  "lideres": [
+    "asari"
+  ],
+  "grabacion": {
+    "desde": 2020,
+    "hasta": 2020,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2020,
+    "detalle": null
+  },
+  "sello": "ReBorn Wood",
+  "musicos": [
+    {
+      "musico": "asari",
+      "nombre": "Fumika Asari",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Guitarra de jazz clásica en estándares como \"Black Orpheus\", \"Bluesette\" y \"Daahoud\". Fue su debut, en el sello japonés ReBorn Wood. Es uno de los discos que el banco elige para conocer a Fumika Asari."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "mb-fumika-asari",
+      "acceso": "extracto",
+      "aporta": "Sello y año."
+    }
+  ]
+}

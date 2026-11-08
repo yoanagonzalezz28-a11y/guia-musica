@@ -1,0 +1,64 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "cuba"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4v5jdfgbKnskhiBd7Ir9D3",
+    "via": "musicbrainz-o-busqueda"
+  },
+  "id": "igbo-alakorin",
+  "titulo": "Igbó Alákọrin (The Singer’s Grove) Vol. I and II",
+  "credito": "David Virelles",
+  "lideres": [
+    "virelles"
+  ],
+  "grabacion": {
+    "desde": 2018,
+    "hasta": 2018,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2018,
+    "detalle": null
+  },
+  "sello": "Pi Recordings",
+  "musicos": [
+    {
+      "musico": "virelles",
+      "nombre": "David Virelles",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "latino",
+    "hoy"
+  ],
+  "comentario": [
+    "Son, bolero y trova de Santiago de Cuba, con músicos veteranos de la ciudad. Virelles volvió a su ciudad natal para grabar ese repertorio popular, lejos de la vanguardia de sus otros discos. Es uno de los discos que el banco elige para conocer a David Virelles."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "mb-david-virelles",
+      "acceso": "extracto",
+      "aporta": "Pi Recordings, 26 de octubre de 2018."
+    }
+  ]
+}

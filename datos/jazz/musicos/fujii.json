@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "fujii",
+  "nombre": "Satoko Fujii",
+  "nacimiento": {
+    "anio": 1958,
+    "lugar": "Tokio"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano",
+    "composición"
+  ],
+  "corrientes": [
+    "free",
+    "hoy"
+  ],
+  "regiones": [
+    "japon"
+  ],
+  "spotify": "https://open.spotify.com/artist/5HJpl8Zl0LtOhX136cTDJX",
+  "resumen": "Pianista y compositora japonesa de la vanguardia, con una discografía enorme y varias orquestas propias, en Tokio, Kobe y otras ciudades.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2017,
+      "hasta": 2026,
+      "texto": "",
+      "discoClave": {
+        "disco": "aspiration",
+        "explicacion": "Un encuentro con Wadada Leo Smith, Natsuki Tamura e Ikue Mori, en improvisaciones abiertas."
+      },
+      "discos": [
+        "hazuki",
+        "kappa-ondo",
+        "after-the-storm"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-satoko-fujii"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "aspiration",
+    "hazuki",
+    "kappa-ondo",
+    "after-the-storm"
+  ]
+}

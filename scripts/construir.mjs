@@ -25,7 +25,10 @@ const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': 
 const sinCitas = s => String(s ?? '').replace(/\[\^[a-z0-9-]+\]/g, '').replace(/\*/g, '');
 const unir = (lista, ultimo = ' y ') => lista.length < 2 ? lista.join('') : `${lista.slice(0, -1).join(', ')}${ultimo}${lista.at(-1)}`;
 const rangoAnios = (a, b) => (a === b ? `${a}` : `${a}–${b}`);
-const aniosVida = m => (m.nacimiento.anio ? `${m.nacimiento.anio}–${m.muerte?.anio ?? ''}` : 'Grupo');
+// Sin año de nacimiento: "Grupo" solo si de verdad es un grupo; si no, no se muestra nada.
+const esGrupo = m => m.instrumentos.some(i => /^(grupo|colectivo|piano trío)$/.test(i));
+const aniosVida = m => (m.nacimiento.anio ? `${m.nacimiento.anio}–${m.muerte?.anio ?? ''}` : esGrupo(m) ? 'Grupo' : '');
+const vidaE = (...partes) => partes.filter(Boolean).join(' · ');
 const anioDisco = d => d.edicion.anio;
 const hastaHoy = c => c.periodo.hasta >= new Date().getFullYear() - 1;
 const finEpoca = c => (hastaHoy(c) ? 'hoy' : c.periodo.hasta);
@@ -148,6 +151,8 @@ function bloqueRespaldo(x) {
   }).join('')}</ul></section>`;
 }
 
+// La escena actual vive en la región; la ficha del músico la muestra también.
+const actividadDe = id => g.regiones.flatMap(r => (r.escenaActual || []).filter(e => e.musico === id));
 const enlaceMusico = (ctx, id) => { const m = g.por.musico.get(id); return `<a href="${ctx.a(URL.musico(id))}">${esc(m.nombre)}</a>`; };
 const enlaceCorriente = (ctx, id) => { const c = g.por.corriente.get(id); return `<a href="${ctx.a(URL.corriente(id))}">${esc(c.nombre)}</a>`; };
 const enlaceRegion = (ctx, id) => { const r = g.por.region.get(id); return `<a href="${ctx.a(URL.region(id))}">${esc(r.nombre)}</a>`; };
@@ -221,7 +226,7 @@ const familiasDe = m => Object.entries(FAMILIAS).filter(([, re]) => m.instrument
 function tarjetaMusico(ctx, id) {
   const m = g.por.musico.get(id);
   const discos = discosDe(g, id).map(d => d.id);
-  return `<li class="tarjeta-musico" data-corriente="${esc(m.corrientes.join(' '))}" data-instrumento="${esc(familiasDe(m).join(' '))}" data-discos-de="${esc(discos.join(' '))}"><a href="${ctx.a(URL.musico(id))}"><strong>${esc(m.nombre)}</strong><span>${esc(aniosVida(m))} · ${esc(m.instrumentos[0] || '')}</span></a>${marcarMusico(m)}</li>`;
+  return `<li class="tarjeta-musico" data-corriente="${esc(m.corrientes.join(' '))}" data-instrumento="${esc(familiasDe(m).join(' '))}" data-discos-de="${esc(discos.join(' '))}"><a href="${ctx.a(URL.musico(id))}"><strong>${esc(m.nombre)}</strong><span>${esc(vidaE(aniosVida(m), m.instrumentos[0]))}</span></a>${marcarMusico(m)}</li>`;
 }
 
 // ---------- Tapas de disco: las épocas ----------
@@ -460,7 +465,7 @@ const construir = {
       titulo: m.nombre, descripcion: m.resumen, seccion: 'musicos',
       cuerpo: `<div style="${tintaVars(principal)}">
       <header class="heroe-musico">
-        <p class="heroe-anios dato">${esc(aniosVida(m))} · ${esc(unir(m.instrumentos))}</p>
+        <p class="heroe-anios dato">${esc(vidaE(aniosVida(m), unir(m.instrumentos)))}</p>
         <h1 style="--largo:${largoTitular(m.nombre)}">${esc(m.nombre)}</h1>
         ${m.redescubrimiento ? `<p>${etiquetaRedescubrimiento(true)}</p>` : ''}
         <p class="heroe-datos">${m.nacimiento.lugar ? `Nació en ${esc(m.nacimiento.lugar)}. ` : ''}${m.apodo ? `Le decían ${esc(m.apodo)}. ` : ''}${m.corrientes.length ? `${m.corrientes.length === 1 ? 'Época' : 'Épocas'}: ${unir(m.corrientes.map(c => enlaceCorriente(ctx, c)))}. ` : ''}${m.regiones.length ? `Regiones: ${unir(m.regiones.map(r => enlaceRegion(ctx, r)))}.` : ''}</p>
@@ -469,6 +474,7 @@ const construir = {
       </header>
       <div class="lectura bloque"><p class="entrada">${ctx.texto(m.resumen)}</p>
       ${m.redescubrimiento ? `<p class="nota-datos"><strong>Por qué es un redescubrimiento.</strong> ${ctx.texto(m.redescubrimiento.motivo)}</p>` : ''}</div>
+      ${actividadDe(m.id).map(e => `<p class="nota-datos lectura"><strong>Última actividad documentada: ${e.ultimaActividad}.</strong> ${ctx.texto(`${e.detalle}${e.fuentes.map(f => `[^${f}]`).join('')}`)}</p>`).join('')}
       ${m.epocas.length ? `<section class="bloque" aria-label="Carrera por épocas"><h2>Su carrera</h2><div class="epocas">
         ${m.epocas.map(e => {
           const clave = g.por.disco.get(e.discoClave.disco);
@@ -603,7 +609,7 @@ const construir = {
       <div class="lectura bloque">${r.texto.map(p => `<p>${ctx.texto(p)}</p>`).join('')}
       ${r.corrientes.length ? `<p>Épocas relacionadas: ${unir(r.corrientes.filter(c => g.por.corriente.has(c)).map(c => enlaceCorriente(ctx, c)))}.</p>` : ''}</div>
       ${r.sellos?.length ? `<section class="bloque"><h2>Sellos y lugares</h2><ul class="sellos">${r.sellos.map(s => `<li><strong>${esc(s.nombre)}</strong><span>${ctx.texto(s.texto)}</span></li>`).join('')}</ul></section>` : ''}
-      ${r.escenaActual?.length ? `<section class="bloque"><h2>Escena actual</h2><p class="ayuda">Músicos activos hoy, con su última actividad que pudimos documentar.</p><ul class="escena">${r.escenaActual.map(e => `<li><div class="escena-cabeza"><strong>${esc(e.nombre)}</strong><span class="dato">${esc(e.instrumento)}${e.base ? ` · ${esc(e.base)}` : ''}</span></div><p>${ctx.texto(e.detalle)}</p><p class="respaldo-fuente">Última actividad documentada: ${e.ultimaActividad}. Fuentes: ${e.fuentes.map(f => `<a href="${esc(fuentes[f].url)}" rel="noopener">${esc(fuentes[f].titulo)}</a>`).join(' · ')}</p></li>`).join('')}</ul></section>` : ''}
+      ${r.escenaActual?.length ? `<section class="bloque"><h2>Escena actual</h2><p class="ayuda">Músicos activos hoy, con su última actividad que pudimos documentar.</p><ul class="escena">${r.escenaActual.map(e => `<li><div class="escena-cabeza"><a class="escena-nombre" href="${ctx.a(URL.musico(e.musico))}">${esc(e.nombre)}</a><span class="dato">${esc(e.instrumento)}${e.base ? ` · ${esc(e.base)}` : ''}</span></div><p>${ctx.texto(`${e.detalle}${e.fuentes.map(f => `[^${f}]`).join('')}`)}</p><p class="escena-actividad">Última actividad documentada: ${e.ultimaActividad}</p></li>`).join('')}</ul></section>` : ''}
       <section class="bloque"><h2>Músicos</h2>${r.musicos.length ? `<ul class="lista-musicos">${r.musicos.filter(id => g.por.musico.has(id)).map(id => tarjetaMusico(ctx, id)).join('')}</ul>` : ''}
 </section>
       ${discos.length ? `<section class="bloque"><h2>Discos</h2><ul class="lista-discos">${discos.map(d => filaDisco(ctx, d)).join('')}</ul></section>` : ''}
@@ -773,10 +779,10 @@ function indiceDeBusqueda() {
   const item = (tipo, titulo, sub, url, extra = '') => ({ tipo, titulo, sub, url, claves: `${titulo} ${sub} ${extra}` });
   return [
     ...g.corrientes.map(c => item('Época', c.nombre, c.lema, URL.corriente(c.id), (c.alias || []).join(' '))),
-    ...g.musicos.map(m => item('Músico', m.nombre, `${aniosVida(m)} · ${m.instrumentos.join(', ')}`, URL.musico(m.id), m.apodo || '')),
+    ...g.musicos.map(m => item('Músico', m.nombre, vidaE(aniosVida(m), m.instrumentos.join(', ')), URL.musico(m.id), m.apodo || '')),
     ...g.discos.map(d => item('Disco', d.titulo, `${d.credito}, ${d.edicion.anio}`, URL.disco(d.id), `${d.sello || ''} ${d.musicos.map(m => m.nombre).join(' ')} ${d.tipo === 'vivo' ? 'en vivo' : 'estudio'} ${d.redescubrimiento ? 'redescubrimiento' : ''}`)),
     ...g.regiones.map(r => item('Región', r.nombre, r.resumen, URL.region(r.id))),
-    ...g.regiones.flatMap(r => (r.escenaActual || []).map(e => item('Escena actual', e.nombre, `${e.instrumento} · ${r.nombre}`, URL.region(r.id)))),
+    ...g.regiones.flatMap(r => (r.escenaActual || []).map(e => item('Escena actual', e.nombre, `${e.instrumento} · ${r.nombre}`, URL.musico(e.musico)))),
     ...g.comparaciones.map(x => item('Comparación', x.titulo, 'Dos épocas frente a frente', URL.comparacion(x.id))),
     ...g.podcasts.map(p => item('Podcast', p.nombre, p.descripcion, URL.podcasts())),
     ...g.audiovisual.map(x => item(TIPO_AV[x.tipo], x.titulo, `${x.anio}${x.director ? ` · ${x.director}` : ''}`, URL.audiovisual(), x.musicos.map(id => g.por.musico.get(id).nombre).join(' '))),

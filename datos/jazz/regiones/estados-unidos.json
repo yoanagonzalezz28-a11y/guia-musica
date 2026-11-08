@@ -1098,6 +1098,7 @@
   ],
   "escenaActual": [
     {
+      "musico": "wilkins",
       "nombre": "Immanuel Wilkins",
       "instrumento": "saxo alto",
       "base": null,
@@ -1109,6 +1110,7 @@
       ]
     },
     {
+      "musico": "joel-ross",
       "nombre": "Joel Ross",
       "instrumento": "vibráfono",
       "base": null,

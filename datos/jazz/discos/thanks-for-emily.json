@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "japon"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6SnmxEiNhgy8qvJGOsUOb8",
+    "via": "musicbrainz-o-busqueda"
+  },
+  "id": "thanks-for-emily",
+  "titulo": "Thanks for Emily",
+  "credito": "Fumika Asari",
+  "lideres": [
+    "asari"
+  ],
+  "grabacion": {
+    "desde": 2023,
+    "hasta": 2023,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2023,
+    "detalle": null
+  },
+  "sello": "ReBorn Wood",
+  "musicos": [
+    {
+      "musico": "asari",
+      "nombre": "Fumika Asari",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Guitarra limpia y de mucho swing, entre temas propios y estándares. El título es un homenaje a Emily Remler, una de las guitarristas que marcaron su estilo. Es el disco clave de Fumika Asari en la etapa \"Jazz de hoy\"."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "mb-fumika-asari",
+      "acceso": "extracto",
+      "aporta": "ReBorn Wood, 19 de abril de 2023."
+    }
+  ]
+}

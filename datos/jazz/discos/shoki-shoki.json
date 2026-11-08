@@ -1,0 +1,62 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "nigeria"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Femi Kuti Shoki Shoki"
+  },
+  "id": "shoki-shoki",
+  "titulo": "Shoki Shoki",
+  "credito": "Femi Kuti",
+  "lideres": [
+    "femi-kuti"
+  ],
+  "grabacion": {
+    "desde": 1998,
+    "hasta": 1998,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1998,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "femi-kuti",
+      "nombre": "Femi Kuti",
+      "instrumento": "saxo, voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "Afrobeat más corto y bailable que el de su padre, con vientos y una base que viene del funk. Fue el disco que lo hizo conocido fuera de Nigeria, un año después de la muerte de Fela Kuti. Es el disco clave de Femi Kuti en la etapa \"Jazz del mundo\"."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "mb-femi-kuti",
+      "acceso": "extracto",
+      "aporta": "Año de edición."
+    }
+  ]
+}

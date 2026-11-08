@@ -46,6 +46,7 @@
   ],
   "escenaActual": [
     {
+      "musico": "mulatu",
       "nombre": "Mulatu Astatke",
       "instrumento": "vibráfono",
       "base": "Addis Abeba",
@@ -57,6 +58,7 @@
       ]
     },
     {
+      "musico": "yirga",
       "nombre": "Samuel Yirga",
       "instrumento": "piano",
       "base": "Addis Abeba",

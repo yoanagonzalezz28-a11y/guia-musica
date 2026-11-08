@@ -15,7 +15,9 @@
   "id": "naumay",
   "titulo": "NauMay",
   "credito": "Juan Ibarra",
-  "lideres": [],
+  "lideres": [
+    "ibarra"
+  ],
   "grabacion": {
     "desde": 2018,
     "hasta": 2018,
@@ -32,17 +34,37 @@
   "lugar": null,
   "musicos": [
     {
-      "musico": null,
+      "musico": "ibarra",
       "nombre": "Juan Ibarra",
-      "instrumento": "batería y composición"
+      "instrumento": "batería, composición"
+    },
+    {
+      "musico": "levin",
+      "nombre": "Gonzalo Levin",
+      "instrumento": "saxos tenor, soprano y alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Ignacio Labrada",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Martín Ibarra",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Antonino Restuccia",
+      "instrumento": "contrabajo"
     }
   ],
-  "personalNota": "Falta confirmar el resto del grupo: All About Jazz bloquea la lectura directa.",
+  "personalNota": null,
   "corrientes": [
     "rioplat"
   ],
   "comentario": [
-    "El debut de un baterista de Montevideo que cruza el jazz con el candombe. Interesa porque el ritmo local no aparece como adorno, sino como punto de partida."
+    "Candombe y jazz en temas propios, con un quinteto de saxos, piano, guitarra y contrabajo. Fue su debut, en el sello DomusJazz, y el ritmo del candombe no aparece como adorno sino como punto de partida. Es el disco clave de Juan Ibarra en la etapa \"Jazz rioplatense\"."
   ],
   "spotify": {
     "estado": "verificado",
@@ -65,6 +87,11 @@
       "fuente": "aaj-ibarra-bio",
       "acceso": "extracto",
       "aporta": "Confirma el origen del disco y el trabajo de Ibarra con el candombe."
+    },
+    {
+      "fuente": "aaj-naumay",
+      "acceso": "extracto",
+      "aporta": "DomusJazz, 2018; temas y personal."
     }
   ],
   "temas": [

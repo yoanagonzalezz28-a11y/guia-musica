@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Juan Ibarra Arco"
+  },
+  "id": "arco-ibarra",
+  "titulo": "Arco",
+  "credito": "Juan Ibarra",
+  "lideres": [
+    "ibarra"
+  ],
+  "grabacion": {
+    "desde": 2022,
+    "hasta": 2022,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2022,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "ibarra",
+      "nombre": "Juan Ibarra",
+      "instrumento": "batería, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "rioplat",
+    "hoy"
+  ],
+  "comentario": [
+    "Jazz con milonga y candombe, con su grupo. Es su segundo disco, y amplía el cruce de *NauMay* con la milonga. Es uno de los discos que el banco elige para conocer a Juan Ibarra."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "aaj-ibarra-bio",
+      "acceso": "extracto",
+      "aporta": "Segundo disco: jazz con milonga y candombe."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "nigeria"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4pu6BPHCFYrkNa55gyErSM",
+    "via": "musicbrainz-o-busqueda"
+  },
+  "id": "black-times",
+  "titulo": "Black Times",
+  "credito": "Seun Kuti",
+  "lideres": [
+    "seun-kuti"
+  ],
+  "grabacion": {
+    "desde": 2018,
+    "hasta": 2018,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2018,
+    "detalle": null
+  },
+  "sello": "Strut",
+  "musicos": [
+    {
+      "musico": "seun-kuti",
+      "nombre": "Seun Kuti",
+      "instrumento": "saxo, voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "Afrobeat potente, con vientos y coros, en temas sobre la historia y el presente de África. Carlos Santana toca la guitarra en el tema del título, y el disco fue nominado a un Grammy. Es uno de los discos que el banco elige para conocer a Seun Kuti."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "mb-seun-kuti",
+      "acceso": "extracto",
+      "aporta": "Strut, 2 de marzo de 2018."
+    }
+  ]
+}

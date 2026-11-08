@@ -1,0 +1,68 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "cuba"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Alejandro Falcón Claroscuro"
+  },
+  "id": "claroscuro",
+  "titulo": "Claroscuro",
+  "credito": "Alejandro Falcón",
+  "lideres": [
+    "falcon"
+  ],
+  "grabacion": {
+    "desde": 2012,
+    "hasta": 2012,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2012,
+    "detalle": null
+  },
+  "sello": "Colibrí",
+  "musicos": [
+    {
+      "musico": "falcon",
+      "nombre": "Alejandro Falcón",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "latino",
+    "hoy"
+  ],
+  "comentario": [
+    "Piano y Fender Rhodes con el bajo de Sergio Raveiro, en temas propios que cruzan la música clásica, la tradición cubana, el jazz y el funk. Fue su primer disco, con ocho temas compuestos por él. Es uno de los discos que el banco elige para conocer a Alejandro Falcón."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "timba-claroscuro",
+      "acceso": "extracto",
+      "aporta": "Sello Colibrí, 2012; Falcón en piano y Fender Rhodes, Sergio Raveiro en bajo; temas propios."
+    },
+    {
+      "fuente": "oncuba-falcon",
+      "acceso": "extracto",
+      "aporta": "Lo presenta como su primer disco, con ocho temas suyos."
+    }
+  ]
+}

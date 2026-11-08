@@ -1,0 +1,62 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "japon"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Fumika Asari Enter a New Phase"
+  },
+  "id": "enter-a-new-phase",
+  "titulo": "Enter a New Phase",
+  "credito": "Fumika Asari",
+  "lideres": [
+    "asari"
+  ],
+  "grabacion": {
+    "desde": 2026,
+    "hasta": 2026,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2026,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "asari",
+      "nombre": "Fumika Asari",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Guitarra con órgano, en una formación clásica del soul jazz. Tiene cuatro temas propios, y es su disco más reciente. Es uno de los discos que el banco elige para conocer a Fumika Asari."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "birdland-asari",
+      "acceso": "extracto",
+      "aporta": "Ficha comercial: guitarra y órgano, cuatro temas propios."
+    }
+  ]
+}

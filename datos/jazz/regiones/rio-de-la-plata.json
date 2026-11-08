@@ -145,6 +145,7 @@
   "figurasPendientes": [],
   "escenaActual": [
     {
+      "musico": "ibarra",
       "nombre": "Juan Ibarra",
       "instrumento": "batería",
       "base": "Montevideo",
@@ -156,6 +157,7 @@
       ]
     },
     {
+      "musico": "hayes",
       "nombre": "Andrés Hayes",
       "instrumento": "saxo",
       "base": "Buenos Aires",

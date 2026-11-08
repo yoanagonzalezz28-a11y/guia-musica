@@ -1,0 +1,73 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "detalle": "Timba.com lo fecha en 2015; otra reseña lo ubica en 2014."
+    }
+  ],
+  "regiones": [
+    "cuba"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Alejandro Falcón Cuba Now Danzón"
+  },
+  "id": "cuba-now-danzon",
+  "titulo": "Cuba Now Danzón",
+  "credito": "Alejandro Falcón",
+  "lideres": [
+    "falcon"
+  ],
+  "grabacion": {
+    "desde": 2015,
+    "hasta": 2015,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2015,
+    "detalle": null
+  },
+  "sello": "Colibrí",
+  "musicos": [
+    {
+      "musico": "falcon",
+      "nombre": "Alejandro Falcón",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "latino",
+    "hoy"
+  ],
+  "comentario": [
+    "El danzón, el baile nacional cubano, tocado con armonías y solos de jazz. Falcón es de Matanzas, la ciudad donde nació el danzón, y el disco salió con un DVD, *Jazz con guaguancó*, dedicado a Los Muñequitos de Matanzas. Es el disco clave de Alejandro Falcón en la etapa \"Jazz de hoy\"."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "timba-cuba-now-danzon",
+      "acceso": "extracto",
+      "aporta": "Reseña del CD y DVD en Colibrí."
+    },
+    {
+      "fuente": "oncuba-falcon",
+      "acceso": "extracto",
+      "aporta": "El DVD Jazz con guaguancó, homenaje a Los Muñequitos de Matanzas."
+    }
+  ]
+}
