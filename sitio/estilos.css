@@ -450,3 +450,19 @@ main { max-width: var(--ancho); margin: 0 auto; padding: 0 var(--gutter) 72px; }
 .rotulo-epoca { display: inline-block; padding: 3px 7px 2px; background: var(--tinta-c); color: var(--tinta-c-texto); font: 700 .6875rem/1 var(--sans); font-stretch: 62%; text-transform: uppercase; letter-spacing: .12em; vertical-align: middle; }
 .disco-clave .rotulo-epoca { display: table; margin-bottom: 8px; padding: 0; background: none; color: inherit; font-size: .8125rem; border-bottom: 2px solid currentColor; padding-bottom: 3px; }
 .fila-disco-epoca { color: var(--tinta-c-fg); font-weight: 700; text-transform: uppercase; letter-spacing: .06em; font-size: .9em; }
+
+/* Mis marcas: dónde viven, llevarlas a otro dispositivo y recibirlas. */
+.aviso-local { margin: 0 0 14px; padding: 10px 14px; border-left: 4px solid var(--rojo); background: var(--papel-2); font-size: .9375rem; max-width: 72ch; }
+.aviso-local span { color: var(--gris); }
+.llevar-marcas, .recibir-marcas { margin-top: 18px; padding: 18px; border: 2px solid var(--tinta); }
+.recibir-marcas { margin: 0 0 18px; border-color: var(--rojo); }
+.recibir-marcas:focus { outline: 3px solid var(--rojo); outline-offset: 3px; }
+.llevar-marcas h2, .recibir-marcas h2 { margin-top: 0; }
+.llevar-cuerpo { display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start; }
+/* El QR va siempre negro sobre blanco, también en el tema oscuro: así lo leen todas las cámaras. */
+.llevar-qr { flex: none; width: min(100%, 340px); background: #fff; position: relative; z-index: 51; /* por encima del grano de papel */ }
+.llevar-qr svg { display: block; width: 100%; height: auto; }
+.llevar-link { flex: 1 1 260px; min-width: 0; display: grid; gap: 8px; align-content: start; }
+.llevar-link label { font-weight: 700; }
+.llevar-link input { width: 100%; box-sizing: border-box; padding: 8px 10px; font: 400 .875rem var(--sans); color: var(--tinta); background: transparent; border: 1px solid var(--tinta); }
+.llevar-link .ayuda { margin: 0; }

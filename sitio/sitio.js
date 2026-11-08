@@ -208,14 +208,18 @@
       resumen.textContent = entradas.length ? `${d} ${d === 1 ? 'disco escuchado' : 'discos escuchados'}, ${mu} ${mu === 1 ? 'músico visto' : 'músicos vistos'} y ${c} ${c === 1 ? 'época completada' : 'épocas completadas'}` : 'Tus marcas';
       for (const [id, m] of entradas) {
         const li = document.createElement('li');
-        const a = document.createElement('a');
         const [tipo, clave] = id.split(':');
-        a.href = `${raiz}jazz/${{ disco: 'discos', musico: 'musicos', corriente: 'corrientes' }[tipo] || 'discos'}/${clave}/`;
-        a.textContent = m.titulo || id;
+        const ruta = `jazz/${{ disco: 'discos', musico: 'musicos', corriente: 'corrientes' }[tipo] || 'discos'}/${clave}/`;
+        const nombre = m.titulo || tituloDe(ruta) || id;
+        // Una ficha que salió del banco no tiene página, pero la marca y sus notas se conservan.
+        const retirada = Marcas.retirada(id);
+        const a = retirada ? document.createElement('strong') : document.createElement('a');
+        if (!retirada) a.href = raiz + ruta;
+        a.textContent = nombre;
         const datos = document.createElement('span');
         datos.className = 'marca-datos';
         const estado = tipo === 'corriente' ? (m.completada ? `Época completada el ${new Date(m.fechaCompletada).toLocaleDateString('es-AR')}` : 'Época') : tipo === 'musico' ? (m.escuchado ? 'Músico visto' : 'Músico') : (m.escuchado ? 'Escuchado' : 'Sin escuchar');
-        datos.textContent = [estado, m.puntaje ? `${m.puntaje}/5` : ''].filter(Boolean).join(' · ');
+        datos.textContent = [estado, m.puntaje ? `${m.puntaje}/5` : '', retirada ? 'ya no está en el banco' : ''].filter(Boolean).join(' · ');
         li.append(a, datos);
         for (const n of m.notas || []) {
           const p = document.createElement('p');
@@ -234,16 +238,21 @@
       document.body.append(a); a.click(); a.remove();
       setTimeout(() => URL.revokeObjectURL(url), 1000);
       estado.textContent = `Exportaste ${total} ${total === 1 ? 'marca' : 'marcas'} en ${nombre}.`;
+      try { localStorage.setItem(CLAVE_EXPORTACION, new Date().toISOString()); } catch (_) { /* sin almacenamiento */ }
+      pintarUltimaExportacion();
     });
+
+    const resultadoCombinar = (r, origen) => {
+      const partes = [`${r.nuevas} nuevas`, `${r.actualizadas} combinadas`, `${r.sinCambios} sin cambios`];
+      if (r.descartadas) partes.push(`${r.descartadas} descartadas por formato inválido`);
+      return `${origen}: ${partes.join(', ')}.`;
+    };
 
     document.querySelector('[data-importar]').addEventListener('change', async e => {
       const archivo = e.target.files[0];
       if (!archivo) return;
       try {
-        const r = Marcas.importar(await archivo.text());
-        const partes = [`${r.nuevas} nuevas`, `${r.actualizadas} combinadas`, `${r.sinCambios} sin cambios`];
-        if (r.descartadas) partes.push(`${r.descartadas} descartadas por formato inválido`);
-        estado.textContent = `Importación terminada: ${partes.join(', ')}.`;
+        estado.textContent = resultadoCombinar(Marcas.importar(await archivo.text()), 'Importación terminada');
         pintar();
       } catch (error) {
         estado.textContent = error.message;
@@ -251,8 +260,146 @@
       e.target.value = '';
     });
 
-    if (!Marcas.persistente()) estado.textContent = 'Este navegador no permite guardar datos: tus marcas se pierden al cerrar la página.';
+    iniciarLlevar(estado);
+    iniciarRecibir(estado, pintar, resultadoCombinar);
+    pintarUltimaExportacion();
+
+    if (Marcas.soloLectura()) estado.textContent = 'Tus marcas se guardaron con una versión más nueva del sitio. Recargá la página para verlas; mientras tanto, esta pestaña no las modifica.';
+    else if (!Marcas.persistente()) estado.textContent = 'Este navegador no permite guardar datos: tus marcas se pierden al cerrar la página.';
     pintar();
+  }
+
+  // El título de una ficha, sacado del índice del buscador. Sirve para las marcas que llegan sin título (por link).
+  function tituloDe(ruta) {
+    return (window.INDICE_BUSQUEDA || []).find(x => x.url === ruta)?.titulo || '';
+  }
+
+  const CLAVE_EXPORTACION = 'banco-musica:ultima-exportacion';
+  function pintarUltimaExportacion() {
+    const lugar = document.querySelector('[data-ultima-exportacion]');
+    if (!lugar) return;
+    let ultima = null;
+    try { ultima = localStorage.getItem(CLAVE_EXPORTACION); } catch (_) { /* sin almacenamiento */ }
+    const dias = ultima ? Math.floor((Date.now() - Date.parse(ultima)) / 86400000) : null;
+    lugar.textContent = dias === null ? 'Todavía no las exportaste desde este navegador.' : `Última exportación: ${dias === 0 ? 'hoy' : dias === 1 ? 'ayer' : `hace ${dias} días`}.`;
+  }
+
+  // ---------- Llevar las marcas a otro dispositivo: link y QR ----------
+  function iniciarLlevar(estado) {
+    const boton = document.querySelector('[data-llevar]');
+    const panel = document.querySelector('[data-llevar-panel]');
+    if (!boton || !panel) return;
+    const campo = panel.querySelector('[data-llevar-link]');
+    const lugarQr = panel.querySelector('[data-llevar-qr]');
+    const nota = panel.querySelector('[data-llevar-nota]');
+    const compartir = panel.querySelector('[data-llevar-compartir]');
+
+    boton.addEventListener('click', async () => {
+      if (!panel.hidden) { panel.hidden = true; boton.setAttribute('aria-expanded', 'false'); return; }
+      const { codigo, total } = await Marcas.empaquetar();
+      if (!total) { estado.textContent = 'Todavía no tenés marcas para llevar.'; return; }
+      const link = `${location.href.split('#')[0]}#llevar=${codigo}`;
+      campo.value = link;
+      const svg = dibujarQr(link);
+      lugarQr.textContent = '';
+      lugarQr.hidden = !svg;
+      if (svg) lugarQr.append(svg);
+      nota.textContent = `${total} ${total === 1 ? 'marca' : 'marcas'}. ${svg ? 'Si el código no se lee bien, agrandá la pantalla o usá el link.' : 'Son demasiadas para un código QR: copiá el link y abrilo en el otro dispositivo, o usá Exportar e Importar.'}`;
+      compartir.hidden = !navigator.share;
+      panel.hidden = false;
+      boton.setAttribute('aria-expanded', 'true');
+      panel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    });
+
+    panel.querySelector('[data-llevar-copiar]').addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(campo.value);
+        nota.textContent = 'Link copiado.';
+      } catch (_) {
+        campo.select();
+        nota.textContent = 'Seleccioné el link: copialo con Ctrl+C (o mantené apretado en el teléfono).';
+      }
+    });
+    compartir.addEventListener('click', () => navigator.share({ title: 'Mis marcas del Banco de música', url: campo.value }).catch(() => {}));
+  }
+
+  // Dibuja el QR como SVG: queda nítido a cualquier tamaño. Devuelve null si el link no entra en un QR.
+  function dibujarQr(texto) {
+    // Pasado este largo el código sale tan denso que una cámara no lo lee bien en pantalla: mejor solo el link.
+    if (typeof window.qrcode !== 'function' || texto.length > 1500) return null;
+    let qr;
+    try {
+      qr = window.qrcode(0, 'L');
+      qr.addData(texto, 'Byte');
+      qr.make();
+    } catch (_) {
+      return null;
+    }
+    const n = qr.getModuleCount();
+    const margen = 4;
+    const lado = n + margen * 2;
+    let d = '';
+    for (let f = 0; f < n; f++) for (let c = 0; c < n; c++) if (qr.isDark(f, c)) d += `M${c + margen} ${f + margen}h1v1h-1z`;
+    const ns = 'http://www.w3.org/2000/svg';
+    const svg = document.createElementNS(ns, 'svg');
+    svg.setAttribute('viewBox', `0 0 ${lado} ${lado}`);
+    svg.setAttribute('role', 'img');
+    svg.setAttribute('aria-label', 'Código QR con el link de tus marcas');
+    svg.setAttribute('shape-rendering', 'crispEdges');
+    const fondo = document.createElementNS(ns, 'rect');
+    fondo.setAttribute('width', lado); fondo.setAttribute('height', lado); fondo.setAttribute('fill', '#ffffff');
+    const modulos = document.createElementNS(ns, 'path');
+    modulos.setAttribute('d', d); modulos.setAttribute('fill', '#000000');
+    svg.append(fondo, modulos);
+    return svg;
+  }
+
+  // ---------- Recibir marcas desde un link ----------
+  // El link trae "#llevar=…". Antes de tocar nada se pregunta si combinar o reemplazar.
+  async function iniciarRecibir(estado, pintar, resultadoCombinar) {
+    const caja = document.querySelector('[data-recibir]');
+    if (!caja) return;
+    // Si el link se pega en esta misma pestaña, solo cambia lo que va después de "#": hay que volver a leerlo.
+    window.addEventListener('hashchange', () => { if (location.hash.startsWith('#llevar=')) location.reload(); });
+    const hash = location.hash.match(/^#llevar=([A-Za-z0-9_-]+)$/);
+    if (!hash) return;
+    const limpiarLink = () => history.replaceState(null, '', location.pathname + location.search);
+    let archivo;
+    try {
+      archivo = await Marcas.desempaquetar(hash[1]);
+      Marcas.validarArchivo(archivo);
+    } catch (error) {
+      estado.textContent = error.message;
+      limpiarLink();
+      return;
+    }
+    const llegan = Object.keys(archivo.marcas).length;
+    const hay = Object.keys(Marcas.leer().marcas).length;
+    const plural = (n, a, b) => `${n} ${n === 1 ? a : b}`;
+    caja.querySelector('[data-recibir-texto]').textContent = hay
+      ? `Este link trae ${plural(llegan, 'marca', 'marcas')}. En este navegador ya hay ${plural(hay, 'marca', 'marcas')}. ¿Qué hacemos?`
+      : `Este link trae ${plural(llegan, 'marca', 'marcas')}. En este navegador todavía no hay ninguna.`;
+    const [botonCombinar, botonReemplazar] = caja.querySelectorAll('[data-recibir-accion]');
+    // Sin marcas previas combinar y reemplazar dan lo mismo: queda un solo botón.
+    if (!hay) { botonCombinar.textContent = 'Guardar en este navegador'; botonReemplazar.hidden = true; caja.querySelector('[data-recibir-ayuda]').hidden = true; }
+    caja.hidden = false;
+    caja.focus();
+
+    caja.addEventListener('click', e => {
+      const accion = e.target.closest('[data-recibir-accion]')?.dataset.recibirAccion;
+      if (!accion) return;
+      if (accion === 'reemplazar' && !confirm(`Se van a reemplazar las ${plural(hay, 'marca', 'marcas')} de este navegador por las ${llegan} del link. Las de ahora quedan guardadas como respaldo. ¿Seguimos?`)) return;
+      try {
+        if (accion === 'combinar') estado.textContent = resultadoCombinar(Marcas.combinar(archivo), 'Marcas combinadas');
+        if (accion === 'reemplazar') { const r = Marcas.reemplazar(archivo); estado.textContent = `Listo: ahora tenés las ${plural(r.total, 'marca', 'marcas')} del link.`; }
+        if (accion === 'cancelar') estado.textContent = 'No se cambió nada.';
+      } catch (error) {
+        estado.textContent = error.message;
+      }
+      caja.hidden = true;
+      limpiarLink();
+      pintar();
+    });
   }
 
   // ---------- Tema claro u oscuro ----------

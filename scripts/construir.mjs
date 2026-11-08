@@ -3,6 +3,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { RAIZ, cargarGenero, cargarGeneros, cargarFuentes, validar, discosDe, tocoCon, musicosEnAmbas, episodiosDe } from './datos.mjs';
+import { revisarIds } from './ids.mjs';
 
 const DIST = path.join(RAIZ, 'dist');
 const SITIO = 'Banco de música';
@@ -11,6 +12,8 @@ const generos = cargarGeneros();
 const g = cargarGenero('jazz');
 
 const { errores, avisos } = validar(g, fuentes);
+const ids = revisarIds(g);
+errores.push(...ids.errores);
 if (avisos.length) console.log(`${avisos.length} aviso(s) que no bloquean. Detalle: npm run auditar.`);
 if (errores.length) {
   console.error(`No se construyó el sitio. ${errores.length} error(es) en los datos:\n- ${errores.join('\n- ')}`);
@@ -288,7 +291,7 @@ function fuentesPlegadas(ctx, { respaldo = '', extra = [], cotejado = null } = {
     <p class="aviso-gioia">${gioia ? 'Texto propio, cotejado con <cite>Historia del jazz</cite>, de Ted Gioia.' : 'Texto propio, en borrador. Falta cotejarlo con <cite>Historia del jazz</cite>, de Ted Gioia.'} <a href="${ctx.a(URL.acerca())}">Sobre este banco</a>.</p></details>`;
 }
 
-function pagina(ruta, ctx, { titulo, descripcion, cuerpo, seccion, claseCuerpo = '' }) {
+function pagina(ruta, ctx, { titulo, descripcion, cuerpo, seccion, claseCuerpo = '', scripts = [] }) {
   const nav = [['Épocas', URL.corrientes(), 'corrientes'], ['Músicos', URL.musicos(), 'musicos'], ['Discos', URL.discos(), 'discos'], ['Regiones', URL.regiones(), 'regiones'], ['Audiovisual', URL.audiovisual(), 'audiovisual'], ['Comparar', URL.comparaciones(), 'comparar'], ['Mis marcas', URL.marcas(), 'marcas']];
   const html = `<!doctype html>
 <html lang="es-AR" data-raiz="${ctx.raiz}">
@@ -328,7 +331,8 @@ ${cuerpo}
 </footer>
 <script src="${ctx.a('recursos/indice.js')}"></script>
 <script src="${ctx.a('recursos/camino.js')}"></script>
-<script src="${ctx.a('recursos/marcas.js')}"></script>
+<script src="${ctx.a('recursos/renombres.js')}"></script>
+<script src="${ctx.a('recursos/marcas.js')}"></script>${scripts.map(s => `\n<script src="${ctx.a(`recursos/${s}`)}"></script>`).join('')}
 <script src="${ctx.a('recursos/sitio.js')}"></script>
 </body>
 </html>
@@ -675,13 +679,43 @@ const construir = {
     const ctx = nuevoContexto(ruta);
     pagina(ruta, ctx, {
       titulo: 'Mis marcas', descripcion: 'Lo que escuchaste, tus puntajes, tus notas y tus épocas completadas, guardados en este navegador.', seccion: 'marcas',
-      cuerpo: `<header class="encabezado" style="--largo:5"><h1>Mis marcas</h1><p>Lo que marcás queda guardado en este navegador y nadie más lo ve: discos escuchados, músicos vistos, puntajes, notas y épocas completadas. Si borrás los datos de navegación se pierde, así que conviene exportarlo de vez en cuando.</p></header>
+      scripts: ['qrcode.js'],
+      cuerpo: `<header class="encabezado" style="--largo:5"><h1>Mis marcas</h1><p>Discos escuchados, músicos vistos, puntajes, notas y épocas completadas. Nadie más los ve: el sitio no tiene cuentas ni recibe esta información.</p></header>
       <section class="bloque panel-marcas">
+        <section class="recibir-marcas" data-recibir hidden tabindex="-1" aria-labelledby="recibir-titulo">
+          <h2 id="recibir-titulo">Marcas que llegan de otro dispositivo</h2>
+          <p data-recibir-texto></p>
+          <div class="panel-acciones">
+            <button type="button" class="boton" data-recibir-accion="combinar">Combinar</button>
+            <button type="button" class="boton boton-secundario" data-recibir-accion="reemplazar">Reemplazar</button>
+            <button type="button" class="boton boton-secundario" data-recibir-accion="cancelar">No hacer nada</button>
+          </div>
+          <p class="ayuda" data-recibir-ayuda>Combinar suma todo: si una marca está en los dos lados, gana el cambio más reciente de cada dato y se conservan todas las notas distintas. Reemplazar deja solo las que llegan; las de este navegador quedan guardadas como respaldo.</p>
+        </section>
+        <p class="aviso-local"><strong>Tus marcas se guardan solo en este navegador.</strong> Exportalas cada tanto como respaldo: si borrás los datos de navegación, se pierden. <span data-ultima-exportacion></span></p>
         <div class="panel-acciones">
           <button type="button" class="boton" data-exportar>Exportar mis marcas</button>
           <label class="boton boton-secundario">Importar marcas<input class="oculto" type="file" accept="application/json,.json" data-importar></label>
+          <button type="button" class="boton boton-secundario" data-llevar aria-expanded="false" aria-controls="llevar">Llevar mis marcas a otro dispositivo</button>
         </div>
         <p class="estado-marcas" role="status" data-estado-marcas></p>
+        <section class="llevar-marcas" id="llevar" data-llevar-panel hidden aria-labelledby="llevar-titulo">
+          <h2 id="llevar-titulo">Llevar mis marcas a otro dispositivo</h2>
+          <p>Escaneá el código con el teléfono o abrí el link en el otro dispositivo. Las marcas viajan dentro del link, sin servidor ni cuenta. Allá te va a preguntar si las querés combinar con las que ya tenga o reemplazarlas.</p>
+          <div class="llevar-cuerpo">
+            <div class="llevar-qr" data-llevar-qr></div>
+            <div class="llevar-link">
+              <label for="llevar-link">Link con tus marcas</label>
+              <input id="llevar-link" type="text" readonly data-llevar-link>
+              <div class="panel-acciones">
+                <button type="button" class="boton boton-chico" data-llevar-copiar>Copiar link</button>
+                <button type="button" class="boton boton-chico boton-secundario" data-llevar-compartir hidden>Compartir…</button>
+              </div>
+              <p class="ayuda" data-llevar-nota></p>
+              <p class="ayuda">Quien tenga este link ve tus marcas y tus notas. Mandalo solo a vos.</p>
+            </div>
+          </div>
+        </section>
       </section>
       <section class="bloque"><h2 data-resumen-marcas>Tus marcas</h2>
         <ul class="lista-marcas" data-lista-marcas></ul>
@@ -729,7 +763,7 @@ const construir = {
         <p>${verificados} de ${g.discos.length} discos tienen un link exacto de Spotify; ${deYoana} vienen de la discoteca personal de quien arma el banco. Los demás abren una búsqueda. La lista de temas sale de la edición de Spotify, que puede ser una reedición.</p>
         <p>Los textos son propios y no copian a ninguna fuente. Las notas no se ven en el texto: cada ficha las reúne al pie, en "Fuentes".</p></div>`, 'Los datos y los textos')}
       ${numerado(3, `<p class="ayuda">${Object.keys(fuentes).length} fuentes, agrupadas por tipo.</p>${porNivel.filter(([, l]) => l.length).map(([n, l]) => `<h3>${NIVEL_TEXTO[n]} · ${l.length}</h3><ul class="lista-fuentes">${l.map(([, f]) => `<li>${f.url ? `<a href="${esc(f.url)}" rel="noopener">${esc(f.titulo)}</a>` : esc(f.titulo)}</li>`).join('')}</ul>`).join('')}`, 'Todas las fuentes')}
-      ${numerado(4, `<div class="lectura"><p>Lo que marcás se guarda solo en tu navegador: el sitio no tiene cuentas ni recibe esa información. Desde <a href="${ctx.a(URL.marcas())}">Mis marcas</a> podés exportarlo e importarlo.</p></div>`, 'Tus marcas')}`,
+      ${numerado(4, `<div class="lectura"><p>Lo que marcás se guarda solo en tu navegador: el sitio no tiene cuentas ni recibe esa información. Desde <a href="${ctx.a(URL.marcas())}">Mis marcas</a> podés exportarlo, importarlo o llevarlo a otro dispositivo con un link o un código QR.</p></div>`, 'Tus marcas')}`,
     });
   },
 };
@@ -760,12 +794,26 @@ function datosDelCamino() {
   return { corrientes, musicos };
 }
 
+// Un link viejo (guardado o compartido) sigue llevando a la ficha aunque el id haya cambiado.
+function redirecciones() {
+  const rutas = { disco: URL.disco, musico: URL.musico, corriente: URL.corriente };
+  for (const [viejo, nuevo] of Object.entries(ids.renombres)) {
+    if (!nuevo) continue;
+    const [tipo, id] = viejo.split(':');
+    const ruta = rutas[tipo](id);
+    const destino = esc(nuevoContexto(ruta).a(rutas[tipo](nuevo.split(':')[1])));
+    fs.mkdirSync(path.join(DIST, ruta), { recursive: true });
+    fs.writeFileSync(path.join(DIST, ruta, 'index.html'), `<!doctype html><html lang="es-AR"><head><meta charset="utf-8"><meta name="robots" content="noindex"><meta http-equiv="refresh" content="0; url=${destino}"><title>Esta ficha se mudó</title></head><body><p>Esta ficha se mudó: <a href="${destino}">seguir</a>.</p></body></html>\n`);
+  }
+}
+
 // ---------- Ejecución ----------
 fs.rmSync(DIST, { recursive: true, force: true });
 fs.mkdirSync(path.join(DIST, 'recursos'), { recursive: true });
 for (const f of fs.readdirSync(path.join(RAIZ, 'sitio'))) fs.copyFileSync(path.join(RAIZ, 'sitio', f), path.join(DIST, 'recursos', f));
 fs.writeFileSync(path.join(DIST, 'recursos', 'indice.js'), `window.INDICE_BUSQUEDA=${JSON.stringify(indiceDeBusqueda())};\n`);
 fs.writeFileSync(path.join(DIST, 'recursos', 'camino.js'), `window.CAMINO=${JSON.stringify(datosDelCamino())};\n`);
+fs.writeFileSync(path.join(DIST, 'recursos', 'renombres.js'), `window.RENOMBRES=${JSON.stringify(ids.renombres)};\n`);
 fs.writeFileSync(path.join(DIST, '.nojekyll'), '');
 
 construir.inicio();
@@ -784,6 +832,10 @@ construir.podcasts();
 construir.marcas();
 construir.acerca();
 construir.audiovisual();
+
+redirecciones();
+ids.guardar();
+if (ids.nuevos.length) console.log(`${ids.nuevos.length} id(s) nuevo(s) registrados en datos/ids-publicados.json.`);
 
 const total = 11 + g.corrientes.length + g.musicos.length + g.discos.length + g.regiones.length + g.comparaciones.length;
 console.log(`Listo: ${total} páginas en dist/.`);

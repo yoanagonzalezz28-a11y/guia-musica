@@ -1,0 +1,13 @@
+{
+  "nota": "Ids publicados que ya no existen. El valor es el id nuevo, o null si la ficha salió del banco. No se borra nada de acá: alguien puede tener marcas guardadas con el id viejo.",
+  "renombres": {
+    "disco:goldenwings-opa": "disco:goldenwings",
+    "disco:magic-time-opa-rada": "disco:magic-time-opa",
+    "disco:liberation-music-orchestra-charlie-haden": "disco:liberation-music-orchestra",
+    "disco:light-as-a-feather": "disco:light-as-a-feather-corea",
+    "disco:brindis-por-pierrot": null,
+    "disco:la-conferencia-secreta-del-toto-s-bar-los-shakers": null,
+    "disco:los-shakers": null,
+    "musico:roos": null
+  }
+}
