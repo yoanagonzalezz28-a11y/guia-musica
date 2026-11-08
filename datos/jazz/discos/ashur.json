@@ -1,0 +1,59 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "medio-oriente"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Ashur Tarek Yamani"
+  },
+  "id": "ashur",
+  "titulo": "Ashur",
+  "credito": "Tarek Yamani",
+  "lideres": [
+    "yamani"
+  ],
+  "grabacion": {
+    "desde": 2012,
+    "hasta": 2012,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2012,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "yamani",
+      "nombre": "Tarek Yamani",
+      "instrumento": "piano, composición"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "El primer disco del pianista libanés, en trío. Toma escalas y ritmos de la música árabe y los lleva a un trío de jazz moderno. Abre la búsqueda que sigue en sus discos siguientes."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "mb-tarek-yamani"
+  ]
+}

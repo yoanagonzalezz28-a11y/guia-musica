@@ -1,0 +1,49 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "meza",
+  "nombre": "Camila Meza",
+  "nacimiento": {
+    "anio": 1985,
+    "lugar": "Santiago de Chile"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "guitarra",
+    "voz"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/3Wkf3Zv5wMaIsz2MwkVOKF",
+  "resumen": "Guitarrista, cantante y compositora chilena. En 2009 se mudó a Nueva York para estudiar en The New School y desde ahí cruza el jazz contemporáneo con la canción latinoamericana, cantando en castellano, inglés y portugués.[^wp-camila-meza]",
+  "epocas": [
+    {
+      "titulo": "Nueva York",
+      "desde": 2016,
+      "hasta": 2019,
+      "texto": "Grabó con músicos de la escena neoyorquina como Shai Maestro y Kendrick Scott, y después armó The Nectar Orchestra, un octeto con cuerdas, para darle a sus canciones un marco de cámara.[^wp-camila-meza]",
+      "discoClave": {
+        "disco": "traces-camila-meza",
+        "explicacion": "Su primer disco en Sunnyside: guitarra y voz al frente, con el piano de Shai Maestro."
+      },
+      "discos": [
+        "ambar-camila-meza"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-camila-meza"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "traces-camila-meza",
+    "ambar-camila-meza"
+  ]
+}

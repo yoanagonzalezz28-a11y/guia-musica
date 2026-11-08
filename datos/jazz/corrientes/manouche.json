@@ -54,14 +54,13 @@
   "musicos": [
     "django",
     "grappelli",
-    "lagrene"
+    "lagrene",
+    "stochelo",
+    "tchavolo",
+    "debarre",
+    "lafertin"
   ],
-  "musicosPendientes": [
-    "Stochelo Rosenberg",
-    "Tchavolo Schmitt",
-    "Angelo Debarre",
-    "Fapy Lafertin"
-  ],
+  "musicosPendientes": [],
   "discosEsenciales": [
     {
       "disco": "quintette-du-hot-club-de-france",

@@ -1,0 +1,67 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Live at the North Sea Jazz Festival '92 The Rosenberg Trio"
+  },
+  "id": "live-at-the-north-sea-jazz-festival-92",
+  "titulo": "Live at the North Sea Jazz Festival '92",
+  "credito": "The Rosenberg Trio",
+  "lideres": [
+    "stochelo"
+  ],
+  "grabacion": {
+    "desde": 1993,
+    "hasta": 1993,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1993,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "stochelo",
+      "nombre": "Stochelo Rosenberg",
+      "instrumento": "guitarra solista"
+    },
+    {
+      "musico": null,
+      "nombre": "Nous'che Rosenberg",
+      "instrumento": "guitarra rítmica"
+    },
+    {
+      "musico": null,
+      "nombre": "Nonnie Rosenberg",
+      "instrumento": "contrabajo"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "manouche"
+  ],
+  "comentario": [
+    "El trío en el festival de jazz más grande de Holanda, en plena etapa de giras. En vivo se nota cómo Stochelo toca a velocidades muy altas sin perder claridad. Es un buen registro del grupo en el momento en que acompañaba a Stéphane Grappelli."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "wp-stochelo-rosenberg"
+  ]
+}

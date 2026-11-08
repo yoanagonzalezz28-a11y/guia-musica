@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Nocturne Charlie Haden"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo",
+    "via": "musicbrainz"
   },
   "id": "nocturne",
   "titulo": "Nocturne",
@@ -44,7 +45,7 @@
     "latino"
   ],
   "comentario": [
-    "Boleros cubanos y mexicanos con Gonzalo Rubalcaba: su disco más romántico."
+    "Boleros cubanos y mexicanos con Gonzalo Rubalcaba: su disco más romántico. Haden toca el contrabajo con Rubalcaba en piano, en boleros lentos y románticos. Completa la discografía de Charlie Haden dentro de Jazz latino."
   ],
   "ids": {
     "musicbrainz": null,

@@ -44,14 +44,39 @@
       "musico": "hayes",
       "nombre": "Andrés Hayes",
       "instrumento": "saxo"
+    },
+    {
+      "musico": "jodos",
+      "nombre": "Ernesto Jodos",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Rodrigo Domínguez",
+      "instrumento": "saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Sergio Wagner",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Hernán Merlo",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "René Gatica",
+      "instrumento": "músico"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Lista parcial: sale de los créditos de Spotify.",
   "corrientes": [
     "rioplat"
   ],
   "comentario": [
-    "Jazz porteño de grupo, con temas propios."
+    "Hayes con un grupo de músicos centrales de Buenos Aires: Ernesto Jodos en piano, Rodrigo Domínguez en saxo, Hernán Merlo en contrabajo y René Gatica. Son ocho temas propios, de \"Coral\" a \"Kamikaze\", con escritura cuidada para varios vientos. Es un buen resumen de la escena porteña actual en un solo disco."
   ],
   "ids": {
     "musicbrainz": null,

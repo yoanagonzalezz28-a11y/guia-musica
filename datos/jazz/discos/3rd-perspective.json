@@ -1,0 +1,59 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "japon"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "3rd Perspective United Future Organization"
+  },
+  "id": "3rd-perspective",
+  "titulo": "3rd Perspective",
+  "credito": "United Future Organization",
+  "lideres": [
+    "ufo"
+  ],
+  "grabacion": {
+    "desde": 1996,
+    "hasta": 1996,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1996,
+    "detalle": null
+  },
+  "sello": "Talkin' Loud",
+  "musicos": [
+    {
+      "musico": "ufo",
+      "nombre": "United Future Organization",
+      "instrumento": "grupo"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "acid"
+  ],
+  "comentario": [
+    "El tercer disco del trío, con más peso de la electrónica y de los ritmos brasileños. Muestra el paso del acid jazz al nu jazz de fines de los 90. Es una buena puerta a lo que vino después en Tokio."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "wp-united-future-organization"
+  ]
+}

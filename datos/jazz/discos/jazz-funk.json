@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Jazz Funk Incognito"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5FYPqxrJDkCwrQvK86kphB",
+    "via": "musicbrainz"
   },
   "id": "jazz-funk",
   "titulo": "Jazz Funk",
@@ -44,7 +45,7 @@
     "fusion"
   ],
   "comentario": [
-    "Su primer disco, antes del acid jazz."
+    "Su primer disco, antes del acid jazz. La banda de Jean-Paul \"Bluey\" Maunick toca funk instrumental con vientos y teclados, con un sonido de comienzos de los 80. Es el disco clave de Incognito en la etapa \"Fusión\"."
   ],
   "ids": {
     "musicbrainz": null,

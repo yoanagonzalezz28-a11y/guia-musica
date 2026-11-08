@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Soulville Ben Webster"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7Ez8lUSfUgtO4GDjRrxYiy",
+    "via": "musicbrainz"
   },
   "id": "soulville",
   "titulo": "Soulville",
@@ -44,7 +45,7 @@
     "swing"
   ],
   "comentario": [
-    "Baladas y blues con Oscar Peterson."
+    "Baladas y blues con Oscar Peterson. Webster toca el saxo tenor con un sonido lleno de aire y el trío de Peterson con Herb Ellis lo acompaña con suavidad. En la ficha de Ben Webster es el disco que representa la etapa \"Swing\"."
   ],
   "ids": {
     "musicbrainz": null,

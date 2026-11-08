@@ -1,0 +1,59 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "sudafrica"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Exiled Thandi Ntuli"
+  },
+  "id": "exiled-ntuli",
+  "titulo": "Exiled",
+  "credito": "Thandi Ntuli",
+  "lideres": [
+    "ntuli"
+  ],
+  "grabacion": {
+    "desde": 2018,
+    "hasta": 2018,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2018,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "ntuli",
+      "nombre": "Thandi Ntuli",
+      "instrumento": "piano, voz, composición"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "Su segundo disco, con un grupo más grande y temas largos. El título pone el exilio, una experiencia central en la historia del jazz sudafricano, en el centro. Es el disco que sigue a The Offering en la discografía catalogada."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "mb-thandi-ntuli"
+  ]
+}

@@ -44,14 +44,24 @@
       "musico": "jodos",
       "nombre": "Ernesto Jodos",
       "instrumento": "piano, composición"
+    },
+    {
+      "musico": null,
+      "nombre": "Jerónimo Carmona",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Pepi Taveira",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Lista parcial: sale de los créditos de Spotify.",
   "corrientes": [
     "rioplat"
   ],
   "comentario": [
-    "Piano de grupo con un lenguaje muy suyo."
+    "Jodos en trío con Jerónimo Carmona en contrabajo y Pepi Taveira en batería, tocando temas de Mal Waldron, Charlie Parker, John Coltrane y Thelonious Monk, entre otros. Es un disco de repertorio del jazz moderno: \"Fire Waltz\", \"Dewey Square\", \"Moment's Notice\" y el \"Light Blue\" de Monk. Muestra cómo un pianista porteño se apropia de la tradición sin imitarla."
   ],
   "ids": {
     "musicbrainz": "cd0ebad5-3153-408e-9da2-323e7f96ec03",

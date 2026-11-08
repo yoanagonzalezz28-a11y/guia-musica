@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Traveling Miles Cassandra Wilson"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1Jx892mwNh5eRD5YnbCEoD",
+    "via": "musicbrainz"
   },
   "id": "traveling-miles",
   "titulo": "Traveling Miles",
@@ -44,7 +45,7 @@
     "hoy"
   ],
   "comentario": [
-    "Homenaje a Miles Davis."
+    "Homenaje a Miles Davis. Wilson canta con un grupo, en temas asociados a Miles Davis. Es uno de los discos que el banco elige para conocer a Cassandra Wilson."
   ],
   "ids": {
     "musicbrainz": null,

@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Chamber Music Society Esperanza Spalding"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7qXlTq1d8u38dybiUXjzBG",
+    "via": "musicbrainz"
   },
   "id": "chamber-music-society",
   "titulo": "Chamber Music Society",
@@ -44,7 +45,7 @@
     "hoy"
   ],
   "comentario": [
-    "Trío de jazz con cuerdas."
+    "Trío de jazz con cuerdas. Spalding canta y toca el contrabajo con un cuarteto de cuerdas, en temas que mezclan jazz y música de cámara. Es uno de los discos que el banco elige para conocer a Esperanza Spalding."
   ],
   "ids": {
     "musicbrainz": null,

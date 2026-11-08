@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Page One Joe Henderson"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi",
+    "via": "musicbrainz"
   },
   "id": "page-one",
   "titulo": "Page One",
@@ -49,7 +50,7 @@
     "hard-bop"
   ],
   "comentario": [
-    "Incluye \"Recorda Me\" y \"Blue Bossa\"."
+    "Incluye \"Recorda Me\" y \"Blue Bossa\". Henderson toca el saxo tenor con Kenny Dorham, McCoy Tyner, Butch Warren y Pete La Roca. Es el disco clave de Joe Henderson en la etapa \"Hard bop\"."
   ],
   "ids": {
     "musicbrainz": null,

@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Tribes, Vibes and Scribes Incognito"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4nzPa4caHfl4DzBRFUISDw",
+    "via": "musicbrainz"
   },
   "id": "tribes-vibes-and-scribes",
   "titulo": "Tribes, Vibes and Scribes",
@@ -44,7 +45,7 @@
     "acid"
   ],
   "comentario": [
-    "Con \"Don't You Worry 'bout a Thing\", de Stevie Wonder: jazz funk con vientos y voces."
+    "Con \"Don't You Worry 'bout a Thing\", de Stevie Wonder: jazz funk con vientos y voces. Incognito toca funk y soul con vientos y voces, en temas bailables. Es uno de los discos que el banco elige para conocer a Incognito."
   ],
   "ids": {
     "musicbrainz": null,

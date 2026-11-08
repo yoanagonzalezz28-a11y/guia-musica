@@ -1,0 +1,109 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
+    }
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1d27Qqf1HAJPXo3Khn4tAc",
+    "tituloEnSpotify": "Huella Digital",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "huella-digital",
+  "titulo": "Huella digital",
+  "credito": "Trío Ibarburu",
+  "lideres": [
+    "ibarburu"
+  ],
+  "grabacion": {
+    "desde": 2015,
+    "hasta": 2015,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2015,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "ibarburu",
+      "nombre": "Nicolás Ibarburu",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Lista parcial: sale de los créditos de Spotify.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "El trío de Nicolás Ibarburu en temas instrumentales como \"Mundo nego\", \"Ciudad Vieja\" y \"Recuerdos de la Atlántida\". Guitarra, bajo y batería tocan con la soltura de músicos que se conocen de toda la vida. Es la cara más jazzera de Ibarburu."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "wpes-nicolas-ibarburu"
+  ],
+  "temas": [
+    {
+      "titulo": "Fin del Fin",
+      "duracion": 316
+    },
+    {
+      "titulo": "Tres de Tres",
+      "duracion": 282
+    },
+    {
+      "titulo": "Arbolito",
+      "duracion": 238
+    },
+    {
+      "titulo": "Recuerdos de la Atlántida",
+      "duracion": 270
+    },
+    {
+      "titulo": "Ligero Guijarro en la Laguna",
+      "duracion": 359
+    },
+    {
+      "titulo": "Mundo Nego",
+      "duracion": 412
+    },
+    {
+      "titulo": "Dos Cellos",
+      "duracion": 195
+    },
+    {
+      "titulo": "Regalo",
+      "duracion": 252
+    },
+    {
+      "titulo": "Ciudad Vieja",
+      "duracion": 236
+    },
+    {
+      "titulo": "Huella Digital",
+      "duracion": 210
+    }
+  ],
+  "temasFuente": "Spotify"
+}

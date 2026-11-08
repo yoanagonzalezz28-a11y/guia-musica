@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Black Classical Music Yussef Dayes"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2A5yzYdLTVTLQaCp4CTKwG",
+    "via": "musicbrainz"
   },
   "id": "black-classical-music",
   "titulo": "Black Classical Music",
@@ -44,7 +45,7 @@
     "hoy"
   ],
   "comentario": [
-    "Su primer disco solista largo."
+    "Su primer disco solista largo. El baterista de Londres arma temas con invitados, entre el jazz, el broken beat y el reggae, siempre con la batería al frente. Es uno de los discos que el banco elige para conocer a Yussef Dayes."
   ],
   "ids": {
     "musicbrainz": null,

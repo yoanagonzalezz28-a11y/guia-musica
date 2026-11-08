@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Falso Brilhante Elis Regina"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5mXrkJyXx9VluFCtbv2YNs",
+    "via": "musicbrainz"
   },
   "id": "falso-brilhante",
   "titulo": "Falso Brilhante",
@@ -44,7 +45,7 @@
     "brasil"
   ],
   "comentario": [
-    "El disco de su espectáculo, con \"Como Nossos Pais\"."
+    "El disco de su espectáculo, con \"Como Nossos Pais\". Elis canta con una voz poderosa canciones de su espectáculo, entre la MPB y el rock. Es uno de los discos que el banco elige para conocer a Elis Regina."
   ],
   "ids": {
     "musicbrainz": null,

@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Nice Guys Art Ensemble of Chicago"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/03Breb0jIGDNVcVsDnnvJv",
+    "via": "musicbrainz"
   },
   "id": "nice-guys",
   "titulo": "Nice Guys",
@@ -44,7 +45,7 @@
     "free"
   ],
   "comentario": [
-    "Su primer disco para ECM: más claro y accesible, con un reggae incluido."
+    "Su primer disco para ECM: más claro y accesible, con un reggae incluido. El Art Ensemble toca temas más claros y accesibles, con un reggae y temas de jazz. Está entre los discos esenciales de Art Ensemble of Chicago."
   ],
   "ids": {
     "musicbrainz": null,

@@ -25,29 +25,30 @@
   "resumen": "Músico uruguayo, de Los Shakers a Opa, el grupo que formó en Estados Unidos con su hermano Osvaldo y Ringo Thielmann. Su música une el candombe con el jazz. Es el gran puente entre el candombe y el jazz.",
   "epocas": [
     {
-      "titulo": "Jazz de hoy",
-      "desde": 1968,
-      "hasta": 2021,
-      "texto": "Nació en Montevideo en 1943 y de chico tocaba jazz tradicional con su hermano Osvaldo en los Hot Blowers. En los 60 formó Los Shakers, el gran grupo beat rioplatense, que triunfó en Buenos Aires con un sonido inspirado en los Beatles.",
+      "titulo": "Opa",
+      "desde": 1976,
+      "hasta": 1977,
+      "texto": "Con su hermano Osvaldo y el bajista Ringo Thielmann armó Opa en Estados Unidos. Airto Moreira los ayudó a grabar para Milestone una fusión con candombe y música brasileña.[^wp-hugo-fattoruso]",
       "discoClave": {
-        "disco": "la-conferencia-secreta-del-toto-s-bar-los-shakers",
-        "explicacion": "Su etapa beat, el disco más ambicioso de Los Shakers."
+        "disco": "goldenwings",
+        "explicacion": "El primer disco de Opa: teclados eléctricos, voces y tambores de candombe dentro de la fusión de los 70."
       },
       "discos": [
-        "trio-fattoruso",
-        "recorriendo-uruguay"
+        "magic-time-opa"
       ]
     },
     {
-      "titulo": "Fusión",
-      "desde": 1977,
-      "hasta": 1977,
-      "texto": "En 1969 se fue a Estados Unidos y con Osvaldo y George \"Ringo\" Thielmann formó Opa, pionera en cruzar el candombe con el jazz y el funk, cerca de la escena de Airto Moreira. En Brasil tocó con Milton Nascimento, entre otros. De vuelta en Uruguay siguió con el Trío Fattoruso y con el dúo Dos Orientales, junto al percusionista japonés Yahiro Tomohiro.",
+      "titulo": "El trío y el candombe",
+      "desde": 2001,
+      "hasta": 2021,
+      "texto": "De vuelta en Uruguay tocó en trío con su hermano Osvaldo y con Francisco Fattoruso, y siguió grabando solo, siempre con el candombe como base.[^wp-hugo-fattoruso]",
       "discoClave": {
-        "disco": "magic-time-opa",
-        "explicacion": "Segundo disco de Opa."
+        "disco": "trio-fattoruso",
+        "explicacion": "El trío familiar con Osvaldo y Francisco Fattoruso: candombe y jazz tocados en casa."
       },
-      "discos": []
+      "discos": [
+        "recorriendo-uruguay"
+      ]
     }
   ],
   "fuentes": [
@@ -55,7 +56,6 @@
   ],
   "respaldo": [],
   "discosEsenciales": [
-    "la-conferencia-secreta-del-toto-s-bar-los-shakers",
     "goldenwings",
     "magic-time-opa",
     "trio-fattoruso",

@@ -1,0 +1,49 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "lafertin",
+  "nombre": "Fapy Lafertin",
+  "nacimiento": {
+    "anio": 1950,
+    "lugar": "Kortrijk, Bélgica"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "guitarra",
+    "guitarra de doce cuerdas"
+  ],
+  "corrientes": [
+    "manouche"
+  ],
+  "regiones": [],
+  "spotify": null,
+  "resumen": "Guitarrista belga de la comunidad manouche. Tocó en el grupo Waso en los 70 y 80 y en 1985 armó un cuarteto según el modelo del Quinteto del Hot Club de Francia. Suma la guitarra portuguesa de doce cuerdas y aires de fado y samba al repertorio de Django.[^wp-fapy-lafertin]",
+  "epocas": [
+    {
+      "titulo": "El cuarteto",
+      "desde": 1991,
+      "hasta": 1996,
+      "texto": "Grabó con su cuarteto un jazz gitano de escuela clásica.[^wp-fapy-lafertin]",
+      "discoClave": {
+        "disco": "fleur-de-lavande",
+        "explicacion": "Guitarra fina y elegante, cerca del Django de los 30."
+      },
+      "discos": [
+        "swing-guitars-lafertin",
+        "hungaria-lafertin"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-fapy-lafertin"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "fleur-de-lavande",
+    "swing-guitars-lafertin",
+    "hungaria-lafertin"
+  ]
+}

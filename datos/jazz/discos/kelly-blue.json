@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Kelly Blue Wynton Kelly"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B",
+    "via": "musicbrainz"
   },
   "id": "kelly-blue",
   "titulo": "Kelly Blue",
@@ -44,7 +45,7 @@
     "hard-bop"
   ],
   "comentario": [
-    "Con Nat Adderley y Benny Golson: el blues del pianista más alegre."
+    "Con Nat Adderley y Benny Golson: el blues del pianista más alegre. Kelly toca el piano con un grupo que suma flauta, trompeta y saxo en algunos temas, con un swing relajado. Es el disco clave de Wynton Kelly en la etapa \"Hard bop\"."
   ],
   "ids": {
     "musicbrainz": null,

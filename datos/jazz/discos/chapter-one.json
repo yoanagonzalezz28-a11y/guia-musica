@@ -12,8 +12,10 @@
   "catalogo": "AS-9248",
   "lugar": "Music Hall, Buenos Aires, y Odeon, Río de Janeiro",
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Chapter One Latin America Gato Barbieri"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/56ZsSg6eBW5FgIhw87qYr8",
+    "tituloEnSpotify": "Chapter One: Latin America",
+    "via": "busqueda-spotify"
   },
   "id": "chapter-one",
   "titulo": "Chapter One: Latin America",

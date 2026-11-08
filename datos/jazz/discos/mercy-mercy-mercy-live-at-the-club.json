@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Mercy, Mercy, Mercy! Live at \"The Club\" Cannonball Adderley"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6Utj0CAgAWsPLFCVfaqDnB",
+    "via": "musicbrainz"
   },
   "id": "mercy-mercy-mercy-live-at-the-club",
   "titulo": "Mercy, Mercy, Mercy! Live at \"The Club\"",
@@ -44,7 +45,7 @@
     "souljazz"
   ],
   "comentario": [
-    "El tema de Joe Zawinul se volvió un éxito: soul jazz con piano eléctrico."
+    "El tema de Joe Zawinul se volvió un éxito: soul jazz con piano eléctrico. Zawinul toca el piano eléctrico Wurlitzer y el quinteto de los hermanos Adderley suena con mucho groove de iglesia. Es el disco clave de Cannonball Adderley en la etapa \"Sus grupos y \"Mercy, Mercy, Mercy\"\"."
   ],
   "ids": {
     "musicbrainz": null,

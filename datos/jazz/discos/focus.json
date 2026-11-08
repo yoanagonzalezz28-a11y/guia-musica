@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Focus Stan Getz"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/06CopuEQITCwjMVuTZRgFb",
+    "via": "musicbrainz"
   },
   "id": "focus",
   "titulo": "Focus",
@@ -44,7 +45,7 @@
     "cool"
   ],
   "comentario": [
-    "Improvisa sobre una suite para cuerdas de Eddie Sauter."
+    "Improvisa sobre una suite para cuerdas de Eddie Sauter. Getz improvisa sobre una suite escrita por Sauter para cuerdas, sin una melodía previa. Es el disco clave de Stan Getz en la etapa \"Cool\"."
   ],
   "ids": {
     "musicbrainz": null,

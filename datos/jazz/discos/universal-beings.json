@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Universal Beings Makaya McCraven"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3cFJZIeJK3Tdkkq4iuvsBS",
+    "via": "musicbrainz"
   },
   "id": "universal-beings",
   "titulo": "Universal Beings",
@@ -44,7 +45,7 @@
     "hoy"
   ],
   "comentario": [
-    "Sesiones en Chicago, Nueva York, Londres y Los Ángeles."
+    "Sesiones en Chicago, Nueva York, Londres y Los Ángeles. McCraven toca la batería con músicos de cuatro ciudades, en improvisaciones editadas. Es el disco clave de Makaya McCraven en la etapa \"Jazz de hoy\"."
   ],
   "ids": {
     "musicbrainz": null,

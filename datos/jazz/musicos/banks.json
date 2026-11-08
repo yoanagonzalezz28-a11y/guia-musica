@@ -1,0 +1,47 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "banks",
+  "nombre": "Louiz Banks",
+  "nacimiento": {
+    "anio": null,
+    "lugar": "India"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano",
+    "teclados",
+    "composición"
+  ],
+  "corrientes": [
+    "mundo"
+  ],
+  "regiones": [
+    "india"
+  ],
+  "spotify": null,
+  "resumen": "Pianista y compositor indio, nacido como Dambar Bahadur Budaprithi. Es una de las figuras más conocidas del jazz en la India.[^mb-louis-banks]",
+  "epocas": [
+    {
+      "titulo": "Discos",
+      "desde": 1995,
+      "hasta": 1995,
+      "texto": "",
+      "discoClave": {
+        "disco": "music-for-romance",
+        "explicacion": "Uno de los pocos discos suyos catalogados."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "mb-louis-banks"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "music-for-romance"
+  ]
+}

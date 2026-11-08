@@ -1,0 +1,94 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
+    }
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7cjzu7TBLnm5BvCrQYP2Ek",
+    "tituloEnSpotify": "Bolsa de naylon en la rama de un árbol",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "bolsa-de-naylon-en-la-rama-de-un-arbol",
+  "titulo": "Bolsa de naylon en la rama de un árbol",
+  "credito": "Bolsa de naylon en la rama de un árbol",
+  "lideres": [],
+  "grabacion": {
+    "desde": 2019,
+    "hasta": 2019,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2019,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [],
+  "personalNota": "Lista parcial: sale de los créditos de Spotify.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "El primer disco del grupo uruguayo, con títulos tan juguetones como su nombre: \"Enano sagrado\", \"Ballenas\" o \"Rama de naylon en la bolsa de un árbol\". Son nueve temas que mezclan humor y oficio, con un guiño brasileño en \"Fabinho na floresta\". Está en el banco como parte de la escena uruguaya actual."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Enano Sagrado",
+      "duracion": 376
+    },
+    {
+      "titulo": "Ballenas",
+      "duracion": 429
+    },
+    {
+      "titulo": "Cuesta Abajo",
+      "duracion": 217
+    },
+    {
+      "titulo": "Puertas",
+      "duracion": 402
+    },
+    {
+      "titulo": "Rama de naylon en la bolsa de un árbol",
+      "duracion": 323
+    },
+    {
+      "titulo": "La Escoba",
+      "duracion": 413
+    },
+    {
+      "titulo": "Fabinho Na Floresta",
+      "duracion": 219
+    },
+    {
+      "titulo": "Loza",
+      "duracion": 241
+    },
+    {
+      "titulo": "Esos castillos ridículos que nos armamos",
+      "duracion": 312
+    }
+  ],
+  "temasFuente": "Spotify"
+}

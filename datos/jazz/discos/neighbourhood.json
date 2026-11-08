@@ -11,8 +11,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Neighbourhood Manu Katché"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0INyOh58myljLOhTJKzcG7",
+    "via": "musicbrainz"
   },
   "id": "neighbourhood",
   "titulo": "Neighbourhood",
@@ -42,7 +43,7 @@
     "ecm"
   ],
   "comentario": [
-    "Con Jan Garbarek y Tomasz Stańko: groove suave y melodías claras."
+    "Con Jan Garbarek y Tomasz Stańko: groove suave y melodías claras. Katché toca la batería con Garbarek, Stańko, Marcin Wasilewski y Sławomir Kurkiewicz, con un groove suave. En la ficha de Manu Katché es el disco que representa la etapa \"ECM y jazz europeo\"."
   ],
   "ids": {
     "musicbrainz": null,

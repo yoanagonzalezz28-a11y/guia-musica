@@ -1,0 +1,55 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "letieres",
+  "nombre": "Letieres Leite",
+  "nacimiento": {
+    "anio": 1959,
+    "lugar": "Salvador de Bahía"
+  },
+  "muerte": {
+    "anio": 2021,
+    "lugar": null
+  },
+  "instrumentos": [
+    "saxo",
+    "arreglos",
+    "dirección"
+  ],
+  "corrientes": [
+    "brasil"
+  ],
+  "regiones": [
+    "brasil"
+  ],
+  "spotify": null,
+  "resumen": "Arreglador, saxofonista y educador bahiano. En 2006 creó la Orkestra Rumpilezz, una orquesta de cinco percusionistas y catorce vientos que lleva los ritmos del candomblé y de los blocos afro de Bahía a la armonía del jazz moderno.[^wp-orkestra-rumpilezz]",
+  "epocas": [
+    {
+      "titulo": "Orkestra Rumpilezz",
+      "desde": 2009,
+      "hasta": 2022,
+      "texto": "Con la Rumpilezz grabó tres discos de estudio; el último salió después de su muerte.[^wp-orkestra-rumpilezz]",
+      "discoClave": {
+        "disco": "letieres-leite-orkestra-rumpilezz",
+        "explicacion": "El debut de la orquesta, premiado como disco del año en Brasil."
+      },
+      "discos": [
+        "a-saga-da-travessia",
+        "moacir-de-todos-os-santos"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-orkestra-rumpilezz"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "letieres-leite-orkestra-rumpilezz",
+    "a-saga-da-travessia",
+    "moacir-de-todos-os-santos"
+  ]
+}

@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Soul Sauce Cal Tjader"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1F3ZdAeTsfMzczAZnbwvUC",
+    "via": "musicbrainz"
   },
   "id": "soul-sauce",
   "titulo": "Soul Sauce",
@@ -44,7 +45,7 @@
     "latino"
   ],
   "comentario": [
-    "Vibráfono y percusión cubana."
+    "Vibráfono y percusión cubana. Tjader toca el vibráfono con percusión cubana, en temas de soul y latin jazz. En la ficha de Cal Tjader es el disco que representa la etapa \"Jazz latino\"."
   ],
   "ids": {
     "musicbrainz": null,

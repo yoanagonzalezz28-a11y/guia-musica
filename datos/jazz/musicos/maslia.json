@@ -1,0 +1,62 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "maslia",
+  "nombre": "Leo Maslíah",
+  "nacimiento": {
+    "anio": 1954,
+    "lugar": "Montevideo"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano",
+    "voz",
+    "composición"
+  ],
+  "corrientes": [
+    "rioplat"
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "spotify": "https://open.spotify.com/artist/1V91O7M7AAOZxWnTRDlJy7",
+  "resumen": "Compositor, pianista, cantante y escritor uruguayo. Estudió piano, órgano y composición, y desde 1978 se dedicó a la música popular, con canciones de humor absurdo y un piano lleno de giros inesperados que cruza lo clásico, el tango y el jazz.[^wpes-leo-maslia]",
+  "epocas": [
+    {
+      "titulo": "Las canciones",
+      "desde": 1978,
+      "hasta": 1990,
+      "texto": "Desde fines de los 70 se presentó como autor e intérprete de sus canciones, con letras absurdas y armonías poco comunes en la canción popular.[^wpes-leo-maslia]",
+      "discoClave": {
+        "disco": "falta-un-vidrio",
+        "explicacion": "Uno de sus primeros discos de canciones, con el humor que lo hizo conocido."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "El pianista",
+      "desde": 2005,
+      "hasta": 2020,
+      "texto": "Con los años grabó más piano instrumental: versiones de clásicos, de jazz y obras propias, solo o en trío.[^wpes-leo-maslia]",
+      "discoClave": {
+        "disco": "en-trio-maslia",
+        "explicacion": "Su piano más cerca de un trío de jazz, con Tato Bolognini y Marco Messina."
+      },
+      "discos": [
+        "clasicos-maslia"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wpes-leo-maslia"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "falta-un-vidrio",
+    "clasicos-maslia",
+    "en-trio-maslia"
+  ]
+}

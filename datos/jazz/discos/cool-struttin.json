@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Cool Struttin' Sonny Clark"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/38ERGmBgDAsCTb4KNeopsX",
+    "via": "musicbrainz"
   },
   "id": "cool-struttin",
   "titulo": "Cool Struttin'",
@@ -44,7 +45,7 @@
     "hard-bop"
   ],
   "comentario": [
-    "Con Art Farmer y Jackie McLean: uno de los discos más emblemáticos de Blue Note."
+    "Con Art Farmer y Jackie McLean: uno de los discos más emblemáticos de Blue Note. Clark toca blues medios con la trompeta de Farmer y el alto de McLean, con un swing muy relajado. En la ficha de Sonny Clark es el disco que representa la etapa \"Hard bop\"."
   ],
   "ids": {
     "musicbrainz": null,

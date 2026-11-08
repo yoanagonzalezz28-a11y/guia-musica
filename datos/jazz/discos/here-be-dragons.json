@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Here Be Dragons Oded Tzur"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5CNcTVrgGUXPTewHvOFzlv",
+    "via": "musicbrainz"
   },
   "id": "here-be-dragons",
   "titulo": "Here Be Dragons",
@@ -44,7 +45,7 @@
     "ecm"
   ],
   "comentario": [
-    "Su debut en ECM: cuarteto de una delicadeza extrema."
+    "Su debut en ECM: cuarteto de una delicadeza extrema. Tzur toca el saxo tenor con un sonido muy suave y adornos que vienen de la música india. En la ficha de Oded Tzur es el disco que representa la etapa \"ECM y jazz europeo\"."
   ],
   "ids": {
     "musicbrainz": null,

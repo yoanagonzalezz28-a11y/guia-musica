@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Terra dos Pássaros Toninho Horta"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5EP2SNU26WpVjLPCdkvMPZ",
+    "via": "musicbrainz"
   },
   "id": "terra-dos-passaros",
   "titulo": "Terra dos Pássaros",
@@ -44,7 +45,7 @@
     "brasil"
   ],
   "comentario": [
-    "Su primer disco: canciones y armonías de Minas Gerais."
+    "Su primer disco: canciones y armonías de Minas Gerais. Horta toca la guitarra y canta con músicos de Minas, en canciones con armonías complejas. Es el disco clave de Toninho Horta en la etapa \"Jazz brasileño\"."
   ],
   "ids": {
     "musicbrainz": null,

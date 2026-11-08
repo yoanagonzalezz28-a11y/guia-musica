@@ -14,8 +14,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Vámonos pa'l monte Eddie Palmieri"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5rRK7XmDP4QoUtBDBrDB1V",
+    "via": "musicbrainz"
   },
   "id": "vamonos-pa-l-monte",
   "titulo": "Vámonos pa'l monte",
@@ -45,7 +46,7 @@
     "latino"
   ],
   "comentario": [
-    "Con su hermano Charlie en órgano: salsa con libertad de jazz."
+    "Con su hermano Charlie en órgano: salsa con libertad de jazz. Palmieri toca el piano con su orquesta y Charlie en órgano, en temas largos de salsa. Está entre los discos esenciales de Eddie Palmieri."
   ],
   "ids": {
     "musicbrainz": null,

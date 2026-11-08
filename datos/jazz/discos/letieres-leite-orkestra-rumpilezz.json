@@ -1,0 +1,59 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "brasil"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Letieres Leite & Orkestra Rumpilezz Letieres Leite & Orkestra Rumpilezz"
+  },
+  "id": "letieres-leite-orkestra-rumpilezz",
+  "titulo": "Letieres Leite & Orkestra Rumpilezz",
+  "credito": "Letieres Leite & Orkestra Rumpilezz",
+  "lideres": [
+    "letieres"
+  ],
+  "grabacion": {
+    "desde": 2009,
+    "hasta": 2009,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2009,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "letieres",
+      "nombre": "Letieres Leite",
+      "instrumento": "saxo, arreglos, dirección"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "brasil"
+  ],
+  "comentario": [
+    "El primer disco de la orquesta de vientos y percusión que Letieres Leite armó en Salvador de Bahía: cinco percusionistas y catorce vientos. Los arreglos parten de los ritmos del candomblé y de los blocos afro de Bahía, con armonía de jazz moderno. Ganó varios premios de la música brasileña como disco del año."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "wp-orkestra-rumpilezz"
+  ]
+}

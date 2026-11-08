@@ -1,0 +1,122 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
+    }
+  ],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0kWxhEJGTl1ch0FGvBamCa",
+    "tituloEnSpotify": "Traces",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "traces-camila-meza",
+  "titulo": "Traces",
+  "credito": "Camila Meza",
+  "lideres": [
+    "meza"
+  ],
+  "grabacion": {
+    "desde": 2016,
+    "hasta": 2016,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2016,
+    "detalle": null
+  },
+  "sello": "Sunnyside",
+  "musicos": [
+    {
+      "musico": "meza",
+      "nombre": "Camila Meza",
+      "instrumento": "guitarra y voz"
+    },
+    {
+      "musico": "maestro",
+      "nombre": "Shai Maestro",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Matt Penman",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Kendrick Scott",
+      "instrumento": "batería"
+    }
+  ],
+  "personalNota": "Lista parcial: sale de los créditos de Spotify.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Guitarra y voz al frente, con temas propios y canciones latinoamericanas como \"Luchín\", de Víctor Jara. El piano de Shai Maestro y la batería de Kendrick Scott le dan un aire de jazz neoyorquino a canciones que se cantan en castellano y en inglés. \"Para volar\" ganó un Independent Music Award a la mejor canción latina."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "wp-camila-meza"
+  ],
+  "temas": [
+    {
+      "titulo": "Para Volar",
+      "duracion": 312
+    },
+    {
+      "titulo": "Away",
+      "duracion": 295
+    },
+    {
+      "titulo": "Traces",
+      "duracion": 316
+    },
+    {
+      "titulo": "Amazon Farewell",
+      "duracion": 392
+    },
+    {
+      "titulo": "Mar Elastico",
+      "duracion": 374
+    },
+    {
+      "titulo": "Luchin",
+      "duracion": 231
+    },
+    {
+      "titulo": "Greenfinch and Linnet Bird",
+      "duracion": 425
+    },
+    {
+      "titulo": "Emerald",
+      "duracion": 399
+    },
+    {
+      "titulo": "Mangata",
+      "duracion": 330
+    },
+    {
+      "titulo": "Little Person",
+      "duracion": 247
+    }
+  ],
+  "temasFuente": "Spotify"
+}

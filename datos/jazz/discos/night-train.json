@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Night Train Oscar Peterson"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v",
+    "via": "musicbrainz"
   },
   "id": "night-train",
   "titulo": "Night Train",
@@ -44,7 +45,7 @@
     "bebop"
   ],
   "comentario": [
-    "El trío con Ray Brown y Ed Thigpen, en blues y estándares."
+    "El trío con Ray Brown y Ed Thigpen, en blues y estándares. Peterson toca el piano con Brown y Thigpen, en blues y estándares con mucho swing. En la ficha de Oscar Peterson es el disco que representa la etapa \"Bebop\"."
   ],
   "ids": {
     "musicbrainz": null,

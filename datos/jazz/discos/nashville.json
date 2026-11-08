@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Nashville Bill Frisell"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3xs2KbQrvXNfWdD81CnRPZ",
+    "via": "musicbrainz"
   },
   "id": "nashville",
   "titulo": "Nashville",
@@ -44,7 +45,7 @@
     "hoy"
   ],
   "comentario": [
-    "Con músicos de country: guitarra entre el bluegrass y el jazz."
+    "Con músicos de country: guitarra entre el bluegrass y el jazz. Frisell toca la guitarra con músicos de country, con dobro, banjo y mandolina. Está entre los discos esenciales de Bill Frisell."
   ],
   "ids": {
     "musicbrainz": null,

@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Honeydripper Jack McDuff"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4LHoUJ5iUih3y90sObj165",
+    "via": "musicbrainz"
   },
   "id": "the-honeydripper",
   "titulo": "The Honeydripper",
@@ -44,7 +45,7 @@
     "souljazz"
   ],
   "comentario": [
-    "Con Grant Green: órgano y blues."
+    "Con Grant Green: órgano y blues. McDuff toca el órgano con Green en guitarra y Jimmy Forrest en saxo, en blues relajados. En la ficha de Jack McDuff es el disco que representa la etapa \"Soul jazz\"."
   ],
   "ids": {
     "musicbrainz": null,

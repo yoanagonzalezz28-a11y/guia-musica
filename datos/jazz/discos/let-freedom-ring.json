@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Let Freedom Ring Jackie McLean"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7cDdrBZaImUjYGqkir7bVw",
+    "via": "musicbrainz"
   },
   "id": "let-freedom-ring",
   "titulo": "Let Freedom Ring",
@@ -44,7 +45,7 @@
     "free"
   ],
   "comentario": [
-    "El momento en que empieza a soltarse: agudos gritados y formas más abiertas."
+    "El momento en que empieza a soltarse: agudos gritados y formas más abiertas. McLean toca el saxo alto con agudos gritados, en temas más abiertos que en su hard bop anterior. En la ficha de Jackie McLean es el disco que representa la etapa \"Free jazz\"."
   ],
   "ids": {
     "musicbrainz": null,

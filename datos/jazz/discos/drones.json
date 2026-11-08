@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Drones Terrace Martin"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1cSZDrpp0lic8Y70I3JGUa",
+    "via": "musicbrainz"
   },
   "id": "drones",
   "titulo": "Drones",
@@ -44,7 +45,7 @@
     "hoy"
   ],
   "comentario": [
-    "Hip hop y jazz."
+    "Hip hop y jazz. Martin produce y toca saxo y teclados en temas de hip hop con raperos y cantantes invitados. Es uno de los discos que el banco elige para conocer a Terrace Martin."
   ],
   "ids": {
     "musicbrainz": null,

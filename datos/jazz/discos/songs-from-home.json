@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Songs from Home Fred Hersch"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/67ozWVPE4AkGAVZEa3Fibt",
+    "via": "musicbrainz"
   },
   "id": "songs-from-home",
   "titulo": "Songs from Home",
@@ -44,7 +45,7 @@
     "hoy"
   ],
   "comentario": [
-    "Grabado en casa durante la pandemia."
+    "Grabado en casa durante la pandemia. Hersch toca el piano solo en su casa, en canciones de Joni Mitchell, los Beatles y estándares. Es uno de los discos que el banco elige para conocer a Fred Hersch."
   ],
   "ids": {
     "musicbrainz": null,

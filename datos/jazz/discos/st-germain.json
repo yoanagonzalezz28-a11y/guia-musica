@@ -11,8 +11,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "St Germain St Germain"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7wdunnt609ZIgruC805hKS",
+    "via": "musicbrainz"
   },
   "id": "st-germain",
   "titulo": "St Germain",
@@ -42,7 +43,7 @@
     "acid"
   ],
   "comentario": [
-    "House con música de Mali."
+    "House con música de Mali. St Germain mezcla house con guitarras, voces y percusión de Mali. En la ficha de St Germain es el disco que representa la etapa \"Acid jazz\"."
   ],
   "ids": {
     "musicbrainz": null,

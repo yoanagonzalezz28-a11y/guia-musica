@@ -1,0 +1,80 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
+    }
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2XepFQu5JxPEGFZ7FcKNA5",
+    "tituloEnSpotify": "Sondor",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "sondor",
+  "titulo": "Sondor",
+  "credito": "Nair Mirabrat",
+  "lideres": [],
+  "grabacion": {
+    "desde": 2019,
+    "hasta": 2019,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2019,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": null,
+      "nombre": "Martín Ibarra",
+      "instrumento": "director del proyecto"
+    }
+  ],
+  "personalNota": "Lista parcial: sale de los créditos de Spotify.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Nair Mirabrat es un proyecto de Martín Ibarra. Este primer EP tiene cuatro temas, como \"El Tunguelé\" y \"Dombe Mood\", con el candombe como punto de partida. Entra al banco por su trabajo con la tradición uruguaya, que en 2025 llegó a un disco entero: Mateo solo bien se lame por Nair Mirabrat."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "El Tunguelé",
+      "duracion": 445
+    },
+    {
+      "titulo": "Dombe Mood",
+      "duracion": 396
+    },
+    {
+      "titulo": "Coco en el Tablero",
+      "duracion": 465
+    },
+    {
+      "titulo": "Suecos",
+      "duracion": 242
+    }
+  ],
+  "temasFuente": "Spotify"
+}

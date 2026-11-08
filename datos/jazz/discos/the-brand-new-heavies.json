@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Brand New Heavies The Brand New Heavies"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1YZnFFblrg9SAAKM7NFYJS",
+    "via": "musicbrainz"
   },
   "id": "the-brand-new-heavies",
   "titulo": "The Brand New Heavies",
@@ -44,7 +45,7 @@
     "acid"
   ],
   "comentario": [
-    "Su debut: funk y soul de los 70 tocados con la energía de los clubes de Londres."
+    "Su debut: funk y soul de los 70 tocados con la energía de los clubes de Londres. La banda toca funk y soul con vientos y voces. Es el disco clave de The Brand New Heavies en la etapa \"Acid jazz\"."
   ],
   "ids": {
     "musicbrainz": null,

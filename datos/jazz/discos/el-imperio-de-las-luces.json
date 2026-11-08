@@ -44,14 +44,19 @@
       "musico": "hayes",
       "nombre": "Andrés Hayes",
       "instrumento": "saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "George Garzone",
+      "instrumento": "saxo tenor, invitado"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Lista parcial: sale de los créditos de Spotify.",
   "corrientes": [
     "rioplat"
   ],
   "comentario": [
-    "Saxo y grupo en un disco de jazz porteño contemporáneo."
+    "Andrés Hayes en saxo, con un invitado de peso: el saxofonista estadounidense George Garzone, a quien le dedica \"Song for George Garzone\". Algunos títulos comparten nombre con un libro de Borges (\"El elogio de la sombra\") y un cuadro de Magritte (\"El imperio de las luces\"). Es uno de los discos más reconocidos del jazz porteño de los 2010."
   ],
   "ids": {
     "musicbrainz": "29e5b27a-d82a-4794-86ce-553302c21ef5",

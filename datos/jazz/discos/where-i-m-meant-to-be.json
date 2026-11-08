@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Where I'm Meant to Be Ezra Collective"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT",
+    "via": "musicbrainz"
   },
   "id": "where-i-m-meant-to-be",
   "titulo": "Where I'm Meant to Be",
@@ -44,7 +45,7 @@
     "hoy"
   ],
   "comentario": [
-    "Ganó el Mercury Prize de 2023."
+    "Ganó el Mercury Prize de 2023. El grupo de Londres toca afrobeat, jazz y grime con invitados, en temas con mucha energía. Es uno de los discos que el banco elige para conocer a Ezra Collective."
   ],
   "ids": {
     "musicbrainz": null,

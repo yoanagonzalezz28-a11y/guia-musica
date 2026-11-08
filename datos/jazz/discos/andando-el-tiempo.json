@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Andando el Tiempo Carla Bley"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0ZPGfkWhuAmkEARlRTz0ZB",
+    "via": "musicbrainz"
   },
   "id": "andando-el-tiempo",
   "titulo": "Andando el Tiempo",
@@ -44,7 +45,7 @@
     "ecm"
   ],
   "comentario": [
-    "El mismo trío con una suite sobre la recuperación de una adicción: melodías largas y tristes, tocadas sin prisa."
+    "El mismo trío con una suite sobre la recuperación de una adicción: melodías largas y tristes, tocadas sin prisa. Bley escribe para un trío con Andy Sheppard en saxos y Steve Swallow en bajo eléctrico, con melodías largas y tristes. Completa la discografía de Carla Bley dentro de ECM y jazz europeo."
   ],
   "ids": {
     "musicbrainz": null,

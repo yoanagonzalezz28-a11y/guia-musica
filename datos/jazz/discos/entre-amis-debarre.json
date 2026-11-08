@@ -1,0 +1,62 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Entre amis Angelo Debarre y Ludovic Beier"
+  },
+  "id": "entre-amis-debarre",
+  "titulo": "Entre amis",
+  "credito": "Angelo Debarre y Ludovic Beier",
+  "lideres": [
+    "debarre"
+  ],
+  "grabacion": {
+    "desde": 2005,
+    "hasta": 2005,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2005,
+    "detalle": null
+  },
+  "sello": "Le Chant du Monde",
+  "musicos": [
+    {
+      "musico": "debarre",
+      "nombre": "Angelo Debarre",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Ludovic Beier",
+      "instrumento": "acordeón"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "manouche"
+  ],
+  "comentario": [
+    "Guitarra y acordeón, una combinación muy parisina dentro del jazz gitano. Debarre y Beier grabaron varios discos juntos y acá se nota la confianza. Suma el musette al repertorio manouche."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "wp-angelo-debarre"
+  ]
+}

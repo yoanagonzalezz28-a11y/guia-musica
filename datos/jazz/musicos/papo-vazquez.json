@@ -1,0 +1,50 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "papo-vazquez",
+  "nombre": "Papo Vázquez",
+  "nacimiento": {
+    "anio": 1958,
+    "lugar": "Filadelfia"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "trombón",
+    "composición",
+    "arreglos"
+  ],
+  "corrientes": [
+    "latino"
+  ],
+  "regiones": [
+    "puerto-rico"
+  ],
+  "spotify": null,
+  "resumen": "Trombonista, compositor y director de origen puertorriqueño, nacido en Filadelfia y criado en parte en Puerto Rico. Es uno de los pioneros de la bomba jazz, que lleva los ritmos de la bomba y la plena al jazz, y fue nominado al Grammy.[^wp-papo-vazquez]",
+  "epocas": [
+    {
+      "titulo": "Bomba jazz",
+      "desde": 1992,
+      "hasta": 2000,
+      "texto": "Como líder, armó los Mighty Pirates Troubadours para cruzar el jazz con la música de Puerto Rico.[^wp-papo-vazquez]",
+      "discoClave": {
+        "disco": "breakout-papo-vazquez",
+        "explicacion": "Uno de sus primeros discos como líder."
+      },
+      "discos": [
+        "at-the-point-vol-2"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-papo-vazquez"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "breakout-papo-vazquez",
+    "at-the-point-vol-2"
+  ]
+}

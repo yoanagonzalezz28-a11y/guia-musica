@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The 7th Hand Immanuel Wilkins"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3OROcJURkOtf5sOitgchGD",
+    "via": "musicbrainz"
   },
   "id": "the-7th-hand",
   "titulo": "The 7th Hand",
@@ -44,7 +45,7 @@
     "hoy"
   ],
   "comentario": [
-    "Una suite en siete movimientos que termina en libertad total."
+    "Una suite en siete movimientos que termina en libertad total. Wilkins toca el saxo alto con su cuarteto y el grupo de percusión Farafina Kan en un tema, en una suite larga. Es uno de los discos que el banco elige para conocer a Immanuel Wilkins."
   ],
   "ids": {
     "musicbrainz": null,

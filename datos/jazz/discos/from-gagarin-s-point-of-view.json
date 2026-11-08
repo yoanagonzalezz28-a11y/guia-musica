@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "From Gagarin's Point of View Esbjörn Svensson"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4jM7MG25QkVfp0SSkQ6138",
+    "via": "musicbrainz"
   },
   "id": "from-gagarin-s-point-of-view",
   "titulo": "From Gagarin's Point of View",
@@ -44,7 +45,7 @@
     "hoy"
   ],
   "comentario": [
-    "El disco con el que el trío salió de Suecia."
+    "El disco con el que el trío salió de Suecia. El trío de Svensson toca melodías claras y pegadizas, con un piano lírico y una base que viene del pop y del rock. Es uno de los discos que el banco elige para conocer a Esbjörn Svensson."
   ],
   "ids": {
     "musicbrainz": null,

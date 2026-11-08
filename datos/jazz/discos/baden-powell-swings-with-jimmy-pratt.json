@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Baden Powell Swings with Jimmy Pratt Baden Powell"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6UJiGu4l9ASxUqiHAHZegS",
+    "via": "musicbrainz"
   },
   "id": "baden-powell-swings-with-jimmy-pratt",
   "titulo": "Baden Powell Swings with Jimmy Pratt",
@@ -44,7 +45,7 @@
     "brasil"
   ],
   "comentario": [
-    "Guitarra brasileña con swing jazzero."
+    "Guitarra brasileña con swing jazzero. Powell toca su guitarra brasileña con un baterista estadounidense y el resultado mezcla samba y swing. Está entre los discos esenciales de Baden Powell."
   ],
   "ids": {
     "musicbrainz": null,

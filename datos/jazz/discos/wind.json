@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Wind Ibrahim Maalouf"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI",
+    "via": "musicbrainz"
   },
   "id": "wind",
   "titulo": "Wind",
@@ -44,7 +45,7 @@
     "mundo"
   ],
   "comentario": [
-    "Inspirado en Miles Davis y la música de cine."
+    "Inspirado en Miles Davis y la música de cine. Maalouf toca la trompeta con un grupo de jazz, en temas lentos que miran a la música de cine. Está entre los discos esenciales de Ibrahim Maalouf."
   ],
   "ids": {
     "musicbrainz": null,

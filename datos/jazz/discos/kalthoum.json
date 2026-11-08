@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Kalthoum Ibrahim Maalouf"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4Wkhhlckbp7VrHynUXX60j",
+    "via": "musicbrainz"
   },
   "id": "kalthoum",
   "titulo": "Kalthoum",
@@ -44,7 +45,7 @@
     "mundo"
   ],
   "comentario": [
-    "Homenaje a la cantante egipcia Umm Kulthum, en clave de jazz."
+    "Homenaje a la cantante egipcia Umm Kulthum, en clave de jazz. Maalouf toca la trompeta de cuartos de tono con un cuarteto de jazz, en una obra basada en una canción de Umm Kulthum. Es uno de los discos que el banco elige para conocer a Ibrahim Maalouf."
   ],
   "ids": {
     "musicbrainz": null,

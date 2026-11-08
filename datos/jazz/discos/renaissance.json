@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Renaissance Branford Marsalis"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/52isPkGiAuaXCuGtTTqVmV",
+    "via": "musicbrainz"
   },
   "id": "renaissance",
   "titulo": "Renaissance",
@@ -54,7 +55,7 @@
     "neotrad"
   ],
   "comentario": [
-    "Cuarteto con Kenny Kirkland y Tain Watts: el saxo tenor en la tradición de Coltrane y Rollins."
+    "Cuarteto con Kenny Kirkland y Tain Watts: el saxo tenor en la tradición de Coltrane y Rollins. Marsalis toca el saxo tenor con Kenny Kirkland y Jeff \"Tain\" Watts, entre otros, en temas propios y estándares. Está entre los discos esenciales de Branford Marsalis."
   ],
   "ids": {
     "musicbrainz": null,

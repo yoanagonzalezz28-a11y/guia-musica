@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Swiss Movement Les McCann"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1CH2KvMLkMG6Py1S6sY41g",
+    "via": "musicbrainz"
   },
   "id": "swiss-movement",
   "titulo": "Swiss Movement",
@@ -49,7 +50,7 @@
     "souljazz"
   ],
   "comentario": [
-    "En vivo en Montreux con Eddie Harris."
+    "En vivo en Montreux con Eddie Harris. McCann toca piano y canta con Harris en saxo, en un concierto que se improvisó casi sin ensayo. En la ficha de Les McCann es el disco que representa la etapa \"Soul jazz\"."
   ],
   "ids": {
     "musicbrainz": null,

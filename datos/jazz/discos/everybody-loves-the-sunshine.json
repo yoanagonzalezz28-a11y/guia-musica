@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Everybody Loves the Sunshine Roy Ayers"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf",
+    "via": "musicbrainz"
   },
   "id": "everybody-loves-the-sunshine",
   "titulo": "Everybody Loves the Sunshine",
@@ -44,7 +45,7 @@
     "souljazz"
   ],
   "comentario": [
-    "Groove luminoso y voces soul."
+    "Groove luminoso y voces soul. Ayers toca el vibráfono sobre bases de soul y funk, con voces suaves y un clima de verano. En la ficha de Roy Ayers es el disco que representa la etapa \"Soul jazz\"."
   ],
   "ids": {
     "musicbrainz": null,

@@ -1,0 +1,59 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "medio-oriente"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Peninsular Tarek Yamani"
+  },
+  "id": "peninsular",
+  "titulo": "Peninsular",
+  "credito": "Tarek Yamani",
+  "lideres": [
+    "yamani"
+  ],
+  "grabacion": {
+    "desde": 2017,
+    "hasta": 2017,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2017,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "yamani",
+      "nombre": "Tarek Yamani",
+      "instrumento": "piano, composición"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "Yamani lleva los ritmos del Golfo Pérsico al trío de jazz. Las métricas son poco comunes y el piano las recorre con mucha libertad. Es su disco más reconocido fuera del mundo árabe."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "mb-tarek-yamani"
+  ]
+}

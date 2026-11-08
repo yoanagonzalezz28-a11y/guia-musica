@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Quintette du Hot Club de France Django Reinhardt"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3ER7iEz2tNyD7NT36ZNIAb",
+    "tituloEnSpotify": "Quintette Du Hot Club De France",
+    "via": "busqueda-spotify"
   },
   "id": "quintette-du-hot-club-de-france",
   "titulo": "Quintette du Hot Club de France",
@@ -50,7 +52,7 @@
     "swing"
   ],
   "comentario": [
-    "Swing con guitarras, violín y contrabajo, sin batería."
+    "Swing con guitarras, violín y contrabajo, sin batería. Reinhardt toca la guitarra solista y Grappelli el violín, sobre dos guitarras rítmicas y contrabajo. Es uno de los discos que el banco propone para empezar con Jazz manouche."
   ],
   "ids": {
     "musicbrainz": null,

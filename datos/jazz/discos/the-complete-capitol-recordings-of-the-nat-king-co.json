@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Complete Capitol Recordings of the Nat King Cole Trio Nat King Cole"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4",
+    "via": "musicbrainz"
   },
   "id": "the-complete-capitol-recordings-of-the-nat-king-co",
   "titulo": "The Complete Capitol Recordings of the Nat King Cole Trio",
@@ -44,7 +45,7 @@
     "swing"
   ],
   "comentario": [
-    "Las grabaciones de su trío de los 40: piano swing de primer nivel."
+    "Las grabaciones de su trío de los 40: piano swing de primer nivel. Cole toca el piano y canta en trío con guitarra y contrabajo, sin batería. Está entre los discos esenciales de Nat King Cole."
   ],
   "ids": {
     "musicbrainz": null,

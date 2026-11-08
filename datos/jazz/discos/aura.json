@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Aura Miles Davis"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2SaPfVOUN2nWhsk5dqt0v2",
+    "via": "musicbrainz"
   },
   "id": "aura",
   "titulo": "Aura",
@@ -49,7 +50,7 @@
     "fusion"
   ],
   "comentario": [
-    "La suite de Mikkelborg para Miles: cada movimiento lleva el nombre de un color."
+    "La suite de Mikkelborg para Miles: cada movimiento lleva el nombre de un color. Mikkelborg escribió la suite para un premio danés a Miles, que toca con una orquesta y músicos de la radio danesa. Es uno de los discos que el banco elige para conocer a Palle Mikkelborg."
   ],
   "ids": {
     "musicbrainz": null,

@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Dream of the Blue Turtles Sting"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/17mrdCgqrWfqpJlaCNGCdF",
+    "via": "musicbrainz"
   },
   "id": "the-dream-of-the-blue-turtles",
   "titulo": "The Dream of the Blue Turtles",
@@ -42,7 +43,7 @@
     "neotrad"
   ],
   "comentario": [
-    "El disco de Sting con Kirkland y Branford Marsalis."
+    "El disco de Sting con Kirkland y Branford Marsalis. Sting canta con un grupo de jazz, con Kirkland en teclados, Marsalis en saxo y Omar Hakim en batería. Está entre los discos esenciales de Kenny Kirkland."
   ],
   "ids": {
     "musicbrainz": null,

@@ -1,0 +1,51 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "yamani",
+  "nombre": "Tarek Yamani",
+  "nacimiento": {
+    "anio": null,
+    "lugar": "Beirut"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano",
+    "composición"
+  ],
+  "corrientes": [
+    "mundo"
+  ],
+  "regiones": [
+    "medio-oriente"
+  ],
+  "spotify": null,
+  "resumen": "Pianista y compositor libanés. Su trabajo cruza el trío de jazz con los modos, las canciones y los ritmos del mundo árabe, del tarab clásico a la música del Golfo.[^mb-tarek-yamani]",
+  "epocas": [
+    {
+      "titulo": "El trío",
+      "desde": 2012,
+      "hasta": 2017,
+      "texto": "Tres discos en trío en los que la música árabe pasa a ser la base del jazz.[^mb-tarek-yamani]",
+      "discoClave": {
+        "disco": "peninsular",
+        "explicacion": "Ritmos del Golfo en un trío de jazz: su disco más reconocido."
+      },
+      "discos": [
+        "ashur",
+        "lisan-al-tarab"
+      ]
+    }
+  ],
+  "fuentes": [
+    "mb-tarek-yamani"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "peninsular",
+    "ashur",
+    "lisan-al-tarab"
+  ]
+}

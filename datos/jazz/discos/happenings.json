@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Happenings Bobby Hutcherson"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4TbWPn2fJUrQc924iTylFi",
+    "via": "musicbrainz"
   },
   "id": "happenings",
   "titulo": "Happenings",
@@ -44,7 +45,7 @@
     "modal"
   ],
   "comentario": [
-    "Con Herbie Hancock: el vibráfono en el Blue Note más moderno, con \"Maiden Voyage\"."
+    "Con Herbie Hancock: el vibráfono en el Blue Note más moderno, con \"Maiden Voyage\". Hutcherson toca el vibráfono con Hancock en piano, en temas abiertos y modernos. Es uno de los discos que el banco elige para conocer a Bobby Hutcherson."
   ],
   "ids": {
     "musicbrainz": null,

@@ -1,0 +1,100 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
+    }
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3lGuDPA2nn7VvWuBd0VktV",
+    "tituloEnSpotify": "Fotografía Silenciosa",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "fotografia-silenciosa",
+  "titulo": "Fotografía silenciosa",
+  "credito": "Juan Pablo Chapital",
+  "lideres": [],
+  "grabacion": {
+    "desde": 2010,
+    "hasta": 2010,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2010,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": null,
+      "nombre": "Juan Pablo Chapital",
+      "instrumento": "líder"
+    }
+  ],
+  "personalNota": "Lista parcial: sale de los créditos de Spotify.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Disco de Juan Pablo Chapital con nueve temas propios. Los títulos dejan ver sus referencias: \"Espárragos para Miles\" mira a Miles Davis y \"Tipo Caimmy\", a la canción brasileña. Chapital también aparece como invitado de Nicolás Ibarburu, y este disco ayuda a entender ese círculo de músicos de los dos lados del río."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Espiral",
+      "duracion": 521
+    },
+    {
+      "titulo": "Espíritu",
+      "duracion": 470
+    },
+    {
+      "titulo": "Balada (Camina y Después Corre)",
+      "duracion": 252
+    },
+    {
+      "titulo": "Siete Vidas",
+      "duracion": 462
+    },
+    {
+      "titulo": "Opi",
+      "duracion": 356
+    },
+    {
+      "titulo": "Tipo Caimmy",
+      "duracion": 203
+    },
+    {
+      "titulo": "Espárragos para Miles",
+      "duracion": 396
+    },
+    {
+      "titulo": "Se Armó la Gorda",
+      "duracion": 300
+    },
+    {
+      "titulo": "Silence Please",
+      "duracion": 137
+    }
+  ],
+  "temasFuente": "Spotify"
+}

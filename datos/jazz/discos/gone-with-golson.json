@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Gone with Golson Benny Golson"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6F2T22yUsmFWvnETgGBB1y",
+    "via": "musicbrainz"
   },
   "id": "gone-with-golson",
   "titulo": "Gone with Golson",
@@ -44,7 +45,7 @@
     "hard-bop"
   ],
   "comentario": [
-    "Con Curtis Fuller y Ray Bryant."
+    "Con Curtis Fuller y Ray Bryant. Golson toca el saxo tenor con un sonido cálido, en temas propios con un quinteto. Es uno de los discos que el banco elige para conocer a Benny Golson."
   ],
   "ids": {
     "musicbrainz": null,

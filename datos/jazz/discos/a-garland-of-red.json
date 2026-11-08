@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "A Garland of Red Red Garland"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0B0bQQoqyrMqbelYvcbVEs",
+    "via": "musicbrainz"
   },
   "id": "a-garland-of-red",
   "titulo": "A Garland of Red",
@@ -44,7 +45,7 @@
     "hard-bop"
   ],
   "comentario": [
-    "Su primer disco como líder, en trío."
+    "Su primer disco como líder, en trío. El piano de Garland tiene un toque liviano y un uso de acordes en bloque que después se volvió marca del quinteto de Miles Davis. Es uno de los discos que el banco elige para conocer a Red Garland."
   ],
   "ids": {
     "musicbrainz": null,

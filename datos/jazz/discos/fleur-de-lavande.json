@@ -1,0 +1,57 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Fleur de Lavande Fapy Lafertin"
+  },
+  "id": "fleur-de-lavande",
+  "titulo": "Fleur de Lavande",
+  "credito": "Fapy Lafertin",
+  "lideres": [
+    "lafertin"
+  ],
+  "grabacion": {
+    "desde": 1991,
+    "hasta": 1991,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1991,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "lafertin",
+      "nombre": "Fapy Lafertin",
+      "instrumento": "guitarra, guitarra de doce cuerdas"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "manouche"
+  ],
+  "comentario": [
+    "Disco del cuarteto que Lafertin armó siguiendo el modelo del Quinteto del Hot Club de Francia. Guitarra fina y elegante, más cerca del Django de los años 30 que de los virtuosos modernos. Muestra la escuela belga del estilo."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "wp-fapy-lafertin"
+  ]
+}

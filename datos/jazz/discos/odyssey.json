@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Odyssey Nubya Garcia"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1ZoZu4AeEVIKybGiGgOYdd",
+    "via": "musicbrainz"
   },
   "id": "odyssey",
   "titulo": "Odyssey",
@@ -44,7 +45,7 @@
     "hoy"
   ],
   "comentario": [
-    "Con cuerdas y voces invitadas: su disco más ambicioso."
+    "Con cuerdas y voces invitadas: su disco más ambicioso. Garcia toca el saxo tenor con orquesta de cuerdas y voces invitadas, en temas largos. Está entre los discos esenciales de Nubya Garcia."
   ],
   "ids": {
     "musicbrainz": null,

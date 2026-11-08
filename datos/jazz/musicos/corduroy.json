@@ -1,0 +1,50 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "corduroy",
+  "nombre": "Corduroy",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "grupo"
+  ],
+  "corrientes": [
+    "acid"
+  ],
+  "regiones": [
+    "reino-unido"
+  ],
+  "spotify": null,
+  "resumen": "Grupo de acid jazz de Londres armado en 1991 alrededor de los gemelos Ben y Scott Addison, con Richard Searle y Simon Nelson-Smith. Se llamaban a sí mismos \"the fabric four\" y grababan sobre todo instrumentales con aire de banda de sonido de cine.[^wp-corduroy-band]",
+  "epocas": [
+    {
+      "titulo": "Los años de Acid Jazz",
+      "desde": 1992,
+      "hasta": 1994,
+      "texto": "Tres discos en tres años, con humor y estética de los 60.[^wp-corduroy-band]",
+      "discoClave": {
+        "disco": "dad-man-cat",
+        "explicacion": "El debut: instrumentales de cine policial con desparpajo."
+      },
+      "discos": [
+        "high-havoc",
+        "out-of-here"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-corduroy-band"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "dad-man-cat",
+    "high-havoc",
+    "out-of-here"
+  ]
+}

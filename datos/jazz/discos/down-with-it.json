@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Down with It! Blue Mitchell"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF",
+    "via": "musicbrainz"
   },
   "id": "down-with-it",
   "titulo": "Down with It!",
@@ -44,7 +45,7 @@
     "hard-bop"
   ],
   "comentario": [
-    "Groove de hard bop."
+    "Groove de hard bop. Mitchell toca con Junior Cook y Chick Corea, en un hard bop con groove soul. Es uno de los discos que el banco elige para conocer a Blue Mitchell."
   ],
   "ids": {
     "musicbrainz": null,

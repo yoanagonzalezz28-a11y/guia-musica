@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Tche Belew Hailu Mergia"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/67ZrxrYM4ZErIrGYpA13Q0",
+    "via": "musicbrainz"
   },
   "id": "tche-belew",
   "titulo": "Tche Belew",
@@ -44,7 +45,7 @@
     "mundo"
   ],
   "comentario": [
-    "Con la Walias Band: funk y etiojazz."
+    "Con la Walias Band: funk y etiojazz. Mergia toca teclados con la Walias Band, en temas de funk y música etíope. Es el disco clave de Hailu Mergia en la etapa \"Jazz del mundo\"."
   ],
   "ids": {
     "musicbrainz": null,

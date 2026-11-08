@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Whenever I Seem to Be Far Away Terje Rypdal"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5z4WeWuVBPREelBLUvSyhc",
+    "via": "musicbrainz"
   },
   "id": "whenever-i-seem-to-be-far-away",
   "titulo": "Whenever I Seem to Be Far Away",
@@ -44,7 +45,7 @@
     "ecm"
   ],
   "comentario": [
-    "Con orquesta de cuerdas: guitarra que suena como un instrumento de viento."
+    "Con orquesta de cuerdas: guitarra que suena como un instrumento de viento. Rypdal toca la guitarra eléctrica con cuerdas y un grupo, en temas largos. Está entre los discos esenciales de Terje Rypdal."
   ],
   "ids": {
     "musicbrainz": null,

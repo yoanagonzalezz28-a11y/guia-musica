@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Tuff Times Never Last Kokoroko"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7LsYc5gkR6w8VMOME78YmM",
+    "via": "musicbrainz"
   },
   "id": "tuff-times-never-last",
   "titulo": "Tuff Times Never Last",
@@ -44,7 +45,7 @@
     "hoy"
   ],
   "comentario": [
-    "Afrobeat y soul, más pop."
+    "Afrobeat y soul, más pop. El grupo de Londres toca afrobeat y soul con voces, en temas más pop. Es el disco clave de Kokoroko en la etapa \"Jazz de hoy\"."
   ],
   "ids": {
     "musicbrainz": null,

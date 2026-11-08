@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Endlessness Nala Sinephro"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE",
+    "via": "musicbrainz"
   },
   "id": "endlessness",
   "titulo": "Endlessness",
@@ -44,7 +45,7 @@
     "hoy"
   ],
   "comentario": [
-    "Diez \"continuums\" que fluyen sin cortes."
+    "Diez \"continuums\" que fluyen sin cortes. Sinephro toca arpa y sintetizador con un grupo de músicos de Londres, en piezas que se encadenan como una sola obra. Es uno de los discos que el banco elige para conocer a Nala Sinephro."
   ],
   "ids": {
     "musicbrainz": null,

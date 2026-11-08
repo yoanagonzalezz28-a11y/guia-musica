@@ -15,8 +15,10 @@
   "catalogo": null,
   "lugar": "Estudio Van Gelder, Englewood Cliffs, Nueva Jersey",
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Unity Larry Young"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4VdJUiFk0XYUYrYdWbTNFY",
+    "tituloEnSpotify": "Unity",
+    "via": "busqueda-spotify"
   },
   "id": "unity",
   "titulo": "Unity",

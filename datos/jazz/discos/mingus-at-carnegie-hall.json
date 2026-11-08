@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Mingus at Carnegie Hall Charles Mingus"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/28zHBSDrYtl1BqmPYHr1vR",
+    "via": "musicbrainz"
   },
   "id": "mingus-at-carnegie-hall",
   "titulo": "Mingus at Carnegie Hall",
@@ -44,7 +45,7 @@
     "hard-bop"
   ],
   "comentario": [
-    "Un concierto de 1974 con largas jams sobre \"C Jam Blues\" y \"Perdido\", con George Adams y Hamiet Bluiett."
+    "Un concierto de 1974 con largas jams sobre \"C Jam Blues\" y \"Perdido\", con George Adams y Hamiet Bluiett. Mingus toca con un grupo grande en vivo, con solos largos y mucho humor. Completa la discografía de Charles Mingus dentro de Hard bop."
   ],
   "ids": {
     "musicbrainz": null,

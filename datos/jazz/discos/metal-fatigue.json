@@ -11,8 +11,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Metal Fatigue Allan Holdsworth"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2rDyArQ8dVp7Hwicvo7LVN",
+    "via": "musicbrainz"
   },
   "id": "metal-fatigue",
   "titulo": "Metal Fatigue",
@@ -42,7 +43,7 @@
     "fusion"
   ],
   "comentario": [
-    "Su guitarra en su mejor forma."
+    "Su guitarra en su mejor forma. Holdsworth toca la guitarra con un fraseo legato muy fluido y acordes poco comunes, en temas de fusión. En la ficha de Allan Holdsworth es el disco que representa la etapa \"Fusión\"."
   ],
   "ids": {
     "musicbrainz": null,

@@ -1,0 +1,88 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
+    }
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/12WMCb088EDvL0eqbVfvV2",
+    "tituloEnSpotify": "Puerto Sur",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "puerto-sur",
+  "titulo": "Puerto Sur",
+  "credito": "Manuel Contrera",
+  "lideres": [],
+  "grabacion": {
+    "desde": 2018,
+    "hasta": 2018,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2018,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": null,
+      "nombre": "Manuel Contrera",
+      "instrumento": "líder"
+    }
+  ],
+  "personalNota": "Lista parcial: sale de los créditos de Spotify.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Disco corto de Manuel Contrera, con seis temas propios. Títulos como \"Siete pal chancho\" y \"Escollera\" tienen el humor y el paisaje del Río de la Plata. Entra al banco desde la discoteca de Yoana, como parte de la escena uruguaya actual."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Algo Paso",
+      "duracion": 242
+    },
+    {
+      "titulo": "Primero de Enero",
+      "duracion": 311
+    },
+    {
+      "titulo": "Yellow",
+      "duracion": 377
+    },
+    {
+      "titulo": "Siete Pal Chancho",
+      "duracion": 507
+    },
+    {
+      "titulo": "Escollera",
+      "duracion": 536
+    },
+    {
+      "titulo": "Tres Influenciado",
+      "duracion": 582
+    }
+  ],
+  "temasFuente": "Spotify"
+}

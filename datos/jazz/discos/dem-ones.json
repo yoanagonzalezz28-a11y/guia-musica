@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Dem Ones Binker and Moses"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2n2RDLV37Jv2SS9Mfe6QTG",
+    "via": "musicbrainz"
   },
   "id": "dem-ones",
   "titulo": "Dem Ones",
@@ -49,7 +50,7 @@
     "hoy"
   ],
   "comentario": [
-    "Saxo y batería, sin nada más."
+    "Saxo y batería, sin nada más. Golding y Boyd tocan solo saxo y batería, sin instrumentos de armonía, en temas cortos y muy enérgicos. Es el disco clave de Binker and Moses en la etapa \"Jazz de hoy\"."
   ],
   "ids": {
     "musicbrainz": null,

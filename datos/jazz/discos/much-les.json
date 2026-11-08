@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Much Les Les McCann"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0iONia3HZ6BvTHWyAW6BAt",
+    "via": "musicbrainz"
   },
   "id": "much-les",
   "titulo": "Much Les",
@@ -44,7 +45,7 @@
     "souljazz"
   ],
   "comentario": [
-    "Piano gospel con arreglos más amplios que en sus discos en trío."
+    "Piano gospel con arreglos más amplios que en sus discos en trío. McCann toca el piano con cuerdas y vientos, en un soul jazz más amplio. Está entre los discos esenciales de Les McCann."
   ],
   "ids": {
     "musicbrainz": null,

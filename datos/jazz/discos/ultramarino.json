@@ -1,0 +1,105 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
+    }
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2qLFvYECFLJiV0SAUhOKgs",
+    "tituloEnSpotify": "Ultramarino",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "ultramarino",
+  "titulo": "Ultramarino",
+  "credito": "Trío Ibarburu",
+  "lideres": [
+    "ibarburu"
+  ],
+  "grabacion": {
+    "desde": 2016,
+    "hasta": 2016,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2016,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "ibarburu",
+      "nombre": "Nicolás Ibarburu",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Lista parcial: sale de los créditos de Spotify.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Segundo disco del trío, con temas como \"Membrana\", \"Neurology\" y \"Para rumbear mi camino\". Hay más espacio para la improvisación y para el groove eléctrico. Junto con Huella digital, muestra un trío de guitarra que mezcla jazz, funk y candombe."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "wpes-nicolas-ibarburu"
+  ],
+  "temas": [
+    {
+      "titulo": "Membrana",
+      "duracion": 294
+    },
+    {
+      "titulo": "Komora",
+      "duracion": 239
+    },
+    {
+      "titulo": "Otro Mar",
+      "duracion": 237
+    },
+    {
+      "titulo": "Neurology",
+      "duracion": 213
+    },
+    {
+      "titulo": "Mandala",
+      "duracion": 226
+    },
+    {
+      "titulo": "El Zorro",
+      "duracion": 314
+    },
+    {
+      "titulo": "Nuevas Cuerdas",
+      "duracion": 201
+    },
+    {
+      "titulo": "Snorkel",
+      "duracion": 310
+    },
+    {
+      "titulo": "Para Rumbear Mi Camino",
+      "duracion": 260
+    }
+  ],
+  "temasFuente": "Spotify"
+}

@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Wanton Spirit Kenny Barron"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/014Yi62dTNyZsmXlTsU4zj",
+    "via": "musicbrainz"
   },
   "id": "wanton-spirit",
   "titulo": "Wanton Spirit",
@@ -44,7 +45,7 @@
     "hard-bop"
   ],
   "comentario": [
-    "Trío con Charlie Haden y Roy Haynes."
+    "Trío con Charlie Haden y Roy Haynes. Barron toca el piano con Haden y Haynes, en estándares y temas propios. Es uno de los discos que el banco elige para conocer a Kenny Barron."
   ],
   "ids": {
     "musicbrainz": null,

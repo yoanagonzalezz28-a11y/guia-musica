@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Wave Antônio Carlos Jobim"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T",
+    "via": "musicbrainz"
   },
   "id": "wave",
   "titulo": "Wave",
@@ -44,7 +45,7 @@
     "brasil"
   ],
   "comentario": [
-    "Orquesta, piano y guitarra; el tema que da nombre al disco es un estándar."
+    "Orquesta, piano y guitarra; el tema que da nombre al disco es un estándar. Jobim toca piano y guitarra con una orquesta arreglada por Claus Ogerman, en temas instrumentales. Es uno de los discos que el banco elige para conocer a Antônio Carlos Jobim."
   ],
   "ids": {
     "musicbrainz": null,

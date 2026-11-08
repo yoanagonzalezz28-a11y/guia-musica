@@ -1,0 +1,121 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
+    }
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1xIs6cp03TBtiKCJGpponk",
+    "tituloEnSpotify": "Falta un Vidrio",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "falta-un-vidrio",
+  "titulo": "Falta un vidrio",
+  "credito": "Leo Maslíah",
+  "lideres": [
+    "maslia"
+  ],
+  "grabacion": {
+    "desde": 1981,
+    "hasta": 1981,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1981,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "maslia",
+      "nombre": "Leo Maslíah",
+      "instrumento": "piano y voz"
+    }
+  ],
+  "personalNota": "Lista parcial: sale de los créditos de Spotify.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Uno de sus primeros discos de canciones, con títulos como \"La moto\", \"Productos porcinos\" o \"Empleada de oficina que atiende al público\". Las letras son absurdas y los giros de piano, inesperados. Más canción que jazz, pero clave para entender a un músico que después llevó ese ingenio al piano instrumental."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "wpes-leo-maslia"
+  ],
+  "temas": [
+    {
+      "titulo": "La Moto",
+      "duracion": 166
+    },
+    {
+      "titulo": "Los Que Hablaban del Tiempo",
+      "duracion": 159
+    },
+    {
+      "titulo": "Artistas Profesionales",
+      "duracion": 141
+    },
+    {
+      "titulo": "Vieja Flaca",
+      "duracion": 143
+    },
+    {
+      "titulo": "María Clotilde",
+      "duracion": 111
+    },
+    {
+      "titulo": "El Rejunte",
+      "duracion": 151
+    },
+    {
+      "titulo": "Adiós Miguel",
+      "duracion": 252
+    },
+    {
+      "titulo": "Súperman",
+      "duracion": 190
+    },
+    {
+      "titulo": "La Teresa",
+      "duracion": 140
+    },
+    {
+      "titulo": "Productos Porcinos",
+      "duracion": 235
+    },
+    {
+      "titulo": "Cerrajería",
+      "duracion": 146
+    },
+    {
+      "titulo": "Empleada de Oficina Que Atiende al Público",
+      "duracion": 225
+    },
+    {
+      "titulo": "Agua Podrida",
+      "duracion": 164
+    }
+  ],
+  "temasFuente": "Spotify"
+}

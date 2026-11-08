@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Trio Marcin Wasilewski"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5jXillw4nWUrF7Gy56dVu6",
+    "via": "musicbrainz"
   },
   "id": "trio",
   "titulo": "Trio",
@@ -44,7 +45,7 @@
     "ecm"
   ],
   "comentario": [
-    "Su debut en ECM: lírico, con una conexión muy fina entre los tres."
+    "Su debut en ECM: lírico, con una conexión muy fina entre los tres. El trío de Wasilewski toca temas lentos y melódicos. Es el disco clave de Marcin Wasilewski en la etapa \"ECM y jazz europeo\"."
   ],
   "ids": {
     "musicbrainz": null,

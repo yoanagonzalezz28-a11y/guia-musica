@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Waves Terje Rypdal"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0CaagUk6GRyy5qsboCBKhN",
+    "via": "musicbrainz"
   },
   "id": "waves",
   "titulo": "Waves",
@@ -49,7 +50,7 @@
     "ecm"
   ],
   "comentario": [
-    "Con Palle Mikkelborg en trompeta: rock, jazz y espacio."
+    "Con Palle Mikkelborg en trompeta: rock, jazz y espacio. Rypdal toca la guitarra con Mikkelborg, Sveinung Hovensjø y Jon Christensen, en temas largos. Está entre los discos esenciales de Palle Mikkelborg."
   ],
   "ids": {
     "musicbrainz": null,

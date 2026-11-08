@@ -39,6 +39,11 @@
       "musico": "corea",
       "nombre": "Chick Corea",
       "instrumento": "piano, teclados"
+    },
+    {
+      "musico": "flora",
+      "nombre": "Flora Purim",
+      "instrumento": "voz"
     }
   ],
   "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
@@ -46,7 +51,7 @@
     "fusion"
   ],
   "comentario": [
-    "Con \"Spain\" y \"500 Miles High\"."
+    "Con \"Spain\" y \"500 Miles High\". Corea toca el piano eléctrico con Purim, Clarke, Airto y Joe Farrell en un disco luminoso de aire brasileño. Está entre los discos esenciales de Chick Corea."
   ],
   "ids": {
     "musicbrainz": "bd0ad2df-0cb0-33e5-8619-fcee0dc0502a",

@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Radio Music Society Esperanza Spalding"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2veDRr98ELPTyYTZg5xudF",
+    "via": "musicbrainz"
   },
   "id": "radio-music-society",
   "titulo": "Radio Music Society",
@@ -44,7 +45,7 @@
     "hoy"
   ],
   "comentario": [
-    "El lado soul y funk; Grammy al mejor disco vocal de jazz."
+    "El lado soul y funk; Grammy al mejor disco vocal de jazz. Spalding canta y toca el bajo con una big band y músicos invitados, en canciones de soul y jazz. Está entre los discos esenciales de Esperanza Spalding."
   ],
   "ids": {
     "musicbrainz": null,

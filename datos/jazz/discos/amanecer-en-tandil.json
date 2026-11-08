@@ -1,0 +1,107 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
+    }
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5NEAip7hiXHizN0kb7bYHW",
+    "tituloEnSpotify": "Amanecer en Tandil (Acústico)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "amanecer-en-tandil",
+  "titulo": "Amanecer en Tandil (acústico)",
+  "credito": "Nicolás Ibarburu",
+  "lideres": [
+    "ibarburu"
+  ],
+  "grabacion": {
+    "desde": 2017,
+    "hasta": 2017,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2017,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "ibarburu",
+      "nombre": "Nicolás Ibarburu",
+      "instrumento": "guitarra y voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Juan Pablo Chapital",
+      "instrumento": "invitado"
+    },
+    {
+      "musico": "fattoruso",
+      "nombre": "Hugo Fattoruso",
+      "instrumento": "invitado"
+    }
+  ],
+  "personalNota": "Lista parcial: sale de los créditos de Spotify.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Siete temas en versión acústica, con Juan Pablo Chapital y Hugo Fattoruso. Incluye \"L.A.S.\", dedicada a Luis Alberto Spinetta, y \"Huella digital\", que también graba el Trío Ibarburu. Es la forma más íntima de escuchar sus canciones."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "wpes-nicolas-ibarburu"
+  ],
+  "temas": [
+    {
+      "titulo": "Quiero - Acústico",
+      "duracion": 152
+    },
+    {
+      "titulo": "Huella Digital - Acústico",
+      "duracion": 138
+    },
+    {
+      "titulo": "L.A.S. (Dedicado a Luis Alberto Spinetta) - Acústico",
+      "duracion": 275
+    },
+    {
+      "titulo": "Mandala - Acústico",
+      "duracion": 241
+    },
+    {
+      "titulo": "Balada - Acústico",
+      "duracion": 289
+    },
+    {
+      "titulo": "Otra Así - Acústico",
+      "duracion": 170
+    },
+    {
+      "titulo": "Tras de Ti - Acústico",
+      "duracion": 284
+    }
+  ],
+  "temasFuente": "Spotify"
+}

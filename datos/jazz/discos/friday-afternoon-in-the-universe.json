@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Friday Afternoon in the Universe Medeski, Martin & Wood"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6zx2fC13A8qkgwEhCZaRN4",
+    "via": "musicbrainz"
   },
   "id": "friday-afternoon-in-the-universe",
   "titulo": "Friday Afternoon in the Universe",
@@ -44,7 +45,7 @@
     "fusion"
   ],
   "comentario": [
-    "Órgano y groove libre."
+    "Órgano y groove libre. El órgano de Medeski, el bajo de Wood y la batería de Martin tocan temas largos que se arman sobre grooves de funk y jazz. Está entre los discos esenciales de Medeski, Martin & Wood."
   ],
   "ids": {
     "musicbrainz": null,

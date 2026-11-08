@@ -1,0 +1,69 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "ibarburu",
+  "nombre": "Nicolás Ibarburu",
+  "nacimiento": {
+    "anio": 1975,
+    "lugar": "Montevideo"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "guitarra",
+    "voz",
+    "composición"
+  ],
+  "corrientes": [
+    "rioplat"
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "spotify": "https://open.spotify.com/artist/6z2mkjrbL8932UH0AczONu",
+  "resumen": "Guitarrista, cantante, compositor y productor uruguayo. Tocó con Rubén Rada, Fito Páez, Jaime Roos y Hugo Fattoruso, entre muchos otros, y como solista cruza el rock, el funk, el candombe y el jazz.[^wpes-nicolas-ibarburu]",
+  "epocas": [
+    {
+      "titulo": "Solista",
+      "desde": 2009,
+      "hasta": 2025,
+      "texto": "Después de años como guitarrista de otros, empezó a grabar sus propias canciones, siempre rodeado de invitados de Montevideo y Buenos Aires.[^wpes-nicolas-ibarburu]",
+      "discoClave": {
+        "disco": "anfibio",
+        "explicacion": "Disco solista con Spinetta, Fattoruso y Malosetti como invitados."
+      },
+      "discos": [
+        "amanecer-en-tandil",
+        "casa-rodante",
+        "la-ruta-de-la-seda"
+      ]
+    },
+    {
+      "titulo": "Trío Ibarburu",
+      "desde": 2015,
+      "hasta": 2022,
+      "texto": "En trío grabó temas instrumentales en los que la guitarra se acerca más al jazz.",
+      "discoClave": {
+        "disco": "huella-digital",
+        "explicacion": "El primer disco del trío: instrumentales con candombe, funk y jazz."
+      },
+      "discos": [
+        "ultramarino",
+        "tres-de-tres"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wpes-nicolas-ibarburu"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "anfibio",
+    "casa-rodante",
+    "huella-digital",
+    "ultramarino",
+    "la-ruta-de-la-seda"
+  ]
+}

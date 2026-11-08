@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Universal Consciousness Alice Coltrane"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2YlrEXJnxx7q1wX8sVXIuV",
+    "via": "musicbrainz"
   },
   "id": "universal-consciousness",
   "titulo": "Universal Consciousness",
@@ -44,7 +45,7 @@
     "free"
   ],
   "comentario": [
-    "Órgano Wurlitzer y cuerdas arregladas por ella con Ornette Coleman."
+    "Órgano Wurlitzer y cuerdas arregladas por ella con Ornette Coleman. Alice Coltrane toca el arpa y el órgano con cuerdas, en temas espirituales. Es uno de los discos que el banco elige para conocer a Alice Coltrane."
   ],
   "ids": {
     "musicbrainz": null,

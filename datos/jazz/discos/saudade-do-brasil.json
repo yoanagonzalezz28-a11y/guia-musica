@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Saudade do Brasil Elis Regina"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6NmxRn9HcxEBx38qi9MGqa",
+    "via": "musicbrainz"
   },
   "id": "saudade-do-brasil",
   "titulo": "Saudade do Brasil",
@@ -44,7 +45,7 @@
     "brasil"
   ],
   "comentario": [
-    "Disco doble de su último período."
+    "Disco doble de su último período. Elis canta con un grupo grande, en un repertorio de MPB. Es uno de los discos que el banco elige para conocer a Elis Regina."
   ],
   "ids": {
     "musicbrainz": null,

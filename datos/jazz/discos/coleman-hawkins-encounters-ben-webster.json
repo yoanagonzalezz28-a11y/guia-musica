@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Coleman Hawkins Encounters Ben Webster Coleman Hawkins"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ",
+    "via": "musicbrainz"
   },
   "id": "coleman-hawkins-encounters-ben-webster",
   "titulo": "Coleman Hawkins Encounters Ben Webster",
@@ -44,7 +45,7 @@
     "swing"
   ],
   "comentario": [
-    "Maestro y discípulo: dos tenores de sonido grueso en baladas y blues medios, con Oscar Peterson."
+    "Maestro y discípulo: dos tenores de sonido grueso en baladas y blues medios, con Oscar Peterson. Hawkins y Webster tocan juntos con el trío de Peterson, con dos sonidos de tenor parecidos pero distintos en el vibrato. Es uno de los discos que el banco elige para conocer a Coleman Hawkins."
   ],
   "ids": {
     "musicbrainz": null,

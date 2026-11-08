@@ -1,0 +1,58 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "stochelo",
+  "nombre": "Stochelo Rosenberg",
+  "nacimiento": {
+    "anio": 1968,
+    "lugar": "Países Bajos"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "guitarra"
+  ],
+  "corrientes": [
+    "manouche"
+  ],
+  "regiones": [],
+  "spotify": null,
+  "resumen": "Guitarrista sinti de los Países Bajos y líder del Rosenberg Trio, que formó en 1989 con sus primos Nous'che y Nonnie. En los 90 acompañaron a Stéphane Grappelli en sus giras, incluido el concierto en el Carnegie Hall por sus 85 años. Creó una escuela en línea de jazz gitano.[^wp-stochelo-rosenberg]",
+  "epocas": [
+    {
+      "titulo": "El Rosenberg Trio",
+      "desde": 1989,
+      "hasta": 1999,
+      "texto": "El trío debutó en el festival Django Reinhardt de Samois y en pocos años estaba tocando con Grappelli.[^wp-stochelo-rosenberg]",
+      "discoClave": {
+        "disco": "gipsy-summer",
+        "explicacion": "Uno de los primeros discos del trío: guitarra veloz y limpia sobre la pompe."
+      },
+      "discos": [
+        "live-at-the-north-sea-jazz-festival-92"
+      ]
+    },
+    {
+      "titulo": "Con Romane",
+      "desde": 2000,
+      "hasta": 2010,
+      "texto": "Grabó varios discos a dúo con el guitarrista francés Romane.[^wp-stochelo-rosenberg]",
+      "discoClave": {
+        "disco": "elegance-stochelo",
+        "explicacion": "El primero de los dúos con Romane."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-stochelo-rosenberg"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "gipsy-summer",
+    "live-at-the-north-sea-jazz-festival-92",
+    "elegance-stochelo"
+  ]
+}

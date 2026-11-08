@@ -10,8 +10,10 @@
   "catalogo": null,
   "lugar": "Biblioteca del Congreso, Washington",
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Jelly Roll Morton Library of Congress Recordings"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/26fqtjaFW6FvcHbbylXyJs",
+    "tituloEnSpotify": "The Complete Library of Congress Recordings, Vol. 1",
+    "via": "busqueda-spotify"
   },
   "id": "morton-loc",
   "titulo": "The Complete Library of Congress Recordings",

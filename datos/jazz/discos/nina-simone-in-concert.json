@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Nina Simone in Concert Nina Simone"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6WP4eNaAHl2a1KNp4QN6Nr",
+    "via": "musicbrainz"
   },
   "id": "nina-simone-in-concert",
   "titulo": "Nina Simone in Concert",
@@ -44,7 +45,7 @@
     "souljazz"
   ],
   "comentario": [
-    "Incluye \"Mississippi Goddam\", su respuesta furiosa a la violencia racial."
+    "Incluye \"Mississippi Goddam\", su respuesta furiosa a la violencia racial. Simone canta y toca el piano en vivo, en temas de protesta y canciones de amor. Es uno de los discos que el banco elige para conocer a Nina Simone."
   ],
   "ids": {
     "musicbrainz": null,

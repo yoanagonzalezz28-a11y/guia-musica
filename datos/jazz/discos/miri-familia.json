@@ -1,0 +1,57 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Miri Familia Tchavolo Schmitt"
+  },
+  "id": "miri-familia",
+  "titulo": "Miri Familia",
+  "credito": "Tchavolo Schmitt",
+  "lideres": [
+    "tchavolo"
+  ],
+  "grabacion": {
+    "desde": 2008,
+    "hasta": 2008,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2008,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "tchavolo",
+      "nombre": "Tchavolo Schmitt",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "manouche"
+  ],
+  "comentario": [
+    "Un disco con aire familiar, como anuncia el título en romaní. La guitarra de Schmitt sigue siendo áspera y directa. Muestra cómo el estilo se transmite dentro de las familias sinti."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "wp-tchavolo-schmitt"
+  ]
+}

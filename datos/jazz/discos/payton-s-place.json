@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Payton's Place Nicholas Payton"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB",
+    "via": "musicbrainz"
   },
   "id": "payton-s-place",
   "titulo": "Payton's Place",
@@ -44,7 +45,7 @@
     "neotrad"
   ],
   "comentario": [
-    "Con Roy Hargrove y Wynton Marsalis: trompeta de Nueva Orleans moderna."
+    "Con Roy Hargrove y Wynton Marsalis: trompeta de Nueva Orleans moderna. Payton toca la trompeta con un sonido brillante y un repertorio que va del jazz tradicional al hard bop. Es uno de los discos que el banco elige para conocer a Nicholas Payton."
   ],
   "ids": {
     "musicbrainz": null,

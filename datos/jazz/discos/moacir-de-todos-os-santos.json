@@ -1,0 +1,59 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "brasil"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Moacir de Todos os Santos Letieres Leite & Orkestra Rumpilezz"
+  },
+  "id": "moacir-de-todos-os-santos",
+  "titulo": "Moacir de Todos os Santos",
+  "credito": "Letieres Leite & Orkestra Rumpilezz",
+  "lideres": [
+    "letieres"
+  ],
+  "grabacion": {
+    "desde": 2022,
+    "hasta": 2022,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2022,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "letieres",
+      "nombre": "Letieres Leite",
+      "instrumento": "saxo, arreglos, dirección"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "brasil"
+  ],
+  "comentario": [
+    "Un homenaje a Moacir Santos, el gran arreglador brasileño, editado después de la muerte de Letieres Leite en 2021. La orquesta toca la música de Moacir con la percusión bahiana como base. Une dos generaciones de la música instrumental de Brasil."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "wp-orkestra-rumpilezz"
+  ]
+}

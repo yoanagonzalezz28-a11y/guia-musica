@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Rosemary's Baby Krzysztof Komeda"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4vVk7UZYtWW6xPrAzGpyIM",
+    "via": "musicbrainz"
   },
   "id": "rosemary-s-baby",
   "titulo": "Rosemary's Baby",
@@ -44,7 +45,7 @@
     "mundo"
   ],
   "comentario": [
-    "La banda sonora de Polanski, con la canción de cuna que canta Mia Farrow."
+    "La banda sonora de Polanski, con la canción de cuna que canta Mia Farrow. Komeda escribe una música inquietante para orquesta, con la voz de Farrow tarareando la canción de cuna. En la ficha de Krzysztof Komeda es el disco que representa la etapa \"Música para Polanski\"."
   ],
   "ids": {
     "musicbrainz": null,

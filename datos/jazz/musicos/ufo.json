@@ -1,0 +1,50 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "ufo",
+  "nombre": "United Future Organization",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "grupo"
+  ],
+  "corrientes": [
+    "acid"
+  ],
+  "regiones": [
+    "japon"
+  ],
+  "spotify": null,
+  "resumen": "Trío de nu jazz formado en Tokio por los japoneses Tadashi Yabe y Toshio Matsuura y el francés Raphaël Sebbag. En 1994 participó del disco benéfico Stolen Moments: Red Hot + Cool. Matsuura dejó el grupo en 2002 y Yabe murió en 2024.[^wp-united-future-organization]",
+  "epocas": [
+    {
+      "titulo": "Tokio y Londres",
+      "desde": 1993,
+      "hasta": 1996,
+      "texto": "Llevaron el acid jazz a Japón y grabaron para Talkin' Loud, el sello de Gilles Peterson.[^wp-united-future-organization]",
+      "discoClave": {
+        "disco": "no-sound-is-too-taboo",
+        "explicacion": "El disco de Talkin' Loud que los hizo conocidos fuera de Japón."
+      },
+      "discos": [
+        "united-future-organization-1993",
+        "3rd-perspective"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-united-future-organization"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "no-sound-is-too-taboo",
+    "united-future-organization-1993",
+    "3rd-perspective"
+  ]
+}

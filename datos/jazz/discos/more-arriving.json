@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "More Arriving Sarathy Korwar"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4X9QV9bMMLztFJrbzKQObD",
+    "via": "musicbrainz"
   },
   "id": "more-arriving",
   "titulo": "More Arriving",
@@ -44,7 +45,7 @@
     "mundo"
   ],
   "comentario": [
-    "Con raperos de la India: política y ritmo."
+    "Con raperos de la India: política y ritmo. Korwar toca la batería con raperos de Mumbai y Delhi, en temas sobre la vida de la diáspora india. Está entre los discos esenciales de Sarathy Korwar."
   ],
   "ids": {
     "musicbrainz": null,

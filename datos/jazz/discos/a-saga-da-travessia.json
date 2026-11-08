@@ -1,0 +1,59 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "brasil"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "A Saga da Travessia Letieres Leite & Orkestra Rumpilezz"
+  },
+  "id": "a-saga-da-travessia",
+  "titulo": "A Saga da Travessia",
+  "credito": "Letieres Leite & Orkestra Rumpilezz",
+  "lideres": [
+    "letieres"
+  ],
+  "grabacion": {
+    "desde": 2016,
+    "hasta": 2016,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2016,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "letieres",
+      "nombre": "Letieres Leite",
+      "instrumento": "saxo, arreglos, dirección"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "brasil"
+  ],
+  "comentario": [
+    "El segundo disco de la Rumpilezz es una suite sobre la travesía de los africanos esclavizados hacia Brasil. La percusión de Bahía sostiene una escritura para vientos cada vez más ambiciosa. Es el disco más conceptual de Leite."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "wp-orkestra-rumpilezz"
+  ]
+}

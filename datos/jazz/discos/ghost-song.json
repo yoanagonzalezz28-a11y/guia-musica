@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Ghost Song Cécile McLorin Salvant"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/69TYdq2UOhXr1OpIN9kdwJ",
+    "via": "musicbrainz"
   },
   "id": "ghost-song",
   "titulo": "Ghost Song",
@@ -44,7 +45,7 @@
     "hoy"
   ],
   "comentario": [
-    "Canciones propias y de Kate Bush: su disco más personal."
+    "Canciones propias y de Kate Bush: su disco más personal. Salvant canta con un grupo variado temas propios y versiones, con arreglos que van del folk al jazz. Es uno de los discos que el banco elige para conocer a Cécile McLorin Salvant."
   ],
   "ids": {
     "musicbrainz": null,

@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Tempo feliz Baden Powell"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1GXxqY9tkwUKEwoomwJXRq",
+    "via": "musicbrainz"
   },
   "id": "tempo-feliz",
   "titulo": "Tempo feliz",
@@ -44,7 +45,7 @@
     "brasil"
   ],
   "comentario": [
-    "Con Mauricio Einhorn en armónica: samba instrumental luminosa."
+    "Con Mauricio Einhorn en armónica: samba instrumental luminosa. Powell toca la guitarra con Einhorn en armónica, en sambas instrumentales. Está entre los discos esenciales de Baden Powell."
   ],
   "ids": {
     "musicbrainz": null,

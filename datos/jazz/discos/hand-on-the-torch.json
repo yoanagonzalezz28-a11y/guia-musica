@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Hand on the Torch Us3"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4Cm1wXjw6YCbkaiZZGNiZ1",
+    "via": "musicbrainz"
   },
   "id": "hand-on-the-torch",
   "titulo": "Hand on the Torch",
@@ -44,7 +45,7 @@
     "acid"
   ],
   "comentario": [
-    "Con \"Cantaloop\", armado sobre \"Cantaloupe Island\" de Herbie Hancock: el acid jazz en las listas de pop."
+    "Con \"Cantaloop\", armado sobre \"Cantaloupe Island\" de Herbie Hancock: el acid jazz en las listas de pop. El grupo de Londres arma temas con samples del catálogo de Blue Note, raperos y vientos grabados en vivo. Es uno de los discos que el banco propone para empezar con Acid jazz."
   ],
   "ids": {
     "musicbrainz": null,

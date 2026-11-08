@@ -1,0 +1,59 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "medio-oriente"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Lisãn Al Tarab Tarek Yamani"
+  },
+  "id": "lisan-al-tarab",
+  "titulo": "Lisãn Al Tarab",
+  "credito": "Tarek Yamani",
+  "lideres": [
+    "yamani"
+  ],
+  "grabacion": {
+    "desde": 2014,
+    "hasta": 2014,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2014,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "yamani",
+      "nombre": "Tarek Yamani",
+      "instrumento": "piano, composición"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "El título habla del tarab, el estado de emoción que busca la música árabe clásica. Yamani adapta canciones y modos árabes al piano de jazz. Es uno de los discos más claros de su proyecto."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "mb-tarek-yamani"
+  ]
+}

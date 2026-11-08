@@ -1,0 +1,59 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "reino-unido"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Dad Man Cat Corduroy"
+  },
+  "id": "dad-man-cat",
+  "titulo": "Dad Man Cat",
+  "credito": "Corduroy",
+  "lideres": [
+    "corduroy"
+  ],
+  "grabacion": {
+    "desde": 1992,
+    "hasta": 1992,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1992,
+    "detalle": null
+  },
+  "sello": "Acid Jazz",
+  "musicos": [
+    {
+      "musico": "corduroy",
+      "nombre": "Corduroy",
+      "instrumento": "grupo"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "acid"
+  ],
+  "comentario": [
+    "El debut de Corduroy: temas mayormente instrumentales que suenan a banda de sonido de película policial de los 60. Tiene humor y desparpajo, algo poco común en la escena. La prensa británica lo destacó justamente por no tomarse tan en serio."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "wp-corduroy-band"
+  ]
+}

@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Courage Milton Nascimento"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6V2DPhgmQSNeWofHDaOJ5T",
+    "via": "musicbrainz"
   },
   "id": "courage",
   "titulo": "Courage",
@@ -44,7 +45,7 @@
     "brasil"
   ],
   "comentario": [
-    "Su primer disco en Estados Unidos, con arreglos de Eumir Deodato."
+    "Su primer disco en Estados Unidos, con arreglos de Eumir Deodato. Nascimento canta en inglés y en portugués canciones propias con arreglos de Deodato para orquesta. Es el disco clave de Milton Nascimento en la etapa \"Jazz brasileño\"."
   ],
   "ids": {
     "musicbrainz": null,

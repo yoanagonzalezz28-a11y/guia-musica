@@ -1,0 +1,102 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
+    }
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3D1Ern53MTbAfcJAbGuwMI",
+    "tituloEnSpotify": "Todo",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "todo-bolsa-de-naylon",
+  "titulo": "Todo",
+  "credito": "Bolsa de naylon en la rama de un árbol",
+  "lideres": [],
+  "grabacion": {
+    "desde": 2023,
+    "hasta": 2023,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2023,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "fattoruso",
+      "nombre": "Hugo Fattoruso",
+      "instrumento": "invitado"
+    },
+    {
+      "musico": null,
+      "nombre": "Fernando Cabrera",
+      "instrumento": "invitado"
+    },
+    {
+      "musico": null,
+      "nombre": "Fabrizio Rossi",
+      "instrumento": "invitado"
+    }
+  ],
+  "personalNota": "Lista parcial: sale de los créditos de Spotify.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "El segundo disco del grupo suma invitados de dos generaciones de la música uruguaya: Hugo Fattoruso y Fernando Cabrera. Son siete temas más largos y trabajados que los del debut. Muestra cómo los músicos jóvenes de Montevideo dialogan con sus referentes."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Se amiga con la idea de",
+      "duracion": 288
+    },
+    {
+      "titulo": "Habitar/evitar",
+      "duracion": 250
+    },
+    {
+      "titulo": "Desarmar",
+      "duracion": 222
+    },
+    {
+      "titulo": "Siempre que viene mañana",
+      "duracion": 196
+    },
+    {
+      "titulo": "Pixeles de una foto mejor",
+      "duracion": 237
+    },
+    {
+      "titulo": "Nega",
+      "duracion": 301
+    },
+    {
+      "titulo": "Vos tranqui",
+      "duracion": 158
+    }
+  ],
+  "temasFuente": "Spotify"
+}

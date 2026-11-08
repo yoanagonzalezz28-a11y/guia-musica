@@ -1,0 +1,116 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0NPFitalTFoDduBw6oIucI",
+    "tituloEnSpotify": "Mateo solo bien se lame por",
+    "via": "busqueda-spotify"
+  },
+  "id": "mateo-solo-bien-se-lame-por-nair-mirabrat",
+  "titulo": "Mateo solo bien se lame por Nair Mirabrat",
+  "credito": "Nair Mirabrat",
+  "lideres": [],
+  "grabacion": {
+    "desde": 2025,
+    "hasta": 2025,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2025,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": null,
+      "nombre": "Martín Ibarra",
+      "instrumento": "director del proyecto"
+    },
+    {
+      "musico": "mateo",
+      "nombre": "Eduardo Mateo",
+      "instrumento": "compositor"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Nair Mirabrat, el proyecto de Martín Ibarra, vuelve a grabar completo Mateo solo bien se lame, el disco de Eduardo Mateo de 1972: \"De nosotros dos\", \"Yulelé\", \"Esa cosa\", \"La mama vieja\" y las demás. Las canciones de Mateo, que en el original sonaban casi solo con su voz y su guitarra, pasan a un grupo con arreglos nuevos. Une dos generaciones de la música uruguaya y es el mejor ejemplo del trabajo de Nair Mirabrat con la tradición."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "De nosotros dos",
+      "duracion": 409
+    },
+    {
+      "titulo": "LaLa",
+      "duracion": 236
+    },
+    {
+      "titulo": "Niña",
+      "duracion": 200
+    },
+    {
+      "titulo": "Yulelé",
+      "duracion": 258
+    },
+    {
+      "titulo": "Uh, que macana",
+      "duracion": 385
+    },
+    {
+      "titulo": "Jacinta",
+      "duracion": 295
+    },
+    {
+      "titulo": "Quien te viera",
+      "duracion": 467
+    },
+    {
+      "titulo": "Esa cosa",
+      "duracion": 319
+    },
+    {
+      "titulo": "De mi pueblo",
+      "duracion": 310
+    },
+    {
+      "titulo": "Tras de ti",
+      "duracion": 330
+    },
+    {
+      "titulo": "¿Por que?",
+      "duracion": 421
+    },
+    {
+      "titulo": "La mama vieja",
+      "duracion": 320
+    },
+    {
+      "titulo": "La chola",
+      "duracion": 345
+    }
+  ],
+  "temasFuente": "Spotify"
+}

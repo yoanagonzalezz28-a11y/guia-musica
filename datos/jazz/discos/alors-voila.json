@@ -1,0 +1,57 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Alors ?... Voilà ! Tchavolo Schmitt"
+  },
+  "id": "alors-voila",
+  "titulo": "Alors ?... Voilà !",
+  "credito": "Tchavolo Schmitt",
+  "lideres": [
+    "tchavolo"
+  ],
+  "grabacion": {
+    "desde": 2000,
+    "hasta": 2000,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2000,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "tchavolo",
+      "nombre": "Tchavolo Schmitt",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "manouche"
+  ],
+  "comentario": [
+    "El primer disco a su nombre, grabado después de años fuera del circuito profesional en Estrasburgo. Guitarra de ataque fuerte y fraseo muy rítmico, más cerca de los bares gitanos que de las salas de concierto. Lo puso de nuevo en el mapa del jazz manouche."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "wp-tchavolo-schmitt"
+  ]
+}

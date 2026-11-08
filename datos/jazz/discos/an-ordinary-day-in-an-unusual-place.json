@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "An Ordinary Day in an Unusual Place Us3"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7kS8EKFZnpnIXw80AE68Zm",
+    "via": "musicbrainz"
   },
   "id": "an-ordinary-day-in-an-unusual-place",
   "titulo": "An Ordinary Day in an Unusual Place",
@@ -44,7 +45,7 @@
     "acid"
   ],
   "comentario": [
-    "Hip hop y jazz, en su tercera etapa."
+    "Hip hop y jazz, en su tercera etapa. El grupo londinense mezcla samples de jazz, bases de hip hop y raperos invitados. En la ficha de Us3 es el disco que representa la etapa \"Acid jazz\"."
   ],
   "ids": {
     "musicbrainz": null,

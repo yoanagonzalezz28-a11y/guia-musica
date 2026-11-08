@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Sun Goddess Ramsey Lewis"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7F4lzjaoC7ghF162g0iGh5",
+    "via": "musicbrainz"
   },
   "id": "sun-goddess",
   "titulo": "Sun Goddess",
@@ -44,7 +45,7 @@
     "souljazz"
   ],
   "comentario": [
-    "Con Maurice White, de Earth, Wind & Fire: jazz y funk."
+    "Con Maurice White, de Earth, Wind & Fire: jazz y funk. Lewis toca piano y teclados con músicos de Earth, Wind & Fire, en temas de funk. Está entre los discos esenciales de Ramsey Lewis."
   ],
   "ids": {
     "musicbrainz": null,

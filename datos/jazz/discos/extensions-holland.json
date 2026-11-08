@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Extensions Dave Holland"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/378hwxC3HGs6F9N4THWVsZ",
+    "via": "musicbrainz"
   },
   "id": "extensions-holland",
   "titulo": "Extensions",
@@ -44,7 +45,7 @@
     "ecm"
   ],
   "comentario": [
-    "Con Steve Coleman y Kevin Eubanks: groove y compases raros."
+    "Con Steve Coleman y Kevin Eubanks: groove y compases raros. Holland toca el contrabajo con Coleman en saxo alto, Eubanks en guitarra y Marvin Smitty Smith en batería, en temas de ritmos complejos. En la ficha de Dave Holland es el disco que representa la etapa \"ECM y jazz europeo\"."
   ],
   "ids": {
     "musicbrainz": null,

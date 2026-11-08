@@ -58,8 +58,10 @@
     "La única vez que estos cinco grabaron juntos, y la última grabación de Parker con Gillespie. Salió en Debut, el sello que Mingus y Roach habían fundado el año anterior. Parker tocó con un saxo de plástico y, por razones de contrato, no pudo figurar con su nombre en la tapa original."
   ],
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Jazz at Massey Hall The Quintet"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6gm5CPAFlwa8LUcoiif3Nm",
+    "tituloEnSpotify": "Jazz at Massey Hall",
+    "via": "busqueda-spotify"
   },
   "ids": {
     "musicbrainz": "f9afcb1d-6674-353e-8a8a-0dbff1054ed7",

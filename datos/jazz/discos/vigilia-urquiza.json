@@ -1,0 +1,59 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Vigilia Juan Cruz de Urquiza Cuarteto"
+  },
+  "id": "vigilia-urquiza",
+  "titulo": "Vigilia",
+  "credito": "Juan Cruz de Urquiza Cuarteto",
+  "lideres": [
+    "urquiza"
+  ],
+  "grabacion": {
+    "desde": 2007,
+    "hasta": 2007,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2007,
+    "detalle": null
+  },
+  "sello": "S'Jazz",
+  "musicos": [
+    {
+      "musico": "urquiza",
+      "nombre": "Juan Cruz de Urquiza",
+      "instrumento": "trompeta, composición, arreglos"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "El cuarteto de Juan Cruz de Urquiza, con la trompeta al frente y temas propios. Un jazz moderno porteño, de escritura cuidada y solos largos. Muestra a uno de los trompetistas de referencia de Buenos Aires."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "wpes-juan-cruz-de-urquiza"
+  ]
+}

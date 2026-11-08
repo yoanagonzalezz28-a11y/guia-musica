@@ -1,0 +1,96 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
+    }
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3snRpTOAVAoERqvsz8WPhv",
+    "tituloEnSpotify": "1612",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "1612",
+  "titulo": "1612",
+  "credito": "Mateo Ottonello Grupo",
+  "lideres": [],
+  "grabacion": {
+    "desde": 2018,
+    "hasta": 2018,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2018,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": null,
+      "nombre": "Mateo Ottonello",
+      "instrumento": "líder"
+    }
+  ],
+  "personalNota": "Lista parcial: sale de los créditos de Spotify.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Ocho temas de un grupo que cruza el jazz con el candombe, como se oye en \"Candombe pal Noni\". Títulos como \"Día de mar\" y \"Solo quedan las gaviotas\" le dan un tono de paisaje costero. Entra al banco desde la discoteca de Yoana."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Dia de Mar",
+      "duracion": 384
+    },
+    {
+      "titulo": "Primeros Frios",
+      "duracion": 319
+    },
+    {
+      "titulo": "1612",
+      "duracion": 559
+    },
+    {
+      "titulo": "Candombe Pal Noni",
+      "duracion": 163
+    },
+    {
+      "titulo": "Feriado",
+      "duracion": 346
+    },
+    {
+      "titulo": "Por las Ventanas",
+      "duracion": 371
+    },
+    {
+      "titulo": "Solo Quedan las Gaviotas",
+      "duracion": 371
+    },
+    {
+      "titulo": "Cicatrices",
+      "duracion": 423
+    }
+  ],
+  "temasFuente": "Spotify"
+}

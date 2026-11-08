@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "New Grass Albert Ayler"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/17QrrCPxhIkeTBeguel0zJ",
+    "via": "musicbrainz"
   },
   "id": "new-grass",
   "titulo": "New Grass",
@@ -44,7 +45,7 @@
     "free"
   ],
   "comentario": [
-    "Su giro al rhythm and blues y al soul, muy discutido."
+    "Su giro al rhythm and blues y al soul, muy discutido. Ayler toca el saxo con un grupo de soul y voces, en un cambio de rumbo muy discutido. Es uno de los discos que el banco elige para conocer a Albert Ayler."
   ],
   "ids": {
     "musicbrainz": null,

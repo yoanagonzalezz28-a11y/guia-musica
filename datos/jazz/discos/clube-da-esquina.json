@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Clube da Esquina Milton Nascimento"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5risYG7klZCSLMNxB9dZhf",
+    "via": "musicbrainz"
   },
   "id": "clube-da-esquina",
   "titulo": "Clube da Esquina",
@@ -49,7 +50,7 @@
     "brasil"
   ],
   "comentario": [
-    "Con Lô Borges: MPB, rock y jazz de Minas Gerais, uno de los discos más importantes de Brasil."
+    "Con Lô Borges: MPB, rock y jazz de Minas Gerais, uno de los discos más importantes de Brasil. Nascimento y Lô Borges arman un disco doble de canciones con guitarras, cuerdas y armonías que vienen del jazz y de los Beatles. Es el disco clave de Milton Nascimento en la etapa \"Jazz brasileño\"."
   ],
   "ids": {
     "musicbrainz": null,

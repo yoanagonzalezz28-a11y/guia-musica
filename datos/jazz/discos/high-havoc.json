@@ -1,0 +1,59 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "reino-unido"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "High Havoc Corduroy"
+  },
+  "id": "high-havoc",
+  "titulo": "High Havoc",
+  "credito": "Corduroy",
+  "lideres": [
+    "corduroy"
+  ],
+  "grabacion": {
+    "desde": 1993,
+    "hasta": 1993,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1993,
+    "detalle": null
+  },
+  "sello": "Acid Jazz",
+  "musicos": [
+    {
+      "musico": "corduroy",
+      "nombre": "Corduroy",
+      "instrumento": "grupo"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "acid"
+  ],
+  "comentario": [
+    "El segundo disco sigue la misma idea: órgano, guitarra con efectos y ritmos de cine de espías. Los gemelos Addison llevan el grupo como una banda de estudio que también toca en vivo. Es un buen ejemplo del costado retro y divertido del acid jazz."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "wp-corduroy-band"
+  ]
+}

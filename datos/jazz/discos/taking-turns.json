@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Taking Turns Jakob Bro"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2L39E5ZUGVITVrl0Yg9XZ0",
+    "via": "musicbrainz"
   },
   "id": "taking-turns",
   "titulo": "Taking Turns",
@@ -44,7 +45,7 @@
     "ecm"
   ],
   "comentario": [
-    "Una sesión de 2014 con Lee Konitz y Bill Frisell, editada diez años después."
+    "Una sesión de 2014 con Lee Konitz y Bill Frisell, editada diez años después. Bro toca la guitarra con Konitz, Frisell, Jason Moran, Thomas Morgan, Andrew Cyrille y Mark Turner. Es uno de los discos que el banco elige para conocer a Jakob Bro."
   ],
   "ids": {
     "musicbrainz": null,

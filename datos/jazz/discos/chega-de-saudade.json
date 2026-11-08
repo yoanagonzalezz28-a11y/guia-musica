@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Chega de Saudade João Gilberto"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7zBrALWkq4ccTLQzFD1zfE",
+    "via": "musicbrainz"
   },
   "id": "chega-de-saudade",
   "titulo": "Chega de Saudade",
@@ -44,7 +45,7 @@
     "brasil"
   ],
   "comentario": [
-    "El disco que dio nacimiento a la bossa nova."
+    "El disco que dio nacimiento a la bossa nova. Gilberto canta casi en voz baja y su guitarra marca el ritmo de la bossa, con arreglos de Antônio Carlos Jobim. Es el disco clave de João Gilberto en la etapa \"Jazz brasileño\"."
   ],
   "ids": {
     "musicbrainz": null,

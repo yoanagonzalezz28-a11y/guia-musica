@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Stone Flower Antônio Carlos Jobim"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2dsmGxE74ufKZgSFpEMxel",
+    "via": "musicbrainz"
   },
   "id": "stone-flower",
   "titulo": "Stone Flower",
@@ -44,7 +45,7 @@
     "brasil"
   ],
   "comentario": [
-    "Producido por Creed Taylor con arreglos de Eumir Deodato: Jobim más oscuro y rítmico, con \"Tereza My Love\" y \"Brazil\"."
+    "Producido por Creed Taylor con arreglos de Eumir Deodato: Jobim más oscuro y rítmico, con \"Tereza My Love\" y \"Brazil\". Jobim toca piano y guitarra y canta con músicos como Ron Carter, en temas lentos y rítmicos. Completa la discografía de Antônio Carlos Jobim dentro de Jazz brasileño."
   ],
   "ids": {
     "musicbrainz": null,

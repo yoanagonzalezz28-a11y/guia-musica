@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "If Mountains Could Sing Terje Rypdal"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4lv1X1oSpU4tHn6PZfkaCj",
+    "via": "musicbrainz"
   },
   "id": "if-mountains-could-sing",
   "titulo": "If Mountains Could Sing",
@@ -44,7 +45,7 @@
     "ecm"
   ],
   "comentario": [
-    "Guitarra con cuerdas: melódico y épico."
+    "Guitarra con cuerdas: melódico y épico. Rypdal toca la guitarra eléctrica con grupo y cuerdas, en temas lentos y épicos. Está entre los discos esenciales de Terje Rypdal."
   ],
   "ids": {
     "musicbrainz": null,

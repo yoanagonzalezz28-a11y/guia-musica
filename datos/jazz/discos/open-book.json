@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Open Book Fred Hersch"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3oUTSZR19WHXHPdxwyFkXk",
+    "via": "musicbrainz"
   },
   "id": "open-book",
   "titulo": "Open Book",
@@ -44,7 +45,7 @@
     "hoy"
   ],
   "comentario": [
-    "Piano solo grabado en Corea."
+    "Piano solo grabado en Corea. Hersch toca el piano solo, en estándares y una improvisación larga. Está entre los discos esenciales de Fred Hersch."
   ],
   "ids": {
     "musicbrainz": null,

@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Terje Rypdal Terje Rypdal"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6fyRVmTgvhYPzIFk3QxAVf",
+    "via": "musicbrainz"
   },
   "id": "terje-rypdal",
   "titulo": "Terje Rypdal",
@@ -44,7 +45,7 @@
     "ecm"
   ],
   "comentario": [
-    "Su debut en ECM: guitarra eléctrica casi orquestal, con Jan Garbarek."
+    "Su debut en ECM: guitarra eléctrica casi orquestal, con Jan Garbarek. Rypdal toca la guitarra eléctrica con un grupo, en temas largos y orquestales. En la ficha de Terje Rypdal es el disco que representa la etapa \"ECM y jazz europeo\"."
   ],
   "ids": {
     "musicbrainz": null,

@@ -11,8 +11,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "GoGo Penguin GoGo Penguin"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5dNyGCWbvGFcR2Zgad3cse",
+    "via": "musicbrainz"
   },
   "id": "gogo-penguin",
   "titulo": "GoGo Penguin",
@@ -42,7 +43,7 @@
     "hoy"
   ],
   "comentario": [
-    "Un disco que lleva el nombre del grupo, más electrónico."
+    "Un disco que lleva el nombre del grupo, más electrónico. El trío de Manchester toca temas con más electrónica y patrones que se repiten y cambian de a poco. Es uno de los discos que el banco elige para conocer a GoGo Penguin."
   ],
   "ids": {
     "musicbrainz": null,

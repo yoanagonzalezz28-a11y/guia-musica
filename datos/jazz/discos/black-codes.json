@@ -10,8 +10,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Black Codes From the Underground Wynton Marsalis"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3yjPy557Rtupp0nxIJ7uZt",
+    "tituloEnSpotify": "Black Codes (From The Underground) [2023 Remaster]",
+    "via": "busqueda-spotify"
   },
   "id": "black-codes",
   "titulo": "Black Codes (From the Underground)",

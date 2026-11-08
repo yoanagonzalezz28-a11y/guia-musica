@@ -1,0 +1,185 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
+    }
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": true,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2NJ4tnWdkgpLzx1DoJI0pF",
+    "tituloEnSpotify": "Tres de Tres",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "tres-de-tres",
+  "titulo": "Tres de tres",
+  "credito": "Trío Ibarburu",
+  "lideres": [
+    "ibarburu"
+  ],
+  "grabacion": {
+    "desde": 2022,
+    "hasta": 2022,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2022,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "ibarburu",
+      "nombre": "Nicolás Ibarburu",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Lista parcial: sale de los créditos de Spotify.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Una edición de 29 temas que reúne el repertorio del trío, con Huella digital completo y temas nuevos como \"Candomsamba\" y \"Eu te amo\". Sirve como puerta de entrada a todo lo que grabó el grupo. Está en el banco como resumen de la etapa del trío."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "wpes-nicolas-ibarburu"
+  ],
+  "temas": [
+    {
+      "titulo": "Fin del Fin",
+      "duracion": 314
+    },
+    {
+      "titulo": "Tres de Tres",
+      "duracion": 281
+    },
+    {
+      "titulo": "Arbolito",
+      "duracion": 238
+    },
+    {
+      "titulo": "Recuerdo de la Atlántida",
+      "duracion": 270
+    },
+    {
+      "titulo": "Ligero Guijarro en la Laguna",
+      "duracion": 358
+    },
+    {
+      "titulo": "Mundo Nego",
+      "duracion": 412
+    },
+    {
+      "titulo": "Dos Cellos",
+      "duracion": 194
+    },
+    {
+      "titulo": "Regalo",
+      "duracion": 251
+    },
+    {
+      "titulo": "Ciudad Vieja",
+      "duracion": 236
+    },
+    {
+      "titulo": "Huella Digital",
+      "duracion": 207
+    },
+    {
+      "titulo": "El Zorro",
+      "duracion": 334
+    },
+    {
+      "titulo": "Eu Te Amo",
+      "duracion": 330
+    },
+    {
+      "titulo": "Impar",
+      "duracion": 347
+    },
+    {
+      "titulo": "Candomsamba",
+      "duracion": 325
+    },
+    {
+      "titulo": "Te Hizo Vivir",
+      "duracion": 227
+    },
+    {
+      "titulo": "Voices Inside My Head - Wolking In Yout Footsteps",
+      "duracion": 290
+    },
+    {
+      "titulo": "Snorkel",
+      "duracion": 342
+    },
+    {
+      "titulo": "500 Coronas",
+      "duracion": 273
+    },
+    {
+      "titulo": "Coolwalk",
+      "duracion": 246
+    },
+    {
+      "titulo": "Candombe de la Piola",
+      "duracion": 371
+    },
+    {
+      "titulo": "Membrana",
+      "duracion": 294
+    },
+    {
+      "titulo": "Komora",
+      "duracion": 238
+    },
+    {
+      "titulo": "Otro Mar",
+      "duracion": 236
+    },
+    {
+      "titulo": "Neurology",
+      "duracion": 212
+    },
+    {
+      "titulo": "Mandala",
+      "duracion": 223
+    },
+    {
+      "titulo": "el. Zorro",
+      "duracion": 312
+    },
+    {
+      "titulo": "Nuevas Cuerdas",
+      "duracion": 199
+    },
+    {
+      "titulo": "Snorkel.",
+      "duracion": 308
+    },
+    {
+      "titulo": "Para Rumbear Mi Camino",
+      "duracion": 258
+    }
+  ],
+  "temasFuente": "Spotify"
+}

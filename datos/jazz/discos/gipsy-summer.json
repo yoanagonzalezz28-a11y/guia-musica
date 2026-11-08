@@ -1,0 +1,67 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Gipsy Summer The Rosenberg Trio"
+  },
+  "id": "gipsy-summer",
+  "titulo": "Gipsy Summer",
+  "credito": "The Rosenberg Trio",
+  "lideres": [
+    "stochelo"
+  ],
+  "grabacion": {
+    "desde": 1991,
+    "hasta": 1991,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1991,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "stochelo",
+      "nombre": "Stochelo Rosenberg",
+      "instrumento": "guitarra solista"
+    },
+    {
+      "musico": null,
+      "nombre": "Nous'che Rosenberg",
+      "instrumento": "guitarra rítmica"
+    },
+    {
+      "musico": null,
+      "nombre": "Nonnie Rosenberg",
+      "instrumento": "contrabajo"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "manouche"
+  ],
+  "comentario": [
+    "Uno de los primeros discos del Rosenberg Trio, formado por Stochelo con sus primos Nous'che y Nonnie. Guitarra solista veloz y limpia sobre la pompe, el ritmo de mano derecha del jazz gitano. Muestra la escuela holandesa del jazz manouche."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "wp-stochelo-rosenberg"
+  ]
+}

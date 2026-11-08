@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Vibrations Roy Ayers"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/44FVaRWkEXn4DaDv9fD23z",
+    "via": "musicbrainz"
   },
   "id": "vibrations",
   "titulo": "Vibrations",
@@ -44,7 +45,7 @@
     "souljazz"
   ],
   "comentario": [
-    "Vibráfono, funk y soul: un disco que el hip hop sampleó muchísimo."
+    "Vibráfono, funk y soul: un disco que el hip hop sampleó muchísimo. Ayers toca el vibráfono con Ubiquity, en temas de funk y soul. Es uno de los discos que el banco elige para conocer a Roy Ayers."
   ],
   "ids": {
     "musicbrainz": null,

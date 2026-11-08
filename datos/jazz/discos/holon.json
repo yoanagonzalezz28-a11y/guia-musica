@@ -11,8 +11,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Holon Nik Bärtsch"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0l8a9cuqrDFbu2CVk8YCsT",
+    "via": "musicbrainz"
   },
   "id": "holon",
   "titulo": "Holon",
@@ -42,7 +43,7 @@
     "ecm"
   ],
   "comentario": [
-    "Ronin más preciso y oscuro."
+    "Ronin más preciso y oscuro. El grupo de Bärtsch toca patrones repetidos y precisos, con un clima más oscuro que en sus discos anteriores. Está entre los discos esenciales de Nik Bärtsch."
   ],
   "ids": {
     "musicbrainz": null,

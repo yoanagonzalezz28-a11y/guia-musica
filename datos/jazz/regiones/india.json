@@ -17,7 +17,8 @@
     "harriott",
     "zakir",
     "shankar",
-    "korwar"
+    "korwar",
+    "banks"
   ],
   "discos": [
     "indo-jazz-suite",
@@ -31,10 +32,7 @@
     "southern-horizons",
     "who-s-to-know"
   ],
-  "figurasPendientes": [
-    "Louiz Banks",
-    "Braz Gonsalves"
-  ],
+  "figurasPendientes": [],
   "sellos": [
     {
       "nombre": "NCPA International Jazz Festival",

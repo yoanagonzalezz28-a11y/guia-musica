@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The In Sound Eddie Harris"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3LcVYAkA5t8Ii47Wa69ZXL",
+    "via": "musicbrainz"
   },
   "id": "the-in-sound",
   "titulo": "The In Sound",
@@ -44,7 +45,7 @@
     "hard-bop"
   ],
   "comentario": [
-    "Con \"Freedom Jazz Dance\"."
+    "Con \"Freedom Jazz Dance\". Harris toca el saxo tenor con un sonido agudo y suave, en temas propios con un grupo de hard bop. En la ficha de Eddie Harris es el disco que representa la etapa \"Hard bop\"."
   ],
   "ids": {
     "musicbrainz": null,

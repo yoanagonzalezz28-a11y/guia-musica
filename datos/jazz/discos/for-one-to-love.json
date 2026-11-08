@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "For One to Love Cécile McLorin Salvant"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7HPMR4vGuzd6vnGS4H3ppu",
+    "via": "musicbrainz"
   },
   "id": "for-one-to-love",
   "titulo": "For One to Love",
@@ -44,7 +45,7 @@
     "hoy"
   ],
   "comentario": [
-    "Ganó el Grammy: canciones de amor con un humor filoso."
+    "Ganó el Grammy: canciones de amor con un humor filoso. Salvant canta con el trío de Aaron Diehl canciones de amor de distintas épocas, con mucho humor e ironía. Es uno de los discos que el banco elige para conocer a Cécile McLorin Salvant."
   ],
   "ids": {
     "musicbrainz": null,

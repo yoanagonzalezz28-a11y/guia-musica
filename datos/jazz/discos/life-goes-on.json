@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Life Goes On Carla Bley"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/50dZXAkVQ9PHCbtcNNaBsz",
+    "via": "musicbrainz"
   },
   "id": "life-goes-on",
   "titulo": "Life Goes On",
@@ -44,7 +45,7 @@
     "ecm"
   ],
   "comentario": [
-    "Su último disco, con el mismo trío."
+    "Su último disco, con el mismo trío. Bley toca el piano con Sheppard en saxo y Swallow en bajo, en temas lentos. Es uno de los discos que el banco elige para conocer a Carla Bley."
   ],
   "ids": {
     "musicbrainz": null,

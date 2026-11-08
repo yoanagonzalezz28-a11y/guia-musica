@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Alone Together Jim Hall"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2di5Tz1K21jUt16GnHfpU7",
+    "via": "musicbrainz"
   },
   "id": "alone-together",
   "titulo": "Alone Together",
@@ -44,7 +45,7 @@
     "cool"
   ],
   "comentario": [
-    "Dúo con Ron Carter en vivo."
+    "Dúo con Ron Carter en vivo. Hall y Carter improvisan sin batería, con la guitarra y el contrabajo tejiendo líneas que se cruzan todo el tiempo. Está entre los discos esenciales de Jim Hall."
   ],
   "ids": {
     "musicbrainz": null,

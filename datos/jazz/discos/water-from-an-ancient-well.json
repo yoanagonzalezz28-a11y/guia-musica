@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Water from an Ancient Well Abdullah Ibrahim"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1QlW8jmei8HgE3C4h3TPhH",
+    "via": "musicbrainz"
   },
   "id": "water-from-an-ancient-well",
   "titulo": "Water from an Ancient Well",
@@ -44,7 +45,7 @@
     "mundo"
   ],
   "comentario": [
-    "Con Ekaya y Ben Riley: uno de sus discos más queridos."
+    "Con Ekaya y Ben Riley: uno de sus discos más queridos. Ibrahim toca el piano con Ekaya, un septeto con varios saxos, en temas lentos y melódicos. Es el disco clave de Abdullah Ibrahim en la etapa \"Water from an Ancient Well\"."
   ],
   "ids": {
     "musicbrainz": null,

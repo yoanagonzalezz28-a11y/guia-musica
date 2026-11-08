@@ -14,8 +14,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Earfood Roy Hargrove"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo",
+    "via": "musicbrainz"
   },
   "id": "earfood",
   "titulo": "Earfood",
@@ -45,7 +46,7 @@
     "neotrad"
   ],
   "comentario": [
-    "Quinteto acústico: hard bop moderno y baladas."
+    "Quinteto acústico: hard bop moderno y baladas. Hargrove toca la trompeta y el fliscorno con su quinteto, en temas con mucho swing y baladas. Completa la discografía de Roy Hargrove dentro de Neotradicionalismo."
   ],
   "ids": {
     "musicbrainz": null,

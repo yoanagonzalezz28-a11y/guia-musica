@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Waiting Game Terri Lyne Carrington"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6MQKtOTMLJKwXdooujNavN",
+    "via": "musicbrainz"
   },
   "id": "waiting-game",
   "titulo": "Waiting Game",
@@ -44,7 +45,7 @@
     "hoy"
   ],
   "comentario": [
-    "Con Social Science: jazz, hip hop y política."
+    "Con Social Science: jazz, hip hop y política. Carrington toca la batería con Social Science, con rap, voces y temas sobre la injusticia y el encarcelamiento. Está entre los discos esenciales de Terri Lyne Carrington."
   ],
   "ids": {
     "musicbrainz": null,

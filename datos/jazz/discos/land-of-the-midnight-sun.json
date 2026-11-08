@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Land of the Midnight Sun Al Di Meola"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4WgpUfO18G47eEMaWvDxB7",
+    "via": "musicbrainz"
   },
   "id": "land-of-the-midnight-sun",
   "titulo": "Land of the Midnight Sun",
@@ -44,7 +45,7 @@
     "fusion"
   ],
   "comentario": [
-    "Su debut."
+    "Su debut. Di Meola toca la guitarra con una velocidad enorme, en temas de fusión con Jaco Pastorius y Steve Gadd. Es uno de los discos que el banco elige para conocer a Al Di Meola."
   ],
   "ids": {
     "musicbrainz": null,

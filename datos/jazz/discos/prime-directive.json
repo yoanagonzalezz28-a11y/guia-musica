@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Prime Directive Dave Holland"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/35ygVY4YX4HdbBXLmTSbR3",
+    "via": "musicbrainz"
   },
   "id": "prime-directive",
   "titulo": "Prime Directive",
@@ -44,7 +45,7 @@
     "ecm"
   ],
   "comentario": [
-    "Su quinteto con Chris Potter: complejo, pero siempre con swing."
+    "Su quinteto con Chris Potter: complejo, pero siempre con swing. Holland toca el contrabajo con Potter en saxo, Robin Eubanks en trombón, Steve Nelson en vibráfono y Billy Kilson en batería. Es uno de los discos que el banco elige para conocer a Dave Holland."
   ],
   "ids": {
     "musicbrainz": null,

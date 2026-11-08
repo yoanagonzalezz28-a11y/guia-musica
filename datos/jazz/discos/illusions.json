@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Illusions Ibrahim Maalouf"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/67cksuMf5EvK5pu1DwGeFi",
+    "via": "musicbrainz"
   },
   "id": "illusions",
   "titulo": "Illusions",
@@ -44,7 +45,7 @@
     "mundo"
   ],
   "comentario": [
-    "Trompeta árabe y rock: su lado más enérgico."
+    "Trompeta árabe y rock: su lado más enérgico. Maalouf toca la trompeta con un grupo de rock, en temas largos con riffs y melodías árabes. Está entre los discos esenciales de Ibrahim Maalouf."
   ],
   "ids": {
     "musicbrainz": null,

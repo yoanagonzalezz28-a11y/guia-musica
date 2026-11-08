@@ -15,8 +15,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Never No Lament The Blanton Webster Band Duke Ellington"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2gVe4gvBXKlCLDeS3BaUfL",
+    "tituloEnSpotify": "Never No Lament: The Blanton-Webster Band",
+    "via": "busqueda-spotify"
   },
   "id": "never-no-lament",
   "titulo": "Never No Lament: The Blanton–Webster Band",

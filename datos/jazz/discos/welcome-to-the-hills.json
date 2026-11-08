@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Welcome to the Hills Yussef Dayes"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5MBvie7lDjKKlKdnTaC5LF",
+    "via": "musicbrainz"
   },
   "id": "welcome-to-the-hills",
   "titulo": "Welcome to the Hills",
@@ -44,7 +45,7 @@
     "hoy"
   ],
   "comentario": [
-    "En vivo con su trío."
+    "En vivo con su trío. Dayes toca la batería con Charlie Stacey en teclados y Rocco Palladino en bajo, en vivo. Es uno de los discos que el banco elige para conocer a Yussef Dayes."
   ],
   "ids": {
     "musicbrainz": null,

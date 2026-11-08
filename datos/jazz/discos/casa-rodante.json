@@ -1,0 +1,113 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
+    }
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/66QCBasDW0tqI90BQsySnl",
+    "tituloEnSpotify": "Casa Rodante",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "casa-rodante",
+  "titulo": "Casa rodante",
+  "credito": "Nicolás Ibarburu",
+  "lideres": [
+    "ibarburu"
+  ],
+  "grabacion": {
+    "desde": 2017,
+    "hasta": 2017,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2017,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "ibarburu",
+      "nombre": "Nicolás Ibarburu",
+      "instrumento": "guitarra y voz"
+    }
+  ],
+  "personalNota": "Lista parcial: sale de los créditos de Spotify.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Once temas propios, de \"Navegantes\" a \"Timón voodoo\", con la guitarra eléctrica en el centro. Ibarburu después participó como invitado en Juntos ahora, de Nair Mirabrat. Es el disco más propio de su etapa solista: todas las canciones son suyas."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "wpes-nicolas-ibarburu"
+  ],
+  "temas": [
+    {
+      "titulo": "Navegantes",
+      "duracion": 229
+    },
+    {
+      "titulo": "Desvelo",
+      "duracion": 230
+    },
+    {
+      "titulo": "Mapa Tesoro",
+      "duracion": 249
+    },
+    {
+      "titulo": "Gamo",
+      "duracion": 215
+    },
+    {
+      "titulo": "Casa Rodante",
+      "duracion": 99
+    },
+    {
+      "titulo": "Vendaval",
+      "duracion": 220
+    },
+    {
+      "titulo": "Mulata",
+      "duracion": 202
+    },
+    {
+      "titulo": "Caminar",
+      "duracion": 195
+    },
+    {
+      "titulo": "Si Te Escucho Cantar",
+      "duracion": 295
+    },
+    {
+      "titulo": "Semilla",
+      "duracion": 234
+    },
+    {
+      "titulo": "Timón Voodoo",
+      "duracion": 282
+    }
+  ],
+  "temasFuente": "Spotify"
+}

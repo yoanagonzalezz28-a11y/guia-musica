@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Shifting Sands Avishai Cohen"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4P3X3u2Rmp685DIao3s5Qt",
+    "via": "musicbrainz"
   },
   "id": "shifting-sands",
   "titulo": "Shifting Sands",
@@ -44,7 +45,7 @@
     "hoy"
   ],
   "comentario": [
-    "Trío con Elchin Shirinov y Roni Kaspi."
+    "Trío con Elchin Shirinov y Roni Kaspi. Cohen toca el contrabajo con Shirinov en piano y Kaspi en batería, en temas melódicos. Está entre los discos esenciales de Avishai Cohen."
   ],
   "ids": {
     "musicbrainz": null,

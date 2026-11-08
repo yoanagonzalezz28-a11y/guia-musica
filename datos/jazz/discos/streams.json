@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Streams Sam Rivers"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/21dsnshW9ZxKLPxlP5S79D",
+    "via": "musicbrainz"
   },
   "id": "streams",
   "titulo": "Streams",
@@ -44,7 +45,7 @@
     "free"
   ],
   "comentario": [
-    "En vivo en Montreux: una suite libre continua."
+    "En vivo en Montreux: una suite libre continua. Rivers toca saxos, flauta y piano en vivo, en una suite libre. Es uno de los discos que el banco elige para conocer a Sam Rivers."
   ],
   "ids": {
     "musicbrainz": null,

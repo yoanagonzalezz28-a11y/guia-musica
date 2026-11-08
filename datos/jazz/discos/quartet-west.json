@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Quartet West Charlie Haden"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5TTTEyRSGqgLweE5UMS0Wu",
+    "via": "musicbrainz"
   },
   "id": "quartet-west",
   "titulo": "Quartet West",
@@ -44,7 +45,7 @@
     "cool"
   ],
   "comentario": [
-    "El Los Ángeles de los años 40, en un cuarteto de una nostalgia muy cinematográfica."
+    "El Los Ángeles de los años 40, en un cuarteto de una nostalgia muy cinematográfica. Haden toca el contrabajo con Ernie Watts en saxo, Alan Broadbent en piano y Billy Higgins en batería. Es el disco clave de Charlie Haden en la etapa \"Cool\"."
   ],
   "ids": {
     "musicbrainz": null,

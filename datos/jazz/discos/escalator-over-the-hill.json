@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Escalator over the Hill Carla Bley"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4Gkvfrv2hZlF1ILyiqVe9j",
+    "via": "musicbrainz"
   },
   "id": "escalator-over-the-hill",
   "titulo": "Escalator over the Hill",
@@ -44,7 +45,7 @@
     "free"
   ],
   "comentario": [
-    "Ópera de jazz en tres discos."
+    "Ópera de jazz en tres discos. Bley compone una obra larga con textos de Paul Haines, con músicos de jazz, rock y una orquesta. Es uno de los discos que el banco elige para conocer a Carla Bley."
   ],
   "ids": {
     "musicbrainz": null,

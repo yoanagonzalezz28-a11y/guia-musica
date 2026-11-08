@@ -1,0 +1,59 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "india"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Music for Romance Louiz Banks"
+  },
+  "id": "music-for-romance",
+  "titulo": "Music for Romance",
+  "credito": "Louiz Banks",
+  "lideres": [
+    "banks"
+  ],
+  "grabacion": {
+    "desde": 1995,
+    "hasta": 1995,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1995,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "banks",
+      "nombre": "Louiz Banks",
+      "instrumento": "piano, teclados, composición"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "Uno de los pocos discos de Louiz Banks catalogados en MusicBrainz: piano y teclados en un repertorio melódico. Banks es una figura central del jazz en la India, pero su discografía está poco documentada. Entra al banco para que esa escena tenga un nombre propio."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "mb-louis-banks"
+  ]
+}

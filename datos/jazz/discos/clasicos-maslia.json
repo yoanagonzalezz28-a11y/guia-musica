@@ -1,0 +1,129 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
+    }
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2Q83d5cwwIIyQMZtQWBLVY",
+    "tituloEnSpotify": "Clásicos",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "clasicos-maslia",
+  "titulo": "Clásicos",
+  "credito": "Leo Maslíah",
+  "lideres": [
+    "maslia"
+  ],
+  "grabacion": {
+    "desde": 2005,
+    "hasta": 2005,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2005,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "maslia",
+      "nombre": "Leo Maslíah",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Lista parcial: sale de los créditos de Spotify.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Maslíah al piano en un repertorio que no respeta fronteras: cuentos infantiles como \"Caperucita roja\" y \"Pulgarcito\", \"Donna Lee\" de Charlie Parker y la sonata K 545 de Mozart. El humor está en la elección y en cómo junta todo, pero el piano va en serio. Muestra su costado de intérprete, entre lo clásico y el jazz."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "wpes-leo-maslia"
+  ],
+  "temas": [
+    {
+      "titulo": "Riquete el del Copete",
+      "duracion": 103
+    },
+    {
+      "titulo": "Pulgarcito",
+      "duracion": 85
+    },
+    {
+      "titulo": "Caperucita Roja",
+      "duracion": 145
+    },
+    {
+      "titulo": "La Bella Durmiente",
+      "duracion": 277
+    },
+    {
+      "titulo": "El Cascanueces",
+      "duracion": 328
+    },
+    {
+      "titulo": "La Voz del Medio",
+      "duracion": 269
+    },
+    {
+      "titulo": "Donna Lee",
+      "duracion": 117
+    },
+    {
+      "titulo": "El Cuervo",
+      "duracion": 481
+    },
+    {
+      "titulo": "El Intruso",
+      "duracion": 132
+    },
+    {
+      "titulo": "Triste Nº 4",
+      "duracion": 108
+    },
+    {
+      "titulo": "Sonata K 545 1er Movimiento",
+      "duracion": 129
+    },
+    {
+      "titulo": "Sonata K 545 2do Movimiento",
+      "duracion": 215
+    },
+    {
+      "titulo": "Sonata K 545 3er Movimiento",
+      "duracion": 72
+    },
+    {
+      "titulo": "Popurrí",
+      "duracion": 185
+    },
+    {
+      "titulo": "Jonathan Harker",
+      "duracion": 162
+    }
+  ],
+  "temasFuente": "Spotify"
+}

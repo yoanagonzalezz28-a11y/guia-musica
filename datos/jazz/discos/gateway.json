@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Gateway John Abercrombie"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/17BiOpPnez7L0w8r0yRp9Y",
+    "via": "musicbrainz"
   },
   "id": "gateway",
   "titulo": "Gateway",
@@ -47,7 +48,7 @@
     "ecm"
   ],
   "comentario": [
-    "El trío Gateway con Abercrombie y Dave Holland: rock, free y jazz."
+    "El trío Gateway con Abercrombie y Dave Holland: rock, free y jazz. Abercrombie toca la guitarra eléctrica con mucha distorsión y libertad, sobre el contrabajo de Holland y la batería de DeJohnette. Está entre los discos esenciales de John Abercrombie."
   ],
   "ids": {
     "musicbrainz": null,

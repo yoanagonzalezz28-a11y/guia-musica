@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Far from Over Vijay Iyer"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1m3KyOooTz89Dt6U30Ad7c",
+    "via": "musicbrainz"
   },
   "id": "far-from-over",
   "titulo": "Far from Over",
@@ -44,7 +45,7 @@
     "ecm"
   ],
   "comentario": [
-    "Sexteto con vientos: complejo y enérgico."
+    "Sexteto con vientos: complejo y enérgico. Iyer toca el piano y los teclados con un sexteto de vientos, en temas largos y llenos de energía. Es uno de los discos que el banco elige para conocer a Vijay Iyer."
   ],
   "ids": {
     "musicbrainz": null,

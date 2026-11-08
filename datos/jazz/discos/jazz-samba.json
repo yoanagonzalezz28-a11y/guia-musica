@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Jazz Samba Charlie Byrd"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/58rIYH6S3G6MaBWj270A2L",
+    "via": "musicbrainz"
   },
   "id": "jazz-samba",
   "titulo": "Jazz Samba",
@@ -42,7 +43,7 @@
     "brasil"
   ],
   "comentario": [
-    "Cerca de un millón de copias: la bossa llega al jazz estadounidense."
+    "Cerca de un millón de copias: la bossa llega al jazz estadounidense. Byrd toca la guitarra acústica y Stan Getz el saxo tenor, en versiones de bossa nova con un sonido suave y relajado. Está entre los discos esenciales de Stan Getz."
   ],
   "ids": {
     "musicbrainz": null,

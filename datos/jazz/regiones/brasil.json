@@ -28,7 +28,8 @@
     "toninho-horta",
     "azimuth",
     "baden",
-    "nana"
+    "nana",
+    "letieres"
   ],
   "discos": [
     "getz-gilberto",
@@ -65,7 +66,7 @@
     "joao-gilberto",
     "le-monde-musical-de-baden-powell",
     "light-as-a-feather-azimuth",
-    "light-as-a-feather",
+    "light-as-a-feather-corea",
     "maestro",
     "matita-pere",
     "milagre-dos-peixes",
@@ -93,9 +94,7 @@
     "y-y",
     "zabumbe-bum-a"
   ],
-  "figurasPendientes": [
-    "Letieres Leite"
-  ],
+  "figurasPendientes": [],
   "sellos": [
     {
       "nombre": "Forma",

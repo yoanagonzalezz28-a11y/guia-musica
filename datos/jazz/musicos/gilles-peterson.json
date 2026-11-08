@@ -1,0 +1,33 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "gilles-peterson",
+  "nombre": "Gilles Peterson",
+  "nacimiento": {
+    "anio": 1964,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "DJ",
+    "locutor",
+    "sellos discográficos"
+  ],
+  "corrientes": [
+    "acid"
+  ],
+  "regiones": [
+    "reino-unido"
+  ],
+  "spotify": null,
+  "resumen": "DJ, locutor de radio y dueño de sellos. En Londres, a fines de los 80, fue de los que difundieron el nombre \"acid jazz\" para la mezcla de jazz, funk, música latina y brasileña que pasaba en los clubes. Fundó los sellos Acid Jazz, con Eddie Piller, y Talkin' Loud, y después Brownswood.[^wp-gilles-peterson]",
+  "epocas": [],
+  "fuentes": [
+    "wp-gilles-peterson"
+  ],
+  "respaldo": [],
+  "discosEsenciales": []
+}

@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Brown Rice Don Cherry"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4g7WTSk1vwtx8rf330Wd7L",
+    "via": "musicbrainz"
   },
   "id": "brown-rice",
   "titulo": "Brown Rice",
@@ -44,7 +45,7 @@
     "free"
   ],
   "comentario": [
-    "Jazz espiritual con voces y ritmos de varias partes del mundo."
+    "Jazz espiritual con voces y ritmos de varias partes del mundo. Cherry toca trompeta, flauta y teclados con músicos de varias partes del mundo, en temas largos y circulares. Está entre los discos esenciales de Don Cherry."
   ],
   "ids": {
     "musicbrainz": null,

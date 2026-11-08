@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "ntuli",
+  "nombre": "Thandi Ntuli",
+  "nacimiento": {
+    "anio": null,
+    "lugar": "Sudáfrica"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano",
+    "voz",
+    "composición"
+  ],
+  "corrientes": [
+    "mundo",
+    "hoy"
+  ],
+  "regiones": [
+    "sudafrica"
+  ],
+  "spotify": null,
+  "resumen": "Pianista, cantante y compositora sudafricana, parte de la escena de jazz de Johannesburgo de los 2010. Su música parte del gospel y del jazz sudafricano.[^mb-thandi-ntuli]",
+  "epocas": [
+    {
+      "titulo": "Johannesburgo",
+      "desde": 2014,
+      "hasta": 2018,
+      "texto": "Sus dos primeros discos, con grupo, la ubicaron en la nueva escena sudafricana.[^mb-thandi-ntuli]",
+      "discoClave": {
+        "disco": "exiled-ntuli",
+        "explicacion": "Su segundo disco, con grupo y temas largos."
+      },
+      "discos": [
+        "the-offering-ntuli"
+      ]
+    },
+    {
+      "titulo": "Con Carlos Niño",
+      "desde": 2023,
+      "hasta": 2023,
+      "texto": "Grabó en Los Ángeles un disco de piano y voz con el productor Carlos Niño.[^wp-rainbow-revisited]",
+      "discoClave": {
+        "disco": "rainbow-revisited",
+        "explicacion": "Piano y voz despojados: la crítica lo recibió con elogios."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-rainbow-revisited"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "exiled-ntuli",
+    "the-offering-ntuli",
+    "rainbow-revisited"
+  ]
+}

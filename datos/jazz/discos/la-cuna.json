@@ -14,8 +14,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "La Cuna Ray Barretto"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3vcEuGjhuMh3BKNWYBFFqy",
+    "via": "musicbrainz"
   },
   "id": "la-cuna",
   "titulo": "La Cuna",
@@ -45,7 +46,7 @@
     "latino"
   ],
   "comentario": [
-    "Jazz latino con Tito Puente y Joe Farrell."
+    "Jazz latino con Tito Puente y Joe Farrell. Barretto toca las congas con Puente en timbales y Farrell en saxo, en un jazz latino de comienzos de los 80. Es uno de los discos que el banco elige para conocer a Ray Barretto."
   ],
   "ids": {
     "musicbrainz": null,

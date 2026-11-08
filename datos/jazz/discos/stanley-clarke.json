@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Stanley Clarke Stanley Clarke"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6t9PGcaBj1aMIMI1ZYugQv",
+    "via": "musicbrainz"
   },
   "id": "stanley-clarke",
   "titulo": "Stanley Clarke",
@@ -44,7 +45,7 @@
     "fusion"
   ],
   "comentario": [
-    "Su segundo disco: el bajo eléctrico como instrumento líder."
+    "Su segundo disco: el bajo eléctrico como instrumento líder. Clarke toca el bajo eléctrico con Jan Hammer, Bill Connors y Tony Williams, en temas de fusión. Es uno de los discos que el banco elige para conocer a Stanley Clarke."
   ],
   "ids": {
     "musicbrainz": null,

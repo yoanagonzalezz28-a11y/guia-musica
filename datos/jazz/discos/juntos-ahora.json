@@ -1,0 +1,131 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
+    }
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4HviA7Ga2iCkhPivRDm4ni",
+    "tituloEnSpotify": "Juntos Ahora",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "juntos-ahora",
+  "titulo": "Juntos ahora",
+  "credito": "Nair Mirabrat",
+  "lideres": [],
+  "grabacion": {
+    "desde": 2021,
+    "hasta": 2021,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2021,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": null,
+      "nombre": "Martín Ibarra",
+      "instrumento": "director del proyecto"
+    },
+    {
+      "musico": "fattoruso",
+      "nombre": "Hugo Fattoruso",
+      "instrumento": "invitado"
+    },
+    {
+      "musico": "ibarburu",
+      "nombre": "Nicolás Ibarburu",
+      "instrumento": "invitado"
+    },
+    {
+      "musico": "ramiro-flores",
+      "nombre": "Ramiro Flores",
+      "instrumento": "invitado"
+    },
+    {
+      "musico": null,
+      "nombre": "Juan Ibarra",
+      "instrumento": "invitado"
+    },
+    {
+      "musico": null,
+      "nombre": "Antonio Loureiro",
+      "instrumento": "invitado"
+    },
+    {
+      "musico": null,
+      "nombre": "Perotá Chingó",
+      "instrumento": "invitadas"
+    },
+    {
+      "musico": null,
+      "nombre": "Hernán Peyrou",
+      "instrumento": "invitado"
+    }
+  ],
+  "personalNota": "Lista parcial: sale de los créditos de Spotify.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "El disco más grande de Nair Mirabrat, el proyecto de Martín Ibarra: cada tema suma invitados, de Hugo Fattoruso y Nicolás Ibarburu a Ramiro Flores, el brasileño Antonio Loureiro y Perotá Chingó. Cierra con \"Casa rodante\", el mismo título de una canción de Ibarburu, que participa como invitado. Es casi un mapa de la música uruguaya actual que cruza candombe, canción y jazz."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Algarrobo",
+      "duracion": 322
+    },
+    {
+      "titulo": "Cando 2",
+      "duracion": 299
+    },
+    {
+      "titulo": "Para Vencer",
+      "duracion": 200
+    },
+    {
+      "titulo": "Hermano",
+      "duracion": 200
+    },
+    {
+      "titulo": "Grillo",
+      "duracion": 208
+    },
+    {
+      "titulo": "En los Verdes",
+      "duracion": 279
+    },
+    {
+      "titulo": "Abriéndose Camino",
+      "duracion": 269
+    },
+    {
+      "titulo": "Casa Rodante",
+      "duracion": 234
+    }
+  ],
+  "temasFuente": "Spotify"
+}

@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Full Force Art Ensemble of Chicago"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4J52Qh2XY3mgxNnTvkKuYr",
+    "via": "musicbrainz"
   },
   "id": "full-force",
   "titulo": "Full Force",
@@ -44,7 +45,7 @@
     "free"
   ],
   "comentario": [
-    "Free, blues y percusión ritual."
+    "Free, blues y percusión ritual. El Art Ensemble toca con muchos instrumentos de percusión, campanas y vientos, y pasa del silencio a los gritos y al blues. En la ficha de Art Ensemble of Chicago es el disco que representa la etapa \"Free jazz\"."
   ],
   "ids": {
     "musicbrainz": null,

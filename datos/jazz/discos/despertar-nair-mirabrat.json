@@ -1,0 +1,83 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
+    }
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5uDSOSpcxhtm0OXCWJ0uGS",
+    "tituloEnSpotify": "Despertar",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "despertar-nair-mirabrat",
+  "titulo": "Despertar",
+  "credito": "Nair Mirabrat",
+  "lideres": [],
+  "grabacion": {
+    "desde": 2021,
+    "hasta": 2021,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2021,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": null,
+      "nombre": "Martín Ibarra",
+      "instrumento": "director del proyecto"
+    },
+    {
+      "musico": null,
+      "nombre": "Pippo Spera",
+      "instrumento": "invitado"
+    },
+    {
+      "musico": null,
+      "nombre": "Martín Buscaglia",
+      "instrumento": "invitado"
+    },
+    {
+      "musico": null,
+      "nombre": "Sara Sabah",
+      "instrumento": "invitada"
+    }
+  ],
+  "personalNota": "Lista parcial: sale de los créditos de Spotify.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Un simple de Nair Mirabrat con Pippo Spera, Martín Buscaglia y Sara Sabah. Salió una semana después de Juntos ahora y sigue la misma idea: un tema, muchos músicos invitados. Entra al banco junto con el resto del proyecto de Martín Ibarra."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Despertar",
+      "duracion": 231
+    }
+  ],
+  "temasFuente": "Spotify"
+}

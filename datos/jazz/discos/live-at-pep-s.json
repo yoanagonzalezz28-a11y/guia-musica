@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Live at Pep's Yusef Lateef"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1g2cxt8fbktiKExnvdmoBS",
+    "via": "musicbrainz"
   },
   "id": "live-at-pep-s",
   "titulo": "Live at Pep's",
@@ -44,7 +45,7 @@
     "hard-bop"
   ],
   "comentario": [
-    "Con flauta y oboe: en vivo en Filadelfia."
+    "Con flauta y oboe: en vivo en Filadelfia. Lateef toca saxo, flauta y oboe en vivo con un quinteto. Está entre los discos esenciales de Yusef Lateef."
   ],
   "ids": {
     "musicbrainz": null,

@@ -87,6 +87,9 @@ function sobreFondo(color, fondo, minimo = 4) {
 const tintaVars = c => `--tinta-c:${c.tinta};--tinta-c-texto:${c.tintaTexto};--tinta-c-claro:${sobreFondo(c.tinta, PAPEL_CLARO)};--tinta-c-oscuro:${sobreFondo(c.tinta, PAPEL_OSCURO)}`;
 const NEUTRA = { tinta: '#3a342c', tintaTexto: '#f2e8d5' };
 const corrienteDe = d => (d.corrientes.length ? g.por.corriente.get(d.corrientes[0]) : NEUTRA);
+// El nombre de la época va escrito junto a su color: el color solo no alcanza para saber de qué época es.
+const nombreEpoca = d => (d.corrientes.length ? g.por.corriente.get(d.corrientes[0]).nombre : '');
+const rotuloEpoca = d => (nombreEpoca(d) ? `<span class="rotulo-epoca">${esc(nombreEpoca(d))}</span>` : '');
 const ORDEN = [...g.corrientes].sort((x, y) => x.periodo.desde - y.periodo.desde || x.periodo.hasta - y.periodo.hasta);
 const numeroDe = id => ORDEN.findIndex(c => c.id === id) + 1;
 const largoTitular = nombre => Math.max(...String(nombre).split(/\s+/).map(p => p.length));
@@ -189,7 +192,7 @@ function cincoDiscos(ctx, m) {
   const lista = ids.map(id => g.por.disco.get(id)).filter(Boolean).slice(0, 5);
   if (!lista.length) return '';
   return `<section class="bloque cinco-discos"><h2>${lista.length === 5 ? 'Cinco discos' : 'Discos para empezar'}</h2><ol class="lista-resenas">${lista.map(d => `<li style="${tintaVars(corrienteDe(d))}">
-    <h3><a href="${ctx.a(URL.disco(d.id))}">${esc(d.titulo)}</a> <span class="dato">${anioDisco(d)}${d.sello ? ` · ${esc(d.sello)}` : ''}</span></h3>
+    <h3><a href="${ctx.a(URL.disco(d.id))}">${esc(d.titulo)}</a> ${rotuloEpoca(d)} <span class="dato">${anioDisco(d)}${d.sello ? ` · ${esc(d.sello)}` : ''}</span></h3>
     <p>${ctx.texto(d.comentario[0] || '')}</p>
     ${d.resenaExtensa?.length ? `<details><summary class="dato">Leer la reseña completa</summary>${d.resenaExtensa.map(p => `<p>${ctx.texto(p)}</p>`).join('')}</details>` : ''}
     <div class="resena-pie">${marcarDisco(d)}<a class="enlace-externo" href="${esc(enlaceSpotify(d).url)}" rel="noopener">${enlaceSpotify(d).texto}</a></div></li>`).join('')}</ol></section>`;
@@ -200,7 +203,7 @@ function filaDisco(ctx, d) {
   return `<li class="fila-disco" style="${tintaVars(c)}" data-corriente="${esc(d.corrientes.join(' '))}" data-tipo="${d.tipo}" data-redescubrimiento="${d.redescubrimiento ? 'si' : 'no'}" data-marca-fila="disco:${d.id}">
     <span class="fila-disco-anio">${anioDisco(d)}</span>
     <span class="fila-disco-cuerpo"><span><a class="fila-disco-titulo" href="${ctx.a(URL.disco(d.id))}">${esc(d.titulo)}</a>${d.redescubrimiento ? ` ${etiquetaRedescubrimiento(true)}` : ''}</span>
-    <span class="fila-disco-meta">${esc(d.credito)}${d.sello ? ` · ${esc(d.sello)}` : ''} · ${d.tipo === 'vivo' ? 'en vivo' : 'estudio'}</span>
+    <span class="fila-disco-meta">${nombreEpoca(d) ? `<span class="fila-disco-epoca">${esc(nombreEpoca(d))}</span> · ` : ''}${esc(d.credito)}${d.sello ? ` · ${esc(d.sello)}` : ''} · ${d.tipo === 'vivo' ? 'en vivo' : 'estudio'}</span>
     <span class="fila-disco-marca" data-marca-chip="disco:${d.id}"></span></span>
     ${marcarDisco(d)}
   </li>`;
@@ -468,7 +471,7 @@ const construir = {
           return `<article class="epoca" style="${tintaVars(corrienteDe(clave))}">
             <header class="epoca-cabeza"><span class="epoca-anios">${rangoAnios(e.desde, e.hasta)}</span><h3>${esc(e.titulo)}</h3></header>
             <div class="epoca-cuerpo">${e.texto ? `<p>${ctx.texto(e.texto)}</p>` : ''}
-            <div class="disco-clave"><span class="dato">Disco clave · ${anioDisco(clave)}${clave.sello ? ` · ${esc(clave.sello)}` : ''}</span>
+            <div class="disco-clave">${rotuloEpoca(clave)}<span class="dato">Disco clave · ${anioDisco(clave)}${clave.sello ? ` · ${esc(clave.sello)}` : ''}</span>
               <h4><a href="${ctx.a(URL.disco(clave.id))}">${esc(clave.titulo)}</a></h4>
               <p>${ctx.texto(e.discoClave.explicacion)}</p>
               <a class="enlace-externo" href="${esc(sp.url)}" rel="noopener">${sp.texto}</a>

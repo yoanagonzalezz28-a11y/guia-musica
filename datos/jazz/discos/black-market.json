@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Black Market Weather Report"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5354mOnKAQxDZx4MR7en0h",
+    "via": "musicbrainz"
   },
   "id": "black-market",
   "titulo": "Black Market",
@@ -42,7 +43,7 @@
     "fusion"
   ],
   "comentario": [
-    "Weather Report con ritmos africanos y la llegada de Jaco Pastorius."
+    "Weather Report con ritmos africanos y la llegada de Jaco Pastorius. El bajo eléctrico de Pastorius, con su sonido cantado, se suma en dos temas al grupo de Zawinul y Shorter. Está entre los discos esenciales de Joe Zawinul."
   ],
   "ids": {
     "musicbrainz": null,

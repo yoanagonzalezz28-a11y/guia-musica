@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Goin' to Minton's Fats Navarro"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1W3238xcb9ft3WZcW4UhSa",
+    "via": "musicbrainz"
   },
   "id": "goin-to-minton-s",
   "titulo": "Goin' to Minton's",
@@ -44,7 +45,7 @@
     "bebop"
   ],
   "comentario": [
-    "Grabaciones de 1946–47 con Bud Powell y otros."
+    "Grabaciones de 1946–47 con Bud Powell y otros. Navarro toca la trompeta con un sonido limpio y frases muy precisas, en sesiones de bebop de mediados de los 40. Es uno de los discos que el banco elige para conocer a Fats Navarro."
   ],
   "ids": {
     "musicbrainz": null,

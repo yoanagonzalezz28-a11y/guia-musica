@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "A New Perspective Donald Byrd"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3LG1c3DYgaEtCxea2z7ZSa",
+    "via": "musicbrainz"
   },
   "id": "a-new-perspective",
   "titulo": "A New Perspective",
@@ -44,7 +45,7 @@
     "hard-bop"
   ],
   "comentario": [
-    "Con un coro gospel: \"Cristo Redentor\" se volvió un clásico."
+    "Con un coro gospel: \"Cristo Redentor\" se volvió un clásico. El coro sin palabras arreglado por Duke Pearson le da a los temas un aire de iglesia que convive con solos de hard bop. Es uno de los discos que el banco elige para conocer a Donald Byrd."
   ],
   "ids": {
     "musicbrainz": null,

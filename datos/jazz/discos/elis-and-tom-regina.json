@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Elis & Tom Elis Regina"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS",
+    "via": "musicbrainz"
   },
   "id": "elis-and-tom-regina",
   "titulo": "Elis & Tom",
@@ -44,7 +45,7 @@
     "brasil"
   ],
   "comentario": [
-    "Con Antônio Carlos Jobim, grabado en Los Ángeles: \"Águas de Março\" en su versión definitiva."
+    "Con Antônio Carlos Jobim, grabado en Los Ángeles: \"Águas de Março\" en su versión definitiva. Elis canta con una voz clara y Jobim la acompaña al piano, en un repertorio de canciones de Jobim. En la ficha de Elis Regina es el disco que representa la etapa \"Jazz brasileño\"."
   ],
   "ids": {
     "musicbrainz": null,

@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Positivity Incognito"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/45BNZeFrf7HSGAogA2CZ5M",
+    "via": "musicbrainz"
   },
   "id": "positivity",
   "titulo": "Positivity",
@@ -44,7 +45,7 @@
     "acid"
   ],
   "comentario": [
-    "Groove suave y vientos cálidos."
+    "Groove suave y vientos cálidos. Incognito toca funk y soul con vientos y voces, con un groove muy bailable. Está entre los discos esenciales de Incognito."
   ],
   "ids": {
     "musicbrainz": null,

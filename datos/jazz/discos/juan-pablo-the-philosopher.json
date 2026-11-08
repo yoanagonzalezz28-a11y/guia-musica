@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Juan Pablo: The Philosopher Ezra Collective"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3XbUAdMaYsD3JZUbUfCuEc",
+    "via": "musicbrainz"
   },
   "id": "juan-pablo-the-philosopher",
   "titulo": "Juan Pablo: The Philosopher",
@@ -44,7 +45,7 @@
     "hoy"
   ],
   "comentario": [
-    "EP con su energía de grupo en vivo."
+    "EP con su energía de grupo en vivo. El grupo de Londres toca afrobeat, jazz y hip hop con mucha energía y vientos al frente. En la ficha de Ezra Collective es el disco que representa la etapa \"Jazz de hoy\"."
   ],
   "ids": {
     "musicbrainz": null,

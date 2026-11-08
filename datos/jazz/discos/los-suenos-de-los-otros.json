@@ -1,0 +1,104 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
+    }
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7nvLTFlxFJJKQwCfasoUAa",
+    "tituloEnSpotify": "Los Sueños de los Otros",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "los-suenos-de-los-otros",
+  "titulo": "Los sueños de los otros",
+  "credito": "Mariano Gallardo Pahlen",
+  "lideres": [],
+  "grabacion": {
+    "desde": 2020,
+    "hasta": 2020,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2020,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": null,
+      "nombre": "Mariano Gallardo Pahlen",
+      "instrumento": "líder"
+    }
+  ],
+  "personalNota": "Lista parcial: sale de los créditos de Spotify.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Diez temas de Mariano Gallardo Pahlen, entre \"Las mañanas\" y \"Vagabundo Hi-Fi\". El disco está en Spotify en dos ediciones del mismo año; acá se usa la primera. Es parte de la escena uruguaya reciente que el banco suma desde la discoteca de Yoana."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Las Mañanas",
+      "duracion": 307
+    },
+    {
+      "titulo": "Lluvia",
+      "duracion": 299
+    },
+    {
+      "titulo": "Marina (Es Tan Fácil)",
+      "duracion": 212
+    },
+    {
+      "titulo": "La Flor Que Alumbra",
+      "duracion": 251
+    },
+    {
+      "titulo": "Mistery Decís",
+      "duracion": 382
+    },
+    {
+      "titulo": "Nuevas Luciérnagas",
+      "duracion": 196
+    },
+    {
+      "titulo": "Los Sueños de los Otros",
+      "duracion": 359
+    },
+    {
+      "titulo": "Será Que Es Así",
+      "duracion": 315
+    },
+    {
+      "titulo": "Lo Que Va a Venir",
+      "duracion": 299
+    },
+    {
+      "titulo": "Vagabundo Hi-Fi",
+      "duracion": 406
+    }
+  ],
+  "temasFuente": "Spotify"
+}

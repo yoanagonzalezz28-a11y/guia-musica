@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Fusion Jimmy Giuffre"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4bgwKOuwonVhlQgzG0eGdv",
+    "via": "musicbrainz"
   },
   "id": "fusion",
   "titulo": "Fusion",
@@ -44,7 +45,7 @@
     "free"
   ],
   "comentario": [
-    "Trío con Paul Bley y Steve Swallow: libre, de cámara y muy delicado."
+    "Trío con Paul Bley y Steve Swallow: libre, de cámara y muy delicado. El trío de Giuffre toca sin batería, con el clarinete, el piano y el contrabajo improvisando con mucho espacio y delicadeza. Es el disco clave de Jimmy Giuffre en la etapa \"Free jazz\"."
   ],
   "ids": {
     "musicbrainz": null,

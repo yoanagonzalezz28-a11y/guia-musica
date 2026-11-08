@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Djangology Django Reinhardt"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5KA4qjH3yd5h1EP5rxy0ua",
+    "tituloEnSpotify": "Djangology 49",
+    "via": "busqueda-spotify"
   },
   "id": "djangology",
   "titulo": "Djangology",
@@ -50,7 +52,7 @@
     "swing"
   ],
   "comentario": [
-    "Grabaciones de 1949 en Roma con Stéphane Grappelli, reunidos por última vez: guitarra rapidísima y violín lírico."
+    "Grabaciones de 1949 en Roma con Stéphane Grappelli, reunidos por última vez: guitarra rapidísima y violín lírico. Reinhardt toca con un grupo italiano, y el violín de Grappelli suena tan lírico como en los años 30. Es uno de los discos que el banco propone para empezar con Jazz manouche."
   ],
   "ids": {
     "musicbrainz": null,

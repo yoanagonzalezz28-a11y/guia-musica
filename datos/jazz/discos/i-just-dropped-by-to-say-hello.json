@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "I Just Dropped By to Say Hello Johnny Hartman"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F",
+    "via": "musicbrainz"
   },
   "id": "i-just-dropped-by-to-say-hello",
   "titulo": "I Just Dropped By to Say Hello",
@@ -44,7 +45,7 @@
     "modal"
   ],
   "comentario": [
-    "Con Illinois Jacquet y Hank Jones."
+    "Con Illinois Jacquet y Hank Jones. Hartman canta con su voz grave y aterciopelada, con un grupo de jazz en baladas. Es el disco clave de Johnny Hartman en la etapa \"Jazz modal\"."
   ],
   "ids": {
     "musicbrainz": null,

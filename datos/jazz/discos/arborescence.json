@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Arborescence Aaron Parks"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0H2PGA1jUGuUQgxdW3Oyzn",
+    "via": "musicbrainz"
   },
   "id": "arborescence",
   "titulo": "Arborescence",
@@ -44,7 +45,7 @@
     "ecm"
   ],
   "comentario": [
-    "Piano solo improvisado."
+    "Piano solo improvisado. Parks improvisa solo, sin temas previos, y deja que cada pieza crezca a partir de una idea pequeña. Es el disco clave de Aaron Parks en la etapa \"ECM y jazz europeo\"."
   ],
   "ids": {
     "musicbrainz": null,

@@ -1,0 +1,59 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "sudafrica"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "The Offering Thandi Ntuli"
+  },
+  "id": "the-offering-ntuli",
+  "titulo": "The Offering",
+  "credito": "Thandi Ntuli",
+  "lideres": [
+    "ntuli"
+  ],
+  "grabacion": {
+    "desde": 2014,
+    "hasta": 2014,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2014,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "ntuli",
+      "nombre": "Thandi Ntuli",
+      "instrumento": "piano, voz, composición"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "El debut de la pianista y cantante sudafricana, con un grupo de la escena de Johannesburgo. Piano de raíz gospel y del jazz sudafricano, con temas largos y voces. Es el punto de partida de una carrera que después llegó al sello International Anthem."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "mb-thandi-ntuli"
+  ]
+}

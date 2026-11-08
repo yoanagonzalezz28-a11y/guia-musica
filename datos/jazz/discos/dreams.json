@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Dreams Gábor Szabó"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5yYe4JhfGHiTIPWs2AuoMJ",
+    "via": "musicbrainz"
   },
   "id": "dreams",
   "titulo": "Dreams",
@@ -44,7 +45,7 @@
     "souljazz"
   ],
   "comentario": [
-    "Con arreglos de Gary McFarland."
+    "Con arreglos de Gary McFarland. Szabó toca la guitarra con un sonido hipnótico sobre arreglos de cuerdas y vientos de Gary McFarland. Está entre los discos esenciales de Gábor Szabó."
   ],
   "ids": {
     "musicbrainz": null,

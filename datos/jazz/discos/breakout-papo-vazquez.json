@@ -1,0 +1,59 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "puerto-rico"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Breakout Papo Vázquez"
+  },
+  "id": "breakout-papo-vazquez",
+  "titulo": "Breakout",
+  "credito": "Papo Vázquez",
+  "lideres": [
+    "papo-vazquez"
+  ],
+  "grabacion": {
+    "desde": 1992,
+    "hasta": 1992,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1992,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "papo-vazquez",
+      "nombre": "Papo Vázquez",
+      "instrumento": "trombón, composición, arreglos"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "latino"
+  ],
+  "comentario": [
+    "Uno de sus primeros discos como líder, con el trombón al frente de un grupo de jazz latino. Ya aparecen los ritmos puertorriqueños que después desarrolló en la bomba jazz. Muestra a un músico que venía de tocar con los grandes de la salsa y el jazz latino."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "wp-papo-vazquez"
+  ]
+}

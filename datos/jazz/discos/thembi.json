@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Thembi Pharoah Sanders"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4Dz5vD2zfKr8OVtIgpcWOy",
+    "via": "musicbrainz"
   },
   "id": "thembi",
   "titulo": "Thembi",
@@ -44,7 +45,7 @@
     "free"
   ],
   "comentario": [
-    "Más melódico, con Lonnie Liston Smith."
+    "Más melódico, con Lonnie Liston Smith. Sanders toca saxos y percusión con Lonnie Liston Smith en piano eléctrico, en temas más melódicos. Es uno de los discos que el banco elige para conocer a Pharoah Sanders."
   ],
   "ids": {
     "musicbrainz": null,

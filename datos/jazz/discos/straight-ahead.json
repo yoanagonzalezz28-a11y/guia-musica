@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Straight Ahead Abbey Lincoln"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7cW8C54Qhb3si63wvwNGNk",
+    "via": "musicbrainz"
   },
   "id": "straight-ahead",
   "titulo": "Straight Ahead",
@@ -44,7 +45,7 @@
     "hard-bop"
   ],
   "comentario": [
-    "Con Eric Dolphy, Coleman Hawkins y Max Roach."
+    "Con Eric Dolphy, Coleman Hawkins y Max Roach. Lincoln canta con Dolphy, Hawkins, Roach y Mal Waldron, en temas sobre la experiencia afroamericana. Es el disco clave de Abbey Lincoln en la etapa \"Hard bop\"."
   ],
   "ids": {
     "musicbrainz": null,

@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Hub-Tones Freddie Hubbard"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4Co2nB4o3ABkSRP0ZCdhfA",
+    "via": "musicbrainz"
   },
   "id": "hub-tones",
   "titulo": "Hub-Tones",
@@ -44,7 +45,7 @@
     "hard-bop"
   ],
   "comentario": [
-    "Hard bop con Herbie Hancock."
+    "Hard bop con Herbie Hancock. Hubbard toca la trompeta con un sonido brillante y James Spaulding en saxo alto y flauta. En la ficha de Freddie Hubbard es el disco que representa la etapa \"Hard bop\"."
   ],
   "ids": {
     "musicbrainz": null,

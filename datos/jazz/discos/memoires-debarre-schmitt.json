@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Mémoires Angelo Debarre y Tchavolo Schmitt"
+  },
+  "id": "memoires-debarre-schmitt",
+  "titulo": "Mémoires",
+  "credito": "Angelo Debarre y Tchavolo Schmitt",
+  "lideres": [
+    "debarre",
+    "tchavolo"
+  ],
+  "grabacion": {
+    "desde": 2004,
+    "hasta": 2004,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2004,
+    "detalle": null
+  },
+  "sello": "Le Chant du Monde",
+  "musicos": [
+    {
+      "musico": "debarre",
+      "nombre": "Angelo Debarre",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": "tchavolo",
+      "nombre": "Tchavolo Schmitt",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "manouche"
+  ],
+  "comentario": [
+    "Dos de los guitarristas más respetados del jazz gitano francés tocan juntos en homenaje a Django Reinhardt. Los solos se alternan como en una conversación entre dos estilos: el de París y el de Alsacia. Es un disco clave para entender el manouche después de Django."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "wp-angelo-debarre"
+  ]
+}

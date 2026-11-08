@@ -1,0 +1,62 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Élégance Stochelo Rosenberg y Romane"
+  },
+  "id": "elegance-stochelo",
+  "titulo": "Élégance",
+  "credito": "Stochelo Rosenberg y Romane",
+  "lideres": [
+    "stochelo"
+  ],
+  "grabacion": {
+    "desde": 2000,
+    "hasta": 2000,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2000,
+    "detalle": null
+  },
+  "sello": "Iris Music",
+  "musicos": [
+    {
+      "musico": "stochelo",
+      "nombre": "Stochelo Rosenberg",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Romane",
+      "instrumento": "guitarra"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "manouche"
+  ],
+  "comentario": [
+    "Dúo de guitarras con el francés Romane, otro maestro del estilo. Los dos se reparten solos y acompañamientos en temas propios y del repertorio de Django. Es el primero de varios discos que grabaron juntos."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "wp-stochelo-rosenberg"
+  ]
+}

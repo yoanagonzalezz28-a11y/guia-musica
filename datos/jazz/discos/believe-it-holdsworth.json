@@ -11,8 +11,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Believe It The New Tony Williams Lifetime"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6BWSXyptptsZmLlj3n8lDD",
+    "via": "musicbrainz"
   },
   "id": "believe-it-holdsworth",
   "titulo": "Believe It",
@@ -40,7 +41,7 @@
     "fusion"
   ],
   "comentario": [
-    "Con Tony Williams: fusión de técnica asombrosa."
+    "Con Tony Williams: fusión de técnica asombrosa. La guitarra de Holdsworth y la batería de Tony Williams llevan la fusión a una precisión casi de rock progresivo. Es uno de los discos que el banco elige para conocer a Allan Holdsworth."
   ],
   "ids": {
     "musicbrainz": null,

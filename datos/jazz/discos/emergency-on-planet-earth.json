@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Emergency on Planet Earth Jamiroquai"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM",
+    "via": "musicbrainz"
   },
   "id": "emergency-on-planet-earth",
   "titulo": "Emergency on Planet Earth",
@@ -44,7 +45,7 @@
     "acid"
   ],
   "comentario": [
-    "Su debut: funk y soul con didgeridoo y una voz cercana a Stevie Wonder."
+    "Su debut: funk y soul con didgeridoo y una voz cercana a Stevie Wonder. Jamiroquai toca funk con bajo, vientos y didgeridoo, con la voz aguda de Jay Kay. En la ficha de Jamiroquai es el disco que representa la etapa \"Acid jazz\"."
   ],
   "ids": {
     "musicbrainz": null,

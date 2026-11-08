@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Diagnostic Ibrahim Maalouf"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6MdotbtdYEV60UBsFtWAMA",
+    "via": "musicbrainz"
   },
   "id": "diagnostic",
   "titulo": "Diagnostic",
@@ -44,7 +45,7 @@
     "mundo"
   ],
   "comentario": [
-    "Jazz, rock y maqam árabe."
+    "Jazz, rock y maqam árabe. Maalouf toca la trompeta de cuartos de tono en temas que mezclan maqams árabes con guitarras eléctricas y baterías de rock. En la ficha de Ibrahim Maalouf es el disco que representa la etapa \"Jazz del mundo\"."
   ],
   "ids": {
     "musicbrainz": null,

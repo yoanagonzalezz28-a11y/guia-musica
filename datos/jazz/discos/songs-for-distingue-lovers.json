@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Songs for Distingué Lovers Billie Holiday"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4aVrAD83svetEEqiANmvmw",
+    "via": "musicbrainz"
   },
   "id": "songs-for-distingue-lovers",
   "titulo": "Songs for Distingué Lovers",
@@ -44,7 +45,7 @@
     "swing"
   ],
   "comentario": [
-    "Con Ben Webster y Harry Edison: elegante y relajado."
+    "Con Ben Webster y Harry Edison: elegante y relajado. Holiday canta con Webster, Edison, Jimmy Rowles y Barney Kessel, en estándares. Es uno de los discos que el banco elige para conocer a Billie Holiday."
   ],
   "ids": {
     "musicbrainz": null,

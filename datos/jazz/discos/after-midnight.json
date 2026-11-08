@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "After Midnight Nat King Cole"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81",
+    "via": "musicbrainz"
   },
   "id": "after-midnight",
   "titulo": "After Midnight",
@@ -44,7 +45,7 @@
     "swing"
   ],
   "comentario": [
-    "Vuelve al jazz con su trío e invitados como Harry Edison: el disco preferido de los jazzeros."
+    "Vuelve al jazz con su trío e invitados como Harry Edison: el disco preferido de los jazzeros. Cole canta y toca el piano con su trío, y cada tema suma un solista invitado como Harry Edison, Willie Smith o Stuff Smith. En la ficha de Nat King Cole es el disco que representa la etapa \"Swing\"."
   ],
   "ids": {
     "musicbrainz": null,

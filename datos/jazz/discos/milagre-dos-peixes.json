@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Milagre dos Peixes Milton Nascimento"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1LnLV4d5u0x3f7a3DOrmLd",
+    "via": "musicbrainz"
   },
   "id": "milagre-dos-peixes",
   "titulo": "Milagre dos Peixes",
@@ -44,7 +45,7 @@
     "brasil"
   ],
   "comentario": [
-    "Casi sin letras por la censura: voces, orquesta y percusión."
+    "Casi sin letras por la censura: voces, orquesta y percusión. Nascimento canta casi sin palabras, con orquesta y percusión, porque la censura de la dictadura prohibió varias letras. Es uno de los discos que el banco elige para conocer a Milton Nascimento."
   ],
   "ids": {
     "musicbrainz": null,

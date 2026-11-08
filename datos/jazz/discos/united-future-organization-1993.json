@@ -1,0 +1,59 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "japon"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "United Future Organization United Future Organization"
+  },
+  "id": "united-future-organization-1993",
+  "titulo": "United Future Organization",
+  "credito": "United Future Organization",
+  "lideres": [
+    "ufo"
+  ],
+  "grabacion": {
+    "desde": 1993,
+    "hasta": 1993,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1993,
+    "detalle": null
+  },
+  "sello": "Brownswood",
+  "musicos": [
+    {
+      "musico": "ufo",
+      "nombre": "United Future Organization",
+      "instrumento": "grupo"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "acid"
+  ],
+  "comentario": [
+    "El primer disco del trío de Tokio: samples de jazz, ritmos latinos y bases electrónicas para la pista de baile. Muestra que la escena del acid jazz no era solo londinense. Fue uno de los puntos de partida del nu jazz japonés."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "wp-united-future-organization"
+  ]
+}

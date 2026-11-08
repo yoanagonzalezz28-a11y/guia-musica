@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Street of Minarets Dhafer Youssef"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6WYbU1sKldxrr2utsPRbKx",
+    "via": "musicbrainz"
   },
   "id": "street-of-minarets",
   "titulo": "Street of Minarets",
@@ -44,7 +45,7 @@
     "mundo"
   ],
   "comentario": [
-    "Con Herbie Hancock y Marcus Miller."
+    "Con Herbie Hancock y Marcus Miller. Youssef toca el oud y canta con Hancock, Miller y otros invitados, en temas largos. En la ficha de Dhafer Youssef es el disco que representa la etapa \"Jazz del mundo\"."
   ],
   "ids": {
     "musicbrainz": null,

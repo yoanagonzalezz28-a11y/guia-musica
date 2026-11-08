@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Matita Perê Antônio Carlos Jobim"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7LJOuD7HKheBaHwwv0i3TF",
+    "via": "musicbrainz"
   },
   "id": "matita-pere",
   "titulo": "Matita Perê",
@@ -44,7 +45,7 @@
     "brasil"
   ],
   "comentario": [
-    "Su disco más ambicioso: \"Águas de Março\" y piezas orquestales."
+    "Su disco más ambicioso: \"Águas de Março\" y piezas orquestales. Jobim canta y toca con arreglos de Claus Ogerman y Dori Caymmi, en piezas largas que se acercan a la música de cámara. Es uno de los discos que el banco elige para conocer a Antônio Carlos Jobim."
   ],
   "ids": {
     "musicbrainz": null,

@@ -11,8 +11,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Michel Plays Petrucciani Michel Petrucciani"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4nsFVlrtJhSGGPAoSrzwk3",
+    "via": "musicbrainz"
   },
   "id": "michel-plays-petrucciani",
   "titulo": "Michel Plays Petrucciani",
@@ -42,7 +43,7 @@
     "hoy"
   ],
   "comentario": [
-    "Sus propios temas."
+    "Sus propios temas. Petrucciani toca el piano con un toque muy potente y claro, en temas propios con grupo. Está entre los discos esenciales de Michel Petrucciani."
   ],
   "ids": {
     "musicbrainz": null,

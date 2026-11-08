@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Full House Wes Montgomery"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0rhsS0MBfCmMcyHIj2J0n7",
+    "via": "musicbrainz"
   },
   "id": "full-house",
   "titulo": "Full House",
@@ -44,7 +45,7 @@
     "hard-bop"
   ],
   "comentario": [
-    "En vivo en Berkeley con Johnny Griffin y el trío de Miles: su guitarra en octavas a pleno."
+    "En vivo en Berkeley con Johnny Griffin y el trío de Miles: su guitarra en octavas a pleno. Montgomery toca en vivo con Wynton Kelly, Paul Chambers y Jimmy Cobb, y su guitarra en octavas se luce en solos largos. Está entre los discos esenciales de Wes Montgomery."
   ],
   "ids": {
     "musicbrainz": null,

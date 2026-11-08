@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "StandArt Tigran Hamasyan"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1j9abB0wpxOjBxSmdeNIbP",
+    "via": "musicbrainz"
   },
   "id": "standart",
   "titulo": "StandArt",
@@ -44,7 +45,7 @@
     "hoy"
   ],
   "comentario": [
-    "Estándares de jazz reinventados, con Mark Turner y Joshua Redman."
+    "Estándares de jazz reinventados, con Mark Turner y Joshua Redman. Hamasyan toca el piano en trío con invitados, en estándares con ritmos complejos. Es uno de los discos que el banco elige para conocer a Tigran Hamasyan."
   ],
   "ids": {
     "musicbrainz": null,

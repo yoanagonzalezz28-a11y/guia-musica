@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Inner Urge Joe Henderson"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2Amg9J3U9jEUUJUxCW5OgI",
+    "via": "musicbrainz"
   },
   "id": "inner-urge",
   "titulo": "Inner Urge",
@@ -44,7 +45,7 @@
     "modal"
   ],
   "comentario": [
-    "Con McCoy Tyner y Elvin Jones: el tenor más inquieto de Blue Note, con sus líneas que se retuercen."
+    "Con McCoy Tyner y Elvin Jones: el tenor más inquieto de Blue Note, con sus líneas que se retuercen. Henderson toca el saxo tenor con frases que se retuercen y una base de Tyner, Bob Cranshaw y Jones. Es el disco clave de Joe Henderson en la etapa \"Jazz modal\"."
   ],
   "ids": {
     "musicbrainz": null,

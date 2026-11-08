@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Believe It Tony Williams"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6BWSXyptptsZmLlj3n8lDD",
+    "via": "musicbrainz"
   },
   "id": "believe-it",
   "titulo": "Believe It",
@@ -44,7 +45,7 @@
     "fusion"
   ],
   "comentario": [
-    "Con Allan Holdsworth en guitarra: la fusión más técnica y precisa."
+    "Con Allan Holdsworth en guitarra: la fusión más técnica y precisa. Williams toca la batería con mucha potencia y Holdsworth hace solos de guitarra muy rápidos y fluidos. Está entre los discos esenciales de Tony Williams."
   ],
   "ids": {
     "musicbrainz": null,

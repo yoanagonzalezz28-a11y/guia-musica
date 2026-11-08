@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Heavy Soul Ike Quebec"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1O3Z8nLP338O3qFxJ4nZza",
+    "via": "musicbrainz"
   },
   "id": "heavy-soul",
   "titulo": "Heavy Soul",
@@ -44,7 +45,7 @@
     "souljazz"
   ],
   "comentario": [
-    "Con Freddie Roach en órgano."
+    "Con Freddie Roach en órgano. Quebec toca el saxo tenor con un sonido grueso, y el órgano de Roach le da un clima de iglesia. Es uno de los discos que el banco elige para conocer a Ike Quebec."
   ],
   "ids": {
     "musicbrainz": null,

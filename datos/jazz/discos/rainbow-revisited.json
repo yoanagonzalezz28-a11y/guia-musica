@@ -1,0 +1,64 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "sudafrica"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Rainbow Revisited Thandi Ntuli y Carlos Niño"
+  },
+  "id": "rainbow-revisited",
+  "titulo": "Rainbow Revisited",
+  "credito": "Thandi Ntuli y Carlos Niño",
+  "lideres": [
+    "ntuli"
+  ],
+  "grabacion": {
+    "desde": 2023,
+    "hasta": 2023,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2023,
+    "detalle": null
+  },
+  "sello": "International Anthem",
+  "musicos": [
+    {
+      "musico": "ntuli",
+      "nombre": "Thandi Ntuli",
+      "instrumento": "piano y voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Carlos Niño",
+      "instrumento": "producción y percusión"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "Grabado en dos días en Venice Beach con el productor Carlos Niño: casi todo es piano y voz. Las melodías tienen raíz de gospel sudafricano y el resultado es muy despojado. La crítica lo recibió como su disco más íntimo."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "wp-rainbow-revisited"
+  ]
+}

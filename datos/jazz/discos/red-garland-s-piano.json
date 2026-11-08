@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Red Garland's Piano Red Garland"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d",
+    "via": "musicbrainz"
   },
   "id": "red-garland-s-piano",
   "titulo": "Red Garland's Piano",
@@ -44,7 +45,7 @@
     "hard-bop"
   ],
   "comentario": [
-    "Trío: baladas con acordes en bloque."
+    "Trío: baladas con acordes en bloque. Garland toca el piano en trío con un toque liviano y acordes en bloque. Es uno de los discos que el banco elige para conocer a Red Garland."
   ],
   "ids": {
     "musicbrainz": null,

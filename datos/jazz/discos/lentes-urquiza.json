@@ -1,0 +1,59 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Lentes Juan Cruz de Urquiza Septeto"
+  },
+  "id": "lentes-urquiza",
+  "titulo": "Lentes",
+  "credito": "Juan Cruz de Urquiza Septeto",
+  "lideres": [
+    "urquiza"
+  ],
+  "grabacion": {
+    "desde": 2018,
+    "hasta": 2018,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2018,
+    "detalle": null
+  },
+  "sello": "Club del Disco",
+  "musicos": [
+    {
+      "musico": "urquiza",
+      "nombre": "Juan Cruz de Urquiza",
+      "instrumento": "trompeta, composición, arreglos"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Urquiza con un septeto, con más vientos y arreglos más trabajados. Los temas tienen secciones escritas que se abren a la improvisación. Muestra su lado de compositor y arreglador."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "wpes-juan-cruz-de-urquiza"
+  ]
+}

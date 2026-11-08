@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Silent Tongues Cecil Taylor"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7okST68EPAYGaRfBst4X6n",
+    "via": "musicbrainz"
   },
   "id": "silent-tongues",
   "titulo": "Silent Tongues",
@@ -44,7 +45,7 @@
     "free"
   ],
   "comentario": [
-    "Piano solo en Montreux: un torrente de energía."
+    "Piano solo en Montreux: un torrente de energía. Taylor toca el piano solo en vivo, con torrentes de notas y momentos líricos. En la ficha de Cecil Taylor es el disco que representa la etapa \"Free jazz\"."
   ],
   "ids": {
     "musicbrainz": null,

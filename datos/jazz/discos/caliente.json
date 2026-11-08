@@ -14,8 +14,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Caliente! Gato Barbieri"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/17oSUI6vpboO1NZtXVmHuf",
+    "via": "musicbrainz"
   },
   "id": "caliente",
   "titulo": "Caliente!",
@@ -45,7 +46,7 @@
     "rioplat"
   ],
   "comentario": [
-    "Producido por Herb Alpert: el Barbieri más popular, con \"Europa\" de Santana."
+    "Producido por Herb Alpert: el Barbieri más popular, con \"Europa\" de Santana. Barbieri toca el tenor con un sonido cálido y gritado sobre arreglos de pop latino y funk de los 70. En la ficha de Gato Barbieri es el disco que representa la etapa \"Caliente! y el pop latino\"."
   ],
   "ids": {
     "musicbrainz": null,

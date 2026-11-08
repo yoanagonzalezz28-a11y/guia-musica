@@ -1,0 +1,52 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "urquiza",
+  "nombre": "Juan Cruz de Urquiza",
+  "nacimiento": {
+    "anio": 1965,
+    "lugar": "Buenos Aires"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "trompeta",
+    "composición",
+    "arreglos"
+  ],
+  "corrientes": [
+    "rioplat"
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "spotify": null,
+  "resumen": "Trompetista, compositor, arreglador y docente porteño. Estudió en Berklee entre 1991 y 1993 y al volver colideró el Quinteto Urbano y tocó con Guillermo Klein, Hernán Merlo y Ricardo Nolé.[^wpes-juan-cruz-de-urquiza]",
+  "epocas": [
+    {
+      "titulo": "Sus grupos",
+      "desde": 2007,
+      "hasta": 2018,
+      "texto": "Grabó con cuarteto y septeto, y un disco a dúo con la cantante Ligia Piro.[^wpes-juan-cruz-de-urquiza]",
+      "discoClave": {
+        "disco": "vigilia-urquiza",
+        "explicacion": "El cuarteto con la trompeta al frente."
+      },
+      "discos": [
+        "strange-fruit-piro-urquiza",
+        "lentes-urquiza"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wpes-juan-cruz-de-urquiza"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "vigilia-urquiza",
+    "strange-fruit-piro-urquiza",
+    "lentes-urquiza"
+  ]
+}

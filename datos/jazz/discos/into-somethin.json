@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Into Somethin' Larry Young"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6jz1LVL5ZczIGFMvuluVqy",
+    "via": "musicbrainz"
   },
   "id": "into-somethin",
   "titulo": "Into Somethin'",
@@ -44,7 +45,7 @@
     "modal"
   ],
   "comentario": [
-    "Con Grant Green y Sam Rivers: el paso del soul jazz a lo modal."
+    "Con Grant Green y Sam Rivers: el paso del soul jazz a lo modal. Young toca el órgano con un estilo influido por Coltrane, con Green en guitarra y Rivers en saxo. Es el disco clave de Larry Young en la etapa \"Jazz modal\"."
   ],
   "ids": {
     "musicbrainz": null,

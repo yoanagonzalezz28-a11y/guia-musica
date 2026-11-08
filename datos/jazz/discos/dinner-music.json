@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Dinner Music Carla Bley"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2mnNMjyJEwg3sosMz5IcwQ",
+    "via": "musicbrainz"
   },
   "id": "dinner-music",
   "titulo": "Dinner Music",
@@ -44,7 +45,7 @@
     "fusion"
   ],
   "comentario": [
-    "Con músicos de soul y funk: humor y groove."
+    "Con músicos de soul y funk: humor y groove. Bley escribe temas con humor para un grupo con músicos de la banda Stuff, como Richard Tee y Steve Gadd. Es el disco clave de Carla Bley en la etapa \"Fusión\"."
   ],
   "ids": {
     "musicbrainz": null,

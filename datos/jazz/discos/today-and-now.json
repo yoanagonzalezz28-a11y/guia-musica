@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Today and Now Coleman Hawkins"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4c0LKvyOYloadl5pezO07S",
+    "via": "musicbrainz"
   },
   "id": "today-and-now",
   "titulo": "Today and Now",
@@ -44,7 +45,7 @@
     "swing"
   ],
   "comentario": [
-    "Cuarteto con Tommy Flanagan: un Hawkins sereno, de sonido enorme, que no necesita correr."
+    "Cuarteto con Tommy Flanagan: un Hawkins sereno, de sonido enorme, que no necesita correr. Hawkins toca el saxo tenor con Flanagan, Major Holley y Eddie Locke, en temas medios. Está entre los discos esenciales de Coleman Hawkins."
   ],
   "ids": {
     "musicbrainz": null,

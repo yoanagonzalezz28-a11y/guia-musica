@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Ojos negros Dino Saluzzi"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0IwPKEBZn0xaWEZ7PHpcdY",
+    "via": "musicbrainz"
   },
   "id": "ojos-negros",
   "titulo": "Ojos negros",
@@ -44,7 +45,7 @@
     "rioplat"
   ],
   "comentario": [
-    "Dúo con la violonchelista Anja Lechner."
+    "Dúo con la violonchelista Anja Lechner. Saluzzi toca el bandoneón y Lechner el violonchelo, en temas lentos y melancólicos. Está entre los discos esenciales de Dino Saluzzi."
   ],
   "ids": {
     "musicbrainz": null,

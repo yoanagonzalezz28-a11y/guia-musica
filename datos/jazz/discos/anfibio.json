@@ -1,0 +1,157 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
+    }
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4lkJvyAmTm7hgqdDAoHrhh",
+    "tituloEnSpotify": "Anfibio",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "anfibio",
+  "titulo": "Anfibio",
+  "credito": "Nicolás Ibarburu",
+  "lideres": [
+    "ibarburu"
+  ],
+  "grabacion": {
+    "desde": 2009,
+    "hasta": 2009,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2009,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "ibarburu",
+      "nombre": "Nicolás Ibarburu",
+      "instrumento": "guitarra y voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Luis Alberto Spinetta",
+      "instrumento": "invitado"
+    },
+    {
+      "musico": "fattoruso",
+      "nombre": "Hugo Fattoruso",
+      "instrumento": "invitado"
+    },
+    {
+      "musico": "malosetti",
+      "nombre": "Javier Malosetti",
+      "instrumento": "invitado"
+    },
+    {
+      "musico": "jacinto",
+      "nombre": "Hernán Jacinto",
+      "instrumento": "invitado"
+    },
+    {
+      "musico": null,
+      "nombre": "Julieta Rada",
+      "instrumento": "invitada"
+    },
+    {
+      "musico": null,
+      "nombre": "Julio Cobelli",
+      "instrumento": "invitado"
+    },
+    {
+      "musico": null,
+      "nombre": "Guillermo Vadalá",
+      "instrumento": "invitado"
+    },
+    {
+      "musico": null,
+      "nombre": "Martín Buscaglia",
+      "instrumento": "invitado"
+    }
+  ],
+  "personalNota": "Lista parcial: sale de los créditos de Spotify.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Este disco solista reúne a invitados de los dos lados del río: Luis Alberto Spinetta, Hugo Fattoruso, Javier Malosetti, Hernán Jacinto y Julieta Rada, entre otros. Hay canciones, temas instrumentales y una versión de \"Cissy Strut\", de The Meters. Muestra a un guitarrista que viene de acompañar a todos y acá arma su propio mundo, entre el rock, el funk y el candombe."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "wpes-nicolas-ibarburu"
+  ],
+  "temas": [
+    {
+      "titulo": "Infinitas Veces",
+      "duracion": 228
+    },
+    {
+      "titulo": "Despierta",
+      "duracion": 363
+    },
+    {
+      "titulo": "Espejismo",
+      "duracion": 216
+    },
+    {
+      "titulo": "Cissy Strut",
+      "duracion": 158
+    },
+    {
+      "titulo": "Templando Momentos",
+      "duracion": 301
+    },
+    {
+      "titulo": "Amainará",
+      "duracion": 288
+    },
+    {
+      "titulo": "Sham Time",
+      "duracion": 269
+    },
+    {
+      "titulo": "Otra Así",
+      "duracion": 148
+    },
+    {
+      "titulo": "El Perfume",
+      "duracion": 374
+    },
+    {
+      "titulo": "Lobo War",
+      "duracion": 238
+    },
+    {
+      "titulo": "Luna Turqueza",
+      "duracion": 355
+    },
+    {
+      "titulo": "Valentín",
+      "duracion": 82
+    }
+  ],
+  "temasFuente": "Spotify"
+}

@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Deciphering the Message Makaya McCraven"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ",
+    "via": "musicbrainz"
   },
   "id": "deciphering-the-message",
   "titulo": "Deciphering the Message",
@@ -44,7 +45,7 @@
     "hoy"
   ],
   "comentario": [
-    "Remezcla de clásicos de Blue Note con músicos actuales."
+    "Remezcla de clásicos de Blue Note con músicos actuales. McCraven toma grabaciones de Blue Note, las corta y las vuelve a armar con músicos actuales, como un productor de hip hop. Está entre los discos esenciales de Makaya McCraven."
   ],
   "ids": {
     "musicbrainz": null,

@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Mockroot Tigran Hamasyan"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/59AeaIeAx6S2igYJFjltRE",
+    "via": "musicbrainz"
   },
   "id": "mockroot",
   "titulo": "Mockroot",
@@ -44,7 +45,7 @@
     "hoy"
   ],
   "comentario": [
-    "Folclore armenio, rock progresivo y metal en un piano trío."
+    "Folclore armenio, rock progresivo y metal en un piano trío. Hamasyan toca el piano en trío con melodías armenias, ritmos de metal y teclados electrónicos. Está entre los discos esenciales de Tigran Hamasyan."
   ],
   "ids": {
     "musicbrainz": null,

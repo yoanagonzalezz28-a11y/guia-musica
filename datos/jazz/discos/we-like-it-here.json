@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "We Like It Here Snarky Puppy"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4GzjQ0xXRlLl78ih481BUi",
+    "via": "musicbrainz"
   },
   "id": "we-like-it-here",
   "titulo": "We Like It Here",
@@ -44,7 +45,7 @@
     "fusion"
   ],
   "comentario": [
-    "Grabado en Holanda: groove, funk y fusión con mucha energía."
+    "Grabado en Holanda: groove, funk y fusión con mucha energía. Snarky Puppy toca en vivo en un estudio con público, con muchos teclados, vientos y percusión. En la ficha de Snarky Puppy es el disco que representa la etapa \"Fusión\"."
   ],
   "ids": {
     "musicbrainz": null,

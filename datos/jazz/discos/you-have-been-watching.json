@@ -1,0 +1,64 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "reino-unido"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "You Have Been Watching Mother Earth"
+  },
+  "id": "you-have-been-watching",
+  "titulo": "You Have Been Watching",
+  "credito": "Mother Earth",
+  "lideres": [
+    "mother-earth"
+  ],
+  "grabacion": {
+    "desde": 1995,
+    "hasta": 1995,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1995,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "mother-earth",
+      "nombre": "Mother Earth",
+      "instrumento": "grupo"
+    },
+    {
+      "musico": null,
+      "nombre": "Matt Deighton",
+      "instrumento": "guitarra y voz"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "acid"
+  ],
+  "comentario": [
+    "El tercer y último disco de estudio, antes de la separación en 1996. Las canciones pesan más que los temas para bailar. Cierra el ciclo de una de las bandas más tocadas en los clubes del acid jazz."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "wp-mother-earth-band"
+  ]
+}

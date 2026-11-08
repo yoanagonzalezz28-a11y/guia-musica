@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Black, Brown and Beautiful Oliver Nelson"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2d5TPrN0Lpg2as1O5fRWdA",
+    "via": "musicbrainz"
   },
   "id": "black-brown-and-beautiful",
   "titulo": "Black, Brown and Beautiful",
@@ -44,7 +45,7 @@
     "hard-bop"
   ],
   "comentario": [
-    "Big band en homenaje a Martin Luther King."
+    "Big band en homenaje a Martin Luther King. Nelson escribe para una big band con sonido de los 70, mezclando hard bop, soul y un tono de duelo. Es el disco clave de Oliver Nelson en la etapa \"Hard bop\"."
   ],
   "ids": {
     "musicbrainz": null,

@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Another Mind Hiromi"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4fR0ysJcJrhX2WlZGu7TvP",
+    "via": "musicbrainz"
   },
   "id": "another-mind",
   "titulo": "Another Mind",
@@ -44,7 +45,7 @@
     "hoy"
   ],
   "comentario": [
-    "Su debut."
+    "Su debut. Hiromi, pianista japonesa formada en Berklee, ya muestra la velocidad y el humor que después se volvieron su sello. Es el disco clave de Hiromi en la etapa \"Jazz de hoy\"."
   ],
   "ids": {
     "musicbrainz": null,

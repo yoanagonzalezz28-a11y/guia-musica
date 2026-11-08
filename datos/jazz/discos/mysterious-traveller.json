@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Mysterious Traveller Weather Report"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2JARH6A2TX28OzcPwJnD1p",
+    "via": "musicbrainz"
   },
   "id": "mysterious-traveller",
   "titulo": "Mysterious Traveller",
@@ -42,7 +43,7 @@
     "fusion"
   ],
   "comentario": [
-    "Weather Report en su etapa más experimental."
+    "Weather Report en su etapa más experimental. Weather Report toca temas con sintetizadores, percusión y saxo, con un sonido muy experimental. Está entre los discos esenciales de Joe Zawinul."
   ],
   "ids": {
     "musicbrainz": null,

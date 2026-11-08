@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Feeding the Machine Binker and Moses"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/03CWEGnnMN2Xlfgkb6QZ0C",
+    "via": "musicbrainz"
   },
   "id": "feeding-the-machine",
   "titulo": "Feeding the Machine",
@@ -44,7 +45,7 @@
     "hoy"
   ],
   "comentario": [
-    "Con electrónica en vivo de Max Luthert."
+    "Con electrónica en vivo de Max Luthert. Golding y Boyd tocan saxo y batería, y Luthert procesa el sonido en vivo con cintas y electrónica. Es el disco clave de Binker and Moses en la etapa \"Jazz de hoy\"."
   ],
   "ids": {
     "musicbrainz": null,

@@ -1,0 +1,50 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "mother-earth",
+  "nombre": "Mother Earth",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "grupo"
+  ],
+  "corrientes": [
+    "acid"
+  ],
+  "regiones": [
+    "reino-unido"
+  ],
+  "spotify": null,
+  "resumen": "Grupo de acid jazz de Londres, con Matt Deighton en guitarra y voz, Bryn Barklam en órgano Hammond, Chris White en batería y Neil Corcoran en bajo. Empezó en 1991 como proyecto de estudio, con Paul Weller entre los invitados, y en su primer show tocó junto a otro debutante: Jamiroquai. Se separó en 1996.[^wp-mother-earth-band]",
+  "epocas": [
+    {
+      "titulo": "Acid Jazz",
+      "desde": 1992,
+      "hasta": 1995,
+      "texto": "Grabaron tres discos de estudio, del soul con Hammond a un rock con groove.[^wp-mother-earth-band]",
+      "discoClave": {
+        "disco": "stoned-woman",
+        "explicacion": "El debut, con Shauna Green en la voz."
+      },
+      "discos": [
+        "the-people-tree",
+        "you-have-been-watching"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-mother-earth-band"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "stoned-woman",
+    "the-people-tree",
+    "you-have-been-watching"
+  ]
+}

@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "This Moment Shakti"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/283JCZJcJLqUYohOHMFuyI",
+    "via": "musicbrainz"
   },
   "id": "this-moment",
   "titulo": "This Moment",
@@ -47,7 +48,7 @@
     "mundo"
   ],
   "comentario": [
-    "El regreso de Shakti, que ganó un Grammy."
+    "El regreso de Shakti, que ganó un Grammy. McLaughlin, Hussain, Shankar Mahadevan, Ganesh Rajagopalan y Selvaganesh tocan guitarra, tabla, voz, violín y kanjira. Es uno de los discos que el banco elige para conocer a L. Shankar."
   ],
   "ids": {
     "musicbrainz": null,

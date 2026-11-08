@@ -1,0 +1,120 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
+    }
+  ],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4CIuzD5WD4LB1DKjj3Umcp",
+    "tituloEnSpotify": "Ambar",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "ambar-camila-meza",
+  "titulo": "Ambar",
+  "credito": "Camila Meza & The Nectar Orchestra",
+  "lideres": [
+    "meza"
+  ],
+  "grabacion": {
+    "desde": 2019,
+    "hasta": 2019,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2019,
+    "detalle": null
+  },
+  "sello": "Sony Masterworks",
+  "musicos": [
+    {
+      "musico": "meza",
+      "nombre": "Camila Meza",
+      "instrumento": "guitarra y voz"
+    },
+    {
+      "musico": null,
+      "nombre": "The Nectar Orchestra",
+      "instrumento": "octeto con cuerdas"
+    }
+  ],
+  "personalNota": "Lista parcial: sale de los créditos de Spotify.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Meza con su octeto de cuerdas y vientos, The Nectar Orchestra. Junto a temas propios hay versiones de \"This Is Not America\", de David Bowie y Pat Metheny, de \"Milagre dos peixes\", de Milton Nascimento, y de \"Cucurrucucú paloma\". Es su disco más ambicioso: canción latinoamericana con arreglos de cámara."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "wp-camila-meza"
+  ],
+  "temas": [
+    {
+      "titulo": "Kallfu",
+      "duracion": 290
+    },
+    {
+      "titulo": "Waltz #1",
+      "duracion": 264
+    },
+    {
+      "titulo": "Awaken",
+      "duracion": 397
+    },
+    {
+      "titulo": "This is Not America",
+      "duracion": 326
+    },
+    {
+      "titulo": "Olha Maria",
+      "duracion": 313
+    },
+    {
+      "titulo": "Atardecer",
+      "duracion": 279
+    },
+    {
+      "titulo": "All Your Colors",
+      "duracion": 291
+    },
+    {
+      "titulo": "Milagre dos Peixes",
+      "duracion": 292
+    },
+    {
+      "titulo": "Interlude",
+      "duracion": 52
+    },
+    {
+      "titulo": "Ambar",
+      "duracion": 301
+    },
+    {
+      "titulo": "Fall",
+      "duracion": 314
+    },
+    {
+      "titulo": "Cucurrucucu Paloma",
+      "duracion": 260
+    }
+  ],
+  "temasFuente": "Spotify"
+}

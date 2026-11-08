@@ -1,0 +1,48 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "tchavolo",
+  "nombre": "Tchavolo Schmitt",
+  "nacimiento": {
+    "anio": 1954,
+    "lugar": "París"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "guitarra"
+  ],
+  "corrientes": [
+    "manouche"
+  ],
+  "regiones": [],
+  "spotify": null,
+  "resumen": "Guitarrista gitano nacido en París y radicado en Estrasburgo. Tocó en grupos de los 70, se alejó del circuito profesional y volvió con su primer disco solista en 2000. Actuó como Miraldo en la película Swing, de Tony Gatlif.[^wp-tchavolo-schmitt]",
+  "epocas": [
+    {
+      "titulo": "El regreso",
+      "desde": 2000,
+      "hasta": 2008,
+      "texto": "Después de años tocando lejos de los escenarios grandes, grabó a su nombre y con Angelo Debarre.[^wp-tchavolo-schmitt]",
+      "discoClave": {
+        "disco": "alors-voila",
+        "explicacion": "Su primer disco solista, que lo devolvió al mapa del manouche."
+      },
+      "discos": [
+        "memoires-debarre-schmitt",
+        "miri-familia"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-tchavolo-schmitt"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "alors-voila",
+    "memoires-debarre-schmitt",
+    "miri-familia"
+  ]
+}

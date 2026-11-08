@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Conquistador! Cecil Taylor"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/69OZHsomLpQigZdQuTWHqx",
+    "via": "musicbrainz"
   },
   "id": "conquistador",
   "titulo": "Conquistador!",
@@ -44,7 +45,7 @@
     "free"
   ],
   "comentario": [
-    "Con Bill Dixon: dos piezas largas, densas y torrenciales."
+    "Con Bill Dixon: dos piezas largas, densas y torrenciales. Taylor toca con un sexteto en el que la trompeta de Dixon y el piano se cruzan en torrentes de notas. Está entre los discos esenciales de Cecil Taylor."
   ],
   "ids": {
     "musicbrainz": null,

@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Bitches Nicholas Payton"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6k7fEsWUaj3c0rzUPPQsSU",
+    "via": "musicbrainz"
   },
   "id": "bitches",
   "titulo": "Bitches",
@@ -44,7 +45,7 @@
     "hoy"
   ],
   "comentario": [
-    "Lo hace todo él solo: neo soul, jazz y voces."
+    "Lo hace todo él solo: neo soul, jazz y voces. Payton canta, toca la trompeta y todos los demás instrumentos en canciones de amor con sonido de soul de los 70. Es el disco clave de Nicholas Payton en la etapa \"Jazz de hoy\"."
   ],
   "ids": {
     "musicbrainz": null,

@@ -1,0 +1,118 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
+    }
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3o9TUgf536Ggcd7zvx8F3y",
+    "tituloEnSpotify": "Uruguayan Jazz",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "uruguayan-jazz",
+  "titulo": "Uruguayan Jazz",
+  "credito": "Gustavo Casenave",
+  "lideres": [],
+  "grabacion": {
+    "desde": 2024,
+    "hasta": 2024,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2024,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": null,
+      "nombre": "Gustavo Casenave",
+      "instrumento": "líder"
+    },
+    {
+      "musico": null,
+      "nombre": "Franco Pinna",
+      "instrumento": "invitado"
+    },
+    {
+      "musico": null,
+      "nombre": "Sebastián de Urquiza",
+      "instrumento": "invitado"
+    }
+  ],
+  "personalNota": "Lista parcial: sale de los créditos de Spotify.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Once temas propios de Gustavo Casenave, con Franco Pinna y Sebastián de Urquiza entre los invitados. Títulos como \"Bajar la pelota\" o \"El nuevo 24\" muestran el humor local dentro de un disco que se presenta, sin rodeos, como jazz uruguayo. Es uno de los discos más recientes de la escena de Montevideo en el banco."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "temas": [
+    {
+      "titulo": "Ingeniero",
+      "duracion": 693
+    },
+    {
+      "titulo": "El Glosironte",
+      "duracion": 442
+    },
+    {
+      "titulo": "Dark",
+      "duracion": 309
+    },
+    {
+      "titulo": "Freedom Changes",
+      "duracion": 278
+    },
+    {
+      "titulo": "Bajar La Pelota",
+      "duracion": 303
+    },
+    {
+      "titulo": "El Nuevo 24",
+      "duracion": 466
+    },
+    {
+      "titulo": "Green Ritual",
+      "duracion": 392
+    },
+    {
+      "titulo": "Odd and Even",
+      "duracion": 483
+    },
+    {
+      "titulo": "Nube De Fe",
+      "duracion": 331
+    },
+    {
+      "titulo": "Mi Verdad",
+      "duracion": 351
+    },
+    {
+      "titulo": "Los Que Quedan",
+      "duracion": 289
+    }
+  ],
+  "temasFuente": "Spotify"
+}

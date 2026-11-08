@@ -1,0 +1,134 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
+    }
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/00NcFtGRPXcZZDkj8Uuiou",
+    "tituloEnSpotify": "La Ruta de la Seda",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "la-ruta-de-la-seda",
+  "titulo": "La ruta de la seda",
+  "credito": "Nicolás Ibarburu",
+  "lideres": [
+    "ibarburu"
+  ],
+  "grabacion": {
+    "desde": 2025,
+    "hasta": 2025,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2025,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "ibarburu",
+      "nombre": "Nicolás Ibarburu",
+      "instrumento": "guitarra y voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Julieta Rada",
+      "instrumento": "invitada"
+    },
+    {
+      "musico": null,
+      "nombre": "Nadia Larcher",
+      "instrumento": "invitada"
+    },
+    {
+      "musico": null,
+      "nombre": "Sebastián Macchi",
+      "instrumento": "invitado"
+    },
+    {
+      "musico": null,
+      "nombre": "Hernán Peyrou",
+      "instrumento": "invitado"
+    },
+    {
+      "musico": null,
+      "nombre": "Edu Lombardo",
+      "instrumento": "invitado"
+    }
+  ],
+  "personalNota": "Lista parcial: sale de los créditos de Spotify.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Su disco más reciente, con voces invitadas como Julieta Rada y Nadia Larcher, y el pianista Sebastián Macchi. Las canciones tienen un tono más calmo y viajero, como anuncia el título. Muestra hacia dónde va hoy uno de los músicos más presentes de la escena uruguaya."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "wpes-nicolas-ibarburu"
+  ],
+  "temas": [
+    {
+      "titulo": "La Ruta de la Seda",
+      "duracion": 312
+    },
+    {
+      "titulo": "Dulce Herida",
+      "duracion": 232
+    },
+    {
+      "titulo": "Perfume de Alanis",
+      "duracion": 257
+    },
+    {
+      "titulo": "Aparecido",
+      "duracion": 266
+    },
+    {
+      "titulo": "Lontananza Naranja",
+      "duracion": 200
+    },
+    {
+      "titulo": "Distancia",
+      "duracion": 226
+    },
+    {
+      "titulo": "Brújula",
+      "duracion": 282
+    },
+    {
+      "titulo": "A la misma Vez",
+      "duracion": 264
+    },
+    {
+      "titulo": "Fuegos",
+      "duracion": 233
+    },
+    {
+      "titulo": "Melodía Fugaz",
+      "duracion": 205
+    }
+  ],
+  "temasFuente": "Spotify"
+}

@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Water Is Wide Charles Lloyd"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4dyTITxaKAhWPY84eplJ0l",
+    "via": "musicbrainz"
   },
   "id": "the-water-is-wide",
   "titulo": "The Water Is Wide",
@@ -44,7 +45,7 @@
     "ecm"
   ],
   "comentario": [
-    "Con Brad Mehldau y John Abercrombie: baladas y canciones tradicionales."
+    "Con Brad Mehldau y John Abercrombie: baladas y canciones tradicionales. Lloyd toca el saxo con Mehldau, Abercrombie, Larry Grenadier y Billy Higgins, en baladas. Está entre los discos esenciales de Charles Lloyd."
   ],
   "ids": {
     "musicbrainz": null,

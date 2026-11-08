@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Roc Daniel Herskedal"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6cGr5ZDnCmUeZtqnoCDUDX",
+    "via": "musicbrainz"
   },
   "id": "the-roc",
   "titulo": "The Roc",
@@ -44,7 +45,7 @@
     "ecm"
   ],
   "comentario": [
-    "Inspirado en el Medio Oriente: tuba, piano y percusión."
+    "Inspirado en el Medio Oriente: tuba, piano y percusión. Herskedal toca la tuba con piano y percusión, en temas lentos. Está entre los discos esenciales de Daniel Herskedal."
   ],
   "ids": {
     "musicbrainz": null,

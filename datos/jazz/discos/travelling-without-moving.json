@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Travelling Without Moving Jamiroquai"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER",
+    "via": "musicbrainz"
   },
   "id": "travelling-without-moving",
   "titulo": "Travelling Without Moving",
@@ -44,7 +45,7 @@
     "acid"
   ],
   "comentario": [
-    "Con \"Virtual Insanity\": el gran éxito."
+    "Con \"Virtual Insanity\": el gran éxito. Jamiroquai toca funk y disco con bajo, vientos y la voz de Jay Kay. Es el disco clave de Jamiroquai en la etapa \"Acid jazz\"."
   ],
   "ids": {
     "musicbrainz": null,

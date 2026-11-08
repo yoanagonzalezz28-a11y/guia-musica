@@ -11,8 +11,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Road Games Allan Holdsworth"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/77A9DzlPI9nM4WM1FHUwNV",
+    "via": "musicbrainz"
   },
   "id": "road-games",
   "titulo": "Road Games",
@@ -42,7 +43,7 @@
     "fusion"
   ],
   "comentario": [
-    "EP con Jack Bruce: guitarra legato."
+    "EP con Jack Bruce: guitarra legato. Holdsworth toca la guitarra con Jack Bruce en voz y Jeff Berlin en bajo, en temas de fusión. Es el disco clave de Allan Holdsworth en la etapa \"Fusión\"."
   ],
   "ids": {
     "musicbrainz": null,

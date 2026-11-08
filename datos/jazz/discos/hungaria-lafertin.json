@@ -1,0 +1,57 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Hungaria Fapy Lafertin"
+  },
+  "id": "hungaria-lafertin",
+  "titulo": "Hungaria",
+  "credito": "Fapy Lafertin",
+  "lideres": [
+    "lafertin"
+  ],
+  "grabacion": {
+    "desde": 1996,
+    "hasta": 1996,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1996,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "lafertin",
+      "nombre": "Fapy Lafertin",
+      "instrumento": "guitarra, guitarra de doce cuerdas"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "manouche"
+  ],
+  "comentario": [
+    "El título viene de un tema de Django Reinhardt, y el disco sigue esa línea. Lafertin suma su guitarra de doce cuerdas y aires de fado y samba. Muestra cómo el manouche se abre a otras músicas sin perder su base."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "wp-fapy-lafertin"
+  ]
+}

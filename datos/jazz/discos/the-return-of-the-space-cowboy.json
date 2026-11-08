@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Return of the Space Cowboy Jamiroquai"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk",
+    "via": "musicbrainz"
   },
   "id": "the-return-of-the-space-cowboy",
   "titulo": "The Return of the Space Cowboy",
@@ -44,7 +45,7 @@
     "acid"
   ],
   "comentario": [
-    "Más largo y jazzero."
+    "Más largo y jazzero. Jamiroquai toca funk con bajo, vientos y la voz aguda de Jay Kay. Es uno de los discos que el banco elige para conocer a Jamiroquai."
   ],
   "ids": {
     "musicbrainz": null,

@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Liberation Music Orchestra Charlie Haden"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7rqdziyEA9441OtWILhVwt",
+    "via": "musicbrainz"
   },
   "id": "liberation-music-orchestra",
   "titulo": "Liberation Music Orchestra",
@@ -49,7 +50,7 @@
     "free"
   ],
   "comentario": [
-    "Jazz político con arreglos de Carla Bley."
+    "Jazz político con arreglos de Carla Bley. Haden toca el contrabajo con una orquesta que toca canciones de la Guerra Civil Española y temas políticos. En la ficha de Carla Bley es el disco que representa la etapa \"Free jazz\"."
   ],
   "ids": {
     "musicbrainz": null,

@@ -1,0 +1,46 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "debarre",
+  "nombre": "Angelo Debarre",
+  "nacimiento": {
+    "anio": 1962,
+    "lugar": "Saint-Denis, Francia"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "guitarra"
+  ],
+  "corrientes": [
+    "manouche"
+  ],
+  "regiones": [],
+  "spotify": null,
+  "resumen": "Guitarrista gitano francés. Armó su primer quinteto en 1984 y lo descubrió el productor noruego Jon Larsen tocando en el café La Roue Fleurie de París. Toca en los festivales de jazz gitano de Europa y Estados Unidos.[^wp-angelo-debarre]",
+  "epocas": [
+    {
+      "titulo": "Discos",
+      "desde": 1998,
+      "hasta": 2005,
+      "texto": "Grabó para el sello Hot Club y después a dúo con Tchavolo Schmitt y con el acordeonista Ludovic Beier.[^wp-angelo-debarre]",
+      "discoClave": {
+        "disco": "caprice-debarre",
+        "explicacion": "Su guitarra virtuosa y melódica, en el sello que lo descubrió."
+      },
+      "discos": [
+        "entre-amis-debarre"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-angelo-debarre"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "caprice-debarre",
+    "entre-amis-debarre"
+  ]
+}

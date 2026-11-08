@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Have a Little Faith Bill Frisell"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6oMlklL1QnJFf0gBw1VZix",
+    "via": "musicbrainz"
   },
   "id": "have-a-little-faith",
   "titulo": "Have a Little Faith",
@@ -44,7 +45,7 @@
     "hoy"
   ],
   "comentario": [
-    "Versiones de Copland, Sousa, Dylan y Madonna: un mapa de la música estadounidense."
+    "Versiones de Copland, Sousa, Dylan y Madonna: un mapa de la música estadounidense. Frisell toca la guitarra con un grupo que incluye acordeón y clarinete, en versiones de música estadounidense muy variada. Es el disco clave de Bill Frisell en la etapa \"Jazz de hoy\"."
   ],
   "ids": {
     "musicbrainz": null,

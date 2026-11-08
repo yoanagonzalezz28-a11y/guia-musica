@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Afrika Johnny Dyani"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/49dCo6pbc4RvlEQLzMScr3",
+    "via": "musicbrainz"
   },
   "id": "afrika",
   "titulo": "Afrika",
@@ -44,7 +45,7 @@
     "mundo"
   ],
   "comentario": [
-    "Con músicos sudafricanos y daneses: ritmos del Cabo."
+    "Con músicos sudafricanos y daneses: ritmos del Cabo. Dyani toca el contrabajo con mucho peso rítmico y canta en algunos temas, con un grupo que suena a la vez a free y a música de Sudáfrica. Es el disco clave de Johnny Dyani en la etapa \"Jazz del mundo\"."
   ],
   "ids": {
     "musicbrainz": null,

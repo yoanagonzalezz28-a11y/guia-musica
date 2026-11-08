@@ -1,0 +1,100 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
+    }
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2mIlWxonGr1RMyFpMgGhbx",
+    "tituloEnSpotify": "Khronos",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "khronos",
+  "titulo": "Khronos",
+  "credito": "Francisco Fattoruso",
+  "lideres": [],
+  "grabacion": {
+    "desde": 2016,
+    "hasta": 2016,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2016,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": null,
+      "nombre": "Francisco Fattoruso",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": "fattoruso",
+      "nombre": "Hugo Fattoruso",
+      "instrumento": "invitado"
+    }
+  ],
+  "personalNota": "Lista parcial: sale de los créditos de Spotify.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Disco del bajista uruguayo Francisco Fattoruso, con Hugo Fattoruso como invitado. Los títulos, como \"Universal Music Theory\" o \"Light Hacker\", anuncian una fusión eléctrica de bajo al frente. Muestra la nueva generación de una familia clave del jazz uruguayo."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "wpes-francisco-fattoruso"
+  ],
+  "temas": [
+    {
+      "titulo": "Shifting Reality",
+      "duracion": 411
+    },
+    {
+      "titulo": "The Galaxy",
+      "duracion": 383
+    },
+    {
+      "titulo": "Nuevos Tiempos",
+      "duracion": 275
+    },
+    {
+      "titulo": "Three Views of a Secret",
+      "duracion": 344
+    },
+    {
+      "titulo": "Universal Music Theory",
+      "duracion": 596
+    },
+    {
+      "titulo": "Sol, Luna y Agua",
+      "duracion": 498
+    },
+    {
+      "titulo": "Light Hacker",
+      "duracion": 453
+    }
+  ],
+  "temasFuente": "Spotify"
+}

@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Afrodeezia Marcus Miller"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/67Sb6f1dsjHZXnBr3R5IDP",
+    "via": "musicbrainz"
   },
   "id": "afrodeezia",
   "titulo": "Afrodeezia",
@@ -44,7 +45,7 @@
     "fusion"
   ],
   "comentario": [
-    "Inspirado en la ruta de los esclavos: música africana y funk."
+    "Inspirado en la ruta de los esclavos: música africana y funk. Miller lleva su bajo eléctrico por músicas de África, el Caribe y Estados Unidos, con músicos de cada lugar. Está entre los discos esenciales de Marcus Miller."
   ],
   "ids": {
     "musicbrainz": null,

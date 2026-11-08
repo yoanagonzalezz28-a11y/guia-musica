@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Our Man in Paris Dexter Gordon"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088",
+    "via": "musicbrainz"
   },
   "id": "our-man-in-paris",
   "titulo": "Our Man in Paris",
@@ -44,7 +45,7 @@
     "hard-bop"
   ],
   "comentario": [
-    "Con Bud Powell y Kenny Clarke en París: bebop clásico tocado con una seguridad enorme."
+    "Con Bud Powell y Kenny Clarke en París: bebop clásico tocado con una seguridad enorme. Gordon toca el saxo tenor con Powell, Clarke y Pierre Michelot, en estándares del bebop. Es uno de los discos que el banco elige para conocer a Dexter Gordon."
   ],
   "ids": {
     "musicbrainz": null,

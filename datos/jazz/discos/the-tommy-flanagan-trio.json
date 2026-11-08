@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Tommy Flanagan Trio Tommy Flanagan"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0wG9swQ1OGh415mIf9NSEl",
+    "via": "musicbrainz"
   },
   "id": "the-tommy-flanagan-trio",
   "titulo": "The Tommy Flanagan Trio",
@@ -44,7 +45,7 @@
     "hard-bop"
   ],
   "comentario": [
-    "Baladas en trío, tranquilo y elegante."
+    "Baladas en trío, tranquilo y elegante. Flanagan toca el piano en trío con Tommy Potter y Roy Haynes, en baladas. Es el disco clave de Tommy Flanagan en la etapa \"Hard bop\"."
   ],
   "ids": {
     "musicbrainz": null,

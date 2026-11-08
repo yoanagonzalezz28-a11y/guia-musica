@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Heaven and Earth Kamasi Washington"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6f3h8jHeXY6I6qduBrK3eK",
+    "via": "musicbrainz"
   },
   "id": "heaven-and-earth",
   "titulo": "Heaven and Earth",
@@ -44,7 +45,7 @@
     "hoy"
   ],
   "comentario": [
-    "Dos discos, uno \"terrenal\" y otro \"celestial\": jazz espiritual en gran escala."
+    "Dos discos, uno \"terrenal\" y otro \"celestial\": jazz espiritual en gran escala. Washington toca el saxo con su banda, coro y orquesta en temas largos de jazz espiritual. Está entre los discos esenciales de Kamasi Washington."
   ],
   "ids": {
     "musicbrainz": null,

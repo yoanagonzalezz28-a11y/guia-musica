@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Complete Decca Recordings Billie Holiday"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2v6mMHDaG67GITWaSwroH8",
+    "via": "musicbrainz"
   },
   "id": "the-complete-decca-recordings",
   "titulo": "The Complete Decca Recordings",
@@ -44,7 +45,7 @@
     "swing"
   ],
   "comentario": [
-    "Sus grabaciones de 1944 a 1950 para Decca, ya con cuerdas y arreglos más grandes: \"Lover Man\" y \"Don't Explain\"."
+    "Sus grabaciones de 1944 a 1950 para Decca, ya con cuerdas y arreglos más grandes: \"Lover Man\" y \"Don't Explain\". Holiday canta con orquestas y cuerdas, con una voz madura. En la ficha de Billie Holiday es el disco que representa la etapa \"Años en Decca\"."
   ],
   "ids": {
     "musicbrainz": null,

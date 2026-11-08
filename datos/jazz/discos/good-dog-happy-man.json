@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Good Dog, Happy Man Bill Frisell"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4ICZxA4JmNgkrjT9d30TJX",
+    "via": "musicbrainz"
   },
   "id": "good-dog-happy-man",
   "titulo": "Good Dog, Happy Man",
@@ -44,7 +45,7 @@
     "hoy"
   ],
   "comentario": [
-    "Americana instrumental, con Ry Cooder en un tema."
+    "Americana instrumental, con Ry Cooder en un tema. Frisell toca la guitarra con un grupo de músicos de country y folk, en temas lentos y melódicos. Está entre los discos esenciales de Bill Frisell."
   ],
   "ids": {
     "musicbrainz": null,

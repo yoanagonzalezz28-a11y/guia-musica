@@ -1,0 +1,131 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [
+    {
+      "campo": "edición",
+      "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
+    }
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7vhF6lD5zZTagJ0WMhLJj1",
+    "tituloEnSpotify": "En Trío Con Tato Bolognini y Marco Messina",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "en-trio-maslia",
+  "titulo": "En trío con Tato Bolognini y Marco Messina",
+  "credito": "Leo Maslíah",
+  "lideres": [
+    "maslia"
+  ],
+  "grabacion": {
+    "desde": 2020,
+    "hasta": 2020,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2020,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "maslia",
+      "nombre": "Leo Maslíah",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Tato Bolognini",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Marco Messina",
+      "instrumento": "músico"
+    }
+  ],
+  "personalNota": "Lista parcial: sale de los créditos de Spotify.",
+  "corrientes": [
+    "rioplat"
+  ],
+  "comentario": [
+    "Maslíah en trío, con Tato Bolognini y Marco Messina. Hay de todo: \"Preludio, arioso y fugueta sobre BACH\", un \"Choripanzinho\" que mezcla choripán y choro, y temas libres como \"Remanente\". Es el disco donde su piano se acerca más a un trío de jazz."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "wpes-leo-maslia"
+  ],
+  "temas": [
+    {
+      "titulo": "Horizonte Vertical",
+      "duracion": 271
+    },
+    {
+      "titulo": "Fantasía en Eco SW 261",
+      "duracion": 213
+    },
+    {
+      "titulo": "Bailongo",
+      "duracion": 412
+    },
+    {
+      "titulo": "Calma Chicha",
+      "duracion": 235
+    },
+    {
+      "titulo": "Choripanzinho",
+      "duracion": 109
+    },
+    {
+      "titulo": "Remanente 2",
+      "duracion": 247
+    },
+    {
+      "titulo": "Olas del Aire",
+      "duracion": 243
+    },
+    {
+      "titulo": "Menos Líoh",
+      "duracion": 209
+    },
+    {
+      "titulo": "Remanente 1",
+      "duracion": 160
+    },
+    {
+      "titulo": "Preludio, Arioso y Fugueta Sobre BACH",
+      "duracion": 281
+    },
+    {
+      "titulo": "Modus Operandi",
+      "duracion": 169
+    },
+    {
+      "titulo": "Colesterol Sentimental",
+      "duracion": 242
+    },
+    {
+      "titulo": "Coche Escuela",
+      "duracion": 215
+    }
+  ],
+  "temasFuente": "Spotify"
+}

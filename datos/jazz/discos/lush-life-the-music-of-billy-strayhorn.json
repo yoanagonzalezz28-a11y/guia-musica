@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Lush Life: The Music of Billy Strayhorn Joe Henderson"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/79ih1hMMqaYaMXhdlXDxku",
+    "via": "musicbrainz"
   },
   "id": "lush-life-the-music-of-billy-strayhorn",
   "titulo": "Lush Life: The Music of Billy Strayhorn",
@@ -44,7 +45,7 @@
     "neotrad"
   ],
   "comentario": [
-    "Homenaje a Strayhorn que lo devolvió a la fama: tenor maduro, en dúos y grupos chicos."
+    "Homenaje a Strayhorn que lo devolvió a la fama: tenor maduro, en dúos y grupos chicos. Henderson toca el saxo tenor con Wynton Marsalis, Stephen Scott, Christian McBride y Gregory Hutchinson en temas de Strayhorn. En la ficha de Joe Henderson es el disco que representa la etapa \"Neotradicionalismo\"."
   ],
   "ids": {
     "musicbrainz": null,

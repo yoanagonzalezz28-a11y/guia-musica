@@ -12,8 +12,9 @@
   "catalogo": null,
   "lugar": "Village Vanguard, Nueva York",
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Vanguardia Subterránea Miguel Zenón"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4X3wYOIiV45eBtVcM2pKHa",
+    "via": "musicbrainz"
   },
   "id": "vanguardia-subterranea",
   "titulo": "Vanguardia Subterránea: Live at the Village Vanguard",

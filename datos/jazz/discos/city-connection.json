@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "City Connection Terumasa Hino"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3RgugL3A8dYorBT7gfdF9Q",
+    "via": "musicbrainz"
   },
   "id": "city-connection",
   "titulo": "City Connection",
@@ -44,7 +45,7 @@
     "mundo"
   ],
   "comentario": [
-    "Fusión grabada en Nueva York."
+    "Fusión grabada en Nueva York. Hino toca la trompeta sobre una base de fusión de Nueva York, con teclados y bajo eléctrico. Es el disco clave de Terumasa Hino en la etapa \"Jazz del mundo\"."
   ],
   "ids": {
     "musicbrainz": null,

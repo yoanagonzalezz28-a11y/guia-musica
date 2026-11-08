@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Bags Meets Wes! Milt Jackson"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0MRn6bdBb83HGYCssD2Sp3",
+    "via": "musicbrainz"
   },
   "id": "bags-meets-wes",
   "titulo": "Bags Meets Wes!",
@@ -44,7 +45,7 @@
     "hard-bop"
   ],
   "comentario": [
-    "Con Wes Montgomery: vibráfono y guitarra en estado de gracia."
+    "Con Wes Montgomery: vibráfono y guitarra en estado de gracia. Jackson y Montgomery tocan blues y estándares con Wynton Kelly, Sam Jones y Philly Joe Jones, con mucho swing. Está entre los discos esenciales de Milt Jackson."
   ],
   "ids": {
     "musicbrainz": null,

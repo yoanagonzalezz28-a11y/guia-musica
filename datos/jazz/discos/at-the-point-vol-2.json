@@ -1,0 +1,59 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "puerto-rico"
+  ],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "At the Point, Vol. 2 Papo Vázquez"
+  },
+  "id": "at-the-point-vol-2",
+  "titulo": "At the Point, Vol. 2",
+  "credito": "Papo Vázquez",
+  "lideres": [
+    "papo-vazquez"
+  ],
+  "grabacion": {
+    "desde": 2000,
+    "hasta": 2000,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2000,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "papo-vazquez",
+      "nombre": "Papo Vázquez",
+      "instrumento": "trombón, composición, arreglos"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "latino"
+  ],
+  "comentario": [
+    "Grabado en vivo en The Point, un centro cultural del Bronx. Vázquez con su grupo, los Mighty Pirates Troubadours, en temas largos de bomba, plena y jazz. Es un buen registro de su sonido en vivo."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "wp-papo-vazquez"
+  ]
+}

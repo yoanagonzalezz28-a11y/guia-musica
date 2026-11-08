@@ -1,0 +1,59 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "japon"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "No Sound Is Too Taboo United Future Organization"
+  },
+  "id": "no-sound-is-too-taboo",
+  "titulo": "No Sound Is Too Taboo",
+  "credito": "United Future Organization",
+  "lideres": [
+    "ufo"
+  ],
+  "grabacion": {
+    "desde": 1994,
+    "hasta": 1994,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1994,
+    "detalle": null
+  },
+  "sello": "Talkin' Loud",
+  "musicos": [
+    {
+      "musico": "ufo",
+      "nombre": "United Future Organization",
+      "instrumento": "grupo"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "acid"
+  ],
+  "comentario": [
+    "Su disco para Talkin' Loud, el sello de Gilles Peterson: jazz bailable, bossa nova y voces invitadas. Lo editó el mismo sello que en Londres armaba la escena. Es el disco que los hizo conocidos fuera de Japón."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "wp-united-future-organization"
+  ]
+}

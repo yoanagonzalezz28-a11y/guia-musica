@@ -11,8 +11,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "12 Stars Melissa Aldana"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3DFIvcm119lRoa5NxyiBDC",
+    "via": "musicbrainz"
   },
   "id": "12-stars",
   "titulo": "12 Stars",
@@ -42,7 +43,7 @@
     "hoy"
   ],
   "comentario": [
-    "Su debut en Blue Note."
+    "Su debut en Blue Note. La saxofonista chilena suma guitarra y teclados a su cuarteto y escribe temas más abiertos y melódicos que en sus discos anteriores. Es uno de los discos que el banco elige para conocer a Melissa Aldana."
   ],
   "ids": {
     "musicbrainz": null,

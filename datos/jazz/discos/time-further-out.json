@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Time Further Out Dave Brubeck"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0eMXd1VtCXCkuGWn9JjRDT",
+    "via": "musicbrainz"
   },
   "id": "time-further-out",
   "titulo": "Time Further Out",
@@ -44,7 +45,7 @@
     "cool"
   ],
   "comentario": [
-    "La continuación de *Time Out*: más compases irregulares, inspirados en Miró."
+    "La continuación de *Time Out*: más compases irregulares, inspirados en Miró. El cuarteto de Brubeck toca temas en compases de 5, 7 y 9, con el saxo de Desmond. Es uno de los discos que el banco elige para conocer a Dave Brubeck."
   ],
   "ids": {
     "musicbrainz": null,

@@ -1,0 +1,59 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "reino-unido"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Stoned Woman Mother Earth"
+  },
+  "id": "stoned-woman",
+  "titulo": "Stoned Woman",
+  "credito": "Mother Earth",
+  "lideres": [
+    "mother-earth"
+  ],
+  "grabacion": {
+    "desde": 1992,
+    "hasta": 1992,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1992,
+    "detalle": null
+  },
+  "sello": "Acid Jazz",
+  "musicos": [
+    {
+      "musico": "mother-earth",
+      "nombre": "Mother Earth",
+      "instrumento": "grupo"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "acid"
+  ],
+  "comentario": [
+    "El primer disco de Mother Earth, con Shauna Green en la voz y el órgano Hammond de Bryn Barklam al frente. Suena a soul y rock de fines de los 60 pasados por el filtro de la pista de baile londinense. Es uno de los discos que definieron el sello Acid Jazz."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [],
+  "fuentes": [
+    "wp-mother-earth-band"
+  ]
+}

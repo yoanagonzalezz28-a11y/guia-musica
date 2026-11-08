@@ -11,8 +11,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Tourist St Germain"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj",
+    "via": "musicbrainz"
   },
   "id": "tourist",
   "titulo": "Tourist",
@@ -42,7 +43,7 @@
     "acid"
   ],
   "comentario": [
-    "House con samples de blues y vientos de jazz: uno de los discos de jazz electrónico más vendidos."
+    "House con samples de blues y vientos de jazz: uno de los discos de jazz electrónico más vendidos. St Germain mezcla house con samples de blues, guitarras y vientos. Es el disco clave de St Germain en la etapa \"Acid jazz\"."
   ],
   "ids": {
     "musicbrainz": null,

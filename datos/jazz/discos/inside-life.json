@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Inside Life Incognito"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5OPMTZIYFOihnWRNJvYZIM",
+    "via": "musicbrainz"
   },
   "id": "inside-life",
   "titulo": "Inside Life",
@@ -44,7 +45,7 @@
     "acid"
   ],
   "comentario": [
-    "Su regreso en el sello de Gilles Peterson."
+    "Su regreso en el sello de Gilles Peterson. Incognito toca funk y soul con vientos, voces y una base muy bailable. En la ficha de Incognito es el disco que representa la etapa \"Acid jazz\"."
   ],
   "ids": {
     "musicbrainz": null,

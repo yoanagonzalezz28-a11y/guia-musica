@@ -445,3 +445,8 @@ main { max-width: var(--ancho); margin: 0 auto; padding: 0 var(--gutter) 72px; }
   .tapa-lema { display: none; }
 }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } .tapa > a:hover { transform: none; } }
+
+/* El nombre de la época, escrito junto a su color. */
+.rotulo-epoca { display: inline-block; padding: 3px 7px 2px; background: var(--tinta-c); color: var(--tinta-c-texto); font: 700 .6875rem/1 var(--sans); font-stretch: 62%; text-transform: uppercase; letter-spacing: .12em; vertical-align: middle; }
+.disco-clave .rotulo-epoca { display: table; margin-bottom: 8px; padding: 0; background: none; color: inherit; font-size: .8125rem; border-bottom: 2px solid currentColor; padding-bottom: 3px; }
+.fila-disco-epoca { color: var(--tinta-c-fg); font-weight: 700; text-transform: uppercase; letter-spacing: .06em; font-size: .9em; }

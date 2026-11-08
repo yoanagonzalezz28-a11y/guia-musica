@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Parable of the Poet Joel Ross"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2rQub6XmlQJb8bGYHhjBsD",
+    "via": "musicbrainz"
   },
   "id": "the-parable-of-the-poet",
   "titulo": "The Parable of the Poet",
@@ -44,7 +45,7 @@
     "hoy"
   ],
   "comentario": [
-    "Una suite para noneto."
+    "Una suite para noneto. Ross toca el vibráfono con un noneto, en una suite larga. Está entre los discos esenciales de Joel Ross."
   ],
   "ids": {
     "musicbrainz": null,
