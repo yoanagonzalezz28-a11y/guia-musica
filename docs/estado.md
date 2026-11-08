@@ -27,8 +27,8 @@ Las credenciales están en `.env` (`SPOTIFY_CLIENT_ID` y `SPOTIFY_CLIENT_SECRET`
 |---|---|
 | Épocas (corrientes) | 18 |
 | Regiones | 14 |
-| Músicos y grupos | 362 (213 con cinco discos esenciales o más; 234 con link de artista en Spotify) |
-| Discos | 1526 |
+| Músicos y grupos | 371 (213 con cinco discos esenciales o más; 234 con link de artista en Spotify) |
+| Discos | 1558 |
 | Discos con link exacto de Spotify | 972 |
 | Discos con lista de temas | 514 |
 | Reseñas extensas | 19 |
@@ -97,7 +97,7 @@ La carpeta está en `.gitignore`: **nada de esto se sube a GitHub ni se publica.
 
 ## Qué falta
 
-1. **Terminar la búsqueda de Spotify** con `npm run spotify` (ver arriba): 454 discos todavía sin buscar.
+1. **Terminar la búsqueda de Spotify** (incluye 21 discos nuevos de las fichas de "Escena actual", que quedaron con búsqueda) con `npm run spotify` (ver arriba): 454 discos todavía sin buscar.
 2. **Revisar los dudosos** de [sin-spotify.md](sin-spotify.md): por ahora son 26 (13 de importancia alta). Cada uno tiene su link candidato; alcanza con decir cuáles se aprueban.
 3. **Decidir qué hacer con los que no aparecen en Spotify** (por ahora 74, 25 de importancia alta): buscarlos en YouTube o sacarlos del banco.
 4. **Terminar de pulir las reseñas:**
