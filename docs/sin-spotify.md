@@ -1,11 +1,11 @@
 # Discos sin link exacto de Spotify
 
-Actualizado el 2026-11-08 con la búsqueda en la API de Spotify.
+Actualizado el 2026-11-08 con `npm run spotify` (búsqueda en la API de Spotify).
 
-- **Encontrados y aplicados:** 225.
-- **Dudosos, para revisar:** 26 (13 de importancia alta, 13 media, 0 baja). No se aplicaron.
+- **Encontrados y aplicados con la API:** 225.
+- **Dudosos, para revisar:** 26 (13 alta, 13 media, 0 baja). No se aplicaron.
 - **Sin aparecer:** 74 (25 alta, 47 media, 2 baja).
-- **Todavía sin buscar:** 454. La API de Spotify limitó las consultas; el script retoma solo cuando se cumple la espera que pide Spotify.
+- **Todavía sin buscar:** 454. Spotify limitó las consultas; hay que volver a correr `npm run spotify` después del 9/11/2026, 11:58:09.
 
 Cómo se buscó: por artista y título, con variantes (sin subtítulo, sin "Vol.", con el título original, sin los agregados de reedición o edición ampliada) y con el nombre del líder cuando el crédito es de un grupo. Un resultado se acepta solo si coincide el artista y el título es el mismo disco; entre varias ediciones se prefiere la del año original y, si no, la remasterizada más completa.
 
@@ -123,7 +123,7 @@ Para aprobar uno, alcanza con decir cuál. El motivo explica por qué no se apli
 | Cookin' | Miles Davis | 1957 | Baja | discografía de Hard bop |
 | Freedom Suite | Sonny Rollins | 1958 | Baja | discografía de Hard bop |
 
-## Todavía sin buscar en la API
+## Todavía sin buscar
 
 | Título | Artista | Año | Importancia | Por qué está |
 |---|---|---|---|---|

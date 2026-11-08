@@ -10,6 +10,7 @@
     "servir:pages": "node scripts/construir.mjs && node scripts/servir.mjs --base /guia-musica/",
     "verificar": "node scripts/verificar-fuentes.mjs",
     "auditar": "node scripts/auditar.mjs",
-    "verificar:podcasts": "node scripts/verificar-podcasts.mjs"
+    "verificar:podcasts": "node scripts/verificar-podcasts.mjs",
+    "spotify": "node --env-file=.env scripts/spotify.mjs"
   }
 }

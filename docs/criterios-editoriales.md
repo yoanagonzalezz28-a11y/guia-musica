@@ -1,5 +1,7 @@
 # Criterios editoriales
 
+> **Nota (noviembre de 2026):** la regla de dos fuentes obligatorias de la sección 2 se reemplazó por el criterio de volumen: un disco o un músico entra con una fuente y, si le falta la segunda, queda marcado como "sin verificar" en los datos. Ver [estado.md](estado.md).
+
 Valen para todo el banco. Lo que puede comprobar una máquina frena la construcción del sitio; el resto lo informa `npm run auditar` y lo define la revisión de Yoana.
 
 ## 1. Profundidad mínima
