@@ -26,6 +26,17 @@
   "resumen": "Pianista y compositor de cine, autor de las músicas de *El cuchillo en el agua* y *El bebé de Rosemary*, de Roman Polanski. Es una de las figuras más influyentes de la música polaca.[^wp-komeda]",
   "epocas": [
     {
+      "titulo": "Música para Polanski",
+      "desde": 1962,
+      "hasta": 1968,
+      "texto": "Compuso la música de casi todas las primeras películas de Roman Polanski, de Cuchillo en el agua a El bebé de Rosemary.[^wp-komeda]",
+      "discoClave": {
+        "disco": "rosemary-s-baby",
+        "explicacion": "Su última banda sonora: la canción de cuna del comienzo es una de sus melodías más conocidas."
+      },
+      "discos": []
+    },
+    {
       "titulo": "El quinteto",
       "desde": 1963,
       "hasta": 1968,
@@ -35,13 +46,9 @@
         "explicacion": "Su obra maestra."
       },
       "discos": [
-        "rosemary-s-baby",
         "ballet-etudes-the-music-of-komeda"
       ]
     }
-  ],
-  "epocasPendientes": [
-    "Música para Polanski"
   ],
   "fuentes": [
     "wp-komeda"

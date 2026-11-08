@@ -41,10 +41,10 @@
       "discos": []
     },
     {
-      "titulo": "Swing",
-      "desde": 1953,
-      "hasta": 1953,
-      "texto": "",
+      "titulo": "Europa",
+      "desde": 1952,
+      "hasta": 1954,
+      "texto": "Vivió dos años en Europa, donde grabó y tocó en clubes de Londres y París.[^wp-williams]",
       "discoClave": {
         "disco": "mary-lou-williams-plays-in-london",
         "explicacion": "Piano en trío, grabado en Londres."
@@ -52,34 +52,29 @@
       "discos": []
     },
     {
-      "titulo": "Swing",
-      "desde": 1964,
-      "hasta": 1964,
-      "texto": "",
+      "titulo": "Música religiosa",
+      "desde": 1957,
+      "hasta": 1975,
+      "texto": "Se convirtió al catolicismo y empezó a escribir música sacra para jazz: himnos, misas y obras corales.[^wp-williams]",
       "discoClave": {
         "disco": "black-christ-of-the-andes",
         "explicacion": "Jazz sacro, dedicado a San Martín de Porres."
       },
-      "discos": []
+      "discos": [
+        "mary-lou-s-mass"
+      ]
     },
     {
-      "titulo": "Free jazz",
-      "desde": 1974,
-      "hasta": 1975,
-      "texto": "",
+      "titulo": "Regreso de los 70",
+      "desde": 1970,
+      "hasta": 1978,
+      "texto": "En los 70 volvió a los clubes y a la docencia, con un piano que recorría toda la historia del jazz.[^wp-williams]",
       "discoClave": {
-        "disco": "mary-lou-s-mass",
-        "explicacion": "Una misa en clave de jazz y gospel."
+        "disco": "zoning",
+        "explicacion": "Su trío y sus temas, con un aire moderno."
       },
-      "discos": [
-        "zoning"
-      ]
+      "discos": []
     }
-  ],
-  "epocasPendientes": [
-    "Con Andy Kirk",
-    "Música religiosa",
-    "Regreso de los 70"
   ],
   "fuentes": [
     "wp-williams"

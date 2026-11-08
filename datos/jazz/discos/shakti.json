@@ -18,8 +18,10 @@
   },
   "id": "shakti",
   "titulo": "Shakti",
-  "credito": "Shakti",
-  "lideres": [],
+  "credito": "Shakti con John McLaughlin",
+  "lideres": [
+    "mclaughlin"
+  ],
   "grabacion": {
     "desde": 1976,
     "hasta": 1976,
@@ -31,6 +33,11 @@
   },
   "sello": "Columbia",
   "musicos": [
+    {
+      "musico": "mclaughlin",
+      "nombre": "John McLaughlin",
+      "instrumento": "guitarra acústica"
+    },
     {
       "musico": "zakir",
       "nombre": "Zakir Hussain",

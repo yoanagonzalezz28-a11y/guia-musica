@@ -1,0 +1,15 @@
+{
+  "donde": [],
+  "id": "celebrating-bird",
+  "tipo": "documental",
+  "titulo": "Celebrating Bird: The Triumph of Charlie Parker",
+  "anio": 1987,
+  "director": "Gary Giddins y Kendrick Simmons",
+  "descripcion": "Documental basado en el libro de Gary Giddins sobre Parker, con entrevistas a quienes lo conocieron.",
+  "musicos": [
+    "parker"
+  ],
+  "corrientes": [
+    "bebop"
+  ]
+}

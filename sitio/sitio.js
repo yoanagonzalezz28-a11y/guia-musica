@@ -337,76 +337,60 @@
   }
 
   function iniciarCompletar() {
-    const boton = document.querySelector('[data-completar]');
-    if (!boton) return;
-    boton.addEventListener('click', () => {
+    $$('[data-completar]').forEach(boton => boton.addEventListener('click', () => {
       const actual = !!Marcas.leer().marcas[boton.dataset.completar]?.completada;
       Marcas.guardar(boton.dataset.completar, { completada: !actual }, boton.dataset.completarTitulo);
       repintar();
-    });
+    }));
   }
   function pintarCompletar(marcas) {
-    const boton = document.querySelector('[data-completar]');
-    if (!boton) return;
-    const m = marcas[boton.dataset.completar];
+    const botones = $$('[data-completar]');
+    if (!botones.length) return;
+    const m = marcas[botones[0].dataset.completar];
     const hecha = !!m?.completada;
-    boton.setAttribute('aria-pressed', String(hecha));
-    boton.textContent = hecha ? 'Época completada' : 'Marcar época como completada';
-    const f = document.querySelector('[data-completar-fecha]');
-    if (f) f.textContent = hecha ? `La completaste el ${fecha(m.fechaCompletada)}. Tocá de nuevo para desmarcarla.` : '';
+    botones.forEach(b => b.setAttribute('aria-pressed', String(hecha)));
+    $$('[data-completar-fecha]').forEach(f => { f.textContent = hecha ? `Estudiada el ${fecha(m.fechaCompletada)}` : ''; });
   }
 
-  // ---------- Tu camino: la línea de metro ----------
+  // ---------- Tu camino: la línea completa, de Orígenes a hoy ----------
+  // Las 18 paradas ya están en la página, en gris. Acá se colorean: a medias si marcaste algo, llenas si la estudiaste.
   function pintarMetro(marcas) {
     const metro = document.querySelector('[data-metro]');
     if (!metro) return;
     const todas = CAMINO.corrientes.map(c => ({ c, pr: progresoDe(marcas, c) }));
-    const paradas = todas.filter(x => x.pr.desde).sort((a, b) => a.pr.desde.localeCompare(b.pr.desde));
-    const visitadas = new Set(paradas.map(x => x.c.id));
-    const hijasDe = id => CAMINO.corrientes.filter(c => c.deriva.includes(id) && !visitadas.has(c.id));
-    metro.textContent = '';
-
-    const linea = el('ol', { className: 'metro-linea' });
-    for (const { c, pr } of paradas) {
-      const li = el('li', { className: `parada${pr.completa ? ' completa' : ''}` });
-      li.style.cssText = `${tintas(c)};--p:${pr.p}`;
-      const datos = pr.completa ? `Completada el ${fecha(marcas[`corriente:${c.id}`].fechaCompletada)}` : `Desde el ${fecha(pr.desde)} · ${pr.hechos} de ${pr.total} marcados`;
-      const cuerpo = el('div', {}, el('a', { className: 'parada-nombre', href: raiz + c.url, textContent: c.nombre }), el('span', { className: 'parada-datos dato', textContent: datos }));
-      // Donde el estilo se divide, el camino muestra las ramas que salen de una época completada.
-      const ramas = pr.completa ? hijasDe(c.id) : [];
-      if (ramas.length) {
-        const ul = el('ul', { className: 'ramas', ariaLabel: `Ramas que salen de ${c.nombre}` });
-        for (const h of ramas) {
-          const r = el('li', { className: 'rama' }, el('span', { className: 'rama-punto' }), el('span', {}, el('a', { href: raiz + h.url, textContent: h.nombre }), el('span', { className: 'dato', textContent: ` ${h.desde}–${h.hasta}` })));
-          r.style.cssText = tintas(h);
-          ul.append(r);
-        }
-        cuerpo.append(ul);
-      }
-      li.append(el('span', { className: 'parada-punto', ariaHidden: 'true' }), cuerpo);
-      linea.append(li);
+    for (const { c, pr } of todas) {
+      const li = metro.querySelector(`[data-parada="${c.id}"]`);
+      if (!li) continue;
+      const empezada = pr.completa || pr.hechos > 0;
+      li.classList.toggle('sin-empezar', !empezada);
+      li.classList.toggle('completa', pr.completa);
+      li.style.setProperty('--p', pr.completa ? 100 : Math.max(pr.p, empezada ? 12 : 0));
+      li.querySelector('[data-parada-cuenta]').textContent = `${pr.hechos} de ${pr.total}`;
+      li.querySelector('[data-parada-fecha]').textContent = pr.completa ? ` · estudiada el ${fecha(marcas[`corriente:${c.id}`].fechaCompletada)}` : '';
     }
 
-    const pendientes = todas.filter(x => !visitadas.has(x.c.id)).map(x => x.c);
-    const sugerida = siguienteParada(paradas, pendientes, hijasDe);
-    if (paradas.length) metro.append(linea);
-    else metro.append(el('p', { className: 'metro-vacio', textContent: 'Todavía no hay paradas. Marcá un disco o un músico en cualquier época y aparece acá.' }));
-
-    if (pendientes.length) {
-      const elegir = el('div', { className: 'metro-elegir' });
-      if (sugerida) elegir.append(el('span', { className: 'dato', textContent: paradas.length ? 'Próxima parada:' : 'Para empezar:' }), el('a', { className: 'boton boton-chico', href: raiz + sugerida.url, textContent: sugerida.nombre }));
-      const select = el('select', { ariaLabel: 'Elegir otra época' }, el('option', { value: '', textContent: 'O elegí otra…' }), ...pendientes.map(c => el('option', { value: raiz + c.url, textContent: `${c.nombre} (${c.desde})` })));
-      select.addEventListener('change', () => { if (select.value) location.href = select.value; });
-      elegir.append(select);
-      metro.append(elegir);
-    }
+    // La sugerencia va debajo de la línea.
+    const elegir = metro.querySelector('[data-metro-elegir]');
+    const visitadas = todas.filter(x => x.pr.desde).sort((a, b) => a.pr.desde.localeCompare(b.pr.desde));
+    const pendientes = todas.filter(x => !x.pr.completa).map(x => x.c);
+    elegir.textContent = '';
+    elegir.hidden = !pendientes.length;
+    if (!pendientes.length) return;
+    const sugerida = siguienteParada(visitadas, pendientes);
+    if (sugerida) elegir.append(el('span', { className: 'dato', textContent: visitadas.length ? 'Próxima parada:' : 'Para empezar:' }), el('a', { className: 'boton boton-chico', href: raiz + sugerida.url, textContent: sugerida.nombre }));
+    const select = el('select', { ariaLabel: 'Elegir otra época' }, el('option', { value: '', textContent: 'O elegí otra…' }), ...pendientes.filter(c => c !== sugerida).map(c => el('option', { value: raiz + c.url, textContent: `${c.nombre} (${c.desde})` })));
+    select.addEventListener('change', () => { if (select.value) location.href = select.value; });
+    elegir.append(select);
   }
 
-  // Próxima parada: la primera rama que sale de la última época visitada; si no hay, la siguiente por año de inicio.
-  function siguienteParada(paradas, pendientes, hijasDe) {
-    if (!paradas.length) return pendientes[0] || null;
-    const ultima = paradas[paradas.length - 1];
-    return hijasDe(ultima.c.id)[0] || pendientes[0] || null;
+  // Próxima parada: si la última época que tocaste ya está estudiada, la primera rama que sale de ella;
+  // si todavía no, seguir con esa misma; y si no hay ramas, la primera época sin estudiar en orden.
+  function siguienteParada(visitadas, pendientes) {
+    if (!visitadas.length) return pendientes[0] || null;
+    const ultima = visitadas[visitadas.length - 1];
+    if (!ultima.pr.completa) return ultima.c;
+    const rama = pendientes.find(c => c.deriva.includes(ultima.c.id) && !visitadas.some(v => v.c === c));
+    return rama || pendientes.find(c => !visitadas.some(v => v.c === c)) || pendientes[0] || null;
   }
 
   function repintar() {
@@ -441,4 +425,23 @@
   iniciarFiltrosMusicos();
   iniciarPanelMarcas();
   iniciarFiltrosEpisodios();
+  iniciarFiltroAudiovisual();
+
+  // ---------- Página "Audiovisual": filtro por tipo ----------
+  function iniciarFiltroAudiovisual() {
+    const form = document.querySelector('[data-filtros-av]');
+    const lista = document.querySelector('[data-lista-av]');
+    if (!form || !lista) return;
+    const cuenta = form.querySelector('[data-cuenta-av]');
+    const filas = $$('.av', lista);
+    const aplicar = () => {
+      const tipo = new FormData(form).get('tipo');
+      let visibles = 0;
+      for (const fila of filas) { fila.hidden = !!tipo && fila.dataset.tipo !== tipo; if (!fila.hidden) visibles++; }
+      cuenta.textContent = `${visibles} ${visibles === 1 ? 'resultado' : 'resultados'}`;
+    };
+    form.addEventListener('change', aplicar);
+    form.addEventListener('submit', e => e.preventDefault());
+    aplicar();
+  }
 })();

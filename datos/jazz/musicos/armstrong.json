@@ -25,10 +25,6 @@
     "origenes"
   ],
   "resumen": "Una de las figuras más influyentes del jazz, con una carrera de cinco décadas. Convirtió al solista improvisado en el centro de la música.[^wp-armstrong]",
-  "epocasPendientes": [
-    "Big bands de los 30",
-    "All Stars y discos con Ella Fitzgerald"
-  ],
   "epocas": [
     {
       "titulo": "De Nueva Orleans a Chicago",
@@ -45,13 +41,13 @@
       ]
     },
     {
-      "titulo": "Swing",
-      "desde": 1954,
-      "hasta": 1956,
-      "texto": "",
+      "titulo": "Los All Stars y los discos con Ella",
+      "desde": 1947,
+      "hasta": 1957,
+      "texto": "Después de años al frente de grandes orquestas, en 1947 volvió a un grupo chico, los All Stars, con el que recorrió el mundo. En los 50 grabó para Verve con Ella Fitzgerald.[^wp-armstrong]",
       "discoClave": {
         "disco": "ella-and-louis",
-        "explicacion": "Dúos con Ella Fitzgerald y el trío de Oscar Peterson: dos voces opuestas que se encuentran."
+        "explicacion": "Dos voces opuestas, la áspera de Armstrong y la limpia de Fitzgerald, con el grupo de Oscar Peterson."
       },
       "discos": [
         "louis-armstrong-plays-w-c-handy"

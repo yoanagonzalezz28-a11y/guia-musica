@@ -49,24 +49,20 @@
       "discos": []
     },
     {
-      "titulo": "Swing",
-      "desde": 1959,
+      "titulo": "Suites con Strayhorn",
+      "desde": 1957,
       "hasta": 1967,
-      "texto": "",
+      "texto": "Con Billy Strayhorn como coautor escribió suites largas inspiradas en viajes y en el cine. También grabó con músicos de otras generaciones, como Coltrane y Mingus.[^wp-ellington]",
       "discoClave": {
-        "disco": "anatomy-of-a-murder",
-        "explicacion": "La banda sonora del film de Otto Preminger: una de las primeras grandes partituras de jazz para el cine."
+        "disco": "far-east-suite",
+        "explicacion": "Escrita después de una gira por Medio Oriente y Asia. \"Isfahan\", con el saxo alto de Johnny Hodges, es una de sus baladas más famosas."
       },
       "discos": [
+        "anatomy-of-a-murder",
         "duke-ellington-and-john-coltrane",
-        "money-jungle",
-        "far-east-suite"
+        "money-jungle"
       ]
     }
-  ],
-  "epocasPendientes": [
-    "Años del Cotton Club",
-    "Suites con Strayhorn"
   ],
   "fuentes": [
     "wp-ellington"

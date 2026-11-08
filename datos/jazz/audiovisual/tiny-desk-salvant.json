@@ -1,0 +1,20 @@
+{
+  "donde": [],
+  "id": "tiny-desk-salvant",
+  "tipo": "video",
+  "titulo": "Cécile McLorin Salvant: Tiny Desk Concert",
+  "anio": 2018,
+  "director": null,
+  "descripcion": "Salvant con el pianista Sullivan Fortner, en el escritorio de NPR Music.",
+  "musicos": [
+    "salvant"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "youtube": {
+    "url": "https://www.youtube.com/watch?v=NkmGue2WQyg",
+    "canal": "NPR Music",
+    "comprobado": "2026-11-08"
+  }
+}

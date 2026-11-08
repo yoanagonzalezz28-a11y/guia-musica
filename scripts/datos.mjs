@@ -20,6 +20,7 @@ export function cargarGenero(id) {
     discos: coleccion(path.join(dir, 'discos')),
     comparaciones: coleccion(path.join(dir, 'comparaciones')),
     podcasts: coleccion(path.join(dir, 'podcasts')),
+    audiovisual: coleccion(path.join(dir, 'audiovisual')),
   };
   g.por = {
     corriente: new Map(g.corrientes.map(x => [x.id, x])),
@@ -230,6 +231,21 @@ export function validar(g, fuentes) {
       if (e.spotify?.estado !== 'verificado' && !e.original) aviso(de, 'sin Spotify exacto necesita el link original');
       if (!e.verificacion?.estado) aviso(de, 'necesita el estado de verificación');
     }
+  }
+
+  // Películas, documentales, series y videos. De YouTube entran solo canales oficiales o con permiso.
+  const TIPOS_AV = ['pelicula', 'documental', 'serie', 'concierto', 'video'];
+  for (const x of g.audiovisual) {
+    const d = `audiovisual ${x.id}`;
+    if (x._archivo !== `${x.id}.json`) err(d, 'el id no coincide con el archivo');
+    if (!TIPOS_AV.includes(x.tipo)) err(d, `tipo inválido "${x.tipo}"`);
+    if (!x.titulo || !x.descripcion) aviso(d, 'necesita título y descripción');
+    if (!Number.isInteger(x.anio) || x.anio < 1890 || x.anio > new Date().getFullYear()) err(d, `año imposible: ${x.anio}`);
+    (x.musicos || []).forEach(id => existe(d, g.por.musico, id, 'músico'));
+    (x.corrientes || []).forEach(id => existe(d, g.por.corriente, id, 'corriente'));
+    if (!(x.musicos || []).length && !(x.corrientes || []).length) aviso(d, 'no está conectado con ninguna ficha');
+    if (x.youtube && (!/^https:\/\/www\.youtube\.com\/watch\?v=[A-Za-z0-9_-]{11}$/.test(x.youtube.url) || !x.youtube.canal)) err(d, 'link de YouTube con formato inválido o sin canal');
+    for (const w of x.donde || []) if (w.url && !/^https:\/\/\S+$/.test(w.url)) err(d, `link mal formado: ${w.url}`);
   }
 
   for (const c of g.comparaciones) {

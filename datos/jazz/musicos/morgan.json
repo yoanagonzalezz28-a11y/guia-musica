@@ -42,22 +42,27 @@
       ]
     },
     {
-      "titulo": "Jazz modal",
-      "desde": 1966,
-      "hasta": 1970,
-      "texto": "",
+      "titulo": "Search for the New Land",
+      "desde": 1964,
+      "hasta": 1968,
+      "texto": "Grabó discos más largos y reflexivos, cerca del jazz modal.[^wp-morgan]",
       "discoClave": {
         "disco": "search-for-the-new-land",
         "explicacion": "Morgan en clave modal, con Wayne Shorter y Herbie Hancock."
       },
-      "discos": [
-        "live-at-the-lighthouse-morgan"
-      ]
+      "discos": []
+    },
+    {
+      "titulo": "Último grupo",
+      "desde": 1970,
+      "hasta": 1972,
+      "texto": "Su último quinteto, con Bennie Maupin, tocaba temas largos y abiertos. Murió en 1972, asesinado en un club de Nueva York.[^wp-morgan]",
+      "discoClave": {
+        "disco": "live-at-the-lighthouse-morgan",
+        "explicacion": "Grabado en un club de California, con temas largos que dejan mucho espacio a cada solista."
+      },
+      "discos": []
     }
-  ],
-  "epocasPendientes": [
-    "Search for the New Land",
-    "Último grupo, Live at the Lighthouse"
   ],
   "fuentes": [
     "wp-morgan"

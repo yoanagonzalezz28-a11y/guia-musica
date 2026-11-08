@@ -1,0 +1,20 @@
+{
+  "donde": [],
+  "id": "tiny-desk-esperanza",
+  "tipo": "video",
+  "titulo": "Esperanza Spalding: Tiny Desk Concert",
+  "anio": 2010,
+  "director": null,
+  "descripcion": "Contrabajo y voz con el grupo de Chamber Music Society.",
+  "musicos": [
+    "esperanza"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "youtube": {
+    "url": "https://www.youtube.com/watch?v=sBZa7-2bG2I",
+    "canal": "NPR Music",
+    "comprobado": "2026-11-08"
+  }
+}

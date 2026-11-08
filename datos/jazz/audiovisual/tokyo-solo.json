@@ -1,0 +1,19 @@
+{
+  "donde": [
+    {
+      "texto": "DVD de ECM"
+    }
+  ],
+  "id": "tokyo-solo",
+  "tipo": "concierto",
+  "titulo": "Keith Jarrett: Tokyo Solo",
+  "anio": 2002,
+  "director": null,
+  "descripcion": "Concierto de piano solo filmado en Tokio en 2002 y editado en DVD por ECM.",
+  "musicos": [
+    "jarrett"
+  ],
+  "corrientes": [
+    "ecm"
+  ]
+}

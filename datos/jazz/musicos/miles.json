@@ -25,11 +25,6 @@
   ],
   "spotify": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4",
   "resumen": "Uno de los músicos más influyentes del jazz y del siglo XX, presente en el nacimiento de varios estilos, del cool a la fusión.[^wp-miles]",
-  "epocasPendientes": [
-    "Quinteto de los 50",
-    "Discos con Gil Evans",
-    "Segundo quinteto"
-  ],
   "epocas": [
     {
       "titulo": "El noneto",
@@ -43,8 +38,35 @@
       "discos": []
     },
     {
+      "titulo": "Quinteto de los 50",
+      "desde": 1955,
+      "hasta": 1958,
+      "texto": "Con John Coltrane, Red Garland, Paul Chambers y Philly Joe Jones armó su primer gran quinteto. Grabó a la vez para Prestige, para cerrar el contrato, y para Columbia.[^wp-miles]",
+      "discoClave": {
+        "disco": "round-about-midnight",
+        "explicacion": "El primer disco para Columbia: sordina, baladas y un grupo que suena relajado incluso a tempo rápido."
+      },
+      "discos": [
+        "cookin",
+        "workin-with-the-miles-davis-quintet"
+      ]
+    },
+    {
+      "titulo": "Discos con Gil Evans",
+      "desde": 1957,
+      "hasta": 1960,
+      "texto": "Volvió a trabajar con Gil Evans en discos para orquesta, donde la trompeta de Davis aparece como solista sobre arreglos llenos de colores.[^wp-miles]",
+      "discoClave": {
+        "disco": "miles-ahead",
+        "explicacion": "La primera de esas colaboraciones: diez piezas encadenadas, con Davis en fliscorno."
+      },
+      "discos": [
+        "sketches-of-spain-miles-davis"
+      ]
+    },
+    {
       "titulo": "Kind of Blue",
-      "desde": 1958,
+      "desde": 1957,
       "hasta": 1959,
       "texto": "A fines de los 50, ya con Coltrane y Adderley, dejó atrás los cambios rápidos de acordes para buscar algo más abierto.[^wp-modal]",
       "discoClave": {
@@ -56,8 +78,22 @@
       ]
     },
     {
+      "titulo": "Segundo quinteto",
+      "desde": 1964,
+      "hasta": 1968,
+      "texto": "Con Wayne Shorter, Herbie Hancock, Ron Carter y Tony Williams llevó el jazz acústico al borde de la libertad, con temas cortos y estructuras abiertas.[^wp-miles]",
+      "discoClave": {
+        "disco": "miles-smiles",
+        "explicacion": "El grupo en su punto más suelto: \"Footprints\" y \"Orbits\", con el piano callado durante varios solos."
+      },
+      "discos": [
+        "e-s-p-miles-davis",
+        "nefertiti"
+      ]
+    },
+    {
       "titulo": "La electricidad",
-      "desde": 1969,
+      "desde": 1968,
       "hasta": 1970,
       "texto": "Enchufó su música, rodeado de músicos jóvenes, y dejó atrás los ritmos tradicionales del jazz.[^wp-fusion]",
       "discoClave": {

@@ -1,0 +1,83 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0jwbGEDOCydvlWUIhS6gGY",
+    "tituloEnSpotify": "Meditations",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "meditations",
+  "titulo": "Meditations",
+  "credito": "John Coltrane",
+  "lideres": [
+    "coltrane"
+  ],
+  "grabacion": {
+    "desde": 1965,
+    "hasta": 1966,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1966,
+    "detalle": null
+  },
+  "sello": "Impulse!",
+  "musicos": [
+    {
+      "musico": "coltrane",
+      "nombre": "John Coltrane",
+      "instrumento": "saxo tenor, saxo soprano"
+    },
+    {
+      "musico": "sanders",
+      "nombre": "Pharoah Sanders",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": "tyner",
+      "nombre": "McCoy Tyner",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Garrison",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "elvin",
+      "nombre": "Elvin Jones",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Rashied Ali",
+      "instrumento": "batería"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "free"
+  ],
+  "comentario": [
+    "Una suite espiritual con dos bateristas a la vez: la última grabación con McCoy Tyner y Elvin Jones."
+  ],
+  "ids": {
+    "musicbrainz": "550090da-a050-3e18-9ace-af7d07089d7b",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Meditations_(John_Coltrane_album)"
+  },
+  "respaldo": []
+}

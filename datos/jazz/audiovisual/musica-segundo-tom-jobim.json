@@ -1,0 +1,15 @@
+{
+  "donde": [],
+  "id": "musica-segundo-tom-jobim",
+  "tipo": "documental",
+  "titulo": "A Música Segundo Tom Jobim",
+  "anio": 2012,
+  "director": "Nelson Pereira dos Santos",
+  "descripcion": "La música de Jobim contada solo con canciones e imágenes de archivo, casi sin narración.",
+  "musicos": [
+    "jobim"
+  ],
+  "corrientes": [
+    "brasil"
+  ]
+}

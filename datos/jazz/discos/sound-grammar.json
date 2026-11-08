@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Sound Grammar Ornette Coleman"
+  },
+  "id": "sound-grammar",
+  "titulo": "Sound Grammar",
+  "credito": "Ornette Coleman",
+  "lideres": [
+    "ornette"
+  ],
+  "grabacion": {
+    "desde": 2005,
+    "hasta": 2006,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2006,
+    "detalle": null
+  },
+  "sello": "Sound Grammar",
+  "musicos": [
+    {
+      "musico": "ornette",
+      "nombre": "Ornette Coleman",
+      "instrumento": "saxo alto, trompeta, violín"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "free"
+  ],
+  "comentario": [
+    "Grabado en vivo en Alemania con dos contrabajistas y su hijo Denardo en batería. Ganó el premio Pulitzer de música en 2007."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Sound_Grammar"
+  },
+  "respaldo": []
+}

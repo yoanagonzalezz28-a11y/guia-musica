@@ -1,0 +1,78 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4ilAxtGR8aOj6M8X1HeHPY",
+    "tituloEnSpotify": "Nefertiti (Expanded Edition)",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "nefertiti",
+  "titulo": "Nefertiti",
+  "credito": "Miles Davis",
+  "lideres": [
+    "miles"
+  ],
+  "grabacion": {
+    "desde": 1967,
+    "hasta": 1968,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1968,
+    "detalle": null
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "miles",
+      "nombre": "Miles Davis",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": "shorter",
+      "nombre": "Wayne Shorter",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": "hancock",
+      "nombre": "Herbie Hancock",
+      "instrumento": "piano"
+    },
+    {
+      "musico": "ronc",
+      "nombre": "Ron Carter",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "tonyw",
+      "nombre": "Tony Williams",
+      "instrumento": "batería"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "modal"
+  ],
+  "comentario": [
+    "En el tema del título los vientos repiten la melodía una y otra vez y la improvisación pasa a la batería de Tony Williams."
+  ],
+  "ids": {
+    "musicbrainz": "eb84987d-15bd-3f69-bcd0-a0804c9d1130",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Nefertiti_(album)"
+  },
+  "respaldo": []
+}

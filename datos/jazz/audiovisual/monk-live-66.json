@@ -1,0 +1,19 @@
+{
+  "donde": [
+    {
+      "texto": "DVD de la serie Jazz Icons"
+    }
+  ],
+  "id": "monk-live-66",
+  "tipo": "concierto",
+  "titulo": "Jazz Icons: Thelonious Monk – Live in '66",
+  "anio": 1966,
+  "director": null,
+  "descripcion": "El cuarteto con Charlie Rouse filmado por la televisión de Noruega y Dinamarca en 1966.",
+  "musicos": [
+    "monk"
+  ],
+  "corrientes": [
+    "bebop"
+  ]
+}

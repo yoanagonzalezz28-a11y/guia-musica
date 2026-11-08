@@ -1,0 +1,20 @@
+{
+  "donde": [
+    {
+      "texto": "Apple TV+"
+    }
+  ],
+  "id": "louis-armstrong-black-and-blues",
+  "tipo": "documental",
+  "titulo": "Louis Armstrong's Black & Blues",
+  "anio": 2022,
+  "director": "Sacha Jenkins",
+  "descripcion": "Armstrong contado en buena parte con sus propias grabaciones caseras.",
+  "musicos": [
+    "armstrong"
+  ],
+  "corrientes": [
+    "origenes",
+    "swing"
+  ]
+}

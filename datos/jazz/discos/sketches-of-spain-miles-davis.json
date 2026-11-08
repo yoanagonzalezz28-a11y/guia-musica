@@ -18,9 +18,9 @@
   },
   "id": "sketches-of-spain-miles-davis",
   "titulo": "Sketches of Spain (Miles Davis)",
-  "credito": "Gil Evans",
+  "credito": "Miles Davis",
   "lideres": [
-    "gilevans"
+    "miles"
   ],
   "grabacion": {
     "desde": 1960,
@@ -33,6 +33,11 @@
   },
   "sello": "Columbia",
   "musicos": [
+    {
+      "musico": "miles",
+      "nombre": "Miles Davis",
+      "instrumento": "trompeta y fliscorno"
+    },
     {
       "musico": "gilevans",
       "nombre": "Gil Evans",

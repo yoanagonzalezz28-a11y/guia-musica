@@ -1,0 +1,15 @@
+{
+  "donde": [],
+  "id": "born-to-be-blue",
+  "tipo": "pelicula",
+  "titulo": "Born to Be Blue",
+  "anio": 2015,
+  "director": "Robert Budreau",
+  "descripcion": "Ficción sobre el intento de regreso de Chet Baker a fines de los 60, con Ethan Hawke.",
+  "musicos": [
+    "baker"
+  ],
+  "corrientes": [
+    "cool"
+  ]
+}

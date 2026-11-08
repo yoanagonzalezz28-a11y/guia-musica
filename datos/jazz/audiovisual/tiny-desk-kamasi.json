@@ -1,0 +1,20 @@
+{
+  "donde": [],
+  "id": "tiny-desk-kamasi",
+  "tipo": "video",
+  "titulo": "Kamasi Washington: Tiny Desk Concert",
+  "anio": 2024,
+  "director": null,
+  "descripcion": "Kamasi Washington con su banda de Los Ángeles.",
+  "musicos": [
+    "washington"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "youtube": {
+    "url": "https://www.youtube.com/watch?v=x8WTPgeVPjg",
+    "canal": "NPR Music",
+    "comprobado": "2026-11-08"
+  }
+}

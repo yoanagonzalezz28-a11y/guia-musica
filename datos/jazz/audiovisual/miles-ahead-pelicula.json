@@ -1,0 +1,15 @@
+{
+  "donde": [],
+  "id": "miles-ahead-pelicula",
+  "tipo": "pelicula",
+  "titulo": "Miles Ahead",
+  "anio": 2015,
+  "director": "Don Cheadle",
+  "descripcion": "Ficción sobre los años de silencio de Davis a fines de los 70, dirigida y protagonizada por Don Cheadle. Mezcla hechos reales con una trama inventada.",
+  "musicos": [
+    "miles"
+  ],
+  "corrientes": [
+    "fusion"
+  ]
+}

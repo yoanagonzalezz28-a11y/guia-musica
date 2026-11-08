@@ -26,18 +26,28 @@
   "resumen": "Revolucionó el tango con el nuevo tango, que incorporó elementos del jazz y de la música clásica, y fue polémico en la Argentina. Escuchar el octeto de Gerry Mulligan le dio la idea de su propio octeto.[^wp-piazzolla]",
   "epocas": [
     {
-      "titulo": "Jazz rioplatense",
+      "titulo": "Nonino y Libertango",
       "desde": 1969,
       "hasta": 1974,
-      "texto": "",
+      "texto": "Entre Buenos Aires e Italia, su nuevo tango se volvió más eléctrico y rítmico.[^wp-piazzolla]",
       "discoClave": {
         "disco": "adios-nonino",
         "explicacion": "El tema dedicado a su padre, en una de sus grandes versiones."
       },
       "discos": [
-        "summit-reunion-cumbre",
         "libertango"
       ]
+    },
+    {
+      "titulo": "Summit con Mulligan",
+      "desde": 1974,
+      "hasta": 1974,
+      "texto": "En Milán grabó con el saxofonista barítono Gerry Mulligan, un encuentro entre el nuevo tango y el jazz de la costa oeste.[^wp-piazzolla]",
+      "discoClave": {
+        "disco": "summit-reunion-cumbre",
+        "explicacion": "Mulligan toca sobre arreglos de Piazzolla, y el resultado suena más a tango que a jazz."
+      },
+      "discos": []
     },
     {
       "titulo": "Nueva York y Montreux",
@@ -52,10 +62,6 @@
         "the-rough-dancer-and-the-cyclical-night-tango-apas"
       ]
     }
-  ],
-  "epocasPendientes": [
-    "Octeto Buenos Aires",
-    "Summit con Mulligan"
   ],
   "fuentes": [
     "wp-piazzolla"

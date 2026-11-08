@@ -1,0 +1,17 @@
+{
+  "donde": [],
+  "id": "round-midnight",
+  "tipo": "pelicula",
+  "titulo": "'Round Midnight",
+  "anio": 1986,
+  "director": "Bertrand Tavernier",
+  "descripcion": "Ficción sobre un saxofonista estadounidense en el París de los 50, protagonizada por Dexter Gordon. Herbie Hancock ganó el Oscar por la música.",
+  "musicos": [
+    "dexter",
+    "hancock"
+  ],
+  "corrientes": [
+    "bebop",
+    "hard-bop"
+  ]
+}

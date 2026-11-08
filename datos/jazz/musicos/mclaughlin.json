@@ -37,10 +37,18 @@
         "my-goal-s-beyond",
         "birds-of-fire"
       ]
+    },
+    {
+      "titulo": "Shakti",
+      "desde": 1975,
+      "hasta": 1978,
+      "texto": "Dejó la guitarra eléctrica para tocar música del sur de la India con Zakir Hussain en tablas y L. Shankar en violín.[^wp-mclaughlin]",
+      "discoClave": {
+        "disco": "shakti",
+        "explicacion": "El primer disco del grupo, grabado en vivo: guitarra acústica, tablas y violín a toda velocidad."
+      },
+      "discos": []
     }
-  ],
-  "epocasPendientes": [
-    "Shakti"
   ],
   "fuentes": [
     "wp-mclaughlin"

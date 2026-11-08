@@ -1,0 +1,51 @@
+{
+  "id": "cool-vs-hard-bop",
+  "titulo": "Cool y hard bop",
+  "a": "cool",
+  "b": "hard-bop",
+  "tintaCruce": "#3A2A1E",
+  "intro": "Los dos salen del bebop y conviven en los años 50, pero eligen caminos opuestos. El cool baja el volumen y cuida los arreglos; el hard bop sube la temperatura y vuelve al blues y a la iglesia.",
+  "ejes": [
+    {
+      "eje": "De dónde sale",
+      "a": "Del bebop, con un sonido más suave y arreglos pensados para grupos de cámara.[^wp-cool]",
+      "b": "Del bebop, con el blues, el gospel y el rhythm and blues sumados.[^wp-hardbop]"
+    },
+    {
+      "eje": "Dónde",
+      "a": "Empieza en Nueva York y después se asocia sobre todo con la costa oeste de Estados Unidos.[^wp-cool]",
+      "b": "Nueva York, Detroit y Filadelfia, con sellos como Blue Note y Prestige.[^wp-hardbop]"
+    },
+    {
+      "eje": "Sonido",
+      "a": "Timbres claros, poco vibrato y volumen bajo.",
+      "b": "Sonido más pesado y caliente, con ataque fuerte."
+    },
+    {
+      "eje": "Arreglos",
+      "a": "Escritura cuidada y contrapunto. A veces suman instrumentos poco comunes en el jazz, como el corno o la tuba.[^wp-cool]",
+      "b": "Temas cortos y pegadizos que abren paso a solos largos."
+    },
+    {
+      "eje": "Batería",
+      "a": "Escobillas y un acompañamiento discreto.",
+      "b": "La batería empuja al grupo, con redobles y golpes fuertes, como la de Art Blakey.[^wp-blakey]"
+    }
+  ],
+  "escuchaParalela": [
+    {
+      "a": { "disco": "birth-of-the-cool", "tema": "Boplicity" },
+      "b": { "disco": "moanin", "tema": "Moanin'" },
+      "consigna": "Fijate en los vientos. En \"Boplicity\" suenan como una sola masa suave; en \"Moanin'\" el piano llama y los vientos responden, como en una iglesia."
+    },
+    {
+      "a": { "disco": "time-out", "tema": "Take Five" },
+      "b": { "disco": "song-for-my-father", "tema": "Song for My Father" },
+      "consigna": "Dos temas famosos que se apoyan en una figura que se repite. Escuchá cómo uno la toca liviana, en cinco tiempos, y el otro la vuelve grave y bluesera."
+    }
+  ],
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  }
+}

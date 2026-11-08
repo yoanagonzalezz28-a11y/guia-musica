@@ -1,0 +1,20 @@
+{
+  "donde": [],
+  "id": "tiny-desk-snarky",
+  "tipo": "video",
+  "titulo": "Snarky Puppy: Tiny Desk Concert",
+  "anio": 2019,
+  "director": null,
+  "descripcion": "Snarky Puppy toca \"Tarova\" y \"Xavi\" apretados alrededor del escritorio.",
+  "musicos": [
+    "snarky-puppy"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "youtube": {
+    "url": "https://www.youtube.com/watch?v=vfzu33BfRHE",
+    "canal": "NPR Music",
+    "comprobado": "2026-11-08"
+  }
+}

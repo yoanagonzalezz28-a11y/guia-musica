@@ -1,0 +1,20 @@
+{
+  "donde": [],
+  "id": "tiny-desk-kenny-garrett",
+  "tipo": "video",
+  "titulo": "Kenny Garrett and Sounds From The Ancestors: Tiny Desk Concert",
+  "anio": 2023,
+  "director": null,
+  "descripcion": "El saxofonista con el grupo de su disco Sounds From the Ancestors.",
+  "musicos": [
+    "kenny-garrett"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "youtube": {
+    "url": "https://www.youtube.com/watch?v=8IcrlAYyA_o",
+    "canal": "NPR Music",
+    "comprobado": "2026-11-08"
+  }
+}

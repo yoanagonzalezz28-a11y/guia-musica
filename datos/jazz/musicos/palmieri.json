@@ -37,25 +37,42 @@
       },
       "discos": [
         "azucar-pa-ti",
-        "harlem-river-drive",
         "vamonos-pa-l-monte"
       ]
     },
     {
-      "titulo": "Jazz latino",
+      "titulo": "Harlem River Drive",
+      "desde": 1971,
+      "hasta": 1971,
+      "texto": "Armó un grupo que cruzaba salsa, soul y funk, con letras sobre la vida en el barrio.[^wp-palmieri]",
+      "discoClave": {
+        "disco": "harlem-river-drive",
+        "explicacion": "Un disco único en su carrera, entre la salsa y el funk de la época."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Palo pa' rumba",
       "desde": 1984,
       "hasta": 1984,
-      "texto": "",
+      "texto": "En los 80 volvió a los grupos de salsa y jazz latino, con temas largos y solos de piano.[^wp-palmieri]",
       "discoClave": {
         "disco": "palo-pa-rumba",
         "explicacion": "Ganó un Grammy: salsa dura con mucha armonía de jazz."
       },
       "discos": []
+    },
+    {
+      "titulo": "Palmieri y Tito Puente",
+      "desde": 2000,
+      "hasta": 2000,
+      "texto": "Se juntó con Tito Puente en un disco grabado poco antes de la muerte del timbalero.[^wp-palmieri]",
+      "discoClave": {
+        "disco": "masterpiece-obra-maestra",
+        "explicacion": "Mambo, son y jazz latino con arreglos para muchos vientos."
+      },
+      "discos": []
     }
-  ],
-  "epocasPendientes": [
-    "Harlem River Drive",
-    "Palmieri y Tito Puente"
   ],
   "fuentes": [
     "wp-palmieri"

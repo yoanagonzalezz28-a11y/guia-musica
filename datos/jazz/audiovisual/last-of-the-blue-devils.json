@@ -1,0 +1,15 @@
+{
+  "donde": [],
+  "id": "last-of-the-blue-devils",
+  "tipo": "documental",
+  "titulo": "The Last of the Blue Devils",
+  "anio": 1979,
+  "director": "Bruce Ricker",
+  "descripcion": "Músicos del jazz de Kansas City, con Count Basie y Big Joe Turner, se reúnen a tocar y a recordar.",
+  "musicos": [
+    "basie"
+  ],
+  "corrientes": [
+    "swing"
+  ]
+}

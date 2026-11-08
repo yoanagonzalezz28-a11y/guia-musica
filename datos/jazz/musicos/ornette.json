@@ -36,28 +36,53 @@
         "explicacion": "El manifiesto de esta música, y además un disco muy melódico."
       },
       "discos": [
-        "free-jazz-a-collective-improvisation",
         "change-of-the-century"
       ]
     },
     {
-      "titulo": "Free jazz",
+      "titulo": "Free Jazz (1961)",
+      "desde": 1960,
+      "hasta": 1961,
+      "texto": "Con dos cuartetos tocando a la vez, uno en cada canal estéreo, grabó una improvisación colectiva de casi cuarenta minutos que le dio nombre al estilo.[^wp-ornette]",
+      "discoClave": {
+        "disco": "free-jazz-a-collective-improvisation",
+        "explicacion": "Dos cuartetos al mismo tiempo, improvisando 37 minutos: le dio nombre al estilo."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "El trío en Europa",
       "desde": 1965,
-      "hasta": 1977,
-      "texto": "",
+      "hasta": 1966,
+      "texto": "Con David Izenzon y Charles Moffett armó un trío en el que él también tocaba violín y trompeta.[^wp-ornette]",
       "discoClave": {
         "disco": "at-the-golden-circle-stockholm-vol-1",
         "explicacion": "Trío en Estocolmo: también toca violín y trompeta."
       },
-      "discos": [
-        "dancing-in-your-head"
-      ]
+      "discos": []
+    },
+    {
+      "titulo": "Prime Time y armolodia",
+      "desde": 1975,
+      "hasta": 1995,
+      "texto": "Pasó a un grupo eléctrico, Prime Time, con dos guitarras y dos bajos, y llamó armolodia a su manera de pensar la música.[^wp-ornette]",
+      "discoClave": {
+        "disco": "dancing-in-your-head",
+        "explicacion": "El primer disco con la banda eléctrica, con un tema que vuelve una y otra vez sobre la misma melodía."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Sound Grammar",
+      "desde": 2005,
+      "hasta": 2006,
+      "texto": "Con más de setenta años grabó en vivo con dos contrabajistas y su hijo Denardo en batería.[^wp-ornette]",
+      "discoClave": {
+        "disco": "sound-grammar",
+        "explicacion": "Ganó el premio Pulitzer de música en 2007."
+      },
+      "discos": []
     }
-  ],
-  "epocasPendientes": [
-    "Free Jazz (1961)",
-    "Prime Time y armolodia",
-    "Sound Grammar"
   ],
   "fuentes": [
     "wp-ornette"

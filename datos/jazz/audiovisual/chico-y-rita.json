@@ -1,0 +1,15 @@
+{
+  "donde": [],
+  "id": "chico-y-rita",
+  "tipo": "pelicula",
+  "titulo": "Chico y Rita",
+  "anio": 2010,
+  "director": "Fernando Trueba, Javier Mariscal y Tono Errando",
+  "descripcion": "Película animada sobre un pianista y una cantante cubanos entre La Habana y Nueva York, con música de Bebo Valdés.",
+  "musicos": [
+    "bebo"
+  ],
+  "corrientes": [
+    "latino"
+  ]
+}

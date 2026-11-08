@@ -20,8 +20,9 @@
   },
   "id": "crystal-silence",
   "titulo": "Crystal Silence",
-  "credito": "Gary Burton",
+  "credito": "Chick Corea y Gary Burton",
   "lideres": [
+    "corea",
     "burton"
   ],
   "grabacion": {
@@ -35,6 +36,11 @@
   },
   "sello": "ECM",
   "musicos": [
+    {
+      "musico": "corea",
+      "nombre": "Chick Corea",
+      "instrumento": "piano"
+    },
     {
       "musico": "burton",
       "nombre": "Gary Burton",

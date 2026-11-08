@@ -28,7 +28,8 @@ const hastaHoy = c => c.periodo.hasta >= new Date().getFullYear() - 1;
 const finEpoca = c => (hastaHoy(c) ? 'hoy' : c.periodo.hasta);
 const dos = n => String(n).padStart(2, '0');
 // Spotify agrega a los títulos "(feat. ...)" con los músicos invitados: en la contratapa ya están en el personal.
-const tituloTema = t => String(t).replace(/\s*[([](feat|with)\.?\s[^)\]]*[)\]]/gi, '').trim();
+// También quita los agregados de reedición: "- Remastered 1998", "- Rudy Van Gelder Edition", "- Mono".
+const tituloTema = t => String(t).replace(/\s*[([](feat|with)\.?\s[^)\]]*[)\]]/gi, '').replace(/\s+-\s+[^-]*\b(remaster|remastered|edition|digital|mono|stereo)\b.*$/i, '').trim();
 const duracion = s => (s ? `${Math.floor(s / 60)}:${dos(s % 60)}` : '');
 
 const URL = {
@@ -44,6 +45,7 @@ const URL = {
   comparaciones: () => 'jazz/comparar/',
   comparacion: id => `jazz/comparar/${id}/`,
   podcasts: () => 'jazz/podcasts/',
+  audiovisual: () => 'jazz/audiovisual/',
   marcas: () => 'mis-marcas/',
   acerca: () => 'acerca/',
 };
@@ -147,6 +149,37 @@ const enlaceSpotify = d => d.spotify.estado === 'verificado'
   ? { url: d.spotify.url, texto: 'Escuchar en Spotify', verificado: true }
   : { url: `https://open.spotify.com/search/${encodeURIComponent(d.spotify.consulta)}/albums`, texto: 'Buscar en Spotify', verificado: false };
 
+// ---------- Para ver y escuchar ----------
+const TIPO_AV = { pelicula: 'Película', documental: 'Documental', serie: 'Serie', concierto: 'Concierto filmado', video: 'Video en YouTube' };
+const audiovisualDe = (tipo, id) => g.audiovisual.filter(x => (tipo === 'musico' ? x.musicos : x.corrientes).includes(id)).sort((a, b) => a.anio - b.anio);
+function tarjetaAV(ctx, x, { conFichas = false } = {}) {
+  const donde = (x.donde || []).map(w => (w.url ? `<a href="${esc(w.url)}" rel="noopener">${esc(w.texto)}</a>` : esc(w.texto)));
+  const fichas = conFichas ? [...x.musicos.map(id => enlaceMusico(ctx, id)), ...x.corrientes.map(id => enlaceCorriente(ctx, id))] : [];
+  return `<li class="av" data-tipo="${x.tipo}">
+    <span class="av-tipo dato">${TIPO_AV[x.tipo]} · ${x.anio}</span>
+    <strong class="av-titulo">${esc(x.titulo)}</strong>
+    ${x.director || donde.length ? `<span class="av-meta">${x.director ? `Dirección: ${esc(x.director)}` : ''}${x.director && donde.length ? ' · ' : ''}${donde.length ? `Dónde verla: ${donde.join(', ')}` : ''}</span>` : ''}
+    <p>${esc(x.descripcion)}</p>
+    ${fichas.length ? `<p class="av-fichas">${unir(fichas)}</p>` : ''}
+    ${x.youtube ? `<p class="av-acciones"><a class="boton boton-chico" href="${esc(x.youtube.url)}" rel="noopener">Ver en YouTube</a> <span class="dato">Canal oficial: ${esc(x.youtube.canal)}</span></p>` : ''}
+  </li>`;
+}
+// Solo en las fichas que tienen películas, documentales o videos: en el resto queda el bloque de podcasts de siempre.
+function bloqueVerYEscuchar(ctx, tipo, id, { numero } = {}) {
+  const av = audiovisualDe(tipo, id);
+  if (!av.length) return bloquePodcasts(ctx, tipo, id, { numero });
+  const episodios = episodiosDe(g, tipo, id).slice(0, 4);
+  const videos = av.filter(x => x.youtube);
+  const filmes = av.filter(x => !x.youtube);
+  const grupo = (titulo, cuerpo) => `<section class="av-grupo"><h3>${titulo}</h3>${cuerpo}</section>`;
+  const cuerpo = `<div class="ver-y-escuchar podcasts-ficha">
+    ${episodios.length ? grupo('Podcasts', `<ul class="episodios">${episodios.map(tarjetaEpisodio).join('')}</ul>`) : ''}
+    ${videos.length ? grupo('Entrevistas y conciertos en YouTube', `<ul class="av-lista">${videos.map(x => tarjetaAV(ctx, x)).join('')}</ul>`) : ''}
+    ${filmes.length ? grupo('Películas y documentales', `<ul class="av-lista">${filmes.map(x => tarjetaAV(ctx, x)).join('')}</ul>`) : ''}
+    <p class="ayuda"><a href="${ctx.a(URL.audiovisual())}">Todo lo audiovisual del banco</a></p></div>`;
+  return numero ? numerado(numero, cuerpo, 'Para ver y escuchar') : `<section class="bloque"><h2>Para ver y escuchar</h2>${cuerpo}</section>`;
+}
+
 // Bloques numerados 01, 02, 03 del afiche.
 const numerado = (n, cuerpo, titulo = '') => `<section class="numerado"><span class="numerado-num" aria-hidden="true">${dos(n)}</span><div class="numerado-cuerpo">${titulo ? `<h2>${titulo}</h2>` : ''}${cuerpo}</div></section>`;
 
@@ -205,6 +238,15 @@ function porDecada(corrientes) {
 }
 const grillaDeTapas = ctx => `<div class="grilla-tapas">${porDecada(g.corrientes).map(([dec, lista]) => `<section class="fila-tapas" aria-label="Épocas que empiezan en los ${dec}"><h2 class="decada-rotulo">${dec}</h2><ul class="tapas">${lista.map(c => tapa(ctx, c)).join('')}</ul></section>`).join('')}</div>`;
 
+// ---------- Tu camino: la línea completa, de Orígenes a hoy ----------
+// Sale gris desde el servidor; sitio.js la colorea con las marcas guardadas en el navegador.
+const totalDeEpoca = c => g.discos.filter(d => d.corrientes.includes(c.id)).length + c.musicos.filter(id => g.por.musico.has(id)).length;
+const metroInicial = ctx => `<ol class="metro-linea">${ORDEN.map(c => `<li class="parada sin-empezar" data-parada="${c.id}" style="${tintaVars(c)};--p:0">
+  <span class="parada-punto" aria-hidden="true"></span>
+  <div><a class="parada-nombre" href="${ctx.a(URL.corriente(c.id))}">${esc(c.nombre)}</a>
+  <span class="parada-datos dato"><span class="parada-anios">${c.periodo.desde}–${finEpoca(c)}</span> · <span data-parada-cuenta>0 de ${totalDeEpoca(c)}</span><span data-parada-fecha></span></span></div></li>`).join('')}</ol>
+  <div class="metro-elegir" data-metro-elegir hidden></div>`;
+
 // ---------- Comparación de dos corrientes ----------
 function barrasDeTinta(corrientes, [ini, fin], ctx, { cruce, enlazar = true } = {}) {
   const pos = a => ((a - ini) / (fin - ini)) * 100;
@@ -244,7 +286,7 @@ function fuentesPlegadas(ctx, { respaldo = '', extra = [], cotejado = null } = {
 }
 
 function pagina(ruta, ctx, { titulo, descripcion, cuerpo, seccion, claseCuerpo = '' }) {
-  const nav = [['Épocas', URL.corrientes(), 'corrientes'], ['Músicos', URL.musicos(), 'musicos'], ['Discos', URL.discos(), 'discos'], ['Regiones', URL.regiones(), 'regiones'], ['Podcasts', URL.podcasts(), 'podcasts'], ['Comparar', URL.comparaciones(), 'comparar'], ['Mis marcas', URL.marcas(), 'marcas']];
+  const nav = [['Épocas', URL.corrientes(), 'corrientes'], ['Músicos', URL.musicos(), 'musicos'], ['Discos', URL.discos(), 'discos'], ['Regiones', URL.regiones(), 'regiones'], ['Audiovisual', URL.audiovisual(), 'audiovisual'], ['Comparar', URL.comparaciones(), 'comparar'], ['Mis marcas', URL.marcas(), 'marcas']];
   const html = `<!doctype html>
 <html lang="es-AR" data-raiz="${ctx.raiz}">
 <head>
@@ -316,8 +358,8 @@ const construir = {
       ${grillaDeTapas(ctx)}
       <p class="presentacion">${g.corrientes.length} épocas, de Nueva Orleans a hoy. Cada tapa abre una época con su historia, sus músicos y sus discos.</p>
       <section class="camino" aria-labelledby="titulo-camino"><h2 id="titulo-camino">Tu camino</h2>
-        <p class="ayuda">Tus paradas aparecen en el orden en que las recorrés. Cada una se llena a medida que marcás discos y músicos, y al completar una época el camino te sugiere la siguiente.</p>
-        <div class="metro" data-metro><p class="metro-vacio">Tu camino se arma con lo que marcás en este navegador.</p></div>
+        <p class="ayuda">Cada parada toma su color cuando marcás algo de esa época y se llena cuando la marcás como estudiada.</p>
+        <div class="metro" data-metro>${metroInicial(ctx)}</div>
       </section>`,
     });
   },
@@ -338,7 +380,7 @@ const construir = {
     const hijas = g.corrientes.filter(x => x.deriva.includes(c.id));
     const padres = c.deriva.map(id => enlaceCorriente(ctx, id)).concat(c.derivaPendiente.map(esc));
     const discos = g.discos.filter(d => d.corrientes.includes(c.id)).sort((a, b) => anioDisco(a) - anioDisco(b));
-    const comparacion = g.comparaciones.find(x => x.a === c.id || x.b === c.id);
+    const comparaciones = g.comparaciones.filter(x => x.a === c.id || x.b === c.id);
     let n = 0;
     const bloques = [
       numerado(++n, `<div class="lectura">${c.texto.map(p => `<p>${ctx.texto(p)}</p>`).join('')}
@@ -352,8 +394,10 @@ const construir = {
       numerado(++n, `<ul class="lista-musicos">${c.musicos.filter(id => g.por.musico.has(id)).map(id => tarjetaMusico(ctx, id)).join('')}</ul>
         ${c.musicosPendientes.length ? `<p class="pendientes"><strong>Fichas por escribir:</strong> ${esc(c.musicosPendientes.join(', '))}.</p>` : ''}`, 'Músicos'),
       numerado(++n, `<p class="ayuda">${discos.length} discos. Marcá los que vas escuchando: tu camino se llena con ellos.</p><ul class="lista-discos">${discos.map(d => filaDisco(ctx, d)).join('')}</ul>`, 'Los discos'),
-      bloquePodcasts(ctx, 'corriente', c.id, { numero: ++n }),
+      bloqueVerYEscuchar(ctx, 'corriente', c.id, { numero: ++n }),
     ].filter(Boolean).join('');
+    // "Época estudiada" está arriba, en el afiche, y otra vez al final. No hace falta marcar todos los discos.
+    const botonEstudiada = `<button type="button" class="boton-completar" data-completar="corriente:${c.id}" data-completar-titulo="${esc(c.nombre)}" aria-pressed="false">Época estudiada</button>`;
     pagina(ruta, ctx, {
       titulo: c.nombre, descripcion: `${c.lema}. ${sinCitas(c.texto[0])}`, seccion: 'corrientes',
       cuerpo: `<div style="${tintaVars(c)}">
@@ -363,14 +407,15 @@ const construir = {
         <h1 style="--largo:${largoTitular(c.nombre)}">${esc(c.nombre)}</h1>
         <p class="afiche-lema">${esc(c.lema)}</p>
         <div class="afiche-banda" aria-hidden="true"></div>
+        <div class="completar-arriba">${botonEstudiada}<span class="completar-fecha dato" data-completar-fecha></span></div>
         <ol class="hitos-linea" aria-label="Fechas clave">${c.hitos.map(h => `<li><span class="hito-fecha dato">${esc(h.fecha)}</span><p>${ctx.texto(h.texto)}</p></li>`).join('')}</ol>
       </header>
       ${bloques}
-      ${comparacion ? `<a class="comparar-enlace" href="${ctx.a(URL.comparacion(comparacion.id))}"><span class="dato">Comparar</span> ${esc(comparacion.titulo)}</a>` : ''}
+      ${comparaciones.map(x => `<a class="comparar-enlace" href="${ctx.a(URL.comparacion(x.id))}"><span class="dato">Comparar</span> ${esc(x.titulo)}</a>`).join('')}
       <section class="completar" aria-label="Estado de la época">
-        <button type="button" class="boton-completar" data-completar="corriente:${c.id}" data-completar-titulo="${esc(c.nombre)}" aria-pressed="false">Marcar época como completada</button>
+        ${botonEstudiada}
         <p class="completar-fecha dato" data-completar-fecha></p>
-        <p class="ayuda">No hace falta haber escuchado todo: marcala cuando sientas que la recorriste. Se puede desmarcar.</p>
+        <p class="ayuda">No hace falta marcar todos los discos: tocalo cuando sientas que la estudiaste. Se puede desmarcar.</p>
       </section>
       ${fuentesPlegadas(ctx, { respaldo: bloqueRespaldo(c) })}
       </div>`,
@@ -432,7 +477,7 @@ const construir = {
             </div></article>`;
         }).join('')}</div></section>` : ''}
       ${cincoDiscos(ctx, m)}
-      ${bloquePodcasts(ctx, 'musico', m.id)}
+      ${bloqueVerYEscuchar(ctx, 'musico', m.id)}
       ${otros.length ? `<section class="bloque"><h2>También toca en</h2><ul class="lista-discos">${otros.map(d => filaDisco(ctx, d)).join('')}</ul></section>` : ''}
       ${socios.length ? `<section class="bloque"><h2>Tocó con</h2><p class="ayuda">Sale de los discos cargados, no de toda su carrera.</p><ul class="socios">${socios.map(s => `<li>${enlaceMusico(ctx, s.id)} <span>${s.n} ${s.n === 1 ? 'disco' : 'discos'}</span></li>`).join('')}</ul></section>` : ''}
       <p class="discografia-completa"><a class="boton" href="${esc(spotify)}" rel="noopener">Ir a la discografía completa${m.spotify ? '' : ' (búsqueda en Spotify)'}</a></p>
@@ -609,7 +654,7 @@ const construir = {
     const verificados = g.episodios.filter(e => e.verificacion.estado === 'verificado').length;
     pagina(ruta, ctx, {
       titulo: 'Podcasts', descripcion: 'Podcasts y episodios de jazz, sobre todo en español, conectados con cada ficha.', seccion: 'podcasts',
-      cuerpo: `<header class="encabezado" style="--largo:8"><h1>Podcasts</h1><p>${total} episodios de ${orden.length} programas. ${exactos} tienen el link exacto de Spotify. Los demás abren una búsqueda en Spotify o el link original. Comprobamos que ${verificados} de los ${total} links funcionan.</p></header>
+      cuerpo: `<header class="encabezado" style="--largo:8"><h1>Podcasts</h1><p>${total} episodios de ${orden.length} programas, todos con link exacto de Spotify (${exactos}) o de YouTube (${total - exactos}). Los que estaban solo en otras plataformas o tenían el link roto quedaron afuera. Links comprobados: ${verificados} de ${total}.</p></header>
       <section class="bloque"><h2>Programas</h2><ul class="programas">${orden.map(p => `<li><strong>${esc(p.nombre)}</strong><span class="episodio-meta">${p.episodios.length} episodios${p.conductor ? ` · ${esc(p.conductor)}` : ''}${p.idioma === 'es' ? ' · en español' : ''}</span><p>${esc(p.descripcion)}</p><p class="episodio-acciones">${p.spotify ? `<a class="boton boton-chico" href="${esc(p.spotify)}" rel="noopener">Abrir en Spotify</a>` : ''}${p.web ? ` <a href="${esc(p.web)}" rel="noopener">Sitio del programa</a>` : ''}</p></li>`).join('')}</ul></section>
       <section class="bloque"><h2>Episodios</h2>
         <form class="filtros" data-filtros-episodios aria-label="Filtrar episodios">
@@ -639,6 +684,26 @@ const construir = {
         <ul class="lista-marcas" data-lista-marcas></ul>
         <p class="vacio" data-vacio-marcas hidden>Todavía no marcaste nada. Entrá a una <a href="${ctx.a(URL.corrientes())}">época</a> y marcá los discos que ya escuchaste.</p>
       </section>`,
+    });
+  },
+
+  // Todo lo audiovisual junto: películas, documentales, series, conciertos, videos y episodios de podcast.
+  audiovisual() {
+    const ruta = URL.audiovisual();
+    const ctx = nuevoContexto(ruta);
+    const orden = [...g.audiovisual].sort((a, b) => a.anio - b.anio || a.titulo.localeCompare(b.titulo));
+    const episodios = [...g.episodios].sort((a, b) => String(b.fecha).localeCompare(String(a.fecha)));
+    const tipos = Object.entries(TIPO_AV).filter(([t]) => orden.some(x => x.tipo === t));
+    pagina(ruta, ctx, {
+      titulo: 'Audiovisual', descripcion: 'Películas, documentales, conciertos filmados, videos de canales oficiales y podcasts sobre jazz.', seccion: 'audiovisual',
+      cuerpo: `<header class="encabezado" style="--largo:11"><h1>Audiovisual</h1><p>${orden.length} películas, documentales, series y videos, y ${episodios.length} episodios de podcast. De YouTube solo entran canales oficiales o con permiso.</p></header>
+      <form class="filtros" data-filtros-av aria-label="Filtrar por tipo">
+        <label>Tipo <select name="tipo"><option value="">Todo</option>${tipos.map(([t, n]) => `<option value="${t}">${n}${t === 'video' ? '' : 's'}</option>`).join('')}<option value="podcast">Episodios de podcast</option></select></label>
+        <output class="filtros-cuenta" aria-live="polite" data-cuenta-av></output>
+      </form>
+      <ul class="av-lista av-todo" data-lista-av>${orden.map(x => tarjetaAV(ctx, x, { conFichas: true })).join('')}
+      ${episodios.map(e => { const a = accesoEpisodio(e); return `<li class="av" data-tipo="podcast"><span class="av-tipo dato">Podcast${e.fecha ? ` · ${esc(fechaCorta(e.fecha))}` : ''}</span><strong class="av-titulo">${esc(e.titulo)}</strong><span class="av-meta">${esc(e.programa.nombre)}${e.duracionMin ? ` · ${e.duracionMin} min` : ''}</span><p class="av-acciones"><a class="boton boton-chico" href="${esc(a.url)}" rel="noopener">${a.texto}</a></p></li>`; }).join('')}</ul>
+      <p class="ayuda"><a href="${ctx.a(URL.podcasts())}">Ver los podcasts por programa</a></p>`,
     });
   },
 
@@ -676,6 +741,7 @@ function indiceDeBusqueda() {
     ...g.regiones.flatMap(r => (r.escenaActual || []).map(e => item('Escena actual', e.nombre, `${e.instrumento} · ${r.nombre}`, URL.region(r.id)))),
     ...g.comparaciones.map(x => item('Comparación', x.titulo, 'Dos épocas frente a frente', URL.comparacion(x.id))),
     ...g.podcasts.map(p => item('Podcast', p.nombre, p.descripcion, URL.podcasts())),
+    ...g.audiovisual.map(x => item(TIPO_AV[x.tipo], x.titulo, `${x.anio}${x.director ? ` · ${x.director}` : ''}`, URL.audiovisual(), x.musicos.map(id => g.por.musico.get(id).nombre).join(' '))),
     ...g.episodios.map(e => item('Episodio', e.titulo, e.programa.nombre, URL.podcasts(), e.temas.join(' '))),
   ];
 }
@@ -714,6 +780,7 @@ g.comparaciones.forEach(construir.comparacion);
 construir.podcasts();
 construir.marcas();
 construir.acerca();
+construir.audiovisual();
 
-const total = 10 + g.corrientes.length + g.musicos.length + g.discos.length + g.regiones.length + g.comparaciones.length;
+const total = 11 + g.corrientes.length + g.musicos.length + g.discos.length + g.regiones.length + g.comparaciones.length;
 console.log(`Listo: ${total} páginas en dist/.`);

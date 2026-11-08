@@ -1,0 +1,17 @@
+{
+  "donde": [],
+  "id": "birth-of-the-cool-doc",
+  "tipo": "documental",
+  "titulo": "Miles Davis: Birth of the Cool",
+  "anio": 2019,
+  "director": "Stanley Nelson",
+  "descripcion": "Recorre toda su carrera con material de archivo y entrevistas a músicos que tocaron con él.",
+  "musicos": [
+    "miles"
+  ],
+  "corrientes": [
+    "cool",
+    "modal",
+    "fusion"
+  ]
+}

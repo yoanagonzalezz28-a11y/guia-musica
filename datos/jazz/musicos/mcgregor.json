@@ -38,10 +38,10 @@
       "discos": []
     },
     {
-      "titulo": "Free jazz",
-      "desde": 1971,
-      "hasta": 1971,
-      "texto": "",
+      "titulo": "Brotherhood of Breath",
+      "desde": 1970,
+      "hasta": 1976,
+      "texto": "En Londres juntó a los Blue Notes con músicos británicos en una big band que mezclaba free jazz y kwela.[^wp-mcgregor]",
       "discoClave": {
         "disco": "brotherhood-of-breath",
         "explicacion": "Su big band: free jazz con raíces sudafricanas."
@@ -49,19 +49,16 @@
       "discos": []
     },
     {
-      "titulo": "Jazz del mundo",
-      "desde": 1990,
+      "titulo": "Los últimos años",
+      "desde": 1988,
       "hasta": 1990,
-      "texto": "",
+      "texto": "Volvió a grabar con la Brotherhood en sus últimos años. Murió en 1990.[^wp-mcgregor]",
       "discoClave": {
         "disco": "country-cooking",
         "explicacion": "El último disco de la Brotherhood."
       },
       "discos": []
     }
-  ],
-  "epocasPendientes": [
-    "Brotherhood of Breath"
   ],
   "fuentes": [
     "wp-mcgregor"

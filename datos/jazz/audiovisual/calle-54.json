@@ -1,0 +1,21 @@
+{
+  "donde": [],
+  "id": "calle-54",
+  "tipo": "documental",
+  "titulo": "Calle 54",
+  "anio": 2000,
+  "director": "Fernando Trueba",
+  "descripcion": "Grandes del jazz latino filmados en estudio, tocando para la cámara: Bebo y Chucho Valdés, Paquito D'Rivera, Tito Puente, Chano Domínguez, Gato Barbieri y Eddie Palmieri, entre otros.",
+  "musicos": [
+    "bebo",
+    "chucho",
+    "paquito",
+    "puente",
+    "chano-dominguez",
+    "barbieri",
+    "palmieri"
+  ],
+  "corrientes": [
+    "latino"
+  ]
+}

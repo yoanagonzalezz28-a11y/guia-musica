@@ -1,0 +1,20 @@
+{
+  "donde": [],
+  "id": "tiny-desk-roy-ayers",
+  "tipo": "video",
+  "titulo": "Roy Ayers: Tiny Desk Concert",
+  "anio": 2018,
+  "director": null,
+  "descripcion": "El vibrafonista del soul jazz y el jazz funk, con su grupo.",
+  "musicos": [
+    "ayers"
+  ],
+  "corrientes": [
+    "souljazz"
+  ],
+  "youtube": {
+    "url": "https://www.youtube.com/watch?v=CghK8iVUHBs",
+    "canal": "NPR Music",
+    "comprobado": "2026-11-08"
+  }
+}

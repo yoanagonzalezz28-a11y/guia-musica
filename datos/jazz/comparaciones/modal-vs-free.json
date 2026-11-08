@@ -1,0 +1,51 @@
+{
+  "id": "modal-vs-free",
+  "titulo": "Jazz modal y free jazz",
+  "a": "modal",
+  "b": "free",
+  "tintaCruce": "#7A2F4A",
+  "intro": "Los dos nacen a fines de los 50 como respuesta a los acordes rápidos del bebop. El modal los reduce a pocas escalas; el free los deja de lado. Varios músicos, como Coltrane, pasaron de uno al otro.",
+  "ejes": [
+    {
+      "eje": "Base armónica",
+      "a": "Pocas escalas que duran muchos compases, en lugar de muchos acordes.[^wp-modal]",
+      "b": "Sin una progresión de acordes fija. A veces, tampoco un pulso regular.[^wp-free]"
+    },
+    {
+      "eje": "Forma",
+      "a": "Se mantiene la forma del tema, y los solos se tocan sobre ella.",
+      "b": "La forma puede desaparecer, y a veces todos improvisan a la vez.[^wp-free]"
+    },
+    {
+      "eje": "Año clave",
+      "a": "1959, con Kind of Blue, de Miles Davis.[^wp-modal]",
+      "b": "1959, con The Shape of Jazz to Come, de Ornette Coleman.[^wp-ornette]"
+    },
+    {
+      "eje": "Cómo escucharlo",
+      "a": "Se puede tararear la melodía y seguir la forma.",
+      "b": "Conviene seguir la energía y los diálogos entre los instrumentos, más que la melodía."
+    },
+    {
+      "eje": "El puente",
+      "a": "Coltrane estira el modal hasta el límite en el cuarteto de los 60.[^wp-coltrane]",
+      "b": "En sus últimos años, Coltrane llega al free con Ascension.[^wp-coltrane]"
+    }
+  ],
+  "escuchaParalela": [
+    {
+      "a": { "disco": "kind-of-blue", "tema": "So What" },
+      "b": { "disco": "shape-of-jazz", "tema": "Lonely Woman" },
+      "consigna": "Los dos son de 1959. En \"So What\" se alternan dos escalas y los solistas se mueven dentro de ellas; en \"Lonely Woman\" no hay piano que marque acordes y la melodía manda."
+    },
+    {
+      "a": { "disco": "impressions", "tema": "Impressions" },
+      "b": { "disco": "spiritual-unity", "tema": "Ghosts" },
+      "consigna": "Coltrane estira una sola escala durante muchos minutos; Ayler toca una melodía casi infantil y después la rompe en gritos."
+    }
+  ],
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  }
+}

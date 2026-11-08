@@ -26,10 +26,10 @@
   "resumen": "Pianista y compositor de estándares como \"Spain\" y \"La Fiesta\". Tocó con Davis en los años en que nació la fusión, y en los 70 formó Return to Forever.[^wp-corea]",
   "epocas": [
     {
-      "titulo": "Jazz modal",
+      "titulo": "Now He Sings, Now He Sobs",
       "desde": 1968,
       "hasta": 1968,
-      "texto": "",
+      "texto": "Su primer gran disco como líder, en trío con Miroslav Vitouš y Roy Haynes, antes de entrar al grupo de Miles Davis.[^wp-corea]",
       "discoClave": {
         "disco": "now-he-sings-now-he-sobs",
         "explicacion": "El trío de Corea con Miroslav Vitouš: uno de los grandes piano tríos."
@@ -52,20 +52,29 @@
       ]
     },
     {
-      "titulo": "Jazz de hoy",
+      "titulo": "Dúos y Elektric Band",
+      "desde": 1972,
+      "hasta": 1991,
+      "texto": "En paralelo grabó dúos con el vibrafonista Gary Burton y, en los 80, armó la Elektric Band, con John Patitucci y Dave Weckl.[^wp-corea]",
+      "discoClave": {
+        "disco": "crystal-silence",
+        "explicacion": "Piano y vibráfono solos, grabado para ECM: dos instrumentos que se cruzan como si fueran uno."
+      },
+      "discos": [
+        "chick-corea-elektric-band"
+      ]
+    },
+    {
+      "titulo": "El trío con McBride y Blade",
       "desde": 2013,
       "hasta": 2013,
-      "texto": "",
+      "texto": "Ya veterano, volvió al trío acústico con Christian McBride y Brian Blade.[^wp-corea]",
       "discoClave": {
         "disco": "trilogy",
         "explicacion": "Trío en vivo con Christian McBride y Brian Blade: ganó dos Grammy."
       },
       "discos": []
     }
-  ],
-  "epocasPendientes": [
-    "Now He Sings, Now He Sobs",
-    "Dúos y Elektric Band"
   ],
   "fuentes": [
     "wp-corea"

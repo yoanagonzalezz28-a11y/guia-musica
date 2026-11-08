@@ -1,0 +1,16 @@
+{
+  "donde": [],
+  "id": "imagine-the-sound",
+  "tipo": "documental",
+  "titulo": "Imagine the Sound",
+  "anio": 1981,
+  "director": "Ron Mann",
+  "descripcion": "Cecil Taylor, Paul Bley, Archie Shepp y Bill Dixon tocan y hablan sobre el free jazz.",
+  "musicos": [
+    "taylor",
+    "paul-bley"
+  ],
+  "corrientes": [
+    "free"
+  ]
+}

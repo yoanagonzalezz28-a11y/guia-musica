@@ -25,11 +25,20 @@
     "free"
   ],
   "resumen": "Uno de los músicos más influyentes del siglo XX. Su música fue tomando una dimensión cada vez más espiritual.[^wp-coltrane]",
-  "epocasPendientes": [
-    "Prestige y Blue Train",
-    "Impulse! tardío: Ascension y Meditations"
-  ],
   "epocas": [
+    {
+      "titulo": "Prestige y Blue Train",
+      "desde": 1955,
+      "hasta": 1958,
+      "texto": "En 1957 dejó la heroína y empezó una larga serie de discos para Prestige. Grabó uno solo para Blue Note, que terminó siendo el más famoso de esa etapa.[^wp-coltrane]",
+      "discoClave": {
+        "disco": "blue-train",
+        "explicacion": "Su único disco como líder en Blue Note, con Lee Morgan y Curtis Fuller: temas propios y un sonido ya inconfundible."
+      },
+      "discos": [
+        "soultrane"
+      ]
+    },
     {
       "titulo": "Con Davis y Giant Steps",
       "desde": 1957,
@@ -41,14 +50,13 @@
       },
       "discos": [
         "kind-of-blue",
-        "blue-train",
         "my-favorite-things"
       ]
     },
     {
       "titulo": "El cuarteto",
       "desde": 1961,
-      "hasta": 1965,
+      "hasta": 1966,
       "texto": "Con Tyner, Garrison y Jones formó un cuarteto de enorme intensidad, y volcó en la música su búsqueda espiritual.[^wp-coltrane]",
       "discoClave": {
         "disco": "love-supreme",
@@ -58,6 +66,19 @@
         "ballads",
         "john-coltrane-and-johnny-hartman",
         "impressions"
+      ]
+    },
+    {
+      "titulo": "Impulse! tardío: Ascension y Meditations",
+      "desde": 1965,
+      "hasta": 1967,
+      "texto": "En sus últimos dos años abrió el grupo al free jazz, con Pharoah Sanders y Rashied Ali. McCoy Tyner y Elvin Jones se fueron entre fines de 1965 y principios de 1966.[^wp-coltrane]",
+      "discoClave": {
+        "disco": "ascension",
+        "explicacion": "Una improvisación colectiva de once músicos: el disco que marcó su paso al free."
+      },
+      "discos": [
+        "meditations"
       ]
     }
   ],

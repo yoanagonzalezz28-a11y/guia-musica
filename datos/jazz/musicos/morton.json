@@ -26,17 +26,27 @@
   "resumen": "El primer gran arreglador del jazz: mostró que una música basada en la improvisación podía escribirse sin perder su carácter. Su \"Jelly Roll Blues\", de 1915, fue una de las primeras partituras de jazz publicadas.[^wp-morton]",
   "epocas": [
     {
-      "titulo": "Orígenes",
-      "desde": 1924,
-      "hasta": 1926,
-      "texto": "",
+      "titulo": "Los solos de piano",
+      "desde": 1923,
+      "hasta": 1924,
+      "texto": "Sus primeras grabaciones como solista muestran a un compositor que convierte el ragtime en jazz.[^wp-morton]",
+      "discoClave": {
+        "disco": "jelly-roll-morton-piano-solos",
+        "explicacion": "Sus piezas para piano solo, como \"King Porter Stomp\"."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Red Hot Peppers",
+      "desde": 1926,
+      "hasta": 1930,
+      "texto": "Para Victor grabó con los Red Hot Peppers, un grupo chico en el que cada parte estaba pensada como en una composición.[^wp-morton]",
       "discoClave": {
         "disco": "the-complete-victor-recordings",
         "explicacion": "Sus Red Hot Peppers: el jazz de Nueva Orleans arreglado con un cuidado increíble."
       },
       "discos": [
-        "black-bottom-stomp",
-        "jelly-roll-morton-piano-solos"
+        "black-bottom-stomp"
       ]
     },
     {
@@ -50,9 +60,6 @@
       },
       "discos": []
     }
-  ],
-  "epocasPendientes": [
-    "Red Hot Peppers, 1926–1930"
   ],
   "fuentes": [
     "wp-morton"

@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": true,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "The Complete Decca Recordings Billie Holiday"
+  },
+  "id": "the-complete-decca-recordings",
+  "titulo": "The Complete Decca Recordings",
+  "credito": "Billie Holiday",
+  "lideres": [
+    "holiday"
+  ],
+  "grabacion": {
+    "desde": 1944,
+    "hasta": 1950,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1991,
+    "detalle": null
+  },
+  "sello": "GRP",
+  "musicos": [
+    {
+      "musico": "holiday",
+      "nombre": "Billie Holiday",
+      "instrumento": "voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing"
+  ],
+  "comentario": [
+    "Sus grabaciones de 1944 a 1950 para Decca, ya con cuerdas y arreglos más grandes: \"Lover Man\" y \"Don't Explain\"."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

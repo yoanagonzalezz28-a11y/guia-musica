@@ -1,0 +1,19 @@
+{
+  "donde": [],
+  "id": "jazz-on-a-summers-day",
+  "tipo": "documental",
+  "titulo": "Jazz on a Summer's Day",
+  "anio": 1959,
+  "director": "Bert Stern",
+  "descripcion": "El Festival de Newport de 1958 filmado en color, con Louis Armstrong, Thelonious Monk, Gerry Mulligan y Dinah Washington, entre otros.",
+  "musicos": [
+    "armstrong",
+    "monk",
+    "mulligan",
+    "dinah"
+  ],
+  "corrientes": [
+    "swing",
+    "cool"
+  ]
+}

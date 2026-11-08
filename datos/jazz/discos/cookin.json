@@ -1,0 +1,76 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Cookin' Miles Davis"
+  },
+  "id": "cookin",
+  "titulo": "Cookin'",
+  "credito": "Miles Davis",
+  "lideres": [
+    "miles"
+  ],
+  "grabacion": {
+    "desde": 1956,
+    "hasta": 1957,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1957,
+    "detalle": null
+  },
+  "sello": "Prestige",
+  "musicos": [
+    {
+      "musico": "miles",
+      "nombre": "Miles Davis",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": "coltrane",
+      "nombre": "John Coltrane",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": "garland",
+      "nombre": "Red Garland",
+      "instrumento": "piano"
+    },
+    {
+      "musico": "chambers",
+      "nombre": "Paul Chambers",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "philly-joe-jones",
+      "nombre": "Philly Joe Jones",
+      "instrumento": "batería"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Sale de las sesiones maratónicas de 1956 con las que Davis cerró su contrato con Prestige. Abre con \"My Funny Valentine\", casi susurrada."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Cookin%27_with_the_Miles_Davis_Quintet"
+  },
+  "respaldo": []
+}

@@ -1,0 +1,15 @@
+{
+  "donde": [],
+  "id": "space-is-the-place",
+  "tipo": "pelicula",
+  "titulo": "Space Is the Place",
+  "anio": 1974,
+  "director": "John Coney",
+  "descripcion": "Película de ciencia ficción protagonizada por Sun Ra y su Arkestra.",
+  "musicos": [
+    "sunra"
+  ],
+  "corrientes": [
+    "free"
+  ]
+}

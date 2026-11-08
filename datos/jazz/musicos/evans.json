@@ -36,25 +36,31 @@
       "discos": [
         "kind-of-blue",
         "waltz-for-debby",
-        "undercurrent",
-        "conversations-with-myself"
+        "undercurrent"
       ]
     },
     {
-      "titulo": "Cool",
-      "desde": 1981,
-      "hasta": 1981,
-      "texto": "",
+      "titulo": "Años de Verve",
+      "desde": 1962,
+      "hasta": 1969,
+      "texto": "Después de la muerte de Scott LaFaro pasó a Verve, donde probó grabar un piano sobre otro y tocar con orquesta.[^wp-evans]",
+      "discoClave": {
+        "disco": "conversations-with-myself",
+        "explicacion": "Evans toca tres pianos a la vez, grabados uno sobre otro. Ganó un Grammy."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Los últimos años",
+      "desde": 1977,
+      "hasta": 1980,
+      "texto": "En sus últimos años tocó con un lirismo más oscuro y urgente.[^wp-evans]",
       "discoClave": {
         "disco": "you-must-believe-in-spring",
         "explicacion": "Grabado en 1977 y editado después de su muerte: su disco más triste y hermoso."
       },
       "discos": []
     }
-  ],
-  "epocasPendientes": [
-    "Años de Verve",
-    "Último trío, 1978–80"
   ],
   "fuentes": [
     "wp-evans"

@@ -39,23 +39,19 @@
       ]
     },
     {
-      "titulo": "Jazz del mundo",
-      "desde": 1986,
+      "titulo": "Water from an Ancient Well",
+      "desde": 1985,
       "hasta": 2019,
-      "texto": "",
+      "texto": "En el exilio armó el septeto Ekaya, con arreglos para vientos que recuerdan a Ellington y a los coros sudafricanos.[^wp-ibrahim]",
       "discoClave": {
-        "disco": "the-balance",
-        "explicacion": "Con Ekaya: melodías del Cabo con una calma inmensa."
+        "disco": "water-from-an-ancient-well",
+        "explicacion": "Ekaya en su disco más recordado, grabado en Nueva York."
       },
       "discos": [
-        "water-from-an-ancient-well",
-        "cape-town-revisited"
+        "cape-town-revisited",
+        "the-balance"
       ]
     }
-  ],
-  "epocasPendientes": [
-    "Jazz Epistles",
-    "Water from an Ancient Well"
   ],
   "fuentes": [
     "wp-ibrahim"

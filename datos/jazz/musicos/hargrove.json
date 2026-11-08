@@ -39,10 +39,10 @@
       "discos": []
     },
     {
-      "titulo": "Neotradicionalismo",
+      "titulo": "Estándares y quintetos",
       "desde": 1994,
       "hasta": 2008,
-      "texto": "",
+      "texto": "En los 90 grabó estándares y discos de quinteto junto a los músicos jóvenes del neotradicionalismo.[^wp-hargrove]",
       "discoClave": {
         "disco": "approaching-standards",
         "explicacion": "Estándares tocados con una sonoridad cálida y joven."
@@ -64,19 +64,16 @@
       "discos": []
     },
     {
-      "titulo": "Jazz de hoy",
+      "titulo": "RH Factor",
       "desde": 2003,
       "hasta": 2003,
-      "texto": "",
+      "texto": "Armó el RH Factor para mezclar jazz con soul, funk y hip hop, con invitados como D'Angelo y Erykah Badu.[^wp-hargrove]",
       "discoClave": {
         "disco": "hard-groove",
         "explicacion": "Con su grupo RH Factor: jazz, soul y hip hop con D'Angelo y Erykah Badu."
       },
       "discos": []
     }
-  ],
-  "epocasPendientes": [
-    "RH Factor"
   ],
   "fuentes": [
     "wp-hargrove"

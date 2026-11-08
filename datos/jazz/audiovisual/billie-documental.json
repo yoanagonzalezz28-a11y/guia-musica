@@ -1,0 +1,15 @@
+{
+  "donde": [],
+  "id": "billie-documental",
+  "tipo": "documental",
+  "titulo": "Billie",
+  "anio": 2019,
+  "director": "James Erskine",
+  "descripcion": "Billie Holiday a partir de entrevistas que grabó una periodista en los 70 con gente que la conoció.",
+  "musicos": [
+    "holiday"
+  ],
+  "corrientes": [
+    "swing"
+  ]
+}

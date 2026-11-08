@@ -1,0 +1,16 @@
+{
+  "donde": [],
+  "id": "chasing-trane",
+  "tipo": "documental",
+  "titulo": "Chasing Trane: The John Coltrane Documentary",
+  "anio": 2016,
+  "director": "John Scheinfeld",
+  "descripcion": "La vida de Coltrane desde Carolina del Norte hasta A Love Supreme, con testimonios de músicos y de su familia.",
+  "musicos": [
+    "coltrane"
+  ],
+  "corrientes": [
+    "modal",
+    "free"
+  ]
+}

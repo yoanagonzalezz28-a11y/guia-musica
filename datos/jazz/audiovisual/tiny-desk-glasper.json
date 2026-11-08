@@ -1,0 +1,20 @@
+{
+  "donde": [],
+  "id": "tiny-desk-glasper",
+  "tipo": "video",
+  "titulo": "Robert Glasper Experiment: Tiny Desk Concert",
+  "anio": 2014,
+  "director": null,
+  "descripcion": "El grupo eléctrico de Glasper, entre jazz, soul y hip hop.",
+  "musicos": [
+    "glasper"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "youtube": {
+    "url": "https://www.youtube.com/watch?v=oGTVoX7AaRc",
+    "canal": "NPR Music",
+    "comprobado": "2026-11-08"
+  }
+}

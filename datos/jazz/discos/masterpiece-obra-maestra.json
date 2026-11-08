@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "puerto-rico",
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Masterpiece / Obra Maestra Tito Puente y Eddie Palmieri"
+  },
+  "id": "masterpiece-obra-maestra",
+  "titulo": "Masterpiece / Obra Maestra",
+  "credito": "Tito Puente y Eddie Palmieri",
+  "lideres": [
+    "puente",
+    "palmieri"
+  ],
+  "grabacion": {
+    "desde": 2000,
+    "hasta": 2000,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2000,
+    "detalle": null
+  },
+  "sello": "RMM",
+  "musicos": [
+    {
+      "musico": "puente",
+      "nombre": "Tito Puente",
+      "instrumento": "timbales"
+    },
+    {
+      "musico": "palmieri",
+      "nombre": "Eddie Palmieri",
+      "instrumento": "piano, dirección"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "latino"
+  ],
+  "comentario": [
+    "Encuentro de dos líderes de la música latina de Nueva York, grabado poco antes de la muerte de Puente."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": []
+}

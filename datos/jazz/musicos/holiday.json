@@ -26,17 +26,40 @@
   "resumen": "Cambió la forma de cantar en el jazz con su manejo del fraseo y del tiempo, influido por los instrumentistas. Lester Young le puso el apodo \"Lady Day\".[^wp-holiday]",
   "epocas": [
     {
-      "titulo": "Swing",
+      "titulo": "Commodore y \"Strange Fruit\"",
       "desde": 1939,
-      "hasta": 1956,
-      "texto": "",
+      "hasta": 1944,
+      "texto": "Antes había grabado con el pianista Teddy Wilson y el saxofonista Lester Young los discos que fijaron su manera de cantar. En 1939 grabó \"Strange Fruit\", una canción sobre los linchamientos en el sur de Estados Unidos, para el pequeño sello Commodore, porque Columbia no quiso editarla.[^wp-holiday]",
+      "discoClave": {
+        "disco": "strange-fruit",
+        "explicacion": "La canción contra los linchamientos: un antes y un después en la música estadounidense."
+      },
+      "discos": [
+        "the-commodore-master-takes"
+      ]
+    },
+    {
+      "titulo": "Años en Decca",
+      "desde": 1944,
+      "hasta": 1950,
+      "texto": "En Decca la acompañaron cuerdas y arreglos más grandes, algo que ella misma había pedido.[^wp-holiday]",
+      "discoClave": {
+        "disco": "the-complete-decca-recordings",
+        "explicacion": "Reúne \"Lover Man\", \"Don't Explain\" y \"Good Morning Heartache\"."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Los años de Verve",
+      "desde": 1952,
+      "hasta": 1957,
+      "texto": "Para Norman Granz grabó con grupos chicos de jazz, con una voz más gastada y una expresión todavía más directa.[^wp-holiday]",
       "discoClave": {
         "disco": "lady-sings-the-blues",
         "explicacion": "Sus clásicos regrabados, con una voz ya gastada y aún más expresiva."
       },
       "discos": [
-        "strange-fruit",
-        "the-commodore-master-takes"
+        "songs-for-distingue-lovers"
       ]
     },
     {
@@ -48,15 +71,8 @@
         "disco": "lady-in-satin",
         "explicacion": "Su disco más discutido."
       },
-      "discos": [
-        "songs-for-distingue-lovers"
-      ]
+      "discos": []
     }
-  ],
-  "epocasPendientes": [
-    "Con Teddy Wilson y Lester Young, 1935–41",
-    "Commodore y \"Strange Fruit\"",
-    "Años en Decca"
   ],
   "fuentes": [
     "wp-holiday"

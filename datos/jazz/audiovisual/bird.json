@@ -1,0 +1,15 @@
+{
+  "donde": [],
+  "id": "bird",
+  "tipo": "pelicula",
+  "titulo": "Bird",
+  "anio": 1988,
+  "director": "Clint Eastwood",
+  "descripcion": "Película sobre Charlie Parker, con Forest Whitaker. Usa grabaciones originales de Parker, con la base regrabada.",
+  "musicos": [
+    "parker"
+  ],
+  "corrientes": [
+    "bebop"
+  ]
+}

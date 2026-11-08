@@ -1,0 +1,15 @@
+{
+  "donde": [],
+  "id": "django-pelicula",
+  "tipo": "pelicula",
+  "titulo": "Django",
+  "anio": 2017,
+  "director": "Étienne Comar",
+  "descripcion": "Ficción sobre Django Reinhardt en la Francia ocupada por los nazis.",
+  "musicos": [
+    "django"
+  ],
+  "corrientes": [
+    "manouche"
+  ]
+}

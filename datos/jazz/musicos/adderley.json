@@ -38,32 +38,19 @@
       ]
     },
     {
-      "titulo": "Hard bop",
-      "desde": 1961,
-      "hasta": 1962,
-      "texto": "",
-      "discoClave": {
-        "disco": "know-what-i-mean",
-        "explicacion": "Con el trío de Bill Evans: el alto de Cannonball en su versión más lírica."
-      },
-      "discos": [
-        "cannonball-adderley-sextet-in-new-york"
-      ]
-    },
-    {
-      "titulo": "Soul jazz",
-      "desde": 1966,
-      "hasta": 1966,
-      "texto": "",
+      "titulo": "Sus grupos y \"Mercy, Mercy, Mercy\"",
+      "desde": 1959,
+      "hasta": 1975,
+      "texto": "Con su hermano Nat en corneta armó un quinteto que mezclaba hard bop, blues y gospel. Con Joe Zawinul en piano llegó a las listas de pop con un tema del tecladista.[^wp-adderley]",
       "discoClave": {
         "disco": "mercy-mercy-mercy-live-at-the-club",
-        "explicacion": "El tema de Joe Zawinul se volvió un éxito: soul jazz con piano eléctrico."
+        "explicacion": "Grabado en un estudio con público invitado, como si fuera un club. El tema del título, de Zawinul, fue un éxito inesperado."
       },
-      "discos": []
+      "discos": [
+        "know-what-i-mean",
+        "cannonball-adderley-sextet-in-new-york"
+      ]
     }
-  ],
-  "epocasPendientes": [
-    "Su quinteto y \"Mercy, Mercy, Mercy\""
   ],
   "fuentes": [
     "wp-adderley"

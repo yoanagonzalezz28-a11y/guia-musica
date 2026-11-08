@@ -18,9 +18,9 @@
   },
   "id": "e-s-p-miles-davis",
   "titulo": "E.S.P. (Miles Davis)",
-  "credito": "Ron Carter",
+  "credito": "Miles Davis",
   "lideres": [
-    "ronc"
+    "miles"
   ],
   "grabacion": {
     "desde": 1965,
@@ -33,6 +33,26 @@
   },
   "sello": "Columbia",
   "musicos": [
+    {
+      "musico": "tonyw",
+      "nombre": "Tony Williams",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "hancock",
+      "nombre": "Herbie Hancock",
+      "instrumento": "piano"
+    },
+    {
+      "musico": "shorter",
+      "nombre": "Wayne Shorter",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": "miles",
+      "nombre": "Miles Davis",
+      "instrumento": "trompeta"
+    },
     {
       "musico": "ronc",
       "nombre": "Ron Carter",

@@ -40,17 +40,15 @@
       ]
     },
     {
-      "titulo": "Fusión",
-      "desde": 1971,
-      "hasta": 1983,
-      "texto": "",
+      "titulo": "Mwandishi",
+      "desde": 1969,
+      "hasta": 1972,
+      "texto": "Su sexteto tomó nombres en suajili y tocó una música eléctrica y abierta, cerca del free.[^wp-hancock]",
       "discoClave": {
         "disco": "mwandishi",
         "explicacion": "Su sexteto eléctrico y experimental: largas piezas de espacio y ritmo."
       },
-      "discos": [
-        "future-shock"
-      ]
+      "discos": []
     },
     {
       "titulo": "Los Headhunters",
@@ -66,19 +64,27 @@
       ]
     },
     {
-      "titulo": "Jazz de hoy",
+      "titulo": "Electrónica y hip hop",
+      "desde": 1983,
+      "hasta": 1983,
+      "texto": "Con el productor Bill Laswell grabó \"Rockit\", con los scratches de Grand Mixer D.ST, y el video se volvió un clásico de MTV.[^wp-hancock]",
+      "discoClave": {
+        "disco": "future-shock",
+        "explicacion": "Con \"Rockit\": scratch, electrónica y un video icónico de la MTV."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "River: The Joni Letters",
       "desde": 2007,
       "hasta": 2007,
-      "texto": "",
+      "texto": "Con un disco dedicado a las canciones de Joni Mitchell ganó el Grammy al álbum del año, algo muy raro para un disco de jazz.[^wp-hancock]",
       "discoClave": {
         "disco": "river-the-joni-letters",
         "explicacion": "Canciones de Joni Mitchell: ganó el Grammy al disco del año."
       },
       "discos": []
     }
-  ],
-  "epocasPendientes": [
-    "Mwandishi"
   ],
   "fuentes": [
     "wp-hancock"

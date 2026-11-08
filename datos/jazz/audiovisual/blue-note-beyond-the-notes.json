@@ -1,0 +1,19 @@
+{
+  "donde": [],
+  "id": "blue-note-beyond-the-notes",
+  "tipo": "documental",
+  "titulo": "Blue Note Records: Beyond the Notes",
+  "anio": 2018,
+  "director": "Sophie Huber",
+  "descripcion": "La historia del sello, con Herbie Hancock, Wayne Shorter, Lou Donaldson y Robert Glasper.",
+  "musicos": [
+    "hancock",
+    "shorter",
+    "donaldson",
+    "glasper"
+  ],
+  "corrientes": [
+    "hard-bop",
+    "hoy"
+  ]
+}

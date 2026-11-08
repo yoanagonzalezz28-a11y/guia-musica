@@ -1,0 +1,78 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7buEUXT132AA4FPswvh9tV",
+    "tituloEnSpotify": "Miles Smiles",
+    "deLaDiscotecaDeYoana": true
+  },
+  "id": "miles-smiles",
+  "titulo": "Miles Smiles",
+  "credito": "Miles Davis",
+  "lideres": [
+    "miles"
+  ],
+  "grabacion": {
+    "desde": 1966,
+    "hasta": 1967,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1967,
+    "detalle": null
+  },
+  "sello": "Columbia",
+  "musicos": [
+    {
+      "musico": "miles",
+      "nombre": "Miles Davis",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": "shorter",
+      "nombre": "Wayne Shorter",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": "hancock",
+      "nombre": "Herbie Hancock",
+      "instrumento": "piano"
+    },
+    {
+      "musico": "ronc",
+      "nombre": "Ron Carter",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "tonyw",
+      "nombre": "Tony Williams",
+      "instrumento": "batería"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "modal"
+  ],
+  "comentario": [
+    "El segundo quinteto en su punto más suelto: en \"Footprints\" y \"Orbits\" el piano se calla durante los solos y la base cambia de pulso todo el tiempo."
+  ],
+  "ids": {
+    "musicbrainz": "60fa4ab0-bf92-3184-80ca-6dcadbb5c748",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Miles_Smiles"
+  },
+  "respaldo": []
+}

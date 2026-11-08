@@ -1,0 +1,19 @@
+{
+  "donde": [
+    {
+      "texto": "Netflix"
+    }
+  ],
+  "id": "what-happened-miss-simone",
+  "tipo": "documental",
+  "titulo": "What Happened, Miss Simone?",
+  "anio": 2015,
+  "director": "Liz Garbus",
+  "descripcion": "La vida de Nina Simone, de pianista clásica frustrada a voz del movimiento por los derechos civiles.",
+  "musicos": [
+    "nina"
+  ],
+  "corrientes": [
+    "swing"
+  ]
+}

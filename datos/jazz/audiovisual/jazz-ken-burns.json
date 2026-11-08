@@ -1,0 +1,23 @@
+{
+  "donde": [
+    {
+      "texto": "PBS"
+    }
+  ],
+  "id": "jazz-ken-burns",
+  "tipo": "serie",
+  "titulo": "Jazz",
+  "anio": 2001,
+  "director": "Ken Burns",
+  "descripcion": "Serie documental de diez capítulos para la televisión pública de Estados Unidos. Cuenta la historia del jazz desde Nueva Orleans y le dedica mucho más espacio a los primeros cincuenta años que a lo que vino después.",
+  "musicos": [
+    "armstrong",
+    "ellington",
+    "parker"
+  ],
+  "corrientes": [
+    "origenes",
+    "swing",
+    "bebop"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Chick Corea Elektric Band Chick Corea"
+  },
+  "id": "chick-corea-elektric-band",
+  "titulo": "Chick Corea Elektric Band",
+  "credito": "Chick Corea",
+  "lideres": [
+    "corea"
+  ],
+  "grabacion": {
+    "desde": 1986,
+    "hasta": 1986,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1986,
+    "detalle": null
+  },
+  "sello": "GRP",
+  "musicos": [
+    {
+      "musico": "corea",
+      "nombre": "Chick Corea",
+      "instrumento": "piano, teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "John Patitucci",
+      "instrumento": "bajo eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Dave Weckl",
+      "instrumento": "batería"
+    }
+  ],
+  "personalNota": "Lista parcial.",
+  "corrientes": [
+    "fusion"
+  ],
+  "comentario": [
+    "Sintetizadores, bajo de seis cuerdas y batería muy precisa: la fusión de los 80 en versión de estudio pulida."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "The_Chick_Corea_Elektric_Band_(album)"
+  },
+  "respaldo": []
+}

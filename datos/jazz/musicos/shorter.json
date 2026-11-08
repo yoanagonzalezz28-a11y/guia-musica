@@ -54,10 +54,18 @@
         "bitches-brew",
         "native-dancer"
       ]
+    },
+    {
+      "titulo": "Cuarteto de los 2000",
+      "desde": 2000,
+      "hasta": 2018,
+      "texto": "Con Danilo Pérez, John Patitucci y Brian Blade armó un cuarteto que improvisaba sobre la forma de los temas, casi sin repetir nada.[^wp-shorter]",
+      "discoClave": {
+        "disco": "footprints-live",
+        "explicacion": "El primer disco del cuarteto, grabado en vivo durante una gira europea."
+      },
+      "discos": []
     }
-  ],
-  "epocasPendientes": [
-    "Cuarteto de los 2000"
   ],
   "fuentes": [
     "wp-shorter"

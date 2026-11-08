@@ -1,0 +1,16 @@
+{
+  "donde": [],
+  "id": "bill-evans-time-remembered",
+  "tipo": "documental",
+  "titulo": "Bill Evans: Time Remembered",
+  "anio": 2015,
+  "director": "Bruce Spiegel",
+  "descripcion": "La vida de Bill Evans contada por músicos que tocaron con él y por su familia.",
+  "musicos": [
+    "evans"
+  ],
+  "corrientes": [
+    "cool",
+    "modal"
+  ]
+}

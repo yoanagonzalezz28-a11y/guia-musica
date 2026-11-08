@@ -35,23 +35,31 @@
       "discos": []
     },
     {
-      "titulo": "ECM y jazz europeo",
-      "desde": 1976,
-      "hasta": 1994,
-      "texto": "",
+      "titulo": "Con Jarrett: Belonging",
+      "desde": 1974,
+      "hasta": 1979,
+      "texto": "Fue parte del cuarteto europeo de Keith Jarrett, con Palle Danielsson y Jon Christensen.[^wp-garbarek]",
       "discoClave": {
-        "disco": "dansere",
-        "explicacion": "Con Bobo Stenson y Palle Danielsson: el sonido ECM ya consolidado."
+        "disco": "belonging",
+        "explicacion": "El cuarteto en estudio: melodías simples, casi folclóricas, y mucho espacio."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "Officium y después",
+      "desde": 1974,
+      "hasta": 1994,
+      "texto": "Siguió cruzando el jazz con músicas folclóricas y antiguas, hasta grabar con el Hilliard Ensemble, un cuarteto vocal de música antigua.[^wp-garbarek]",
+      "discoClave": {
+        "disco": "officium",
+        "explicacion": "Saxo improvisado sobre polifonía medieval y renacentista: uno de los discos más vendidos de ECM."
       },
       "discos": [
-        "officium",
+        "witchi-tai-to",
+        "dansere",
         "ragas-and-sagas"
       ]
     }
-  ],
-  "epocasPendientes": [
-    "Con Jarrett: Belonging",
-    "Officium"
   ],
   "fuentes": [
     "wp-garbarek"

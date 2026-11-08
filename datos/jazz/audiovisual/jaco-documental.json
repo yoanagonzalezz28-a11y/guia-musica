@@ -1,0 +1,15 @@
+{
+  "donde": [],
+  "id": "jaco-documental",
+  "tipo": "documental",
+  "titulo": "Jaco",
+  "anio": 2015,
+  "director": "Paul Marchand y Stephen Kijak",
+  "descripcion": "La vida de Jaco Pastorius, de Weather Report a sus últimos años.",
+  "musicos": [
+    "jaco"
+  ],
+  "corrientes": [
+    "fusion"
+  ]
+}

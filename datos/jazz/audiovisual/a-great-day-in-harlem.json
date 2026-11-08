@@ -1,0 +1,22 @@
+{
+  "donde": [],
+  "id": "a-great-day-in-harlem",
+  "tipo": "documental",
+  "titulo": "A Great Day in Harlem",
+  "anio": 1994,
+  "director": "Jean Bach",
+  "descripcion": "Cuenta la historia de una foto de 1958 en la que Art Kane reunió a 57 músicos de jazz frente a una casa de Harlem.",
+  "musicos": [
+    "monk",
+    "gillespie",
+    "blakey",
+    "mingus",
+    "rollins",
+    "young",
+    "hawkins"
+  ],
+  "corrientes": [
+    "bebop",
+    "hard-bop"
+  ]
+}

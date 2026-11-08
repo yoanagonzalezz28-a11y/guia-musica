@@ -1,0 +1,15 @@
+{
+  "donde": [],
+  "id": "saxophone-colossus",
+  "tipo": "documental",
+  "titulo": "Saxophone Colossus",
+  "anio": 1986,
+  "director": "Robert Mugge",
+  "descripcion": "Sonny Rollins en concierto, con un largo solo al aire libre y entrevistas.",
+  "musicos": [
+    "rollins"
+  ],
+  "corrientes": [
+    "hard-bop"
+  ]
+}

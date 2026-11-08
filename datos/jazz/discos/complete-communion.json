@@ -34,6 +34,11 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": "barbieri",
+      "nombre": "Gato Barbieri",
+      "instrumento": "saxo tenor"
+    },
+    {
       "musico": "cherry",
       "nombre": "Don Cherry",
       "instrumento": "trompeta, corneta de bolsillo"

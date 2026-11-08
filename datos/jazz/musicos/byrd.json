@@ -25,10 +25,10 @@
   "resumen": "Uno de los pocos músicos de hard bop que triunfó en el jazz funk. También fue un educador destacado, con un doctorado en educación musical.[^wp-byrd]",
   "epocas": [
     {
-      "titulo": "Hard bop",
-      "desde": 1960,
+      "titulo": "Hard bop en Blue Note",
+      "desde": 1958,
       "hasta": 1964,
-      "texto": "",
+      "texto": "En Blue Note grabó como líder un hard bop limpio y melódico, con Jackie McLean y Pepper Adams entre sus compañeros.[^wp-byrd]",
       "discoClave": {
         "disco": "royal-flush",
         "explicacion": "Con Pepper Adams y Herbie Hancock: hard bop elegante."
@@ -51,9 +51,6 @@
         "places-and-spaces"
       ]
     }
-  ],
-  "epocasPendientes": [
-    "Hard bop en Blue Note"
   ],
   "fuentes": [
     "wp-byrd"

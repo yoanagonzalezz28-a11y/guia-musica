@@ -37,24 +37,31 @@
       "discos": []
     },
     {
-      "titulo": "Jazz del mundo",
+      "titulo": "Éthiopiques",
       "desde": 1998,
-      "hasta": 2025,
-      "texto": "",
+      "hasta": 2005,
+      "texto": "La serie de reediciones Éthiopiques, del sello francés Buda Musique, volvió a poner en circulación su música de los 60 y 70. La película Flores rotas, de Jim Jarmusch, la llevó a un público mucho mayor.[^wp-mulatu]",
       "discoClave": {
         "disco": "ethiopiques-vol-4-ethio-jazz-and-musique-instrumen",
         "explicacion": "La recopilación que lo dio a conocer en el mundo: vibráfono, órgano y escalas etíopes."
       },
       "discos": [
-        "mulatu-steps-ahead",
-        "mulatu-plays-mulatu",
         "new-york-addis-london-the-story-of-ethio-jazz-1965"
       ]
+    },
+    {
+      "titulo": "Mulatu Plays Mulatu",
+      "desde": 2009,
+      "hasta": 2025,
+      "texto": "Ya consagrado, grabó con músicos británicos y siguió revisando sus propios temas.[^wp-mulatu]",
+      "discoClave": {
+        "disco": "mulatu-plays-mulatu",
+        "explicacion": "Su despedida: sus clásicos con nuevos arreglos."
+      },
+      "discos": [
+        "mulatu-steps-ahead"
+      ]
     }
-  ],
-  "epocasPendientes": [
-    "Éthiopiques",
-    "Mulatu Plays Mulatu"
   ],
   "fuentes": [
     "wp-mulatu"

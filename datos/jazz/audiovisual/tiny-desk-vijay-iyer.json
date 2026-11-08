@@ -1,0 +1,20 @@
+{
+  "donde": [],
+  "id": "tiny-desk-vijay-iyer",
+  "tipo": "video",
+  "titulo": "Vijay Iyer Trio: Tiny Desk Concert",
+  "anio": 2015,
+  "director": null,
+  "descripcion": "El trío de Iyer con Stephan Crump y Marcus Gilmore.",
+  "musicos": [
+    "iyer"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "youtube": {
+    "url": "https://www.youtube.com/watch?v=SiDBiIsFiqU",
+    "canal": "NPR Music",
+    "comprobado": "2026-11-08"
+  }
+}

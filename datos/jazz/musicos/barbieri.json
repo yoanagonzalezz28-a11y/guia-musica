@@ -27,10 +27,21 @@
   "resumen": "Tocó con Lalo Schifrin y, en Roma, con Don Cherry. Tomó el sonido del Coltrane tardío y lo cruzó con la música sudamericana. Su música para *Último tango en París* ganó un Grammy.[^wp-barbieri]",
   "epocas": [
     {
-      "titulo": "Jazz rioplatense",
-      "desde": 1970,
-      "hasta": 1970,
-      "texto": "",
+      "titulo": "Free jazz con Don Cherry",
+      "desde": 1965,
+      "hasta": 1967,
+      "texto": "Ya en Europa tocó con el trompetista Don Cherry, en uno de los grupos de free jazz más melódicos de la época.[^wp-barbieri]",
+      "discoClave": {
+        "disco": "complete-communion",
+        "explicacion": "Dos suites largas en las que los temas se encadenan sin pausa. El tenor de Barbieri ya tiene el grito que lo hizo conocido."
+      },
+      "discos": []
+    },
+    {
+      "titulo": "El tercer mundo",
+      "desde": 1969,
+      "hasta": 1971,
+      "texto": "Empezó a mezclar el free con música latinoamericana: tango, bossa y folclore entran en un jazz todavía muy abierto.[^wp-barbieri]",
       "discoClave": {
         "disco": "the-third-world",
         "explicacion": "Free jazz y folclore latinoamericano, con el saxo en su registro más rasposo."
@@ -40,7 +51,7 @@
     {
       "titulo": "Los capítulos de Impulse!",
       "desde": 1972,
-      "hasta": 1976,
+      "hasta": 1975,
       "texto": "Tras el Grammy, grabó para Impulse! una serie de discos sobre América Latina.[^wp-barbieri]",
       "discoClave": {
         "disco": "chapter-one",
@@ -48,14 +59,20 @@
       },
       "discos": [
         "last-tango-in-paris",
-        "caliente",
         "bolivia"
       ]
+    },
+    {
+      "titulo": "Caliente! y el pop latino",
+      "desde": 1976,
+      "hasta": 1978,
+      "texto": "Con Herb Alpert como productor, en A&M, pasó a un sonido más suave y popular.[^wp-barbieri]",
+      "discoClave": {
+        "disco": "caliente",
+        "explicacion": "Incluye su versión de \"Europa\", de Carlos Santana: el tenor canta casi como una voz."
+      },
+      "discos": []
     }
-  ],
-  "epocasPendientes": [
-    "El free jazz con Don Cherry",
-    "Caliente!"
   ],
   "fuentes": [
     "wp-barbieri"

@@ -37,22 +37,29 @@
       ]
     },
     {
-      "titulo": "ECM y jazz europeo",
-      "desde": 1977,
-      "hasta": 1983,
-      "texto": "",
+      "titulo": "Cuartetos americano y europeo",
+      "desde": 1973,
+      "hasta": 1979,
+      "texto": "Al mismo tiempo lideró dos cuartetos: uno estadounidense, con Dewey Redman, Charlie Haden y Paul Motian, y otro europeo, con Jan Garbarek, Palle Danielsson y Jon Christensen.[^wp-jarrett]",
       "discoClave": {
-        "disco": "standards-vol-1",
-        "explicacion": "El trío con Gary Peacock y Jack DeJohnette: estándares a la medida de su piano."
+        "disco": "belonging",
+        "explicacion": "El cuarteto europeo: melodías claras, ritmo flotante y un saxo de sonido nórdico."
       },
       "discos": [
         "the-survivors-suite"
       ]
+    },
+    {
+      "titulo": "Trío de estándares",
+      "desde": 1983,
+      "hasta": 2014,
+      "texto": "Con Gary Peacock y Jack DeJohnette formó un trío que durante unos treinta años tocó canciones del repertorio clásico estadounidense.[^wp-jarrett]",
+      "discoClave": {
+        "disco": "standards-vol-1",
+        "explicacion": "El trío con Gary Peacock y Jack DeJohnette: estándares a la medida de su piano."
+      },
+      "discos": []
     }
-  ],
-  "epocasPendientes": [
-    "Cuartetos americano y europeo",
-    "Trío de estándares"
   ],
   "fuentes": [
     "wp-jarrett"
