@@ -2,20 +2,11 @@
 
 Actualizado el 8 de noviembre de 2026. Sitio publicado: <https://yoanagonzalezz28-a11y.github.io/guia-musica/> (cada push a `main` publica).
 
-## Para mañana: terminar la búsqueda de Spotify
+## Búsqueda de Spotify: terminada
 
-La API de Spotify limitó las consultas el 8/11 a las 12:09 y pidió esperar unas 23 horas y media. Quedaron buscados 325 de los 779 discos que no tenían link exacto; faltan 454.
+El 10/11 se terminó la búsqueda en la API: se buscaron los 477 discos que faltaban, sin nuevos límites de Spotify. Se aplicaron 329 links seguros; 54 quedaron dudosos y 194 no aparecen. El detalle está en [sin-spotify.md](sin-spotify.md).
 
-**Después del 9/11/2026 a las 11:58**, desde la carpeta del proyecto:
-
-```
-npm run spotify
-```
-
-- Retoma solo desde donde quedó: el avance está en `datos/spotify-busqueda.json`.
-- Si Spotify vuelve a limitar por más de dos minutos, guarda el avance, avisa hasta qué hora hay que esperar y termina. Se vuelve a correr el mismo comando después de esa hora.
-- Al terminar aplica los links seguros a los discos y reescribe [sin-spotify.md](sin-spotify.md) con los dudosos, los que no aparecen y los que falten buscar.
-- Después: `npm run construir` para revisar el sitio en local (`npm run servir:pages` lo levanta en <http://localhost:4321/guia-musica/>) y subir los cambios a GitHub.
+Para buscar discos nuevos, `npm run spotify` retoma solo los que no tienen link exacto. Si Spotify limita por más de dos minutos, guarda el avance, avisa hasta qué hora hay que esperar y termina.
 
 Las credenciales están en `.env` (`SPOTIFY_CLIENT_ID` y `SPOTIFY_CLIENT_SECRET`). `.env` está en `.gitignore` y nunca entró al repositorio. La API acepta como máximo 10 resultados por búsqueda; el script hace una consulta por segundo.
 
@@ -29,7 +20,7 @@ Las credenciales están en `.env` (`SPOTIFY_CLIENT_ID` y `SPOTIFY_CLIENT_SECRET`
 | Regiones | 14 |
 | Músicos y grupos | 371 (213 con cinco discos esenciales o más; 234 con link de artista en Spotify) |
 | Discos | 1558 |
-| Discos con link exacto de Spotify | 972 |
+| Discos con link exacto de Spotify | 1310 |
 | Discos con lista de temas | 514 |
 | Reseñas extensas | 19 |
 | Redescubrimientos | 18 |
@@ -38,7 +29,7 @@ Las credenciales están en `.env` (`SPOTIFY_CLIENT_ID` y `SPOTIFY_CLIENT_SECRET`
 | Fichas audiovisuales | 45 (películas, documentales, series, conciertos y videos de canales oficiales) |
 | Fuentes registradas | 647 |
 
-**Origen de los 972 links exactos de Spotify:**
+**Origen de los links exactos de Spotify** (cuenta del 8/11, antes de los 329 de la API del 10/11):
 - 447 de los CSV de Yoana;
 - 219 de MusicBrainz;
 - 225 de la API de Spotify;
@@ -97,9 +88,8 @@ La carpeta está en `.gitignore`: **nada de esto se sube a GitHub ni se publica.
 
 ## Qué falta
 
-1. **Terminar la búsqueda de Spotify** (incluye 21 discos nuevos de las fichas de "Escena actual", que quedaron con búsqueda) con `npm run spotify` (ver arriba): 454 discos todavía sin buscar.
-2. **Revisar los dudosos** de [sin-spotify.md](sin-spotify.md): por ahora son 26 (13 de importancia alta). Cada uno tiene su link candidato; alcanza con decir cuáles se aprueban.
-3. **Decidir qué hacer con los que no aparecen en Spotify** (por ahora 74, 25 de importancia alta): buscarlos en YouTube o sacarlos del banco.
+1. **Revisar los dudosos** de [sin-spotify.md](sin-spotify.md): son 54 (24 de importancia alta). Cada uno tiene su link candidato; alcanza con decir cuáles se aprueban.
+2. **Decidir qué hacer con los que no aparecen en Spotify** (194, 75 de importancia alta): buscarlos en YouTube o sacarlos del banco.
 4. **Terminar de pulir las reseñas:**
    - Quedan unas 174 con una repetición más leve entre la primera y la segunda frase. Algunas todavía repiten, como *We Three* o *Plenty, Plenty Soul*, y otras están bien.
    - Estas 12 tienen dos frases porque falta un dato particular seguro: *Son dos*, *El jardín de Ordóñez*, *Turista*, *Cajita de música*, *La cocina magnética*, *Gonzalo Levin Octeto*, *Into Forever*, *Characters*, *Everyday, Everynight*, *Ravensburg*, *Downhill from Here* y *Live in Montreux 1987*.
