@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Open, to Love Paul Bley"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/09sEEMLzcsRFW0DCi1xuxP",
+    "tituloEnSpotify": "Open, To Love",
+    "via": "api-spotify"
   },
   "id": "open-to-love",
   "titulo": "Open, to Love",

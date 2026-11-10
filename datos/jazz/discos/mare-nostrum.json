@@ -11,8 +11,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Mare Nostrum Paolo Fresu"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7iZadmuPfAJ4YJWcgXTtTK",
+    "tituloEnSpotify": "Mare Nostrum",
+    "via": "api-spotify"
   },
   "id": "mare-nostrum",
   "titulo": "Mare Nostrum",

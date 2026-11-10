@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "San Francisco Bobby Hutcherson"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4iWJYzYbD0S6e3I8Xzr7LR",
+    "tituloEnSpotify": "San Francisco",
+    "via": "api-spotify"
   },
   "id": "san-francisco",
   "titulo": "San Francisco",

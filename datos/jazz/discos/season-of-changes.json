@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Season of Changes Brian Blade"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0TTjU590pTVQyrwk3ke801",
+    "tituloEnSpotify": "Season of Changes",
+    "via": "api-spotify"
   },
   "id": "season-of-changes",
   "titulo": "Season of Changes",

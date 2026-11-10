@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "João Gilberto João Gilberto"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4",
+    "tituloEnSpotify": "João Gilberto",
+    "via": "api-spotify"
   },
   "id": "joao-gilberto",
   "titulo": "João Gilberto",

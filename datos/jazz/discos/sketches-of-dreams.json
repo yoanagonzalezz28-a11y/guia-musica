@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Sketches of Dreams David Sánchez"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4hNJjYCJn8I1EhW3rILSYs",
+    "tituloEnSpotify": "Sketches Of Dreams",
+    "via": "api-spotify"
   },
   "id": "sketches-of-dreams",
   "titulo": "Sketches of Dreams",

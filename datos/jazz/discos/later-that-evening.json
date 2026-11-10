@@ -11,8 +11,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Later That Evening Eberhard Weber"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5ENSvLDqnte8Str1DpHaBI",
+    "tituloEnSpotify": "Later That Evening",
+    "via": "api-spotify"
   },
   "id": "later-that-evening",
   "titulo": "Later That Evening",

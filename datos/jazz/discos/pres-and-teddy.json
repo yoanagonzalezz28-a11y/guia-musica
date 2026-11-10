@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Pres and Teddy Lester Young"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5B2KEv7ZCjj08yHgCfYrbg",
+    "tituloEnSpotify": "Pres & Teddy",
+    "via": "api-spotify"
   },
   "id": "pres-and-teddy",
   "titulo": "Pres and Teddy",

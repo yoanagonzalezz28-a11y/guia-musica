@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Ground Tord Gustavsen"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3rpF9hVBypQJLBf8fu5Vfu",
+    "tituloEnSpotify": "The Ground",
+    "via": "api-spotify"
   },
   "id": "the-ground",
   "titulo": "The Ground",

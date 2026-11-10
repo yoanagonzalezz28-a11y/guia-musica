@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Rough Dancer and the Cyclical Night (Tango apasionado) Astor Piazzolla"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3Shb6pA04PnmQyJj5bk05k",
+    "tituloEnSpotify": "Rough Dancer And The Cyclical Night",
+    "via": "api-spotify"
   },
   "id": "the-rough-dancer-and-the-cyclical-night-tango-apas",
   "titulo": "The Rough Dancer and the Cyclical Night (Tango apasionado)",

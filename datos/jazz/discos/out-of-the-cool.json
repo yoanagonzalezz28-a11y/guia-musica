@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Out of the Cool Gil Evans"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/77m6MfPZux3svsluyephB7",
+    "tituloEnSpotify": "Out Of The Cool",
+    "via": "api-spotify"
   },
   "id": "out-of-the-cool",
   "titulo": "Out of the Cool",

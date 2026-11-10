@@ -11,8 +11,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Miri Familia Tchavolo Schmitt"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5oDlpejItbtRd8Sv46n1Ut",
+    "tituloEnSpotify": "Miri Familia",
+    "via": "api-spotify"
   },
   "id": "miri-familia",
   "titulo": "Miri Familia",

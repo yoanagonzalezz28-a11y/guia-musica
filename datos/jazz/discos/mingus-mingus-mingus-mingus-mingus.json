@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Mingus Mingus Mingus Mingus Mingus Charles Mingus"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/12DCd8u80PoRIvBgjQrtuH",
+    "tituloEnSpotify": "Mingus Mingus Mingus Mingus Mingus",
+    "via": "api-spotify"
   },
   "id": "mingus-mingus-mingus-mingus-mingus",
   "titulo": "Mingus Mingus Mingus Mingus Mingus",

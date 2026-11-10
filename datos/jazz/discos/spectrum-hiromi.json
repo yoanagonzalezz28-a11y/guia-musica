@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Spectrum Hiromi"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6nWNBeeFpGrFEu9CDeZJbH",
+    "tituloEnSpotify": "Spectrum",
+    "via": "api-spotify"
   },
   "id": "spectrum-hiromi",
   "titulo": "Spectrum",

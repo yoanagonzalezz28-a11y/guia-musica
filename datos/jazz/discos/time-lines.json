@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Time Lines Andrew Hill"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7zBxZAbH66EZzZ3zcholgu",
+    "tituloEnSpotify": "Time Lines",
+    "via": "api-spotify"
   },
   "id": "time-lines",
   "titulo": "Time Lines",

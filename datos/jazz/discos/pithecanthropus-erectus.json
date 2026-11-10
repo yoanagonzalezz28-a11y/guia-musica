@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Pithecanthropus Erectus Charles Mingus"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4kZ55sjjRKgCphjOmSMR7o",
+    "tituloEnSpotify": "Pithecanthropus Erectus",
+    "via": "api-spotify"
   },
   "id": "pithecanthropus-erectus",
   "titulo": "Pithecanthropus Erectus",

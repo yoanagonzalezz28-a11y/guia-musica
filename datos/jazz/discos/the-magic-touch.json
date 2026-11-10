@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Magic Touch Tadd Dameron"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1VAiOjsUqYdgxKVzKgGMnn",
+    "tituloEnSpotify": "The Magic Touch",
+    "via": "api-spotify"
   },
   "id": "the-magic-touch",
   "titulo": "The Magic Touch",

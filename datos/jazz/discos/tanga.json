@@ -14,8 +14,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Tanga Mario Bauzá"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0UNY4QMVrcc65Ujcp4HVlk",
+    "tituloEnSpotify": "Tanga",
+    "via": "api-spotify"
   },
   "id": "tanga",
   "titulo": "Tanga",

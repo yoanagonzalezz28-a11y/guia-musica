@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Judgment! Andrew Hill"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1UTKa9k864z70CFgpoJy1f",
+    "tituloEnSpotify": "Judgment (Remastered 2003 / Rudy Van Gelder Edition)",
+    "via": "api-spotify"
   },
   "id": "judgment",
   "titulo": "Judgment!",

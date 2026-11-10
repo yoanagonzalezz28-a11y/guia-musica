@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Love Cry Albert Ayler"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1g8U1UDK7L1L7sxgUngd9q",
+    "tituloEnSpotify": "Love Cry (Expanded Edition)",
+    "via": "api-spotify"
   },
   "id": "love-cry",
   "titulo": "Love Cry",

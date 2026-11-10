@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Soul of Ben Webster Ben Webster"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3txdl5NcBozMk4012vyel2",
+    "tituloEnSpotify": "The Soul Of Ben Webster",
+    "via": "api-spotify"
   },
   "id": "the-soul-of-ben-webster",
   "titulo": "The Soul of Ben Webster",

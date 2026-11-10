@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Harold López-Nussa Timba a la Americana"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C",
+    "tituloEnSpotify": "Timba a la Americana",
+    "via": "api-spotify"
   },
   "id": "timba-a-la-americana",
   "titulo": "Timba a la Americana",

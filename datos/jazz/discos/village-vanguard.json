@@ -61,8 +61,10 @@
     "La primera grabación en vivo hecha en el Village Vanguard, a cargo de Rudy Van Gelder. Rollins tocó una función a la tarde y dos a la noche con dos bases rítmicas distintas, otra vez en trío y sin piano."
   ],
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "A Night at the Village Vanguard Sonny Rollins"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4ZsJnvskaNpZ03ynI0mqlH",
+    "tituloEnSpotify": "A Night At The Village Vanguard (The Complete Masters)",
+    "via": "api-spotify"
   },
   "ids": {
     "musicbrainz": "35cb5391-a144-31e9-853b-4728b9b2a511",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Screamin' the Blues Oliver Nelson"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4JsQT0bpv95YkN6SKz9uEW",
+    "tituloEnSpotify": "Screamin' the Blues",
+    "via": "api-spotify"
   },
   "id": "screamin-the-blues",
   "titulo": "Screamin' the Blues",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Juan Ibarra Ramiro Zayas Surin"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/46heVXNDYDEzz25liGrbQt",
+    "tituloEnSpotify": "Surin",
+    "via": "api-spotify"
   },
   "id": "surin",
   "titulo": "Surin",

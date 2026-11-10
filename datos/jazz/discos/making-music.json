@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Making Music Zakir Hussain"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6Z5RRaRtxckdDY9W9711lB",
+    "tituloEnSpotify": "Making Music",
+    "via": "api-spotify"
   },
   "id": "making-music",
   "titulo": "Making Music",

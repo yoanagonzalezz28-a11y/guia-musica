@@ -11,8 +11,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Pianism Michel Petrucciani"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/51gnZiO22o4MXivfVvvitw",
+    "tituloEnSpotify": "Pianism",
+    "via": "api-spotify"
   },
   "id": "pianism",
   "titulo": "Pianism",

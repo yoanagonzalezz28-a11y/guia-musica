@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Krupa and Rich Gene Krupa"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1ESRgBhoINxiC9oIm1yDNz",
+    "tituloEnSpotify": "Krupa and Rich",
+    "via": "api-spotify"
   },
   "id": "krupa-and-rich",
   "titulo": "Krupa and Rich",

@@ -17,8 +17,10 @@
   "catalogo": "ECM 1251",
   "lugar": "Tonstudio Bauer, Ludwigsburg",
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Kultrum Dino Saluzzi"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2wrmhdCsm7gznciSWCCTl4",
+    "tituloEnSpotify": "Kultrum",
+    "via": "api-spotify"
   },
   "id": "kultrum",
   "titulo": "Kultrum",

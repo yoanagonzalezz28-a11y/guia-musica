@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Sounds of Space Alfredo Rodríguez"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1pRTCcb7EqkVGcledz0nvg",
+    "tituloEnSpotify": "Sounds of Space",
+    "via": "api-spotify"
   },
   "id": "sounds-of-space",
   "titulo": "Sounds of Space",

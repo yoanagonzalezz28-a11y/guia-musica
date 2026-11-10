@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Kujaviak Goes Funky Zbigniew Namysłowski"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5hAaacaVxH0f9HzyC8cWX5",
+    "tituloEnSpotify": "Kujaviak Goes Funky (Polish Jazz vol. 46)",
+    "via": "api-spotify"
   },
   "id": "kujaviak-goes-funky",
   "titulo": "Kujaviak Goes Funky",

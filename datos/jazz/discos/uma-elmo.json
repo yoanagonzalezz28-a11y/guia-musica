@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Uma Elmo Jakob Bro"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2YxlIAhEn3nFJUYaI5R8ts",
+    "tituloEnSpotify": "Uma Elmo",
+    "via": "api-spotify"
   },
   "id": "uma-elmo",
   "titulo": "Uma Elmo",

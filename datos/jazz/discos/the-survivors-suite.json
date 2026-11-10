@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Survivors' Suite Keith Jarrett"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4Xwp8TJPxLHZJdrRo26UmI",
+    "tituloEnSpotify": "The Survivors' Suite",
+    "via": "api-spotify"
   },
   "id": "the-survivors-suite",
   "titulo": "The Survivors' Suite",

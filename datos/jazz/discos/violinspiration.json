@@ -11,8 +11,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Violinspiration Stéphane Grappelli"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/64DtWgbIfDEhGh4FaLA3wF",
+    "tituloEnSpotify": "Violinspiration",
+    "via": "api-spotify"
   },
   "id": "violinspiration",
   "titulo": "Violinspiration",

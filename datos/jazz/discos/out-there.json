@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Out There Eric Dolphy"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2GTMwdiWPXKD6wvKgbolIp",
+    "tituloEnSpotify": "Out There (Rudy Van Gelder Remaster)",
+    "via": "api-spotify"
   },
   "id": "out-there",
   "titulo": "Out There",

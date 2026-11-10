@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Telefunken Blues Kenny Clarke"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7ut3jTgFo6oaRoGCRcIp5a",
+    "tituloEnSpotify": "Telefunken Blues",
+    "via": "api-spotify"
   },
   "id": "telefunken-blues",
   "titulo": "Telefunken Blues",

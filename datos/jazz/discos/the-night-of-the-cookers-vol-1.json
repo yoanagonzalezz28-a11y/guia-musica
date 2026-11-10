@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Night of the Cookers, Vol. 1 Freddie Hubbard"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4kBRqoHFQZHaZ3sHfvAN3U",
+    "tituloEnSpotify": "The Night Of The Cookers (Volume One/Live)",
+    "via": "api-spotify"
   },
   "id": "the-night-of-the-cookers-vol-1",
   "titulo": "The Night of the Cookers, Vol. 1",

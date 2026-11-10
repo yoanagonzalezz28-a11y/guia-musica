@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Requiem Branford Marsalis"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/29i9en5qeHoAT0RJe5oI7M",
+    "tituloEnSpotify": "Requiem",
+    "via": "api-spotify"
   },
   "id": "requiem",
   "titulo": "Requiem",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Total Eclipse Billy Cobham"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4R5tlb6isoA21EDZTAqfh7",
+    "tituloEnSpotify": "Total Eclipse",
+    "via": "api-spotify"
   },
   "id": "total-eclipse",
   "titulo": "Total Eclipse",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Y'Y Amaro Freitas"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6uau7dao159A94pxtGIoMj",
+    "tituloEnSpotify": "Y'Y",
+    "via": "api-spotify"
   },
   "id": "y-y",
   "titulo": "Y'Y",

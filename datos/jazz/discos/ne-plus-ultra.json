@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Ne Plus Ultra Warne Marsh"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/611XQ69GwNUGDUoMsUJq82",
+    "tituloEnSpotify": "Ne Plus Ultra",
+    "via": "api-spotify"
   },
   "id": "ne-plus-ultra",
   "titulo": "Ne Plus Ultra",

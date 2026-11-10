@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Smack Up Art Pepper"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5dCaro8EwYzu6cu1WXpchc",
+    "tituloEnSpotify": "Smack Up",
+    "via": "api-spotify"
   },
   "id": "smack-up",
   "titulo": "Smack Up",

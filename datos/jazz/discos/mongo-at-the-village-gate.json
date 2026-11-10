@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Mongo at the Village Gate Mongo Santamaría"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1VnlSN0idkJZJ5AgnMf6J7",
+    "tituloEnSpotify": "Mongo at the Village Gate!",
+    "via": "api-spotify"
   },
   "id": "mongo-at-the-village-gate",
   "titulo": "Mongo at the Village Gate",

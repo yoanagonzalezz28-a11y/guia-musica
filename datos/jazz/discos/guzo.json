@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Samuel Yirga Guzo"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6YP332I4wdNGNhFFRySqvB",
+    "tituloEnSpotify": "Guzo",
+    "via": "api-spotify"
   },
   "id": "guzo",
   "titulo": "Guzo",

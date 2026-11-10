@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Rada Rubén Rada"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5HbewQPmqOavxTFAywxruZ",
+    "tituloEnSpotify": "Rada",
+    "via": "api-spotify"
   },
   "id": "rada",
   "titulo": "Rada",

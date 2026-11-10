@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Twin House Larry Coryell"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7L1FK39PFS7yAZIiTbGY4x",
+    "tituloEnSpotify": "Twin-House",
+    "via": "api-spotify"
   },
   "id": "twin-house",
   "titulo": "Twin House",

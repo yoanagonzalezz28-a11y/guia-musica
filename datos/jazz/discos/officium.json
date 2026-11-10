@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Officium Jan Garbarek"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6EZ4ZARjmbOF8M9yRzxMxE",
+    "tituloEnSpotify": "Officium",
+    "via": "api-spotify"
   },
   "id": "officium",
   "titulo": "Officium",

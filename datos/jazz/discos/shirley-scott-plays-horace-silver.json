@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Shirley Scott Plays Horace Silver Shirley Scott"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4bI8D1jZ8ZIN4tGbC7fXFf",
+    "tituloEnSpotify": "Shirley Scott Plays Horace Silver",
+    "via": "api-spotify"
   },
   "id": "shirley-scott-plays-horace-silver",
   "titulo": "Shirley Scott Plays Horace Silver",

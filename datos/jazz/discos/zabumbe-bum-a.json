@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Zabumbê-bum-á Hermeto Pascoal"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/62BT0ckrJPXXb3CCEkRryj",
+    "tituloEnSpotify": "Zabumbe-Bum-A (Remasterizado)",
+    "via": "api-spotify"
   },
   "id": "zabumbe-bum-a",
   "titulo": "Zabumbê-bum-á",

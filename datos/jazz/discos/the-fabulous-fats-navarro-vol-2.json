@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Fabulous Fats Navarro, Vol. 2 Fats Navarro"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6bRXHpBlcUYcEjSlPO0T0o",
+    "tituloEnSpotify": "The Fabulous Fats Navarro [Vol. 2 (Expanded Edition)]",
+    "via": "api-spotify"
   },
   "id": "the-fabulous-fats-navarro-vol-2",
   "titulo": "The Fabulous Fats Navarro, Vol. 2",

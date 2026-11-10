@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Mongo Mongo Santamaría"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/78CXHLaurGAbMI4meikErD",
+    "tituloEnSpotify": "Mongo",
+    "via": "api-spotify"
   },
   "id": "mongo",
   "titulo": "Mongo",

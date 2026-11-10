@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Viaticum Esbjörn Svensson"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6tkWyugiJx8ldyhwAZ694u",
+    "tituloEnSpotify": "Viaticum",
+    "via": "api-spotify"
   },
   "id": "viaticum",
   "titulo": "Viaticum",

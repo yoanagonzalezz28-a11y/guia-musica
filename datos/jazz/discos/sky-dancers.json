@@ -11,8 +11,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Sky Dancers Henri Texier"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6fsDsRqyOPS4FJWQV8yBrS",
+    "tituloEnSpotify": "Sky Dancers",
+    "via": "api-spotify"
   },
   "id": "sky-dancers",
   "titulo": "Sky Dancers",

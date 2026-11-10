@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Living Legend Art Pepper"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2SfZ45KeX2XJSA0xc4VQvI",
+    "tituloEnSpotify": "Living Legend",
+    "via": "api-spotify"
   },
   "id": "living-legend",
   "titulo": "Living Legend",

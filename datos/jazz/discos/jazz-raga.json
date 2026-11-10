@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Jazz Raga Gábor Szabó"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2fNaf4XoFGa90FbOU7MEA8",
+    "tituloEnSpotify": "Jazz Raga",
+    "via": "api-spotify"
   },
   "id": "jazz-raga",
   "titulo": "Jazz Raga",

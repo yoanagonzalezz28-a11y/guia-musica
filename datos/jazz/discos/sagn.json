@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Sagn Arild Andersen"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1TvPd0kI0cxT5EUV6QDOjv",
+    "tituloEnSpotify": "Sagn",
+    "via": "api-spotify"
   },
   "id": "sagn",
   "titulo": "Sagn",

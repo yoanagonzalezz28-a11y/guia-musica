@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Obsesión David Sánchez"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1oOtcBgOO9epkW1HwlfE8i",
+    "tituloEnSpotify": "Obsesión",
+    "via": "api-spotify"
   },
   "id": "obsesion",
   "titulo": "Obsesión",

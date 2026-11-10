@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Monk's Music Thelonious Monk"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2nJIqQiyvCyZ86LYeGgkMx",
+    "tituloEnSpotify": "Monk's Music (Remastered 2024)",
+    "via": "api-spotify"
   },
   "id": "monk-s-music",
   "titulo": "Monk's Music",

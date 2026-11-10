@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Swingin' New Big Band Buddy Rich"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/72DAKG05tA924j6BhKXsbA",
+    "tituloEnSpotify": "Swingin' New Big Band (Expanded Edition)",
+    "via": "api-spotify"
   },
   "id": "swingin-new-big-band",
   "titulo": "Swingin' New Big Band",

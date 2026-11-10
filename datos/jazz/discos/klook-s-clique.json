@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Klook's Clique Kenny Clarke"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6nEPQDpcX4F4iT0xK8bxlB",
+    "tituloEnSpotify": "Klook's Clique",
+    "via": "api-spotify"
   },
   "id": "klook-s-clique",
   "titulo": "Klook's Clique",

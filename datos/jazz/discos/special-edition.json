@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Special Edition Jack DeJohnette"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5bZeVr8vYtigtTPthQ9Gxr",
+    "tituloEnSpotify": "Special Edition",
+    "via": "api-spotify"
   },
   "id": "special-edition",
   "titulo": "Special Edition",

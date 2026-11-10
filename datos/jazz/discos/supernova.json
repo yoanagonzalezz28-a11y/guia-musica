@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Supernova Gonzalo Rubalcaba"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/67F4jQSzz2CvGNfYpZFems",
+    "tituloEnSpotify": "Supernova",
+    "via": "api-spotify"
   },
   "id": "supernova",
   "titulo": "Supernova",

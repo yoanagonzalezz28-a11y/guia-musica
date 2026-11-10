@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Le Monde musical de Baden Powell Baden Powell"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0p6KGbqZfrcQctb7HnNJZb",
+    "tituloEnSpotify": "Le Monde Musical De Baden Powell",
+    "via": "api-spotify"
   },
   "id": "le-monde-musical-de-baden-powell",
   "titulo": "Le Monde musical de Baden Powell",

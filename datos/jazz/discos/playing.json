@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Playing Bugge Wesseltoft"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7yMvfg28jG1JNC2fPmEcCC",
+    "tituloEnSpotify": "Playing",
+    "via": "api-spotify"
   },
   "id": "playing",
   "titulo": "Playing",

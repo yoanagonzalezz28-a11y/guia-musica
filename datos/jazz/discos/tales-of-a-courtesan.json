@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Tales of a Courtesan Toshiko Akiyoshi"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/18UQ5ezbR8eF81Shuyj5l2",
+    "tituloEnSpotify": "Tales of a Courtesan(Oirantan)",
+    "via": "api-spotify"
   },
   "id": "tales-of-a-courtesan",
   "titulo": "Tales of a Courtesan",

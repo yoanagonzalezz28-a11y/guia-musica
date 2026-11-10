@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "NP3 Nils Petter Molvær"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4SL6kC55ls4JGHdEnK6Spn",
+    "tituloEnSpotify": "Np3",
+    "via": "api-spotify"
   },
   "id": "np3",
   "titulo": "NP3",

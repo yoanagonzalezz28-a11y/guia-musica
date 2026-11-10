@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Petite Fleur Sidney Bechet"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6Komr5AnVWZSAA7kg39pO5",
+    "tituloEnSpotify": "Petite Fleur (Remastered)",
+    "via": "api-spotify"
   },
   "id": "petite-fleur",
   "titulo": "Petite Fleur",

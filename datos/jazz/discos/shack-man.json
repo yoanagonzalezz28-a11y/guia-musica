@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Shack-man Medeski, Martin & Wood"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7zGVnFiNNe6rvoPutZPCBe",
+    "tituloEnSpotify": "Shack-man",
+    "via": "api-spotify"
   },
   "id": "shack-man",
   "titulo": "Shack-man",

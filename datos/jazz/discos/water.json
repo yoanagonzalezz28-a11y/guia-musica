@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Water Gregory Porter"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0gQB99eBkdZLBrMc32ybnY",
+    "tituloEnSpotify": "Water",
+    "via": "api-spotify"
   },
   "id": "water",
   "titulo": "Water",

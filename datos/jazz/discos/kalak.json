@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "KALAK Sarathy Korwar"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1vcrQSGBQbL5wGeUrNaZAw",
+    "tituloEnSpotify": "KALAK",
+    "via": "api-spotify"
   },
   "id": "kalak",
   "titulo": "KALAK",

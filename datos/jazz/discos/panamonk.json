@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "PanaMonk Danilo Pérez"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6DTxfwFfwzh12FAeyTCA9P",
+    "tituloEnSpotify": "Panamonk",
+    "via": "api-spotify"
   },
   "id": "panamonk",
   "titulo": "PanaMonk",

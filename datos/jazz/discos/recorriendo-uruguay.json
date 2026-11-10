@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Recorriendo Uruguay Hugo Fattoruso"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1Wqdt8ROzmMc3eD7ssJVhO",
+    "tituloEnSpotify": "Recorriendo Uruguay",
+    "via": "api-spotify"
   },
   "id": "recorriendo-uruguay",
   "titulo": "Recorriendo Uruguay",

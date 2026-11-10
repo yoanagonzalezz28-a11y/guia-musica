@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Peninsular Tarek Yamani"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1wr5DWVH7Yiw8ves9LqR5y",
+    "tituloEnSpotify": "Peninsular",
+    "via": "api-spotify"
   },
   "id": "peninsular",
   "titulo": "Peninsular",

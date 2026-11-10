@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Strange Place for Snow Esbjörn Svensson"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5xvQ646C8U6qWqfmtxb48K",
+    "tituloEnSpotify": "Strange Place for Snow",
+    "via": "api-spotify"
   },
   "id": "strange-place-for-snow",
   "titulo": "Strange Place for Snow",

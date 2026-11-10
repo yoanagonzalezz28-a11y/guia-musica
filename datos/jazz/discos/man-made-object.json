@@ -11,8 +11,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Man Made Object GoGo Penguin"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/10GN4IZi63LJ3CWbrG8f5e",
+    "tituloEnSpotify": "Man Made Object (Deluxe)",
+    "via": "api-spotify"
   },
   "id": "man-made-object",
   "titulo": "Man Made Object",

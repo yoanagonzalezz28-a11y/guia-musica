@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Slow Eastbound Train Daniel Herskedal"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/082N9ySa5hlkvLR5oTW8q1",
+    "tituloEnSpotify": "Slow Eastbound Train",
+    "via": "api-spotify"
   },
   "id": "slow-eastbound-train",
   "titulo": "Slow Eastbound Train",

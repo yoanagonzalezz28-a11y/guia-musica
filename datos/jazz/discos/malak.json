@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Malak Dhafer Youssef"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4y1CHE5e5suuk5C49f0DZR",
+    "tituloEnSpotify": "Malak",
+    "via": "api-spotify"
   },
   "id": "malak",
   "titulo": "Malak",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Fumika Asari Enter a New Phase"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4tRcA55rWoagfQW57GknkT",
+    "tituloEnSpotify": "Enter A New Phase",
+    "via": "api-spotify"
   },
   "id": "enter-a-new-phase",
   "titulo": "Enter a New Phase",

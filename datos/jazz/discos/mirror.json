@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Mirror Charles Lloyd"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2S2e9KAsq88kaNMO5xqDV5",
+    "tituloEnSpotify": "Mirror",
+    "via": "api-spotify"
   },
   "id": "mirror",
   "titulo": "Mirror",

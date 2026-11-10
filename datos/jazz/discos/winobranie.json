@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Winobranie Zbigniew Namysłowski"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7yG1Zd4fcf91YSzRTD8Oyo",
+    "tituloEnSpotify": "Winobranie (Polish Jazz, vol. 33)",
+    "via": "api-spotify"
   },
   "id": "winobranie",
   "titulo": "Winobranie",

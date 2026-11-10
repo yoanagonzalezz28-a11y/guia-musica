@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Source + We Move Nubya Garcia"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7p1KmTe3TtMb7ojCYNmvpc",
+    "tituloEnSpotify": "SOURCE ⧺ WE MOVE",
+    "via": "api-spotify"
   },
   "id": "source-we-move",
   "titulo": "Source + We Move",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Philly Joe's Beat Philly Joe Jones"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6EwjMbvj0E3zo45GdeN7FO",
+    "tituloEnSpotify": "Philly Joe's Beat (Remastered Edition)",
+    "via": "api-spotify"
   },
   "id": "philly-joe-s-beat",
   "titulo": "Philly Joe's Beat",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Sabroso! Mongo Santamaría"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3PVI3daKol0H5w7NAf7J2S",
+    "tituloEnSpotify": "Sabroso !",
+    "via": "api-spotify"
   },
   "id": "sabroso",
   "titulo": "Sabroso!",

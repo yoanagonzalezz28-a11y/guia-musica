@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Point of Departure Andrew Hill"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/647o8vl4OD1sjvvhql3jFS",
+    "tituloEnSpotify": "Point Of Departure (The Rudy Van Gelder Edition)",
+    "via": "api-spotify"
   },
   "id": "point-of-departure",
   "titulo": "Point of Departure",

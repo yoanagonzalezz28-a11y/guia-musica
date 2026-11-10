@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Os Afro-sambas Baden Powell"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4zyGU4SFL8DEE9Ee9yAjnk",
+    "tituloEnSpotify": "Os Afro-Sambas",
+    "via": "api-spotify"
   },
   "id": "os-afro-sambas",
   "titulo": "Os Afro-sambas",

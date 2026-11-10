@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Village Wallace Roney"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5R4kLixY5gCnyxGDt5qGV9",
+    "tituloEnSpotify": "Village",
+    "via": "api-spotify"
   },
   "id": "village",
   "titulo": "Village",

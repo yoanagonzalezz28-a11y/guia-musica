@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Once in Every Life Johnny Hartman"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/17DmhxPS0IRW4sVnxpOJ5K",
+    "tituloEnSpotify": "Once in Every Life",
+    "via": "api-spotify"
   },
   "id": "once-in-every-life",
   "titulo": "Once in Every Life",

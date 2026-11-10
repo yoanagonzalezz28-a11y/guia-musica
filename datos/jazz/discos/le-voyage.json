@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Le Voyage Paul Motian"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7roLRmMxIk6SNKeFxnpkk7",
+    "tituloEnSpotify": "Le Voyage",
+    "via": "api-spotify"
   },
   "id": "le-voyage",
   "titulo": "Le Voyage",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Lullaby Mathias Eick"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3UK3AuuDGFk46w0323tb23",
+    "tituloEnSpotify": "Lullaby",
+    "via": "api-spotify"
   },
   "id": "lullaby",
   "titulo": "Lullaby",

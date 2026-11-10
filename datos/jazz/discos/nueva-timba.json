@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Harold López-Nussa Nueva Timba"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1tEFMXDncFNzDKbMSj5vlA",
+    "tituloEnSpotify": "NUEVA TIMBA",
+    "via": "api-spotify"
   },
   "id": "nueva-timba",
   "titulo": "Nueva Timba",

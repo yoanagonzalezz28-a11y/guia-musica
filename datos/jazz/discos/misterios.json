@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Misterios Wallace Roney"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6hbfHObzg85qcBPJSAfPBJ",
+    "tituloEnSpotify": "Misterios",
+    "via": "api-spotify"
   },
   "id": "misterios",
   "titulo": "Misterios",

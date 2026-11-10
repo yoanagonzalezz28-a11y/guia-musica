@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "uNomkhubulwane Nduduzo Makhathini"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/282PG9yezvXZUVMimjWkXw",
+    "tituloEnSpotify": "uNomkhubulwane",
+    "via": "api-spotify"
   },
   "id": "unomkhubulwane",
   "titulo": "uNomkhubulwane",

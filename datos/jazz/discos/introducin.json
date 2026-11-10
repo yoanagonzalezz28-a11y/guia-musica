@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Fumika Asari Introducin'"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0lqLsUsgjU0kDqJFeKfaZ2",
+    "tituloEnSpotify": "Introducin'",
+    "via": "api-spotify"
   },
   "id": "introducin",
   "titulo": "Introducin'",

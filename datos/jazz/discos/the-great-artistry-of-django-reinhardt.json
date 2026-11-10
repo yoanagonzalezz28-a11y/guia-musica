@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Great Artistry of Django Reinhardt Django Reinhardt"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0nQdzXFjOWzqfwF2EaErbR",
+    "tituloEnSpotify": "The Great Artistry of Django Reinhardt",
+    "via": "api-spotify"
   },
   "id": "the-great-artistry-of-django-reinhardt",
   "titulo": "The Great Artistry of Django Reinhardt",

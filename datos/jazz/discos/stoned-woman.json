@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Stoned Woman Mother Earth"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1iMNmX3jxoENVoUv1nJmwe",
+    "tituloEnSpotify": "Stoned Woman",
+    "via": "api-spotify"
   },
   "id": "stoned-woman",
   "titulo": "Stoned Woman",

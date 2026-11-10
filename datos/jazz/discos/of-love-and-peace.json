@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Of Love and Peace Larry Young"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7bwWyVU6t34KdorFtrfjL9",
+    "tituloEnSpotify": "Of Love And Peace",
+    "via": "api-spotify"
   },
   "id": "of-love-and-peace",
   "titulo": "Of Love and Peace",

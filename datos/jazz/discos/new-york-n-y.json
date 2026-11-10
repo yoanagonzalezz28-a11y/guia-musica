@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "New York, N.Y. George Russell"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7IR5Yd6UzkmuxAsfLMcE64",
+    "tituloEnSpotify": "New York, N.Y.",
+    "via": "api-spotify"
   },
   "id": "new-york-n-y",
   "titulo": "New York, N.Y.",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Songbook Kenny Garrett"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3",
+    "tituloEnSpotify": "Songbook",
+    "via": "api-spotify"
   },
   "id": "songbook",
   "titulo": "Songbook",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Mulatu Steps Ahead Mulatu Astatke"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7jEivoGNSPuXZhpO2SQrLR",
+    "tituloEnSpotify": "Mulatu Steps Ahead",
+    "via": "api-spotify"
   },
   "id": "mulatu-steps-ahead",
   "titulo": "Mulatu Steps Ahead",

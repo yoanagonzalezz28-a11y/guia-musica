@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Modes of Communication: Letters from the Underworlds Nduduzo Makhathini"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6D5gR5dxP0iUeueQlwRQDe",
+    "tituloEnSpotify": "Modes Of Communication: Letters From The Underworlds",
+    "via": "api-spotify"
   },
   "id": "modes-of-communication-letters-from-the-underworld",
   "titulo": "Modes of Communication: Letters from the Underworlds",

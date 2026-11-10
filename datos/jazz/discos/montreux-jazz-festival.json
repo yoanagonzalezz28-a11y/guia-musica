@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Montreux Jazz Festival Elis Regina"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1EpAQVcgOZccz2LpuCuAW4",
+    "tituloEnSpotify": "Montreux Jazz Festival (Ao Vivo)",
+    "via": "api-spotify"
   },
   "id": "montreux-jazz-festival",
   "titulo": "Montreux Jazz Festival",

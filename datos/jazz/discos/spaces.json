@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Spaces Larry Coryell"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3yWMiTJMsc40mrOmiz3JFr",
+    "tituloEnSpotify": "Spaces",
+    "via": "api-spotify"
   },
   "id": "spaces",
   "titulo": "Spaces",

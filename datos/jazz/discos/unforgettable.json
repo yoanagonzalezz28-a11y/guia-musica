@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Unforgettable Johnny Hartman"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1uuWhIhlm6T5RoMM7ALp5V",
+    "tituloEnSpotify": "Unforgettable",
+    "via": "api-spotify"
   },
   "id": "unforgettable",
   "titulo": "Unforgettable",

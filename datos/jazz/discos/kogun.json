@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Kogun Toshiko Akiyoshi"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/19HnjfYjvnEGkaDkgrGL7x",
+    "tituloEnSpotify": "Kogun",
+    "via": "api-spotify"
   },
   "id": "kogun",
   "titulo": "Kogun",

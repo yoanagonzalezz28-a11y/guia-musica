@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Lady Sings the Blues Billie Holiday"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo",
+    "tituloEnSpotify": "Lady Sings The Blues",
+    "via": "api-spotify"
   },
   "id": "lady-sings-the-blues",
   "titulo": "Lady Sings the Blues",

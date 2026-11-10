@@ -11,8 +11,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Playground Manu Katché"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4pM6nD48VWTKTbsvlUc4iV",
+    "tituloEnSpotify": "Playground",
+    "via": "api-spotify"
   },
   "id": "playground",
   "titulo": "Playground",

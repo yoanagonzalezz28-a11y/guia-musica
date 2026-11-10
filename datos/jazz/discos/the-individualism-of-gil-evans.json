@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Individualism of Gil Evans Gil Evans"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3dmkH0MnFScU9uB1naCAms",
+    "tituloEnSpotify": "The Individualism Of Gil Evans",
+    "via": "api-spotify"
   },
   "id": "the-individualism-of-gil-evans",
   "titulo": "The Individualism of Gil Evans",

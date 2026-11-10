@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The In Crowd Ramsey Lewis"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2uTk68gta8bfoIS5cmO7zd",
+    "tituloEnSpotify": "The In Crowd (Expanded Edition)",
+    "via": "api-spotify"
   },
   "id": "the-in-crowd",
   "titulo": "The In Crowd",

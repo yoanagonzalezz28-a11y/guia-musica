@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "More Blues and the Abstract Truth Oliver Nelson"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7JwMXybUj32mNprsCicxnY",
+    "tituloEnSpotify": "More Blues and the Abstract Truth",
+    "via": "api-spotify"
   },
   "id": "more-blues-and-the-abstract-truth",
   "titulo": "More Blues and the Abstract Truth",

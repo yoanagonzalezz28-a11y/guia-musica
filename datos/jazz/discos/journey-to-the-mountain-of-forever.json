@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Journey to the Mountain of Forever Binker and Moses"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/46bdYP6NPIqWkzN2roUXxA",
+    "tituloEnSpotify": "Journey to the Mountain of Forever",
+    "via": "api-spotify"
   },
   "id": "journey-to-the-mountain-of-forever",
   "titulo": "Journey to the Mountain of Forever",

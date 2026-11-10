@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Song for Biko Johnny Dyani"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6hIsyjQ9EMkjP6x45AaGfF",
+    "tituloEnSpotify": "Song for Biko",
+    "via": "api-spotify"
   },
   "id": "song-for-biko",
   "titulo": "Song for Biko",

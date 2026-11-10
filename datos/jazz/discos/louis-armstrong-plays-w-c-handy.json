@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Louis Armstrong Plays W. C. Handy Louis Armstrong"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6yvbyi8LOzXI59WkW6QzG2",
+    "tituloEnSpotify": "Louis Armstrong Plays W. C. Handy",
+    "via": "api-spotify"
   },
   "id": "louis-armstrong-plays-w-c-handy",
   "titulo": "Louis Armstrong Plays W. C. Handy",

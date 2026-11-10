@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "You Have Been Watching Mother Earth"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/07uH10HXPJeJAZhegvEbYd",
+    "tituloEnSpotify": "You Have Been Watching",
+    "via": "api-spotify"
   },
   "id": "you-have-been-watching",
   "titulo": "You Have Been Watching",

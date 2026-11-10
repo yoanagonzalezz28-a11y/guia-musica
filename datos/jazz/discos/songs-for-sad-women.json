@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Songs for Sad Women Rabih Abou-Khalil"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/51iJqvibmA6yiqvDLLU48Y",
+    "tituloEnSpotify": "Songs for Sad Women",
+    "via": "api-spotify"
   },
   "id": "songs-for-sad-women",
   "titulo": "Songs for Sad Women",

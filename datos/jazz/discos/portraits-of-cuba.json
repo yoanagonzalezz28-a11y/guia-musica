@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Portraits of Cuba Paquito D'Rivera"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7vHNMdwKsYANlM3b5SwUC9",
+    "tituloEnSpotify": "Portraits of Cuba",
+    "via": "api-spotify"
   },
   "id": "portraits-of-cuba",
   "titulo": "Portraits of Cuba",

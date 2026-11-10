@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Khomsa Anouar Brahem"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/19eTQpLDVScdZHgjSnSSrB",
+    "tituloEnSpotify": "Khomsa",
+    "via": "api-spotify"
   },
   "id": "khomsa",
   "titulo": "Khomsa",

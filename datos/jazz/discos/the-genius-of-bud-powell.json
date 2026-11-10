@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Genius of Bud Powell Bud Powell"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/34ImPCHsrSFkXUSkFfYqdr",
+    "tituloEnSpotify": "The Genius Of Bud Powell (Expanded Edition)",
+    "via": "api-spotify"
   },
   "id": "the-genius-of-bud-powell",
   "titulo": "The Genius of Bud Powell",

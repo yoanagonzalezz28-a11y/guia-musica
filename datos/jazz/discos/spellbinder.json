@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Spellbinder Gábor Szabó"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0Ri88poJN9bsj8k66O00mV",
+    "tituloEnSpotify": "Spellbinder",
+    "via": "api-spotify"
   },
   "id": "spellbinder",
   "titulo": "Spellbinder",

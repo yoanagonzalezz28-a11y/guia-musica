@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Kid Ory Plays the Blues Kid Ory"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2HOGib5T9Qo154U2sUO659",
+    "tituloEnSpotify": "Kid Ory Plays The Blues",
+    "via": "api-spotify"
   },
   "id": "kid-ory-plays-the-blues",
   "titulo": "Kid Ory Plays the Blues",

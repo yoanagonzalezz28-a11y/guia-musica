@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Outer View George Russell"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/02rrzWu4JhDQCIBQRsamHC",
+    "tituloEnSpotify": "The Outer View",
+    "via": "api-spotify"
   },
   "id": "the-outer-view",
   "titulo": "The Outer View",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Sunrise Masabumi Kikuchi"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0TYu2VYuz9inQ1zcZCldzh",
+    "tituloEnSpotify": "Sunrise",
+    "via": "api-spotify"
   },
   "id": "sunrise",
   "titulo": "Sunrise",

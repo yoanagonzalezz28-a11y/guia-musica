@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Saudade Moacir Santos"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3We243Gx3VD7ILsG8rk8IK",
+    "tituloEnSpotify": "Saudade",
+    "via": "api-spotify"
   },
   "id": "saudade",
   "titulo": "Saudade",

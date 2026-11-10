@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Tobacco Road Jack McDuff"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0ZxOtsrjsO7Y6VY6Bp8na2",
+    "tituloEnSpotify": "Tobacco Road",
+    "via": "api-spotify"
   },
   "id": "tobacco-road",
   "titulo": "Tobacco Road",

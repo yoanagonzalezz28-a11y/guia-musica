@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "O Amor, o Sorriso e a Flor João Gilberto"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6aqHQTMvh4vksTzSwu3VZ5",
+    "tituloEnSpotify": "O Amor, O Sorriso e a Flor (Digital Remaster)",
+    "via": "api-spotify"
   },
   "id": "o-amor-o-sorriso-e-a-flor",
   "titulo": "O Amor, o Sorriso e a Flor",

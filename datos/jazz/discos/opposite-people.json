@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Opposite People Fela Kuti"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5g1H9vcLJG8tYnXDzaWltt",
+    "tituloEnSpotify": "Opposite People",
+    "via": "api-spotify"
   },
   "id": "opposite-people",
   "titulo": "Opposite People",

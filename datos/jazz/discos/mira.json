@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Mira Arild Andersen"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7tjHDePOLgWEjAMzUZKMAM",
+    "tituloEnSpotify": "Mira",
+    "via": "api-spotify"
   },
   "id": "mira",
   "titulo": "Mira",

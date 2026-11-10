@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Soul Junction Red Garland"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/71Yte5zLG8hFGxd4QrpF4m",
+    "tituloEnSpotify": "Soul Junction (Remastered 2026)",
+    "via": "api-spotify"
   },
   "id": "soul-junction",
   "titulo": "Soul Junction",

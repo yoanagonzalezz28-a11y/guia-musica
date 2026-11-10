@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Real McCoy McCoy Tyner"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX",
+    "tituloEnSpotify": "The Real McCoy (Remastered / Rudy Van Gelder Edition)",
+    "via": "api-spotify"
   },
   "id": "the-real-mccoy",
   "titulo": "The Real McCoy",

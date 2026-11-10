@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Search for the New Land Lee Morgan"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6NmykD5FJftiDWqjWlwKfr",
+    "tituloEnSpotify": "Search For The New Land (Rudy Van Gelder Edition/2000 Remastered)",
+    "via": "api-spotify"
   },
   "id": "search-for-the-new-land",
   "titulo": "Search for the New Land",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Tjader Plays Mambo Cal Tjader"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2geN9sLicRfwUi3teRACuy",
+    "tituloEnSpotify": "Tjader Plays Mambo",
+    "via": "api-spotify"
   },
   "id": "tjader-plays-mambo",
   "titulo": "Tjader Plays Mambo",

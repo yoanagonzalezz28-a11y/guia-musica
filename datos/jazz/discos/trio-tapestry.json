@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Trio Tapestry Joe Lovano"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5frkvwu4yxiU1d024x89KW",
+    "tituloEnSpotify": "Trio Tapestry",
+    "via": "api-spotify"
   },
   "id": "trio-tapestry",
   "titulo": "Trio Tapestry",

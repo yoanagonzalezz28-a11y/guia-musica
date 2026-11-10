@@ -11,8 +11,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Perceive Its Beauty, Acknowledge Its Grace Shabaka Hutchings"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6vIwPo3D1kZ3ZmlR1fyjm7",
+    "tituloEnSpotify": "Perceive Its Beauty, Acknowledge Its Grace",
+    "via": "api-spotify"
   },
   "id": "perceive-its-beauty-acknowledge-its-grace",
   "titulo": "Perceive Its Beauty, Acknowledge Its Grace",

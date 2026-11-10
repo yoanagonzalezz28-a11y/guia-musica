@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Shadow Plays Craig Taborn"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/32yfhls2u9NuMvTgf3I5YM",
+    "tituloEnSpotify": "Shadow Plays (Live at Konzerthaus, Wien / 2020)",
+    "via": "api-spotify"
   },
   "id": "shadow-plays",
   "titulo": "Shadow Plays",

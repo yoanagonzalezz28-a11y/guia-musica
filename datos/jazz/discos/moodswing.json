@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "MoodSwing Joshua Redman"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2pGsmKvSJPyv8sjJ7fzdGp",
+    "tituloEnSpotify": "MoodSwing",
+    "via": "api-spotify"
   },
   "id": "moodswing",
   "titulo": "MoodSwing",

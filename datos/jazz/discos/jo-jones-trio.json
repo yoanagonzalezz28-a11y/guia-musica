@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Jo Jones Trio Jo Jones"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5RNiERRcUPu1xlQcPUFDKO",
+    "tituloEnSpotify": "Jo Jones Trio",
+    "via": "api-spotify"
   },
   "id": "jo-jones-trio",
   "titulo": "Jo Jones Trio",

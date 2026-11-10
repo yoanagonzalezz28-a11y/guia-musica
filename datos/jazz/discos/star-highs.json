@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Star Highs Warne Marsh"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0UZ0XdW6esbMG8QY5JumJA",
+    "tituloEnSpotify": "Star Highs",
+    "via": "api-spotify"
   },
   "id": "star-highs",
   "titulo": "Star Highs",

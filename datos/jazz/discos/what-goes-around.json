@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "What Goes Around Dave Holland"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/004n8NojQ8kcYhv710j7qe",
+    "tituloEnSpotify": "What Goes Around",
+    "via": "api-spotify"
   },
   "id": "what-goes-around",
   "titulo": "What Goes Around",

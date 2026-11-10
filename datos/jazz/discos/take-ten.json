@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Take Ten Paul Desmond"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5W0gCDMoQUWAL2PGxFE6Mr",
+    "tituloEnSpotify": "Take Ten",
+    "via": "api-spotify"
   },
   "id": "take-ten",
   "titulo": "Take Ten",

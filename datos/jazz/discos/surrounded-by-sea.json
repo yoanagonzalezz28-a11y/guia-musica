@@ -11,8 +11,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Surrounded by Sea Andy Sheppard"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6ARvpI1C3D2kyjPQUmiahD",
+    "tituloEnSpotify": "Surrounded By Sea",
+    "via": "api-spotify"
   },
   "id": "surrounded-by-sea",
   "titulo": "Surrounded by Sea",

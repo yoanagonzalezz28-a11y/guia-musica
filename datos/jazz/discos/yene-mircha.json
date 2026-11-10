@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Yene Mircha Hailu Mergia"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5DojN0LbKsOflHw04xJ9B0",
+    "tituloEnSpotify": "Yene Mircha",
+    "via": "api-spotify"
   },
   "id": "yene-mircha",
   "titulo": "Yene Mircha",

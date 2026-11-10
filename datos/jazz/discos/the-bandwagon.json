@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Bandwagon Jason Moran"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5XxvFw1K9lYu78ipjF8gpG",
+    "tituloEnSpotify": "The Bandwagon",
+    "via": "api-spotify"
   },
   "id": "the-bandwagon",
   "titulo": "The Bandwagon",

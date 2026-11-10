@@ -14,8 +14,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Portraits in Jazz and Clave Ray Barretto"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1csxoOquYqj8C25EKw3GMs",
+    "tituloEnSpotify": "Portraits In Jazz & Clave",
+    "via": "api-spotify"
   },
   "id": "portraits-in-jazz-and-clave",
   "titulo": "Portraits in Jazz and Clave",

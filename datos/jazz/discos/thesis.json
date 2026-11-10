@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Thesis Jimmy Giuffre"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7Mp6J2PTcvqH1NPE18jah5",
+    "tituloEnSpotify": "Thesis (Remastered 2014)",
+    "via": "api-spotify"
   },
   "id": "thesis",
   "titulo": "Thesis",

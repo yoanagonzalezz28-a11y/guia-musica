@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Talkin' About! Grant Green"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/42uEp7jF8DAXyxyBad9EuX",
+    "tituloEnSpotify": "Talkin' About",
+    "via": "api-spotify"
   },
   "id": "talkin-about",
   "titulo": "Talkin' About!",

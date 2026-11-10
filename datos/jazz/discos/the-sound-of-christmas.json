@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Sound of Christmas Ramsey Lewis"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6R19sU24mqi88zl3EurWUa",
+    "tituloEnSpotify": "The Sound of Christmas",
+    "via": "api-spotify"
   },
   "id": "the-sound-of-christmas",
   "titulo": "The Sound of Christmas",

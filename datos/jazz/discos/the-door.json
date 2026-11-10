@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Door Mathias Eick"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2dySoKZJaOsXcAZPwngDrB",
+    "tituloEnSpotify": "The Door",
+    "via": "api-spotify"
   },
   "id": "the-door",
   "titulo": "The Door",

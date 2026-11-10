@@ -85,8 +85,10 @@
     "Grabado mientras Konitz también tocaba con el noneto de Davis. Se escucha la influencia del bop, pero ya con un sonido propio: líneas largas y un tono seco en una época en la que casi todos los saxos altos querían sonar como Parker."
   ],
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Lee Konitz Subconscious-Lee"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6xExO03MzciqOPHWXsirhg",
+    "tituloEnSpotify": "Subconscious-Lee",
+    "via": "api-spotify"
   },
   "ids": {
     "musicbrainz": "67ca5319-4117-328a-985b-0112cde977c1",

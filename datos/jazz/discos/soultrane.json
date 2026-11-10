@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Soultrane John Coltrane"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7pU5qUNqbOMToIyqzF0Nmg",
+    "tituloEnSpotify": "Soultrane",
+    "via": "api-spotify"
   },
   "id": "soultrane",
   "titulo": "Soultrane",

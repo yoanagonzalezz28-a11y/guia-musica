@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Thing to Do Blue Mitchell"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0av5agyPuFMf5oW3nStEPM",
+    "tituloEnSpotify": "The Thing To Do (The Rudy Van Gelder Edition)",
+    "via": "api-spotify"
   },
   "id": "the-thing-to-do",
   "titulo": "The Thing to Do",

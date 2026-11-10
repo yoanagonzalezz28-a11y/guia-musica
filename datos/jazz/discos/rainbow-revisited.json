@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Rainbow Revisited Thandi Ntuli y Carlos Niño"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/63wLAGAGfVOEoDHM2kO8TA",
+    "tituloEnSpotify": "Rainbow Revisited",
+    "via": "api-spotify"
   },
   "id": "rainbow-revisited",
   "titulo": "Rainbow Revisited",

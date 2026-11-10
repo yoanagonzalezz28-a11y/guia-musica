@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Libertango Astor Piazzolla"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1CuAcz0JFL9Te3RMU6hHgS",
+    "tituloEnSpotify": "Libertango",
+    "via": "api-spotify"
   },
   "id": "libertango",
   "titulo": "Libertango",

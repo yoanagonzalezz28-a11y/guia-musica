@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Soul Time Bobby Timmons"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5EmLMO0WIkwvVO97zjnRWf",
+    "tituloEnSpotify": "Soul Time",
+    "via": "api-spotify"
   },
   "id": "soul-time",
   "titulo": "Soul Time",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Jug Gene Ammons"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5fPcN58bnk3zCJ0JhkkhUD",
+    "tituloEnSpotify": "Jug",
+    "via": "api-spotify"
   },
   "id": "jug",
   "titulo": "Jug",

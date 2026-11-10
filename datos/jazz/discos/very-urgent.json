@@ -17,8 +17,10 @@
   "catalogo": "184 137",
   "lugar": "Sound Techniques, Londres",
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Very Urgent Chris McGregor"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5eyryI36d6GvYfxoAUIxzm",
+    "tituloEnSpotify": "Very Urgent",
+    "via": "api-spotify"
   },
   "id": "very-urgent",
   "titulo": "Very Urgent",

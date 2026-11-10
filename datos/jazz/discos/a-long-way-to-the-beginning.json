@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Seun Kuti A Long Way to the Beginning"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0dNJ9n38KdmLDecheq2ze0",
+    "tituloEnSpotify": "A Long Way to the Beginning",
+    "via": "api-spotify"
   },
   "id": "a-long-way-to-the-beginning",
   "titulo": "A Long Way to the Beginning",

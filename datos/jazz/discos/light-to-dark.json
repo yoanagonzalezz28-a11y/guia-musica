@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Light to Dark Ronny Jordan"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1mgMzZixORxnrChg4HfEm4",
+    "tituloEnSpotify": "Light To Dark",
+    "via": "api-spotify"
   },
   "id": "light-to-dark",
   "titulo": "Light to Dark",

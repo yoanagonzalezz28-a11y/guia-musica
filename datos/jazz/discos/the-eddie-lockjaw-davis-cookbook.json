@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Eddie \"Lockjaw\" Davis Cookbook Eddie \"Lockjaw\" Davis"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/56n3f28tjoNhv3f822diL5",
+    "tituloEnSpotify": "The Eddie \"Lockjaw\" Davis Cookbook",
+    "via": "api-spotify"
   },
   "id": "the-eddie-lockjaw-davis-cookbook",
   "titulo": "The Eddie \"Lockjaw\" Davis Cookbook",

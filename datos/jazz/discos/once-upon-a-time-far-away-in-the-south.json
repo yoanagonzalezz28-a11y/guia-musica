@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Once Upon a Time – Far Away in the South Dino Saluzzi"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1LOYH3Kgq6Qz45KmXUYJSU",
+    "tituloEnSpotify": "Once Upon A Time - Far Away In The South",
+    "via": "api-spotify"
   },
   "id": "once-upon-a-time-far-away-in-the-south",
   "titulo": "Once Upon a Time – Far Away in the South",

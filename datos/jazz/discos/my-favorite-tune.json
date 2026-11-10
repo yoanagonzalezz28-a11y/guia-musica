@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "My Favorite Tune Ryo Fukui"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7vQEWRQZ2ZpJlZZRqZFEF9",
+    "tituloEnSpotify": "My Favorite Tune",
+    "via": "api-spotify"
   },
   "id": "my-favorite-tune",
   "titulo": "My Favorite Tune",

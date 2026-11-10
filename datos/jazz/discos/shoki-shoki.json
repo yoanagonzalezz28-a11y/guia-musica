@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Femi Kuti Shoki Shoki"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0iL5NHl4oL1gFquGBRRjbO",
+    "tituloEnSpotify": "Shoki Shoki",
+    "via": "api-spotify"
   },
   "id": "shoki-shoki",
   "titulo": "Shoki Shoki",

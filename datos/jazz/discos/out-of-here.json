@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Out of Here Corduroy"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4aCEadTmwobVOD24qfYkoa",
+    "tituloEnSpotify": "Out of Here",
+    "via": "api-spotify"
   },
   "id": "out-of-here",
   "titulo": "Out of Here",

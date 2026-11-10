@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Lentes Juan Cruz de Urquiza Septeto"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/14Hf2QwepQxP6aYFfKxpL8",
+    "tituloEnSpotify": "Lentes",
+    "via": "api-spotify"
   },
   "id": "lentes-urquiza",
   "titulo": "Lentes",

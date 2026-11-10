@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Soundtrack to Human Motion Jason Moran"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5DEgkcPpvX1PSNVSbq0PAS",
+    "tituloEnSpotify": "Soundtrack To Human Motion",
+    "via": "api-spotify"
   },
   "id": "soundtrack-to-human-motion",
   "titulo": "Soundtrack to Human Motion",

@@ -14,8 +14,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "My Time Is Now Mario Bauzá"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2IkqDV8vYvw2nkGEGamMLj",
+    "tituloEnSpotify": "My Time Is Now",
+    "via": "api-spotify"
   },
   "id": "my-time-is-now",
   "titulo": "My Time Is Now",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Outward Bound Eric Dolphy"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4ZgSDmEVympVIznJqMlzbP",
+    "tituloEnSpotify": "Outward Bound",
+    "via": "api-spotify"
   },
   "id": "outward-bound",
   "titulo": "Outward Bound",

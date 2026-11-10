@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Lanquidity Sun Ra"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6hwD6ZjtCYrZSBMmK5se46",
+    "tituloEnSpotify": "Lanquidity (Definitive Edition)",
+    "via": "api-spotify"
   },
   "id": "lanquidity",
   "titulo": "Lanquidity",

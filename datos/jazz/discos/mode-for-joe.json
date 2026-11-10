@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Mode for Joe Joe Henderson"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5HC9Uo9bCl8uiWuSN3MfbD",
+    "tituloEnSpotify": "Mode For Joe (Rudy Van Gelder Edition)",
+    "via": "api-spotify"
   },
   "id": "mode-for-joe",
   "titulo": "Mode for Joe",

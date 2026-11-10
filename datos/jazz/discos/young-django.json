@@ -11,8 +11,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Young Django Stéphane Grappelli"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/21qbCWotQXMfPHR2xm7X6Q",
+    "tituloEnSpotify": "Young Django",
+    "via": "api-spotify"
   },
   "id": "young-django",
   "titulo": "Young Django",

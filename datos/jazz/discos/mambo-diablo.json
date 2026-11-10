@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Mambo Diablo Tito Puente"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1RJMeWrkh0kfcRDojS5rdL",
+    "tituloEnSpotify": "Mambo Diablo",
+    "via": "api-spotify"
   },
   "id": "mambo-diablo",
   "titulo": "Mambo Diablo",

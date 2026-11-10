@@ -12,8 +12,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Zombie Fela Kuti Africa 70"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5daEPaHfFiOSpKJLMraH9D",
+    "tituloEnSpotify": "Zombie",
+    "via": "api-spotify"
   },
   "id": "zombie",
   "titulo": "Zombie",

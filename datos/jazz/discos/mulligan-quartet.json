@@ -55,8 +55,10 @@
     "Un cuarteto sin piano: nadie marca los acordes, así que el barítono y la trompeta los sugieren al conversar entre ellos. Salió de las noches libres de Mulligan en The Haig, un club chico de Los Ángeles. De este grupo es también la versión de \"My Funny Valentine\" con solo de Baker, que pegó y quedó asociada a él para siempre."
   ],
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Gerry Mulligan Quartet Chet Baker Pacific Jazz"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2m6fzi8hq2srFTwONGAc4t",
+    "tituloEnSpotify": "Gerry Mulligan Quartet (Vol. 2 / Expanded Edition)",
+    "via": "api-spotify"
   },
   "ids": {
     "musicbrainz": "1160b166-2af7-492a-8df9-9f60fab702f2",

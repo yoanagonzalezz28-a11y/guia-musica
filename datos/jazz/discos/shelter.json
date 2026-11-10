@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Shelter The Brand New Heavies"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/47PXrfdtVg5DcI7M0UhR8K",
+    "tituloEnSpotify": "Shelter",
+    "via": "api-spotify"
   },
   "id": "shelter",
   "titulo": "Shelter",

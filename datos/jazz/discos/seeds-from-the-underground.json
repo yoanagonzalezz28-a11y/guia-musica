@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Seeds from the Underground Kenny Garrett"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/526IlXssPwr61GTp2hGcgk",
+    "tituloEnSpotify": "Seeds from the Underground",
+    "via": "api-spotify"
   },
   "id": "seeds-from-the-underground",
   "titulo": "Seeds from the Underground",

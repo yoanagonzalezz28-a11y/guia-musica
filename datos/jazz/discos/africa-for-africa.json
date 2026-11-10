@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Femi Kuti Africa for Africa"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/40reZ5jPHvLMMF0A02Ppq1",
+    "tituloEnSpotify": "Africa For Africa",
+    "via": "api-spotify"
   },
   "id": "africa-for-africa",
   "titulo": "Africa for Africa",

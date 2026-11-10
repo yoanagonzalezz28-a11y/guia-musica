@@ -11,8 +11,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "New York Days Enrico Rava"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5qIvcmHXW5Av8XQGCAmeIK",
+    "tituloEnSpotify": "New York Days",
+    "via": "api-spotify"
   },
   "id": "new-york-days",
   "titulo": "New York Days",

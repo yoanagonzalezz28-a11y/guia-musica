@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Juntos para siempre Chucho Valdés"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5yZrGjz3Ac9PeOfE7h12Lp",
+    "tituloEnSpotify": "Juntos para Siempre",
+    "via": "api-spotify"
   },
   "id": "juntos-para-siempre",
   "titulo": "Juntos para siempre",

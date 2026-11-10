@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "What a Diff'rence a Day Makes! Dinah Washington"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe",
+    "tituloEnSpotify": "What A Diff'rence A Day Makes! (Expanded Edition)",
+    "via": "api-spotify"
   },
   "id": "what-a-diff-rence-a-day-makes",
   "titulo": "What a Diff'rence a Day Makes!",

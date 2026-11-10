@@ -11,8 +11,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Wild Dance Enrico Rava"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1cL3EdUYCcxMpamsLyxMqf",
+    "tituloEnSpotify": "Wild Dance",
+    "via": "api-spotify"
   },
   "id": "wild-dance",
   "titulo": "Wild Dance",

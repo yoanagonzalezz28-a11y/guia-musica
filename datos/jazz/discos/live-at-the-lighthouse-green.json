@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Live at the Lighthouse Grant Green"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5Xe3jzd5GQMGVOrvTW1pUQ",
+    "tituloEnSpotify": "Live At The Lighthouse",
+    "via": "api-spotify"
   },
   "id": "live-at-the-lighthouse-green",
   "titulo": "Live at the Lighthouse",

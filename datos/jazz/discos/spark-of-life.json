@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Spark of Life Marcin Wasilewski"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6xryZq7zr0ukHTMLRgGLoS",
+    "tituloEnSpotify": "Spark Of Life",
+    "via": "api-spotify"
   },
   "id": "spark-of-life",
   "titulo": "Spark of Life",

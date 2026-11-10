@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Invasion Parade Alfredo Rodríguez"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1GYmkWPGGrLtPYdVTa2VH6",
+    "tituloEnSpotify": "The Invasion Parade",
+    "via": "api-spotify"
   },
   "id": "the-invasion-parade",
   "titulo": "The Invasion Parade",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Politics Yellowjackets"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4mZ16qZUVePasEQG6C8YS3",
+    "tituloEnSpotify": "Politics",
+    "via": "api-spotify"
   },
   "id": "politics",
   "titulo": "Politics",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Amazing Bud Powell, Vol. 1 Bud Powell"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4JZpydaQoCZY03mYcPgsaS",
+    "tituloEnSpotify": "The Amazing Bud Powell: Vol. 1 (The Rudy Van Gelder Edition)",
+    "via": "api-spotify"
   },
   "id": "the-amazing-bud-powell-vol-1",
   "titulo": "The Amazing Bud Powell, Vol. 1",

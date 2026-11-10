@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Femi Kuti Stop the Hate"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/48YlKrgWQXdeSR1xeGgp4c",
+    "tituloEnSpotify": "Stop The Hate",
+    "via": "api-spotify"
   },
   "id": "stop-the-hate",
   "titulo": "Stop the Hate",

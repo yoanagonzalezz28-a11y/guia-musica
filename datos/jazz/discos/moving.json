@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Moving Bugge Wesseltoft"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7eTbCADBsRoZZUZVJgmhYH",
+    "tituloEnSpotify": "Moving",
+    "via": "api-spotify"
   },
   "id": "moving",
   "titulo": "Moving",

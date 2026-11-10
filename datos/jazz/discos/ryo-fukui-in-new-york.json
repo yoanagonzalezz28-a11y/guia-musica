@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Ryo Fukui in New York Ryo Fukui"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4kW1D6GgDZjTXGSnpO31o0",
+    "tituloEnSpotify": "Ryo Fukui in New York",
+    "via": "api-spotify"
   },
   "id": "ryo-fukui-in-new-york",
   "titulo": "Ryo Fukui in New York",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Tumbaito Arturo Sandoval"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/644y6xjpPdopoGp6w9U0hV",
+    "tituloEnSpotify": "Tumbaito",
+    "via": "api-spotify"
   },
   "id": "tumbaito",
   "titulo": "Tumbaito",

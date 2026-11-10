@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Lágrimas negras Diego el Cigala"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5skz8PefKkk7huSazT5hkT",
+    "tituloEnSpotify": "Lágrimas Negras",
+    "via": "api-spotify"
   },
   "id": "lagrimas-negras",
   "titulo": "Lágrimas negras",

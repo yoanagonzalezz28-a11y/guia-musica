@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Sketches of Spain (Miles Davis) Gil Evans"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1a1EU6Twb7lu0ZlKEhgfwu",
+    "tituloEnSpotify": "Sketches of Spain (Mono Version)",
+    "via": "api-spotify"
   },
   "id": "sketches-of-spain-miles-davis",
   "titulo": "Sketches of Spain (Miles Davis)",

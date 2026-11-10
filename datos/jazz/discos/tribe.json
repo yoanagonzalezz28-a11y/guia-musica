@@ -11,8 +11,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Tribe Enrico Rava"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/11HxLdyMeXHu4jknT9yeV9",
+    "tituloEnSpotify": "Tribe",
+    "via": "api-spotify"
   },
   "id": "tribe",
   "titulo": "Tribe",

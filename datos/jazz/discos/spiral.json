@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Spiral Hiromi"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1qVEIg5Tpg7evmtSuJei3b",
+    "tituloEnSpotify": "Spiral",
+    "via": "api-spotify"
   },
   "id": "spiral",
   "titulo": "Spiral",

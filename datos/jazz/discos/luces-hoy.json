@@ -79,8 +79,10 @@
     "El octavo disco del saxofonista porteño, con temas propios, canciones, un coral de Bach y un estándar. Hayes buscó un tono \"azul\", más introspectivo que en sus discos anteriores."
   ],
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Andrés Hayes Luces hoy"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4061aU75Mhb77ntjWA5fgy",
+    "tituloEnSpotify": "Luces hoy",
+    "via": "api-spotify"
   },
   "ids": {
     "musicbrainz": null,

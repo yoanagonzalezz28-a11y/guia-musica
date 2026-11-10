@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Screamin' Jack McDuff"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1Ydl1lVhB7q2e44l8TtBNY",
+    "tituloEnSpotify": "Screamin'",
+    "via": "api-spotify"
   },
   "id": "screamin",
   "titulo": "Screamin'",

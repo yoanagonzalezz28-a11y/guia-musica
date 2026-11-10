@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Swingin' the '20s Benny Carter"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6P34ZBQjqrNuLZZQLawcAr",
+    "tituloEnSpotify": "Swingin' The '20s",
+    "via": "api-spotify"
   },
   "id": "swingin-the-20s",
   "titulo": "Swingin' the '20s",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Trane Whistle Eddie \"Lockjaw\" Davis"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7nP8OlOkwYehiSjq1LU1nB",
+    "tituloEnSpotify": "Trane Whistle",
+    "via": "api-spotify"
   },
   "id": "trane-whistle",
   "titulo": "Trane Whistle",

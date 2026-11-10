@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Witchi-Tai-To Jan Garbarek"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6lXvve6FkWQNXHUhDMxJLa",
+    "tituloEnSpotify": "Witchi-Tai-To",
+    "via": "api-spotify"
   },
   "id": "witchi-tai-to",
   "titulo": "Witchi-Tai-To",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Promise of a Future Hugh Masekela"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/21YlyIf7r7nQGypMvogt2D",
+    "tituloEnSpotify": "The Promise Of A Future",
+    "via": "api-spotify"
   },
   "id": "the-promise-of-a-future",
   "titulo": "The Promise of a Future",

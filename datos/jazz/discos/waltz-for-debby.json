@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Waltz for Debby Bill Evans"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3FDOSApjGJ9lcFZv21mbnN",
+    "tituloEnSpotify": "Waltz For Debby (Live At The Village Vanguard / 1961)",
+    "via": "api-spotify"
   },
   "id": "waltz-for-debby",
   "titulo": "Waltz for Debby",

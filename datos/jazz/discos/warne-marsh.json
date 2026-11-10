@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Warne Marsh Warne Marsh"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2bJ8DLdnxhvfGf0W4myuVr",
+    "tituloEnSpotify": "Warne Marsh",
+    "via": "api-spotify"
   },
   "id": "warne-marsh",
   "titulo": "Warne Marsh",

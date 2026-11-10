@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Rush Hour Joe Lovano"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4XnzKoQsrnj0TNSDT11nFb",
+    "tituloEnSpotify": "Rush Hour",
+    "via": "api-spotify"
   },
   "id": "rush-hour",
   "titulo": "Rush Hour",

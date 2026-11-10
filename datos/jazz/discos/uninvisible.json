@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Uninvisible Medeski, Martin & Wood"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0Vq79tx5GtV8hxrTccSguA",
+    "tituloEnSpotify": "Uninvisible",
+    "via": "api-spotify"
   },
   "id": "uninvisible",
   "titulo": "Uninvisible",

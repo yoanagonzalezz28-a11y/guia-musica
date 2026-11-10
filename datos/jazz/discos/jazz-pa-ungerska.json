@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Jazz på ungerska Jan Johansson"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/10pX9CKWP4SicNMlpJMNqb",
+    "tituloEnSpotify": "Jazz på ungerska",
+    "via": "api-spotify"
   },
   "id": "jazz-pa-ungerska",
   "titulo": "Jazz på ungerska",

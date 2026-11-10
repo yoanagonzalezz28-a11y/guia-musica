@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Tico! Tico! Paquito D'Rivera"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4VwSbxkYVg1h965ckOfcmo",
+    "tituloEnSpotify": "Tico Tico",
+    "via": "api-spotify"
   },
   "id": "tico-tico",
   "titulo": "Tico! Tico!",

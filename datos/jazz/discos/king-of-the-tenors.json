@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "King of the Tenors Ben Webster"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v",
+    "tituloEnSpotify": "King Of The Tenors (Expanded Edition)",
+    "via": "api-spotify"
   },
   "id": "king-of-the-tenors",
   "titulo": "King of the Tenors",

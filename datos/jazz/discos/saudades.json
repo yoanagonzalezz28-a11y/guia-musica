@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Saudades Naná Vasconcelos"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2s3xhjdGpE8ciJd6rrHHhZ",
+    "tituloEnSpotify": "Saudades",
+    "via": "api-spotify"
   },
   "id": "saudades",
   "titulo": "Saudades",

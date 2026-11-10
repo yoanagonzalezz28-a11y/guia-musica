@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Alejandro Falcón Claroscuro"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/77czVFWB1Hv7Iq0TkgqnfL",
+    "tituloEnSpotify": "Claroscuro",
+    "via": "api-spotify"
   },
   "id": "claroscuro",
   "titulo": "Claroscuro",

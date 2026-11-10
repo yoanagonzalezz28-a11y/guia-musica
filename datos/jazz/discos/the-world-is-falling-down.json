@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The World Is Falling Down Abbey Lincoln"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6Wk1KjFM26htWNGSmRMHla",
+    "tituloEnSpotify": "The World Is Falling Down",
+    "via": "api-spotify"
   },
   "id": "the-world-is-falling-down",
   "titulo": "The World Is Falling Down",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Los Ritmos Calientes Cal Tjader"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0AxxaJ0MPsCP4z544Wubsd",
+    "tituloEnSpotify": "Los Ritmos Calientes",
+    "via": "api-spotify"
   },
   "id": "los-ritmos-calientes",
   "titulo": "Los Ritmos Calientes",

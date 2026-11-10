@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Moacir de Todos os Santos Letieres Leite & Orkestra Rumpilezz"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/26DFRRn6kC0Ho9Mwv2YH4i",
+    "tituloEnSpotify": "Moacir de todos os santos",
+    "via": "api-spotify"
   },
   "id": "moacir-de-todos-os-santos",
   "titulo": "Moacir de Todos os Santos",

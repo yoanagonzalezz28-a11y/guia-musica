@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "When We Leave Mathias Eick"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7MZXhA40qEoGogH9YtURmG",
+    "tituloEnSpotify": "When We Leave",
+    "via": "api-spotify"
   },
   "id": "when-we-leave",
   "titulo": "When We Leave",

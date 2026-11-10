@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Songs from the Heart Johnny Hartman"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5udPU9VsdCHvgwexsfStFi",
+    "tituloEnSpotify": "Songs from the Heart",
+    "via": "api-spotify"
   },
   "id": "songs-from-the-heart",
   "titulo": "Songs from the Heart",

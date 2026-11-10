@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Toshiko Akiyoshi Trio Toshiko Akiyoshi"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/26uv2w6n9ugHbmQjeYkPb9",
+    "tituloEnSpotify": "Toshiko Akiyoshi Trio",
+    "via": "api-spotify"
   },
   "id": "toshiko-akiyoshi-trio",
   "titulo": "Toshiko Akiyoshi Trio",

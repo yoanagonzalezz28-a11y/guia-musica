@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Modern Day Jazz Stories Courtney Pine"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5nx7ZTo3tiSsmxlFTmavSq",
+    "tituloEnSpotify": "Modern Day Jazz Stories",
+    "via": "api-spotify"
   },
   "id": "modern-day-jazz-stories",
   "titulo": "Modern Day Jazz Stories",

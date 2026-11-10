@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Skala Mathias Eick"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4Lt9RY1GehpdoIo8cChbdo",
+    "tituloEnSpotify": "Skala",
+    "via": "api-spotify"
   },
   "id": "skala",
   "titulo": "Skala",

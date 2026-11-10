@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Plenty, Plenty Soul Milt Jackson"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3VyJ1CdUiAp5Fblq1InswX",
+    "tituloEnSpotify": "Plenty, Plenty Soul",
+    "via": "api-spotify"
   },
   "id": "plenty-plenty-soul",
   "titulo": "Plenty, Plenty Soul",

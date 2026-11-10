@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Sangue Negro Amaro Freitas"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0chYs2Sy0tdD4cALvURLob",
+    "tituloEnSpotify": "Sangue Negro",
+    "via": "api-spotify"
   },
   "id": "sangue-negro",
   "titulo": "Sangue Negro",

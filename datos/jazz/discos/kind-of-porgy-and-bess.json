@@ -11,8 +11,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Kind of Porgy & Bess Paolo Fresu"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0Wt73A3kvaQpwXBEebguee",
+    "tituloEnSpotify": "Kind Of Porgy And Bess",
+    "via": "api-spotify"
   },
   "id": "kind-of-porgy-and-bess",
   "titulo": "Kind of Porgy & Bess",

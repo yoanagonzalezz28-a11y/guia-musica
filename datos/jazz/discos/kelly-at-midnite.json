@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Kelly at Midnite Wynton Kelly"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5IIIKYZlgA6xJoUiIQQgJn",
+    "tituloEnSpotify": "Kelly at Midnite",
+    "via": "api-spotify"
   },
   "id": "kelly-at-midnite",
   "titulo": "Kelly at Midnite",

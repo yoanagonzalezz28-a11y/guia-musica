@@ -11,8 +11,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Music for Large & Small Ensembles Kenny Wheeler"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0Az6fSfHF423PVLvqitrWz",
+    "tituloEnSpotify": "Music For Large & Small Ensembles",
+    "via": "api-spotify"
   },
   "id": "music-for-large-and-small-ensembles",
   "titulo": "Music for Large & Small Ensembles",

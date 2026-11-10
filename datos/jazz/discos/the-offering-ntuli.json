@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Offering Thandi Ntuli"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5D10rho4wVlvG9uqng7wMu",
+    "tituloEnSpotify": "The Offering",
+    "via": "api-spotify"
   },
   "id": "the-offering-ntuli",
   "titulo": "The Offering",

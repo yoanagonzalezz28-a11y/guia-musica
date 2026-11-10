@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Sol do meio dia Egberto Gismonti"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4iT13tNxV59B6dhhQ5AWqI",
+    "tituloEnSpotify": "Sol Do Meio Dia",
+    "via": "api-spotify"
   },
   "id": "sol-do-meio-dia",
   "titulo": "Sol do meio dia",

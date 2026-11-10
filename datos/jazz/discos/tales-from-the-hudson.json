@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Tales from the Hudson Michael Brecker"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0ETqvY4pIhY46IXMTUpXMc",
+    "tituloEnSpotify": "Tales From The Hudson",
+    "via": "api-spotify"
   },
   "id": "tales-from-the-hudson",
   "titulo": "Tales from the Hudson",

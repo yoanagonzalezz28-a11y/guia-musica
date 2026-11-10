@@ -10,8 +10,10 @@
   "catalogo": null,
   "lugar": "BMG, RPM y Marathon, Nueva York",
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Kenny Kirkland 1991"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4pnLL6l6ji6bvsb3JIOG0g",
+    "tituloEnSpotify": "Kenny Kirkland",
+    "via": "api-spotify"
   },
   "id": "kenny-kirkland",
   "titulo": "Kenny Kirkland",

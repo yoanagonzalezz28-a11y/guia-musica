@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Still Warm John Scofield"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/72xoDNwXA0fSHKJYdpDS63",
+    "tituloEnSpotify": "Still Warm",
+    "via": "api-spotify"
   },
   "id": "still-warm",
   "titulo": "Still Warm",

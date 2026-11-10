@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Urubu Antônio Carlos Jobim"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5zRf7wDoQG2sXrX121AzSj",
+    "tituloEnSpotify": "Urubu",
+    "via": "api-spotify"
   },
   "id": "urubu",
   "titulo": "Urubu",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Passengers Gary Burton"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/38sxxRy0BUpoVJlRWEmEjY",
+    "tituloEnSpotify": "Passengers",
+    "via": "api-spotify"
   },
   "id": "passengers",
   "titulo": "Passengers",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Listening to the Ground Nduduzo Makhathini"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4npT1fllB8BhSdiQWmg35M",
+    "tituloEnSpotify": "Listening to the Ground",
+    "via": "api-spotify"
   },
   "id": "listening-to-the-ground",
   "titulo": "Listening to the Ground",

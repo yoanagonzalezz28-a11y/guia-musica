@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Ten Jason Moran"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/18Z4yumEaGfFohmhJGjdo9",
+    "tituloEnSpotify": "Ten",
+    "via": "api-spotify"
   },
   "id": "ten",
   "titulo": "Ten",

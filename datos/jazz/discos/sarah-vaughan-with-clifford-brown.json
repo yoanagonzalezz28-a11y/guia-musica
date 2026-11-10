@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Sarah Vaughan with Clifford Brown Sarah Vaughan"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/16vuKfE2bGmNv3hvG7K7dT",
+    "tituloEnSpotify": "Sarah Vaughan with Clifford Brown (Expanded, Hd Remastered)",
+    "via": "api-spotify"
   },
   "id": "sarah-vaughan-with-clifford-brown",
   "titulo": "Sarah Vaughan with Clifford Brown",

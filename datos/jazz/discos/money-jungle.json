@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Money Jungle Duke Ellington"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5I3aoewqDpP4TglIl9O7su",
+    "tituloEnSpotify": "Money Jungle (Expanded Edition / 2002 Remaster)",
+    "via": "api-spotify"
   },
   "id": "money-jungle",
   "titulo": "Money Jungle",

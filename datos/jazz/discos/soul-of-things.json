@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Soul of Things Tomasz Stańko"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2XFGnloG7wSlHM6pZaUdY1",
+    "tituloEnSpotify": "Soul Of Things",
+    "via": "api-spotify"
   },
   "id": "soul-of-things",
   "titulo": "Soul of Things",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Mystic Voyage Roy Ayers"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/06bN4nHAiiBYibdcqIZSKP",
+    "tituloEnSpotify": "Mystic Voyage",
+    "via": "api-spotify"
   },
   "id": "mystic-voyage",
   "titulo": "Mystic Voyage",

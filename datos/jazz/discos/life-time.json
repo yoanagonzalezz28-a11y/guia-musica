@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Life Time Tony Williams"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5eh7h0yLICXabyJMRI66B2",
+    "tituloEnSpotify": "Life Time",
+    "via": "api-spotify"
   },
   "id": "life-time",
   "titulo": "Life Time",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Motion Lee Konitz"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6yD5vDaiwr8XnZId3jeZWx",
+    "tituloEnSpotify": "Motion",
+    "via": "api-spotify"
   },
   "id": "motion",
   "titulo": "Motion",

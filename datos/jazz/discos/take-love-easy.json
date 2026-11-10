@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Take Love Easy Joe Pass"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/23SYHcK2WSSzQMe5bYscgk",
+    "tituloEnSpotify": "Take Love Easy",
+    "via": "api-spotify"
   },
   "id": "take-love-easy",
   "titulo": "Take Love Easy",

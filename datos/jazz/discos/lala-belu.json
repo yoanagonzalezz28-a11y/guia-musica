@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Lala Belu Hailu Mergia"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1ZnIFpyujwO3wcL9na3vHE",
+    "tituloEnSpotify": "Lala Belu",
+    "via": "api-spotify"
   },
   "id": "lala-belu",
   "titulo": "Lala Belu",

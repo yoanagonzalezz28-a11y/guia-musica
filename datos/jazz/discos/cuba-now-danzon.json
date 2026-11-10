@@ -18,8 +18,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Alejandro Falcón Cuba Now Danzón"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1j0cTxwffS0GHDjayC2vtH",
+    "tituloEnSpotify": "Cuba Now Danzón",
+    "via": "api-spotify"
   },
   "id": "cuba-now-danzon",
   "titulo": "Cuba Now Danzón",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Urban Bushmen Art Ensemble of Chicago"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1Na00AiY0fdiuOaC2rj1mF",
+    "tituloEnSpotify": "Urban Bushmen",
+    "via": "api-spotify"
   },
   "id": "urban-bushmen",
   "titulo": "Urban Bushmen",

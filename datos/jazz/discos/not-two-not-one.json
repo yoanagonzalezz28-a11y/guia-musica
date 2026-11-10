@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Not Two, Not One Paul Bley"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/36lH3cM28e57YPl6ZLzKdL",
+    "tituloEnSpotify": "Not Two, Not One",
+    "via": "api-spotify"
   },
   "id": "not-two-not-one",
   "titulo": "Not Two, Not One",

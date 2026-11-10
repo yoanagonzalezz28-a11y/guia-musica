@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Michael Brecker Michael Brecker"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1pup2rw6rpOQ4qUVL0h1To",
+    "tituloEnSpotify": "Michael Brecker",
+    "via": "api-spotify"
   },
   "id": "michael-brecker",
   "titulo": "Michael Brecker",

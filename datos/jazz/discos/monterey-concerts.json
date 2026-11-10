@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Monterey Concerts Cal Tjader"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1nIZG4Rb0iAzzqo5UgcF2t",
+    "tituloEnSpotify": "Monterey Concerts",
+    "via": "api-spotify"
   },
   "id": "monterey-concerts",
   "titulo": "Monterey Concerts",

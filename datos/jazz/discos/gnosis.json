@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "David Virelles Gnosis"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0GAKlp2nssdLxHXwS2KHho",
+    "tituloEnSpotify": "Gnosis",
+    "via": "api-spotify"
   },
   "id": "gnosis",
   "titulo": "Gnosis",

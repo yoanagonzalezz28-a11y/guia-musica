@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Alejandro Falcón Falcón in Blue"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0iJdQOeQU1Z4xqtFVQcwto",
+    "tituloEnSpotify": "Falcón In Blue",
+    "via": "api-spotify"
   },
   "id": "falcon-in-blue",
   "titulo": "Falcón in Blue",

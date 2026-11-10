@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Journey to Love Stanley Clarke"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4l4zExcTg1N4v7eaM2rFiS",
+    "tituloEnSpotify": "Journey To Love",
+    "via": "api-spotify"
   },
   "id": "journey-to-love",
   "titulo": "Journey to Love",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Lawrence of Newark Larry Young"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0hk1tstrdEyuTUfp1FwAG9",
+    "tituloEnSpotify": "Lawrence of Newark",
+    "via": "api-spotify"
   },
   "id": "lawrence-of-newark",
   "titulo": "Lawrence of Newark",

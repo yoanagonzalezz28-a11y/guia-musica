@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "My Favorite Things John Coltrane"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/64FbRIZTckwlBGNkTSRztJ",
+    "tituloEnSpotify": "My Favorite Things (2022 Remaster)",
+    "via": "api-spotify"
   },
   "id": "my-favorite-things",
   "titulo": "My Favorite Things",

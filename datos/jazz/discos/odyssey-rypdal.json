@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Odyssey Terje Rypdal"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5IUaFZGP2T8LWn2bidZXmt",
+    "tituloEnSpotify": "Odyssey",
+    "via": "api-spotify"
   },
   "id": "odyssey-rypdal",
   "titulo": "Odyssey",

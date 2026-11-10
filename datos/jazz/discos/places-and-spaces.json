@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Places and Spaces Donald Byrd"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6btV6MDYhXZ2F6ZKKUfvdh",
+    "tituloEnSpotify": "Places And Spaces",
+    "via": "api-spotify"
   },
   "id": "places-and-spaces",
   "titulo": "Places and Spaces",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "New York – Addis – London: The Story of Ethio Jazz 1965–1975 Mulatu Astatke"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3MHdUsf9wX9WffvOP59RBz",
+    "tituloEnSpotify": "New York - Addis - London: The Story of Ethio Jazz 1965-1975",
+    "via": "api-spotify"
   },
   "id": "new-york-addis-london-the-story-of-ethio-jazz-1965",
   "titulo": "New York – Addis – London: The Story of Ethio Jazz 1965–1975",

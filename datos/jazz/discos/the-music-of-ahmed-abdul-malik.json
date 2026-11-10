@@ -14,8 +14,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Music of Ahmed Abdul-Malik Ahmed Abdul-Malik"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7zvIUZHFArxuwbT48OYVCq",
+    "tituloEnSpotify": "The Music of Ahmed Abdul-Malik",
+    "via": "api-spotify"
   },
   "id": "the-music-of-ahmed-abdul-malik",
   "titulo": "The Music of Ahmed Abdul-Malik",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Juan Ibarra Arco"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7GmWCkTafVVLKHEzdZj0yV",
+    "tituloEnSpotify": "Arco",
+    "via": "api-spotify"
   },
   "id": "arco-ibarra",
   "titulo": "Arco",

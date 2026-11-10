@@ -14,8 +14,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Masterpiece / Obra Maestra Tito Puente y Eddie Palmieri"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1HKXrSGKhxoKciJUWzKmCz",
+    "tituloEnSpotify": "Masterpiece Obra Maestra",
+    "via": "api-spotify"
   },
   "id": "masterpiece-obra-maestra",
   "titulo": "Masterpiece / Obra Maestra",

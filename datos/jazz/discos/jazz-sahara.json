@@ -12,8 +12,10 @@
   "catalogo": "RLP 12-287",
   "lugar": "Reeves Sound Studio, Nueva York",
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Jazz Sahara Ahmed Abdul-Malik"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7uQoNnA7wdLOynY5PnrnaN",
+    "tituloEnSpotify": "Jazz Sahara",
+    "via": "api-spotify"
   },
   "id": "jazz-sahara",
   "titulo": "Jazz Sahara",

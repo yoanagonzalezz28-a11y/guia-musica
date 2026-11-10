@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Mateo solo bien se lame Eduardo Mateo"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1qFqxO0WFxv9TrpUEHtVWR",
+    "tituloEnSpotify": "Mateo Solo Bien Se Lame",
+    "via": "api-spotify"
   },
   "id": "mateo-solo-bien-se-lame",
   "titulo": "Mateo solo bien se lame",

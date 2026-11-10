@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Nubya's 5ive Nubya Garcia"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6gVTOEeb9Hd1EO4A6kYEOE",
+    "tituloEnSpotify": "Nubya's 5ive",
+    "via": "api-spotify"
   },
   "id": "nubya-s-5ive",
   "titulo": "Nubya's 5ive",

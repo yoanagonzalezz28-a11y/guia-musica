@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Solstice Ralph Towner"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3sKuk1zytR31B2Vdi5d4B0",
+    "tituloEnSpotify": "Solstice",
+    "via": "api-spotify"
   },
   "id": "solstice",
   "titulo": "Solstice",

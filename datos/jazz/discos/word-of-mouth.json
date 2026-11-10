@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Word of Mouth Jaco Pastorius"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/67QMF9QFjulgts128Z2s2W",
+    "tituloEnSpotify": "Word Of Mouth",
+    "via": "api-spotify"
   },
   "id": "word-of-mouth",
   "titulo": "Word of Mouth",

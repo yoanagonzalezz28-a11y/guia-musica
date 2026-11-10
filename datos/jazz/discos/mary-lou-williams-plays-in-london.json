@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Mary Lou Williams Plays in London Mary Lou Williams"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4LByhKT5zKIrQOLkTdTDHq",
+    "tituloEnSpotify": "Mary Lou Williams Plays in London (Jazz Connoisseur)",
+    "via": "api-spotify"
   },
   "id": "mary-lou-williams-plays-in-london",
   "titulo": "Mary Lou Williams Plays in London",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Mercy, Mercy Buddy Rich"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2V6b1mgoG9pEH8gamm7EeL",
+    "tituloEnSpotify": "Mercy, Mercy",
+    "via": "api-spotify"
   },
   "id": "mercy-mercy",
   "titulo": "Mercy, Mercy",

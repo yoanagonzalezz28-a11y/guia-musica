@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Jo Jones Special Jo Jones"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/268AkSNExyvasRYNuJ2olr",
+    "tituloEnSpotify": "The Jo Jones Special",
+    "via": "api-spotify"
   },
   "id": "the-jo-jones-special",
   "titulo": "The Jo Jones Special",

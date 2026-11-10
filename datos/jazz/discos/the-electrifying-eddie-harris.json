@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Electrifying Eddie Harris Eddie Harris"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5uzAo3rQNi1PJUZQMbMDQN",
+    "tituloEnSpotify": "The Electrifying Eddie Harris",
+    "via": "api-spotify"
   },
   "id": "the-electrifying-eddie-harris",
   "titulo": "The Electrifying Eddie Harris",

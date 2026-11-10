@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Talk to the People Les McCann"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2mMiboqK9Z24L2QFL7JTNN",
+    "tituloEnSpotify": "Talk To The People",
+    "via": "api-spotify"
   },
   "id": "talk-to-the-people",
   "titulo": "Talk to the People",

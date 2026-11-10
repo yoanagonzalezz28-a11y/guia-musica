@@ -19,8 +19,10 @@
   "catalogo": null,
   "lugar": "Nueva York",
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Lester Young with the Oscar Peterson Trio"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4LT6FAMWGSf3qpPn3Wdyh1",
+    "tituloEnSpotify": "Lester Young With The Oscar Peterson Trio",
+    "via": "api-spotify"
   },
   "id": "lester-oscar",
   "titulo": "Lester Young with the Oscar Peterson Trio",

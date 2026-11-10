@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Femi Kuti Journey Through Life"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1uRxWYafVnRUfE6ziSsest",
+    "tituloEnSpotify": "Journey Through Life",
+    "via": "api-spotify"
   },
   "id": "journey-through-life",
   "titulo": "Journey Through Life",

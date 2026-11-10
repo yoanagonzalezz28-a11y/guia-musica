@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Meet the Jazztet Benny Golson"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1rzC0pCbAfgH4RnYuP2CdB",
+    "tituloEnSpotify": "Meet The Jazztet",
+    "via": "api-spotify"
   },
   "id": "meet-the-jazztet",
   "titulo": "Meet the Jazztet",

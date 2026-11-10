@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Zawinul Joe Zawinul"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4ifs3liTaxDMgTlywhi07P",
+    "tituloEnSpotify": "Zawinul",
+    "via": "api-spotify"
   },
   "id": "zawinul",
   "titulo": "Zawinul",

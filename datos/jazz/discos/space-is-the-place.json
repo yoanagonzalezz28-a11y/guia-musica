@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Space Is the Place Sun Ra"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4tovdE0ZxbD1cH40Sd0ZP3",
+    "tituloEnSpotify": "Space Is The Place (Music From The Original Soundtrack)",
+    "via": "api-spotify"
   },
   "id": "space-is-the-place",
   "titulo": "Space Is the Place",

@@ -12,8 +12,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Slaves Mass Hermeto Pascoal"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/55yVwJbFIy1OrBBhdCTssq",
+    "tituloEnSpotify": "Slaves Mass (Expanded)",
+    "via": "api-spotify"
   },
   "id": "slaves-mass",
   "titulo": "Slaves Mass",

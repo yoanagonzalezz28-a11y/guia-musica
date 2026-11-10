@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "You Can't Steal My Joy Ezra Collective"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1eY0OQek6FHZWiPgJaXAzl",
+    "tituloEnSpotify": "You Can't Steal My Joy",
+    "via": "api-spotify"
   },
   "id": "you-can-t-steal-my-joy",
   "titulo": "You Can't Steal My Joy",

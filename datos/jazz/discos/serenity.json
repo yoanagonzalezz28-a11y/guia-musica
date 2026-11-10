@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Serenity Bobo Stenson"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/39tOPTArYE0OWaZkx0IYIO",
+    "tituloEnSpotify": "Serenity",
+    "via": "api-spotify"
   },
   "id": "serenity",
   "titulo": "Serenity",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Maestro Moacir Santos"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/79mk6M2T4akxGdPwK8X4tq",
+    "tituloEnSpotify": "Maestro",
+    "via": "api-spotify"
   },
   "id": "maestro",
   "titulo": "Maestro",

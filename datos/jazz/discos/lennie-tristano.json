@@ -70,8 +70,10 @@
     "Causó polémica al salir: Tristano grabó el piano sobre una base ya registrada y manipuló la velocidad de la cinta. Iverson confiesa que por eso rechazó \"Line Up\" durante años, hasta que dejó de importarle: \"music is music\". La segunda mitad, en vivo con Konitz, muestra otra cara, mucho más melódica."
   ],
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Lennie Tristano 1956 Atlantic"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0xYUlwRZAKlyM3Yz6x2Gws",
+    "tituloEnSpotify": "Lennie Tristano (Remastered Edition)",
+    "via": "api-spotify"
   },
   "ids": {
     "musicbrainz": "d417ecde-99a6-34ef-ab27-3e77a23dbe8e",

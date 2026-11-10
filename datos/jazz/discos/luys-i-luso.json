@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Luys i Luso Tigran Hamasyan"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2cJWQAk9sccjbvKqLMti7t",
+    "tituloEnSpotify": "Luys I Luso",
+    "via": "api-spotify"
   },
   "id": "luys-i-luso",
   "titulo": "Luys i Luso",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Virgo Vibes Roy Ayers"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3x8EUQDnZuMA3cMmEJipMV",
+    "tituloEnSpotify": "Virgo Vibes",
+    "via": "api-spotify"
   },
   "id": "virgo-vibes",
   "titulo": "Virgo Vibes",

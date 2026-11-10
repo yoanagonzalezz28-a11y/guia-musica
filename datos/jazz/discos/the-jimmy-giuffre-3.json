@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Jimmy Giuffre 3 Jimmy Giuffre"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/72JJZ9Bfn7HqNlugIsiVY7",
+    "tituloEnSpotify": "The Jimmy Giuffre 3",
+    "via": "api-spotify"
   },
   "id": "the-jimmy-giuffre-3",
   "titulo": "The Jimmy Giuffre 3",

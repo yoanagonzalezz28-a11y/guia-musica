@@ -11,8 +11,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Standards Biréli Lagrène"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1uGZCk12sYhAalhHct6rwY",
+    "tituloEnSpotify": "standards",
+    "via": "api-spotify"
   },
   "id": "standards",
   "titulo": "Standards",

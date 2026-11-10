@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Nat King Cole Story Nat King Cole"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH",
+    "tituloEnSpotify": "The Nat King Cole Story",
+    "via": "api-spotify"
   },
   "id": "the-nat-king-cole-story",
   "titulo": "The Nat King Cole Story",
