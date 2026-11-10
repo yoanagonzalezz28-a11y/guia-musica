@@ -90,15 +90,15 @@ La carpeta está en `.gitignore`: **nada de esto se sube a GitHub ni se publica.
 
 1. **Revisar los dudosos** de [sin-spotify.md](sin-spotify.md): son 54 (24 de importancia alta). Cada uno tiene su link candidato; alcanza con decir cuáles se aprueban.
 2. **Decidir qué hacer con los que no aparecen en Spotify** (194, 75 de importancia alta): buscarlos en YouTube o sacarlos del banco.
-4. **Terminar de pulir las reseñas:**
+3. **Terminar de pulir las reseñas:**
    - Quedan unas 174 con una repetición más leve entre la primera y la segunda frase. Algunas todavía repiten, como *We Three* o *Plenty, Plenty Soul*, y otras están bien.
    - Estas 12 tienen dos frases porque falta un dato particular seguro: *Son dos*, *El jardín de Ordóñez*, *Turista*, *Cajita de música*, *La cocina magnética*, *Gonzalo Levin Octeto*, *Into Forever*, *Characters*, *Everyday, Everynight*, *Ravensburg*, *Downhill from Here* y *Live in Montreux 1987*.
-5. **Ampliar los datos sin cotejar con Gioia:** quedan 3 épocas sin cotejar (de 18), y la mayoría de los discos y músicos tiene una sola fuente.
-6. **Más datos por disco:** el personal completo y el número de catálogo faltan en muchos discos.
-7. **Pendientes de contenido opcionales:** más reseñas extensas, más comparaciones si ayudan y nuevas regiones o épocas, por ejemplo spiritual jazz o third stream, que se propusieron pero no se agregaron.
-8. **Otros géneros:** música clásica y post-rock están previstos en la portada pero sin contenido.
-9. **Más adelante:** evaluar cuentas con sincronización automática de las marcas. Por ahora no.
-10. **Opcional:** sumar las pruebas de Playwright al repositorio y a la publicación, para que el sitio solo se publique si pasan.
+4. **Ampliar los datos sin cotejar con Gioia:** quedan 3 épocas sin cotejar (de 18), y la mayoría de los discos y músicos tiene una sola fuente.
+5. **Más datos por disco:** el personal completo y el número de catálogo faltan en muchos discos.
+6. **Pendientes de contenido opcionales:** más reseñas extensas, más comparaciones si ayudan y nuevas regiones o épocas, por ejemplo spiritual jazz o third stream, que se propusieron pero no se agregaron.
+7. **Otros géneros:** música clásica y post-rock están previstos en la portada pero sin contenido.
+8. **Más adelante:** evaluar cuentas con sincronización automática de las marcas. Por ahora no.
+9. **Opcional:** sumar las pruebas de Playwright al repositorio y a la publicación, para que el sitio solo se publique si pasan.
 
 ## Comandos
 
