@@ -104,7 +104,7 @@ La carpeta está en `.gitignore`: **nada de esto se sube a GitHub ni se publica.
    - Quedan unas 174 con una repetición más leve entre la primera y la segunda frase. Algunas todavía repiten, como *We Three* o *Plenty, Plenty Soul*, y otras están bien.
    - Estas 12 tienen dos frases porque falta un dato particular seguro: *Son dos*, *El jardín de Ordóñez*, *Turista*, *Cajita de música*, *La cocina magnética*, *Gonzalo Levin Octeto*, *Into Forever*, *Characters*, *Everyday, Everynight*, *Ravensburg*, *Downhill from Here* y *Live in Montreux 1987*.
 4. **Ampliar los datos sin cotejar con Gioia:** quedan 3 épocas sin cotejar (de 18), y la mayoría de los discos y músicos tiene una sola fuente.
-5. **Más datos por disco:** quedan 417 discos con el personal incompleto (153 de importancia alta; la lista sale con `npm run auditar`). El número de catálogo sigue faltando en muchos.
+5. **Más datos por disco:** quedan 417 discos con el personal incompleto (153 de importancia alta; la lista está en [personal-incompleto.md](personal-incompleto.md)). El número de catálogo sigue faltando en muchos.
    - Spotify: hay discos nuevos sin buscar; la API limitó hasta el **11/11/2026 a las 10:24**. Después, `npm run spotify`.
    - Mujeres: siguen sin ninguna Jazz latino, Jazz manouche, Jazz modal y Acid jazz.
    - Popo Romano no tiene discos cargados (MusicBrainz solo registra *Susurro montevideano*, de 2009, sin datos para reseñarlo). *Éthiopiques, Vol. 21* no figura como recopilación porque no se sabe qué años abarca.
