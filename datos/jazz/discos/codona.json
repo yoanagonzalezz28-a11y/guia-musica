@@ -32,12 +32,17 @@
   "sello": "ECM",
   "musicos": [
     {
+      "musico": "cherry",
+      "nombre": "Don Cherry",
+      "instrumento": "vientos"
+    },
+    {
       "musico": "nana",
       "nombre": "Naná Vasconcelos",
       "instrumento": "percusión"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm"
   ],
@@ -45,10 +50,16 @@
     "Trío con Collin Walcott y Don Cherry: música del mundo antes de que existiera la etiqueta. Walcott toca sitar y tabla, Cherry trompeta y flautas, y Vasconcelos percusión, en temas que mezclan músicas de varios continentes. Está entre los discos esenciales de Naná Vasconcelos."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "c252a3a6-1b7b-3440-b911-026c1b0c2166",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 46f4ef53-3bfa-4dd3-bc67-7d37cf3cd3ab (1979)."
+    }
+  ]
 }

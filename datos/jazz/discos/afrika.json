@@ -35,12 +35,32 @@
   "sello": "SteepleChase",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Charles Davis",
+      "instrumento": "saxo alto"
+    },
+    {
       "musico": "dyani",
       "nombre": "Johnny Dyani",
-      "instrumento": "contrabajo"
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Ed Epstein",
+      "instrumento": "saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Gilbert Matthews",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Rudy Smith",
+      "instrumento": "steel pan"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -48,10 +68,16 @@
     "Con músicos sudafricanos y daneses: ritmos del Cabo. Dyani toca el contrabajo con mucho peso rítmico y canta en algunos temas, con un grupo que suena a la vez a free y a música de Sudáfrica. Es el disco clave de Johnny Dyani en la etapa \"Jazz del mundo\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "b0cfed61-df6c-4e39-912c-1479ceb343c9",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición cca02cc9-309d-4c8b-a85f-4a2244d000b6 (1992)."
+    }
+  ]
 }

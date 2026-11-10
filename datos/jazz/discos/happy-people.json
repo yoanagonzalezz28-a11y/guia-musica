@@ -36,12 +36,64 @@
   "sello": "Warner Bros.",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Vernell Brown, Jr.",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Chris Dave",
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 3, 4, 6, 7, 8, 9, 10, 11"
+    },
+    {
       "musico": "kenny-garrett",
       "nombre": "Kenny Garrett",
-      "instrumento": "saxo alto"
+      "instrumento": "saxo"
+    },
+    {
+      "musico": "marcus-miller",
+      "nombre": "Marcus Miller",
+      "instrumento": "bajo",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Charnett Moffett",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Michael “Patches” Stewart",
+      "instrumento": "fliscorno, trompeta",
+      "nota": "temas 1, 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Jean Norris",
+      "instrumento": "voz",
+      "nota": "temas 2, 5"
+    },
+    {
+      "musico": "hutcherson",
+      "nombre": "Bobby Hutcherson",
+      "instrumento": "vibráfono",
+      "nota": "temas 3, 6, 7, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Randy Razz",
+      "instrumento": "guitarra",
+      "nota": "temas 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Marcus Baylor",
+      "instrumento": "batería",
+      "nota": "temas 5"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -49,12 +101,18 @@
     "Saxo alto de sonido brillante, en temas con groove y melodías pegadizas. Garrett había tocado con Miles Davis, y acá muestra su lado más alegre y popular. Es el disco clave de Kenny Garrett en la etapa \"Jazz de hoy\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "6b1d018a-acde-37dc-a35d-48eab9cf0c14",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 1ca5f2ea-76a2-410b-b2a9-12417792f54d (2002)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Song for DiFang",

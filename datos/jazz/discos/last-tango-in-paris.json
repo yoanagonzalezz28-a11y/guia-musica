@@ -39,10 +39,40 @@
     {
       "musico": "barbieri",
       "nombre": "Gato Barbieri",
-      "instrumento": "saxo tenor"
+      "instrumento": "saxo tenor, flauta, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Franco D'Andrea",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Franco Goldani, Wolmer Beltrani",
+      "instrumento": "acordeón"
+    },
+    {
+      "musico": null,
+      "nombre": "Jean-François Jenny-Clark, Giovanni Tommaso",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Pierino Munari",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Afonso Vieira",
+      "instrumento": "percusión, berimbau"
+    },
+    {
+      "musico": null,
+      "nombre": "Ivanir \"Mandrake\" do Nascimento",
+      "instrumento": "percusión, pandereta"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "rioplat"
   ],
@@ -53,9 +83,15 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Last_Tango_in_Paris"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Last Tango in Paris\"."
+    }
+  ],
   "temas": [
     {
       "titulo": "Last Tango in Paris - Ultimo Tango a Parigi (Titles)",

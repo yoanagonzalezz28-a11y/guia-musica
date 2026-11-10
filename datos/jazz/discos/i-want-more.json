@@ -35,12 +35,22 @@
   "sello": "Edition",
   "musicos": [
     {
+      "musico": "guiliana",
+      "nombre": "Mark Guiliana",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Jason Lindner",
+      "instrumento": "teclados"
+    },
+    {
       "musico": "mccaslin",
       "nombre": "Donny McCaslin",
-      "instrumento": "saxo tenor"
+      "instrumento": "vientos de madera"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -48,10 +58,16 @@
     "Saxo con electrónica pesada. McCaslin toca el saxo con un grupo eléctrico, con sintetizadores y una batería muy potente. Es el disco clave de Donny McCaslin en la etapa \"Jazz de hoy\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "897a03a8-9301-4b5c-b59b-84297ada6711",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 42f37eac-b7f4-42f9-8e38-d9ecb35139cf (2023)."
+    }
+  ]
 }

@@ -38,10 +38,25 @@
     {
       "musico": "taborn",
       "nombre": "Craig Taborn",
-      "instrumento": "piano, electrónica"
+      "instrumento": "piano, teclados, programación"
+    },
+    {
+      "musico": null,
+      "nombre": "Aaron Stewart",
+      "instrumento": "tenor sax"
+    },
+    {
+      "musico": null,
+      "nombre": "Mat Maneri",
+      "instrumento": "viola"
+    },
+    {
+      "musico": null,
+      "nombre": "Dave King",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "hoy"
   ],
@@ -52,9 +67,15 @@
     "musicbrainz": "ef9efb38-064f-3324-b202-bf07e6368143",
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Junk_Magic"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Junk Magic\"."
+    }
+  ],
   "temas": [
     {
       "titulo": "Junk Magic",

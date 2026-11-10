@@ -35,12 +35,27 @@
   "sello": "Impulse!",
   "musicos": [
     {
+      "musico": "flanagan",
+      "nombre": "Tommy Flanagan",
+      "instrumento": "piano"
+    },
+    {
       "musico": "hawkins",
       "nombre": "Coleman Hawkins",
       "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Eddie Locke",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Major Holley",
+      "instrumento": "contrabajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "swing"
   ],
@@ -48,10 +63,16 @@
     "Cuarteto con Tommy Flanagan: un Hawkins sereno, de sonido enorme, que no necesita correr. Hawkins toca el saxo tenor con Flanagan, Major Holley y Eddie Locke, en temas medios. Está entre los discos esenciales de Coleman Hawkins."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "fc3e2fac-4dab-3386-9b0b-d9ae05012c95",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición b5a3cdb6-ec6d-31a0-ba8a-ff8a0e7da2e4 (1963)."
+    }
+  ]
 }

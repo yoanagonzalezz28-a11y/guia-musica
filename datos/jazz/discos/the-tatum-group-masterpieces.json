@@ -8,7 +8,7 @@
   "regiones": [
     "estados-unidos"
   ],
-  "compilacion": false,
+  "compilacion": true,
   "tipo": "estudio",
   "catalogo": null,
   "lugar": null,
@@ -23,8 +23,8 @@
     "tatum"
   ],
   "grabacion": {
-    "desde": 1955,
-    "hasta": 1955,
+    "desde": 1954,
+    "hasta": 1956,
     "detalle": null
   },
   "edicion": {
@@ -34,12 +34,27 @@
   "sello": "Pablo",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Red Callender",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Bill Douglass",
+      "instrumento": "batería"
+    },
+    {
       "musico": "tatum",
       "nombre": "Art Tatum",
       "instrumento": "piano"
+    },
+    {
+      "musico": "webster",
+      "nombre": "Ben Webster",
+      "instrumento": "saxo tenor"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "swing"
   ],
@@ -47,10 +62,21 @@
     "Tatum en grupo chico, siempre a punto de tapar a todos con su piano. Norman Granz lo grabó con Benny Carter, Roy Eldridge, Lionel Hampton y Ben Webster, poco antes de su muerte en 1956. Es uno de los discos que el banco elige para conocer a Art Tatum."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "88256a89-d25d-3cf1-ad58-9765d8d07249",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 5e957756-a15d-4be9-94a8-1a151806154a (1975)."
+    }
+  ],
+  "recopilacion": {
+    "desde": 1954,
+    "hasta": 1956,
+    "original": "Salieron primero en los LP de Norman Granz para Clef y Verve."
+  }
 }

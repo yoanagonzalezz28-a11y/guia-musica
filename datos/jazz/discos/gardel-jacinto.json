@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Hernán Jacinto Gardel"
+  },
+  "id": "gardel-jacinto",
+  "titulo": "Gardel",
+  "credito": "Hernán Jacinto",
+  "lideres": [
+    "jacinto"
+  ],
+  "grabacion": {
+    "desde": 2024,
+    "hasta": 2024,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2024,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "jacinto",
+      "nombre": "Hernán Jacinto",
+      "instrumento": "piano, teclados"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "rioplat",
+    "hoy"
+  ],
+  "comentario": [
+    "El piano de Jacinto al frente de su grupo, en su disco más premiado. Ganó el Gardel al mejor álbum de jazz de 2025. Es uno de los discos que el banco elige para conocer a Hernán Jacinto."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "ln-gardel-2025",
+      "acceso": "extracto",
+      "aporta": "Ganador del Gardel 2025."
+    }
+  ]
+}

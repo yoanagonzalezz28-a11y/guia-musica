@@ -34,12 +34,22 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Joe Farrell",
+      "instrumento": "flauta, saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Garrison",
+      "instrumento": "contrabajo"
+    },
+    {
       "musico": "elvin",
       "nombre": "Elvin Jones",
       "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "modal"
   ],
@@ -47,10 +57,16 @@
     "Batería, saxo y contrabajo sin piano, con mucha energía. Joe Farrell y Jimmy Garrison completan el trío, en el primer disco de Jones como líder para Blue Note. En la ficha de Elvin Jones es el disco que representa la etapa \"Jazz modal\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "4d1a85d0-be0f-3a45-aa6c-ba4eb772a611",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición a4f1c5f4-ee95-4a52-bc8e-3aeaf9f06bf8 (1968)."
+    }
+  ]
 }

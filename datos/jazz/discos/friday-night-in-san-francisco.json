@@ -38,10 +38,23 @@
     {
       "musico": "di-meola",
       "nombre": "Al Di Meola",
-      "instrumento": "guitarra"
+      "instrumento": "guitarra acústica",
+      "nota": "temas 1, 2, 4, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Paco de Lucía",
+      "instrumento": "guitarra acústica",
+      "nota": "temas 1, 3, 4, 5"
+    },
+    {
+      "musico": "mclaughlin",
+      "nombre": "John McLaughlin",
+      "instrumento": "guitarra acústica",
+      "nota": "temas 2, 3, 4, 5"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "fusion"
   ],
@@ -49,10 +62,16 @@
     "Con John McLaughlin y Paco de Lucía: tres guitarras acústicas en un duelo. Los tres guitarristas tocan en vivo, a dúo y en trío, con una velocidad deslumbrante y momentos de humor con el público. Está entre los discos esenciales de Al Di Meola."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "1b4b78a5-7466-3179-b2f2-fd24a34604f7",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Friday_Night_in_San_Francisco"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 8dd50997-7e7a-4d42-b287-84683bc0d2c6 (1981)."
+    }
+  ]
 }

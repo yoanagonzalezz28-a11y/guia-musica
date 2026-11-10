@@ -36,12 +36,27 @@
   "sello": "Pacific Jazz",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Dave Bailey",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "baker",
+      "nombre": "Chet Baker",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Henry Grimes",
+      "instrumento": "bajo"
+    },
+    {
       "musico": "mulligan",
       "nombre": "Gerry Mulligan",
-      "instrumento": "saxo barítono, arreglos"
+      "instrumento": "saxo barítono"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "cool"
   ],
@@ -49,12 +64,18 @@
     "El cuarteto sin piano, unos años después. Mulligan y Baker vuelven a tocar juntos sin piano, en contrapunto suave. Está entre los discos esenciales de Gerry Mulligan."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "c54f0c72-7e5c-4cdf-956b-3528558ca932",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 8702bd60-050c-4276-a8e9-b615d322547a (1988)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Reunion",

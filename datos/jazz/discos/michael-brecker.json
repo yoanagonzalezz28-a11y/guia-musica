@@ -38,10 +38,30 @@
     {
       "musico": "brecker",
       "nombre": "Michael Brecker",
-      "instrumento": "saxo tenor"
+      "instrumento": "saxo, saxo tenor"
+    },
+    {
+      "musico": "dejohnette",
+      "nombre": "Jack DeJohnette",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "haden",
+      "nombre": "Charlie Haden",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "kirkland",
+      "nombre": "Kenny Kirkland",
+      "instrumento": "teclados, piano"
+    },
+    {
+      "musico": "metheny",
+      "nombre": "Pat Metheny",
+      "instrumento": "guitarra"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "neotrad"
   ],
@@ -49,10 +69,16 @@
     "Saxo tenor con Pat Metheny, Kenny Kirkland, Charlie Haden y Jack DeJohnette, en temas modernos. Brecker tenía 38 años y era uno de los músicos de estudio más buscados, pero nunca había grabado como líder. Es el disco clave de Michael Brecker en la etapa \"Neotradicionalismo\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "80872451-b3a6-32ba-80d9-be63270e4c75",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Michael_Brecker_(album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 63cad342-5e18-45f4-a8f4-fba489283e27 (1987)."
+    }
+  ]
 }

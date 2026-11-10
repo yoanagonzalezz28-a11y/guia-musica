@@ -35,12 +35,45 @@
   "sello": "Pi Recordings",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Andrew Cyrille",
+      "instrumento": "cencerro, gong, percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Román Díaz",
+      "instrumento": "congas, percusión, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Ben Street",
+      "instrumento": "contrabajo"
+    },
+    {
       "musico": "virelles",
       "nombre": "David Virelles",
-      "instrumento": "piano"
+      "instrumento": "harmonium, órgano, piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Román Filiú",
+      "instrumento": "saxo alto, saxo tenor",
+      "nota": "temas 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Jonathan Finlayson",
+      "instrumento": "trompeta",
+      "nota": "temas 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Mark Turner",
+      "instrumento": "clarinete bajo, saxo tenor",
+      "nota": "temas 7"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -48,7 +81,7 @@
     "Piano con contrabajo, batería y la voz y percusión de Román Díaz, en un clima ritual. Andrew Cyrille toca la batería y Ben Street el contrabajo; fue su primer disco para el sello Pi. Es uno de los discos que el banco elige para conocer a David Virelles."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "0337b278-f5d5-4335-8f5b-9e15bf57dfb2",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
@@ -58,6 +91,11 @@
       "fuente": "mb-david-virelles",
       "acceso": "extracto",
       "aporta": "Pi Recordings, 9 de octubre de 2012."
+    },
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 8b032ecc-cf4d-43b1-9209-4035ad600b16 (2012-10-09)."
     }
   ]
 }

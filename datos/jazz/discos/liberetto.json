@@ -37,10 +37,28 @@
     {
       "musico": "danielsson",
       "nombre": "Lars Danielsson",
-      "instrumento": "contrabajo, violonchelo, composición"
+      "instrumento": "cuerdas, wurlitzer piano eléctrico"
+    },
+    {
+      "musico": "tigran",
+      "nombre": "Tigran Hamasyan",
+      "instrumento": "piano, voz",
+      "nota": null
+    },
+    {
+      "musico": null,
+      "nombre": "Arve Henriksen",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 3, 5, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Magnus Öström",
+      "instrumento": "batería, percusión",
+      "nota": "temas 1, 2, 4, 5, 6, 7, 8, 10, 11, 12"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm"
   ],
@@ -48,10 +66,16 @@
     "El contrabajo como voz cantante, con el piano de Tigran Hamasyan, en temas melódicos. Danielsson sumó a Hamasyan cuando todavía no era conocido fuera del jazz. Está entre los discos esenciales de Lars Danielsson."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "0805c768-6592-40bd-bc52-f6f9bcc81830",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición bd09e3a9-173e-4845-b2a5-dd82db437b9e (2012-01-27)."
+    }
+  ]
 }

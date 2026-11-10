@@ -36,12 +36,27 @@
   "sello": "Riverside",
   "musicos": [
     {
+      "musico": "monk",
+      "nombre": "Thelonious Monk",
+      "instrumento": "piano"
+    },
+    {
       "musico": "mulligan",
       "nombre": "Gerry Mulligan",
-      "instrumento": "saxo barítono, arreglos"
+      "instrumento": "saxo barítono"
+    },
+    {
+      "musico": null,
+      "nombre": "Wilbur Ware",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Shadow Wilson",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "cool"
   ],
@@ -49,12 +64,18 @@
     "Saxo barítono y piano en temas de Monk: un encuentro improbable que funciona. Mulligan, de la escuela cool, se adapta a la armonía rara de Monk, con Wilbur Ware y Shadow Wilson en la base. Está entre los discos esenciales de Gerry Mulligan."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "00283f0e-27ed-3323-9e8e-79ddd6d5c506",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 5cf64d06-a221-46d0-9756-1cb8266e4a47 (1957)."
+    }
+  ],
   "temas": [
     {
       "titulo": "'Round Midnight",

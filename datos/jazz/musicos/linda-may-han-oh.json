@@ -1,0 +1,49 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "linda-may-han-oh",
+  "nombre": "Linda May Han Oh",
+  "nacimiento": {
+    "anio": 1984,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "contrabajo",
+    "composición"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Contrabajista y compositora australiana, profesora en Berklee; tocó con Pat Metheny y Vijay Iyer.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2019,
+      "hasta": 2023,
+      "texto": "",
+      "discoClave": {
+        "disco": "aventurine",
+        "explicacion": "Su cuarteto con cuerdas."
+      },
+      "discos": [
+        "the-glass-hours"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-linda-oh-pend"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "aventurine",
+    "the-glass-hours"
+  ]
+}

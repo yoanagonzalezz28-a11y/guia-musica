@@ -37,10 +37,60 @@
     {
       "musico": "salvant",
       "nombre": "Cécile McLorin Salvant",
-      "instrumento": "voz, composición"
+      "instrumento": "composing, producing, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Aaron Diehl",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Alexa Tarantino",
+      "instrumento": "flauta"
+    },
+    {
+      "musico": null,
+      "nombre": "Burniss Travis",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "James Chirillo",
+      "instrumento": "banjo"
+    },
+    {
+      "musico": null,
+      "nombre": "Keita Ogawa",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Kyle Poole",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Marvin Sewell",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Sikivie",
+      "instrumento": "bajo, sintetizador"
+    },
+    {
+      "musico": null,
+      "nombre": "Sullivan Fortner",
+      "instrumento": "piano, producing"
+    },
+    {
+      "musico": null,
+      "nombre": "Daniel Swenberg",
+      "instrumento": "lute, theorbo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "hoy"
   ],
@@ -51,7 +101,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Ghost_Song_(album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Ghost Song (album)\"."
+    }
+  ]
 }

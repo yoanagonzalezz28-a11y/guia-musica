@@ -1,0 +1,48 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "jeanne-lee",
+  "nombre": "Jeanne Lee",
+  "nacimiento": {
+    "anio": 1939,
+    "lugar": "Nueva York"
+  },
+  "muerte": {
+    "anio": 2000
+  },
+  "instrumentos": [
+    "voz",
+    "composición"
+  ],
+  "corrientes": [
+    "free"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/7ezPWk4DFf9Fb9tdwg0Ych",
+  "resumen": "Cantante, poeta y compositora de la vanguardia. Trabajó con Ran Blake, Gunter Hampel, Archie Shepp, Anthony Braxton y Carla Bley, entre muchos otros.",
+  "epocas": [
+    {
+      "titulo": "Free jazz",
+      "desde": 1962,
+      "hasta": 1962,
+      "texto": "",
+      "discoClave": {
+        "disco": "the-newest-sound-around",
+        "explicacion": "Su dúo con Ran Blake."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-jeanne-lee"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "the-newest-sound-around"
+  ]
+}

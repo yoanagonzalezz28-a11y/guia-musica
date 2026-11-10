@@ -36,12 +36,32 @@
   "sello": "Atlantic",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Sam Brown",
+      "instrumento": "guitarra"
+    },
+    {
       "musico": "burton",
       "nombre": "Gary Burton",
       "instrumento": "vibráfono"
+    },
+    {
+      "musico": null,
+      "nombre": "Bill Goodwin",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "jarrett",
+      "nombre": "Keith Jarrett",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Swallow",
+      "instrumento": "contrabajo, bajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "fusion"
   ],
@@ -49,12 +69,18 @@
     "Vibráfono y piano eléctrico en temas propios, entre el jazz y el rock de la época, con Sam Brown en guitarra. Jarrett tocaba con Miles Davis en esos años, y acá aparece en un formato poco habitual para él. Es uno de los discos que el banco elige para conocer a Gary Burton."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "29c297a2-73e2-4d74-9ae4-224e74146ce3",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 7976d508-8979-471a-88ef-fab2e93b861e (1971)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Grow Your Own",

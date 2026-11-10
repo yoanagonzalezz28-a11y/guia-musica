@@ -36,12 +36,31 @@
   "sello": "Concord",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Joe Armon‐Jones",
+      "instrumento": "piano, teclados",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Daniel Casimir",
+      "instrumento": "contrabajo",
+      "nota": "temas 1"
+    },
+    {
       "musico": "nubya",
       "nombre": "Nubya Garcia",
-      "instrumento": "saxo tenor"
+      "instrumento": "saxo tenor",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Sam Jones",
+      "instrumento": "batería",
+      "nota": "temas 1"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -54,7 +73,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 6d015137-8b65-40c4-9229-89c3bfaa12fb (2020-08-21)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Pace",

@@ -36,12 +36,112 @@
   "sello": "Knitting Factory Records",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Adekunle Adebiyi",
+      "instrumento": "saxo barítono"
+    },
+    {
+      "musico": null,
+      "nombre": "Ajayi Adebiyi",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Oyinade Adeniran",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Oladimeji Akinyele",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": "glasper",
+      "nombre": "Robert Glasper",
+      "instrumento": "teclados",
+      "nota": "temas 1, 2, 4, 5, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Okon Iyamba",
+      "instrumento": "shekere"
+    },
+    {
+      "musico": null,
+      "nombre": "Kunle Justice",
+      "instrumento": "bajo eléctrico"
+    },
+    {
       "musico": "seun-kuti",
       "nombre": "Seun Kuti",
-      "instrumento": "saxo, voz"
+      "instrumento": "saxo alto, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Lekan Animashaun",
+      "instrumento": "teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "David Neerman",
+      "instrumento": "vibráfono",
+      "nota": "temas 1, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "David Obanyedo",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Olugbade Okunade",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Alade Oluwagbemiga",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Kola Onasanya",
+      "instrumento": "congas"
+    },
+    {
+      "musico": null,
+      "nombre": "Wale Toriola",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Yetunde Ademiluyi",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Iyabo Adeniran",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "M‐1",
+      "instrumento": "voz",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Blitz the Ambassador",
+      "instrumento": "voz",
+      "nota": "temas 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Nneka",
+      "instrumento": "voz",
+      "nota": "temas 7"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -49,7 +149,7 @@
     "Afrobeat con Egypt 80 y algunos invitados del rap. Lo produjo el pianista Robert Glasper, que acerca el sonido al jazz y al hip hop actual. Es uno de los discos que el banco elige para conocer a Seun Kuti."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "d27833c4-358a-4904-bf06-cbbe7e34bdfb",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
@@ -59,6 +159,11 @@
       "fuente": "mb-seun-kuti",
       "acceso": "extracto",
       "aporta": "Because Music y Knitting Factory, febrero de 2014."
+    },
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición d50b4708-9efd-4c25-898a-5123a1ae9813 (2014-02-24)."
     }
   ]
 }

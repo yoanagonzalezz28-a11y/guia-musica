@@ -36,12 +36,175 @@
   "sello": "Verve",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "William “Cat” Anderson",
+      "instrumento": "trompeta",
+      "nota": "temas 1-1, 1-2, 1-3, 1-4, 1-5, 1-6, 1-7, 1-8, 1-9, 1-10, 1-11, 4-1, 4-2, 4-3, 4-4, 4-5, 4-6"
+    },
+    {
+      "musico": null,
+      "nombre": "Willie Cook",
+      "instrumento": "trompeta",
+      "nota": "temas 1-1, 1-2, 1-3, 1-4, 1-5, 1-6, 1-7, 1-8, 1-9, 1-10, 1-11, 4-1, 4-2, 4-3, 4-4, 4-5, 4-6"
+    },
+    {
+      "musico": "ellington",
+      "nombre": "Duke Ellington",
+      "instrumento": "piano",
+      "nota": "temas 1-1, 1-2, 1-3, 1-4, 1-5, 1-6, 1-7, 1-8, 1-9, 1-10, 1-11, 4-1, 4-2, 4-3, 4-4, 4-5, 4-6"
+    },
+    {
+      "musico": "gillespie",
+      "nombre": "Dizzy Gillespie",
+      "instrumento": "trompeta",
+      "nota": "temas 1-1, 1-2, 1-3, 1-4, 1-5, 1-7, 1-8, 1-9, 1-10, 1-11"
+    },
+    {
+      "musico": null,
+      "nombre": "Ray Nance",
+      "instrumento": "trompeta, violín",
+      "nota": "temas 1-1, 1-2, 1-3, 1-4, 1-5, 1-6, 1-7, 1-8, 1-9, 1-10, 1-11, 4-1, 4-2, 4-3, 4-4, 4-5, 4-6"
+    },
+    {
+      "musico": null,
+      "nombre": "Clark Terry",
+      "instrumento": "trompeta",
+      "nota": "temas 1-1, 1-2, 1-3, 1-4, 1-5, 1-6, 1-7, 1-8, 1-9, 1-10, 1-11, 4-1, 4-2, 4-3, 4-4, 4-5, 4-6"
+    },
+    {
       "musico": "fitzgerald",
       "nombre": "Ella Fitzgerald",
-      "instrumento": "voz"
+      "instrumento": "voz",
+      "nota": "temas 1-1, 1-2, 1-3, 1-4, 1-5, 1-6, 1-7, 1-8, 1-9, 1-10, 1-11, 2-1, 2-3, 2-4, 2-5, 2-6, 2-7, 2-9, 2-10, 3-1, 3-2, 3-3, 3-4, 3-5, 3-6, 3-7, 3-9, 4-1, 4-2, 4-3, 4-4, 4-5, 4-6"
+    },
+    {
+      "musico": null,
+      "nombre": "Harry Carney",
+      "instrumento": "clarinete bajo, clarinete, saxo barítono",
+      "nota": "temas 1-5, 1-6, 4-1, 4-2, 4-3, 4-4, 4-5, 4-6"
+    },
+    {
+      "musico": null,
+      "nombre": "Frank Foster",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1-5, 4-1, 4-2, 4-3, 4-4, 4-5, 4-6"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Gonsalves",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1-5, 1-6, 4-1, 4-2, 4-3, 4-4, 4-5, 4-6"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Hamilton",
+      "instrumento": "clarinete, saxo tenor, cañas",
+      "nota": "temas 1-5, 1-6, 4-1, 4-2, 4-3, 4-4, 4-5, 4-6"
+    },
+    {
+      "musico": "hodges",
+      "nombre": "Johnny Hodges",
+      "instrumento": "saxo alto",
+      "nota": "temas 1-5, 1-6, 4-1, 4-2, 4-3, 4-4, 4-5, 4-6"
+    },
+    {
+      "musico": null,
+      "nombre": "Quentin Jackson",
+      "instrumento": "trombón",
+      "nota": "temas 1-5, 1-6, 4-1, 4-2, 4-3, 4-4, 4-5, 4-6"
+    },
+    {
+      "musico": null,
+      "nombre": "Russell Procope",
+      "instrumento": "saxo alto, clarinete, cañas",
+      "nota": "temas 1-5, 1-6, 4-1, 4-2, 4-3, 4-4, 4-5, 4-6"
+    },
+    {
+      "musico": null,
+      "nombre": "John Sanders",
+      "instrumento": "trombón",
+      "nota": "temas 1-5, 1-6, 4-1, 4-2, 4-3, 4-4, 4-5, 4-6"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Woode",
+      "instrumento": "contrabajo",
+      "nota": "temas 1-5, 1-6, 4-1, 4-2, 4-3, 4-4, 4-5, 4-6"
+    },
+    {
+      "musico": null,
+      "nombre": "Britt Woodman",
+      "instrumento": "trombón",
+      "nota": "temas 1-5, 1-6, 4-1, 4-2, 4-3, 4-4, 4-5, 4-6"
+    },
+    {
+      "musico": null,
+      "nombre": "Sam Woodyard",
+      "instrumento": "batería",
+      "nota": "temas 1-5, 1-6, 4-1, 4-2, 4-3, 4-4, 4-5, 4-6"
+    },
+    {
+      "musico": null,
+      "nombre": "Barney Kessel",
+      "instrumento": "guitarra",
+      "nota": "temas 2-1, 2-3, 2-4, 2-5, 2-6, 2-7, 2-9, 2-10, 3-1, 3-2, 3-3, 3-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Mondragon",
+      "instrumento": "contrabajo",
+      "nota": "temas 2-1, 2-3, 2-5, 2-6, 2-7, 2-9, 3-1, 3-3, 3-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Smith",
+      "instrumento": "piano",
+      "nota": "temas 2-1, 2-3, 2-5, 2-6, 2-7, 2-9, 3-1, 3-3, 3-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Stuff Smith",
+      "instrumento": "violín",
+      "nota": "temas 2-1, 2-3, 2-5, 2-6, 2-7, 2-9, 3-1, 3-3, 3-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Alvin Stoller",
+      "instrumento": "batería",
+      "nota": "temas 2-1, 2-3, 2-5, 2-6, 2-7, 2-9, 3-1, 3-3, 3-4, 3-5, 3-6, 3-7, 3-9"
+    },
+    {
+      "musico": "webster",
+      "nombre": "Ben Webster",
+      "instrumento": "saxo tenor",
+      "nota": "temas 2-1, 2-3, 2-5, 2-6, 2-7, 2-9, 3-1, 3-3, 3-4, 3-5, 3-6, 3-7, 3-9"
+    },
+    {
+      "musico": null,
+      "nombre": "Ray Brown",
+      "instrumento": "contrabajo",
+      "nota": "temas 3-5, 3-6, 3-7, 3-9"
+    },
+    {
+      "musico": null,
+      "nombre": "Herb Ellis",
+      "instrumento": "guitarra",
+      "nota": "temas 3-5, 3-6, 3-7, 3-9"
+    },
+    {
+      "musico": "peterson",
+      "nombre": "Oscar Peterson",
+      "instrumento": "piano",
+      "nota": "temas 3-5, 3-6, 3-7, 3-9"
+    },
+    {
+      "musico": null,
+      "nombre": "Duke Ellington and His Orchestra",
+      "instrumento": "músico",
+      "nota": "temas 1-1, 1-2, 1-3, 1-4, 1-5, 1-6, 1-7, 1-8, 1-9, 1-10, 1-11, 4-1, 4-2, 4-3, 4-4, 4-5, 4-6"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "swing"
   ],
@@ -49,12 +212,18 @@
     "Canciones de Ellington con su orquesta y con grupos chicos, en un disco largo y variado. Es parte de la serie de cancioneros de Fitzgerald para Verve, y el único en el que el propio compositor toca con ella. Es uno de los discos que el banco elige para conocer a Ella Fitzgerald."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "4b7758e9-6820-3f35-ab83-00ecadee2386",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición bca9405a-7b58-4cc5-94c7-29d0131082eb (1957)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Rockin' In Rhythm",

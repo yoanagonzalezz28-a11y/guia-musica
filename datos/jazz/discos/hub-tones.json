@@ -35,12 +35,32 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": "hancock",
+      "nombre": "Herbie Hancock",
+      "instrumento": "piano"
+    },
+    {
       "musico": "hubbard",
       "nombre": "Freddie Hubbard",
       "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Clifford Jarvis",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "James Spaulding",
+      "instrumento": "saxo alto, flauta"
+    },
+    {
+      "musico": null,
+      "nombre": "Reggie Workman",
+      "instrumento": "contrabajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -48,10 +68,16 @@
     "Hard bop con Herbie Hancock. Hubbard toca la trompeta con un sonido brillante y James Spaulding en saxo alto y flauta. En la ficha de Freddie Hubbard es el disco que representa la etapa \"Hard bop\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "125b9edd-2754-3a86-ac27-9633146d82e9",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición b63d6e08-98b5-46f7-924d-969a8e730fa6 (1962)."
+    }
+  ]
 }

@@ -38,9 +38,30 @@
       "musico": "frisell",
       "nombre": "Bill Frisell",
       "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Wayne Horvitz",
+      "instrumento": "órgano, piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Jim Keltner",
+      "instrumento": "batería, percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Greg Leisz",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Ry Cooder",
+      "instrumento": "guitarra",
+      "nota": "temas 5"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -48,10 +69,16 @@
     "Americana instrumental, con Ry Cooder en un tema. Frisell toca la guitarra con un grupo de músicos de country y folk, en temas lentos y melódicos. Está entre los discos esenciales de Bill Frisell."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "9644378f-312e-348d-9692-761e020d59cc",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición eb0b7e6b-a87a-4b01-9f68-a20d27b22052 (1999)."
+    }
+  ]
 }

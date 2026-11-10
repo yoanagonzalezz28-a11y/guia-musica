@@ -38,10 +38,25 @@
     {
       "musico": "holland",
       "nombre": "Dave Holland",
-      "instrumento": "contrabajo, composición"
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "zakir",
+      "nombre": "Zakir Hussain",
+      "instrumento": "tabla"
+    },
+    {
+      "musico": "potter",
+      "nombre": "Chris Potter",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Crosscurrents Trio",
+      "instrumento": "músico"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -54,7 +69,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición b2c66c5c-936e-4a2c-a20d-214758f67663 (2019)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Ziandi",

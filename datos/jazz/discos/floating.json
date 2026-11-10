@@ -36,12 +36,22 @@
   "sello": "Palmetto",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "John Hébert",
+      "instrumento": "contrabajo"
+    },
+    {
       "musico": "hersch",
       "nombre": "Fred Hersch",
       "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Eric McPherson",
+      "instrumento": "percusión"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -54,7 +64,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 23298136-4811-44e1-a29f-67be868f6f14 (2014-07-08)."
+    }
+  ],
   "temas": [
     {
       "titulo": "You & The Night & The Music",

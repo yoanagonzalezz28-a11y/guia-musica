@@ -36,12 +36,22 @@
   "sello": "ECM",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Gerald Cleaver",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Thomas Morgan",
+      "instrumento": "contrabajo"
+    },
+    {
       "musico": "taborn",
       "nombre": "Craig Taborn",
-      "instrumento": "piano, electrónica"
+      "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm"
   ],
@@ -49,10 +59,16 @@
     "Trío con Thomas Morgan y Gerald Cleaver. Taborn toca con un trío muy conversado, con ritmos que cambian dentro de cada tema. Es uno de los discos que el banco elige para conocer a Craig Taborn."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "754451f8-2ea7-4df0-83af-5163cabb9b12",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición a7f73a46-0bc2-4ab1-b49f-f2efc7e6780f (2013-04-23)."
+    }
+  ]
 }

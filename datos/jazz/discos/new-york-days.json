@@ -34,12 +34,32 @@
   "sello": "ECM",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Stefano Bollani",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Larry Grenadier",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "motian",
+      "nombre": "Paul Motian",
+      "instrumento": "batería"
+    },
+    {
       "musico": "rava",
       "nombre": "Enrico Rava",
-      "instrumento": "trompeta, fliscorno"
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Mark Turner",
+      "instrumento": "saxo tenor"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm"
   ],
@@ -47,10 +67,16 @@
     "Con Mark Turner y Paul Motian: el lirismo de Rava en Nueva York. Rava toca la trompeta con Turner, Motian, Bollani y Grenadier, en temas lentos. Está entre los discos esenciales de Enrico Rava."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "f4f37761-1620-399f-a18b-0ab8f438d474",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 11bfd881-ead8-4bca-9c0f-ff86519b9a55 (2009)."
+    }
+  ]
 }

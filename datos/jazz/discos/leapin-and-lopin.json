@@ -39,9 +39,37 @@
       "musico": "sonny-clark",
       "nombre": "Sonny Clark",
       "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Higgins",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Charlie Rouse",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1, 3, 4, 5, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Tommy Turrentine",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 3, 4, 5, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Butch Warren",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "quebec",
+      "nombre": "Ike Quebec",
+      "instrumento": "saxo tenor",
+      "nota": "temas 2"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -49,10 +77,16 @@
     "Su último disco como líder, con Tommy Turrentine. Clark toca el piano con Turrentine y Charlie Rouse, en un hard bop relajado. Está entre los discos esenciales de Sonny Clark."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "144067fd-d219-3733-a5a7-3fe0fb722b3e",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Leapin%27_and_Lopin%27"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 03fc3a6a-e4f4-4bcf-a0a9-2c375a000f2f (1961)."
+    }
+  ]
 }

@@ -39,9 +39,19 @@
       "musico": "paquito",
       "nombre": "Paquito D'Rivera",
       "instrumento": "saxo, clarinete"
+    },
+    {
+      "musico": null,
+      "nombre": "Carlos Franzetti",
+      "instrumento": "dirección"
+    },
+    {
+      "musico": null,
+      "nombre": "Paquito D’Rivera",
+      "instrumento": "saxo alto, saxo soprano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "latino"
   ],
@@ -49,10 +59,16 @@
     "Clásicos cubanos para big band, con saxo alto y clarinete, y un sonido muy limpio. Los arreglos son del argentino Carlos Franzetti, y salió por Chesky, un sello que cuida mucho la grabación. Está entre los discos esenciales de Paquito D'Rivera."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "ba68fac4-2610-3ecf-9170-fbc8522bb2e7",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 2246ac31-7443-434f-a347-5b27d2fcbeaf (1996)."
+    }
+  ]
 }

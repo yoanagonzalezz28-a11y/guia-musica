@@ -38,10 +38,20 @@
     {
       "musico": "maestro",
       "nombre": "Shai Maestro",
-      "instrumento": "piano, composición"
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Ziv Ravitz",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Jorge Roeder",
+      "instrumento": "bajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -49,12 +59,18 @@
     "Piano en trío, con melodías cantables sobre compases complejos. Fue su debut como líder, después de tocar varios años en el grupo del contrabajista Avishai Cohen. Es el disco clave de Shai Maestro en la etapa \"Jazz de hoy\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "a5c594ee-8036-4003-827f-eae3f1c8194c",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición f3e8c7ba-65f3-435d-89cc-1d5b66d584c4 (2012-08-31)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Confession",

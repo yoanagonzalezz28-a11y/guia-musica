@@ -38,10 +38,25 @@
     {
       "musico": "metheny",
       "nombre": "Pat Metheny",
-      "instrumento": "guitarra"
+      "instrumento": "6-and 12-string guitarra eléctrica, 15 string arpa guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Lyle Mays",
+      "instrumento": "piano, occasional sintetizador"
+    },
+    {
+      "musico": "weber",
+      "nombre": "Eberhard Weber",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Danny Gottlieb",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "ecm"
   ],
@@ -52,9 +67,15 @@
     "musicbrainz": "9e2f0955-8288-3633-be26-3378a4812326",
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Watercolors_(Pat_Metheny_album)"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Watercolors (Pat Metheny album)\"."
+    }
+  ],
   "temas": [
     {
       "titulo": "Watercolors",

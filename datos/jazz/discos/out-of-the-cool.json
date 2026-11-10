@@ -36,12 +36,83 @@
   "sello": "Impulse!",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Bill Barber",
+      "instrumento": "tuba"
+    },
+    {
+      "musico": null,
+      "nombre": "Ray Beckenstein",
+      "instrumento": "vientos de madera"
+    },
+    {
+      "musico": null,
+      "nombre": "Eddie Caine",
+      "instrumento": "vientos de madera"
+    },
+    {
+      "musico": "ronc",
+      "nombre": "Ron Carter",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Johnny Coles",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Ray Crawford",
+      "instrumento": "guitarra"
+    },
+    {
       "musico": "gilevans",
       "nombre": "Gil Evans",
-      "instrumento": "arreglos, piano"
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Budd Johnson",
+      "instrumento": "saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Keg Johnson",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": "elvin",
+      "nombre": "Elvin Jones",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Knepper",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Tony Studd",
+      "instrumento": "trombón bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Phil Sunkel",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Robert Tricarico",
+      "instrumento": "vientos"
+    },
+    {
+      "musico": null,
+      "nombre": "The Gil Evans Orchestra",
+      "instrumento": "orquesta",
+      "nota": "temas 3"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "cool"
   ],
@@ -49,10 +120,16 @@
     "Evans escribe para una orquesta con tubas, cornos y guitarra, con mucho espacio y tempos lentos. Llegó después de *Sketches of Spain* con Miles Davis, y acá Evans aplica las mismas ideas a su propia orquesta. Está entre los discos esenciales de Gil Evans."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "50440e61-2549-37df-bc02-b6436938b72d",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 02f42674-50da-4bb4-988b-f7825ee065b9 (1961)."
+    }
+  ]
 }

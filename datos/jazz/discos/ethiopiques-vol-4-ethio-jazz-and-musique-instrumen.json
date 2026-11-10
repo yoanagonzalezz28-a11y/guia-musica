@@ -8,7 +8,7 @@
   "regiones": [
     "etiopia"
   ],
-  "compilacion": false,
+  "compilacion": true,
   "tipo": "estudio",
   "catalogo": null,
   "lugar": null,
@@ -23,8 +23,8 @@
     "mulatu"
   ],
   "grabacion": {
-    "desde": 1998,
-    "hasta": 1998,
+    "desde": 1969,
+    "hasta": 1974,
     "detalle": null
   },
   "edicion": {
@@ -52,5 +52,10 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "recopilacion": {
+    "desde": 1969,
+    "hasta": 1974,
+    "original": "Parte de los temas salió primero en *Mulatu of Ethiopia* (1972) y en simples de sellos etíopes."
+  }
 }

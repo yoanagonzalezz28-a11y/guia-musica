@@ -39,9 +39,25 @@
       "musico": "marsh",
       "nombre": "Warne Marsh",
       "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Ronnie Ball",
+      "instrumento": "piano",
+      "nota": "temas tracks 1, 3"
+    },
+    {
+      "musico": "chambers",
+      "nombre": "Paul Chambers",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": "philly-joe-jones",
+      "nombre": "Philly Joe Jones",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "cool"
   ],
@@ -52,7 +68,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Warne_Marsh_(album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Warne Marsh (album)\"."
+    }
+  ]
 }

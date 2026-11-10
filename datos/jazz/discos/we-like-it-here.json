@@ -38,9 +38,111 @@
       "musico": "snarky-puppy",
       "nombre": "Snarky Puppy",
       "instrumento": "grupo"
+    },
+    {
+      "musico": null,
+      "nombre": "Chris Bullock",
+      "instrumento": "clarinete bajo, flauta, saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Cory Henry",
+      "instrumento": "teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Tessel Hersbach",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Yannick Hiwat",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Jay Jennings",
+      "instrumento": "fliscorno, trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Bob Lanzetti",
+      "instrumento": "guitarra eléctrica"
+    },
+    {
+      "musico": null,
+      "nombre": "Bill Laurance",
+      "instrumento": "teclados, piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Michael League",
+      "instrumento": "bajo eléctrico, Moog"
+    },
+    {
+      "musico": null,
+      "nombre": "Mark Lettieri",
+      "instrumento": "guitarra eléctrica"
+    },
+    {
+      "musico": null,
+      "nombre": "Larnell Lewis",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Mike Maher",
+      "instrumento": "fliscorno, trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Shaun Martin",
+      "instrumento": "teclados, Moog"
+    },
+    {
+      "musico": null,
+      "nombre": "Chris McQueen",
+      "instrumento": "baritone guitarra, guitarra eléctrica"
+    },
+    {
+      "musico": null,
+      "nombre": "Bob Reynolds",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Susanne Rosmolen",
+      "instrumento": "violonchelo"
+    },
+    {
+      "musico": null,
+      "nombre": "Justin Stanton",
+      "instrumento": "teclados, trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Mara Tieles",
+      "instrumento": "viola"
+    },
+    {
+      "musico": null,
+      "nombre": "Nate Werth",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Steven Brezet",
+      "instrumento": "percusión",
+      "nota": "temas 1-4, 1-7, 2-4, 2-7"
+    },
+    {
+      "musico": null,
+      "nombre": "Julio Pimental",
+      "instrumento": "percusión",
+      "nota": "temas 1-4, 1-7, 2-4, 2-7"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "fusion"
   ],
@@ -48,10 +150,16 @@
     "Grabado en Holanda: groove, funk y fusión con mucha energía. Snarky Puppy toca en vivo en un estudio con público, con muchos teclados, vientos y percusión. En la ficha de Snarky Puppy es el disco que representa la etapa \"Fusión\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "fcf368c7-9ce7-487e-bd95-14543f6764cd",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 43812508-764e-43ce-b99d-8d48aec5ae6d (2014)."
+    }
+  ]
 }

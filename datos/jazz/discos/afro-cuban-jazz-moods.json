@@ -38,9 +38,134 @@
       "musico": "machito",
       "nombre": "Machito",
       "instrumento": "voz, maracas, dirección"
+    },
+    {
+      "musico": null,
+      "nombre": "Chico O’Farrill",
+      "instrumento": "dirección"
+    },
+    {
+      "musico": "bauza",
+      "nombre": "Mario Bauzá",
+      "instrumento": "cañas"
+    },
+    {
+      "musico": null,
+      "nombre": "Carlos Castillo",
+      "instrumento": "bajo eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Gerald Chamberlain",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Don Corrado",
+      "instrumento": "corno"
+    },
+    {
+      "musico": null,
+      "nombre": "Jorge Dalto",
+      "instrumento": "piano eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Manuel \"Manny\" Duran",
+      "instrumento": "vientos de metal"
+    },
+    {
+      "musico": "gillespie",
+      "nombre": "Dizzy Gillespie",
+      "instrumento": "vientos de metal"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Gonzalez",
+      "instrumento": "vientos de metal"
+    },
+    {
+      "musico": null,
+      "nombre": "Raul Gonzalez, Jr.",
+      "instrumento": "vientos de metal"
+    },
+    {
+      "musico": null,
+      "nombre": "Julito Grillo",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Mario Grillo",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Jack Jeffers",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Lewis Kahn",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "José Madera",
+      "instrumento": "cañas, timbales"
+    },
+    {
+      "musico": null,
+      "nombre": "Dana McCurdy",
+      "instrumento": "sintetizador"
+    },
+    {
+      "musico": null,
+      "nombre": "Barry Morrow",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Victor Paz",
+      "instrumento": "vientos de metal"
+    },
+    {
+      "musico": null,
+      "nombre": "Pepin Pepin",
+      "instrumento": "congas"
+    },
+    {
+      "musico": null,
+      "nombre": "Mario Rivera",
+      "instrumento": "vientos de madera"
+    },
+    {
+      "musico": null,
+      "nombre": "Mickey Roker",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Mauricio Smith",
+      "instrumento": "vientos de madera"
+    },
+    {
+      "musico": null,
+      "nombre": "Bob Stewart",
+      "instrumento": "tuba"
+    },
+    {
+      "musico": null,
+      "nombre": "Brooks Tillotson",
+      "instrumento": "corno"
+    },
+    {
+      "musico": null,
+      "nombre": "Leslie Yahonikan",
+      "instrumento": "cañas"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "latino"
   ],
@@ -48,10 +173,16 @@
     "Con Dizzy Gillespie y Chico O'Farrill, décadas después. La orquesta de Machito, el arreglador O'Farrill y la trompeta de Gillespie se reencuentran en una suite larga, con mucha percusión. Es uno de los discos que el banco elige para conocer a Machito."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "705118ea-1ad0-32f8-85f7-927a5fa9c1b8",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 63a017e9-4db4-4591-b581-c3f0aede5942 (1976)."
+    }
+  ]
 }

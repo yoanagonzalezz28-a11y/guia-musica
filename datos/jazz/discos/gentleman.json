@@ -39,9 +39,25 @@
       "musico": "fela",
       "nombre": "Fela Kuti",
       "instrumento": "saxo, teclados, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Igo Chico",
+      "instrumento": "saxo tenor",
+      "nota": "temas tracks 2, 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Fela Ransome-Kuti",
+      "instrumento": "saxo alto, arreglos, piano eléctrico, production, saxo tenor, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Tunde Williams",
+      "instrumento": "trompeta"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "mundo"
   ],
@@ -52,7 +68,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Gentleman_(Fela_Kuti_album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Gentleman (Fela Kuti album)\"."
+    }
+  ]
 }

@@ -47,11 +47,6 @@
     },
     {
       "musico": null,
-      "nombre": "Raúl Mercado",
-      "instrumento": "quena"
-    },
-    {
-      "musico": null,
       "nombre": "Amadeo Monges",
       "instrumento": "arpa india"
     },
@@ -67,6 +62,16 @@
     },
     {
       "musico": null,
+      "nombre": "Adalberto Cevasco",
+      "instrumento": "bajo eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Raúl Mercado",
+      "instrumento": "quena"
+    },
+    {
+      "musico": null,
       "nombre": "Isoca Fumero",
       "instrumento": "charango"
     },
@@ -74,11 +79,6 @@
       "musico": null,
       "nombre": "Antonio Pantoja",
       "instrumento": "anapa, erke, siku y quena"
-    },
-    {
-      "musico": null,
-      "nombre": "Adalberto Cevasco",
-      "instrumento": "bajo eléctrico"
     },
     {
       "musico": null,

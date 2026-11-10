@@ -35,12 +35,27 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Donald “Duck” Bailey",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "burrell",
+      "nombre": "Kenny Burrell",
+      "instrumento": "guitarra"
+    },
+    {
       "musico": "jimmysmith",
       "nombre": "Jimmy Smith",
-      "instrumento": "órgano Hammond"
+      "instrumento": "órgano"
+    },
+    {
+      "musico": null,
+      "nombre": "Stanley Turrentine",
+      "instrumento": "saxo tenor"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "souljazz"
   ],
@@ -48,10 +63,16 @@
     "Con Stanley Turrentine: blues lento de órgano, el soul jazz en su estado puro. El órgano de Smith y el tenor de Turrentine se reparten blues lentos y un swing relajado, con Kenny Burrell en guitarra. Está entre los discos esenciales de Jimmy Smith."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "10bb15b0-2d55-369a-90c3-a5131406ac9e",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Back_at_the_Chicken_Shack"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 16ff71ba-6d9e-435b-ad13-951ed918dff2 (1963)."
+    }
+  ]
 }

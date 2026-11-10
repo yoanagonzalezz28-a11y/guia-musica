@@ -35,12 +35,32 @@
   "sello": "New Jazz",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Ray Bryant",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Tommy Bryant",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Curtis Fuller",
+      "instrumento": "trombón"
+    },
+    {
       "musico": "golson",
       "nombre": "Benny Golson",
-      "instrumento": "saxo tenor, composición"
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Al Harewood",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -48,10 +68,16 @@
     "Con Curtis Fuller y Ray Bryant. Golson toca el saxo tenor con un sonido cálido, en temas propios con un quinteto. Es uno de los discos que el banco elige para conocer a Benny Golson."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "0cccc606-3c99-32ac-945b-8827b20daa8e",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 05e2b746-c442-4aa0-b589-b55ab142e6ed (1960)."
+    }
+  ]
 }

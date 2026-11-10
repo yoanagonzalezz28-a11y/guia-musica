@@ -35,12 +35,366 @@
   "sello": "Young Turks",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Tony Austin",
+      "instrumento": "batería",
+      "nota": "temas 1-1, 1-2, 1-3, 2-1, 2-2, 2-3, 2-4, 3-1, 3-2, 3-3, 3-4, 4-1, 4-2, 4-4, 5-1, 5-2, 5-3, 5-5"
+    },
+    {
+      "musico": null,
+      "nombre": "Marc Bolin",
+      "instrumento": "tuba",
+      "nota": "temas 1-1, 1-2, 1-4, 2-4, 3-1, 3-3, 3-4, 4-3, 4-4, 5-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Laura Brenes",
+      "instrumento": "corno",
+      "nota": "temas 1-1, 1-2, 1-4, 2-4, 3-1, 3-3, 3-4, 4-3, 4-4, 5-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Ronald Bruner Jr.",
+      "instrumento": "batería",
+      "nota": "temas 1-1, 1-2, 1-3, 2-1, 2-2, 2-3, 3-1, 3-3, 3-4, 4-1, 4-2, 5-1, 5-5"
+    },
+    {
+      "musico": null,
+      "nombre": "Caroline Buckman",
+      "instrumento": "viola",
+      "nota": "temas 1-1, 1-2, 1-4, 2-4, 3-1, 3-3, 3-4, 4-3, 4-4, 5-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Cartwright",
+      "instrumento": "violín",
+      "nota": "temas 1-1, 1-2, 1-4, 2-4, 3-1, 3-3, 3-4, 4-3, 4-4, 5-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Brandon Coleman",
+      "instrumento": "órgano, teclados, vocoder, piano",
+      "nota": "temas 1-1, 1-2, 1-3, 1-4, 2-1, 2-2, 2-3, 2-4, 3-1, 3-2, 3-3, 3-4, 4-1, 4-2, 4-3, 4-4, 5-1, 5-3, 5-5"
+    },
+    {
+      "musico": null,
+      "nombre": "Brittany Cotto",
+      "instrumento": "viola",
+      "nota": "temas 1-1, 1-2, 1-4, 2-4, 3-1, 3-3, 3-4, 4-3, 4-4, 5-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Kahlil Cummings",
+      "instrumento": "percusión",
+      "nota": "temas 1-1, 1-3, 2-3, 2-4, 3-2, 3-3, 3-4, 5-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Yvette Devereaux",
+      "instrumento": "violín",
+      "nota": "temas 1-1, 1-2, 1-4, 2-4, 3-1, 3-3, 3-4, 4-3, 4-4, 5-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Cameron Graves",
+      "instrumento": "piano, voz",
+      "nota": "temas 1-1, 1-2, 1-3, 1-4, 2-2, 2-3, 2-4, 3-1, 3-2, 3-3, 3-4, 4-1, 4-2, 4-3, 4-4, 5-1, 5-2, 5-3, 5-5"
+    },
+    {
+      "musico": null,
+      "nombre": "Yvette Cornelia Holzwarth",
+      "instrumento": "violín",
+      "nota": "temas 1-1, 1-2, 1-4, 2-4, 3-1, 3-3, 3-4, 4-3, 4-4, 5-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Chad Jackson",
+      "instrumento": "viola",
+      "nota": "temas 1-1, 1-2, 1-4, 2-4, 3-1, 3-3, 3-4, 4-3, 4-4, 5-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Peter Jacobson",
+      "instrumento": "violonchelo",
+      "nota": "temas 1-1, 1-2, 1-4, 2-4, 3-1, 3-3, 3-4, 4-3, 4-4, 5-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Landon Jones",
+      "instrumento": "viola",
+      "nota": "temas 1-1, 1-2, 1-4, 2-4, 3-1, 3-3, 3-4, 4-3, 4-4, 5-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Tom Lea",
+      "instrumento": "viola",
+      "nota": "temas 1-1, 1-2, 1-4, 2-4, 3-1, 3-3, 3-4, 4-3, 4-4, 5-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Rocio Marron",
+      "instrumento": "violín",
+      "nota": "temas 1-1, 1-2, 1-4, 2-4, 3-1, 3-3, 3-4, 4-3, 4-4, 5-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Greg Martin",
+      "instrumento": "oboe",
+      "nota": "temas 1-1, 1-2, 1-4, 2-4, 3-1, 3-3, 3-4, 4-3, 4-4, 5-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Martino",
+      "instrumento": "violín",
+      "nota": "temas 1-1, 1-4, 3-1, 3-3, 3-4, 4-3, 4-4, 5-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Morgan Matadero",
+      "instrumento": "viola",
+      "nota": "temas 1-1, 1-2, 1-4, 2-4, 3-1, 3-3, 3-4, 4-3, 4-4, 5-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Miles Mosley",
+      "instrumento": "contrabajo, bajo eléctrico",
+      "nota": "temas 1-1, 1-2, 1-3, 2-1, 2-2, 2-3, 2-4, 3-1, 3-3, 3-4, 4-1, 4-2, 4-4, 5-1, 5-2, 5-3, 5-5"
+    },
+    {
+      "musico": null,
+      "nombre": "Ginger Murphy",
+      "instrumento": "violonchelo",
+      "nota": "temas 1-1, 1-2, 1-4, 2-4, 3-1, 3-3, 3-4, 4-3, 4-4, 5-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Allakoi Peete",
+      "instrumento": "percusión",
+      "nota": "temas 1-1, 1-3, 2-3, 2-4, 3-2, 3-3, 3-4, 5-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Ryan Porter",
+      "instrumento": "trombón",
+      "nota": "temas 1-1, 1-2, 1-3, 1-4, 2-1, 2-2, 2-3, 2-4, 3-1, 3-2, 3-3, 3-4, 4-1, 4-2, 4-3, 4-4, 5-1, 5-2, 5-3, 5-5"
+    },
+    {
+      "musico": null,
+      "nombre": "Reiko Nakano",
+      "instrumento": "violín",
+      "nota": "temas 1-1, 1-2, 1-4, 2-4, 3-1, 3-3, 3-4, 4-3, 4-4, 5-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Molly Rogers",
+      "instrumento": "viola",
+      "nota": "temas 1-1, 1-2, 1-4, 2-4, 3-1, 3-3, 3-4, 4-3, 4-4, 5-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Amy Sanchez",
+      "instrumento": "corno",
+      "nota": "temas 1-1, 1-2, 1-4, 2-4, 3-1, 3-3, 3-4, 4-3, 4-4, 5-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Jen Simone",
+      "instrumento": "violín",
+      "nota": "temas 1-1, 1-2, 1-4, 2-4, 3-1, 3-3, 3-4, 4-3, 4-4, 5-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Ray Suen",
+      "instrumento": "violín",
+      "nota": "temas 1-1, 1-2, 1-4, 2-4, 3-1, 3-3, 3-4, 4-3, 4-4, 5-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Dominic Therioux",
+      "instrumento": "contrabajo",
+      "nota": "temas 1-1, 1-2, 1-4, 2-4, 3-1, 3-3, 3-4, 4-3, 4-4, 5-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Tracy Wannomae",
+      "instrumento": "clarinete",
+      "nota": "temas 1-1, 1-2, 1-4, 2-4, 3-1, 3-3, 3-4, 4-3, 4-4, 5-1"
+    },
+    {
       "musico": "washington",
       "nombre": "Kamasi Washington",
-      "instrumento": "saxo tenor, composición"
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Rickey Washington",
+      "instrumento": "flauta, tenor trombón",
+      "nota": "temas 1-1, 1-2, 1-4, 2-4, 3-1, 3-3, 3-4, 4-3, 4-4, 5-1, 5-3"
+    },
+    {
+      "musico": null,
+      "nombre": "Dontae Winslow",
+      "instrumento": "trompeta",
+      "nota": "temas 1-1, 1-2, 1-3, 1-4, 2-1, 2-2, 2-3, 2-4, 3-2, 3-3, 3-4, 4-1, 4-2, 4-3, 4-4, 5-1, 5-3"
+    },
+    {
+      "musico": null,
+      "nombre": "Adrienne Woods",
+      "instrumento": "violonchelo",
+      "nota": "temas 1-1, 1-2, 1-4, 2-4, 3-1, 3-3, 3-4, 4-3, 4-4, 5-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Amber Joy Wyman",
+      "instrumento": "fagot",
+      "nota": "temas 1-1, 1-2, 1-4, 2-4, 3-1, 3-3, 3-4, 4-3, 4-4, 5-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Nia Andrews",
+      "instrumento": "voz",
+      "nota": "temas 1-1, 1-2, 1-4, 2-4, 3-1, 3-3, 3-4, 4-3, 4-4, 5-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Thalma de Freitas",
+      "instrumento": "voz",
+      "nota": "temas 1-1, 1-2, 1-4, 2-4, 3-1, 3-3, 3-4, 4-3, 4-4, 5-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Jackie Fiske",
+      "instrumento": "voz",
+      "nota": "temas 1-1, 1-2, 1-4, 2-4, 3-1, 3-3, 3-4, 4-3, 4-4, 5-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Taylor Graves",
+      "instrumento": "voz",
+      "nota": "temas 1-1, 1-2, 1-4, 2-4, 3-1, 3-3, 3-4, 4-3, 4-4, 5-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Angelo D. Johnson Jr.",
+      "instrumento": "voz",
+      "nota": "temas 1-1, 1-2, 1-4, 2-4, 3-1, 3-3, 3-4, 4-3, 4-4, 5-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Dawn Norfleet",
+      "instrumento": "voz",
+      "nota": "temas 1-1, 1-2, 1-4, 2-4, 3-1, 3-3, 3-4, 4-3, 4-4, 5-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Patrice Quinn",
+      "instrumento": "voz",
+      "nota": "temas 1-1, 1-2, 1-4, 2-3, 2-4, 3-1, 3-3, 3-4, 4-1, 4-3, 4-4, 5-1, 5-2"
+    },
+    {
+      "musico": null,
+      "nombre": "Sonnet Simmons",
+      "instrumento": "voz",
+      "nota": "temas 1-1, 1-2, 1-4, 2-4, 3-1, 3-3, 3-4, 4-3, 4-4, 5-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Dwight Trible",
+      "instrumento": "voz",
+      "nota": "temas 1-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Dustin Warren",
+      "instrumento": "voz",
+      "nota": "temas 1-1, 1-2, 1-4, 2-4, 3-1, 3-3, 3-4, 4-3, 4-4, 5-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Amaya Washington",
+      "instrumento": "voz",
+      "nota": "temas 1-1, 1-2, 1-4, 2-4, 3-1, 3-3, 3-4, 4-3, 4-4, 5-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Steven Wayne",
+      "instrumento": "voz",
+      "nota": "temas 1-1, 1-2, 1-4, 2-4, 3-1, 3-3, 3-4, 4-3, 4-4, 5-1, 5-5"
+    },
+    {
+      "musico": null,
+      "nombre": "Mashica Winslow",
+      "instrumento": "voz",
+      "nota": "temas 1-1, 1-2, 1-4, 2-4, 3-1, 3-3, 3-4, 4-3, 4-4, 5-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Robert Miller",
+      "instrumento": "batería",
+      "nota": "temas 1-4, 3-2, 4-3"
+    },
+    {
+      "musico": null,
+      "nombre": "Gabe Noel",
+      "instrumento": "bajo eléctrico, contrabajo",
+      "nota": "temas 1-4, 4-3"
+    },
+    {
+      "musico": null,
+      "nombre": "Jonathan Pinson",
+      "instrumento": "batería",
+      "nota": "temas 1-4, 4-3"
+    },
+    {
+      "musico": null,
+      "nombre": "Jamael Dean",
+      "instrumento": "piano",
+      "nota": "temas 2-1"
+    },
+    {
+      "musico": "terrace-martin",
+      "nombre": "Terrace Martin",
+      "instrumento": "saxo alto",
+      "nota": "temas 2-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Thundercat",
+      "instrumento": "bajo eléctrico",
+      "nota": "temas 2-2, 3-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Robert Searight",
+      "instrumento": "batería",
+      "nota": "temas 2-4, 3-3, 4-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Carlos del Puerto",
+      "instrumento": "contrabajo",
+      "nota": "temas 3-2"
+    },
+    {
+      "musico": null,
+      "nombre": "Chris Dave",
+      "instrumento": "batería",
+      "nota": "temas 5-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Chris Gray",
+      "instrumento": "trompeta",
+      "nota": "temas 5-5"
+    },
+    {
+      "musico": null,
+      "nombre": "Matachi Nwosu",
+      "instrumento": "voz",
+      "nota": "temas 5-5"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -48,10 +402,16 @@
     "Dos discos, uno \"terrenal\" y otro \"celestial\": jazz espiritual en gran escala. Washington toca el saxo con su banda, coro y orquesta en temas largos de jazz espiritual. Está entre los discos esenciales de Kamasi Washington."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "88999726-f7aa-4024-adcb-429c057c5edd",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición e9b76279-507a-4e3e-a293-ce180f7fb7d4 (2018-06-22)."
+    }
+  ]
 }

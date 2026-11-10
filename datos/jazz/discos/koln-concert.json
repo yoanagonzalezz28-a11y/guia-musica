@@ -59,6 +59,11 @@
       "fuente": "critica-koln",
       "acceso": "indirecta",
       "aporta": "En la colección esencial de la Penguin Guide. Tom Hull: lo consagró como el principal pianista de su generación."
+    },
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"The Köln Concert\"."
     }
   ],
   "temas": [
@@ -79,5 +84,6 @@
       "duracion": 417
     }
   ],
-  "temasFuente": "Spotify"
+  "temasFuente": "Spotify",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia."
 }

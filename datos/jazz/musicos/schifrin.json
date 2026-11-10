@@ -17,8 +17,8 @@
     "arreglos"
   ],
   "corrientes": [
-    "rioplat",
-    "latino"
+    "latino",
+    "souljazz"
   ],
   "regiones": [
     "rio-de-la-plata",
@@ -39,7 +39,7 @@
       "discos": []
     },
     {
-      "titulo": "Jazz rioplatense",
+      "titulo": "Jazz latino",
       "desde": 1967,
       "hasta": 1993,
       "texto": "",

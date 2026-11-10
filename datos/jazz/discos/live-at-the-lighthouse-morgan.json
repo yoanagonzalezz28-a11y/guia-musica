@@ -39,9 +39,27 @@
       "musico": "morgan",
       "nombre": "Lee Morgan",
       "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Harold Mabern",
+      "instrumento": "piano",
+      "nota": "temas 2-1, 2-2"
+    },
+    {
+      "musico": null,
+      "nombre": "Jymie Merritt",
+      "instrumento": "contrabajo",
+      "nota": "temas 2-1, 2-2"
+    },
+    {
+      "musico": null,
+      "nombre": "Mickey Roker",
+      "instrumento": "batería",
+      "nota": "temas 2-1, 2-2"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "modal"
   ],
@@ -49,10 +67,16 @@
     "Su último gran disco, en vivo: modal y muy intenso. Morgan toca la trompeta con Bennie Maupin, Harold Mabern, Jymie Merritt y Mickey Roker en temas largos. Es el disco clave de Lee Morgan en la etapa \"Último grupo\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "f04f5b4c-8afe-318b-b054-1af013c0880e",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Live_at_the_Lighthouse_(Lee_Morgan_album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición e0bb8019-1ad5-4a66-bb8b-a4a28c380d7b (1971-04)."
+    }
+  ]
 }

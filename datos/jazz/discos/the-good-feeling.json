@@ -36,12 +36,94 @@
   "sello": "Mack Avenue",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Ron Blake",
+      "instrumento": "flauta, saxo soprano, saxo tenor, vientos de madera"
+    },
+    {
+      "musico": null,
+      "nombre": "Carl Maraghi",
+      "instrumento": "saxo barítono, clarinete bajo, cañas"
+    },
+    {
+      "musico": null,
+      "nombre": "Todd Williams",
+      "instrumento": "flauta, saxo tenor, vientos de madera"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Wilson",
+      "instrumento": "saxo alto, flauta, vientos de madera"
+    },
+    {
       "musico": "mcbride",
       "nombre": "Christian McBride",
-      "instrumento": "contrabajo, bajo eléctrico"
+      "instrumento": "dirección, bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "James Burton III",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Davis",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Xavier Davis",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Michael Dease",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Frank Greene",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Freddie Hendrix",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Nabate Isles",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Ulysses Owens, Jr.",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "payton",
+      "nombre": "Nicholas Payton",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Doug Purviance",
+      "instrumento": "trombón bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Loren Schoenberg",
+      "instrumento": "saxo tenor",
+      "nota": "temas 2, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Melissa Walker",
+      "instrumento": "voz",
+      "nota": "temas 4, 7, 9"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -49,10 +131,16 @@
     "Su big band: ganó un Grammy. La big band de McBride toca arreglos de swing con mucha energía. Es el disco clave de Christian McBride en la etapa \"Jazz de hoy\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "90a11c35-bd18-473b-a108-357b81ecacda",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 2aa1030c-d36a-4d90-a1d1-f95e02382573 (2011-09-27)."
+    }
+  ]
 }

@@ -24,7 +24,7 @@
   ],
   "grabacion": {
     "desde": 1926,
-    "hasta": 1926,
+    "hasta": 1939,
     "detalle": null
   },
   "edicion": {
@@ -52,5 +52,10 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "recopilacion": {
+    "desde": 1926,
+    "hasta": 1939,
+    "original": "Los temas salieron primero en discos de 78 rpm."
+  }
 }

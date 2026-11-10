@@ -36,10 +36,10 @@
     {
       "musico": "tristano",
       "nombre": "Lennie Tristano",
-      "instrumento": "piano, composición"
+      "instrumento": "piano, recording engineering"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "cool"
   ],
@@ -52,5 +52,11 @@
     "wikidata": null,
     "wikipedia": "The_New_Tristano"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"The New Tristano\"."
+    }
+  ]
 }

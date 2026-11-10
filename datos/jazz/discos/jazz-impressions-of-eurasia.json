@@ -36,12 +36,27 @@
   "sello": "Columbia",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Joe Benjamin",
+      "instrumento": "contrabajo"
+    },
+    {
       "musico": "brubeck",
       "nombre": "Dave Brubeck",
-      "instrumento": "piano, composición"
+      "instrumento": "piano"
+    },
+    {
+      "musico": "desmond",
+      "nombre": "Paul Desmond",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Morello",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "cool"
   ],
@@ -49,10 +64,16 @@
     "Inspirado en su gira por Europa y Asia. El cuarteto de Brubeck toca temas inspirados en lugares de la gira, con ritmos y escalas de otras músicas. Es uno de los discos que el banco elige para conocer a Dave Brubeck."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "a97d5d2e-4546-374d-9723-b2343da1eea5",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 629cbff2-e3df-4676-b671-8be08b03eca4 (1958)."
+    }
+  ]
 }

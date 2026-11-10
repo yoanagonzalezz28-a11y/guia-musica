@@ -37,9 +37,19 @@
       "musico": "powell",
       "nombre": "Bud Powell",
       "instrumento": "piano"
+    },
+    {
+      "musico": "chambers",
+      "nombre": "Paul Chambers",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Art Taylor",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "hard-bop"
   ],
@@ -53,7 +63,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "The_Scene_Changes_(Bud_Powell_album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"The Scene Changes (Bud Powell album)\"."
+    }
+  ]
 }

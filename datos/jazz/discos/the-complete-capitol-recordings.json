@@ -23,7 +23,7 @@
     "tatum"
   ],
   "grabacion": {
-    "desde": 1952,
+    "desde": 1949,
     "hasta": 1952,
     "detalle": null
   },
@@ -52,5 +52,10 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "recopilacion": {
+    "desde": 1949,
+    "hasta": 1952,
+    "original": "Los temas salieron primero en discos sueltos y LP de Capitol."
+  }
 }

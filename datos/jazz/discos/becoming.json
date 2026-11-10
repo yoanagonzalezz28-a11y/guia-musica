@@ -36,12 +36,97 @@
   "sello": null,
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Tony Austin",
+      "instrumento": "percusión, batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Kenneth Crouch",
+      "instrumento": "órgano, piano, teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Yvette Devereaux",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Tylana Enomoto",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Cameron Graves",
+      "instrumento": "piano, piano eléctrico Rhodes"
+    },
+    {
+      "musico": null,
+      "nombre": "Matt Haze",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Chad Jackson",
+      "instrumento": "viola"
+    },
+    {
+      "musico": null,
+      "nombre": "Artyom Manukyan",
+      "instrumento": "violonchelo"
+    },
+    {
+      "musico": null,
+      "nombre": "Miles Mosley",
+      "instrumento": "contrabajo, bajo eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Ryan Porter",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Reiko Nakano",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Jen Simone",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Jared Snyder",
+      "instrumento": "violonchelo"
+    },
+    {
+      "musico": null,
+      "nombre": "Sean Sonderegger",
+      "instrumento": "clarinete bajo, contrabass clarinete, soprano clarinete"
+    },
+    {
       "musico": "washington",
       "nombre": "Kamasi Washington",
-      "instrumento": "saxo tenor, composición"
+      "instrumento": "saxo soprano, saxo alto, saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Rickey Washington",
+      "instrumento": "flauta, flauta alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Mike Whitson",
+      "instrumento": "viola"
+    },
+    {
+      "musico": null,
+      "nombre": "Dontae Winslow",
+      "instrumento": "trompeta"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -49,12 +134,18 @@
     "La música del documental sobre Michelle Obama. Washington compone para el documental de Netflix, con su grupo y cuerdas, en temas más cortos que los de sus discos. Está entre los discos esenciales de Kamasi Washington."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "8825bf82-3399-4c2a-a2b8-e74a9fc805c1",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 06e7c844-0431-449a-b04d-a8ff7a2bf36c (2020-05-15)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Shot Out Of A Cannon",

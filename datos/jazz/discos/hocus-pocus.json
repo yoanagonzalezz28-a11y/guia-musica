@@ -38,10 +38,23 @@
     {
       "musico": "fletcher-henderson",
       "nombre": "Fletcher Henderson",
-      "instrumento": "piano, arreglos, dirección"
+      "instrumento": "piano",
+      "nota": "temas 15"
+    },
+    {
+      "musico": null,
+      "nombre": "Horace Henderson",
+      "instrumento": "piano",
+      "nota": "temas 16, 17"
+    },
+    {
+      "musico": null,
+      "nombre": "Roy Eldridge",
+      "instrumento": "voz",
+      "nota": "temas 17"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "swing"
   ],
@@ -49,10 +62,16 @@
     "Grabaciones de 1927 a 1936, con \"Hocus Pocus\" y \"Wrappin' It Up\". La orquesta de Henderson toca arreglos de swing con solistas como Coleman Hawkins y Roy Eldridge. Es uno de los discos que el banco elige para conocer a Fletcher Henderson."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "0c2f998c-e8b8-39b0-96a7-a6509e390fd4",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición a9ae71ca-9d23-41c6-aa90-093513da9166 (1989)."
+    }
+  ]
 }

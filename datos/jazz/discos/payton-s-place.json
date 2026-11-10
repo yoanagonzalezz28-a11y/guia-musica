@@ -38,9 +38,47 @@
       "musico": "payton",
       "nombre": "Nicholas Payton",
       "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Reuben Rogers",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Adonis Rose",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Tim Warfield",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Anthony Wonsey",
+      "instrumento": "piano"
+    },
+    {
+      "musico": "hargrove",
+      "nombre": "Roy Hargrove",
+      "instrumento": "trompeta",
+      "nota": "temas 2, 8"
+    },
+    {
+      "musico": "marsalis",
+      "nombre": "Wynton Marsalis",
+      "instrumento": "trompeta",
+      "nota": "temas 2, 10"
+    },
+    {
+      "musico": "redman",
+      "nombre": "Joshua Redman",
+      "instrumento": "saxo tenor",
+      "nota": "temas 4"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "neotrad"
   ],
@@ -48,10 +86,16 @@
     "Con Roy Hargrove y Wynton Marsalis: trompeta de Nueva Orleans moderna. Payton toca la trompeta con un sonido brillante y un repertorio que va del jazz tradicional al hard bop. Es uno de los discos que el banco elige para conocer a Nicholas Payton."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "6a864a4d-25a6-3252-bdae-0516aa862f2d",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 1adaa657-f85f-4a32-9a56-b5385e7f5cda (1998-06-09)."
+    }
+  ]
 }

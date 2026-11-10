@@ -36,12 +36,99 @@
   "sello": "Contemporary",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Marty Paich",
+      "instrumento": "dirección"
+    },
+    {
+      "musico": null,
+      "nombre": "Vincent DeRosa",
+      "instrumento": "corno"
+    },
+    {
+      "musico": null,
+      "nombre": "Bob Enevoldsen",
+      "instrumento": "trombón de pistones, saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Med Flory",
+      "instrumento": "saxo barítono"
+    },
+    {
+      "musico": null,
+      "nombre": "Russ Freeman",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Herb Geller",
+      "instrumento": "saxo alto",
+      "nota": "temas 1, 2, 3, 4, 5, 7, 8, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Richie Kamuca",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1, 5, 7, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Charlie Kennedy",
+      "instrumento": "saxo alto",
+      "nota": "temas 1, 5, 7, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Mel Lewis",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Mondragon",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Dick Nash",
+      "instrumento": "trombón"
+    },
+    {
       "musico": "pepper",
       "nombre": "Art Pepper",
-      "instrumento": "saxo alto"
+      "instrumento": "saxo tenor, saxo alto, clarinete"
+    },
+    {
+      "musico": null,
+      "nombre": "Al Porcino",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 2, 5, 6, 7, 9, 11, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Jack Sheldon",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Bill Perkins",
+      "instrumento": "saxo tenor",
+      "nota": "temas 2, 3, 4, 6, 8, 9, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Bud Shank",
+      "instrumento": "saxo alto",
+      "nota": "temas 2, 6, 9, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Pete Candoli",
+      "instrumento": "trompeta",
+      "nota": "temas 3, 4, 8, 10"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "cool"
   ],
@@ -49,10 +136,16 @@
     "Saxo alto con una big band de once músicos, en clásicos del bebop. Marty Paich arregla temas de Parker, Monk y Gillespie: es casi un repaso del bebop desde la costa oeste. Está entre los discos esenciales de Art Pepper."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "a60f71c7-56b4-3270-9c12-051f8c460d0c",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 69967bb3-6700-4e07-898b-d2b267bc30f0 (1959)."
+    }
+  ]
 }

@@ -1,0 +1,65 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2bF9vZG92EocmLQdS1M1Ro",
+    "tituloEnSpotify": "Brand New Life",
+    "via": "api-spotify"
+  },
+  "id": "brand-new-life",
+  "titulo": "Brand New Life",
+  "credito": "Brandee Younger",
+  "lideres": [
+    "brandee-younger"
+  ],
+  "grabacion": {
+    "desde": 2023,
+    "hasta": 2023,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2023,
+    "detalle": null
+  },
+  "sello": "Impulse!",
+  "musicos": [
+    {
+      "musico": "brandee-younger",
+      "nombre": "Brandee Younger",
+      "instrumento": "arpa, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy",
+    "souljazz"
+  ],
+  "comentario": [
+    "Arpa con invitados del soul y el hip hop, en temas de Dorothy Ashby y propios. Es un homenaje a Ashby, la pionera del arpa en el jazz, con temas que ella nunca llegó a grabar. Es uno de los discos que el banco elige para conocer a Brandee Younger."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-brandee-younger",
+      "acceso": "extracto",
+      "aporta": "Homenaje a Dorothy Ashby."
+    }
+  ]
+}

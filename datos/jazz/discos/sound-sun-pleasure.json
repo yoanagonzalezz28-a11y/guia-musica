@@ -36,12 +36,83 @@
   "sello": "El Saturn",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Marshall Allen",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Charles Davis",
+      "instrumento": "saxo barítono"
+    },
+    {
+      "musico": null,
+      "nombre": "Danny Davis",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Hobart Dotson",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Akh Tal Ebah",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "John Gilmore",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Nimrod Hunt",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "James Jacson",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Clifford Jarvis",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Robert Northern",
+      "instrumento": "fliscorno"
+    },
+    {
+      "musico": null,
+      "nombre": "Pat Patrick",
+      "instrumento": "saxo barítono"
+    },
+    {
+      "musico": null,
+      "nombre": "James Spaulding",
+      "instrumento": "cañas"
+    },
+    {
       "musico": "sunra",
       "nombre": "Sun Ra",
-      "instrumento": "piano, sintetizador, composición"
+      "instrumento": "teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Danny Ray Thompson",
+      "instrumento": "cañas"
+    },
+    {
+      "musico": null,
+      "nombre": "Hatty Randolph",
+      "instrumento": "voz",
+      "nota": "temas 1, 4"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "swing"
   ],
@@ -49,12 +120,18 @@
     "Grabaciones de fines de los 50: el Sun Ra más cercano al swing de Fletcher Henderson. La Arkestra toca estándares y temas propios con arreglos de big band y un swing muy clásico. Está entre los discos esenciales de Sun Ra."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "0c0cc5f4-9d27-36b2-964f-13f16739db0d",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición fd397486-039d-4556-b06e-7ada306d6027 (1970)."
+    }
+  ],
   "temas": [
     {
       "titulo": "'Round Midnight",

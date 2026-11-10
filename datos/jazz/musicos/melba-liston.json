@@ -1,0 +1,52 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "melba-liston",
+  "nombre": "Melba Liston",
+  "nacimiento": {
+    "anio": 1926,
+    "lugar": "Kansas City"
+  },
+  "muerte": {
+    "anio": 1999
+  },
+  "instrumentos": [
+    "trombón",
+    "arreglos",
+    "composición"
+  ],
+  "corrientes": [
+    "hard-bop"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Trombonista y arregladora: fue la primera mujer en tocar el trombón en las big bands de los 40, y después una de las grandes arregladoras del jazz, sobre todo junto a Randy Weston.",
+  "epocas": [
+    {
+      "titulo": "Hard bop",
+      "desde": 1958,
+      "hasta": 1960,
+      "texto": "",
+      "discoClave": {
+        "disco": "melba-liston-and-her-bones",
+        "explicacion": "Su único disco como líder en los 50."
+      },
+      "discos": [
+        "uhuru-afrika"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-melba-liston"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "melba-liston-and-her-bones",
+    "uhuru-afrika"
+  ]
+}

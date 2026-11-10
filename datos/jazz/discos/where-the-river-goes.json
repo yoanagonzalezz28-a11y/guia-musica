@@ -34,12 +34,32 @@
   "sello": "ECM",
   "musicos": [
     {
+      "musico": "akinmusire",
+      "nombre": "Ambrose Akinmusire",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Larry Grenadier",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Eric Harland",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "mehldau",
+      "nombre": "Brad Mehldau",
+      "instrumento": "piano"
+    },
+    {
       "musico": "muthspiel",
       "nombre": "Wolfgang Muthspiel",
-      "instrumento": "guitarra, composición"
+      "instrumento": "guitarra"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm"
   ],
@@ -47,12 +67,18 @@
     "El mismo grupo, más suelto y abierto. Muthspiel toca la guitarra con Akinmusire, Mehldau, Grenadier y Eric Harland, en temas lentos. Es uno de los discos que el banco elige para conocer a Wolfgang Muthspiel."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "740ee0f3-09fa-4fc7-9dab-cfc1e992d259",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 485162f2-f705-4712-ad40-dfd588f72688 (2018-10-05)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Where The River Goes",

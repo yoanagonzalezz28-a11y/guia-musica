@@ -36,10 +36,162 @@
     {
       "musico": "oliver-nelson",
       "nombre": "Oliver Nelson",
-      "instrumento": "saxo, arreglos, composición"
+      "instrumento": "dirección, saxo, saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Ray Alonge",
+      "instrumento": "corno",
+      "nota": "temas 1, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Bob Ashton",
+      "instrumento": "clarinete, flauta, saxo tenor",
+      "nota": "temas 1, 3, 6, 7"
+    },
+    {
+      "musico": "barretto",
+      "nombre": "Ray Barretto",
+      "instrumento": "bongós, congas, percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Jim Buffington",
+      "instrumento": "corno",
+      "nota": "temas 1, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Don Butterfield",
+      "instrumento": "tuba"
+    },
+    {
+      "musico": null,
+      "nombre": "Art Davis",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Jerry Dodgion",
+      "instrumento": "saxo alto, flauta, vientos de madera",
+      "nota": "temas 1, 3, 4, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Faulise",
+      "instrumento": "trombón",
+      "nota": "temas 1, 3, 4, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Urbie Green",
+      "instrumento": "trombón",
+      "nota": "temas 1, 3, 4, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Jerry Kail",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 3, 4, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Pete Makis",
+      "instrumento": "violonchelo",
+      "nota": "temas 1, 3, 4, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Charles McCracken",
+      "instrumento": "violonchelo",
+      "nota": "temas 1, 3, 4, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Newman",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 3, 4, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Ernie Royal",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 3, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Ed Shaughnessy",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Julius Watkins",
+      "instrumento": "corno",
+      "nota": "temas 1, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Wilder",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 3, 4, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Britt Woodman",
+      "instrumento": "trombón",
+      "nota": "temas 1, 3, 4, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Byers",
+      "instrumento": "trombón",
+      "nota": "temas 2, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Eric Dixon",
+      "instrumento": "flauta, saxo tenor",
+      "nota": "temas 2, 3, 5, 6, 7"
+    },
+    {
+      "musico": "melba-liston",
+      "nombre": "Melba Liston",
+      "instrumento": "trombón",
+      "nota": "temas 2, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Clyde Reasinger",
+      "instrumento": "trompeta",
+      "nota": "temas 2, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Patti Bown",
+      "instrumento": "piano",
+      "nota": "temas 3, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Babe Clark",
+      "instrumento": "saxo barítono, clarinete",
+      "nota": "temas 3, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Robert Ashton",
+      "instrumento": "vientos de madera",
+      "nota": "temas 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Ernie Royal and His Princes",
+      "instrumento": "trompeta",
+      "nota": "temas 4"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -47,10 +199,16 @@
     "Una suite para orquesta sobre la historia afroamericana. Nelson escribe para una orquesta grande con secciones de vientos que recuerdan su trabajo en The Blues and the Abstract Truth. Está entre los discos esenciales de Oliver Nelson."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "a9bdb2a2-7b0d-45b5-a5f0-80aa3f6b2fbe",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición e9d7fb14-b9fb-4497-8087-6a7b759d7aac (1962)."
+    }
+  ]
 }

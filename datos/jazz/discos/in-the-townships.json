@@ -34,12 +34,32 @@
   "sello": "Caroline",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Mongezi Feza",
+      "instrumento": "percusión, congas, trompeta, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Harry Miller",
+      "instrumento": "bajo eléctrico, contrabajo, bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Biso Mngqikana",
+      "instrumento": "percusión, saxo tenor, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Louis Moholo",
+      "instrumento": "percusión, batería"
+    },
+    {
       "musico": "pukwana",
       "nombre": "Dudu Pukwana",
-      "instrumento": "saxo alto"
+      "instrumento": "percusión, congas, saxo alto, voz"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -47,10 +67,16 @@
     "Saxo alto con melodías de los townships sudafricanos y mucho ritmo. Pukwana era sudafricano, exiliado en Londres, y Spear fue su grupo después de los Blue Notes. En la ficha de Dudu Pukwana es el disco que representa la etapa \"Jazz del mundo\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "526e009a-75cf-3cd6-8976-42ce93e34c91",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición f150237a-750b-49cd-b521-895ed8e0c008 (1974)."
+    }
+  ]
 }

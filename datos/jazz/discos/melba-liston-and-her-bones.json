@@ -1,0 +1,85 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Melba Liston Melba Liston and Her 'Bones"
+  },
+  "id": "melba-liston-and-her-bones",
+  "titulo": "Melba Liston and Her 'Bones",
+  "credito": "Melba Liston",
+  "lideres": [
+    "melba-liston"
+  ],
+  "grabacion": {
+    "desde": 1958,
+    "hasta": 1958,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1958,
+    "detalle": null
+  },
+  "sello": "MetroJazz",
+  "musicos": [
+    {
+      "musico": "melba-liston",
+      "nombre": "Melba Liston",
+      "instrumento": "trombón, arreglos"
+    },
+    {
+      "musico": null,
+      "nombre": "Slide Hampton",
+      "instrumento": "trombón, tuba, arreglos",
+      "nota": "temas tracks 3–6 & 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Ray Bryant",
+      "instrumento": "piano",
+      "nota": "temas tracks 3–6 & 8"
+    },
+    {
+      "musico": "burrell",
+      "nombre": "Kenny Burrell",
+      "instrumento": "guitarra",
+      "nota": "temas tracks 1, 2 & 7"
+    }
+  ],
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Un grupo con varios trombones al frente, en arreglos de hard bop cálidos y muy cuidados. Fue su primer disco como líder, cuando ya era una de las arregladoras más buscadas. Es el disco clave de Melba Liston en la etapa \"Hard bop\"."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Melba_Liston_and_Her_'Bones"
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-melba-liston",
+      "acceso": "extracto",
+      "aporta": "Trombonista y arregladora."
+    },
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Melba Liston and Her 'Bones\"."
+    }
+  ]
+}

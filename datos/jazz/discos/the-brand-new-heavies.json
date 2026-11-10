@@ -38,9 +38,51 @@
       "musico": "brand-new-heavies",
       "nombre": "The Brand New Heavies",
       "instrumento": "grupo"
+    },
+    {
+      "musico": null,
+      "nombre": "Robert Carter",
+      "instrumento": "teclados",
+      "nota": "temas 1, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Andy Bush",
+      "instrumento": "trompeta",
+      "nota": "temas 2, 3, 7, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "N’Dea Davenport",
+      "instrumento": "voz",
+      "nota": "temas 4, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Ceri Evans",
+      "instrumento": "teclados",
+      "nota": "temas 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Mike Smith",
+      "instrumento": "saxo alto, saxo tenor",
+      "nota": "temas 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Joan Walker",
+      "instrumento": "saxo barítono",
+      "nota": "temas 9"
+    },
+    {
+      "musico": null,
+      "nombre": "John Wilmot",
+      "instrumento": "saxo tenor",
+      "nota": "temas 9"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "acid"
   ],
@@ -48,10 +90,16 @@
     "Su debut: funk y soul de los 70 tocados con la energía de los clubes de Londres. La banda toca funk y soul con vientos y voces. Es el disco clave de The Brand New Heavies en la etapa \"Acid jazz\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "4370aee8-2651-3397-acf6-01c70e538226",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 351aa792-8e51-47c8-b93a-1dad0cdc4d3f (1990)."
+    }
+  ]
 }

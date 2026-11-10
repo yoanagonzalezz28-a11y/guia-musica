@@ -38,9 +38,52 @@
       "musico": "nubya",
       "nombre": "Nubya Garcia",
       "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Armon-Jones",
+      "instrumento": "teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Daniel Casimir",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Sam Jones",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Jansen Santana",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Strings",
+      "instrumento": "chineke! orquesta"
+    },
+    {
+      "musico": "esperanza",
+      "nombre": "Esperanza Spalding",
+      "instrumento": "voz",
+      "nota": "temas track 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Richie",
+      "instrumento": "voz",
+      "nota": "temas track 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Georgia Anne Muldrow",
+      "instrumento": "voz",
+      "nota": "temas track 7"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "hoy"
   ],
@@ -51,7 +94,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Odyssey_(Nubya_Garcia_album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Odyssey (Nubya Garcia album)\"."
+    }
+  ]
 }

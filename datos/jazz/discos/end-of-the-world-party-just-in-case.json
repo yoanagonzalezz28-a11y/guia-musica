@@ -39,9 +39,39 @@
       "musico": "mmw",
       "nombre": "Medeski, Martin & Wood",
       "instrumento": "grupo"
+    },
+    {
+      "musico": null,
+      "nombre": "John Medeski",
+      "instrumento": "teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Martin",
+      "instrumento": "batería, percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Chris Wood",
+      "instrumento": "basses"
+    },
+    {
+      "musico": null,
+      "nombre": "Marc Ribot",
+      "instrumento": "guitarra on tracks 3, 5, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Steven Bernstein",
+      "instrumento": "slide trompeta on track 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Briggan Krauss",
+      "instrumento": "saxo on track 10"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "fusion"
   ],
@@ -52,9 +82,15 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "End_of_the_World_Party_(Just_in_Case)"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"End of the World Party (Just in Case)\"."
+    }
+  ],
   "temas": [
     {
       "titulo": "Anonymous Skulls",

@@ -36,12 +36,32 @@
   "sello": "Greenleaf",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Jason Lindner",
+      "instrumento": "piano eléctrico, piano, sintetizador, teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "David Binney",
+      "instrumento": "voz, sintetizador"
+    },
+    {
+      "musico": "guiliana",
+      "nombre": "Mark Guiliana",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Tim Lefebvre",
+      "instrumento": "bajo eléctrico"
+    },
+    {
       "musico": "mccaslin",
       "nombre": "Donny McCaslin",
       "instrumento": "saxo tenor"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -54,7 +74,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 7fdd7317-2a69-4ddf-967b-bd3d170bc30c (2012-10-02)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Stadium Jazz (feat. Donny McCaslin, Jason Lindner, Tim Lefebvre & Mark Guiliana)",

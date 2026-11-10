@@ -38,9 +38,64 @@
       "musico": "incognito",
       "nombre": "Incognito",
       "instrumento": "grupo"
+    },
+    {
+      "musico": null,
+      "nombre": "Bluey",
+      "instrumento": "guitarra, teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Richard Bull",
+      "instrumento": "batería, percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Patrick Clahar",
+      "instrumento": "saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Thomas Dyani",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Andy Gangadeen",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Graham Harvey",
+      "instrumento": "teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Peter Hinds",
+      "instrumento": "teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Randy Hope-Taylor",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Kevin Robinson",
+      "instrumento": "fliscorno, trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Fayyaz Virji",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Maysa",
+      "instrumento": "voz"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "acid"
   ],
@@ -48,10 +103,16 @@
     "Con \"Don't You Worry 'bout a Thing\", de Stevie Wonder: jazz funk con vientos y voces. Incognito toca funk y soul con vientos y voces, en temas bailables. Es uno de los discos que el banco elige para conocer a Incognito."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "99da4c80-f433-3793-8b98-d3a6e73871ca",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 3c098f65-8660-4c57-9b35-ce16d7123e02 (1992)."
+    }
+  ]
 }

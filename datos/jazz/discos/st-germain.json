@@ -33,12 +33,90 @@
   "sello": "Parlophone",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Jorge Bezerra",
+      "instrumento": "guitarra, percusión",
+      "nota": "temas 1-1, 1-3, 1-4, 2-1, 2-2, 2-3, 2-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Didier Davidas",
+      "instrumento": "teclados, percusión",
+      "nota": "temas 1-1, 1-3, 2-1, 2-3, 2-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Guimba Kouyate",
+      "instrumento": "guitarra, ngɔni",
+      "nota": "temas 1-1, 1-2, 1-3, 1-4, 2-2, 2-3"
+    },
+    {
+      "musico": null,
+      "nombre": "Chérif Soumano",
+      "instrumento": "kora",
+      "nota": "temas 1-1"
+    },
+    {
       "musico": "st-germain",
       "nombre": "St Germain",
-      "instrumento": "producción, teclados"
+      "instrumento": "recorder"
+    },
+    {
+      "musico": null,
+      "nombre": "Nahawa Doumbia",
+      "instrumento": "voz",
+      "nota": "temas 1-2"
+    },
+    {
+      "musico": null,
+      "nombre": "Fanta Bagayogo",
+      "instrumento": "voz",
+      "nota": "temas 1-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Adama Coulibaly",
+      "instrumento": "kamale ngɔni, voz",
+      "nota": "temas 2-1, 2-3"
+    },
+    {
+      "musico": null,
+      "nombre": "Edouard Labor",
+      "instrumento": "saxo",
+      "nota": "temas 2-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Alune Wade",
+      "instrumento": "bajo",
+      "nota": "temas 2-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Sekou Bah",
+      "instrumento": "guitarra",
+      "nota": "temas 2-2"
+    },
+    {
+      "musico": null,
+      "nombre": "Zoumana Tereta",
+      "instrumento": "violín, voz",
+      "nota": "temas 2-2"
+    },
+    {
+      "musico": null,
+      "nombre": "Cheikh Lo Ouza Diallo",
+      "instrumento": "kora",
+      "nota": "temas 2-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Sadio Kone",
+      "instrumento": "ngɔni",
+      "nota": "temas 1-3, 2-2, 2-3, 2-4"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "acid"
   ],
@@ -46,10 +124,16 @@
     "House con guitarras, voces y percusión de Mali, en un groove lento y continuo. Fue su primer disco en quince años, después del éxito de *Tourist* (2000). En la ficha de St Germain es el disco que representa la etapa \"Acid jazz\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "a09d1d27-914b-4be7-975e-0005e50662c0",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición cac8eab9-d6c7-4b3f-aaf1-2903792377b4 (2015-10-09)."
+    }
+  ]
 }

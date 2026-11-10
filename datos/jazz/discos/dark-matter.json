@@ -38,10 +38,90 @@
     {
       "musico": "moses-boyd",
       "nombre": "Moses Boyd",
-      "instrumento": "batería, producción"
+      "instrumento": "batería, batería programación, songwriter"
+    },
+    {
+      "musico": null,
+      "nombre": "Nathaniel Cross",
+      "instrumento": "arrangement, trombón, songwriter"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Armon-Jones",
+      "instrumento": "teclados, sintetizador, piano eléctrico Rhodes, songwriter"
+    },
+    {
+      "musico": null,
+      "nombre": "Michael Underwood",
+      "instrumento": "saxo tenor, flauta"
+    },
+    {
+      "musico": null,
+      "nombre": "Ife Ogunjobe",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Theon Cross",
+      "instrumento": "tuba"
+    },
+    {
+      "musico": null,
+      "nombre": "Artie Zaitz",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": "nubya",
+      "nombre": "Nubya Garcia",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Phillip Harper",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Binker Golding",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Poppy Ajudha",
+      "instrumento": "voz, songwriter"
+    },
+    {
+      "musico": null,
+      "nombre": "Arnaud Gichaud",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Chelsea Carmichael",
+      "instrumento": "saxo barítono"
+    },
+    {
+      "musico": null,
+      "nombre": "Steven Umoh",
+      "instrumento": "voz, songwriter"
+    },
+    {
+      "musico": null,
+      "nombre": "Nonku Phiri",
+      "instrumento": "voz, songwriter"
+    },
+    {
+      "musico": null,
+      "nombre": "Klein",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Gary Crosby",
+      "instrumento": "voz"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "hoy"
   ],
@@ -52,7 +132,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Dark_Matter_(Moses_Boyd_album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Dark Matter (Moses Boyd album)\"."
+    }
+  ]
 }

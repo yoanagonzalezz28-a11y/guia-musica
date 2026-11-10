@@ -35,12 +35,115 @@
   "sello": "Dafnison Music",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Peter Apfelbaum",
+      "instrumento": "saxo tenor, saxo soprano, melódica, vientos"
+    },
+    {
+      "musico": null,
+      "nombre": "Josh Deutsch",
+      "instrumento": "trompeta, fliscorno, vientos de metal"
+    },
+    {
+      "musico": null,
+      "nombre": "Nathan Eklund",
+      "instrumento": "trompeta, fliscorno, vientos de metal"
+    },
+    {
+      "musico": null,
+      "nombre": "Román Filiú",
+      "instrumento": "saxo soprano, saxo alto, flauta, clarinete, vientos de madera"
+    },
+    {
+      "musico": null,
+      "nombre": "Joel Frahm",
+      "instrumento": "saxo tenor, saxo soprano, saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Roberto Quintero",
+      "instrumento": "congas, bongós, percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Mike Rodriguez",
+      "instrumento": "trompeta, fliscorno, vientos de metal"
+    },
+    {
+      "musico": null,
+      "nombre": "Ricardo Rodriguez",
+      "instrumento": "contrabajo guitarra, bajo eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Alex Sipiagin",
+      "instrumento": "trompeta, fliscorno, vientos de metal"
+    },
+    {
+      "musico": null,
+      "nombre": "Michael Thomas",
+      "instrumento": "saxo soprano, saxo alto, flauta, vientos de madera"
+    },
+    {
+      "musico": null,
+      "nombre": "Tim Albright",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Chris Cheek",
+      "instrumento": "saxo barítono"
+    },
+    {
+      "musico": null,
+      "nombre": "Alan Ferber",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Jacob Garchik",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Brian Lynch",
+      "instrumento": "trompeta",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Jeff Nelson",
+      "instrumento": "trombón bajo"
+    },
+    {
       "musico": "dafnis-prieto",
       "nombre": "Dafnis Prieto",
-      "instrumento": "batería, composición"
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Ricky Rodriguez",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Manuel Valera",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Henry Threadgill",
+      "instrumento": "saxo alto",
+      "nota": "temas 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Coleman",
+      "instrumento": "saxo alto",
+      "nota": "temas 6"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "latino"
   ],
@@ -48,10 +151,16 @@
     "Su big band: ganó un Grammy al mejor disco de jazz latino. La big band de Prieto toca arreglos densos con ritmos cubanos y solistas invitados como Brian Lynch y Henry Threadgill. Está entre los discos esenciales de Dafnis Prieto."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "619806d1-d1d4-4fad-912a-0b7186c71e5d",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición be08c30d-17e9-449a-b7b3-7f4b6faf16f0 (2018-04-06)."
+    }
+  ]
 }

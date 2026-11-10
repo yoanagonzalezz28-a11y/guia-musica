@@ -36,12 +36,24 @@
   "sello": "Riverside",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Jimmy Cobb",
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 4, 5, 6, 7, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Sam Jones",
+      "instrumento": "bajo",
+      "nota": "temas 1, 2, 4, 5, 6, 7, 8, 9"
+    },
+    {
       "musico": "timmons",
       "nombre": "Bobby Timmons",
-      "instrumento": "piano, composición"
+      "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "souljazz"
   ],
@@ -54,7 +66,13 @@
     "wikidata": null,
     "wikipedia": "This_Here_Is_Bobby_Timmons"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición ad8c1d08-8896-48b9-9deb-ce7a97208b23 (1960-11)."
+    }
+  ],
   "temas": [
     {
       "titulo": "This Here",

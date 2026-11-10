@@ -35,12 +35,27 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": "clarke",
+      "nombre": "Kenny Clarke",
+      "instrumento": "batería"
+    },
+    {
       "musico": "dexter",
       "nombre": "Dexter Gordon",
       "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Pierre Michelot",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "powell",
+      "nombre": "Bud Powell",
+      "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -48,10 +63,16 @@
     "Con Bud Powell y Kenny Clarke en París: bebop clásico tocado con una seguridad enorme. Gordon toca el saxo tenor con Powell, Clarke y Pierre Michelot, en estándares del bebop. Es uno de los discos que el banco elige para conocer a Dexter Gordon."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "32a4aa6d-9e48-32ce-8cf9-deea48888023",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Our_Man_in_Paris"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 6fbcc726-7c09-4012-8599-2004500cb941 (1963-11)."
+    }
+  ]
 }

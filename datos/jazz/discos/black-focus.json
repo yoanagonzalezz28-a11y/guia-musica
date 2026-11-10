@@ -38,10 +38,53 @@
     {
       "musico": "yussef-dayes",
       "nombre": "Yussef Dayes",
-      "instrumento": "batería"
+      "instrumento": "batería, percusión",
+      "nota": "temas 1, 2, 3, 4, 5, 7, 9, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Tom Driessler",
+      "instrumento": "bajo eléctrico",
+      "nota": "temas 1, 2, 4, 7, 10"
+    },
+    {
+      "musico": "hutchings",
+      "nombre": "Shabaka Hutchings",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Yelfris Carlos Valdés Espinosa",
+      "instrumento": "trompeta, voz",
+      "nota": "temas 1, 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Henry Wu",
+      "instrumento": "piano eléctrico Rhodes, Mellotron, sintetizador",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 9, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Kareem Dayes",
+      "instrumento": "bajo eléctrico",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Gordon Wedderburn",
+      "instrumento": "voz",
+      "nota": "temas 6, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Mansur Brown",
+      "instrumento": "guitarra eléctrica",
+      "nota": "temas 7, 8"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -49,12 +92,18 @@
     "Dúo con el tecladista Kamaal Williams: un disco clave de la nueva escena de Londres. La batería de Yussef Dayes y los teclados de Kamaal Williams mezclan jazz, broken beat y hip hop en temas cortos y muy bailables. Es el disco clave de Yussef Dayes en la etapa \"Jazz de hoy\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "d3a2d680-b1b0-49b4-84b2-7f9cdfbce9f1",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición f5f47021-c189-42dd-89db-d64c161a8c6d (2016-11-04)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Black Focus",

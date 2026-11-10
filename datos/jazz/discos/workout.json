@@ -36,12 +36,32 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": "chambers",
+      "nombre": "Paul Chambers",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "green",
+      "nombre": "Grant Green",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": "philly-joe-jones",
+      "nombre": "Philly Joe Jones",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "wynton-kelly",
+      "nombre": "Wynton Kelly",
+      "instrumento": "piano"
+    },
+    {
       "musico": "mobley",
       "nombre": "Hank Mobley",
       "instrumento": "saxo tenor"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -49,12 +69,18 @@
     "Con Grant Green y Wynton Kelly: hard bop con mucho groove y solos largos. Mobley toca el saxo tenor con Green, Kelly, Chambers y Philly Joe Jones. Es uno de los discos que el banco elige para conocer a Hank Mobley."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "71b3e5e8-3683-3b96-82c0-abf57a989604",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Workout_(album)"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 7b5d468a-53ae-403d-8607-88bb8d52fa02 (1961)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Workout - Remastered 2005",

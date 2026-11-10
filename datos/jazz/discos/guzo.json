@@ -39,9 +39,147 @@
       "musico": "yirga",
       "nombre": "Samuel Yirga",
       "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Tewodros Alula",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Count Dubulah",
+      "instrumento": "guitarra, voz",
+      "nota": "temas 1, 5, 6, 8, 10, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Yishak Dawit",
+      "instrumento": "trombón",
+      "nota": "temas 1, 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Missalé Légessé",
+      "instrumento": "percusión",
+      "nota": "temas 1, 3, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Frew Mengiste",
+      "instrumento": "bajo eléctrico",
+      "nota": "temas 1, 3, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Aklilu W/Yohannes",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1, 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Yonas Yimam",
+      "instrumento": "percusión",
+      "nota": "temas 1, 3, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Chivers",
+      "instrumento": "congas, percusión",
+      "nota": "temas 2, 6, 8, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Feleke Hailu",
+      "instrumento": "saxo tenor",
+      "nota": "temas 2, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Bernard O'Neill",
+      "instrumento": "contrabajo",
+      "nota": "temas 2, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Ben Somers",
+      "instrumento": "saxo barítono, flauta, saxo tenor",
+      "nota": "temas 2, 6, 8, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Clark Tracey",
+      "instrumento": "batería",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Neil Waters",
+      "instrumento": "fliscorno, trompeta",
+      "nota": "temas 2, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Winston Blissett",
+      "instrumento": "bajo eléctrico",
+      "nota": "temas 6, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Bob Dowell",
+      "instrumento": "trombón",
+      "nota": "temas 6, 8, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Greg Freeman",
+      "instrumento": "percusión",
+      "nota": "temas 6, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Nick Van Gelder",
+      "instrumento": "cuíca, batería",
+      "nota": "temas 6, 8, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Toby Mills",
+      "instrumento": "palmas, pandereta, congas, djembé",
+      "nota": "temas 6, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Jonathan Radcliffe",
+      "instrumento": "fliscorno, trompeta",
+      "nota": "temas 6, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Melinda Gareh",
+      "instrumento": "voz",
+      "nota": "temas 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Nicolette",
+      "instrumento": "voz",
+      "nota": "temas 6, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Guènnèt Masrèsha",
+      "instrumento": "voz",
+      "nota": "temas 10"
+    },
+    {
+      "musico": null,
+      "nombre": "The Creole Choir of Cuba",
+      "instrumento": "voz",
+      "nota": "temas 5, 6, 11"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo",
     "hoy"
@@ -50,7 +188,7 @@
     "Piano solo y con grupo, entre el etiojazz, el soul y la música tradicional etíope, con invitados como el Creole Choir of Cuba. Guzo quiere decir \"viaje\" en amárico, y se grabó entre Adís Abeba y los estudios Real World, en Inglaterra. Es el disco clave de Samuel Yirga en la etapa \"Jazz del mundo\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "52a579ed-58e4-4e65-9613-e63430811a30",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
@@ -65,6 +203,11 @@
       "fuente": "npr-yirga",
       "acceso": "extracto",
       "aporta": "Reseña de 2012."
+    },
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 2a2b05cf-a533-4082-b77c-a052fab2c3e0 (2012)."
     }
   ]
 }

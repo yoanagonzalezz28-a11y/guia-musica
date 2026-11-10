@@ -74,17 +74,13 @@
       "musico": null,
       "nombre": "Tomas du Vall",
       "instrumento": "percusión"
-    },
-    {
-      "musico": "abbey",
-      "nombre": "Abbey Lincoln",
-      "instrumento": "voz"
     }
   ],
   "corrientes": [
-    "hard-bop"
+    "hard-bop",
+    "free"
   ],
-  "corrienteNota": "Excede al hard bop: Wikipedia lo clasifica como jazz de vanguardia. Lo dejamos acá hasta que exista esa corriente.",
+  "corrienteNota": "Está entre el hard bop y la vanguardia: Wikipedia lo clasifica como jazz de vanguardia, y por eso figura también en el free jazz.",
   "comentario": [
     "Una suite sobre la lucha por los derechos civiles, con títulos como \"Freedom Day\" y \"Tears for Johannesburg\". Abbey Lincoln canta con una libertad poco habitual para la época. Es el ejemplo más claro de cómo el lenguaje del bop se volvió también una toma de posición."
   ],

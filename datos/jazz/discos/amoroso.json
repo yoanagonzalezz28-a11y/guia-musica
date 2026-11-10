@@ -36,12 +36,37 @@
   "sello": "Warner Bros.",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Claus Ogerman",
+      "instrumento": "dirección"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Correro",
+      "instrumento": "batería"
+    },
+    {
       "musico": "joao",
       "nombre": "João Gilberto",
       "instrumento": "guitarra, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Ralph Grierson",
+      "instrumento": "teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Jim Hughart",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Grady Tate",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "brasil"
   ],
@@ -49,10 +74,16 @@
     "Con arreglos de cuerdas de Claus Ogerman: estándares estadounidenses y bossas, todo en un susurro. Gilberto canta casi en voz baja y su guitarra marca el ritmo de la bossa, mientras las cuerdas de Ogerman envuelven todo. Está entre los discos esenciales de João Gilberto."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "2840ef0d-f8c2-39f6-8fba-92945ab78506",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Amoroso_(album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 61ad55a9-bb35-4318-b29b-367ff296c959 (1977)."
+    }
+  ]
 }

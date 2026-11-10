@@ -39,9 +39,74 @@
       "musico": "holiday",
       "nombre": "Billie Holiday",
       "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Quinichette",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Charlie Shavers",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Tony Scott",
+      "instrumento": "clarinete"
+    },
+    {
+      "musico": "wynton-kelly",
+      "nombre": "Wynton Kelly",
+      "instrumento": "piano"
+    },
+    {
+      "musico": "burrell",
+      "nombre": "Kenny Burrell",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Lenny McBrowne",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Aaron Bell",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Willie Smith",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Harry Edison",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Bobby Tucker",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Barney Kessel",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Chico Hamilton",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Red Callender",
+      "instrumento": "bajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "swing"
   ],
@@ -54,5 +119,11 @@
     "wikidata": null,
     "wikipedia": "Lady_Sings_the_Blues_(album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Lady Sings the Blues (Billie Holiday album)\"."
+    }
+  ]
 }

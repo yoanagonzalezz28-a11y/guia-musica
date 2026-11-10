@@ -36,12 +36,27 @@
   "sello": "ECM",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Zeca Assumpção",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Nando Carneiro",
+      "instrumento": "guitarra, sintetizador"
+    },
+    {
       "musico": "gismonti",
       "nombre": "Egberto Gismonti",
-      "instrumento": "guitarra, piano, composición"
+      "instrumento": "guitarra, piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Jaques Morelenbaum",
+      "instrumento": "violonchelo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "brasil"
   ],
@@ -49,10 +64,16 @@
     "Piano y guitarra con un grupo de cámara, en temas melódicos y complejos. Gismonti cruza la música popular brasileña con la clásica, con violonchelo y bajo en lugar de batería. En la ficha de Egberto Gismonti es el disco que representa la etapa \"Jazz brasileño\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "1672aae9-55fe-3091-8ec2-a5b39a6d2229",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 9702284b-03cf-4f16-a168-6bd6381ac954 (1991)."
+    }
+  ]
 }

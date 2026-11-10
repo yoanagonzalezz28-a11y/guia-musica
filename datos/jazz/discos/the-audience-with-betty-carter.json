@@ -1,0 +1,82 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Betty Carter The Audience with Betty Carter"
+  },
+  "id": "the-audience-with-betty-carter",
+  "titulo": "The Audience with Betty Carter",
+  "credito": "Betty Carter",
+  "lideres": [
+    "betty-carter"
+  ],
+  "grabacion": {
+    "desde": 1980,
+    "hasta": 1980,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1980,
+    "detalle": null
+  },
+  "sello": "Bet-Car",
+  "musicos": [
+    {
+      "musico": "betty-carter",
+      "nombre": "Betty Carter",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "John Hicks",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Curtis Lundy",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Kenny Washington",
+      "instrumento": "batería"
+    }
+  ],
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
+  "corrientes": [
+    "neotrad"
+  ],
+  "comentario": [
+    "Scat, tempos que cambian y una improvisación vocal muy libre, en vivo con su trío. Salió por Bet-Car, el sello que ella misma fundó para no depender de las discográficas. Es el disco clave de Betty Carter en la etapa \"Neotradicionalismo\"."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "The_Audience_with_Betty_Carter"
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-betty-carter",
+      "acceso": "extracto",
+      "aporta": "Técnica de improvisación y scat."
+    },
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"The Audience with Betty Carter\"."
+    }
+  ]
+}

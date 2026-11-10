@@ -36,12 +36,31 @@
   "sello": "Verve",
   "musicos": [
     {
+      "musico": "jo-jones",
+      "nombre": "Jo Jones",
+      "instrumento": "batería",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Gene Ramey",
+      "instrumento": "contrabajo",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Teddy Wilson",
+      "instrumento": "piano",
+      "nota": "temas 1"
+    },
+    {
       "musico": "young",
       "nombre": "Lester Young",
-      "instrumento": "saxo tenor"
+      "instrumento": "saxo tenor",
+      "nota": "temas 1"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "swing"
   ],
@@ -49,10 +68,16 @@
     "Saxo tenor en baladas y temas medios, con Teddy Wilson, Gene Ramey y Jo Jones. Young y Wilson habían grabado juntos con Billie Holiday en los 30, y se reencuentran tres años antes de la muerte de Young. En la ficha de Lester Young es el disco que representa la etapa \"Swing\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "20698855-1fc1-3966-bfa2-d1d9f728765f",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición fa2bba2c-f4d3-4a19-ad45-b46154a2a34a (1957)."
+    }
+  ]
 }

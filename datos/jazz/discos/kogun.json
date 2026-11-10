@@ -39,9 +39,94 @@
       "musico": "akiyoshi",
       "nombre": "Toshiko Akiyoshi",
       "instrumento": "piano, composición"
+    },
+    {
+      "musico": null,
+      "nombre": "穐吉敏子",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Gene Cherico",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Peter Donald",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Gary Foster",
+      "instrumento": "vientos de madera, saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Charles Loper",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "John Madrid",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Bill Perkins",
+      "instrumento": "vientos de madera, saxo barítono"
+    },
+    {
+      "musico": null,
+      "nombre": "Tom Peterson",
+      "instrumento": "vientos de madera, saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Mike Price",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Don Rader",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Jim Sawyer",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Bobby Shew",
+      "instrumento": "vientos de metal, trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Dick Spencer",
+      "instrumento": "vientos de madera, saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Lew Tabackin",
+      "instrumento": "vientos de madera, saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Phil Teele",
+      "instrumento": "trombón bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Britt Woodman",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Scott Elsworth",
+      "instrumento": "voz"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -49,10 +134,16 @@
     "Swing de big band con instrumentos y escalas japonesas. Fue el primer disco de la big band, y el título alude a un soldado japonés que siguió peleando en la selva décadas después de terminada la guerra. Es el disco clave de Toshiko Akiyoshi en la etapa \"Jazz del mundo\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "58e816d6-4ed1-47b2-9f7d-21abdd6d13d6",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición ec1d54c7-8b3c-3bd6-8a2e-d8cbc56a7396 (1974)."
+    }
+  ]
 }

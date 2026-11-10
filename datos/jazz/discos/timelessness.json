@@ -34,12 +34,67 @@
   "sello": "Verve",
   "musicos": [
     {
+      "musico": "henderson",
+      "nombre": "Joe Henderson",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Michael Bowie",
+      "instrumento": "voz",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Russell Herman",
+      "instrumento": "voz",
+      "nota": "temas 2"
+    },
+    {
       "musico": "mseleku",
       "nombre": "Bheki Mseleku",
-      "instrumento": "piano, saxo"
+      "instrumento": "voz",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Marvin “Smitty” Smith",
+      "instrumento": "voz",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Kent Jordan",
+      "instrumento": "flauta",
+      "nota": "temas 4, 8"
+    },
+    {
+      "musico": "abbey",
+      "nombre": "Abbey Lincoln",
+      "instrumento": "voz",
+      "nota": "temas 5"
+    },
+    {
+      "musico": "sanders",
+      "nombre": "Pharoah Sanders",
+      "instrumento": "saxo tenor",
+      "nota": "temas 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Rodney Kendrick",
+      "instrumento": "piano",
+      "nota": "temas 7"
+    },
+    {
+      "musico": "elvin",
+      "nombre": "Elvin Jones",
+      "instrumento": "batería",
+      "nota": "temas 9"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -47,10 +102,16 @@
     "Piano y saxo en temas espirituales, con Joe Henderson, Pharoah Sanders y la voz de Abbey Lincoln. Mseleku era sudafricano y vivía en el exilio en Londres, y acá graba con músicos que admiraba desde chico. En la ficha de Bheki Mseleku es el disco que representa la etapa \"Jazz del mundo\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "4f7bf2bf-ddc3-3970-93a3-c927bc03d6b2",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición f261dc0c-3c12-458b-9763-f3209d984d9a (1993-08-19)."
+    }
+  ]
 }

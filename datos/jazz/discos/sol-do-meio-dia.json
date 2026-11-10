@@ -38,10 +38,34 @@
     {
       "musico": "gismonti",
       "nombre": "Egberto Gismonti",
-      "instrumento": "guitarra, piano, composición"
+      "instrumento": "8-string guitarra, kalimba, piano, wood flutes, voz, bottle"
+    },
+    {
+      "musico": "nana",
+      "nombre": "Naná Vasconcelos",
+      "instrumento": "percusión, berimbau, tama, corpo, voz, bottle",
+      "nota": "temas tracks 2, 3 & 5"
+    },
+    {
+      "musico": "towner",
+      "nombre": "Ralph Towner",
+      "instrumento": "12 string guitarra",
+      "nota": "temas tracks 1 & 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Collin Walcott",
+      "instrumento": "tabla, bottle",
+      "nota": "temas track 2"
+    },
+    {
+      "musico": "garbarek",
+      "nombre": "Jan Garbarek",
+      "instrumento": "saxo soprano",
+      "nota": "temas track 5"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "brasil"
   ],
@@ -52,7 +76,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Sol_do_meio_dia"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Sol do meio dia\"."
+    }
+  ]
 }

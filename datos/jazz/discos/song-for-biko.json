@@ -36,12 +36,27 @@
   "sello": "SteepleChase",
   "musicos": [
     {
+      "musico": "cherry",
+      "nombre": "Don Cherry",
+      "instrumento": "corneta"
+    },
+    {
       "musico": "dyani",
       "nombre": "Johnny Dyani",
       "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Makaya Ntshoko",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "pukwana",
+      "nombre": "Dudu Pukwana",
+      "instrumento": "saxo alto"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -49,10 +64,16 @@
     "Dedicado a Steve Biko, con Don Cherry. Dyani toca el contrabajo con Cherry en trompeta, Dudu Pukwana en saxo y Makaya Ntshoko en batería. Es uno de los discos que el banco elige para conocer a Johnny Dyani."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "6da171b5-260e-4b92-ba0a-91a959e7e975",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición eb9a22fb-d8de-47c7-a15b-ce7b6c9085ee (1979)."
+    }
+  ]
 }

@@ -1,0 +1,55 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "dorothy-ashby",
+  "nombre": "Dorothy Ashby",
+  "nacimiento": {
+    "anio": 1932,
+    "lugar": "Detroit"
+  },
+  "muerte": {
+    "anio": 1986
+  },
+  "instrumentos": [
+    "arpa",
+    "voz",
+    "composición"
+  ],
+  "corrientes": [
+    "souljazz",
+    "hard-bop"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt",
+  "resumen": "Arpista de Detroit que hizo del arpa un instrumento de improvisación en el jazz moderno. Sus discos de los 60 y 70 fueron muy sampleados por el hip hop.",
+  "epocas": [
+    {
+      "titulo": "Soul jazz",
+      "desde": 1958,
+      "hasta": 1970,
+      "texto": "",
+      "discoClave": {
+        "disco": "afro-harping",
+        "explicacion": "El arpa sobre un groove de soul."
+      },
+      "discos": [
+        "hip-harp",
+        "the-rubaiyat-of-dorothy-ashby"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-dorothy-ashby"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "afro-harping",
+    "hip-harp",
+    "the-rubaiyat-of-dorothy-ashby"
+  ]
+}

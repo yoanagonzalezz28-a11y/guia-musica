@@ -35,12 +35,28 @@
   "sello": "Verve",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Alan Broadbent",
+      "instrumento": "piano",
+      "nota": "temas 1, 2, 3, 5, 6, 7"
+    },
+    {
       "musico": "haden",
       "nombre": "Charlie Haden",
       "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Higgins",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Ernie Watts",
+      "instrumento": "saxo tenor, saxo alto, saxo soprano, saxo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "cool"
   ],
@@ -48,10 +64,16 @@
     "El Los Ángeles de los años 40, en un cuarteto de una nostalgia muy cinematográfica. Haden toca el contrabajo con Ernie Watts en saxo, Alan Broadbent en piano y Billy Higgins en batería. Es el disco clave de Charlie Haden en la etapa \"Cool\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "9f97020f-e3a5-36fb-8ced-e71d48d4d41a",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición e2b0dd43-8b8f-48d7-b142-ace8898ebe27 (1987)."
+    }
+  ]
 }

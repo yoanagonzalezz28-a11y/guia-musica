@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "martin-ibarra",
+  "nombre": "Martín Ibarra",
+  "nacimiento": {
+    "anio": null,
+    "lugar": "Montevideo"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "guitarra",
+    "voz",
+    "composición",
+    "arreglos"
+  ],
+  "corrientes": [
+    "rioplat",
+    "hoy"
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "spotify": null,
+  "resumen": "Guitarrista, cantante y compositor de Montevideo que dirige Nair Mirabrat, un ensamble grande con el candombe como punto de partida.",
+  "epocas": [
+    {
+      "titulo": "Jazz rioplatense",
+      "desde": 2019,
+      "hasta": 2025,
+      "texto": "",
+      "discoClave": {
+        "disco": "juntos-ahora",
+        "explicacion": "El primer disco largo de Nair Mirabrat, producido por Antonio Loureiro."
+      },
+      "discos": [
+        "sondor",
+        "mateo-solo-bien-se-lame-por-nair-mirabrat"
+      ]
+    }
+  ],
+  "fuentes": [
+    "cyc-nair",
+    "lb-nair",
+    "busqueda-nair"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "juntos-ahora",
+    "sondor",
+    "mateo-solo-bien-se-lame-por-nair-mirabrat"
+  ]
+}

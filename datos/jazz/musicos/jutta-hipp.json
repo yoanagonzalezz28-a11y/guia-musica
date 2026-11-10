@@ -1,0 +1,50 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "jutta-hipp",
+  "nombre": "Jutta Hipp",
+  "nacimiento": {
+    "anio": 1925,
+    "lugar": "Leipzig"
+  },
+  "muerte": {
+    "anio": 2003
+  },
+  "instrumentos": [
+    "piano"
+  ],
+  "corrientes": [
+    "cool"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/1nUb2VIRkIq9Qwmg1XdI1T",
+  "resumen": "Pianista alemana, pionera del jazz de posguerra en Alemania, que en 1956 grabó para Blue Note en Nueva York y poco después dejó la música.",
+  "epocas": [
+    {
+      "titulo": "Cool",
+      "desde": 1956,
+      "hasta": 1956,
+      "texto": "",
+      "discoClave": {
+        "disco": "at-the-hickory-house-vol-1",
+        "explicacion": "Su trío en vivo en Nueva York."
+      },
+      "discos": [
+        "jutta-hipp-with-zoot-sims"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-jutta-hipp"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "at-the-hickory-house-vol-1",
+    "jutta-hipp-with-zoot-sims"
+  ]
+}

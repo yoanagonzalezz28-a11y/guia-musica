@@ -37,10 +37,25 @@
     {
       "musico": "salvant",
       "nombre": "Cécile McLorin Salvant",
-      "instrumento": "voz, composición"
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Aaron Diehl",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Sikivie",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Lawrence Leathers",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "hoy"
   ],
@@ -51,7 +66,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "For_One_to_Love"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"For One to Love\"."
+    }
+  ]
 }

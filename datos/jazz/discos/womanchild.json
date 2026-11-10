@@ -35,12 +35,32 @@
   "sello": "Mack Avenue",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "James Chirillo",
+      "instrumento": "banjo, guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Aaron Diehl",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Herlin Riley",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Rodney Whitaker",
+      "instrumento": "contrabajo"
+    },
+    {
       "musico": "salvant",
       "nombre": "Cécile McLorin Salvant",
-      "instrumento": "voz, composición"
+      "instrumento": "voz, piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -48,10 +68,16 @@
     "Estándares poco conocidos y blues antiguos, con Aaron Diehl, Rodney Whitaker y Herlin Riley. Fue su primer disco para Mack Avenue, poco después de ganar el concurso Thelonious Monk de 2010. Es el disco clave de Cécile McLorin Salvant en la etapa \"Jazz de hoy\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "420913c4-bf63-4674-9a74-9886dfdda436",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 38998b4c-7644-46a9-8436-8a00cdcaf807 (2013)."
+    }
+  ]
 }

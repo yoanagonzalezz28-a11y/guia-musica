@@ -36,12 +36,45 @@
   "sello": "Ninja Tune",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Domenico Angarano",
+      "instrumento": "bajo",
+      "nota": "temas 1, 2, 5, 6"
+    },
+    {
+      "musico": "hutchings",
+      "nombre": "Shabaka Hutchings",
+      "instrumento": "clarinete bajo, saxo tenor"
+    },
+    {
       "musico": "korwar",
       "nombre": "Sarathy Korwar",
-      "instrumento": "batería, tabla"
+      "instrumento": "batería, electronic instruments, tabla"
+    },
+    {
+      "musico": null,
+      "nombre": "Alexander MacSween",
+      "instrumento": "teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Giuliano Modarelli",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Salim Gulammohammad Sidi",
+      "instrumento": "musical bow, voz",
+      "nota": "temas 1, 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Jaideep Vaidya",
+      "instrumento": "voz",
+      "nota": "temas 5"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -49,12 +82,18 @@
     "Con músicos sidis: jazz espiritual y raíces indias. Korwar toca la batería y la tabla junto a músicos de la comunidad sidi, descendientes de africanos que viven en la India. En la ficha de Sarathy Korwar es el disco que representa la etapa \"Jazz del mundo\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "ec1fdc7c-9415-41e1-aa07-725d35735946",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 7b0f0fcd-f6a7-40cd-b8ef-e31387384ed5 (2016-07-08)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Bhajan",

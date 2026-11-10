@@ -36,12 +36,45 @@
   "sello": "Columbia",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "John Benitez",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "John Clark",
+      "instrumento": "corno",
+      "nota": "temas 1, 2, 3, 4, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Adam Cruz",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Edsel Gomez",
+      "instrumento": "piano"
+    },
+    {
       "musico": "david-sanchez",
       "nombre": "David Sánchez",
       "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Pernell Saturnino",
+      "instrumento": "congas",
+      "nota": "temas 2, 3, 6, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Richie Flores",
+      "instrumento": "congas",
+      "nota": "temas 3"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "latino"
   ],
@@ -49,10 +82,16 @@
     "El saxo tenor de Sánchez, con arreglos orquestales, en temas latinoamericanos. Sánchez es puertorriqueño y el arreglador Carlos Franzetti argentino, y el repertorio reúne canciones de distintos países de América Latina. Es el disco clave de David Sánchez en la etapa \"Jazz latino\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "b3fe53b6-5d94-36f7-96e3-d1cc48de2c1c",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 7ab48104-592b-4e41-b158-b8e08f9520a1 (1998)."
+    }
+  ]
 }

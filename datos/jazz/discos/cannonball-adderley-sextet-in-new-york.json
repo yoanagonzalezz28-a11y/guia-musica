@@ -39,9 +39,34 @@
       "musico": "adderley",
       "nombre": "Cannonball Adderley",
       "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Nat Adderley",
+      "instrumento": "corneta"
+    },
+    {
+      "musico": null,
+      "nombre": "Louis Hayes",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Sam Jones",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "lateef",
+      "nombre": "Yusef Lateef",
+      "instrumento": "saxo tenor, flauta, oboe"
+    },
+    {
+      "musico": "zawinul",
+      "nombre": "Joe Zawinul",
+      "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -54,7 +79,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición f9353ca8-ee32-4740-924c-bcc4c852837f (1962)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Introduction - Gemini",

@@ -36,10 +36,35 @@
     {
       "musico": "waller",
       "nombre": "Fats Waller",
-      "instrumento": "piano, órgano, voz"
+      "instrumento": "piano and voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Herman Autrey",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Gene Sedric",
+      "instrumento": "clarinete and saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Al Casey",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Cedric Wallace",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Slick Jones",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "origenes"
   ],
@@ -50,7 +75,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Handful_of_Keys_(album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Handful of Keys (album)\"."
+    }
+  ]
 }

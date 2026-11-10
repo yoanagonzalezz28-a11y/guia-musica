@@ -1,0 +1,123 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4tXUco03wbbPWRim2RL1uH",
+    "tituloEnSpotify": "Diatom Ribbons",
+    "via": "api-spotify"
+  },
+  "id": "diatom-ribbons",
+  "titulo": "Diatom Ribbons",
+  "credito": "Kris Davis",
+  "lideres": [
+    "kris-davis"
+  ],
+  "grabacion": {
+    "desde": 2019,
+    "hasta": 2019,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2019,
+    "detalle": null
+  },
+  "sello": "Pyroclastic",
+  "musicos": [
+    {
+      "musico": null,
+      "nombre": "J.D. Allen",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1, 10"
+    },
+    {
+      "musico": "kris-davis",
+      "nombre": "Kris Davis",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Trevor Dunn",
+      "instrumento": "contrabajo, bajo",
+      "nota": "temas 1, 2, 3, 5, 7, 8, 9, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Tony Malaby",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1, 2, 10"
+    },
+    {
+      "musico": "carrington",
+      "nombre": "Terri Lyne Carrington",
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 3, 4, 6, 7, 8, 9, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Val Jeanty",
+      "instrumento": "bandejas",
+      "nota": "temas 1, 2, 3, 4, 5, 7, 8, 9, 10"
+    },
+    {
+      "musico": "esperanza",
+      "nombre": "Esperanza Spalding",
+      "instrumento": "voz",
+      "nota": "temas 2, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Nels Cline",
+      "instrumento": "guitarra",
+      "nota": "temas 3, 7, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Ches Smith",
+      "instrumento": "vibráfono",
+      "nota": "temas 3, 5, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Marc Ribot",
+      "instrumento": "guitarra",
+      "nota": "temas 8, 9"
+    }
+  ],
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Piano con bases electrónicas, guitarras y voces grabadas, en temas que cruzan el jazz con el hip hop y la vanguardia. Davis junta a Terri Lyne Carrington, Val Jeanty y Trevor Dunn, entre otros, en su disco más ambicioso. Es el disco clave de Kris Davis en la etapa \"Jazz de hoy\"."
+  ],
+  "ids": {
+    "musicbrainz": "361334ed-41c1-443f-b7c0-12248e943ccf",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-kris-davis-pend",
+      "acceso": "extracto",
+      "aporta": "Discografía."
+    },
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 323dc5e1-b1f9-4db0-b0d2-865e7228625d (2019-10-04)."
+    }
+  ]
+}

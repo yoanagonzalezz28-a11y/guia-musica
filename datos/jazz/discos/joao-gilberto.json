@@ -38,10 +38,20 @@
     {
       "musico": "joao",
       "nombre": "João Gilberto",
-      "instrumento": "guitarra, voz"
+      "instrumento": "voz, guitarra clásica"
+    },
+    {
+      "musico": null,
+      "nombre": "Sonny Carr",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Miúcha",
+      "instrumento": "voz"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "brasil"
   ],
@@ -52,7 +62,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "João_Gilberto_(album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"João Gilberto (album)\"."
+    }
+  ]
 }

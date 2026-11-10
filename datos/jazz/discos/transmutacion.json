@@ -44,22 +44,43 @@
       "musico": "pipi-piazzolla",
       "nombre": "Pipi Piazzolla",
       "instrumento": "batería, composición"
+    },
+    {
+      "musico": null,
+      "nombre": "Lucio Balduini",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Damián Fogiel",
+      "instrumento": "saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Daniel \"Pipi\" Piazzolla",
+      "instrumento": "percusión"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
-    "rioplat"
+    "hoy"
   ],
   "comentario": [
     "El trío en un registro más eléctrico, con títulos como \"Dance Cadaverous\" y \"Deambulador nocturno\". Las piezas son propias y cambian de clima dentro de cada tema. Muestra el lado más experimental del grupo, antes de Rata."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "0e75dc93-a030-4753-90d5-2b44e0927472",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 35093515-602c-42fb-b48c-048f63f779b4 (2015)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Dance Cadaverous",

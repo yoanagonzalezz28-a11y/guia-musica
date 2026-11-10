@@ -36,12 +36,47 @@
   "sello": "Geffen",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Armando Marçal",
+      "instrumento": "percusión, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Lyle Mays",
+      "instrumento": "piano, teclados"
+    },
+    {
       "musico": "metheny",
       "nombre": "Pat Metheny",
       "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Rodby",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Wertico",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "David Blamires",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Mark Ledford",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Pat Metheny Group",
+      "instrumento": "músico"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "brasil"
   ],
@@ -54,7 +89,13 @@
     "wikidata": null,
     "wikipedia": "Still_Life_(Talking)"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 33da6e74-eb2e-4f32-b95d-e624f8a424cc (1987)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Minuano (Six Eight)",

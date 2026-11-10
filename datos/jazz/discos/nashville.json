@@ -35,12 +35,41 @@
   "sello": "Nonesuch",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Jerry Douglas",
+      "instrumento": "resonator guitarra",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 9, 10"
+    },
+    {
       "musico": "frisell",
       "nombre": "Bill Frisell",
       "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Viktor Krauss",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Pat Bergeson",
+      "instrumento": "armónica",
+      "nota": "temas 2, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Ron Block",
+      "instrumento": "banjo",
+      "nota": "temas 2, 6, 8, 11, 13, 14"
+    },
+    {
+      "musico": null,
+      "nombre": "Adam Steffey",
+      "instrumento": "mandolina",
+      "nota": "temas 2, 3, 6, 7, 8, 11, 13, 14"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -48,10 +77,16 @@
     "Guitarra entre el bluegrass y el jazz, con dobro, banjo y mandolina. Lo grabó en Nashville con músicos de la escena del bluegrass, sin su grupo de jazz habitual. Está entre los discos esenciales de Bill Frisell."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "a4fb7763-9029-33f3-b596-ff29bd642f61",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición b500d612-3631-408d-849c-e083eb9f9e2a (1997)."
+    }
+  ]
 }

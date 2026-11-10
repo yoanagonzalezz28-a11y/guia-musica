@@ -38,10 +38,61 @@
     {
       "musico": "roney",
       "nombre": "Wallace Roney",
-      "instrumento": "trompeta"
+      "instrumento": "trompeta, arreglos"
+    },
+    {
+      "musico": null,
+      "nombre": "Antoine Roney",
+      "instrumento": "saxo tenor, saxo soprano, clarinete bajo"
+    },
+    {
+      "musico": "brecker",
+      "nombre": "Michael Brecker",
+      "instrumento": "saxo tenor",
+      "nota": "temas tracks 2–3"
+    },
+    {
+      "musico": "sanders",
+      "nombre": "Pharoah Sanders",
+      "instrumento": "saxo tenor",
+      "nota": "temas tracks 4, 8"
+    },
+    {
+      "musico": "corea",
+      "nombre": "Chick Corea",
+      "instrumento": "piano, piano eléctrico, arreglos",
+      "nota": "temas tracks 1–4, 8"
+    },
+    {
+      "musico": "geri-allen",
+      "nombre": "Geri Allen",
+      "instrumento": "piano",
+      "nota": "temas tracks 5–9"
+    },
+    {
+      "musico": null,
+      "nombre": "Robert \"Baabe\" Irving III",
+      "instrumento": "sintetizador",
+      "nota": "temas tracks 6–9"
+    },
+    {
+      "musico": null,
+      "nombre": "Clarence Seay",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Lenny White",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Berrios",
+      "instrumento": "percusión",
+      "nota": "temas tracks 3, 6–7, Interludes"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "neotrad"
   ],
@@ -52,7 +103,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Village_(album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Village (album)\"."
+    }
+  ]
 }

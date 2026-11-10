@@ -38,10 +38,60 @@
     {
       "musico": "papo-vazquez",
       "nombre": "Papo Vázquez",
-      "instrumento": "trombón, composición, arreglos"
+      "instrumento": "percusión, trombón, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Berrios",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Milton Cardona",
+      "instrumento": "percusión, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Lincoln Goines",
+      "instrumento": "bajo eléctrico",
+      "nota": "temas 1, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Edgardo Miranda",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Bill O’Connell",
+      "instrumento": "piano",
+      "nota": "temas 1, 2, 4, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Mario Rivera",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Andy González",
+      "instrumento": "bajo",
+      "nota": "temas 2, 3, 4, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Carlos “Patato” Valdés",
+      "instrumento": "voz",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Larry Willis",
+      "instrumento": "piano",
+      "nota": "temas 3, 5"
     }
   ],
-  "personalNota": "Lista parcial.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "latino"
   ],
@@ -49,12 +99,18 @@
     "Uno de sus primeros discos como líder, con el trombón al frente de un grupo de jazz latino. Ya aparecen los ritmos puertorriqueños que después desarrolló en la bomba jazz. Muestra a un músico que venía de tocar con los grandes de la salsa y el jazz latino."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "ac432af5-4298-4b2d-9d43-d4b9eec08382",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición cd22dea2-752f-48b2-8cc1-eadc96ad55a7 (1992)."
+    }
+  ],
   "fuentes": [
     "wp-papo-vazquez"
   ]

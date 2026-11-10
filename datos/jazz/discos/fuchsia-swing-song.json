@@ -36,12 +36,27 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Jaki Byard",
+      "instrumento": "piano"
+    },
+    {
+      "musico": "ronc",
+      "nombre": "Ron Carter",
+      "instrumento": "bajo, contrabajo"
+    },
+    {
       "musico": "rivers",
       "nombre": "Sam Rivers",
-      "instrumento": "saxo tenor, flauta, composición"
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": "tonyw",
+      "nombre": "Tony Williams",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "free"
   ],
@@ -49,12 +64,18 @@
     "Con Jaki Byard, Ron Carter y Tony Williams: hard bop que se abre a la libertad. Rivers toca el saxo tenor con frases que se alejan de los acordes, y la base de Carter y Williams lo empuja hacia la libertad. Es el disco clave de Sam Rivers en la etapa \"Free jazz\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "132fe130-b7ad-3c65-be8f-8cdf8d049554",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 7665c119-6f02-4ab8-b0ff-96eda5782e6a (1964)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Fuchsia Swing Song",

@@ -38,10 +38,30 @@
     {
       "musico": "masekela",
       "nombre": "Hugh Masekela",
-      "instrumento": "trompeta, fliscorno"
+      "instrumento": "fliscorno"
+    },
+    {
+      "musico": null,
+      "nombre": "Larry Willis",
+      "instrumento": "acoustic and piano eléctrico"
+    },
+    {
+      "musico": "pukwana",
+      "nombre": "Dudu Pukwana",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Eddie Gomez",
+      "instrumento": "bajo eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Makhaya Ntshoko",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "mundo"
   ],
@@ -52,7 +72,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Home_Is_Where_the_Music_Is"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Home Is Where the Music Is\"."
+    }
+  ]
 }

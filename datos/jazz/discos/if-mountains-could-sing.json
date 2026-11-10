@@ -37,10 +37,40 @@
     {
       "musico": "rypdal",
       "nombre": "Terje Rypdal",
-      "instrumento": "guitarra eléctrica, composición"
+      "instrumento": "electric guitarras"
+    },
+    {
+      "musico": null,
+      "nombre": "Bjørn Kjellemyr",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Audun Kleive",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Christian Eggen",
+      "instrumento": "dirección"
+    },
+    {
+      "musico": null,
+      "nombre": "Terje Tønnesen",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Lars Anders Tomter",
+      "instrumento": "viola"
+    },
+    {
+      "musico": null,
+      "nombre": "Øystein Birkeland",
+      "instrumento": "violonchelo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "ecm"
   ],
@@ -51,7 +81,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "If_Mountains_Could_Sing"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"If Mountains Could Sing\"."
+    }
+  ]
 }

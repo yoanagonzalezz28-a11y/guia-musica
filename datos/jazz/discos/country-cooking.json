@@ -34,12 +34,72 @@
   "sello": "Venture",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Julian Argüelles",
+      "instrumento": "saxo barítono, saxo soprano"
+    },
+    {
+      "musico": null,
+      "nombre": "Harry Beckett",
+      "instrumento": "trompeta, fliscorno"
+    },
+    {
+      "musico": null,
+      "nombre": "David DeFries",
+      "instrumento": "trompeta, fliscorno"
+    },
+    {
+      "musico": null,
+      "nombre": "Claude Deppa",
+      "instrumento": "trompeta, fliscorno"
+    },
+    {
+      "musico": null,
+      "nombre": "Jeff Gordon",
+      "instrumento": "saxo tenor, clarinete bajo, flauta"
+    },
+    {
+      "musico": null,
+      "nombre": "Robert Juritz",
+      "instrumento": "saxo tenor, fagot"
+    },
+    {
+      "musico": null,
+      "nombre": "Tony Maronie",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Gilbert Matthews",
+      "instrumento": "percusión"
+    },
+    {
       "musico": "mcgregor",
       "nombre": "Chris McGregor",
-      "instrumento": "piano, dirección"
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Ernest Mothle",
+      "instrumento": "bajo eléctrico, bajo, percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Fayyaz Virji",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Annie Whitehead",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Williamson",
+      "instrumento": "saxo alto, saxo tenor"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -47,10 +107,16 @@
     "Vientos sudafricanos y británicos, entre la fiesta y el free. Es el último disco de la Brotherhood of Breath: McGregor murió ese mismo año. En la ficha de Chris McGregor es el disco que representa la etapa \"Los últimos años\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "8d899df3-afca-4ebd-8aba-c64bfd630bfa",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición db288717-fbcb-425e-bb58-1df72341c3ed (1988)."
+    }
+  ]
 }

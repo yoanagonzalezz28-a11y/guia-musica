@@ -36,12 +36,27 @@
   "sello": "ECM",
   "musicos": [
     {
+      "musico": "jon-christensen",
+      "nombre": "Jon Christensen",
+      "instrumento": "percusión, batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Palle Danielsson",
+      "instrumento": "bajo, contrabajo"
+    },
+    {
       "musico": "lloyd",
       "nombre": "Charles Lloyd",
-      "instrumento": "saxo tenor, flauta"
+      "instrumento": "flauta, saxo tenor, vientos de madera"
+    },
+    {
+      "musico": "stenson",
+      "nombre": "Bobo Stenson",
+      "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm"
   ],
@@ -49,10 +64,16 @@
     "Su regreso, con Bobo Stenson y Jon Christensen: tenor lento y espiritual. Lloyd toca el saxo tenor y la flauta con un cuarteto escandinavo, en temas lentos y meditativos. En la ficha de Charles Lloyd es el disco que representa la etapa \"ECM y jazz europeo\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "496df002-814d-3c98-a3e2-07ccd0f5af1b",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 9e58532c-8c6f-4123-9fdf-6ae3359c85ce (1990)."
+    }
+  ]
 }

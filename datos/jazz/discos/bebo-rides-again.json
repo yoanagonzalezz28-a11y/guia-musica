@@ -36,12 +36,57 @@
   "sello": "Messidor",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Paquito D’Rivera",
+      "instrumento": "cañas"
+    },
+    {
+      "musico": null,
+      "nombre": "Gabriel Machado",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Carlos Emilio Morales",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Gerardo Rosales",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Santiago",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Juan Pablo Torres",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": "urcola",
+      "nombre": "Diego Urcola",
+      "instrumento": "vientos de metal"
+    },
+    {
+      "musico": null,
+      "nombre": "Amadito Valdés",
+      "instrumento": "timbales"
+    },
+    {
       "musico": "bebo",
       "nombre": "Bebo Valdés",
-      "instrumento": "piano, arreglos"
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Carlos “Patato” Valdés",
+      "instrumento": "percusión"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "latino"
   ],
@@ -49,10 +94,16 @@
     "La vuelta, a los 76 años, con Paquito D'Rivera. Valdés vuelve a grabar después de décadas de exilio en Suecia, con un grupo grande y arreglos propios. En la ficha de Bebo Valdés es el disco que representa la etapa \"Jazz latino\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "178e2f6f-8070-3acb-b88f-9e68eb1ec98f",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 453c1ca2-4244-4904-9eb8-265e955a0fce (1995)."
+    }
+  ]
 }

@@ -1,0 +1,53 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "oscar-aleman",
+  "nombre": "Oscar Alemán",
+  "nacimiento": {
+    "anio": 1909,
+    "lugar": "Machagai, Chaco"
+  },
+  "muerte": {
+    "anio": 1980
+  },
+  "instrumentos": [
+    "guitarra",
+    "voz"
+  ],
+  "corrientes": [
+    "swing",
+    "manouche"
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "spotify": null,
+  "resumen": "Guitarrista chaqueño, la primera gran figura del jazz argentino. En los años 30 tocó en París con Josephine Baker y cruzó caminos con Django Reinhardt; después fue una estrella del swing en Buenos Aires.",
+  "epocas": [
+    {
+      "titulo": "Swing",
+      "desde": 1928,
+      "hasta": 1957,
+      "texto": "",
+      "discoClave": {
+        "disco": "buenos-aires-paris-1928-1943",
+        "explicacion": "Sus años en Buenos Aires y en París."
+      },
+      "discos": [
+        "swing-guitar-masterpieces-1938-1957"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-oscar-aleman-pend",
+    "mb-oscar-aleman"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "buenos-aires-paris-1928-1943",
+    "swing-guitar-masterpieces-1938-1957"
+  ]
+}

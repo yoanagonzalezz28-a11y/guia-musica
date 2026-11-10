@@ -36,12 +36,43 @@
   "sello": "Atlantic",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Shafi Hadi",
+      "instrumento": "saxo alto, saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Knepper",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Wade Legge",
+      "instrumento": "piano"
+    },
+    {
       "musico": "mingus",
       "nombre": "Charles Mingus",
-      "instrumento": "contrabajo, composición"
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Dannie Richmond",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Curtis Porter",
+      "instrumento": "saxo alto, saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Jean Shepherd",
+      "instrumento": "voz",
+      "nota": "temas 4"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -54,7 +85,13 @@
     "wikidata": null,
     "wikipedia": "The_Clown_(album)"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 55a6c226-6f8b-426c-b40d-549afd7888d5 (1957-08)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Haitian Fight Song",

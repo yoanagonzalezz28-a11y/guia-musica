@@ -39,9 +39,93 @@
       "musico": "yellowjackets",
       "nombre": "Yellowjackets",
       "instrumento": "grupo"
+    },
+    {
+      "musico": null,
+      "nombre": "Paulinho da Costa",
+      "instrumento": "percusión",
+      "nota": "temas 1, 2, 3, 4, 5, 7, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Russell Ferrante",
+      "instrumento": "teclados",
+      "nota": "temas 1, 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Haslip",
+      "instrumento": "bajo",
+      "nota": "temas 1, 2, 3, 4, 5, 7, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Ricky Lawson",
+      "instrumento": "batería, percusión",
+      "nota": "temas 1, 2, 3, 4, 5, 7, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Robben Ford",
+      "instrumento": "guitarra",
+      "nota": "temas 2, 4, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Mike Miller",
+      "instrumento": "guitarra",
+      "nota": "temas 3, 7, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Randy Crawford",
+      "instrumento": "voz",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Yolan Fischer",
+      "instrumento": "voz",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Max Gronenthal",
+      "instrumento": "voz",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Bruce Hornsby",
+      "instrumento": "voz",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Bill LaBounty",
+      "instrumento": "voz",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Brenda Russell",
+      "instrumento": "voz",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Marilyn Scott",
+      "instrumento": "voz",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Pauline Wilson",
+      "instrumento": "voz",
+      "nota": "temas 3"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "fusion"
   ],
@@ -49,10 +133,16 @@
     "Fusión suave y melódica. Los Yellowjackets tocan fusión con teclados, bajo eléctrico y saxo, con melodías claras. Es uno de los discos que el banco elige para conocer a Yellowjackets."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "b073fc3b-3696-3758-8f69-65e0a29d3f69",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición e0b38039-e8d4-4732-89f5-336b42d24712 (1983)."
+    }
+  ]
 }

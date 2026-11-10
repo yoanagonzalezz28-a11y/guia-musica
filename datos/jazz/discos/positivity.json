@@ -38,9 +38,109 @@
       "musico": "incognito",
       "nombre": "Incognito",
       "instrumento": "grupo"
+    },
+    {
+      "musico": null,
+      "nombre": "Mark Anthoni",
+      "instrumento": "voz, coros"
+    },
+    {
+      "musico": null,
+      "nombre": "Maysa Leak",
+      "instrumento": "voz, coros"
+    },
+    {
+      "musico": null,
+      "nombre": "Graham Harvey",
+      "instrumento": "teclados, vocoder teclados, bajo sintetizado"
+    },
+    {
+      "musico": null,
+      "nombre": "Jean-Paul \"Bluey\" Maunick",
+      "instrumento": "teclados, vocoder voz, guitarras, batería and percusión programación"
+    },
+    {
+      "musico": null,
+      "nombre": "Peter Hinds",
+      "instrumento": "teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Randy Hope-Taylor",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Richard Bailey",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Thomas Dyani",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Patrick Clahar",
+      "instrumento": "saxo soprano, saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Fayyaz Virji",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Kevin Robinson",
+      "instrumento": "trompeta, fliscorno"
+    },
+    {
+      "musico": null,
+      "nombre": "Sarah Brown",
+      "instrumento": "coros"
+    },
+    {
+      "musico": null,
+      "nombre": "Richard Bull",
+      "instrumento": "teclados, guitarras, bajo programación, batería and percusión programación, recording",
+      "nota": null
+    },
+    {
+      "musico": null,
+      "nombre": "Joel \"Tyrell\" LeBlanc",
+      "instrumento": "programación",
+      "nota": "temas 2, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Max Beesley",
+      "instrumento": "additional teclados",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Ray Hayden",
+      "instrumento": "bajo programación, batería and percusión programación, coros, recording",
+      "nota": "temas 10, 13; temas 4, 10, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul \"Tubbs\" Williams",
+      "instrumento": "bajo",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Bud Beadle",
+      "instrumento": "saxo barítono, flauta"
+    },
+    {
+      "musico": "gilles-peterson",
+      "nombre": "Gilles Peterson",
+      "instrumento": "a&r direction"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "acid"
   ],
@@ -51,7 +151,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Positivity_(album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Positivity (album)\"."
+    }
+  ]
 }

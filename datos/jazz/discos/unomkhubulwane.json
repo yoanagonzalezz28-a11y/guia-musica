@@ -39,9 +39,19 @@
       "musico": "makhathini",
       "nombre": "Nduduzo Makhathini",
       "instrumento": "piano, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Francisco Mela",
+      "instrumento": "batería, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Zwelakhe-Duma Bell le Pere",
+      "instrumento": "bajo, voz"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -49,10 +59,16 @@
     "Trío dedicado a una divinidad zulú. Makhathini toca el piano en trío, en temas lentos y espirituales. Es uno de los discos que el banco elige para conocer a Nduduzo Makhathini."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "f1b2d6fd-301e-4a2a-9ec9-1030a50a9f42",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición db792f08-c02a-4d96-930d-89ce007bd581 (2024)."
+    }
+  ]
 }

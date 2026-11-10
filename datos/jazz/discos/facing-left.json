@@ -38,10 +38,20 @@
     {
       "musico": "moran",
       "nombre": "Jason Moran",
-      "instrumento": "piano"
+      "instrumento": "piano, hammond b3 órgano, piano eléctrico Rhodes piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Tarus Mateen",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Nasheet Waits",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "hoy"
   ],
@@ -52,7 +62,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Facing_Left"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Facing Left\"."
+    }
+  ]
 }

@@ -38,10 +38,96 @@
     {
       "musico": "dameron",
       "nombre": "Tadd Dameron",
-      "instrumento": "piano, composición"
+      "instrumento": "piano, arreglos, dirección"
+    },
+    {
+      "musico": null,
+      "nombre": "Clark Terry",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Ernie Royal",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Charlie Shavers",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Wilder",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Cleveland",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Britt Woodman",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Julius Watkins",
+      "instrumento": "corno"
+    },
+    {
+      "musico": null,
+      "nombre": "Jerry Dodgion",
+      "instrumento": "alto sax, flauta"
+    },
+    {
+      "musico": null,
+      "nombre": "Leo Wright",
+      "instrumento": "alto sax, flauta"
+    },
+    {
+      "musico": null,
+      "nombre": "Jerome Richardson",
+      "instrumento": "tenor sax, flauta"
+    },
+    {
+      "musico": null,
+      "nombre": "Johnny Griffin",
+      "instrumento": "tenor sax"
+    },
+    {
+      "musico": null,
+      "nombre": "Tate Houston",
+      "instrumento": "baritone sax"
+    },
+    {
+      "musico": "evans",
+      "nombre": "Bill Evans",
+      "instrumento": "piano"
+    },
+    {
+      "musico": "ronc",
+      "nombre": "Ron Carter",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "George Duvivier",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": "philly-joe-jones",
+      "nombre": "Philly Joe Jones",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Barbara Winfield",
+      "instrumento": "voz",
+      "nota": "temas tracks 4, 9"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "bebop"
   ],
@@ -52,7 +138,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "The_Magic_Touch_(album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"The Magic Touch (album)\"."
+    }
+  ]
 }

@@ -36,12 +36,27 @@
   "sello": "Impulse!",
   "musicos": [
     {
+      "musico": "flanagan",
+      "nombre": "Tommy Flanagan",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Henry Grimes",
+      "instrumento": "contrabajo"
+    },
+    {
       "musico": "haynes",
       "nombre": "Roy Haynes",
       "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Rahsaan Roland Kirk",
+      "instrumento": "flauta, saxo, vientos de madera"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -49,12 +64,18 @@
     "Rahsaan Roland Kirk toca saxos y flauta, a veces varios a la vez, sobre la batería de Haynes. Tommy Flanagan en piano y Henry Grimes en contrabajo completan el cuarteto. Es uno de los discos que el banco elige para conocer a Roy Haynes."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "ec9aac01-1903-3a55-aa7f-40fceb998cc8",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Out_of_the_Afternoon"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 6d83ae06-bc3c-3663-9864-64867f07b984 (1962)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Moon Ray",

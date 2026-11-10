@@ -36,12 +36,27 @@
   "sello": "ECM",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Sławomir Kurkiewicz",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Michał Miśkiewicz",
+      "instrumento": "batería"
+    },
+    {
       "musico": "stanko",
       "nombre": "Tomasz Stańko",
-      "instrumento": "trompeta, composición"
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": "wasilewski",
+      "nombre": "Marcin Wasilewski",
+      "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm"
   ],
@@ -49,10 +64,16 @@
     "Con el joven trío de Marcin Wasilewski: el comienzo de una sociedad clave. Stańko toca la trompeta con el trío de Wasilewski, en temas lentos y abiertos. Es uno de los discos que el banco elige para conocer a Tomasz Stańko."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "7e23e62d-d6e1-39f4-8fbb-b4e3f882e8e8",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición c6ac8085-8b46-4f7c-ab45-c7d62588b924 (2002-01-06)."
+    }
+  ]
 }

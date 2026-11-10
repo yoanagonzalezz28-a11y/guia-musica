@@ -34,12 +34,30 @@
   "sello": "MPS",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Diz Disley",
+      "instrumento": "guitarra",
+      "nota": "temas 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Isla Eckinger",
+      "instrumento": "contrabajo",
+      "nota": "temas 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13"
+    },
+    {
       "musico": "grappelli",
       "nombre": "Stéphane Grappelli",
-      "instrumento": "violín"
+      "instrumento": "violín, piano eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Ike Isaacs",
+      "instrumento": "guitarra",
+      "nota": "temas 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "manouche"
   ],
@@ -47,10 +65,16 @@
     "Su violín en plena forma, en Alemania. Grappelli toca el violín con un grupo alemán, con un swing elegante y mucha velocidad. Está entre los discos esenciales de Stéphane Grappelli."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "b9e3deba-d56c-459f-93ca-b75d10144e97",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición fbef47ad-3bd5-4b92-a770-526e7eb3b93e (1975)."
+    }
+  ]
 }

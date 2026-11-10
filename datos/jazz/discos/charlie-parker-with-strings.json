@@ -36,12 +36,82 @@
   "sello": "Mercury",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Jimmy Carroll",
+      "instrumento": "dirección"
+    },
+    {
+      "musico": null,
+      "nombre": "Frank Brieff",
+      "instrumento": "viola"
+    },
+    {
+      "musico": null,
+      "nombre": "Ray Brown",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Stan Freeman",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Bronislaw Gimpel",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Max Hollander",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Milton Lomask",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Frank Miller",
+      "instrumento": "violonchelo"
+    },
+    {
+      "musico": null,
+      "nombre": "Mitch Miller",
+      "instrumento": "oboe, corno inglés"
+    },
+    {
       "musico": "parker",
       "nombre": "Charlie Parker",
       "instrumento": "saxo alto"
+    },
+    {
+      "musico": "buddy-rich",
+      "nombre": "Buddy Rich",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Meyer Rosen",
+      "instrumento": "arpa"
+    },
+    {
+      "musico": null,
+      "nombre": "Myor Rosen",
+      "instrumento": "arpa"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Carroll & His Orchestra",
+      "instrumento": "orquesta"
+    },
+    {
+      "musico": null,
+      "nombre": "Charlie Parker Quartet",
+      "instrumento": "orquesta"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "bebop"
   ],
@@ -49,10 +119,16 @@
     "Parker sobre cuerdas: él lo consideraba su mejor disco; \"Just Friends\" es la prueba. Parker improvisa con un sonido muy cantado sobre arreglos de cuerdas que eran poco comunes en el jazz de la época. Está entre los discos esenciales de Charlie Parker."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "a62849c1-252f-4044-a6f8-3b72aa3057ee",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Charlie_Parker_with_Strings"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 3cfdec90-b6b6-4b88-a75d-b7e6861f1118 (1950)."
+    }
+  ]
 }

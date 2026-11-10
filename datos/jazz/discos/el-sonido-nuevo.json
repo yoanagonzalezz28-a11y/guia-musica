@@ -36,12 +36,47 @@
   "sello": "Verve",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Tommy Lopez",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": "palmieri",
+      "nombre": "Eddie Palmieri",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Julian Priester",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Ismael Quintana",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Bobby Rodriguez",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Barry Rogers",
+      "instrumento": "trombón, congas"
+    },
+    {
       "musico": "tjader",
       "nombre": "Cal Tjader",
       "instrumento": "vibráfono"
+    },
+    {
+      "musico": null,
+      "nombre": "Mark Weinstein",
+      "instrumento": "trombón"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "latino"
   ],
@@ -49,10 +84,16 @@
     "El vibráfono de Tjader sobre la sección rítmica de Eddie Palmieri, con trombones y percusión. Palmieri dirigía en Nueva York una banda con trombones en lugar de trompetas, y ese sonido grave es la base del disco. Está entre los discos esenciales de Cal Tjader."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "15cf15c9-9de7-355f-9245-a855cf11f5ce",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 923fafbc-3b88-4330-8cff-45de23e8dce3 (1966)."
+    }
+  ]
 }

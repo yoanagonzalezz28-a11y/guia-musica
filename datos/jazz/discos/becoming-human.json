@@ -1,0 +1,64 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3akDMfVHK9sRWMJrLSmYzp",
+    "tituloEnSpotify": "Becoming Human",
+    "via": "api-spotify"
+  },
+  "id": "becoming-human",
+  "titulo": "Becoming Human",
+  "credito": "Roxana Amed",
+  "lideres": [
+    "roxana-amed"
+  ],
+  "grabacion": {
+    "desde": 2024,
+    "hasta": 2024,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2024,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "roxana-amed",
+      "nombre": "Roxana Amed",
+      "instrumento": "voz, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "La voz de Amed con un grupo de jazz contemporáneo. Fue nominado al Gardel al mejor álbum de jazz. Es uno de los discos que el banco elige para conocer a Roxana Amed."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "ln-gardel-2025",
+      "acceso": "extracto",
+      "aporta": "Nominado al Gardel 2025."
+    }
+  ]
+}

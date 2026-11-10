@@ -39,9 +39,19 @@
       "musico": "paul-bley",
       "nombre": "Paul Bley",
       "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Pete La Roca",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Swallow",
+      "instrumento": "bajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "free"
   ],
@@ -49,10 +59,16 @@
     "Trío con Steve Swallow y Pete LaRoca: libertad con lirismo. Bley toca el piano en trío con temas propios y de Carla Bley, con una libertad muy lírica. Es el disco clave de Paul Bley en la etapa \"Free jazz\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "78019b61-e4ad-4ded-b41a-8e013c7fcc7b",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 936dbe8f-159b-352b-b1e2-24e2d4d7a8ef (1964)."
+    }
+  ]
 }

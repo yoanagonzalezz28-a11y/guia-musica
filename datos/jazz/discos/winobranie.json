@@ -36,12 +36,32 @@
   "sello": "Muza",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Stanisław Cieślak",
+      "instrumento": "percusión, trombón"
+    },
+    {
       "musico": "namyslowski",
       "nombre": "Zbigniew Namysłowski",
-      "instrumento": "saxo alto"
+      "instrumento": "piano, saxo alto, violonchelo"
+    },
+    {
+      "musico": null,
+      "nombre": "Tomasz Szukalski",
+      "instrumento": "clarinete bajo, saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Paweł Jarzębski",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Kazimierz Jonkisz",
+      "instrumento": "percusión"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -49,10 +69,16 @@
     "Saxo alto con un grupo polaco, mezclando folclore y jazz moderno. El título significa \"vendimia\" en polaco, y es uno de los discos clave del jazz de su país. Es el disco clave de Zbigniew Namysłowski en la etapa \"Jazz del mundo\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "ca8cc009-f21d-43c5-b93f-565fd53662cd",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 268ac908-4fad-4045-8361-bb79b6c7e1fb (1973)."
+    }
+  ]
 }

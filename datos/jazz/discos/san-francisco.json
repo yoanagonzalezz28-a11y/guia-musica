@@ -38,10 +38,30 @@
     {
       "musico": "hutcherson",
       "nombre": "Bobby Hutcherson",
-      "instrumento": "vibráfono"
+      "instrumento": "marimba, vibráfono"
+    },
+    {
+      "musico": null,
+      "nombre": "Harold Land",
+      "instrumento": "saxo tenor, oboe, flauta"
+    },
+    {
+      "musico": null,
+      "nombre": "Mickey Roker",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Sample",
+      "instrumento": "piano, piano eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "John Williams",
+      "instrumento": "bajo eléctrico, contrabajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "souljazz"
   ],
@@ -49,10 +69,16 @@
     "Vibráfono, saxo y flauta sobre un groove de soul y funk. Hutcherson y Harold Land codirigían un quinteto en esos años, y acá se acercan al funk y al rock de la época. En la ficha de Bobby Hutcherson es el disco que representa la etapa \"Soul jazz\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "c6a6b9fd-1b41-3d69-baa2-f4e54dd297b6",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 6a083673-34eb-41a1-9c45-1137d53812b0 (1971)."
+    }
+  ]
 }

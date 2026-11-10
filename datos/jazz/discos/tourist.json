@@ -35,10 +35,46 @@
     {
       "musico": "st-germain",
       "nombre": "St Germain",
-      "instrumento": "producción, teclados"
+      "instrumento": "teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Edmundo Carneiro",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Claudio De Queiroz",
+      "instrumento": "saxo barítono"
+    },
+    {
+      "musico": null,
+      "nombre": "Alexandre Destrez",
+      "instrumento": "teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Idrissa Diop",
+      "instrumento": "talking batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Edouard Labor",
+      "instrumento": "flauta, saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Pascal Ohsé",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Ernest Ranglin",
+      "instrumento": "guitarra",
+      "nota": "temas 2"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "acid"
   ],
@@ -46,10 +82,16 @@
     "House con samples de blues, guitarras y vientos de jazz. Salió por Blue Note y fue uno de los discos de jazz electrónico más vendidos. Es el disco clave de St Germain en la etapa \"Acid jazz\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "0f8ce4c1-f224-37bc-8a2c-8c930082aebd",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Tourist_(St_Germain_album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición b0bb8657-8bd8-46f9-8e12-6deacc4ddfbf (2000)."
+    }
+  ]
 }

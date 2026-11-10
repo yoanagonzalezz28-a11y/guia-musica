@@ -38,9 +38,56 @@
       "musico": "nat-cole",
       "nombre": "Nat King Cole",
       "instrumento": "piano, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "John Collins",
+      "instrumento": "guitarra",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Charlie Harris",
+      "instrumento": "contrabajo, guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Willie Smith",
+      "instrumento": "saxo alto",
+      "nota": "temas 1, 6, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Lee Young",
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Harry “Sweets” Edison",
+      "instrumento": "trompeta",
+      "nota": "temas 2, 5, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Stuff Smith",
+      "instrumento": "violín",
+      "nota": "temas 3, 9, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Jack Constanzo",
+      "instrumento": "bongós",
+      "nota": "temas 4, 7"
+    },
+    {
+      "musico": "tizol",
+      "nombre": "Juan Tizol",
+      "instrumento": "trombón de pistones",
+      "nota": "temas 4, 7, 10"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "swing"
   ],
@@ -48,10 +95,16 @@
     "Vuelve al jazz con su trío e invitados como Harry Edison: el disco preferido de los jazzeros. Cole canta y toca el piano con su trío, y cada tema suma un solista invitado como Harry Edison, Willie Smith o Stuff Smith. En la ficha de Nat King Cole es el disco que representa la etapa \"Swing\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "1ca65d1e-e77d-4a1c-bbf0-9dcf329f1ddf",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "After_Midnight_(Nat_King_Cole_album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición cf6ce1c7-c98d-4bc6-9daa-208c4aba8e65 (1956)."
+    }
+  ]
 }

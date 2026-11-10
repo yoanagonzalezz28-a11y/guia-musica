@@ -38,9 +38,24 @@
       "musico": "maalouf",
       "nombre": "Ibrahim Maalouf",
       "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Larry Grenadier",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Clarence Penn",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Mark Turner",
+      "instrumento": "saxo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -48,10 +63,16 @@
     "Trompeta con un grupo de jazz, en temas lentos que miran a Miles Davis. Maalouf compuso la música para acompañar una película muda de René Clair. Está entre los discos esenciales de Ibrahim Maalouf."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "38bb1917-2e1a-430d-81ff-01fcab97d5c3",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 7f123a5f-1de1-4834-9296-b31529f128cb (2012-11-06)."
+    }
+  ]
 }

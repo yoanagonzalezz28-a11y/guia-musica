@@ -36,12 +36,42 @@
   "sello": "Impulse!",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "George Barrow",
+      "instrumento": "saxo barítono"
+    },
+    {
+      "musico": "chambers",
+      "nombre": "Paul Chambers",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "dolphy",
+      "nombre": "Eric Dolphy",
+      "instrumento": "saxo alto, flauta"
+    },
+    {
+      "musico": "evans",
+      "nombre": "Bill Evans",
+      "instrumento": "piano"
+    },
+    {
+      "musico": "haynes",
+      "nombre": "Roy Haynes",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "hubbard",
+      "nombre": "Freddie Hubbard",
+      "instrumento": "trompeta"
+    },
+    {
       "musico": "oliver-nelson",
       "nombre": "Oliver Nelson",
-      "instrumento": "saxo, arreglos, composición"
+      "instrumento": "saxo alto, saxo tenor"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -54,7 +84,13 @@
     "wikidata": null,
     "wikipedia": "The_Blues_and_the_Abstract_Truth"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 0bc26986-223f-447b-bef9-8655f949fa5f (1961-08)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Stolen Moments",

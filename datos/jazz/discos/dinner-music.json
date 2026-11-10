@@ -37,10 +37,57 @@
     {
       "musico": "carla",
       "nombre": "Carla Bley",
-      "instrumento": "piano, órgano, composición"
+      "instrumento": "órgano, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Cornell Dupree",
+      "instrumento": "guitarra",
+      "nota": "temas 1, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Gordon Edwards",
+      "instrumento": "bajo eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Gadd",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Michael Mantler",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Roswell Rudd",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Bob Stewart",
+      "instrumento": "tuba"
+    },
+    {
+      "musico": null,
+      "nombre": "Richard Tee",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Carlos Ward",
+      "instrumento": "flauta, saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Eric Gale",
+      "instrumento": "guitarra",
+      "nota": "temas 2, 4, 6"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "fusion"
   ],
@@ -48,10 +95,16 @@
     "Temas con humor y groove, entre el soul y el funk. Tocan músicos de la banda Stuff, como Richard Tee y Steve Gadd, que venían del estudio y del soul. Es el disco clave de Carla Bley en la etapa \"Fusión\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "8fea2695-bbb0-31d3-808f-d16f9b2ac121",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 237d3438-4e38-4d43-8f08-6116b06bb1a0 (1977)."
+    }
+  ]
 }

@@ -1,0 +1,49 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "hazel-scott",
+  "nombre": "Hazel Scott",
+  "nacimiento": {
+    "anio": 1920,
+    "lugar": "Puerto España"
+  },
+  "muerte": {
+    "anio": 1981
+  },
+  "instrumentos": [
+    "piano",
+    "voz"
+  ],
+  "corrientes": [
+    "bebop",
+    "swing"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Pianista y cantante nacida en Trinidad, entre el jazz y la música clásica. Usó su fama para pelear contra la segregación y la forma en que el cine mostraba a los afroamericanos.",
+  "epocas": [
+    {
+      "titulo": "Bebop",
+      "desde": 1955,
+      "hasta": 1955,
+      "texto": "",
+      "discoClave": {
+        "disco": "relaxed-piano-moods",
+        "explicacion": "Su trío con Mingus y Roach."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-hazel-scott"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "relaxed-piano-moods"
+  ]
+}

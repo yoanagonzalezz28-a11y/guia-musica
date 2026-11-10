@@ -39,9 +39,19 @@
       "musico": "branford",
       "nombre": "Branford Marsalis",
       "instrumento": "saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Eric Revis",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Jeffrey “Tain” Watts",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "neotrad"
   ],
@@ -49,10 +59,16 @@
     "Versiones de *A Love Supreme* y obras de Rollins y Ornette: homenaje a sus maestros. Marsalis toca con su cuarteto temas de Coltrane, Rollins y Coleman, con mucha energía. Está entre los discos esenciales de Branford Marsalis."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "c5ee9022-c45c-39d5-aeaa-b4a8ebcec6ba",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición cdb7f5ae-3688-4505-b1c8-6b7e8622dbc9 (2002)."
+    }
+  ]
 }

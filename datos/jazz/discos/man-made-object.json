@@ -37,9 +37,27 @@
       "musico": "gogo-penguin",
       "nombre": "GoGo Penguin",
       "instrumento": "piano trío"
+    },
+    {
+      "musico": null,
+      "nombre": "Nick Blacka",
+      "instrumento": "contrabajo",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 8, 9, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Chris Illingworth",
+      "instrumento": "piano",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 8, 9, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Rob Turner",
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 8, 9, 10"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -47,10 +65,16 @@
     "Su debut en Blue Note. El trío de Manchester toca temas con patrones repetidos y electrónica. Está entre los discos esenciales de GoGo Penguin."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "66d97f6e-e191-466f-95d8-24c2efa9287b",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 9500524e-a9f4-4e9e-8a79-57447a4c852f (2016-01-27)."
+    }
+  ]
 }

@@ -39,9 +39,19 @@
       "musico": "gustavsen",
       "nombre": "Tord Gustavsen",
       "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Harald Johnsen",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Jarle Vespestad",
+      "instrumento": "percusión, batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm"
   ],
@@ -49,10 +59,16 @@
     "El trío en su punto: himnos, blues lento y silencio. El trío de Gustavsen toca piezas lentas y melódicas, con influencia de los himnos noruegos y el gospel. Está entre los discos esenciales de Tord Gustavsen."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "2d4b6762-69fd-393a-98d9-c4e5f203ee80",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 18bafc8b-6d8c-42a8-9c27-962f0e814037 (2007-04-10)."
+    }
+  ]
 }

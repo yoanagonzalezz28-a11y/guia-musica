@@ -37,11 +37,46 @@
   "musicos": [
     {
       "musico": "abou-khalil",
-      "nombre": "Rabih Abou-Khalil",
-      "instrumento": "oud, composición"
+      "nombre": "Rabih Abou‐Khalil",
+      "instrumento": "oud"
+    },
+    {
+      "musico": null,
+      "nombre": "Alexander Bălănescu",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Clare Connors",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "David Cunliffe",
+      "instrumento": "violonchelo"
+    },
+    {
+      "musico": null,
+      "nombre": "Michel Godard",
+      "instrumento": "tuba, serpentón"
+    },
+    {
+      "musico": null,
+      "nombre": "Nabil Khaiat",
+      "instrumento": "frame batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Martin",
+      "instrumento": "viola"
+    },
+    {
+      "musico": null,
+      "nombre": "Bălănescu Quartet",
+      "instrumento": "cuarteto de cuerdas"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -49,10 +84,16 @@
     "Oud, cuarteto de cuerdas, tuba y percusión árabe en compases irregulares. Abou-Khalil es libanés y vive en Alemania, y escribe valses y maqams para un formato de cámara. En la ficha de Rabih Abou-Khalil es el disco que representa la etapa \"Jazz del mundo\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "0ea1925e-cca0-3389-920a-b8dc3a7de14b",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición b29c5def-2a82-465e-a41d-f20499281414 (1996)."
+    }
+  ]
 }

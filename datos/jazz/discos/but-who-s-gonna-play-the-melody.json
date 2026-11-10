@@ -38,10 +38,15 @@
     {
       "musico": "mcbride",
       "nombre": "Christian McBride",
-      "instrumento": "contrabajo, bajo eléctrico"
+      "instrumento": "contrabajo, piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Edgar Meyer",
+      "instrumento": "contrabajo, piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -54,7 +59,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 0d0035ae-4f7d-4b79-9828-aac793919486 (2024)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Green Slime",

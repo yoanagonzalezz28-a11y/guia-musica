@@ -34,12 +34,37 @@
   "sello": "Impulse!",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Don Alias",
+      "instrumento": "percusión",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 8"
+    },
+    {
       "musico": "brecker",
       "nombre": "Michael Brecker",
-      "instrumento": "saxo tenor"
+      "instrumento": "saxo tenor",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Joey Calderazzo",
+      "instrumento": "piano",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "James Genus",
+      "instrumento": "bajo",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Jeffrey “Tain” Watts",
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 8"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "neotrad"
   ],
@@ -47,10 +72,16 @@
     "Saxo tenor brillante al frente de un quinteto. Joey Calderazzo, James Genus y Jeff \"Tain\" Watts forman el grupo con el que Brecker giraba en esos años. Es el disco clave de Michael Brecker en la etapa \"Neotradicionalismo\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "265d9f5b-322c-3603-b059-b92d7ab3a146",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 39d78486-0f62-40e6-9640-8919154ae768 (1998)."
+    }
+  ]
 }

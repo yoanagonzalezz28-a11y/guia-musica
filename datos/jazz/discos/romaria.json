@@ -34,12 +34,27 @@
   "sello": "ECM",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Eivind Aarset",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Michel Benita",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Sebastian Rochford",
+      "instrumento": "batería, percusión"
+    },
+    {
       "musico": "sheppard",
       "nombre": "Andy Sheppard",
-      "instrumento": "saxo tenor, saxo soprano"
+      "instrumento": "saxo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm"
   ],
@@ -52,7 +67,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 47074dda-716f-41e3-b95a-d38d09666ad1 (2018-02-16)."
+    }
+  ],
   "temas": [
     {
       "titulo": "And A Day ...",

@@ -35,12 +35,595 @@
   "sello": "GRP",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Tutti Camarata",
+      "instrumento": "dirección",
+      "nota": "temas 1-1, 1-2, 1-3"
+    },
+    {
+      "musico": null,
+      "nombre": "Larry Binyon",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1-1, 1-2, 1-3, 1-4, 1-5, 1-6"
+    },
+    {
+      "musico": null,
+      "nombre": "Johnny Blowers",
+      "instrumento": "batería",
+      "nota": "temas 1-1, 1-2, 1-3"
+    },
+    {
+      "musico": null,
+      "nombre": "Dave Bowman",
+      "instrumento": "piano",
+      "nota": "temas 1-1, 1-2, 1-3, 1-4, 1-5, 1-6"
+    },
+    {
+      "musico": null,
+      "nombre": "Jack Cressey",
+      "instrumento": "saxo alto",
+      "nota": "temas 1-1, 1-2, 1-3, 1-4, 1-5, 1-6"
+    },
+    {
+      "musico": null,
+      "nombre": "Carl Kress",
+      "instrumento": "guitarra",
+      "nota": "temas 1-1, 1-2, 1-3, 1-4, 1-5, 1-6"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Ricci",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1-1, 1-2, 1-3"
+    },
+    {
+      "musico": null,
+      "nombre": "Hymie Shertzer",
+      "instrumento": "saxo alto",
+      "nota": "temas 1-1, 1-2, 1-3, 1-4, 1-5, 1-6"
+    },
+    {
+      "musico": null,
+      "nombre": "Haig Stephens",
+      "instrumento": "contrabajo",
+      "nota": "temas 1-1, 1-2, 1-3, 1-4, 1-5, 1-6"
+    },
+    {
+      "musico": null,
+      "nombre": "Russ Case",
+      "instrumento": "trompeta",
+      "nota": "temas 1-1, 1-2, 1-3, 1-4, 1-5, 1-6"
+    },
+    {
       "musico": "holiday",
       "nombre": "Billie Holiday",
-      "instrumento": "voz"
+      "instrumento": "voz",
+      "nota": "temas 1-1, 1-2, 1-3, 1-4, 1-5, 1-6, 1-7, 1-8, 1-9, 1-10, 1-11, 1-12, 1-13, 1-17, 1-18, 1-19, 1-20, 1-21, 1-22, 1-23, 1-24, 1-25, 1-26, 2-1, 2-2, 2-3, 2-4, 2-5, 2-6, 2-7, 2-8, 2-9, 2-10, 2-11, 2-12, 2-13, 2-14, 2-15, 2-16, 2-17, 2-18, 2-19, 2-20, 2-21, 2-22, 2-23, 2-24"
+    },
+    {
+      "musico": null,
+      "nombre": "Dave Harris",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1-4, 1-5, 1-6"
+    },
+    {
+      "musico": null,
+      "nombre": "George Wettling",
+      "instrumento": "batería",
+      "nota": "temas 1-4, 1-5, 1-6"
+    },
+    {
+      "musico": null,
+      "nombre": "Bob Haggart",
+      "instrumento": "dirección, contrabajo",
+      "nota": "temas 1-7, 1-8, 1-9, 1-10, 1-25, 1-26, 2-1, 2-2, 2-3"
+    },
+    {
+      "musico": null,
+      "nombre": "Armand Camgros",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1-7, 1-8, 1-9, 1-10, 1-11, 1-12, 1-13"
+    },
+    {
+      "musico": null,
+      "nombre": "Sammy Benskin",
+      "instrumento": "piano",
+      "nota": "temas 1-7, 1-8, 1-9, 1-10"
+    },
+    {
+      "musico": null,
+      "nombre": "Frank Siefield",
+      "instrumento": "violín",
+      "nota": "temas 1-7, 1-8, 1-9, 1-10"
+    },
+    {
+      "musico": null,
+      "nombre": "George Swernoff",
+      "instrumento": "violín",
+      "nota": "temas 1-7, 1-8, 1-9, 1-10"
+    },
+    {
+      "musico": null,
+      "nombre": "Tiny Grimes",
+      "instrumento": "guitarra",
+      "nota": "temas 1-7, 1-8, 1-9, 1-10, 1-11, 1-12, 1-13"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Guy",
+      "instrumento": "trompeta",
+      "nota": "temas 1-7, 1-8, 1-9, 1-10, 1-11, 1-12, 1-13, 1-17, 1-18, 1-19, 1-20"
+    },
+    {
+      "musico": null,
+      "nombre": "Charles Jaffe",
+      "instrumento": "violín",
+      "nota": "temas 1-7, 1-8, 1-9, 1-10"
+    },
+    {
+      "musico": null,
+      "nombre": "Armand Kaproff",
+      "instrumento": "viola",
+      "nota": "temas 1-7, 1-8, 1-9, 1-10"
+    },
+    {
+      "musico": null,
+      "nombre": "Leo Kruczek",
+      "instrumento": "violín",
+      "nota": "temas 1-7, 1-8, 1-9, 1-10"
+    },
+    {
+      "musico": null,
+      "nombre": "Morris Leftkowitz",
+      "instrumento": "violín",
+      "nota": "temas 1-7, 1-8, 1-9, 1-10"
+    },
+    {
+      "musico": null,
+      "nombre": "Specs Powell",
+      "instrumento": "batería",
+      "nota": "temas 1-7, 1-8, 1-9, 1-10"
+    },
+    {
+      "musico": null,
+      "nombre": "Hank Ross",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1-7, 1-8, 1-9, 1-10, 1-11, 1-12, 1-13, 1-25, 1-26, 2-1, 2-2, 2-3"
+    },
+    {
+      "musico": null,
+      "nombre": "Stanley Webb",
+      "instrumento": "saxo barítono",
+      "nota": "temas 1-7, 1-8, 1-9, 1-10"
+    },
+    {
+      "musico": null,
+      "nombre": "Bill Stegmeyer",
+      "instrumento": "saxo alto, dirección, cañas",
+      "nota": "temas 1-7, 1-8, 1-9, 1-10, 1-11, 1-12, 1-13, 1-25, 1-26, 2-1, 2-2, 2-3"
+    },
+    {
+      "musico": null,
+      "nombre": "Sid Catlett",
+      "instrumento": "batería",
+      "nota": "temas 1-11, 1-12, 1-13"
+    },
+    {
+      "musico": null,
+      "nombre": "Chris Griffin",
+      "instrumento": "trompeta",
+      "nota": "temas 1-11, 1-12, 1-13"
+    },
+    {
+      "musico": null,
+      "nombre": "Bernie Kaufman",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1-11, 1-12, 1-13"
+    },
+    {
+      "musico": null,
+      "nombre": "John Simmons",
+      "instrumento": "contrabajo",
+      "nota": "temas 1-11, 1-12, 1-13, 1-21, 1-22, 1-23, 1-24"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Springer",
+      "instrumento": "piano",
+      "nota": "temas 1-11, 1-12, 1-13"
+    },
+    {
+      "musico": null,
+      "nombre": "Thomas Barney",
+      "instrumento": "contrabajo",
+      "nota": "temas 1-17, 1-18, 1-19, 1-20"
+    },
+    {
+      "musico": "clarke",
+      "nombre": "Kenny Clarke",
+      "instrumento": "batería",
+      "nota": "temas 1-17, 1-18, 1-19, 1-20"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Kyle",
+      "instrumento": "piano",
+      "nota": "temas 1-17, 1-18, 1-19, 1-20, 2-16, 2-17, 2-18"
+    },
+    {
+      "musico": null,
+      "nombre": "Bob Haggart and His Orchestra",
+      "instrumento": "orquesta",
+      "nota": "temas 1-20, 1-26"
+    },
+    {
+      "musico": null,
+      "nombre": "Denzil Best",
+      "instrumento": "batería",
+      "nota": "temas 1-21, 1-22, 1-23, 1-24, 2-4, 2-5, 2-6, 2-7, 2-8"
+    },
+    {
+      "musico": null,
+      "nombre": "Lem Davis",
+      "instrumento": "saxo alto",
+      "nota": "temas 1-21, 1-22, 1-23, 1-24"
+    },
+    {
+      "musico": null,
+      "nombre": "Bob Dorsey",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1-21, 1-22, 1-23, 1-24"
+    },
+    {
+      "musico": null,
+      "nombre": "Rostelle Reese",
+      "instrumento": "trompeta",
+      "nota": "temas 1-21, 1-22, 1-23, 1-24"
+    },
+    {
+      "musico": null,
+      "nombre": "Bobby Tucker",
+      "instrumento": "piano",
+      "nota": "temas 1-21, 1-22, 1-23, 1-24, 1-25, 1-26, 2-1, 2-2, 2-3, 2-4, 2-5, 2-6, 2-7, 2-8"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Butterfield",
+      "instrumento": "trompeta",
+      "nota": "temas 1-25, 1-26, 2-1, 2-2, 2-3"
+    },
+    {
+      "musico": null,
+      "nombre": "Art Drelinger",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1-25, 1-26, 2-1, 2-2, 2-3, 2-16, 2-17, 2-18"
+    },
+    {
+      "musico": null,
+      "nombre": "Al Klink",
+      "instrumento": "saxo alto",
+      "nota": "temas 1-25, 1-26, 2-1, 2-2, 2-3"
+    },
+    {
+      "musico": null,
+      "nombre": "Toots Mondello",
+      "instrumento": "saxo alto",
+      "nota": "temas 1-25, 1-26, 2-1, 2-2, 2-3"
+    },
+    {
+      "musico": null,
+      "nombre": "Dan Perry",
+      "instrumento": "guitarra",
+      "nota": "temas 1-25, 1-26, 2-1, 2-2, 2-3"
+    },
+    {
+      "musico": null,
+      "nombre": "Norris \"Bunny\" Shawker",
+      "instrumento": "batería",
+      "nota": "temas 1-25, 1-26, 2-1, 2-2, 2-3, 2-19, 2-20, 2-21, 2-22"
+    },
+    {
+      "musico": null,
+      "nombre": "John Levy",
+      "instrumento": "contrabajo",
+      "nota": "temas 2-4, 2-5, 2-6, 2-7, 2-8"
+    },
+    {
+      "musico": null,
+      "nombre": "Mundell Lowe",
+      "instrumento": "guitarra",
+      "nota": "temas 2-4, 2-5, 2-6, 2-7, 2-8, 2-9, 2-10, 2-11"
+    },
+    {
+      "musico": null,
+      "nombre": "Buster Harding",
+      "instrumento": "dirección",
+      "nota": "temas 2-9, 2-10, 2-11"
+    },
+    {
+      "musico": null,
+      "nombre": "Emmett Berry",
+      "instrumento": "trompeta",
+      "nota": "temas 2-9, 2-10, 2-11"
+    },
+    {
+      "musico": null,
+      "nombre": "Buck Clayton",
+      "instrumento": "trompeta",
+      "nota": "temas 2-9, 2-10, 2-11"
+    },
+    {
+      "musico": null,
+      "nombre": "George Dorsey",
+      "instrumento": "saxo alto",
+      "nota": "temas 2-9, 2-10, 2-11, 2-12, 2-13, 2-14, 2-15"
+    },
+    {
+      "musico": null,
+      "nombre": "George Duvivier",
+      "instrumento": "contrabajo",
+      "nota": "temas 2-9, 2-10, 2-11, 2-12, 2-13"
+    },
+    {
+      "musico": null,
+      "nombre": "Horace Henderson",
+      "instrumento": "piano",
+      "nota": "temas 2-9, 2-10, 2-11, 2-12, 2-13, 2-14, 2-15"
+    },
+    {
+      "musico": null,
+      "nombre": "George Matthews",
+      "instrumento": "trombón",
+      "nota": "temas 2-9, 2-10, 2-11"
+    },
+    {
+      "musico": null,
+      "nombre": "Sol Moore",
+      "instrumento": "saxo barítono",
+      "nota": "temas 2-9, 2-10, 2-11"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Nottingham",
+      "instrumento": "trompeta",
+      "nota": "temas 2-9, 2-10, 2-11"
+    },
+    {
+      "musico": null,
+      "nombre": "Rudy Powell",
+      "instrumento": "saxo alto",
+      "nota": "temas 2-9, 2-10, 2-11"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Thomas",
+      "instrumento": "saxo tenor",
+      "nota": "temas 2-9, 2-10, 2-11"
+    },
+    {
+      "musico": null,
+      "nombre": "Dicky Wells",
+      "instrumento": "trombón",
+      "nota": "temas 2-9, 2-10, 2-11"
+    },
+    {
+      "musico": null,
+      "nombre": "Shadow Wilson",
+      "instrumento": "batería",
+      "nota": "temas 2-9, 2-10, 2-11"
+    },
+    {
+      "musico": "young",
+      "nombre": "Lester Young",
+      "instrumento": "saxo tenor",
+      "nota": "temas 2-9, 2-10, 2-11"
+    },
+    {
+      "musico": null,
+      "nombre": "Sy Oliver",
+      "instrumento": "dirección",
+      "nota": "temas 2-12, 2-13, 2-14, 2-15"
+    },
+    {
+      "musico": null,
+      "nombre": "Eddie Barefield",
+      "instrumento": "cañas",
+      "nota": "temas 2-12, 2-13"
+    },
+    {
+      "musico": null,
+      "nombre": "Everett Barksdale",
+      "instrumento": "guitarra",
+      "nota": "temas 2-12, 2-13, 2-14, 2-15, 2-16, 2-17, 2-18"
+    },
+    {
+      "musico": null,
+      "nombre": "Mort Bullman",
+      "instrumento": "trombón",
+      "nota": "temas 2-12, 2-13, 2-14, 2-15"
+    },
+    {
+      "musico": null,
+      "nombre": "Henderson Chambers",
+      "instrumento": "trombón",
+      "nota": "temas 2-12, 2-13, 2-14, 2-15"
+    },
+    {
+      "musico": null,
+      "nombre": "Cozy Cole",
+      "instrumento": "batería",
+      "nota": "temas 2-12, 2-13"
+    },
+    {
+      "musico": null,
+      "nombre": "Tony Faso",
+      "instrumento": "trompeta",
+      "nota": "temas 2-12, 2-13, 2-14, 2-15"
+    },
+    {
+      "musico": null,
+      "nombre": "Budd Johnson",
+      "instrumento": "saxo tenor",
+      "nota": "temas 2-12, 2-13, 2-14, 2-15"
+    },
+    {
+      "musico": null,
+      "nombre": "Johnny Mince",
+      "instrumento": "saxo alto",
+      "nota": "temas 2-12, 2-13, 2-16, 2-17, 2-18"
+    },
+    {
+      "musico": null,
+      "nombre": "Bernie Privin",
+      "instrumento": "trompeta",
+      "nota": "temas 2-12, 2-13, 2-16, 2-17, 2-18"
+    },
+    {
+      "musico": null,
+      "nombre": "Dick Vance",
+      "instrumento": "trompeta",
+      "nota": "temas 2-12, 2-13, 2-14, 2-15"
+    },
+    {
+      "musico": null,
+      "nombre": "Freddie Williams",
+      "instrumento": "saxo tenor",
+      "nota": "temas 2-12, 2-13, 2-14, 2-15"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Benjamin",
+      "instrumento": "contrabajo",
+      "nota": "temas 2-14, 2-15, 2-16, 2-17, 2-18"
+    },
+    {
+      "musico": null,
+      "nombre": "Wallace Bishop",
+      "instrumento": "batería",
+      "nota": "temas 2-14, 2-15"
+    },
+    {
+      "musico": null,
+      "nombre": "Pete Clark",
+      "instrumento": "saxo alto",
+      "nota": "temas 2-14, 2-15"
+    },
+    {
+      "musico": null,
+      "nombre": "Shad Collins",
+      "instrumento": "trompeta",
+      "nota": "temas 2-14, 2-15"
+    },
+    {
+      "musico": null,
+      "nombre": "Dave McRae",
+      "instrumento": "saxo barítono",
+      "nota": "temas 2-14, 2-15"
+    },
+    {
+      "musico": null,
+      "nombre": "Sid Cooper",
+      "instrumento": "saxo alto",
+      "nota": "temas 2-16, 2-17, 2-18"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Crawford",
+      "instrumento": "batería",
+      "nota": "temas 2-16, 2-17, 2-18"
+    },
+    {
+      "musico": null,
+      "nombre": "Pat Nizza",
+      "instrumento": "saxo tenor",
+      "nota": "temas 2-16, 2-17, 2-18"
+    },
+    {
+      "musico": null,
+      "nombre": "John Fulton",
+      "instrumento": "vientos de madera",
+      "nota": "temas 2-19, 2-20, 2-21, 2-22"
+    },
+    {
+      "musico": null,
+      "nombre": "Bobby Hackett",
+      "instrumento": "trompeta",
+      "nota": "temas 2-19, 2-20, 2-21, 2-22"
+    },
+    {
+      "musico": null,
+      "nombre": "Bernie Leighton",
+      "instrumento": "piano",
+      "nota": "temas 2-19, 2-20, 2-21, 2-22"
+    },
+    {
+      "musico": null,
+      "nombre": "Jack Lesberg",
+      "instrumento": "contrabajo",
+      "nota": "temas 2-19, 2-20, 2-21, 2-22"
+    },
+    {
+      "musico": null,
+      "nombre": "Tony Mottola",
+      "instrumento": "guitarra",
+      "nota": "temas 2-19, 2-20, 2-21, 2-22"
+    },
+    {
+      "musico": null,
+      "nombre": "Milt Yaner",
+      "instrumento": "cañas",
+      "nota": "temas 2-19, 2-20, 2-21, 2-22"
+    },
+    {
+      "musico": null,
+      "nombre": "Bob Bain",
+      "instrumento": "guitarra",
+      "nota": "temas 2-23, 2-24"
+    },
+    {
+      "musico": null,
+      "nombre": "Lou Butterman",
+      "instrumento": "contrabajo",
+      "nota": "temas 2-23, 2-24"
+    },
+    {
+      "musico": null,
+      "nombre": "Dick 'Dent' Eckles",
+      "instrumento": "flauta, saxo tenor",
+      "nota": "temas 2-23, 2-24"
+    },
+    {
+      "musico": null,
+      "nombre": "Nick Fatool",
+      "instrumento": "batería",
+      "nota": "temas 2-23, 2-24"
+    },
+    {
+      "musico": null,
+      "nombre": "Charles LaVere",
+      "instrumento": "piano",
+      "nota": "temas 2-23, 2-24"
+    },
+    {
+      "musico": null,
+      "nombre": "Toots Camarata and His Orchestra",
+      "instrumento": "orquesta",
+      "nota": "temas 1-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Teddy Wilson and His Orchestra",
+      "instrumento": "orquesta",
+      "nota": "temas 2-3"
+    },
+    {
+      "musico": null,
+      "nombre": "Gordon Jenkins and His Chorus",
+      "instrumento": "voz",
+      "nota": "temas 2-23, 2-24"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "swing"
   ],
@@ -48,10 +631,21 @@
     "Sus grabaciones de 1944 a 1950 para Decca, ya con cuerdas y arreglos más grandes: \"Lover Man\" y \"Don't Explain\". Holiday canta con orquestas y cuerdas, con una voz madura. En la ficha de Billie Holiday es el disco que representa la etapa \"Años en Decca\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "e03f2e8b-7d5d-3788-9f33-fbbd7665b0b7",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición e7a5c3f9-c6a8-49bf-b3db-19cc76f3eda0 (1991-10-01)."
+    }
+  ],
+  "recopilacion": {
+    "desde": 1944,
+    "hasta": 1950,
+    "original": "Los temas salieron primero en discos de 78 rpm."
+  }
 }

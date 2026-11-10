@@ -35,12 +35,42 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Robin Fassie",
+      "instrumento": "trompeta",
+      "nota": "temas 1"
+    },
+    {
       "musico": "makhathini",
       "nombre": "Nduduzo Makhathini",
-      "instrumento": "piano, voz"
+      "instrumento": "teclados, piano, palmas, sintetizador"
+    },
+    {
+      "musico": null,
+      "nombre": "Dalisu Ndlazi",
+      "instrumento": "contrabajo, palmas",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 16"
+    },
+    {
+      "musico": null,
+      "nombre": "Lukmil Perez Herrera",
+      "instrumento": "palmas",
+      "nota": "temas 2"
+    },
+    {
+      "musico": "hutchings",
+      "nombre": "Shabaka Hutchings",
+      "instrumento": "flauta",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Keenan Ahrends",
+      "instrumento": "guitarra",
+      "nota": "temas 10"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -48,10 +78,16 @@
     "Su disco doble más reciente, con Shabaka como invitado. Makhathini toca el piano con su grupo e invitados, en temas largos y espirituales. Es uno de los discos que el banco elige para conocer a Nduduzo Makhathini."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "d7934d3e-cb4b-4a18-9e15-304aabf56984",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición c34694f3-ac2e-41e1-852a-583296a03b78 (2026-06-26)."
+    }
+  ]
 }

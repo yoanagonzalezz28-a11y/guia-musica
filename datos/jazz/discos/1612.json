@@ -26,7 +26,9 @@
   "id": "1612",
   "titulo": "1612",
   "credito": "Mateo Ottonello Grupo",
-  "lideres": [],
+  "lideres": [
+    "ottonello"
+  ],
   "grabacion": {
     "desde": 2018,
     "hasta": 2018,
@@ -39,9 +41,9 @@
   "sello": null,
   "musicos": [
     {
-      "musico": null,
+      "musico": "ottonello",
       "nombre": "Mateo Ottonello",
-      "instrumento": "líder"
+      "instrumento": "líder, batería, composición"
     }
   ],
   "personalNota": "Lista parcial: sale de los créditos de Spotify.",

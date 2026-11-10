@@ -41,12 +41,37 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Mulgrew Miller",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Charnett Moffett",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Billie Pierce",
+      "instrumento": "saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Pierce",
+      "instrumento": "saxo"
+    },
+    {
+      "musico": "roney",
+      "nombre": "Wallace Roney",
+      "instrumento": "trompeta"
+    },
+    {
       "musico": "tonyw",
       "nombre": "Tony Williams",
       "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "neotrad"
   ],
@@ -59,7 +84,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición a2297eee-9389-43a4-81e6-0a8358c03a98 (1987)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Geo Rose",

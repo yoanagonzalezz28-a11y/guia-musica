@@ -39,9 +39,45 @@
       "musico": "porter",
       "nombre": "Gregory Porter",
       "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Chip Crawford",
+      "instrumento": "piano",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Emanuel Harrold",
+      "instrumento": "percusión",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Aaron James",
+      "instrumento": "bajo eléctrico",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Tivon Pennicott",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "佐藤洋祐",
+      "instrumento": "saxo alto",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Curtis Taylor",
+      "instrumento": "trompeta",
+      "nota": "temas 1"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -49,10 +85,16 @@
     "Ganó un Grammy. Porter canta con su quinteto canciones propias de soul y jazz, con una voz grave y cálida. Está entre los discos esenciales de Gregory Porter."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "e9e01308-161f-44aa-bb56-ca39827f7610",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 1a29e267-3b63-4987-8dbb-020f6ed1829d (2015-07-17)."
+    }
+  ]
 }

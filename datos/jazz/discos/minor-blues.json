@@ -39,9 +39,19 @@
       "musico": "barron",
       "nombre": "Kenny Barron",
       "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "George Mraz",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Ben Riley",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -49,12 +59,18 @@
     "Trío con George Mraz y Ben Riley. Barron toca el piano en trío con un toque claro y elegante, en blues menores y estándares. Es uno de los discos que el banco elige para conocer a Kenny Barron."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "7f295ab1-e9e8-4677-aed5-ccb6334fc5c8",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición ff33af5e-0f7d-4b6a-9f22-55cb602a920f (2009)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Minor Blues",

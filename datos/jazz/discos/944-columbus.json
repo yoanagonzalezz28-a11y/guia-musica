@@ -38,9 +38,81 @@
       "musico": "bauza",
       "nombre": "Mario Bauzá",
       "instrumento": "trompeta, saxo, arreglos"
+    },
+    {
+      "musico": null,
+      "nombre": "Rolando Briceño",
+      "instrumento": "saxo alto, saxo soprano",
+      "nota": "temas 1, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Pablo Calogero",
+      "instrumento": "saxo barítono",
+      "nota": "temas 1, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Bruce Eidem",
+      "instrumento": "trombón",
+      "nota": "temas 1, 8, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Michael Philip Mossman",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 6, 7, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Manuel \"Manny\" Duran",
+      "instrumento": "fliscorno",
+      "nota": "temas 2, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Enrique Fernández",
+      "instrumento": "flauta",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Rudy Calzado",
+      "instrumento": "voz",
+      "nota": "temas 3, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Marcus Persiani",
+      "instrumento": "piano",
+      "nota": "temas 4, 7, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Graciela",
+      "instrumento": "voz",
+      "nota": "temas 5, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Dioris Rivera",
+      "instrumento": "saxo tenor",
+      "nota": "temas 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Carlos “Patato” Valdés",
+      "instrumento": "congas",
+      "nota": "temas 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Pete Yellin",
+      "instrumento": "saxo alto",
+      "nota": "temas 8"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "latino"
   ],
@@ -48,10 +120,16 @@
     "Su último disco, editado poco después de su muerte. Bauzá, uno de los padres del jazz afrocubano, dirige su orquesta en temas largos de mambo y son con solos de jazz. Está entre los discos esenciales de Mario Bauzá."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "f4ec38ae-5581-3edf-8073-ea7f3b408f01",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 43c2ec19-ae1f-4d8d-8a8e-708333aa8f1a (1993)."
+    }
+  ]
 }

@@ -36,12 +36,82 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Wade Marcus",
+      "instrumento": "dirección"
+    },
+    {
+      "musico": null,
+      "nombre": "George Bohanon",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Ray Brown",
+      "instrumento": "trompeta"
+    },
+    {
       "musico": "byrd",
       "nombre": "Donald Byrd",
-      "instrumento": "trompeta"
+      "instrumento": "fliscorno, trompeta, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Mayuto Correa",
+      "instrumento": "percusión, congas"
+    },
+    {
+      "musico": null,
+      "nombre": "King Errisson",
+      "instrumento": "congas"
+    },
+    {
+      "musico": null,
+      "nombre": "Tyree Glenn, Jr.",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Harvey Mason",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Craig McMullen",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Fonce Mizell",
+      "instrumento": "clavinet, trompeta, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Larry Mizell",
+      "instrumento": "piano, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Chuck Rainey",
+      "instrumento": "bajo eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "John Rowin",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Skip Scarborough",
+      "instrumento": "piano eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Kay Haith",
+      "instrumento": "voz"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "souljazz"
   ],
@@ -49,10 +119,16 @@
     "Trompeta sobre bases de funk con voces suaves y cuerdas. Lo produjeron Larry y Fonce Mizell, y el hip hop lo sampleó muchísimo. Está entre los discos esenciales de Donald Byrd."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "4e1bb2ff-4fd9-315c-9ce6-9822f610c78d",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 9bab8721-0d79-4007-8937-2ef2e8a8df54 (1975)."
+    }
+  ]
 }

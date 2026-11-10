@@ -36,12 +36,30 @@
   "sello": "Anteprima",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Eivind Aarset",
+      "instrumento": "electronic instruments, guitarra eléctrica",
+      "nota": "temas 1, 2, 3, 4, 5, 8, 9, 10, 11, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Hüsnü Şenlendirici",
+      "instrumento": "clarinete",
+      "nota": "temas 1, 2, 3, 4, 5, 8, 9, 10, 11, 12"
+    },
+    {
       "musico": "youssef",
       "nombre": "Dhafer Youssef",
       "instrumento": "oud, voz"
+    },
+    {
+      "musico": "zakir",
+      "nombre": "Zakir Hussain",
+      "instrumento": "percusión, tabla",
+      "nota": "temas 2, 3, 5, 6, 7, 8, 9, 11"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -49,12 +67,18 @@
     "El oud y la voz de Youssef con la tabla de Zakir Hussain y el clarinete de Hüsnü Şenlendirici, en temas lentos y ornamentados. Junta a un tunecino, un indio y un turco, tres tradiciones que comparten la ornamentación y los modos. Es uno de los discos que el banco elige para conocer a Dhafer Youssef."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "3cd444d1-88cf-4469-955a-da58cffc4b7f",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 23f0a6d1-bbd8-4985-a877-2f421ee92dbc (2018-10-05)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Humankind",

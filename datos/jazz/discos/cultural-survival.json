@@ -34,12 +34,59 @@
   "sello": "Concord",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Henry Cole",
+      "instrumento": "batería",
+      "nota": "temas 1, 4, 5, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Lage Lund",
+      "instrumento": "guitarra eléctrica"
+    },
+    {
       "musico": "david-sanchez",
       "nombre": "David Sánchez",
-      "instrumento": "saxo tenor"
+      "instrumento": "saxo tenor, percusión, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Ben Street",
+      "instrumento": "bajo",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Adam Cruz",
+      "instrumento": "batería",
+      "nota": "temas 2, 3, 6, 7"
+    },
+    {
+      "musico": "danilo-perez",
+      "nombre": "Danilo Pérez",
+      "instrumento": "piano",
+      "nota": "temas 2, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Pernell Saturnino",
+      "instrumento": "percusión",
+      "nota": "temas 2, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Hans Glawischnig",
+      "instrumento": "bajo",
+      "nota": "temas 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Robert Rodriguez",
+      "instrumento": "piano, piano eléctrico Rhodes",
+      "nota": "temas 8"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "latino"
   ],
@@ -47,10 +94,16 @@
     "Cuarteto con Lage Lund. Sánchez toca el saxo tenor con un cuarteto de guitarra, con temas largos de jazz moderno. Es uno de los discos que el banco elige para conocer a David Sánchez."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "ab1d7abf-c646-3462-934f-c88654ee9d78",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 88ccb1da-a2e0-3c72-97f9-f67b0a7ee4f0 (2008-05-20)."
+    }
+  ]
 }

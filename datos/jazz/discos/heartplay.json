@@ -36,12 +36,17 @@
   "sello": "Half Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Antonio Forcione",
+      "instrumento": "guitarra"
+    },
+    {
       "musico": "haden",
       "nombre": "Charlie Haden",
-      "instrumento": "contrabajo"
+      "instrumento": "contrabajo, bajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm"
   ],
@@ -54,7 +59,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 9724f658-d22b-4fb4-b077-510dcfa6ae0e (2006-09-25)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Anna",

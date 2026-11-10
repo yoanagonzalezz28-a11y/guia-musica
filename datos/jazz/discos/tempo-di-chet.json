@@ -34,12 +34,28 @@
   "sello": "Tǔk Music",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Marco Bardoscia",
+      "instrumento": "contrabajo"
+    },
+    {
       "musico": "fresu",
       "nombre": "Paolo Fresu",
-      "instrumento": "trompeta, fliscorno"
+      "instrumento": "fliscorno, trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Dino Rubino",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Stefano Bagnoli",
+      "instrumento": "batería",
+      "nota": "temas 3, 12"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "cool"
   ],
@@ -47,12 +63,18 @@
     "Homenaje a Chet Baker, grabado para una obra de teatro sobre él. Fresu toca la trompeta con su trío, en temas asociados a Chet Baker. Es el disco clave de Paolo Fresu en la etapa \"Cool\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "c4099cf8-70aa-4d89-bf5f-443d9b3493df",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 905ff4fa-3eef-4ed7-9932-12da65f76783 (2018-11-09)."
+    }
+  ],
   "temas": [
     {
       "titulo": "But Not for Me",

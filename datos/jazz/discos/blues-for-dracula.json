@@ -36,12 +36,37 @@
   "sello": "Riverside",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Nat Adderley",
+      "instrumento": "corneta"
+    },
+    {
+      "musico": "flanagan",
+      "nombre": "Tommy Flanagan",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Garrison",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Johnny Griffin",
+      "instrumento": "saxo tenor"
+    },
+    {
       "musico": "philly-joe-jones",
       "nombre": "Philly Joe Jones",
       "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Julian Priester",
+      "instrumento": "trombón"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -49,12 +74,18 @@
     "Con Nat Adderley y Johnny Griffin: hard bop con humor, empezando por una imitación de Bela Lugosi. El grupo de Philly Joe toca hard bop con mucho swing, y el baterista abre el disco con un monólogo en tono de película de terror. Es el disco clave de Philly Joe Jones en la etapa \"Hard bop\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "b0577a5e-7244-37a2-b42c-6f617d2dafb3",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición cc60372c-d680-4705-8fb9-be97fa6d73dd (1958)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Blues For Dracula",

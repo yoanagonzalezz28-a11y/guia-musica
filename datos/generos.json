@@ -3,18 +3,18 @@
     "id": "jazz",
     "nombre": "Jazz",
     "estado": "activo",
-    "lema": "Dos corrientes de prueba: bebop y hard bop."
+    "lema": "18 épocas, de Nueva Orleans a hoy, con sus músicos, discos y regiones."
   },
   {
     "id": "clasica",
     "nombre": "Clásica",
     "estado": "planificado",
-    "lema": "Viene después del jazz."
+    "lema": "Próximo género del banco."
   },
   {
     "id": "post-rock",
     "nombre": "Post-rock",
     "estado": "planificado",
-    "lema": "Viene después de la clásica."
+    "lema": "Después de la clásica."
   }
 ]

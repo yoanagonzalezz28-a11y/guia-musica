@@ -37,12 +37,27 @@
   "sello": "Miel Music",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Henry Cole",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Hans Glawischnig",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Luis Perdomo",
+      "instrumento": "piano"
+    },
+    {
       "musico": "zenon",
       "nombre": "Miguel Zenón",
-      "instrumento": "saxo alto, composición"
+      "instrumento": "saxo alto"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "latino"
   ],
@@ -50,12 +65,18 @@
     "Homenaje al gran sonero puertorriqueño. Zenón toca el saxo alto con su cuarteto, en temas de Rivera. Está entre los discos esenciales de Miguel Zenón."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "3667de5a-74d7-47ed-a566-92b3449b35dd",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 0903bea5-5867-4211-aa2e-3cfdad3754f9 (2019-08-30)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Intro / Maelo a Capella",

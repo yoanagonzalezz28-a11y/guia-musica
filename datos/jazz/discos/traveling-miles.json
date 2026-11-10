@@ -35,12 +35,120 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Marcus Baylor",
+      "instrumento": "batería, percusión",
+      "nota": "temas 1, 6, 7, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Kevin Breit",
+      "instrumento": "guitarra eléctrica, bouzouki, mandolina, guitarra, mandocello, guitarra acústica",
+      "nota": "temas 1, 4, 7, 8, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Olu Dara",
+      "instrumento": "corneta",
+      "nota": "temas 1, 12"
+    },
+    {
+      "musico": "holland",
+      "nombre": "Dave Holland",
+      "instrumento": "contrabajo",
+      "nota": "temas 1, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Eric Lewis",
+      "instrumento": "piano",
+      "nota": "temas 1, 6, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Mr. Lif",
+      "instrumento": "percusión",
+      "nota": "temas 1, 3, 4, 5, 7, 8, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Marvin Sewell",
+      "instrumento": "guitarra eléctrica, guitarra clásica, guitarra acústica, bouzouki",
+      "nota": "temas 1, 2, 4, 5, 7, 8, 9, 11, 12"
+    },
+    {
       "musico": "cassandra",
       "nombre": "Cassandra Wilson",
-      "instrumento": "voz"
+      "instrumento": "voz, guitarra acústica"
+    },
+    {
+      "musico": null,
+      "nombre": "Mino Cinelu",
+      "instrumento": "percusión",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Coleman",
+      "instrumento": "saxo alto",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Lonnie Plaxico",
+      "instrumento": "contrabajo",
+      "nota": "temas 2, 3, 4, 5, 6, 7, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Doug Wamble",
+      "instrumento": "guitarra acústica",
+      "nota": "temas 2, 3, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Perry Wilson",
+      "instrumento": "batería",
+      "nota": "temas 2, 3, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Cecilia Smith",
+      "instrumento": "marimba",
+      "nota": "temas 3, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Vincent Henry",
+      "instrumento": "armónica",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Regina Carter",
+      "instrumento": "violín",
+      "nota": "temas 6, 7, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Stefon Harris",
+      "instrumento": "vibráfono",
+      "nota": "temas 6, 8"
+    },
+    {
+      "musico": "metheny",
+      "nombre": "Pat Metheny",
+      "instrumento": "guitarra clásica",
+      "nota": "temas 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Angélique Kidjo",
+      "instrumento": "voz",
+      "nota": "temas 12"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -48,10 +156,16 @@
     "Wilson canta con su grupo temas asociados a Miles Davis, con un sonido terroso y lento. Es un homenaje a Davis, y algunas canciones tienen letras nuevas escritas por ella sobre temas instrumentales. Es uno de los discos que el banco elige para conocer a Cassandra Wilson."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "a5f6b597-4ea5-3a66-891f-925f6fbdf46d",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 9a791e4b-304e-4657-808e-a3f09f2c00fb (1999)."
+    }
+  ]
 }

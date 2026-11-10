@@ -36,12 +36,50 @@
   "sello": "Columbia",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Booker Ervin",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Shafi Hadi",
+      "instrumento": "saxo tenor, saxo alto",
+      "nota": "temas 1, 3, 4, 5, 6, 7, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "John Handy",
+      "instrumento": "saxo alto, saxo tenor, clarinete"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Knepper",
+      "instrumento": "trombón",
+      "nota": "temas 1, 7, 8, 9"
+    },
+    {
       "musico": "mingus",
       "nombre": "Charles Mingus",
-      "instrumento": "contrabajo, composición"
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Horace Parlan",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Dannie Richmond",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Willie Dennis",
+      "instrumento": "trombón",
+      "nota": "temas 3, 4, 5"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -58,7 +96,13 @@
     "wikidata": null,
     "wikipedia": "Mingus_Ah_Um"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 96c5cc73-798b-49d8-9708-51fcaf81931a (1959)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Better Git It in Your Soul",

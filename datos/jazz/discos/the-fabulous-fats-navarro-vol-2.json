@@ -39,9 +39,87 @@
       "musico": "navarro",
       "nombre": "Fats Navarro",
       "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Howard McGhee",
+      "instrumento": "trompeta",
+      "nota": "temas 7, 10–11"
+    },
+    {
+      "musico": null,
+      "nombre": "Ernie Henry",
+      "instrumento": "saxo alto",
+      "nota": "temas 7, 10–11"
+    },
+    {
+      "musico": null,
+      "nombre": "Allen Eager",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1–6"
+    },
+    {
+      "musico": null,
+      "nombre": "Wardell Gray",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1–6"
+    },
+    {
+      "musico": "rollins",
+      "nombre": "Sonny Rollins",
+      "instrumento": "saxo tenor",
+      "nota": "temas 8–9"
+    },
+    {
+      "musico": "milt-jackson",
+      "nombre": "Milt Jackson",
+      "instrumento": "vibráfono, piano",
+      "nota": "temas 7, 10–11"
+    },
+    {
+      "musico": "powell",
+      "nombre": "Bud Powell",
+      "instrumento": "piano",
+      "nota": "temas 8–9"
+    },
+    {
+      "musico": "dameron",
+      "nombre": "Tadd Dameron",
+      "instrumento": "piano",
+      "nota": "temas 1–6"
+    },
+    {
+      "musico": null,
+      "nombre": "Curley Russell",
+      "instrumento": "bajo",
+      "nota": "temas 1–7, 10–11"
+    },
+    {
+      "musico": null,
+      "nombre": "Tommy Potter",
+      "instrumento": "bajo",
+      "nota": "temas 8–9"
+    },
+    {
+      "musico": "clarke",
+      "nombre": "Kenny Clarke",
+      "instrumento": "batería",
+      "nota": "temas 1–7, 10–11"
+    },
+    {
+      "musico": "haynes",
+      "nombre": "Roy Haynes",
+      "instrumento": "batería",
+      "nota": "temas 8–9"
+    },
+    {
+      "musico": null,
+      "nombre": "Chino Pozo",
+      "instrumento": "bongós",
+      "nota": "temas 3–4"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "bebop"
   ],
@@ -52,7 +130,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "The_Fabulous_Fats_Navarro,_Vol._2"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"The Fabulous Fats Navarro, Vol. 2\"."
+    }
+  ]
 }

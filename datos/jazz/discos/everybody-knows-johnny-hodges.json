@@ -36,10 +36,115 @@
     {
       "musico": "hodges",
       "nombre": "Johnny Hodges",
-      "instrumento": "saxo alto"
+      "instrumento": "alto sax"
+    },
+    {
+      "musico": null,
+      "nombre": "Cat Anderson",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Harold Ashby",
+      "instrumento": "tenor sax"
+    },
+    {
+      "musico": null,
+      "nombre": "Lawrence Brown",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Harry Carney",
+      "instrumento": "baritone sax"
+    },
+    {
+      "musico": null,
+      "nombre": "Buster Cooper",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Richard Davis",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Rolf Ericson",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Gonsalves",
+      "instrumento": "tenor sax"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Hamilton",
+      "instrumento": "clarinete, tenor sax"
+    },
+    {
+      "musico": null,
+      "nombre": "Johnny Hodges, Jr.",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Gus Johnson",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Herb Jones",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Osvaldo Berlingieri",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Ray Nance",
+      "instrumento": "trompeta, violín, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Russell Procope",
+      "instrumento": "clarinete, alto sax"
+    },
+    {
+      "musico": null,
+      "nombre": "Ernie Shepard",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Grady Tate",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Britt Woodman",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Andy Baltimore",
+      "instrumento": "creative director"
+    },
+    {
+      "musico": null,
+      "nombre": "Cue Hodges",
+      "instrumento": "composer"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Strayhorn",
+      "instrumento": "composer"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "swing"
   ],
@@ -50,7 +155,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Everybody_Knows_Johnny_Hodges"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Everybody Knows Johnny Hodges\"."
+    }
+  ]
 }

@@ -34,12 +34,37 @@
   "sello": "Label Bleu",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "François Corneloup",
+      "instrumento": "saxo barítono"
+    },
+    {
+      "musico": null,
+      "nombre": "Armel Dupas",
+      "instrumento": "piano, teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Nguyên Lê",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Louis Moutin",
+      "instrumento": "batería"
+    },
+    {
       "musico": "texier",
       "nombre": "Henri Texier",
-      "instrumento": "contrabajo, composición"
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Sébastien Texier",
+      "instrumento": "saxo alto, clarinete"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -47,10 +72,16 @@
     "Contrabajo con saxo y clarinete, en temas melódicos. Texier es francés, y su hijo Sébastien toca desde hace años en sus grupos. Es el disco clave de Henri Texier en la etapa \"Jazz del mundo\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "246249e5-cb0f-4ca5-80cb-c373007d8c3b",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 60c5bdf6-242e-418e-a2a2-de4c3cb30237 (2015)."
+    }
+  ]
 }

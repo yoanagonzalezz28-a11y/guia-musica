@@ -547,7 +547,7 @@ const construir = {
       titulo: `${d.titulo} (${d.credito})`, descripcion: sinCitas(d.comentario[0]), seccion: 'discos',
       cuerpo: `<div style="${tintaVars(c)}"><article class="contratapa">
       <div class="contratapa-banda">
-        <span class="catalogo">${d.catalogo ? esc(d.catalogo) : 'Sin n.º de catálogo'} · ${esc(d.sello || 'Sello sin dato')} · ${d.edicion.anio}</span>
+        <span class="catalogo">${esc([d.catalogo, d.sello, d.edicion.anio].filter(Boolean).join(' · '))}</span>
         <span class="formato">${d.tipo === 'vivo' ? 'EN VIVO' : 'ESTUDIO'}${d.compilacion ? ' · RECOPILACIÓN' : ''}</span>
       </div>
       <header class="heroe-disco">
@@ -555,7 +555,7 @@ const construir = {
         ${d.redescubrimiento ? etiquetaRedescubrimiento() : ''}
       </header>
       <div class="contratapa-grilla">
-        <div class="notas-tapa lectura">${notas}
+        <div class="notas-tapa lectura">${d.compilacion ? `<p class="nota-datos">${textoRecopilacion(ctx, d)}</p>` : ''}${notas}
           <p><a class="boton" href="${esc(sp.url)}" rel="noopener">${sp.texto}</a></p>
           ${sp.verificado ? (d.spotify.tituloEnSpotify && d.spotify.tituloEnSpotify !== d.titulo ? `<p class="ayuda">En Spotify figura como "${esc(d.spotify.tituloEnSpotify)}".</p>` : '') : '<p class="ayuda">Todavía no confirmamos un álbum exacto en Spotify, así que este link abre una búsqueda.</p>'}
         </div>
@@ -572,7 +572,7 @@ const construir = {
           </section>
           <section><span class="rotulo">Músicos</span>
             <ul class="personal">${d.musicos.map(m => `<li><span class="personal-nombre">${m.musico ? enlaceMusico(ctx, m.musico) : esc(m.nombre)}</span> <span class="personal-instrumento">${esc(m.instrumento)}${m.nota ? `, ${esc(m.nota.charAt(0).toLowerCase() + m.nota.slice(1))}` : ''}</span></li>`).join('')}</ul>
-            ${d.personalNota ? `<p class="ayuda">${ctx.texto(d.personalNota)}</p>` : ''}</section>
+            ${d.personalNota && !/falta cargar/i.test(d.personalNota) ? `<p class="ayuda">${ctx.texto(d.personalNota)}</p>` : ''}</section>
           ${d.temas?.length ? `<section><span class="rotulo">Temas</span><ol class="temas">${d.temas.map(t => `<li><span>${esc(tituloTema(t.titulo))}</span><span class="duracion">${duracion(t.duracion)}</span></li>`).join('')}</ol></section>` : ''}
           <section><span class="rotulo">Ficha</span><dl class="ficha">
             ${dato('Grabado', esc(grabado))}
@@ -812,6 +812,14 @@ function redirecciones() {
     fs.mkdirSync(path.join(DIST, ruta), { recursive: true });
     fs.writeFileSync(path.join(DIST, ruta, 'index.html'), `<!doctype html><html lang="es-AR"><head><meta charset="utf-8"><meta name="robots" content="noindex"><meta http-equiv="refresh" content="0; url=${destino}"><title>Esta ficha se mudó</title></head><body><p>Esta ficha se mudó: <a href="${destino}">seguir</a>.</p></body></html>\n`);
   }
+}
+
+// Una recopilación dice qué años abarca y, si se sabe, dónde salieron primero esas grabaciones.
+function textoRecopilacion(ctx, d) {
+  const r = d.recopilacion || {};
+  const desde = r.desde ?? d.grabacion.desde, hasta = r.hasta ?? d.grabacion.hasta;
+  const anios = r.anios || (desde === hasta ? `de ${desde}` : `de ${desde} a ${hasta}`);
+  return `<strong>Recopilación de grabaciones ${anios}.</strong>${r.original ? ` ${ctx.texto(r.original)}` : ''}`;
 }
 
 // ---------- Ejecución ----------

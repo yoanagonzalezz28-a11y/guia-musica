@@ -36,12 +36,63 @@
   "sello": "RCA Victor",
   "musicos": [
     {
+      "musico": "evans",
+      "nombre": "Bill Evans",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Art Farmer",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Barry Galbraith",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Harris",
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 3, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Milt Hinton",
+      "instrumento": "bajo",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 8, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Hal McKusick",
+      "instrumento": "saxo alto, flauta"
+    },
+    {
+      "musico": "motian",
+      "nombre": "Paul Motian",
+      "instrumento": "batería",
+      "nota": "temas 5, 6, 8, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Osie Johnson",
+      "instrumento": "batería",
+      "nota": "temas 7, 9, 10, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Teddy Kotick",
+      "instrumento": "bajo",
+      "nota": "temas 7, 9, 10, 11"
+    },
+    {
       "musico": "george-russell",
       "nombre": "George Russell",
-      "instrumento": "composición, piano, teoría"
+      "instrumento": "boobam",
+      "nota": "temas 7"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "cool"
   ],
@@ -49,10 +100,16 @@
     "Con Bill Evans y Art Farmer: composiciones que ya piensan en modos. Russell escribe para un grupo con Evans y Farmer temas complejos, con ritmos y armonías poco comunes. En la ficha de George Russell es el disco que representa la etapa \"Cool\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "49b2a15d-fb81-3f54-803d-ddf817022aae",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 1042198e-37f7-448b-a535-79d22c3a0e56 (1957)."
+    }
+  ]
 }

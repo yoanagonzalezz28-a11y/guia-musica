@@ -34,12 +34,68 @@
   "sello": "Milestone",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "David Amaro",
+      "instrumento": "guitarra eléctrica, voz, guitarra acústica"
+    },
+    {
+      "musico": null,
+      "nombre": "Leon Ndugu Chancler",
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 3"
+    },
+    {
+      "musico": null,
+      "nombre": "George Duke",
+      "instrumento": "piano eléctrico, sintetizador, clavinet",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Alphonso Johnson",
+      "instrumento": "bajo, contrabajo"
+    },
+    {
+      "musico": "airto",
+      "nombre": "Airto Moreira",
+      "instrumento": "percusión, voz, congas, batería, berimbau"
+    },
+    {
+      "musico": "hermeto",
+      "nombre": "Hermeto Pascoal",
+      "instrumento": "voz, flauta, piano eléctrico, clave, percusión"
+    },
+    {
       "musico": "flora",
       "nombre": "Flora Purim",
       "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Laudir de Oliveira",
+      "instrumento": "congas",
+      "nota": "temas 3, 6"
+    },
+    {
+      "musico": "ronc",
+      "nombre": "Ron Carter",
+      "instrumento": "contrabajo",
+      "nota": "temas 4, 8"
+    },
+    {
+      "musico": "gismonti",
+      "nombre": "Egberto Gismonti",
+      "instrumento": "guitarra acústica",
+      "nota": "temas 4, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Roberto Silva",
+      "instrumento": "batería, berimbau, percusión",
+      "nota": "temas 4, 5, 6, 8"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "brasil"
   ],
@@ -47,10 +103,16 @@
     "Purim canta fusión brasileña con George Duke en teclados y Airto Moreira en percusión. Airto era su marido, y los dos venían de tocar en el primer Return to Forever de Chick Corea. Está entre los discos esenciales de Flora Purim."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "537352c3-77e4-3395-8812-e9aba262d670",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 95dec9cf-6b54-4567-a390-bc020c995eda (1976)."
+    }
+  ]
 }

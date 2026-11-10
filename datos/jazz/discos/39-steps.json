@@ -39,9 +39,24 @@
       "musico": "abercrombie",
       "nombre": "John Abercrombie",
       "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Joey Baron",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Marc Copland",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Drew Gress",
+      "instrumento": "contrabajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm"
   ],
@@ -49,10 +64,16 @@
     "Cuarteto con Marc Copland: guitarra y piano en voz baja. Abercrombie y Copland se escuchan mucho entre sí: los solos son breves, las armonías son difusas y nadie levanta la voz. Está entre los discos esenciales de John Abercrombie."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "3474bca5-2afd-418e-915d-9e052951eabd",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición dcde8c7c-5f91-4d59-8c3d-b5f261ee7d77 (2013)."
+    }
+  ]
 }

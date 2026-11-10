@@ -36,12 +36,27 @@
   "sello": "ACT Music",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Dan Berglund",
+      "instrumento": "bajo, contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Magnus Öström",
+      "instrumento": "percusión, batería"
+    },
+    {
       "musico": "svensson",
       "nombre": "Esbjörn Svensson",
       "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Esbjörn Svensson Trio",
+      "instrumento": "músico"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -49,10 +64,16 @@
     "Melodías amplias y climas casi de rock. El trío de Svensson toca temas amplios y melódicos, con efectos en el contrabajo. Está entre los discos esenciales de Esbjörn Svensson."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "89f97351-58fd-3ccd-8e94-ad4efbc1b534",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 91aee984-e252-3a66-914c-e7482d1f2adc (2005)."
+    }
+  ]
 }

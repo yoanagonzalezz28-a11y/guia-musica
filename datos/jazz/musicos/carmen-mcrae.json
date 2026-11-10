@@ -1,0 +1,54 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "carmen-mcrae",
+  "nombre": "Carmen McRae",
+  "nacimiento": {
+    "anio": 1920,
+    "lugar": "Nueva York"
+  },
+  "muerte": {
+    "anio": 1994
+  },
+  "instrumentos": [
+    "voz",
+    "piano"
+  ],
+  "corrientes": [
+    "hard-bop",
+    "neotrad"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Una de las cantantes más influyentes del jazz, recordada por su fraseo atrasado respecto del pulso y su lectura irónica de las letras.",
+  "epocas": [
+    {
+      "titulo": "Hard bop",
+      "desde": 1962,
+      "hasta": 1990,
+      "texto": "",
+      "discoClave": {
+        "disco": "carmen-mcrae-sings-lover-man",
+        "explicacion": "Su homenaje a Billie Holiday."
+      },
+      "discos": [
+        "the-great-american-songbook",
+        "carmen-sings-monk"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-carmen-mcrae"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "carmen-mcrae-sings-lover-man",
+    "the-great-american-songbook",
+    "carmen-sings-monk"
+  ]
+}

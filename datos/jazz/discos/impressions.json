@@ -38,10 +38,45 @@
     {
       "musico": "coltrane",
       "nombre": "John Coltrane",
-      "instrumento": "saxo tenor, saxo soprano"
+      "instrumento": "saxo soprano, saxo tenor"
+    },
+    {
+      "musico": "dolphy",
+      "nombre": "Eric Dolphy",
+      "instrumento": "clarinete bajo, saxo alto",
+      "nota": "temas 1, 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Garrison",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "elvin",
+      "nombre": "Elvin Jones",
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 3"
+    },
+    {
+      "musico": "tyner",
+      "nombre": "McCoy Tyner",
+      "instrumento": "piano",
+      "nota": "temas 1, 3, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Reggie Workman",
+      "instrumento": "contrabajo",
+      "nota": "temas 1"
+    },
+    {
+      "musico": "haynes",
+      "nombre": "Roy Haynes",
+      "instrumento": "batería",
+      "nota": "temas 4"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "modal"
   ],
@@ -54,7 +89,13 @@
     "wikidata": null,
     "wikipedia": "Impressions_(John_Coltrane_album)"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición d609a8b8-0128-42b4-b0d7-b7acab79cc38 (1963)."
+    }
+  ],
   "temas": [
     {
       "titulo": "India - Live At The Village Vanguard, New York/1961",

@@ -34,9 +34,24 @@
       "musico": "holdsworth",
       "nombre": "Allan Holdsworth",
       "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Alan Pasqua",
+      "instrumento": "teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Tony Newton",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": "tonyw",
+      "nombre": "Tony Williams",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "fusion"
   ],
@@ -47,7 +62,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Believe_It_(album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Believe It (album)\"."
+    }
+  ]
 }

@@ -37,9 +37,44 @@
       "musico": "moholo",
       "nombre": "Louis Moholo-Moholo",
       "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Ntshuks Bonga",
+      "instrumento": "saxo soprano, saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Jason Yarde",
+      "instrumento": "saxo soprano, saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Henry Lowther",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Alan Tomlinson",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Francine Luce",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Alexander Hawkins",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "John Edwards",
+      "instrumento": "contrabajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "free"
   ],
@@ -50,7 +85,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "For_the_Blue_Notes"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"For the Blue Notes\"."
+    }
+  ]
 }

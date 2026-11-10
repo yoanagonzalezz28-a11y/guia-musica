@@ -37,9 +37,29 @@
       "musico": "guiliana",
       "nombre": "Mark Guiliana",
       "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "David Bowie&nbsp;– vocals",
+      "instrumento": "guitarra acústica, fender guitarra, armónica, string arrangement"
+    },
+    {
+      "musico": null,
+      "nombre": "Donny McCaslin&nbsp;– tenor saxophone",
+      "instrumento": "flauta"
+    },
+    {
+      "musico": null,
+      "nombre": "Jason Lindner&nbsp;– piano, Wurlitzer organ",
+      "instrumento": "teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Mark Guiliana&nbsp;– drums",
+      "instrumento": "percusión"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "hoy"
   ],
@@ -50,7 +70,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Blackstar_(album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Blackstar (album)\"."
+    }
+  ]
 }

@@ -34,12 +34,31 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Steve Grossman",
+      "instrumento": "saxo",
+      "nota": "temas 2, 6, 7, 8"
+    },
+    {
       "musico": "elvin",
       "nombre": "Elvin Jones",
-      "instrumento": "batería"
+      "instrumento": "batería",
+      "nota": "temas 2, 6, 7, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "David Liebman",
+      "instrumento": "vientos de madera",
+      "nota": "temas 2, 6, 7, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Gene A Perla",
+      "instrumento": "bajo",
+      "nota": "temas 2, 6, 7, 8"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "modal"
   ],
@@ -47,10 +66,16 @@
     "Con Steve Grossman y Dave Liebman: solos larguísimos y una batería que no da respiro. Jones toca la batería con dos saxos y contrabajo, en temas largos y muy intensos. Es uno de los discos que el banco elige para conocer a Elvin Jones."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "63215382-668f-4fa4-859e-7eb507af9370",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Live_at_the_Lighthouse_(Elvin_Jones_album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 64150b12-db04-48c2-b1db-9f5e192b88a3 (1972)."
+    }
+  ]
 }

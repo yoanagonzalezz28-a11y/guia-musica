@@ -35,12 +35,37 @@
   "sello": "Verve",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Claus Ogerman",
+      "instrumento": "dirección",
+      "nota": "temas 6"
+    },
+    {
+      "musico": null,
+      "nombre": "[unknown]",
+      "instrumento": "cuerdas",
+      "nota": "temas 6"
+    },
+    {
+      "musico": null,
+      "nombre": "George Duvivier",
+      "instrumento": "contrabajo",
+      "nota": "temas 6"
+    },
+    {
       "musico": "jobim",
       "nombre": "Antônio Carlos Jobim",
-      "instrumento": "piano, guitarra, composición"
+      "instrumento": "guitarra, piano",
+      "nota": "temas 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Leo Wright",
+      "instrumento": "flauta",
+      "nota": "temas 6"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "brasil"
   ],
@@ -48,10 +73,16 @@
     "Sus temas como instrumentista, con arreglos de Claus Ogerman. Jobim toca el piano y la guitarra con orquesta, en temas instrumentales. En la ficha de Antônio Carlos Jobim es el disco que representa la etapa \"Jazz brasileño\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "ff43f179-c079-3ca8-b9e8-f9852ecff712",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 444b5bd3-296a-492a-acfe-527fc74f569a (1963)."
+    }
+  ]
 }

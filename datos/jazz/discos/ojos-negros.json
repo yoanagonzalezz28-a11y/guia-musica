@@ -35,12 +35,17 @@
   "sello": "ECM",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Anja Lechner",
+      "instrumento": "violonchelo"
+    },
+    {
       "musico": "saluzzi",
       "nombre": "Dino Saluzzi",
       "instrumento": "bandoneón"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "rioplat"
   ],
@@ -48,10 +53,16 @@
     "Dúo con la violonchelista Anja Lechner. Saluzzi toca el bandoneón y Lechner el violonchelo, en temas lentos y melancólicos. Está entre los discos esenciales de Dino Saluzzi."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "8c07c94c-71d6-36f1-a750-270d94aacdab",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición b4684b16-b2cb-462c-a400-c627ad431e59 (2007)."
+    }
+  ]
 }

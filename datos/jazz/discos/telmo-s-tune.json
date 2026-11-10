@@ -42,12 +42,32 @@
   "sello": null,
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Chris Cheek",
+      "instrumento": "saxo"
+    },
+    {
+      "musico": "genovese",
+      "nombre": "Leo Genovese",
+      "instrumento": "teclados"
+    },
+    {
       "musico": "klein",
       "nombre": "Guillermo Klein",
-      "instrumento": "piano, composición, arreglos"
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Allan Mednard",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Matt Pavolka",
+      "instrumento": "bajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "rioplat"
   ],
@@ -60,7 +80,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 49ca3a2e-7065-46e6-a112-26d196b11d92 (2023-08-18)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Criolla",

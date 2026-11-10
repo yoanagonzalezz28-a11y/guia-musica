@@ -36,12 +36,47 @@
   "sello": "Messidor",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Bernardo Garcia Carreras",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Jorge Reyes",
+      "instrumento": "bajo, bajo eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Jorge Chicoy",
+      "instrumento": "guitarra",
+      "nota": "temas 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Hilario Durán",
+      "instrumento": "teclados",
+      "nota": "temas 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Bernardo Garcia",
+      "instrumento": "batería",
+      "nota": "temas 4"
+    },
+    {
       "musico": "sandoval",
       "nombre": "Arturo Sandoval",
-      "instrumento": "trompeta"
+      "instrumento": "fliscorno, percusión, piano, trompeta",
+      "nota": "temas 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Reinaldo Valera",
+      "instrumento": "percusión",
+      "nota": "temas 4"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "latino"
   ],
@@ -49,10 +84,16 @@
     "Antes de su exilio: trompeta rapidísima sobre ritmos cubanos. Sandoval toca la trompeta con un grupo cubano, con mucha velocidad. Es uno de los discos que el banco elige para conocer a Arturo Sandoval."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "2f4b3d08-f4e7-39c7-805b-8a062e6e8a1c",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 0d48d725-86c0-4d80-bb00-50544cad8ad4 (1987)."
+    }
+  ]
 }

@@ -1,0 +1,92 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Geri Allen The Nurturer"
+  },
+  "id": "the-nurturer",
+  "titulo": "The Nurturer",
+  "credito": "Geri Allen",
+  "lideres": [
+    "geri-allen"
+  ],
+  "grabacion": {
+    "desde": 1991,
+    "hasta": 1991,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1991,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "geri-allen",
+      "nombre": "Geri Allen",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Marcus Belgrave",
+      "instrumento": "fliscorno, trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Eli Fountain",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": "kenny-garrett",
+      "nombre": "Kenny Garrett",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Robert Hurst",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Jeffrey “Tain” Watts",
+      "instrumento": "batería"
+    }
+  ],
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
+  "corrientes": [
+    "neotrad"
+  ],
+  "comentario": [
+    "Piano con un grupo de hard bop moderno, en temas propios de armonía compleja. Allen venía de la escena de Detroit y de la vanguardia de Nueva York, y acá junta las dos cosas. Es uno de los discos que el banco elige para conocer a Geri Allen."
+  ],
+  "ids": {
+    "musicbrainz": "9de90485-80b2-4672-9074-7767321e88a4",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-geri-allen",
+      "acceso": "extracto",
+      "aporta": "Pianista, compositora y docente."
+    },
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición f13e0ed3-465c-4481-8655-a033d52d4169 (1991)."
+    }
+  ]
+}

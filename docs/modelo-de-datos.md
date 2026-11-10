@@ -48,6 +48,7 @@ Lo que se escribe a mano va en un solo sentido. El resto se calcula al construir
 | `edicion` | `anio`, `detalle` | Puede haber una década de diferencia con la grabación |
 | `sello`, `catalogo`, `lugar` | Datos de edición | `catalogo` y `lugar` pueden estar vacíos |
 | `tipo`, `compilacion` | `estudio` o `vivo`, y si es recopilación | Un disco puede ser de estudio y además recopilación |
+| `recopilacion` | `desde`, `hasta` (o `anios` como texto) y `original` | La ficha dice "Recopilación de grabaciones de 1945 a 1948" y, si se sabe, dónde salieron primero |
 | `musicos` | `musico` (id o `null`), `nombre`, `instrumento`, `nota` | Se puede listar a alguien antes de que tenga ficha |
 | `personalNota` | Aclaración sobre la lista de músicos | Hay sesiones con personal dudoso, como la de "Ko-Ko" |
 | `corrientes`, `corrienteNota`, `regiones` | Clasificación y por qué | Algunas ubicaciones son provisorias y conviene decirlo |
@@ -84,7 +85,7 @@ Datos básicos (`nombre`, `apodo`, `nacimiento`, `muerte`, `instrumentos`, `corr
 
 ### Región
 
-`nombre`, `resumen`, `texto`, `corrientes`, `musicos`, `discos`, `figurasPendientes`, `sellos` y `escenaActual` (`nombre`, `instrumento`, `base`, `ultimaActividad`, `detalle`, `fuentes`). Las regiones que todavía no tienen ficha se listan en `genero.json`.
+`nombre`, `resumen`, `texto`, `corrientes`, `musicos`, `discos`, `figurasPendientes`, `sellos` y `escenaActual` (`musico`, el id de su ficha, más `nombre`, `instrumento`, `base`, `ultimaActividad`, `detalle`, `fuentes`). Las regiones que todavía no tienen ficha se listan en `genero.json`.
 
 ### Comparación
 

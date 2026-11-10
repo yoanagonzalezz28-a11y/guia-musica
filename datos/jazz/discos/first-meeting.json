@@ -36,12 +36,27 @@
   "sello": "ECM",
   "musicos": [
     {
+      "musico": "jon-christensen",
+      "nombre": "Jon Christensen",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "kirkland",
+      "nombre": "Kenny Kirkland",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "John Surman",
+      "instrumento": "clarinete bajo, saxo soprano"
+    },
+    {
       "musico": "vitous",
       "nombre": "Miroslav Vitouš",
-      "instrumento": "contrabajo"
+      "instrumento": "bajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm"
   ],
@@ -49,10 +64,16 @@
     "Contrabajo con saxo y piano, en temas abiertos y melódicos. Vitouš fue cofundador de Weather Report, y acá lidera un cuarteto con John Surman y un joven Kenny Kirkland. Es el disco clave de Miroslav Vitouš en la etapa \"ECM y jazz europeo\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "4fa00b8f-3327-3998-aae3-cfec34725051",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 68a49e36-99b1-492c-85c6-8d6dea639ec7 (1980-01)."
+    }
+  ]
 }

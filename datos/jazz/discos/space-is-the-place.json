@@ -38,10 +38,101 @@
     {
       "musico": "sunra",
       "nombre": "Sun Ra",
-      "instrumento": "piano, sintetizador, composición"
+      "instrumento": "farfisa órgano, piano, arrangement",
+      "nota": "temas 1, 3, 4, 5, 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Akh Tal Ebah",
+      "instrumento": "voz, trompeta, fliscorno",
+      "nota": "temas 1, 2, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Kwame Hadi",
+      "instrumento": "trompeta",
+      "nota": "temas 2, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Marshall Allen",
+      "instrumento": "flauta, saxo alto",
+      "nota": "temas 3, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Danny Davis",
+      "instrumento": "flauta, saxo alto",
+      "nota": "temas 3, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "John Gilmore",
+      "instrumento": "voz, saxo tenor",
+      "nota": "temas 1, 5, 2, 3, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Danny Thompson",
+      "instrumento": "saxo barítono, flauta, voz",
+      "nota": "temas 1, 3, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Eloe Omoe",
+      "instrumento": "clarinete bajo, flauta",
+      "nota": "temas 1, 5, 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Pat Patrick",
+      "instrumento": "bajo eléctrico, saxo barítono, voz",
+      "nota": "temas 1, 2, 4, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Lex Humphries",
+      "instrumento": "batería",
+      "nota": "temas 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Atakatun",
+      "instrumento": "percusión",
+      "nota": "temas 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Odun",
+      "instrumento": "percusión",
+      "nota": "temas 4"
+    },
+    {
+      "musico": null,
+      "nombre": "June Tyson",
+      "instrumento": "voz",
+      "nota": "temas 1, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Ruth Wright",
+      "instrumento": "voz",
+      "nota": "temas 1, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Cheryl Banks",
+      "instrumento": "voz",
+      "nota": "temas 1, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Judith Holton",
+      "instrumento": "voz",
+      "nota": "temas 1, 5"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "free"
   ],
@@ -54,5 +145,11 @@
     "wikidata": null,
     "wikipedia": "Space_Is_the_Place_(album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Space Is the Place (Sun Ra album)\"."
+    }
+  ]
 }

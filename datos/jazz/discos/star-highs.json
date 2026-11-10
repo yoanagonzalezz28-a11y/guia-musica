@@ -36,12 +36,27 @@
   "sello": "Criss Cross",
   "musicos": [
     {
+      "musico": "hank-jones",
+      "nombre": "Hank Jones",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Mel Lewis",
+      "instrumento": "batería"
+    },
+    {
       "musico": "marsh",
       "nombre": "Warne Marsh",
       "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "George Mraz",
+      "instrumento": "contrabajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "cool"
   ],
@@ -49,10 +64,16 @@
     "Saxo tenor de líneas largas, con Hank Jones, George Mraz y Mel Lewis. Es el Marsh maduro, grabado para Criss Cross, un sello holandés que documentó a muchos veteranos. Está entre los discos esenciales de Warne Marsh."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "684820bc-807e-4031-bc90-640571ad0dda",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición f8c887e0-b9df-4527-a3e8-0651a5d9aa7f (1982)."
+    }
+  ]
 }

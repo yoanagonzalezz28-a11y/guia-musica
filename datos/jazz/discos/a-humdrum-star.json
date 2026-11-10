@@ -36,9 +36,24 @@
       "musico": "gogo-penguin",
       "nombre": "GoGo Penguin",
       "instrumento": "piano trío"
+    },
+    {
+      "musico": null,
+      "nombre": "Nick Blacka",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Chris Illingworth",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Rob Turner",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -46,10 +61,16 @@
     "Más atmosférico y melódico. El trío de Manchester combina piano, contrabajo y batería con ideas de la música electrónica: patrones repetidos que cambian de a poco. Es uno de los discos que el banco elige para conocer a GoGo Penguin."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "de5e3956-f770-4734-a205-d91cbaccf76c",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición d51b1e06-6361-42b0-a0bb-8ebb732fd902 (2018-02-09)."
+    }
+  ]
 }

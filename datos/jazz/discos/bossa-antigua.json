@@ -39,9 +39,24 @@
       "musico": "desmond",
       "nombre": "Paul Desmond",
       "instrumento": "saxo alto"
+    },
+    {
+      "musico": "jim-hall",
+      "nombre": "Jim Hall",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Gene Cherico",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Connie Kay",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "cool"
   ],
@@ -54,7 +69,13 @@
     "wikidata": null,
     "wikipedia": "Bossa_Antigua"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Bossa Antigua\"."
+    }
+  ],
   "temas": [
     {
       "titulo": "Bossa Antigua",

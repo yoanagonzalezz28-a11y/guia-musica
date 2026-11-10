@@ -36,12 +36,27 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Ed Blackwell",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "holland",
+      "nombre": "Dave Holland",
+      "instrumento": "bajo"
+    },
+    {
       "musico": "lovano",
       "nombre": "Joe Lovano",
-      "instrumento": "saxo tenor"
+      "instrumento": "saxo"
+    },
+    {
+      "musico": "petrucciani",
+      "nombre": "Michel Petrucciani",
+      "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "neotrad"
   ],
@@ -49,10 +64,16 @@
     "Con Michel Petrucciani, Dave Holland y Ed Blackwell. Lovano toca el saxo tenor con un sonido grande y suelto, y cada uno de los músicos invitados aporta un color distinto. Es el disco clave de Joe Lovano en la etapa \"Neotradicionalismo\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "6e262c39-6274-37b1-9e8b-1c5b0241d826",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición d8abe5d6-807d-4d55-9f13-7b380752b356 (1992)."
+    }
+  ]
 }

@@ -1,0 +1,46 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "casenave",
+  "nombre": "Gustavo Casenave",
+  "nacimiento": {
+    "anio": null,
+    "lugar": "Montevideo"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano",
+    "composición"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "spotify": null,
+  "resumen": "Pianista y compositor uruguayo radicado en Nueva York, entre el jazz y la música de cámara.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2024,
+      "hasta": 2025,
+      "texto": "",
+      "discoClave": {
+        "disco": "uruguayan-jazz",
+        "explicacion": "Temas propios con músicos uruguayos."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "graffiti-2025"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "uruguayan-jazz"
+  ]
+}

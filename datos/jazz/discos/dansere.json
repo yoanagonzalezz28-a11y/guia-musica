@@ -38,10 +38,25 @@
     {
       "musico": "garbarek",
       "nombre": "Jan Garbarek",
-      "instrumento": "saxo tenor, saxo soprano"
+      "instrumento": "saxos"
+    },
+    {
+      "musico": "stenson",
+      "nombre": "Bobo Stenson",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Palle Danielsson",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": "jon-christensen",
+      "nombre": "Jon Christensen",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "ecm"
   ],
@@ -52,9 +67,15 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Dansere"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Dansere\"."
+    }
+  ],
   "temas": [
     {
       "titulo": "Dansere",

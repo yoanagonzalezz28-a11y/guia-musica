@@ -36,12 +36,29 @@
   "sello": "Columbia",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Milt Hinton",
+      "instrumento": "bajo",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 8"
+    },
+    {
       "musico": "branford",
       "nombre": "Branford Marsalis",
-      "instrumento": "saxo"
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Jeffrey “Tain” Watts",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Delbert Felix",
+      "instrumento": "contrabajo",
+      "nota": "temas 7, 9, 10"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "neotrad"
   ],
@@ -49,10 +66,16 @@
     "Trío sin piano con Milt Hinton. Marsalis toca el saxo tenor con Hinton en contrabajo, en estándares. Es el disco clave de Branford Marsalis en la etapa \"Neotradicionalismo\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "67bb09a1-3a12-3c4c-8146-79925c43347e",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 0a60976e-ed8f-4c9e-b9b8-833a99eb79e2 (1989)."
+    }
+  ]
 }

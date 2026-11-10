@@ -5327,5 +5327,429 @@
     "url": "https://www.allaboutjazz.com/album/naumay-juan-ibarra",
     "consultada": "2026-11-08",
     "estado": "consultada"
+  },
+  "timeout-levin": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Time Out Barcelona: Gonzalo Levin Octet",
+    "url": "https://www.timeout.es/barcelona/es/musica/gonzalo-levin-octet",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "velvet-levin": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Velvet Raval: Gonzalo Levin Octeto, disco de la semana",
+    "url": "https://www.velvetraval.com/disco-de-la-semana/gonzalo-levin-octeto",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "cyc-levin": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Caras y Caretas: \"El jazz exquisito de Gonzalo Levin\"",
+    "url": "https://www.carasycaretas.com.uy/cultura-y-espectaculos/el-jazz-exquisito-gonzalo-levin-n68850",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "wp-gardel-2023": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Anexo: Premios Gardel 2023 (Wikipedia en español)",
+    "url": "https://es.wikipedia.org/wiki/Anexo:Premios_Gardel_2023",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "wp-gardel-2024": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Anexo: Premios Gardel 2024 (Wikipedia en español)",
+    "url": "https://es.wikipedia.org/wiki/Anexo:Premios_Gardel_2024",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "ln-gardel-2025": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "La Nación: Premios Gardel 2025, todos los ganadores",
+    "url": "https://www.lanacion.com.ar/espectaculos/musica/premios-gardel-2025-todos-los-ganadores-nid18062025/",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "ln-gardel-2026": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "La Nación: Premios Gardel 2026, uno por uno, todos los ganadores",
+    "url": "https://www.lanacion.com.ar/espectaculos/premios-gardel-2026-uno-por-uno-todos-los-ganadores-nid27052026/",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "maldonado-punta-2025": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Intendencia de Maldonado: 29.º Festival Internacional de Jazz de Punta del Este (2025)",
+    "url": "https://www.maldonado.gub.uy/actividades/29deg-festival-internacional-jazz-punta-del-este",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "busqueda-punta-2026": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Búsqueda: Festival Internacional de Jazz de Punta del Este, del 7 al 11 de enero",
+    "url": "https://www.busqueda.com.uy/vida-cultural/festival-internacional-jazz-punta-del-este-del-7-al-11-enero-la-finca-el-sosiego-n5407670",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "sodre-jazz-2023": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Sodre: programación del Festival de Jazz del Uruguay 2023",
+    "url": "https://sodre.gub.uy/2023/07/27/programacion-para-el-festival-de-jazz-del-uruguay-2023/",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "mec-jazz-calle-2024": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Ministerio de Educación y Cultura: Gonzalo Levin Octeto en Jazz a la Calle (2024)",
+    "url": "https://www.gub.uy/ministerio-educacion-cultura/comunicacion/calendario-actividades/gonzalo-levin-octeto-0",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "wp-lil-hardin": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Lil Hardin Armstrong (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Lil_Hardin_Armstrong",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "wp-hazel-scott": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Hazel Scott (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Hazel_Scott",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "wp-melba-liston": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Melba Liston (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Melba_Liston",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "wp-carmen-mcrae": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Carmen McRae (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Carmen_McRae",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "wp-betty-carter": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Betty Carter (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Betty_Carter",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "wp-dorothy-ashby": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Dorothy Ashby (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Dorothy_Ashby",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "wp-jutta-hipp": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Jutta Hipp (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Jutta_Hipp",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "wp-jeanne-lee": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Jeanne Lee (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Jeanne_Lee",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "wp-marilyn-crispell": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Marilyn Crispell (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Marilyn_Crispell",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "wp-geri-allen": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Geri Allen (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Geri_Allen",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "wp-norma-winstone": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Norma Winstone (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Norma_Winstone",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "wp-brandee-younger": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Brandee Younger (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Brandee_Younger",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "wp-roxana-amed": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Roxana Amed (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Roxana_Amed",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "wp-leo-genovese": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Leo Genovese (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Leo_Genovese",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "perfil-amed": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Perfil: murió Roxana Amed, una de las voces del jazz argentino (2026)",
+    "url": "https://www.perfil.com/noticias/actualidad/murio-roxana-amed-una-de-las-voces-del-jazz-mas-importante-de-la-historia-argentina-a-los-63-anos.phtml",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "miami-amed": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Universidad de Miami, Frost School of Music: In Memoriam, Roxana Amed (2026)",
+    "url": "https://news.miami.edu/frost/stories/2026/10/roxana-amed-memoriam.html",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "perfil-piro": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Perfil: \"Hija del tango, alma de jazz\" (Ligia Piro)",
+    "url": "https://www.perfil.com/noticias/espectaculos/hija-del-tango-alma-de-jazz.phtml",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "tiempo-genovese-otero": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Tiempo Argentino: \"Leo Genovese y Mariano Otero, dos tipos audaces\"",
+    "url": "https://www.tiempoar.com.ar/ta_article/leo-genovese-mariano-otero-tipos-audaces/",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "jazzwise-ritual": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Jazzwise: reseña de Ritual, de Leo Genovese",
+    "url": "https://jazzwise.com/review/leo-genovese-ritual",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "newvelle-urcola": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Newvelle Records: Diego Urcola",
+    "url": "https://www.newvelle-records.com/pages/diego-urcola",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "miller-urcola": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Miller Theatre: biografía de Diego Urcola",
+    "url": "https://millertheatre.com/biographies/diego-urcola",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "cooltivarte-punta-2025": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Cooltivarte: 29.º Festival Internacional de Jazz de Punta del Este (2025)",
+    "url": "https://cooltivarte.com/portal/29-festival-internacional-de-jazz-punta-del-este-2025/",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "bandcamp-chapital": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Juan Pablo Chapital en Bandcamp: Móvil (2024)",
+    "url": "https://juanpablochapital.bandcamp.com/album/m-vil",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "montevideo-chapital": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Montevideo Portal: Nicolás Ibarburu y Juan Pablo Chapital en la Sala Zitarrosa",
+    "url": "https://www.montevideo.com.uy/Tiempo-libre/Nicolas-Ibarburu-y-Juan-Pablo-Chapital-se-presentan-en-la-Sala-Zitarrosa-uc299899",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "montevideo-ottonello": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Montevideo Portal: El trío, Mateo Ottonello con Javier Malosetti y Augusto Durañona",
+    "url": "https://www.montevideo.com.uy/Tiempo-libre/El-trio-Mateo-Ottonello-se-presenta-junto-a-Javier-Malosetti-y-Augusto-Duranona-uc897705",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "busqueda-ottonello": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Búsqueda: \"La esquina sagrada del jazz en Montevideo\"",
+    "url": "https://www.busqueda.com.uy/tiempo-libre/la-esquina-sagrada-del-jazz-montevideo-n5412704",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "lb-ottonello": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Little Butterfly Records: Mateo Ottonello",
+    "url": "https://littlebutterflyrecords.com/collections/mateo-ottonello",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "cyc-nair": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Caras y Caretas: Nair Mirabrat revisita Mateo solo bien se lame",
+    "url": "https://www.carasycaretas.com.uy/cultura/en-formato-big-band-nair-mirabrat-revisita-una-obra-culto-mateo-solo-bien-se-lame-n82366",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "busqueda-nair": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Búsqueda: Nair Mirabrat, Sandra Mihanovich, Milo J y el regreso de La Trastienda",
+    "url": "https://www.busqueda.com.uy/vida-cultural/nair-mirabrat-sandra-mihanovich-milo-j-y-el-regreso-la-trastienda-n5412446",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "lb-nair": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Little Butterfly Records: Nair Mirabrat",
+    "url": "https://littlebutterflyrecords.com/collections/nair-mirabrat",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "graffiti-2025": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Premios Graffiti: nominados 2025",
+    "url": "https://www.premiosgraffiti.com.uy/nominados-2025/",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "aaj-casenave": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "All About Jazz: Asta Hairston Songbook, de Gustavo Casenave",
+    "url": "https://www.allaboutjazz.com/album/asta-hairston-songbook",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "wp-kris-davis-pend": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Kris Davis (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Kris_Davis",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "wp-mary-halvorson-pend": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Mary Halvorson (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Mary_Halvorson",
+    "consultada": "2026-11-10",
+    "estado": "pendiente"
+  },
+  "wp-linda-oh-pend": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Linda May Han Oh (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Linda_May_Han_Oh",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "wp-lakecia-benjamin-pend": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Lakecia Benjamin (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Lakecia_Benjamin",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "wp-joyce-pend": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Joyce (singer) (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Joyce_(singer)",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "wp-sathima-pend": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Sathima Bea Benjamin (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Sathima_Bea_Benjamin",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "wp-oscar-aleman-pend": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Oscar Alemán (Wikipedia en inglés)",
+    "url": "https://en.wikipedia.org/wiki/Oscar_Alemán",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "mb-oscar-aleman": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Oscar Alemán en MusicBrainz",
+    "url": "https://musicbrainz.org/artist/6bdff453-bbfb-4450-9f9c-d8c94ee210ea",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "mb-personal": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "MusicBrainz: créditos de cada edición",
+    "url": "https://musicbrainz.org",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
+  },
+  "wp-personal": {
+    "tipo": "web",
+    "nivel": "referencia",
+    "titulo": "Wikipedia en inglés: sección de personal de cada disco",
+    "url": "https://en.wikipedia.org",
+    "consultada": "2026-11-10",
+    "estado": "consultada"
   }
 }

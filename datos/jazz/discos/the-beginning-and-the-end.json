@@ -39,9 +39,75 @@
       "musico": "brown",
       "nombre": "Clifford Brown",
       "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "James Johnson",
+      "instrumento": "contrabajo",
+      "nota": "temas 1, 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Osie Johnson",
+      "instrumento": "batería",
+      "nota": "temas 1, 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Eddie Lambert",
+      "instrumento": "guitarra",
+      "nota": "temas 1, 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Chris Powell",
+      "instrumento": "percusión, voz",
+      "nota": "temas 1, 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Duke Wells",
+      "instrumento": "piano",
+      "nota": "temas 1, 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Vance Wilson",
+      "instrumento": "saxo alto, saxo tenor",
+      "nota": "temas 1, 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Sam Dockery",
+      "instrumento": "piano",
+      "nota": "temas 3, 4, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Root",
+      "instrumento": "saxo tenor",
+      "nota": "temas 3, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Ace Tisone",
+      "instrumento": "contrabajo",
+      "nota": "temas 3, 4, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Ellis Tollin",
+      "instrumento": "batería",
+      "nota": "temas 3, 4, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Mel Vines",
+      "instrumento": "saxo tenor",
+      "nota": "temas 3"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -54,7 +120,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición cecc9617-eb3e-4dc4-a31f-e9a32c7ea8ca (1973-06-29)."
+    }
+  ],
   "temas": [
     {
       "titulo": "I Come From Jamaica",

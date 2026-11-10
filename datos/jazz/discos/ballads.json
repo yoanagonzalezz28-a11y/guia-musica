@@ -38,10 +38,25 @@
     {
       "musico": "coltrane",
       "nombre": "John Coltrane",
-      "instrumento": "saxo tenor, saxo soprano"
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": "tyner",
+      "nombre": "McCoy Tyner",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Garrison",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": "elvin",
+      "nombre": "Elvin Jones",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "modal"
   ],
@@ -54,7 +69,13 @@
     "wikidata": null,
     "wikipedia": "Ballads_(John_Coltrane_album)"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Ballads (John Coltrane album)\"."
+    }
+  ],
   "temas": [
     {
       "titulo": "Say It (Over And Over Again)",

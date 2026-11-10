@@ -36,12 +36,34 @@
   "sello": "Columbia",
   "musicos": [
     {
+      "musico": "kirkland",
+      "nombre": "Kenny Kirkland",
+      "instrumento": "piano",
+      "nota": "temas 1, 2, 3, 4, 5, 7, 8"
+    },
+    {
       "musico": "branford",
       "nombre": "Branford Marsalis",
       "instrumento": "saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Eric Revis",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Jeffrey “Tain” Watts",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "The Branford Marsalis Quartet",
+      "instrumento": "músico",
+      "nota": "temas 3"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "neotrad"
   ],
@@ -49,10 +71,16 @@
     "El último disco con el pianista Kenny Kirkland. Marsalis toca el saxo con su cuarteto, con Kirkland en piano en sus últimas grabaciones. Está entre los discos esenciales de Branford Marsalis."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "b42a87ef-f218-3ef6-b501-3070567ca2f7",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 76591478-7320-487c-84ab-fd4affcdbe60 (1999)."
+    }
+  ]
 }

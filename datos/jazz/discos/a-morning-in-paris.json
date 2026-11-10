@@ -1,0 +1,102 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "sudafrica"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7LsTmzxuMJP3v1TWsjr8AG",
+    "tituloEnSpotify": "A Morning in Paris",
+    "via": "api-spotify"
+  },
+  "id": "a-morning-in-paris",
+  "titulo": "A Morning in Paris",
+  "credito": "Sathima Bea Benjamin",
+  "lideres": [
+    "sathima-bea-benjamin"
+  ],
+  "grabacion": {
+    "desde": 1963,
+    "hasta": 1963,
+    "detalle": "París, 1963, producido por Duke Ellington"
+  },
+  "edicion": {
+    "anio": 1997,
+    "detalle": null
+  },
+  "sello": "Enja",
+  "musicos": [
+    {
+      "musico": null,
+      "nombre": "Svend Asmussen",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Johnny Gertze",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": "ibrahim",
+      "nombre": "Abdullah Ibrahim",
+      "instrumento": "piano",
+      "nota": "temas 1, 3, 4, 5, 7, 9, 10, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Makaya Ntshoko",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "sathima-bea-benjamin",
+      "nombre": "Sathima Bea Benjamin",
+      "instrumento": "voz"
+    },
+    {
+      "musico": "ellington",
+      "nombre": "Duke Ellington",
+      "instrumento": "piano",
+      "nota": "temas 2, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Strayhorn",
+      "instrumento": "piano",
+      "nota": "temas 8, 12"
+    }
+  ],
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
+  "corrientes": [
+    "mundo"
+  ],
+  "comentario": [
+    "Estándares cantados con calma, con Duke Ellington y Billy Strayhorn en el piano. Ellington lo produjo en París en 1963, pero la cinta se perdió durante décadas y salió recién en 1997. Es el disco clave de Sathima Bea Benjamin en la etapa \"Jazz del mundo\"."
+  ],
+  "ids": {
+    "musicbrainz": "83379737-215a-4431-bfa2-784e13908386",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-sathima-pend",
+      "acceso": "extracto",
+      "aporta": "Historia de la grabación de 1963."
+    },
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición a2328a31-d43e-45ca-a978-536cec49dd29 (1997)."
+    }
+  ]
+}

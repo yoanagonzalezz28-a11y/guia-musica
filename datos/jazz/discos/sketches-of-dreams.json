@@ -36,12 +36,37 @@
   "sello": "Columbia",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Larry Grenadier",
+      "instrumento": "contrabajo",
+      "nota": "temas 7"
+    },
+    {
+      "musico": "hargrove",
+      "nombre": "Roy Hargrove",
+      "instrumento": "trompeta",
+      "nota": "temas 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Leon Parker",
+      "instrumento": "claves, batería",
+      "nota": "temas 7"
+    },
+    {
+      "musico": "danilo-perez",
+      "nombre": "Danilo Pérez",
+      "instrumento": "piano",
+      "nota": "temas 7"
+    },
+    {
       "musico": "david-sanchez",
       "nombre": "David Sánchez",
-      "instrumento": "saxo tenor"
+      "instrumento": "saxo tenor",
+      "nota": "temas 7"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "latino"
   ],
@@ -49,10 +74,16 @@
     "Su segundo disco, con Danilo Pérez. Sánchez toca el saxo tenor con Pérez en piano, en temas de jazz latino. En la ficha de David Sánchez es el disco que representa la etapa \"Jazz latino\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "c2e3fed3-33a7-4a61-862d-aa336fe691b3",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición b6722b1a-a192-4bd4-a8a8-b423d159dc27 (1995-04-11)."
+    }
+  ]
 }

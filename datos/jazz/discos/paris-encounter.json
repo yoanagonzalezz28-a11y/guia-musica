@@ -34,12 +34,27 @@
   "sello": "Atlantic",
   "musicos": [
     {
+      "musico": "burton",
+      "nombre": "Gary Burton",
+      "instrumento": "vibráfono"
+    },
+    {
+      "musico": null,
+      "nombre": "Bill Goodwin",
+      "instrumento": "percusión"
+    },
+    {
       "musico": "grappelli",
       "nombre": "Stéphane Grappelli",
       "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Swallow",
+      "instrumento": "bajo eléctrico"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "manouche"
   ],
@@ -47,10 +62,16 @@
     "El violín de Grappelli y el vibráfono de Gary Burton tocan con un swing suave. Grappelli tenía más de sesenta años y Burton veintiséis: el disco junta dos generaciones del jazz. En la ficha de Stéphane Grappelli es el disco que representa la etapa \"Jazz manouche\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "acdea78e-28c4-4ce3-baca-1decd239f508",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición a6d031d8-0363-44db-b4c4-4dcedbeb84c8 (1972)."
+    }
+  ]
 }

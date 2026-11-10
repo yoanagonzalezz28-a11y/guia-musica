@@ -36,12 +36,27 @@
   "sello": "Nonesuch",
   "musicos": [
     {
+      "musico": "blade",
+      "nombre": "Brian Blade",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Scott Colley",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Ron Miles",
+      "instrumento": "corneta"
+    },
+    {
       "musico": "redman",
       "nombre": "Joshua Redman",
       "instrumento": "saxo tenor"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -49,12 +64,18 @@
     "Homenaje al grupo Old and New Dreams de su padre, Dewey Redman. Redman toca el saxo con Ron Miles, Scott Colley y Brian Blade, en temas de Old and New Dreams. Está entre los discos esenciales de Joshua Redman."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "95601594-03f8-463e-b911-2a9886733dc2",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 52d4dc40-eae0-4368-b20e-9ba8f5b0b0cb (2018-05-25)."
+    }
+  ],
   "temas": [
     {
       "titulo": "New Year (feat. Ron Miles, Scott Colley & Brian Blade)",

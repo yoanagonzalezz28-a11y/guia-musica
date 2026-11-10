@@ -37,9 +37,19 @@
       "musico": "tsuyoshi-yamamoto",
       "nombre": "Tsuyoshi Yamamoto",
       "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Isoo Fukui",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "小原哲次郎",
+      "instrumento": "batería, piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -47,10 +57,16 @@
     "Baladas en trío, grabadas con un sonido de enorme calidad. Yamamoto toca el piano en trío con un toque muy cuidado, en baladas. Es el disco clave de Tsuyoshi Yamamoto en la etapa \"Jazz del mundo\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "a4d201ab-bf93-3682-81ef-ddc706b60e5b",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 59e1b608-b5d7-47fe-958b-dc1b787ac5a7 (1974-08-07)."
+    }
+  ]
 }

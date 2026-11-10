@@ -36,12 +36,107 @@
   "sello": "Tico",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Alfredo \"Chocolate\" Armenteros",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Charles Camilleri",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Ronnie Cuber",
+      "instrumento": "saxo barítono"
+    },
+    {
+      "musico": null,
+      "nombre": "Arturo Franquiz",
+      "instrumento": "claves, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Nicky Marrero",
+      "instrumento": "bongós, timbales"
+    },
+    {
+      "musico": null,
+      "nombre": "Monchito Muñoz",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Charlie Palmieri",
+      "instrumento": "órgano"
+    },
+    {
       "musico": "palmieri",
       "nombre": "Eddie Palmieri",
-      "instrumento": "piano, dirección"
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Victor Paz",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Eladio Perez",
+      "instrumento": "congas"
+    },
+    {
+      "musico": null,
+      "nombre": "Jose Rodrigues",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Bob Vianco",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Pete Yellin",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Justo Betancourt",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Santos Colón",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Vayo El Indio",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Marcelino Guerra",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Ismael Quintana",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Elliot Romero",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Mario Muñoz Salazar \"Papaito\"",
+      "instrumento": "voz"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "latino"
   ],
@@ -49,10 +144,16 @@
     "Salsa con libertad de jazz, en temas largos. Su hermano Charlie, también pianista, toca el órgano, y los solos se estiran como en un disco de jazz. Está entre los discos esenciales de Eddie Palmieri."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "25521872-5cfe-34db-85cc-95e4d0b32253",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 2a0e4f80-f88a-4375-8851-fee6372e4a42 (1971)."
+    }
+  ]
 }

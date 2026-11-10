@@ -39,9 +39,19 @@
       "musico": "jim-hall",
       "nombre": "Jim Hall",
       "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Red Mitchell",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Carl Perkins",
+      "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "cool"
   ],
@@ -54,7 +64,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 599033aa-ec8f-4c59-9d25-49feeb3e80db (1957)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Stompin' At The Savoy",

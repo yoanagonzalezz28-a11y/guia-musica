@@ -34,12 +34,159 @@
   "sello": "RCA",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Pete Levin",
+      "instrumento": "sintetizador, corno"
+    },
+    {
       "musico": "gilevans",
       "nombre": "Gil Evans",
-      "instrumento": "arreglos, piano"
+      "instrumento": "dirección, piano, teclados"
+    },
+    {
+      "musico": "abercrombie",
+      "nombre": "John Abercrombie",
+      "instrumento": "guitarra eléctrica",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Bruce Ditmas",
+      "instrumento": "batería, percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Sue Evans",
+      "instrumento": "congas, percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Peter Gordon",
+      "instrumento": "corno"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Harper",
+      "instrumento": "flauta, saxo tenor, vientos de madera"
+    },
+    {
+      "musico": null,
+      "nombre": "David Horowitz",
+      "instrumento": "piano eléctrico, sintetizador, teclados",
+      "nota": "temas 1, 2, 3, 5, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Howard Johnson",
+      "instrumento": "clarinete, vientos, cañas, tuba",
+      "nota": "temas 1, 2, 3, 5, 6, 7, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "川崎燎",
+      "instrumento": "guitarra eléctrica"
+    },
+    {
+      "musico": null,
+      "nombre": "Trevor Koehler",
+      "instrumento": "saxo, vientos de madera",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Keith Loving",
+      "instrumento": "guitarra",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Tom “Bones” Malone",
+      "instrumento": "flauta, saxo, vientos",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Michael Moore",
+      "instrumento": "bajo",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Don Pate",
+      "instrumento": "bajo",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Hannibal Marvin Peterson",
+      "instrumento": "trompeta, voz",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "David Sanborn",
+      "instrumento": "flauta alto, saxo soprano, saxo, vientos de madera"
+    },
+    {
+      "musico": null,
+      "nombre": "Warren Smith",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Lew Soloff",
+      "instrumento": "trompeta, vientos de metal"
+    },
+    {
+      "musico": null,
+      "nombre": "George Adams",
+      "instrumento": "vientos de madera",
+      "nota": "temas 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Herb Bushler",
+      "instrumento": "bajo",
+      "nota": "temas 8"
+    },
+    {
+      "musico": null,
+      "nombre": "John Clark",
+      "instrumento": "corno",
+      "nota": "temas 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Daley",
+      "instrumento": "trombón",
+      "nota": "temas 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Ernie Royal",
+      "instrumento": "vientos de metal",
+      "nota": "temas 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Bob Stewart",
+      "instrumento": "tuba",
+      "nota": "temas 8"
+    },
+    {
+      "musico": "tonyw",
+      "nombre": "Tony Williams",
+      "instrumento": "batería",
+      "nota": "temas 8"
+    },
+    {
+      "musico": null,
+      "nombre": "The Gil Evans Orchestra",
+      "instrumento": "orquesta",
+      "nota": "temas 1, 2, 3, 5, 6, 7"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "fusion"
   ],
@@ -47,10 +194,16 @@
     "Una orquesta con guitarras eléctricas y sintetizadores, en temas de Hendrix. Hendrix y Evans habían planeado grabar juntos, pero Hendrix murió en 1970, antes de hacerlo. Es el disco clave de Gil Evans en la etapa \"Fusión\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "2b279857-fb26-36e9-bcff-6ca5aae3c384",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 7103a05c-54dd-4781-b44a-338450be6912 (1988)."
+    }
+  ]
 }

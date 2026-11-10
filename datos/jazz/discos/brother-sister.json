@@ -39,9 +39,87 @@
       "musico": "brand-new-heavies",
       "nombre": "The Brand New Heavies",
       "instrumento": "grupo"
+    },
+    {
+      "musico": null,
+      "nombre": "Simon Bartholomew",
+      "instrumento": "percusión, guitarra, voz",
+      "nota": "temas 1, 2, 4, 6, 7, 11, 12, 14"
+    },
+    {
+      "musico": null,
+      "nombre": "Mike Boito",
+      "instrumento": "teclados, voz",
+      "nota": "temas 1, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "N’Dea Davenport",
+      "instrumento": "percusión, voz",
+      "nota": "temas 1, 2, 6, 7, 11, 12, 14"
+    },
+    {
+      "musico": null,
+      "nombre": "Ray Gaskins",
+      "instrumento": "saxo, voz",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Jan Kincaid",
+      "instrumento": "percusión, batería, voz, teclados",
+      "nota": "temas 1, 2, 4, 6, 7, 10, 11, 12, 14"
+    },
+    {
+      "musico": null,
+      "nombre": "Andrew Levy",
+      "instrumento": "percusión, bajo eléctrico, voz, teclados",
+      "nota": "temas 1, 2, 4, 6, 7, 10, 11, 12, 14"
+    },
+    {
+      "musico": null,
+      "nombre": "Brady Blade",
+      "instrumento": "voz",
+      "nota": "temas 1, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Dennis Rollins",
+      "instrumento": "trombón",
+      "nota": "temas 2, 4, 6, 10, 12, 14"
+    },
+    {
+      "musico": null,
+      "nombre": "Gerard Presencer",
+      "instrumento": "fliscorno, trompeta",
+      "nota": "temas 2, 6, 10, 14"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Williamson",
+      "instrumento": "saxo",
+      "nota": "temas 2, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Kevin Robinson",
+      "instrumento": "trompeta",
+      "nota": "temas 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Jeff Scantlebury",
+      "instrumento": "percusión",
+      "nota": "temas 4, 7, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Mike Smith",
+      "instrumento": "saxo",
+      "nota": "temas 4, 6, 10, 14"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "acid"
   ],
@@ -49,10 +127,16 @@
     "La voz de N'Dea Davenport sobre bases de funk y soul tocadas en vivo por la banda. Fue su disco más popular e incluye una versión de \"Midnight at the Oasis\". Es uno de los discos que el banco elige para conocer a The Brand New Heavies."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "89b744f6-a180-3c5a-9542-9fee05848b97",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición b4fb5270-2590-4ca1-9a86-12cb1c1386ca (1994)."
+    }
+  ]
 }

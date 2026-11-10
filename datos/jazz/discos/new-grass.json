@@ -37,10 +37,74 @@
     {
       "musico": "ayler",
       "nombre": "Albert Ayler",
-      "instrumento": "saxo tenor"
+      "instrumento": "bagpipe, ocarina, saxo tenor, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Call Cobbs",
+      "instrumento": "clave, órgano, piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Bert DeCoteaux",
+      "instrumento": "dirección",
+      "nota": "temas 1, 2, 5, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Garnett Brown",
+      "instrumento": "trombón",
+      "nota": "temas 1, 2, 5, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Burt Collins",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 2, 5, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Bill Folwell",
+      "instrumento": "bajo eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Buddy Lucas",
+      "instrumento": "saxo barítono",
+      "nota": "temas 1, 2, 5, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Newman",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 2, 5, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Seldon Powell",
+      "instrumento": "vientos de madera",
+      "nota": "temas 1, 2, 5, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Bernard “Pretty” Purdie",
+      "instrumento": "batería",
+      "nota": "temas 2, 3, 4, 5, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Rose Marie McCoy",
+      "instrumento": "voz",
+      "nota": "temas 2, 5, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Mary Parks",
+      "instrumento": "voz",
+      "nota": "temas 2, 5, 6, 7"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "free"
   ],
@@ -48,10 +112,16 @@
     "Saxo con un grupo de soul y voces, en un giro hacia el rhythm and blues. Ayler canta y recita en algunos temas, y muchos de sus seguidores del free lo vivieron como una traición. Es uno de los discos que el banco elige para conocer a Albert Ayler."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "ff2f01fe-66fb-3ee3-b29d-7560359c7879",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "New_Grass"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 6e9320ab-acb5-4122-a130-45ce8326b0cd (1969)."
+    }
+  ]
 }

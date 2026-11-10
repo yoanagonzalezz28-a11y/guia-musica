@@ -35,12 +35,32 @@
   "sello": "Verve",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Ray Brown",
+      "instrumento": "contrabajo, bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Herb Ellis",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Stan Levey",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "peterson",
+      "nombre": "Oscar Peterson",
+      "instrumento": "piano"
+    },
+    {
       "musico": "webster",
       "nombre": "Ben Webster",
       "instrumento": "saxo tenor"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "swing"
   ],
@@ -48,10 +68,16 @@
     "Baladas y blues con Oscar Peterson. Webster toca el saxo tenor con un sonido lleno de aire y el trío de Peterson con Herb Ellis lo acompaña con suavidad. En la ficha de Ben Webster es el disco que representa la etapa \"Swing\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "e4dd651d-3c51-4e2a-a9b0-f0f6a4f135cf",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 0d2332ad-95aa-4e75-bf7e-cb094f8be0e3 (1957)."
+    }
+  ]
 }

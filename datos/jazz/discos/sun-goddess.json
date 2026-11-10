@@ -35,12 +35,72 @@
   "sello": "Columbia",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Philip Bailey",
+      "instrumento": "congas, voz",
+      "nota": "temas 1, 5"
+    },
+    {
       "musico": "ramsey",
       "nombre": "Ramsey Lewis",
-      "instrumento": "piano"
+      "instrumento": "piano eléctrico Rhodes, teclados, sintetizador"
+    },
+    {
+      "musico": null,
+      "nombre": "Don Myrick",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Maurice White",
+      "instrumento": "batería, timbales, voz",
+      "nota": "temas 1, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Verdine White",
+      "instrumento": "bajo eléctrico, voz, bajo",
+      "nota": "temas 1, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Cleveland Eaton",
+      "instrumento": "electric contrabajo",
+      "nota": "temas 2, 3, 4, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Morris Jennings",
+      "instrumento": "percusión, batería, tambura, congas",
+      "nota": "temas 2, 3, 4, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Byron Gregory",
+      "instrumento": "guitarra",
+      "nota": "temas 3, 4, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Derf Reklaw",
+      "instrumento": "batería, congas, voz",
+      "nota": "temas 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Johnny Graham",
+      "instrumento": "guitarra",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Charles Stepney",
+      "instrumento": "sintetizador, piano eléctrico",
+      "nota": "temas 5"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "souljazz"
   ],
@@ -48,10 +108,16 @@
     "Piano y teclados sobre bases de funk, con músicos de Earth, Wind & Fire. Maurice White, fundador de Earth, Wind & Fire, había sido el baterista del trío de Lewis en los 60. Está entre los discos esenciales de Ramsey Lewis."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "32b3e8c6-81d5-3548-9452-6b7bf77e6305",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 7411e1a0-8289-4a0e-afb3-8110f41a9151 (1974)."
+    }
+  ]
 }

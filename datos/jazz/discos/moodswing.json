@@ -36,12 +36,27 @@
   "sello": "Warner",
   "musicos": [
     {
+      "musico": "blade",
+      "nombre": "Brian Blade",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "mcbride",
+      "nombre": "Christian McBride",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "mehldau",
+      "nombre": "Brad Mehldau",
+      "instrumento": "piano"
+    },
+    {
       "musico": "redman",
       "nombre": "Joshua Redman",
-      "instrumento": "saxo tenor"
+      "instrumento": "saxo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "neotrad"
   ],
@@ -49,10 +64,16 @@
     "Con Brad Mehldau, Christian McBride y Brian Blade. Redman toca el saxo tenor con un cuarteto joven, en temas propios con mucho swing. Es uno de los discos que el banco elige para conocer a Joshua Redman."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "131b2624-d17e-314f-b7d7-3d57f9842410",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 75c6cc45-b9a1-4b3b-8a93-7b0eb9ec45be (1994)."
+    }
+  ]
 }

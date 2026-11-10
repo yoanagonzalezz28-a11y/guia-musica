@@ -34,12 +34,77 @@
   "sello": "Gondwana",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Gavin Barras",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Nat Birchall",
+      "instrumento": "saxo",
+      "nota": "temas 1, 2, 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Adam Fairhall",
+      "instrumento": "piano",
+      "nota": "temas 1, 2, 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Rachael Gladwin",
+      "instrumento": "arpa",
+      "nota": "temas 1, 2, 3, 6"
+    },
+    {
       "musico": "halsall",
       "nombre": "Matthew Halsall",
-      "instrumento": "trompeta, composición"
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Gaz Hughes",
+      "instrumento": "percusión",
+      "nota": "temas 1, 2, 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Holly Simpson",
+      "instrumento": "violín",
+      "nota": "temas 4, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Dalvinder Singh",
+      "instrumento": "violín",
+      "nota": "temas 4, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Adrianne Wininsky",
+      "instrumento": "violonchelo",
+      "nota": "temas 4, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Luke Flowers",
+      "instrumento": "percusión",
+      "nota": "temas 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Lisa Mallett",
+      "instrumento": "flauta",
+      "nota": "temas 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Taz Modi",
+      "instrumento": "piano",
+      "nota": "temas 6, 7"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -47,12 +112,18 @@
     "La trompeta de Halsall, con arpa y koto, en temas lentos de jazz espiritual. El título es el nombre de un parque de Manchester, la ciudad de Halsall y de su sello Gondwana. Es uno de los discos que el banco elige para conocer a Matthew Halsall."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "42e1a2ad-a517-4208-8d18-7b9c58a2bcd8",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición c07b48e1-c18a-4e19-97ec-084d68143fad (2012-10-15)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Cherry Blossom",

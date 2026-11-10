@@ -49,16 +49,6 @@
       "musico": "blakey",
       "nombre": "Art Blakey",
       "instrumento": "batería"
-    },
-    {
-      "musico": "golson",
-      "nombre": "Benny Golson",
-      "instrumento": "saxo tenor"
-    },
-    {
-      "musico": "timmons",
-      "nombre": "Bobby Timmons",
-      "instrumento": "piano"
     }
   ],
   "corrientes": [

@@ -35,12 +35,27 @@
   "sello": "Luaka Bop",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Sally Herbert",
+      "instrumento": "dirección"
+    },
+    {
+      "musico": null,
+      "nombre": "Floating Points",
+      "instrumento": "celesta, clave, órgano Hammond, piano, piano eléctrico Rhodes, analog sintetizador"
+    },
+    {
+      "musico": null,
+      "nombre": "London Symphony Orchestra",
+      "instrumento": "cuerdas"
+    },
+    {
       "musico": "sanders",
       "nombre": "Pharoah Sanders",
-      "instrumento": "saxo tenor"
+      "instrumento": "saxo, voz"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -48,10 +63,16 @@
     "Con Floating Points y la London Symphony: un final sereno. Sanders toca el saxo tenor sobre un motivo de teclado repetido, con la orquesta que entra muy de a poco. Es el disco clave de Pharoah Sanders en la etapa \"Jazz de hoy\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "970f689d-1778-4953-b3ed-48d057625724",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Promises_(Floating_Points,_Pharoah_Sanders_and_the_London_Symphony_Orchestra_album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición db83f092-ace9-48bc-9bd2-66e834ff08e8 (2021-03-26)."
+    }
+  ]
 }

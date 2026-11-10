@@ -38,9 +38,94 @@
       "musico": "jamiroquai",
       "nombre": "Jamiroquai",
       "instrumento": "grupo"
+    },
+    {
+      "musico": null,
+      "nombre": "Jay Kay",
+      "instrumento": "voz, production, arrangement, engineering"
+    },
+    {
+      "musico": null,
+      "nombre": "Toby Smith",
+      "instrumento": "teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Stuart Zender",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Derrick McKenzie",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Nick Van Gelder",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Simon Katz",
+      "instrumento": "guitarra eléctrica"
+    },
+    {
+      "musico": null,
+      "nombre": "Jeffrey Scantlebury",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Maurizio Ravalico",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Gary Barnacle",
+      "instrumento": "saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Richard Edwards",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "John Thirkell",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Matthew Scrivener",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Iain Mackinnon",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Owen Little",
+      "instrumento": "viola"
+    },
+    {
+      "musico": null,
+      "nombre": "Robert Bailey",
+      "instrumento": "violonchelo"
+    },
+    {
+      "musico": null,
+      "nombre": "Colin Davy, Sean Quinn, Komodo, DC Lee",
+      "instrumento": "coros"
+    },
+    {
+      "musico": null,
+      "nombre": "Wallis Buchanan",
+      "instrumento": "didgeridoo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "acid"
   ],
@@ -51,7 +136,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "The_Return_of_the_Space_Cowboy"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"The Return of the Space Cowboy\"."
+    }
+  ]
 }

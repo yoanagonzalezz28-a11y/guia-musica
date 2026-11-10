@@ -35,12 +35,120 @@
   "sello": "Partisan",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Femi Koleoso",
+      "instrumento": "batería, voz",
+      "nota": "temas 1–9, 11, 12, 14, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "TJ Koleoso",
+      "instrumento": "bajo eléctrico, voz, programación",
+      "nota": "temas 1–9, 11, 12, 14, 13; temas 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Ife Ogunjobi",
+      "instrumento": "trompeta",
+      "nota": "temas 1–9, 11, 12, 14"
+    },
+    {
+      "musico": null,
+      "nombre": "James Mollison",
+      "instrumento": "saxo",
+      "nota": "temas 1–9, 11, 12, 14"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Armon-Jones",
+      "instrumento": "teclados",
+      "nota": "temas 1–9, 11, 12, 14"
+    },
+    {
+      "musico": null,
+      "nombre": "Junior Alli-Balogun",
+      "instrumento": "percusión",
+      "nota": "temas 1–9, 11, 12, 14"
+    },
+    {
+      "musico": null,
+      "nombre": "Sampa the Great",
+      "instrumento": "voz",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Kojey Radical",
+      "instrumento": "voz",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Benjamin Totten and Oluwatobi Adenaike-Johnson",
+      "instrumento": "guitarra",
+      "nota": "temas 3, 4, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Jorja Smith",
+      "instrumento": "voz",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Mark Mollison",
+      "instrumento": "guitarra",
+      "nota": "temas 6, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Wayne Urquhart",
+      "instrumento": "violonchelo",
+      "nota": "temas 7, 8, 11, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Stella Page",
+      "instrumento": "viola",
+      "nota": "temas 7, 8, 11, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Antonia Pagulatos, Athalie Armon-Jones",
+      "instrumento": "and sam kennedy, violín",
+      "nota": "temas 7, 8, 11, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Angel Silvera",
+      "instrumento": "voz",
+      "nota": "temas 9, 14"
+    },
+    {
+      "musico": null,
+      "nombre": "Emeli Sandé, Louise LaBelle",
+      "instrumento": "and teni tinks, voz",
+      "nota": "temas 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve McQueen",
+      "instrumento": "voz",
+      "nota": "temas 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Nao and Petra Luke",
+      "instrumento": "voz",
+      "nota": "temas 14"
+    },
+    {
       "musico": "ezra-collective",
       "nombre": "Ezra Collective",
-      "instrumento": "grupo"
+      "instrumento": "producers"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "hoy"
   ],
@@ -51,7 +159,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Where_I'm_Meant_to_Be"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Where I'm Meant to Be\"."
+    }
+  ]
 }

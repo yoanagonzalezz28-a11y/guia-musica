@@ -34,12 +34,22 @@
   "sello": "Argo",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Israel Crosby",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Vernell Fournier",
+      "instrumento": "batería"
+    },
+    {
       "musico": "jamal",
       "nombre": "Ahmad Jamal",
       "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "modal"
   ],
@@ -47,10 +57,16 @@
     "Otra noche en vivo: el trío de \"Poinciana\" ya convertido en una máquina. Jamal deja mucho espacio y usa los silencios como parte del arreglo, algo que Miles Davis admiraba de él. Está entre los discos esenciales de Ahmad Jamal."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "5ac84610-5960-4108-9a60-b08d83a38393",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición b34643c9-cbab-4c34-a657-7bbc1cf08259 (1961)."
+    }
+  ]
 }

@@ -37,10 +37,113 @@
     {
       "musico": "terrace-martin",
       "nombre": "Terrace Martin",
-      "instrumento": "saxo, producción"
+      "instrumento": "vocoder, bajo, piano eléctrico Rhodes, mini Moog, teclados bajo, additional teclados, percusión, saxo, corno arreglos, instruments",
+      "nota": "temas 15, additional on 4, 8, 6, 2, 4, 1, 2–3, 14, 7, all other on 10, additional on 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Craig Brockman",
+      "instrumento": "additional teclados, piano eléctrico Rhodes, mini-Moog, piano, roland jupiter-8, additional music arreglos",
+      "nota": "temas 2, 6, 14, 5, 11, 13, 1, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Neka \"LB\" Brown",
+      "instrumento": "additional voz",
+      "nota": "temas 1, 3, 8, 15"
+    },
+    {
+      "musico": null,
+      "nombre": "Kenneth Crouch",
+      "instrumento": "teclados, all instruments",
+      "nota": "temas 15"
+    },
+    {
+      "musico": null,
+      "nombre": "James Fauntleroy",
+      "instrumento": "additional voz",
+      "nota": "temas 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Focus...",
+      "instrumento": "additional voz, all other instruments",
+      "nota": "temas 7"
+    },
+    {
+      "musico": "glasper",
+      "nombre": "Robert Glasper",
+      "instrumento": "piano, piano eléctrico Rhodes",
+      "nota": "temas 14, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Andrew Gouche",
+      "instrumento": "bajo",
+      "nota": "temas 8, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Tiffany Gouché",
+      "instrumento": "additional voz",
+      "nota": "temas 14"
+    },
+    {
+      "musico": null,
+      "nombre": "Terrence \"Punch\" Henderson",
+      "instrumento": "additional voz",
+      "nota": "temas 14"
+    },
+    {
+      "musico": null,
+      "nombre": "Trevor Lawrence",
+      "instrumento": "batería",
+      "nota": "temas 15"
+    },
+    {
+      "musico": null,
+      "nombre": "Josef Leimberg",
+      "instrumento": "trompeta",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Javonte Pollard",
+      "instrumento": "additional voz",
+      "nota": "temas 1, 8, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Problem",
+      "instrumento": "additional voz, additional music arreglos",
+      "nota": "temas 4, 3–4"
+    },
+    {
+      "musico": null,
+      "nombre": "Tone Trezure",
+      "instrumento": "additional voz",
+      "nota": "temas 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Wyann Vaughn",
+      "instrumento": "voz",
+      "nota": "temas Interludes, additional on 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Derrick \"D-Loc\" Walker",
+      "instrumento": "percusión",
+      "nota": "temas 15"
+    },
+    {
+      "musico": null,
+      "nombre": "Marlon Williams",
+      "instrumento": "guitarra, music arreglos",
+      "nota": "temas 1, 3, 5–6, 8–10, 12–13, 15, additional on 5, 9, 13"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "hoy"
   ],
@@ -51,7 +154,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "3ChordFold"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"3ChordFold\"."
+    }
+  ]
 }

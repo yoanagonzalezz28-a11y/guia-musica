@@ -38,10 +38,60 @@
     {
       "musico": "kenny-garrett",
       "nombre": "Kenny Garrett",
-      "instrumento": "saxo alto"
+      "instrumento": "saxo alto, saxo soprano, piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Benito Gonzalez",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Nat Reeves",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Ronald Bruner",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Rudy Bird",
+      "instrumento": "batá, percusión, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Donald Brown",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Rusty Chops",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Sengbe Kona Khasu",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Nedelka Prescod",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Misha Tarasov",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Randall Kennedy",
+      "instrumento": "creative director"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "hoy"
   ],
@@ -52,7 +102,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Seeds_from_the_Underground"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Seeds from the Underground\"."
+    }
+  ]
 }

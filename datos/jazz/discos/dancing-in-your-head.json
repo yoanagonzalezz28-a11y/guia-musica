@@ -38,10 +38,46 @@
     {
       "musico": "ornette",
       "nombre": "Ornette Coleman",
-      "instrumento": "saxo alto, trompeta, violín"
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Charlie Ellerbee",
+      "instrumento": "guitarra",
+      "nota": "temas 1, 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Ronald Shannon Jackson",
+      "instrumento": "batería",
+      "nota": "temas 1, 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Bern Nix",
+      "instrumento": "guitarra",
+      "nota": "temas 1, 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Jamaaladeen Tacuma",
+      "instrumento": "bajo eléctrico",
+      "nota": "temas 1, 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Robert Palmer",
+      "instrumento": "clarinete",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Master Musicians of Joujouka",
+      "instrumento": "músico",
+      "nota": "temas 3"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "free"
   ],
@@ -49,10 +85,16 @@
     "Prime Time toca con dos guitarras eléctricas, bajo y batería, sobre un tema que vuelve una y otra vez a la misma melodía. En otro tema se suman los Master Musicians of Jajouka, de Marruecos, grabados por Coleman en 1973. En la ficha de Ornette Coleman es el disco que representa la etapa \"Prime Time y armolodia\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "6711dd61-dbe2-3f1f-b343-81aed6d37386",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Dancing_in_Your_Head"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición b84b540f-7b7f-485d-a273-70ce6b772e23 (1977)."
+    }
+  ]
 }

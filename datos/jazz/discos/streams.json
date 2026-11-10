@@ -37,10 +37,20 @@
     {
       "musico": "rivers",
       "nombre": "Sam Rivers",
-      "instrumento": "saxo tenor, flauta, composición"
+      "instrumento": "saxo soprano, saxo tenor, flauta, piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Cecil McBee",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Norman Connors",
+      "instrumento": "batería, gongs"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "free"
   ],
@@ -51,7 +61,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Streams_(Sam_Rivers_album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Streams (Sam Rivers album)\"."
+    }
+  ]
 }

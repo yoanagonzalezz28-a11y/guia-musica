@@ -7204,5 +7204,140 @@
   "anio": 1995,
   "pistas": 13,
   "motivo": null
+ },
+ "a-morning-in-paris": {
+  "estado": "seguro",
+  "url": "https://open.spotify.com/album/7LsTmzxuMJP3v1TWsjr8AG",
+  "titulo": "A Morning in Paris",
+  "artistas": "Sathima Bea Benjamin",
+  "anio": 1998,
+  "pistas": 12,
+  "motivo": null
+ },
+ "afro-harping": {
+  "estado": "seguro",
+  "url": "https://open.spotify.com/album/3diZ31AdLChJhkN8JmGVfl",
+  "titulo": "Afro-Harping (Deluxe)",
+  "artistas": "Dorothy Ashby",
+  "anio": 1968,
+  "pistas": 18,
+  "motivo": null
+ },
+ "amaryllis-crispell": {
+  "estado": "seguro",
+  "url": "https://open.spotify.com/album/2bHMUQk6qnvvFkzzu3c3nq",
+  "titulo": "Amaryllis",
+  "artistas": "Marilyn Crispell, Gary Peacock, Paul Motian",
+  "anio": 2001,
+  "pistas": 12,
+  "motivo": null
+ },
+ "amaryllis-halvorson": {
+  "estado": "seguro",
+  "url": "https://open.spotify.com/album/5f4X6JHWWACcVWstI7KQUD",
+  "titulo": "Amaryllis",
+  "artistas": "Mary Halvorson",
+  "anio": 2022,
+  "pistas": 6,
+  "motivo": null
+ },
+ "apocalipsis": {
+  "estado": "seguro",
+  "url": "https://open.spotify.com/album/3uRuC7Y8WYboElg703JDEk",
+  "titulo": "Apocalipsis",
+  "artistas": "Pipi Piazzolla Trio",
+  "anio": 2025,
+  "pistas": 9,
+  "motivo": null
+ },
+ "at-the-hickory-house-vol-1": {
+  "estado": "seguro",
+  "url": "https://open.spotify.com/album/7k3ZFy847wuP70fSNF8ZWU",
+  "titulo": "At The Hickory House Vol.1 (Live)",
+  "artistas": "Jutta Hipp",
+  "anio": 1956,
+  "pistas": 11,
+  "motivo": null
+ },
+ "aventurine": {
+  "estado": "seguro",
+  "url": "https://open.spotify.com/album/6WZ1VdrNQVrYfPq7eu45yu",
+  "titulo": "Aventurine",
+  "artistas": "Linda May Han Oh",
+  "anio": 2019,
+  "pistas": 14,
+  "motivo": null
+ },
+ "becoming-human": {
+  "estado": "seguro",
+  "url": "https://open.spotify.com/album/3akDMfVHK9sRWMJrLSmYzp",
+  "titulo": "Becoming Human",
+  "artistas": "Roxana Amed",
+  "anio": 2024,
+  "pistas": 11,
+  "motivo": null
+ },
+ "brand-new-life": {
+  "estado": "seguro",
+  "url": "https://open.spotify.com/album/2bF9vZG92EocmLQdS1M1Ro",
+  "titulo": "Brand New Life",
+  "artistas": "Brandee Younger",
+  "anio": 2023,
+  "pistas": 10,
+  "motivo": null
+ },
+ "carmen-mcrae-sings-lover-man": {
+  "estado": "seguro",
+  "url": "https://open.spotify.com/album/5GJ5gYx2VulbjhOuPwlH0A",
+  "titulo": "Carmen McRae Sings Lover Man And Other Billie Holiday Classics",
+  "artistas": "Carmen McRae",
+  "anio": 1962,
+  "pistas": 14,
+  "motivo": null
+ },
+ "carmen-sings-monk": {
+  "estado": "seguro",
+  "url": "https://open.spotify.com/album/05bnn11Z5MBOTwiDbmJ5YB",
+  "titulo": "Carmen Sings Monk",
+  "artistas": "Carmen McRae",
+  "anio": 1988,
+  "pistas": 18,
+  "motivo": null
+ },
+ "cloudward": {
+  "estado": "seguro",
+  "url": "https://open.spotify.com/album/7pyMVbIw7GW24pEge8ufbC",
+  "titulo": "Cloudward",
+  "artistas": "Mary Halvorson",
+  "anio": 2024,
+  "pistas": 8,
+  "motivo": null
+ },
+ "code-girl": {
+  "estado": "seguro",
+  "url": "https://open.spotify.com/album/5PgtI7zGbJZeQrFMeF0ARb",
+  "titulo": "Code Girl",
+  "artistas": "Mary Halvorson",
+  "anio": 2018,
+  "pistas": 14,
+  "motivo": null
+ },
+ "diatom-ribbons": {
+  "estado": "seguro",
+  "url": "https://open.spotify.com/album/4tXUco03wbbPWRim2RL1uH",
+  "titulo": "Diatom Ribbons",
+  "artistas": "Kris Davis",
+  "anio": 2019,
+  "pistas": 10,
+  "motivo": null
+ },
+ "distances": {
+  "estado": "seguro",
+  "url": "https://open.spotify.com/album/1tc9kAV0hErtN4lTCYAbMj",
+  "titulo": "Distances",
+  "artistas": "Norma Winstone, Klaus Gesing, Glauco Venier",
+  "anio": 2008,
+  "pistas": 10,
+  "motivo": null
  }
 }

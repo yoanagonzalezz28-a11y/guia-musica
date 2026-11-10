@@ -38,10 +38,16 @@
     {
       "musico": "rosenwinkel",
       "nombre": "Kurt Rosenwinkel",
-      "instrumento": "guitarra, composición"
+      "instrumento": "percusión, batería, sintetizador, piano, bajo, guitarra acústica, guitarra eléctrica, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Eric Clapton",
+      "instrumento": "guitarra",
+      "nota": "temas 8"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "brasil"
   ],
@@ -49,12 +55,18 @@
     "Su disco brasileño, con su propia voz: melódico y luminoso. Rosenwinkel toca casi todos los instrumentos y canta con una voz suave, en canciones de aire brasileño. Es el disco clave de Kurt Rosenwinkel en la etapa \"Jazz brasileño\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "6abbba62-a447-41ba-9f74-0d1f3a152a2e",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 0abeb70f-6727-4917-851a-bfb3bd200dbd (2017-03-10)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Caipi",

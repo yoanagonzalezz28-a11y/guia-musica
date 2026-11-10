@@ -38,9 +38,57 @@
       "musico": "kokoroko",
       "nombre": "Kokoroko",
       "instrumento": "grupo"
+    },
+    {
+      "musico": null,
+      "nombre": "Mutale Chashi",
+      "instrumento": "bajo eléctrico",
+      "nota": "temas 2-1, 2-2, 2-3, 2-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Onome Edgeworth",
+      "instrumento": "percusión",
+      "nota": "temas 2-1, 2-2, 2-3, 2-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Yohan Kebede",
+      "instrumento": "teclados",
+      "nota": "temas 2-1, 2-2, 2-3, 2-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Cassie Kinoshi",
+      "instrumento": "saxo alto, voz",
+      "nota": "temas 2-1, 2-2, 2-3, 2-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Sheila Maurice‐Grey",
+      "instrumento": "trompeta, voz",
+      "nota": "temas 2-1, 2-2, 2-3, 2-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Oscar Jerome",
+      "instrumento": "guitarra eléctrica",
+      "nota": "temas 2-1, 2-2, 2-3, 2-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Ayo Salawu",
+      "instrumento": "batería",
+      "nota": "temas 2-1, 2-2, 2-3, 2-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Richie Seivwright",
+      "instrumento": "trombón, voz",
+      "nota": "temas 2-1, 2-2, 2-3, 2-4"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -48,10 +96,16 @@
     "Afrobeat con vientos, guitarra y voces, con un sonido cálido y optimista. Fue su primer disco largo, después de que el tema \"Abusey Junction\" se volviera viral. Está entre los discos esenciales de Kokoroko."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "5820e38c-cd2c-422f-8007-62044b4f13b2",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 069f04c5-fa47-4bcb-9f5b-3d1504914d52 (2022-08-05)."
+    }
+  ]
 }

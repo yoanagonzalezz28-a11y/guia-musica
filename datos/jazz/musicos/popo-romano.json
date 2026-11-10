@@ -1,0 +1,33 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "popo-romano",
+  "nombre": "Popo Romano",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "contrabajo",
+    "bajo"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "spotify": null,
+  "resumen": "Contrabajista uruguayo, presencia habitual en el Festival de Jazz de Punta del Este y en el Festival de Jazz del Uruguay.",
+  "epocas": [],
+  "fuentes": [
+    "maldonado-punta-2025",
+    "sodre-jazz-2023"
+  ],
+  "respaldo": [],
+  "discosEsenciales": []
+}

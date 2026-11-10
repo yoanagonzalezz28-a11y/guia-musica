@@ -35,12 +35,19 @@
   "sello": "Sony",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Simon Katz",
+      "instrumento": "guitarra",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 14"
+    },
+    {
       "musico": "jamiroquai",
       "nombre": "Jamiroquai",
-      "instrumento": "grupo"
+      "instrumento": "músico",
+      "nota": "temas 13"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "acid"
   ],
@@ -48,10 +55,16 @@
     "Con \"Virtual Insanity\": el gran éxito. Jamiroquai toca funk y disco con bajo, vientos y la voz de Jay Kay. Es el disco clave de Jamiroquai en la etapa \"Acid jazz\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "4b5e5a6f-c941-384c-8508-a4fee1dfcec4",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 48758107-dc2c-4bbb-866d-d8712eb33df3 (1996)."
+    }
+  ]
 }

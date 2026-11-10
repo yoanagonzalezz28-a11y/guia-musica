@@ -38,10 +38,197 @@
     {
       "musico": "nat-cole",
       "nombre": "Nat King Cole",
-      "instrumento": "piano, voz"
+      "instrumento": "voz, piano, choir arreglos, arreglos",
+      "nota": "temas 1.01–05, 1.08, 1.11, 1.15, 1.18, 2.09, 2.12, 2.15, lead on 1.06-07, 1.09–10, 1.12–14, 1.16–17, 2.01–08, 2.11, 2.13–14, 2.16–18; temas 1.01-05, 2.16, 2.10"
+    },
+    {
+      "musico": null,
+      "nombre": "Dale Anderson",
+      "instrumento": "percusión",
+      "nota": "temas 1.08–09, 1.15, 1.17–18, 2.07–09, 2.14"
+    },
+    {
+      "musico": null,
+      "nombre": "George Acevedo",
+      "instrumento": "percusión",
+      "nota": "temas 1.11"
+    },
+    {
+      "musico": null,
+      "nombre": "Everett Barksdale",
+      "instrumento": "guitarra",
+      "nota": "temas 2.05, 2.11, 2.13"
+    },
+    {
+      "musico": null,
+      "nombre": "Larry Bunker",
+      "instrumento": "percusión",
+      "nota": "temas 1.11"
+    },
+    {
+      "musico": "burrell",
+      "nombre": "Kenny Burrell",
+      "instrumento": "guitarra",
+      "nota": "temas 2.05, 2.11, 2.13"
+    },
+    {
+      "musico": null,
+      "nombre": "John Collins",
+      "instrumento": "guitarra",
+      "nota": "temas 1.01–07, 1.10, 1.12–14, 1.16, 2.01–06, 2.11–13, 2.15, 2.17–18"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Comfort",
+      "instrumento": "bajo played by",
+      "nota": "temas 1.08–09, 1.11, 1.15, 1.17–18, 2.07–09, 2.14"
+    },
+    {
+      "musico": null,
+      "nombre": "Rene Faure",
+      "instrumento": "piano",
+      "nota": "temas 2.15"
+    },
+    {
+      "musico": null,
+      "nombre": "First Church of Deliverance Choir",
+      "instrumento": "coros",
+      "nota": "temas 2.16"
+    },
+    {
+      "musico": null,
+      "nombre": "Charlie Harris",
+      "instrumento": "bajo played by",
+      "nota": "temas 1.01–07, 1.10, 1.12–14, 1.16, 2.01–04, 2.06, 2.12, 2.15, 2.17–18"
+    },
+    {
+      "musico": null,
+      "nombre": "Ernie Hayes",
+      "instrumento": "piano",
+      "nota": "temas 2.05, 2.11, 2.13"
+    },
+    {
+      "musico": null,
+      "nombre": "Al Hendrickson",
+      "instrumento": "guitarra",
+      "nota": "temas 1.09, 1.11, 1.17, 2.07–08, 2.14"
+    },
+    {
+      "musico": null,
+      "nombre": "Irakitan Trio",
+      "instrumento": "coros",
+      "nota": "temas 2.17"
+    },
+    {
+      "musico": "hank-jones",
+      "nombre": "Hank Jones",
+      "instrumento": "piano",
+      "nota": "temas 1.06–07, 1.10, 1.13, 2.04, 2.06"
+    },
+    {
+      "musico": null,
+      "nombre": "Lou Levy",
+      "instrumento": "piano",
+      "nota": "temas 2.18"
+    },
+    {
+      "musico": null,
+      "nombre": "Jerry MacKenzie",
+      "instrumento": "batería",
+      "nota": "temas 1.11"
+    },
+    {
+      "musico": null,
+      "nombre": "Red Mitchell",
+      "instrumento": "bajo played by",
+      "nota": "temas 1.11"
+    },
+    {
+      "musico": null,
+      "nombre": "Mike Pacheco",
+      "instrumento": "percusión",
+      "nota": "temas 1.09, 1.17, 2.07–08, 2.14"
+    },
+    {
+      "musico": null,
+      "nombre": "Milton Raskin",
+      "instrumento": "piano",
+      "nota": "temas 1.08–09, 1.15, 1.17–18, 2.07–09, 2.14"
+    },
+    {
+      "musico": null,
+      "nombre": "Alvino Rey",
+      "instrumento": "guitarra",
+      "nota": "temas 1.08–09, 1.15, 1.17–18, 2.07–09, 2.14"
+    },
+    {
+      "musico": null,
+      "nombre": "Emil Richards",
+      "instrumento": "percusión",
+      "nota": "temas 2.18"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Smith",
+      "instrumento": "piano",
+      "nota": "temas 1.11"
+    },
+    {
+      "musico": null,
+      "nombre": "Sylvia Telles",
+      "instrumento": "additional voz",
+      "nota": "temas 2.17"
+    },
+    {
+      "musico": null,
+      "nombre": "Lee Young",
+      "instrumento": "batería",
+      "nota": "temas 1.06–18, 2.01–09, 2.11–15, 2.17–18"
+    },
+    {
+      "musico": null,
+      "nombre": "Ralph Carmichael",
+      "instrumento": "arreglos, dirección",
+      "nota": "temas 1.06-10, 1.12–18, 2.01–09, 2.11, 2.13–14"
+    },
+    {
+      "musico": null,
+      "nombre": "Dave Cavanaugh",
+      "instrumento": "arreglos, dirección",
+      "nota": "temas 2.17"
+    },
+    {
+      "musico": null,
+      "nombre": "Gordon Jenkins",
+      "instrumento": "music arreglos, orquesta dirección, choir arreglos, choir dirección",
+      "nota": "temas 2.15, 2.16"
+    },
+    {
+      "musico": null,
+      "nombre": "Stan Kenton",
+      "instrumento": "dirección",
+      "nota": "temas 1.11"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy May",
+      "instrumento": "arreglos, dirección",
+      "nota": "temas 1.15"
+    },
+    {
+      "musico": null,
+      "nombre": "Nelson Riddle",
+      "instrumento": "arreglos, dirección",
+      "nota": "temas 2.12, 2.18"
+    },
+    {
+      "musico": null,
+      "nombre": "Pete Rugolo",
+      "instrumento": "arreglos",
+      "nota": "temas 1.08"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "swing"
   ],
@@ -52,7 +239,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "The_Nat_King_Cole_Story"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"The Nat King Cole Story\"."
+    }
+  ]
 }

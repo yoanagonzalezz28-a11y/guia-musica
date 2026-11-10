@@ -34,12 +34,22 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": "dejohnette",
+      "nombre": "Jack DeJohnette",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "haden",
+      "nombre": "Charlie Haden",
+      "instrumento": "bajo"
+    },
+    {
       "musico": "rubalcaba",
       "nombre": "Gonzalo Rubalcaba",
       "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "latino"
   ],
@@ -47,10 +57,16 @@
     "Trío con Charlie Haden y Jack DeJohnette: virtuosismo cubano con lirismo. Rubalcaba toca el piano con Haden y DeJohnette, en temas lentos y rápidos. Es uno de los discos que el banco elige para conocer a Gonzalo Rubalcaba."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "81654050-2df0-365d-ae05-d6d2c9fa8bb0",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 9136cf9c-5788-4561-a912-e1a90ba36b2e (1991-10-26)."
+    }
+  ]
 }

@@ -33,12 +33,66 @@
   "sello": "Columbia",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Skip Hadden",
+      "instrumento": "batería",
+      "nota": "temas 1, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Alphonso Johnson",
+      "instrumento": "bajo",
+      "nota": "temas 1, 2, 3, 4, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Dom Um Romão",
+      "instrumento": "percusión, batería, cabasa, pandereta, triángulo",
+      "nota": "temas 1, 2, 3, 4, 6, 7"
+    },
+    {
+      "musico": "shorter",
+      "nombre": "Wayne Shorter",
+      "instrumento": "saxo soprano, saxo tenor, piano",
+      "nota": "temas 1, 2, 3, 4, 5, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Ishmael Wilburn",
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 3, 4"
+    },
+    {
       "musico": "zawinul",
       "nombre": "Joe Zawinul",
-      "instrumento": "teclados, composición"
+      "instrumento": "percusión, piano, sintetizador, voz, piano eléctrico Rhodes, melódica, batería, guitarra, maracas, órgano, tambura"
+    },
+    {
+      "musico": "vitous",
+      "nombre": "Miroslav Vitouš",
+      "instrumento": "bajo",
+      "nota": "temas 2"
+    },
+    {
+      "musico": "barretto",
+      "nombre": "Ray Barretto",
+      "instrumento": "percusión",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Don Ashworth",
+      "instrumento": "ocarina, vientos de madera",
+      "nota": "temas 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Isacoff",
+      "instrumento": "finger cymbals, tabla",
+      "nota": "temas 7"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "fusion"
   ],
@@ -46,10 +100,16 @@
     "Sintetizadores, percusión y saxo en un sonido muy experimental, con temas que parecen paisajes. Alphonso Johnson entra en el bajo y el grupo empieza a dejar atrás la improvisación libre de sus primeros discos. Está entre los discos esenciales de Joe Zawinul."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "5d64be82-1cd8-3ffb-8ea9-0b3749e772f2",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Mysterious_Traveller"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 0e8235c5-961f-4c04-a20c-6bb5c29dc409 (1974)."
+    }
+  ]
 }

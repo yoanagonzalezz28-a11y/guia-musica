@@ -36,12 +36,49 @@
   "sello": "Atlantic",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Charles Tolliver",
+      "instrumento": "fliscorno, trompeta, vientos de metal"
+    },
+    {
       "musico": "ayers",
       "nombre": "Roy Ayers",
       "instrumento": "vibráfono"
+    },
+    {
+      "musico": null,
+      "nombre": "Gary Bartz",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": "ronc",
+      "nombre": "Ron Carter",
+      "instrumento": "bajo",
+      "nota": "temas 1, 2"
+    },
+    {
+      "musico": "hancock",
+      "nombre": "Herbie Hancock",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Hubert Laws",
+      "instrumento": "flauta"
+    },
+    {
+      "musico": null,
+      "nombre": "Grady Tate",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "vitous",
+      "nombre": "Miroslav Vitouš",
+      "instrumento": "bajo",
+      "nota": "temas 3, 4, 5, 6"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "souljazz"
   ],
@@ -49,10 +86,16 @@
     "Vibráfono con Herbie Hancock, Hubert Laws y Charles Tolliver, en temas entre el soul y el jazz. El tema del título es una canción de Laura Nyro que fue un éxito pop en 1968. Está entre los discos esenciales de Roy Ayers."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "6931ff94-aeac-3e2c-82f0-b75667806eab",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 58e6ef43-1347-468e-b55d-25cd3ec32777 (1968)."
+    }
+  ]
 }

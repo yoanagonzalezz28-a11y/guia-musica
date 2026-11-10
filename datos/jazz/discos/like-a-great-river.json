@@ -36,12 +36,27 @@
   "sello": "Yellowbird",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Petros Klampanis",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": "maestro",
+      "nombre": "Shai Maestro",
+      "instrumento": "piano"
+    },
+    {
       "musico": "tzur",
       "nombre": "Oded Tzur",
-      "instrumento": "saxo tenor, composición"
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Ziv Ravitz",
+      "instrumento": "músico"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -54,7 +69,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición a5d0a637-9831-466a-bedc-19c49f679078 (2015-06-26)."
+    }
+  ],
   "temas": [
     {
       "titulo": "The Dance",

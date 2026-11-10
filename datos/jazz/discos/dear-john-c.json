@@ -36,12 +36,34 @@
   "sello": "Impulse!",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Richard Davis",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "“Sir” Roland Hanna",
+      "instrumento": "piano",
+      "nota": "temas 1, 3, 8"
+    },
+    {
       "musico": "elvin",
       "nombre": "Elvin Jones",
       "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Charlie Mariano",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": "hank-jones",
+      "nombre": "Hank Jones",
+      "instrumento": "piano acordeón",
+      "nota": "temas 4, 5, 7"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "modal"
   ],
@@ -49,12 +71,18 @@
     "Homenaje a Coltrane con Charlie Mariano: sutil y con mucho swing. Jones toca la batería con un grupo de saxo, piano y contrabajo, más contenido que con el cuarteto de Coltrane. Está entre los discos esenciales de Elvin Jones."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "960473b1-bb4a-36de-8364-651d40655428",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 7e2677da-1d0e-40e6-bec9-2be6fa668de5 (1965)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Dear John C.",

@@ -34,7 +34,7 @@
     {
       "musico": "chucho",
       "nombre": "Chucho Valdés",
-      "instrumento": "piano y dirección"
+      "instrumento": "piano y dirección, piano"
     },
     {
       "musico": "paquito",
@@ -45,11 +45,6 @@
       "musico": "sandoval",
       "nombre": "Arturo Sandoval",
       "instrumento": "trompeta"
-    },
-    {
-      "musico": "chucho",
-      "nombre": "Chucho Valdés",
-      "instrumento": "piano"
     }
   ],
   "personalNota": "Lista parcial: son integrantes de esa época, pero no encontramos la formación completa de los conciertos.",

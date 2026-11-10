@@ -1,0 +1,50 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "ottonello",
+  "nombre": "Mateo Ottonello",
+  "nacimiento": {
+    "anio": null,
+    "lugar": "Montevideo"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "batería",
+    "composición",
+    "producción"
+  ],
+  "corrientes": [
+    "rioplat",
+    "hoy"
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "spotify": null,
+  "resumen": "Baterista, compositor y productor de Montevideo, de la generación joven del jazz uruguayo. Cruza el candombe, el jazz y el rock, y tocó con Hugo Fattoruso, Nicolás Ibarburu, Javier Malosetti y Hernán Jacinto.",
+  "epocas": [
+    {
+      "titulo": "Jazz rioplatense",
+      "desde": 2018,
+      "hasta": 2026,
+      "texto": "",
+      "discoClave": {
+        "disco": "1612",
+        "explicacion": "Su primer disco, entre el candombe, el jazz y el rock."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "montevideo-ottonello",
+    "busqueda-ottonello",
+    "lb-ottonello"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "1612"
+  ]
+}

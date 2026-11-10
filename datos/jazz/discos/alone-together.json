@@ -35,12 +35,17 @@
   "sello": "Milestone",
   "musicos": [
     {
+      "musico": "ronc",
+      "nombre": "Ron Carter",
+      "instrumento": "bajo"
+    },
+    {
       "musico": "jim-hall",
       "nombre": "Jim Hall",
       "instrumento": "guitarra"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "cool"
   ],
@@ -48,10 +53,16 @@
     "Guitarra y contrabajo, sin batería, tejiendo líneas que se cruzan todo el tiempo. Se grabó en vivo en un club de Nueva York, y Hall y Ron Carter siguieron tocando a dúo durante décadas. Está entre los discos esenciales de Jim Hall."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "dcc6f4c5-e577-3b94-a8fd-70b5a33eb8d5",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 649b8796-837c-412c-9a12-54c7d267b997 (1973)."
+    }
+  ]
 }

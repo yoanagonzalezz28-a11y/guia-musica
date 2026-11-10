@@ -36,12 +36,73 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "George Garzone",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1, 2, 3, 5, 6, 7, 8, 9, 10, 12, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Tim Hagans",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 2, 3, 5, 6, 7, 8, 9, 10, 12, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Conrad Herwig",
+      "instrumento": "trombón",
+      "nota": "temas 1, 2, 3, 5, 6, 7, 8, 9, 10, 12, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "John Hicks",
+      "instrumento": "piano",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Dennis Irwin",
+      "instrumento": "bajo",
+      "nota": "temas 1, 2, 3, 5, 6, 7, 8, 9, 10, 12, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Ralph Lalama",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1, 2, 3, 5, 6, 7, 8, 9, 10, 12, 13"
+    },
+    {
       "musico": "lovano",
       "nombre": "Joe Lovano",
-      "instrumento": "saxo tenor"
+      "instrumento": "saxo tenor",
+      "nota": "temas 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Lewis Nash",
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 3, 5, 6, 7, 8, 9, 10, 12, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Slagle",
+      "instrumento": "saxo alto",
+      "nota": "temas 1, 2, 3, 5, 6, 7, 8, 9, 10, 12, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Gary Smulyan",
+      "instrumento": "saxo barítono",
+      "nota": "temas 1, 2, 3, 5, 6, 7, 8, 9, 10, 12, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "[unknown]",
+      "instrumento": "saxo tenor",
+      "nota": "temas 4"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "neotrad"
   ],
@@ -49,10 +110,16 @@
     "Noneto con arreglos de Willie Smith: ganó un Grammy. Lovano rinde homenaje al bebop de la calle 52 de Nueva York con un noneto que suena compacto y lleno de swing. Está entre los discos esenciales de Joe Lovano."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "898ef672-4c1b-3946-bdf5-58b204bbba64",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 4d0ca043-5cbb-4c6f-a728-2d37286e18a4 (2000-04-25)."
+    }
+  ]
 }

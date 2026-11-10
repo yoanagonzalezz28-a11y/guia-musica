@@ -39,9 +39,44 @@
       "musico": "bebo",
       "nombre": "Bebo Valdés",
       "instrumento": "piano, arreglos"
+    },
+    {
+      "musico": null,
+      "nombre": "Primary Artist",
+      "instrumento": "bebo valdes trio"
+    },
+    {
+      "musico": null,
+      "nombre": "Upright Bass",
+      "instrumento": "cachao"
+    },
+    {
+      "musico": null,
+      "nombre": "Congas, Percussion",
+      "instrumento": "carlos \"patato\" valdes"
+    },
+    {
+      "musico": null,
+      "nombre": "Linear Notes",
+      "instrumento": "dr. cristobal diaz ayala"
+    },
+    {
+      "musico": null,
+      "nombre": "Composer",
+      "instrumento": "eliseo grenet"
+    },
+    {
+      "musico": null,
+      "nombre": "Guest Artist",
+      "instrumento": "israel \"cachao\" lopez"
+    },
+    {
+      "musico": null,
+      "nombre": "Mastering",
+      "instrumento": "todd a. gerard"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "latino"
   ],
@@ -52,7 +87,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "El_Arte_del_Sabor"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"El Arte del Sabor\"."
+    }
+  ]
 }

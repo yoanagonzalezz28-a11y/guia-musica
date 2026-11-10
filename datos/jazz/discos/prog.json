@@ -37,9 +37,24 @@
       "musico": "bad-plus",
       "nombre": "The Bad Plus",
       "instrumento": "grupo"
+    },
+    {
+      "musico": null,
+      "nombre": "Reid Anderson",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Ethan Iverson",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Dave King",
+      "instrumento": "percusión"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -47,10 +62,16 @@
     "Versiones de Tears for Fears, Rush y Bowie con el trío. El trío toca versiones de rock y pop con piano, contrabajo y batería muy fuertes. Está entre los discos esenciales de The Bad Plus."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "2855fbba-9d3b-3aea-bec1-186d6f689e11",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 7085bc6a-4802-455a-abc1-e765bc33183a (2007-05-08)."
+    }
+  ]
 }

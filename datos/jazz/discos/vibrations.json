@@ -37,10 +37,105 @@
     {
       "musico": "ayers",
       "nombre": "Roy Ayers",
-      "instrumento": "vibráfono"
+      "instrumento": "voz, deagan vibraharp, piano, piano eléctrico, sintetizador, percusión, arreglos"
+    },
+    {
+      "musico": null,
+      "nombre": "Edwin Birdsong",
+      "instrumento": "voz, sintetizador, arreglos"
+    },
+    {
+      "musico": null,
+      "nombre": "Deborah \"Chicas\" Darby",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Janice Fletcher",
+      "instrumento": "coros"
+    },
+    {
+      "musico": null,
+      "nombre": "Philip Woo",
+      "instrumento": "piano, piano eléctrico, sintetizadores, armónica"
+    },
+    {
+      "musico": null,
+      "nombre": "Greg Phillinganes",
+      "instrumento": "piano eléctrico, sintetizador"
+    },
+    {
+      "musico": null,
+      "nombre": "Calvin Banks",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Chuck Anthony",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Ronald \"Head\" Drayton",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "William Henry Allen",
+      "instrumento": "bajo, arreglos"
+    },
+    {
+      "musico": null,
+      "nombre": "Byron Miller",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Cobb",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Dennis Davis",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Bernard Purdie",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Marvin Sparks",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Ricky Lawson",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Chano O'Ferral",
+      "instrumento": "congas, percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Justo Almario",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "John Mosley",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Lew Soloff",
+      "instrumento": "trompeta"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "souljazz"
   ],
@@ -51,7 +146,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Vibrations_(Roy_Ayers_album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Vibrations (Roy Ayers album)\"."
+    }
+  ]
 }

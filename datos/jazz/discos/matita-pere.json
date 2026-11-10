@@ -35,12 +35,85 @@
   "sello": "MCA",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Claus Ogerman",
+      "instrumento": "dirección"
+    },
+    {
+      "musico": null,
+      "nombre": "Ray Beckenstein",
+      "instrumento": "vientos de madera"
+    },
+    {
+      "musico": null,
+      "nombre": "Phil Bodner",
+      "instrumento": "vientos de madera"
+    },
+    {
+      "musico": "ronc",
+      "nombre": "Ron Carter",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Richard Davis",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "George Devens",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Jerry Dodgion",
+      "instrumento": "vientos de madera"
+    },
+    {
+      "musico": null,
+      "nombre": "Don Hammond",
+      "instrumento": "vientos de madera"
+    },
+    {
       "musico": "jobim",
       "nombre": "Antônio Carlos Jobim",
-      "instrumento": "piano, guitarra, composición"
+      "instrumento": "guitarra, voz",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Harry Lookofsky",
+      "instrumento": "tenor violín"
+    },
+    {
+      "musico": "airto",
+      "nombre": "Airto Moreira",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "João Palma",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Romeo Penque",
+      "instrumento": "vientos de madera"
+    },
+    {
+      "musico": null,
+      "nombre": "[unknown]",
+      "instrumento": "corno",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Urbie Green",
+      "instrumento": "trombón",
+      "nota": "temas 7, 8"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "brasil"
   ],
@@ -48,10 +121,16 @@
     "Su disco más ambicioso: \"Águas de Março\" y piezas orquestales. Jobim canta y toca con arreglos de Claus Ogerman y Dori Caymmi, en piezas largas que se acercan a la música de cámara. Es uno de los discos que el banco elige para conocer a Antônio Carlos Jobim."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "e894164e-204d-416e-a572-cd7e19fd2a47",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición af3a6879-7e2e-44c4-aa7a-e13f32c8519e (1973-05-08)."
+    }
+  ]
 }

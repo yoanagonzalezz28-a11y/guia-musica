@@ -36,12 +36,22 @@
   "sello": "Impulse!",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Frank Gant",
+      "instrumento": "percusión, batería"
+    },
+    {
       "musico": "jamal",
       "nombre": "Ahmad Jamal",
       "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Jamil Nasser",
+      "instrumento": "contrabajo, bajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "modal"
   ],
@@ -54,7 +64,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 1ea31285-9201-4631-a293-ad85c9a41ab3 (1970-07)."
+    }
+  ],
   "temas": [
     {
       "titulo": "The Awakening",

@@ -38,10 +38,31 @@
     {
       "musico": "ronc",
       "nombre": "Ron Carter",
-      "instrumento": "contrabajo"
+      "instrumento": "bajo"
+    },
+    {
+      "musico": "cobham",
+      "nombre": "Billy Cobham",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "“Sir” Roland Hanna",
+      "instrumento": "piano"
+    },
+    {
+      "musico": "henderson",
+      "nombre": "Joe Henderson",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Richard Tee",
+      "instrumento": "piano eléctrico",
+      "nota": "temas 3"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -49,12 +70,18 @@
     "Producido por Creed Taylor, con Joe Henderson y Hubert Laws: groove de los 70. Carter toca el contrabajo como instrumento solista, con un sonido redondo, en un disco de groove cálido. Es uno de los discos que el banco elige para conocer a Ron Carter."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "cff18fb0-de4e-35c4-a103-13628129a691",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición ab4f9e6b-9e0a-4a5a-be2d-1fa03741dc36 (1974)."
+    }
+  ],
   "temas": [
     {
       "titulo": "A Feeling",

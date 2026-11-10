@@ -1,0 +1,68 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": true,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Oscar Alemán Swing Guitar Masterpieces 1938–1957"
+  },
+  "id": "swing-guitar-masterpieces-1938-1957",
+  "titulo": "Swing Guitar Masterpieces 1938–1957",
+  "credito": "Oscar Alemán",
+  "lideres": [
+    "oscar-aleman"
+  ],
+  "grabacion": {
+    "desde": 1938,
+    "hasta": 1957,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1998,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "oscar-aleman",
+      "nombre": "Oscar Alemán",
+      "instrumento": "guitarra, voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing",
+    "manouche"
+  ],
+  "comentario": [
+    "Guitarra de swing rápida y muy limpia, con un toque que lo emparenta con Django Reinhardt. Abarca casi veinte años, de sus días en París a su regreso a Buenos Aires. Es uno de los discos que el banco elige para conocer a Oscar Alemán."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "recopilacion": {
+    "desde": 1938,
+    "hasta": 1957,
+    "original": "Los temas salieron primero en discos de 78 rpm."
+  },
+  "respaldo": [
+    {
+      "fuente": "mb-oscar-aleman",
+      "acceso": "completa",
+      "aporta": "Recopilación de 1998 con grabaciones de 1938 a 1957."
+    }
+  ]
+}

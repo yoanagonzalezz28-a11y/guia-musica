@@ -37,12 +37,67 @@
   "sello": "Novus",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Scott Colley",
+      "instrumento": "bajo",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Al Foster",
+      "instrumento": "batería",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Antonio Hart",
+      "instrumento": "saxo alto",
+      "nota": "temas 2, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "John Hicks",
+      "instrumento": "piano",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Marc Cary",
+      "instrumento": "piano",
+      "nota": "temas 8, 9"
+    },
+    {
       "musico": "hargrove",
       "nombre": "Roy Hargrove",
-      "instrumento": "trompeta, fliscorno"
+      "instrumento": "trompeta, fliscorno",
+      "nota": "temas 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Gregory Hutchinson",
+      "instrumento": "percusión",
+      "nota": "temas 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Frank Lacy",
+      "instrumento": "trombón",
+      "nota": "temas 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Rodney Whitaker",
+      "instrumento": "bajo",
+      "nota": "temas 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Ron Blake",
+      "instrumento": "saxo",
+      "nota": "temas 9"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "neotrad"
   ],
@@ -55,7 +110,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición a6b43305-df7e-482e-b547-49fcb836b27b (1994-08-16)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Easy To Remember",

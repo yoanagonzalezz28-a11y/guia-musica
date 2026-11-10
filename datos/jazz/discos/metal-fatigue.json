@@ -33,12 +33,52 @@
   "sello": "Enigma",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Mac Hine",
+      "instrumento": "percusión"
+    },
+    {
       "musico": "holdsworth",
       "nombre": "Allan Holdsworth",
       "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Gary Husband",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Johnson",
+      "instrumento": "bajo, bajo eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Alan Pasqua",
+      "instrumento": "teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Chad Wackerman",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Gary Willis",
+      "instrumento": "bajo, bajo eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Korda",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Williams",
+      "instrumento": "voz"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "fusion"
   ],
@@ -46,10 +86,16 @@
     "Su guitarra en su mejor forma. Holdsworth toca la guitarra con un fraseo legato muy fluido y acordes poco comunes, en temas de fusión. En la ficha de Allan Holdsworth es el disco que representa la etapa \"Fusión\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "b2ca9b7f-5f54-3ea6-a68e-0675afbb3d80",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición f4f8fa58-fda8-3143-b876-b0e10dbb5988 (1985)."
+    }
+  ]
 }

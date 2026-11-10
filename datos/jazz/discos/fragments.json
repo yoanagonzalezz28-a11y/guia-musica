@@ -39,9 +39,24 @@
       "musico": "paul-bley",
       "nombre": "Paul Bley",
       "instrumento": "piano"
+    },
+    {
+      "musico": "frisell",
+      "nombre": "Bill Frisell",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": "motian",
+      "nombre": "Paul Motian",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "John Surman",
+      "instrumento": "cañas"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm"
   ],
@@ -49,12 +64,18 @@
     "Piano con saxo, guitarra y batería, en temas lentos y abiertos. Junta a Bley con John Surman, Bill Frisell y Paul Motian, y marcó su vuelta a ECM después de más de diez años. Es uno de los discos que el banco elige para conocer a Paul Bley."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "2616f39d-3a81-33cf-8bd2-1fedcd06a142",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición ca796ab7-8c8e-4b1d-8e1c-87afbd860e2e (1986)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Memories",

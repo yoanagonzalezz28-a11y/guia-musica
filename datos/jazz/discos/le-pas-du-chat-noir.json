@@ -38,10 +38,20 @@
     {
       "musico": "brahem",
       "nombre": "Anouar Brahem",
-      "instrumento": "oud, composición"
+      "instrumento": "oud"
+    },
+    {
+      "musico": null,
+      "nombre": "François Couturier",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Jean-Louis Matinier",
+      "instrumento": "acordeón"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm"
   ],
@@ -54,7 +64,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 2509bae1-6cb6-46c4-b292-2d6ce6dfc437 (2002-08-27)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Le pas du chat noir",

@@ -69,5 +69,9 @@
       "acceso": "extracto",
       "aporta": "\"Downhearted Blues\" integra el registro de preservación desde 2002."
     }
-  ]
+  ],
+  "recopilacion": {
+    "desde": 1923,
+    "hasta": 1933
+  }
 }

@@ -36,12 +36,36 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "John Hébert",
+      "instrumento": "bajo",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7"
+    },
+    {
       "musico": "andrew-hill",
       "nombre": "Andrew Hill",
-      "instrumento": "piano, composición"
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Eric McPherson",
+      "instrumento": "percusión",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Gregory Tardy",
+      "instrumento": "cañas, clarinete bajo",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Charles Tolliver",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "free"
   ],
@@ -49,10 +73,16 @@
     "Su regreso a Blue Note, poco antes de morir. Hill toca el piano con Charles Tolliver, Greg Tardy, John Hébert y Eric McPherson. Es uno de los discos que el banco elige para conocer a Andrew Hill."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "b4d554f0-784c-3e11-b3cb-3f1966ff2e8f",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición b81fb23e-20b2-4358-8a0a-df606817cf38 (2006)."
+    }
+  ]
 }

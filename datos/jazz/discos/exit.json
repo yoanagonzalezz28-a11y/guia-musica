@@ -34,12 +34,27 @@
   "sello": "Muse",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Richard Davis",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Gil Goldstein",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Hart",
+      "instrumento": "batería"
+    },
+    {
       "musico": "martino",
       "nombre": "Pat Martino",
       "instrumento": "guitarra"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -47,10 +62,16 @@
     "Guitarra en cuarteto, con temas propios y estándares tocados con una velocidad y una claridad enormes. Gil Goldstein toca el piano, y fue de sus últimos discos antes del aneurisma que en 1980 le hizo perder la memoria. Es el disco clave de Pat Martino en la etapa \"Hard bop\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "a71034cc-6120-3685-b416-11d11869439e",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición c88e9b91-14b5-4952-8cd2-642373bcfc69 (1977)."
+    }
+  ]
 }

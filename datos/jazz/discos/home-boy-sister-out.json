@@ -38,10 +38,49 @@
     {
       "musico": "cherry",
       "nombre": "Don Cherry",
-      "instrumento": "trompeta, corneta de bolsillo"
+      "instrumento": "melódica, ngɔni, piano, sintetizador, trompeta, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Jorge Trasante",
+      "instrumento": "bongós, congas, batería machine, talking batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Claude Salmiéri",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Elli Medeiros",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Jean-Pierre Coco",
+      "instrumento": "congas",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Abdoulaye Prosper Niang",
+      "instrumento": "batería",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Fil Mong",
+      "instrumento": "bajo eléctrico",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Polo Lombardo",
+      "instrumento": "conch",
+      "nota": "temas 9"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -54,7 +93,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición d8717e3a-c997-4e80-97b7-a4a29fb9dadd (1985)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Call Me",

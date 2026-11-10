@@ -34,12 +34,38 @@
   "sello": "ECM",
   "musicos": [
     {
+      "musico": "abercrombie",
+      "nombre": "John Abercrombie",
+      "instrumento": "guitarra eléctrica, mandolina"
+    },
+    {
+      "musico": "dejohnette",
+      "nombre": "Jack DeJohnette",
+      "instrumento": "percusión, batería"
+    },
+    {
+      "musico": "garbarek",
+      "nombre": "Jan Garbarek",
+      "instrumento": "saxo soprano, saxo tenor, saxo"
+    },
+    {
+      "musico": "holland",
+      "nombre": "Dave Holland",
+      "instrumento": "contrabajo, bajo"
+    },
+    {
       "musico": "wheeler",
       "nombre": "Kenny Wheeler",
-      "instrumento": "fliscorno, trompeta, composición"
+      "instrumento": "fliscorno, trompeta"
+    },
+    {
+      "musico": "towner",
+      "nombre": "Ralph Towner",
+      "instrumento": "12 string guitarra",
+      "nota": "temas 2"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm"
   ],
@@ -47,10 +73,16 @@
     "El fliscorno de Wheeler, cálido y melancólico, sobre la guitarra de Abercrombie y el saxo de Garbarek. Wheeler era canadiense y vivía en Londres, y escribía melodías largas con saltos poco comunes. Es uno de los discos que el banco elige para conocer a Kenny Wheeler."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "191d2e0c-ea1a-3272-818c-f4e9d078a9f0",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 6c97afd9-696c-40a2-a65f-b751d14b78c1 (1978)."
+    }
+  ]
 }

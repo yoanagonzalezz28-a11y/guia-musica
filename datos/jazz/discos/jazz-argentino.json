@@ -48,10 +48,10 @@
   ],
   "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
   "corrientes": [
-    "rioplat"
+    "hard-bop"
   ],
   "comentario": [
-    "Piano en trío con un swing clásico y un toque elegante. López Furst fue uno de los pianistas que fijaron el sonido del jazz porteño desde los años 60. En la ficha de Baby López Furst es el disco que representa la etapa \"Jazz rioplatense\"."
+    "Piano en trío con un swing clásico y un toque elegante. López Furst fue uno de los pianistas que fijaron el sonido del jazz porteño desde los años 60. En la ficha de Baby López Furst es el disco que representa la etapa \"Hard bop\"."
   ],
   "ids": {
     "musicbrainz": null,
@@ -90,5 +90,6 @@
       "duracion": 341
     }
   ],
-  "temasFuente": "Spotify"
+  "temasFuente": "Spotify",
+  "corrienteNota": "Jazz porteño de trío, en la línea del hard bop: no cruza el jazz con el tango ni el folclore."
 }

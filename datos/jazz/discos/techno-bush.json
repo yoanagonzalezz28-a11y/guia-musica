@@ -36,10 +36,65 @@
     {
       "musico": "masekela",
       "nombre": "Hugh Masekela",
-      "instrumento": "trompeta, fliscorno"
+      "instrumento": "horns, percusión, voz, teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Zakes Mchunu",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Bongani Nxele",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Banjo Mosele",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "John Selolwane",
+      "instrumento": "guitarras, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Moses Ngwenya",
+      "instrumento": "órgano"
+    },
+    {
+      "musico": null,
+      "nombre": "Gasper Lawal",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Mandisa Dlanga",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Mopati Tsienyane",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Stella Khumalo",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Tsepo Tshola",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Peter Harris",
+      "instrumento": "programación"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "mundo"
   ],
@@ -50,7 +105,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Techno-Bush"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Techno-Bush\"."
+    }
+  ]
 }

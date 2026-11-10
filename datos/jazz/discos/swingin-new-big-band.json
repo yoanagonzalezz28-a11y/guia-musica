@@ -36,12 +36,92 @@
   "sello": "Pacific Jazz",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Walter Battagello",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "John Boice",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "John Bunch",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Jay Corre",
+      "instrumento": "flauta, saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Marty Flax",
+      "instrumento": "flauta, saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Dennis Good",
+      "instrumento": "trombón bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Yoshito Murakami",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Perlow",
+      "instrumento": "saxo barítono, clarinete bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Gene Quill",
+      "instrumento": "saxo alto, clarinete"
+    },
+    {
       "musico": "buddy-rich",
       "nombre": "Buddy Rich",
-      "instrumento": "batería, dirección"
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Bobby Shew",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Carson Smith",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "John Sottile",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Jim Trimble",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Mike Waverly",
+      "instrumento": "trombón bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Pete Yellin",
+      "instrumento": "saxo alto, clarinete"
+    },
+    {
+      "musico": null,
+      "nombre": "Barry Zweig",
+      "instrumento": "guitarra"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "swing"
   ],
@@ -49,10 +129,16 @@
     "Una big band con arreglos modernos y la batería de Rich siempre al frente, con mucha potencia. Rich armó esta orquesta en 1966, cuando las big bands ya no estaban de moda, y la sostuvo durante años. Es uno de los discos que el banco elige para conocer a Buddy Rich."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "5b8f84f4-183b-3026-aa5c-1df41803915c",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 68e16531-5444-4052-9549-3f1b31ff2923 (1995)."
+    }
+  ]
 }

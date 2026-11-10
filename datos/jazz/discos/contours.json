@@ -36,12 +36,32 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": "ronc",
+      "nombre": "Ron Carter",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Chambers",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "hancock",
+      "nombre": "Herbie Hancock",
+      "instrumento": "piano"
+    },
+    {
+      "musico": "hubbard",
+      "nombre": "Freddie Hubbard",
+      "instrumento": "trompeta"
+    },
+    {
       "musico": "rivers",
       "nombre": "Sam Rivers",
-      "instrumento": "saxo tenor, flauta, composición"
+      "instrumento": "flauta, saxo soprano, saxo tenor"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "free"
   ],
@@ -49,12 +69,18 @@
     "Con Freddie Hubbard y Herbie Hancock: abstracto y enérgico. Rivers escribe temas con cambios bruscos de clima, y la trompeta de Hubbard y el piano de Hancock lo siguen a todo riesgo. Es uno de los discos que el banco elige para conocer a Sam Rivers."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "019093e2-0dd5-3564-a5f0-11a0dfb6202b",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 3cab4aba-0ad5-4e12-8693-87a8f3e2d81a (1967)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Point Of Many Returns",

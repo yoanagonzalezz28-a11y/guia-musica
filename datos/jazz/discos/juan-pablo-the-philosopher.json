@@ -38,9 +38,39 @@
       "musico": "ezra-collective",
       "nombre": "Ezra Collective",
       "instrumento": "grupo"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Armon‐Jones",
+      "instrumento": "piano",
+      "nota": "temas 2, 3, 4, 5, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Dylan Jones",
+      "instrumento": "trompeta",
+      "nota": "temas 2, 3, 4, 5, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Femi Koleoso",
+      "instrumento": "batería",
+      "nota": "temas 2, 3, 4, 5, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "TJ Koleoso",
+      "instrumento": "bajo",
+      "nota": "temas 2, 3, 4, 5, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "James Mollison",
+      "instrumento": "saxo tenor",
+      "nota": "temas 2, 3, 4, 5, 6, 7"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -48,10 +78,16 @@
     "Afrobeat, jazz y hip hop con mucha energía y vientos al frente. Es un EP anterior a su primer disco largo, de un grupo que se formó en Tomorrow's Warriors, un programa de Londres para músicos jóvenes. En la ficha de Ezra Collective es el disco que representa la etapa \"Jazz de hoy\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "69096632-ab84-403d-a858-4e5bb0f79f0c",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición e4159356-be1f-4b91-ac0e-4d1a6fbf8b87 (2017-10-06)."
+    }
+  ]
 }

@@ -38,9 +38,111 @@
       "musico": "us3",
       "nombre": "Us3",
       "instrumento": "grupo"
+    },
+    {
+      "musico": null,
+      "nombre": "Ed Jones",
+      "instrumento": "saxo tenor, saxo soprano",
+      "nota": "temas 1, 2, 7, 9, 10, 13, 15"
+    },
+    {
+      "musico": null,
+      "nombre": "Mika Mylläri",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 2, 4, 13, 15"
+    },
+    {
+      "musico": null,
+      "nombre": "Femi Temowo",
+      "instrumento": "guitarra",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Alison Crockett",
+      "instrumento": "voz",
+      "nota": "temas 2, 4, 5, 6, 8, 9, 11, 12, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Gaurav Mazumdar",
+      "instrumento": "sitar",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Baluji Shrivastav",
+      "instrumento": "sitar",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Michelob",
+      "instrumento": "voz",
+      "nota": "temas 3, 5, 7, 10, 14"
+    },
+    {
+      "musico": null,
+      "nombre": "Neil Angilley",
+      "instrumento": "piano",
+      "nota": "temas 4, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Kadir Durvesh",
+      "instrumento": "vientos",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Lucy Wakeford",
+      "instrumento": "arpa",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Tony Rémy",
+      "instrumento": "guitarra",
+      "nota": "temas 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Chris Storr",
+      "instrumento": "trompeta",
+      "nota": "temas 7, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "DJ First Rate",
+      "instrumento": "bandejas",
+      "nota": "temas 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Beverlei Brown",
+      "instrumento": "voz",
+      "nota": "temas 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Dave O’Higgins",
+      "instrumento": "saxo tenor",
+      "nota": "temas 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Tim Vine",
+      "instrumento": "sintetizador, Mellotron, órgano, Minimoog",
+      "nota": "temas 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Jim Watson",
+      "instrumento": "piano, teclados",
+      "nota": "temas 13, 14"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "acid"
   ],
@@ -48,10 +150,16 @@
     "Hip hop y jazz, en su tercera etapa. El grupo londinense mezcla samples de jazz, bases de hip hop y raperos invitados. En la ficha de Us3 es el disco que representa la etapa \"Acid jazz\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "a5e9d35c-58e8-3524-a58a-77849e69c64f",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición b57dc668-6c6c-4202-bf57-079c18b237bc (2001)."
+    }
+  ]
 }

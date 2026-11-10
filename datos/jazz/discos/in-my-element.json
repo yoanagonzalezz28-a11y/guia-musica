@@ -36,12 +36,22 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Vicente Archer",
+      "instrumento": "bajo"
+    },
+    {
       "musico": "glasper",
       "nombre": "Robert Glasper",
-      "instrumento": "piano, teclados"
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Damion Reid",
+      "instrumento": "percusión"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -49,12 +59,18 @@
     "Piano en trío, en temas propios y versiones, con un groove que viene del hip hop. Incluye un homenaje a J Dilla, el productor de hip hop que había muerto el año anterior. Es uno de los discos que el banco elige para conocer a Robert Glasper."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "4c76ccd5-778e-37f0-b19a-b766735e23e7",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 6d42d664-4c78-4d9b-abcd-403e420fee2a (2007-03-20)."
+    }
+  ],
   "temas": [
     {
       "titulo": "G&B",

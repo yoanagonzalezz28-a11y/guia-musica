@@ -34,12 +34,22 @@
   "sello": "Muse",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Tyrone Brown",
+      "instrumento": "bajo eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Sherman Ferguson",
+      "instrumento": "batería"
+    },
+    {
       "musico": "martino",
       "nombre": "Pat Martino",
       "instrumento": "guitarra"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -47,10 +57,16 @@
     "Con \"The Great Stream\": líneas que no terminan nunca. Martino toca la guitarra en vivo con frases muy largas y rápidas. En la ficha de Pat Martino es el disco que representa la etapa \"Hard bop\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "59f01a63-3bde-3a98-aba4-5ef59ff6ff51",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 909e8ffe-85e5-483b-be97-23d956b478fc (1974)."
+    }
+  ]
 }

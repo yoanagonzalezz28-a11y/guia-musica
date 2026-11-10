@@ -8,7 +8,7 @@
   "regiones": [
     "estados-unidos"
   ],
-  "compilacion": false,
+  "compilacion": true,
   "tipo": "estudio",
   "catalogo": null,
   "lugar": null,
@@ -25,8 +25,8 @@
     "powell"
   ],
   "grabacion": {
-    "desde": 1956,
-    "hasta": 1956,
+    "desde": 1949,
+    "hasta": 1950,
     "detalle": null
   },
   "edicion": {
@@ -36,12 +36,30 @@
   "sello": "Norgran",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Ray Brown",
+      "instrumento": "contrabajo",
+      "nota": "temas 1, 2, 3, 5, 6"
+    },
+    {
       "musico": "powell",
       "nombre": "Bud Powell",
       "instrumento": "piano"
+    },
+    {
+      "musico": "roach",
+      "nombre": "Max Roach",
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 3, 5, 6, 7, 8, 9, 10, 12, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Curley Russell",
+      "instrumento": "contrabajo",
+      "nota": "temas 7, 8, 9, 10, 12, 13"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "bebop"
   ],
@@ -52,10 +70,20 @@
     "Con Ray Brown o Curly Russell en contrabajo y Max Roach en batería."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "fca4d51c-f178-3a50-b7d3-86000585197b",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 485f8fcb-315d-4166-808e-6988c08c668f (1956)."
+    }
+  ],
+  "recopilacion": {
+    "desde": 1949,
+    "hasta": 1950
+  }
 }

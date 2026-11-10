@@ -33,12 +33,35 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Kush Abadey",
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 4, 5, 6, 7, 8"
+    },
+    {
       "musico": "aldana",
       "nombre": "Melissa Aldana",
-      "instrumento": "saxo tenor"
+      "instrumento": "saxo tenor",
+      "nota": "temas 1, 2, 4, 5, 6, 7, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Sullivan Fortner",
+      "instrumento": "piano, piano eléctrico Rhodes",
+      "nota": "temas 1, 2, 4, 5, 6, 7, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Lage Lund",
+      "instrumento": "efectos, guitarra eléctrica"
+    },
+    {
+      "musico": null,
+      "nombre": "Pablo Menares",
+      "instrumento": "contrabajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -46,10 +69,16 @@
     "Su debut en Blue Note. La saxofonista chilena suma guitarra y teclados a su cuarteto y escribe temas más abiertos y melódicos que en sus discos anteriores. Es uno de los discos que el banco elige para conocer a Melissa Aldana."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "f8f8bc30-41c5-485d-a466-3dcfdeeb6520",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición bdedbb9a-0ffe-4868-875a-457dddb4e2b8 (2022-03-04)."
+    }
+  ]
 }

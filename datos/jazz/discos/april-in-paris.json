@@ -38,10 +38,66 @@
     {
       "musico": "basie",
       "nombre": "Count Basie",
-      "instrumento": "piano, dirección"
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Henry Coker, Bill Hughes, Benny Powell",
+      "instrumento": "trombón",
+      "nota": "temas tracks 1–7 & 9–16"
+    },
+    {
+      "musico": null,
+      "nombre": "Marshall Royal",
+      "instrumento": "saxo alto, clarinete",
+      "nota": "temas tracks 1–7 & 9–16"
+    },
+    {
+      "musico": null,
+      "nombre": "Bill Graham",
+      "instrumento": "saxo alto",
+      "nota": "temas tracks 1–7 & 9–16"
+    },
+    {
+      "musico": null,
+      "nombre": "Frank Wess",
+      "instrumento": "saxo alto, saxo tenor, flauta, clarinete"
+    },
+    {
+      "musico": null,
+      "nombre": "Frank Foster",
+      "instrumento": "saxo tenor, clarinete",
+      "nota": "temas tracks 1–7 & 9–16"
+    },
+    {
+      "musico": null,
+      "nombre": "Charlie Fowlkes",
+      "instrumento": "saxo barítono, clarinete bajo",
+      "nota": "temas tracks 1–7 & 9–16"
+    },
+    {
+      "musico": null,
+      "nombre": "Freddie Green",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Eddie Jones",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Sonny Payne",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "José Mangual Sr., Ubaldo Nieto",
+      "instrumento": "percusión",
+      "nota": "temas track 9"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "swing"
   ],
@@ -54,5 +110,11 @@
     "wikidata": null,
     "wikipedia": "April_in_Paris_(album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"April in Paris (album)\"."
+    }
+  ]
 }

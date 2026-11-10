@@ -36,12 +36,60 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": "chambers",
+      "nombre": "Paul Chambers",
+      "instrumento": "contrabajo",
+      "nota": "temas 1, 4, 5, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Barry Harris",
+      "instrumento": "piano",
+      "nota": "temas 1, 4, 5, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Higgins",
+      "instrumento": "batería",
+      "nota": "temas 1, 4, 5, 6"
+    },
+    {
+      "musico": "hubbard",
+      "nombre": "Freddie Hubbard",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 4, 5, 6"
+    },
+    {
       "musico": "mobley",
       "nombre": "Hank Mobley",
       "instrumento": "saxo tenor"
+    },
+    {
+      "musico": "byrd",
+      "nombre": "Donald Byrd",
+      "instrumento": "trompeta",
+      "nota": "temas 2, 3"
+    },
+    {
+      "musico": "hancock",
+      "nombre": "Herbie Hancock",
+      "instrumento": "piano",
+      "nota": "temas 2, 3"
+    },
+    {
+      "musico": "philly-joe-jones",
+      "nombre": "Philly Joe Jones",
+      "instrumento": "batería",
+      "nota": "temas 2, 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Butch Warren",
+      "instrumento": "contrabajo",
+      "nota": "temas 2, 3"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -49,12 +97,18 @@
     "Hard bop con un costado soul, con Donald Byrd y Barry Harris. Mobley toca el saxo tenor con Byrd, Harris, Paul Chambers y Billy Higgins, en temas con groove. Está entre los discos esenciales de Hank Mobley."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "46daf388-efd3-3fea-8cb9-824991a0d866",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "The_Turnaround!"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 44784f10-0a03-4686-860a-9557d70fd9aa (1965)."
+    }
+  ],
   "temas": [
     {
       "titulo": "The Turnaround - Remastered 2000/Rudy Van Gelder Edition",

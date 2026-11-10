@@ -35,12 +35,28 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": "green",
+      "nombre": "Grant Green",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": "elvin",
+      "nombre": "Elvin Jones",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "rivers",
+      "nombre": "Sam Rivers",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1, 2, 3, 4"
+    },
+    {
       "musico": "larry-young",
       "nombre": "Larry Young",
       "instrumento": "órgano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "modal"
   ],
@@ -48,10 +64,16 @@
     "Con Grant Green y Sam Rivers: el paso del soul jazz a lo modal. Young toca el órgano con un estilo influido por Coltrane, con Green en guitarra y Rivers en saxo. Es el disco clave de Larry Young en la etapa \"Jazz modal\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "3fefcc20-2039-3fb3-8619-d32fb2cecfb3",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición cdf5e948-1aae-446b-aa92-bc8ca7316a0e (1964)."
+    }
+  ]
 }

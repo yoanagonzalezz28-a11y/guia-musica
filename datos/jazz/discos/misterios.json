@@ -36,12 +36,45 @@
   "sello": "Warner",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Gil Goldstein",
+      "instrumento": "dirección, teclados",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Eric Allen",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": "geri-allen",
+      "nombre": "Geri Allen",
+      "instrumento": "piano, dirección"
+    },
+    {
       "musico": "roney",
       "nombre": "Wallace Roney",
       "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Clarence Seay",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Antoine Roney",
+      "instrumento": "saxo tenor",
+      "nota": "temas 4, 6, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Ravi Coltrane",
+      "instrumento": "saxo tenor",
+      "nota": "temas 9"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "neotrad"
   ],
@@ -49,10 +82,16 @@
     "La trompeta de Roney suena con su quinteto y arreglos para cuerdas, en un clima cercano al Miles Davis de los 60. Roney había tocado con Davis en Montreux en 1991, y las cuerdas recuerdan aquellos discos de Davis con Gil Evans. En la ficha de Wallace Roney es el disco que representa la etapa \"Neotradicionalismo\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "52252f96-a0f0-448b-90cc-38a786c4a59c",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 873efa8d-9419-40a4-9db8-774758117fb7 (1994)."
+    }
+  ]
 }

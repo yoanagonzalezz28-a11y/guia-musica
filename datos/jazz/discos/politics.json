@@ -39,9 +39,43 @@
       "musico": "yellowjackets",
       "nombre": "Yellowjackets",
       "instrumento": "grupo"
+    },
+    {
+      "musico": null,
+      "nombre": "Alex Acuña",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Russell Ferrante",
+      "instrumento": "teclados",
+      "nota": "temas 1, 2, 3, 5, 6, 7, 8, 9, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Haslip",
+      "instrumento": "bajo",
+      "nota": "temas 1, 2, 3, 4, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Will Kennedy",
+      "instrumento": "batería",
+      "nota": "temas 1, 5, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Marc Russo",
+      "instrumento": "saxo",
+      "nota": "temas 1, 2, 3, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Croes",
+      "instrumento": "synclavier"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "fusion"
   ],
@@ -49,10 +83,16 @@
     "Ganó un Grammy. Los Yellowjackets tocan fusión con teclados, saxo y bajo eléctrico, con melodías claras. Es uno de los discos que el banco elige para conocer a Yellowjackets."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "534fbf01-c029-3118-bea6-963775698276",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 95976e73-0e0b-47ed-a1b3-af4a221b920d (1988)."
+    }
+  ]
 }

@@ -36,10 +36,30 @@
     {
       "musico": "bartsch",
       "nombre": "Nik Bärtsch",
-      "instrumento": "piano, composición"
+      "instrumento": "piano, piano eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Sha",
+      "instrumento": "clarinete bajo, contrabass clarinete"
+    },
+    {
+      "musico": null,
+      "nombre": "Björn Meyer",
+      "instrumento": "6-contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Kaspar Rast",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Andi Pupato",
+      "instrumento": "percusión"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "ecm"
   ],
@@ -50,9 +70,15 @@
     "musicbrainz": "d0181356-13a1-3d3d-9907-6d3d120b983d",
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Stoa_(album)"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Stoa (album)\"."
+    }
+  ],
   "temas": [
     {
       "titulo": "Modul 36",

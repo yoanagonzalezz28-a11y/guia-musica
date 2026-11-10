@@ -38,10 +38,15 @@
     {
       "musico": "gismonti",
       "nombre": "Egberto Gismonti",
-      "instrumento": "guitarra, piano, composición"
+      "instrumento": "piano, guitarra, flauta, dilruba, voz"
+    },
+    {
+      "musico": "nana",
+      "nombre": "Naná Vasconcelos",
+      "instrumento": "percusión, berimbau, voz"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "brasil"
   ],
@@ -49,10 +54,16 @@
     "Guitarra, piano y flautas con la percusión de Naná Vasconcelos, en temas que recorren la música brasileña. Gismonti y Vasconcelos ya habían grabado a dúo *Dança das Cabeças*, y acá vuelven a encontrarse. Es uno de los discos que el banco elige para conocer a Egberto Gismonti."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "9368f43b-4b64-3a0e-a770-4c71f5921603",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición f4acd9d0-592c-4019-8250-ba27233e400a (2008-10-24)."
+    }
+  ]
 }

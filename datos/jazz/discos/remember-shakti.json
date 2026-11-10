@@ -32,12 +32,36 @@
   "sello": "Verve",
   "musicos": [
     {
+      "musico": "mclaughlin",
+      "nombre": "John McLaughlin",
+      "instrumento": "sintetizador, guitarra"
+    },
+    {
       "musico": "zakir",
       "nombre": "Zakir Hussain",
-      "instrumento": "tabla"
+      "instrumento": "tabla",
+      "nota": "temas 1-1, 1-2, 1-3, 2-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Hariprasad Chaurasia",
+      "instrumento": "bansuri",
+      "nota": "temas 1-1, 1-3, 2-1, 2-2"
+    },
+    {
+      "musico": null,
+      "nombre": "Uma Mehta",
+      "instrumento": "tanpura",
+      "nota": "temas 1-1, 1-3"
+    },
+    {
+      "musico": null,
+      "nombre": "Vikku Vinayakram",
+      "instrumento": "ghatam",
+      "nota": "temas 1-2, 1-3, 2-1"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -45,10 +69,16 @@
     "La segunda vida de Shakti, con U. Srinivas."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "a23662c6-0a16-38dd-9dac-87f311b5c411",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición cefbc524-9987-4758-8607-ae4da7f4cf1a (1999-04-19)."
+    }
+  ]
 }

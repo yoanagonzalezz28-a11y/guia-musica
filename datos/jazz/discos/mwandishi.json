@@ -38,10 +38,40 @@
     {
       "musico": "hancock",
       "nombre": "Herbie Hancock",
-      "instrumento": "piano, teclados, composición"
+      "instrumento": "piano eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Eddie Henderson",
+      "instrumento": "fliscorno, trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Bennie Maupin",
+      "instrumento": "flauta alto, clarinete bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Julian Priester",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Buster Williams",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Leon Ndugu Chancler",
+      "instrumento": "músico"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Hart",
+      "instrumento": "músico"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "fusion"
   ],
@@ -49,12 +79,18 @@
     "Su sexteto eléctrico y experimental: largas piezas de espacio y ritmo. Hancock toca piano eléctrico con un sexteto de vientos, en temas largos con efectos. Es el disco clave de Herbie Hancock en la etapa \"Mwandishi\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "6827887f-d53d-3c73-b63f-155379cc005c",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Mwandishi"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 901a3877-a0ed-44bb-a3d4-87fcded5cf9e (1971)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Ostinato - Suite for Angela",

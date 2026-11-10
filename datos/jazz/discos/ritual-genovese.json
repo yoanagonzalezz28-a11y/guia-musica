@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Leo Genovese Ritual"
+  },
+  "id": "ritual-genovese",
+  "titulo": "Ritual",
+  "credito": "Leo Genovese",
+  "lideres": [
+    "genovese"
+  ],
+  "grabacion": {
+    "desde": 2019,
+    "hasta": 2019,
+    "detalle": "Julio de 2019"
+  },
+  "edicion": {
+    "anio": 2022,
+    "detalle": null
+  },
+  "sello": "577 Records",
+  "musicos": [
+    {
+      "musico": "genovese",
+      "nombre": "Leo Genovese",
+      "instrumento": "piano, teclados, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy",
+    "rioplat"
+  ],
+  "comentario": [
+    "Piano con contrabajo y batería, y la voz de Nadia Larcher, entre el jazz libre y el folclore argentino. Lo grabó en 2019 con Demian Cabaud y Jeff Williams, y salió en 2022. Es el disco clave de Leo Genovese en la etapa \"Jazz de hoy\"."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "jazzwise-ritual",
+      "acceso": "extracto",
+      "aporta": "Reseña con personal y fechas."
+    }
+  ]
+}

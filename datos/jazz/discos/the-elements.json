@@ -41,12 +41,33 @@
   "sello": "Milestone",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Leon Ndugu Chancler",
+      "instrumento": "batería",
+      "nota": "temas 1, 4"
+    },
+    {
+      "musico": "alice",
+      "nombre": "Alice Coltrane",
+      "instrumento": "harmonium, arpa, piano, tambura"
+    },
+    {
+      "musico": "haden",
+      "nombre": "Charlie Haden",
+      "instrumento": "bajo"
+    },
+    {
       "musico": "henderson",
       "nombre": "Joe Henderson",
-      "instrumento": "saxo tenor"
+      "instrumento": "flauta, saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Michael White",
+      "instrumento": "violín"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "free"
   ],
@@ -59,7 +80,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición bbdeefea-c27d-4941-bb6e-1a0bd1fa0090 (1974)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Fire",

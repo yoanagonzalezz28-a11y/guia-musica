@@ -35,12 +35,58 @@
   "sello": "A&M / CTI",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Claus Ogerman",
+      "instrumento": "dirección"
+    },
+    {
+      "musico": "ronc",
+      "nombre": "Ron Carter",
+      "instrumento": "contrabajo"
+    },
+    {
       "musico": "jobim",
       "nombre": "Antônio Carlos Jobim",
-      "instrumento": "piano, guitarra, composición"
+      "instrumento": "guitarra, piano, voz",
+      "nota": "temas 1, 5, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Claudio Slon",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Cleveland",
+      "instrumento": "trombón",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Urbie Green",
+      "instrumento": "trombón",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Dom Um Romão",
+      "instrumento": "percusión",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Bobby Rosengarden",
+      "instrumento": "percusión",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Joseph Singer",
+      "instrumento": "corno",
+      "nota": "temas 5"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "brasil"
   ],
@@ -48,10 +94,16 @@
     "Piano y guitarra con una orquesta arreglada por Claus Ogerman, en temas instrumentales suaves. Es casi todo instrumental, algo raro en Jobim, y el tema que da nombre al disco se volvió un estándar del jazz. Es uno de los discos que el banco elige para conocer a Antônio Carlos Jobim."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "935fccc4-064a-339c-ba4c-b0acee6ff5eb",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 8a70ca33-60a8-445e-a760-7f06f2e0c990 (1967)."
+    }
+  ]
 }

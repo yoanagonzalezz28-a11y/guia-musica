@@ -356,5 +356,9 @@
       "duracion": 191
     }
   ],
-  "temasFuente": "Spotify"
+  "temasFuente": "Spotify",
+  "recopilacion": {
+    "desde": 1937,
+    "hasta": 1939
+  }
 }

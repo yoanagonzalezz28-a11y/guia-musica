@@ -36,12 +36,47 @@
   "sello": "Triloka",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Damon Duewhite",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Remi Kabaka",
+      "instrumento": "percusión, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Bakithi Kumalo",
+      "instrumento": "bajo, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Ngenekhaya Mahlanghu",
+      "instrumento": "percusión, flauta, saxo, voz"
+    },
+    {
       "musico": "masekela",
       "nombre": "Hugh Masekela",
-      "instrumento": "trompeta, fliscorno"
+      "instrumento": "fliscorno, trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Lawrence Matshiza",
+      "instrumento": "guitarra, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Themba Mkhize",
+      "instrumento": "teclados, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Los Ballederos Hornas Africanos de Townheep",
+      "instrumento": "voz"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -49,10 +84,16 @@
     "En vivo en Washington, tras volver a una Sudáfrica libre: con \"Stimela\", su canción sobre los trabajadores migrantes. Masekela toca la trompeta y canta en vivo, con un grupo que mezcla jazz y música sudafricana. Está entre los discos esenciales de Hugh Masekela."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "aa41cd74-99ff-3567-a3ea-6cf58bb349b1",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición f2f2f798-68f2-46db-b30c-aa045da01f6c (1994)."
+    }
+  ]
 }

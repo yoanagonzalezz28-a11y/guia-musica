@@ -39,9 +39,187 @@
       "musico": "incognito",
       "nombre": "Incognito",
       "instrumento": "grupo"
+    },
+    {
+      "musico": null,
+      "nombre": "Simon Hale",
+      "instrumento": "dirección"
+    },
+    {
+      "musico": null,
+      "nombre": "Maxton \"Gig\" Beesley, Jnr.",
+      "instrumento": "percusión, batería, voz, palmas, piano eléctrico Rhodes, vibráfono",
+      "nota": "temas 1, 2, 3, 4, 5, 7, 8, 10, 11, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Bluey",
+      "instrumento": "guitarra, voz, palmas"
+    },
+    {
+      "musico": null,
+      "nombre": "Richard Bull",
+      "instrumento": "guitarra acústica, batería, percusión",
+      "nota": "temas 1, 5, 9, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Graham Harvey",
+      "instrumento": "piano eléctrico Rhodes, piano, sintetizador, Moog, bajo sintetizado",
+      "nota": "temas 1, 3, 5, 6, 7, 8, 9, 10, 11, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Randy Hope-Taylor",
+      "instrumento": "bajo",
+      "nota": "temas 1, 4, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Joy Malcolm",
+      "instrumento": "voz",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 8, 9, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Bud Beadle",
+      "instrumento": "saxo alto, saxo barítono, flauta",
+      "nota": "temas 2, 3, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Julian Crampton",
+      "instrumento": "bajo",
+      "nota": "temas 2, 3, 5, 7, 9, 11, 12, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Peter Hinds",
+      "instrumento": "piano eléctrico Rhodes, piano, sintetizador",
+      "nota": "temas 2, 4, 5, 8, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Ed Jones",
+      "instrumento": "saxo soprano, saxo tenor, saxo",
+      "nota": "temas 2, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Kevin Robinson",
+      "instrumento": "trompeta, fliscorno",
+      "nota": "temas 2, 3, 4, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Fayyaz Virji",
+      "instrumento": "trombón",
+      "nota": "temas 2, 3, 4, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Pamela Anderson",
+      "instrumento": "voz",
+      "nota": "temas 2, 4, 5, 6, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Barry Stewart",
+      "instrumento": "voz",
+      "nota": "temas 2, 4, 6, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Gary Sanctuary",
+      "instrumento": "clavinet, Mellotron, sintetizador",
+      "nota": "temas 4, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Mark Nightingale",
+      "instrumento": "trombón",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Gerard Presencer",
+      "instrumento": "fliscorno, trompeta",
+      "nota": "temas 5, 7, 9, 12, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Adrian Revell",
+      "instrumento": "flauta, saxo tenor, saxo",
+      "nota": "temas 5, 9, 12, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Elisabeth Troy",
+      "instrumento": "voz",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Simon Cotsworth",
+      "instrumento": "palmas",
+      "nota": "temas 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Richard Edwards",
+      "instrumento": "trombón",
+      "nota": "temas 9, 12, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Snowboy",
+      "instrumento": "percusión",
+      "nota": "temas 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Richard Bailey",
+      "instrumento": "batería",
+      "nota": "temas 10, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Denys Baptiste",
+      "instrumento": "saxo tenor",
+      "nota": "temas 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Rowland Sutherland",
+      "instrumento": "flauta baja",
+      "nota": "temas 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Jason Yarde",
+      "instrumento": "saxo soprano",
+      "nota": "temas 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Claudia Rey",
+      "instrumento": "voz",
+      "nota": "temas 10"
+    },
+    {
+      "musico": null,
+      "nombre": "DJ Soul Slinger",
+      "instrumento": "voz",
+      "nota": "temas 10"
+    },
+    {
+      "musico": null,
+      "nombre": "People of the Earth",
+      "instrumento": "voz",
+      "nota": "temas 11"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "acid"
   ],
@@ -49,10 +227,16 @@
     "Voces de soul sobre bajo y batería muy bailables, con vientos cortos que marcan los cortes de cada tema. Incognito es el grupo del guitarrista Jean-Paul \"Bluey\" Maunick, y el disco salió por Talkin' Loud, el sello de Gilles Peterson. Es el disco clave de Incognito en la etapa \"Acid jazz\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "fcdd7142-5e8c-38fe-bf82-dc0be8ad55a9",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición c4986347-5abc-48d5-a556-7011c2f109bb (1995)."
+    }
+  ]
 }

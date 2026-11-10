@@ -36,12 +36,27 @@
   "sello": "Atlantic",
   "musicos": [
     {
+      "musico": "cherry",
+      "nombre": "Don Cherry",
+      "instrumento": "pocket trompeta"
+    },
+    {
       "musico": "ornette",
       "nombre": "Ornette Coleman",
-      "instrumento": "saxo alto, trompeta, violín"
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": "haden",
+      "nombre": "Charlie Haden",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Higgins",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "free"
   ],
@@ -49,10 +64,16 @@
     "Saxo y trompeta tocan melodías al unísono y después improvisan libremente, sin piano que marque los acordes. Es el segundo disco de Coleman para Atlantic, con Don Cherry, Charlie Haden y Billy Higgins. Es uno de los discos que el banco elige para conocer a Ornette Coleman."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "a42656d2-87f7-31a3-99ca-b7ba7250255c",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Change_of_the_Century"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 011ee4e1-4c18-4779-838a-feb458d94104 (1960-06)."
+    }
+  ]
 }

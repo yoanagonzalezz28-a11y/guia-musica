@@ -38,9 +38,44 @@
       "musico": "hiromi",
       "nombre": "Hiromi",
       "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Mitch Cohn",
+      "instrumento": "bajo eléctrico",
+      "nota": "temas 1, 2, 3, 6, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Dave DiCenso",
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "上原ひろみ",
+      "instrumento": "piano, teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "David Fiuczynski",
+      "instrumento": "guitarra",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Jim Odgren",
+      "instrumento": "saxo alto",
+      "nota": "temas 2, 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Anthony Jackson",
+      "instrumento": "bajo eléctrico",
+      "nota": "temas 4, 5, 7"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -48,10 +83,16 @@
     "Su debut. Hiromi, pianista japonesa formada en Berklee, ya muestra la velocidad y el humor que después se volvieron su sello. Es el disco clave de Hiromi en la etapa \"Jazz de hoy\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "57b5f557-8ed8-3744-8e21-83afdebccdd1",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 82611590-1394-45c4-9ad6-5287e2b4271a (2003-04-22)."
+    }
+  ]
 }

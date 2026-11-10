@@ -37,12 +37,37 @@
   "sello": "New Jazz",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Bilal Abdurahman",
+      "instrumento": "percusión, clarinete"
+    },
+    {
       "musico": "abdul-malik",
-      "nombre": "Ahmed Abdul-Malik",
-      "instrumento": "contrabajo, oud"
+      "nombre": "Ahmed Abdul‐Malik",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Andrew Cyrille",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Eric Dixon",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Calo Scott",
+      "instrumento": "violonchelo"
+    },
+    {
+      "musico": null,
+      "nombre": "Tommy Turrentine",
+      "instrumento": "trompeta"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -50,10 +75,16 @@
     "Oud, contrabajo y saxo en temas de raíz árabe, en un cruce todavía experimental. Abdul-Malik había sido contrabajista de Monk, y era de los pocos músicos de jazz que tocaban el oud. En la ficha de Ahmed Abdul-Malik es el disco que representa la etapa \"Jazz del mundo\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "8a7a47be-cc1a-48ee-8d3b-75a10c2620ff",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición d11d3723-1fca-4d67-a4ec-4c7a64c3004f (1961)."
+    }
+  ]
 }

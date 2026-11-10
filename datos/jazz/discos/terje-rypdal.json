@@ -37,10 +37,54 @@
     {
       "musico": "rypdal",
       "nombre": "Terje Rypdal",
-      "instrumento": "guitarra eléctrica, composición"
+      "instrumento": "guitarra, flauta"
+    },
+    {
+      "musico": "arild-andersen",
+      "nombre": "Arild Andersen",
+      "instrumento": "bajo",
+      "nota": "temas 1, 2, 3, 4"
+    },
+    {
+      "musico": "jon-christensen",
+      "nombre": "Jon Christensen",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Ekkehard Fintl",
+      "instrumento": "vientos"
+    },
+    {
+      "musico": "garbarek",
+      "nombre": "Jan Garbarek",
+      "instrumento": "vientos de madera"
+    },
+    {
+      "musico": "stenson",
+      "nombre": "Bobo Stenson",
+      "instrumento": "piano eléctrico",
+      "nota": "temas 1, 2, 4, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Inger Lise Rypdal",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Tom Halversen",
+      "instrumento": "piano eléctrico",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Bjørnar Andresen",
+      "instrumento": "bajo",
+      "nota": "temas 5"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm"
   ],
@@ -48,10 +92,16 @@
     "Su debut en ECM: guitarra eléctrica casi orquestal, con Jan Garbarek. Rypdal toca la guitarra eléctrica con un grupo, en temas largos y orquestales. En la ficha de Terje Rypdal es el disco que representa la etapa \"ECM y jazz europeo\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "886ac1a5-77d0-3916-968e-8814e31bd85e",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 99fa74d3-6b58-4a5b-a3de-0cc0c1ee8ef5 (1971-08-12)."
+    }
+  ]
 }

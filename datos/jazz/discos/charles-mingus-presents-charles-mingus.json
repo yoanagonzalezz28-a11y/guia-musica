@@ -36,12 +36,27 @@
   "sello": "Candid",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Ted Curson",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": "dolphy",
+      "nombre": "Eric Dolphy",
+      "instrumento": "saxo alto, clarinete bajo"
+    },
+    {
       "musico": "mingus",
       "nombre": "Charles Mingus",
-      "instrumento": "contrabajo, composición"
+      "instrumento": "contrabajo, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Dannie Richmond",
+      "instrumento": "batería, voz"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "free"
   ],
@@ -52,10 +67,16 @@
     "Se grabó en estudio para el sello Candid, pero Mingus lo presenta como si fuera un club, y le pide al \"público\" que no aplauda ni haga ruido con los vasos."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "0bcac9b4-9ad2-3297-9a7d-a4c28cfb2f77",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Mingus_Ah_Um"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 279b4af8-d118-4455-9d3b-386f8f50e562 (1960)."
+    }
+  ]
 }

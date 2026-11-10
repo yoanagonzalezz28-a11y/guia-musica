@@ -39,9 +39,19 @@
       "musico": "flanagan",
       "nombre": "Tommy Flanagan",
       "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "George Mraz",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Kenny Washington",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "bebop"
   ],
@@ -54,7 +64,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 3e9a6f37-9ae5-4eb3-a83c-e5fa59fe2708 (1989)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Raincheck",

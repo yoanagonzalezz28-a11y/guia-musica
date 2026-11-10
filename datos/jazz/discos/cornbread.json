@@ -36,12 +36,37 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": "hancock",
+      "nombre": "Herbie Hancock",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Higgins",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "mclean",
+      "nombre": "Jackie McLean",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": "mobley",
+      "nombre": "Hank Mobley",
+      "instrumento": "saxo tenor"
+    },
+    {
       "musico": "morgan",
       "nombre": "Lee Morgan",
       "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Larry Ridley",
+      "instrumento": "contrabajo, bajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -54,7 +79,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición f12c78de-91ec-4c4b-9e85-7ffddef7cdaa (1965)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Cornbread",

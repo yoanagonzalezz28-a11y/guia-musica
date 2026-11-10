@@ -38,10 +38,46 @@
     {
       "musico": "george-russell",
       "nombre": "George Russell",
-      "instrumento": "composición, piano, teoría"
+      "instrumento": "dirección, piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Garnett Brown",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Don Ellis",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Pete La Roca",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Plummer",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Swallow",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Sheila Jordan",
+      "instrumento": "voz",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "George Russell Sextet",
+      "instrumento": "músico"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "modal"
   ],
@@ -49,10 +85,16 @@
     "Con Sheila Jordan cantando \"You Are My Sunshine\" de una forma inquietante. Russell escribe para un sexteto con Don Ellis en trompeta, en temas complejos. Es uno de los discos que el banco elige para conocer a George Russell."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "78a2edf2-f897-3af3-bdc0-d87ae769d67c",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 068db5d2-cf3a-43a4-8e08-3605d260a38c (1991)."
+    }
+  ]
 }

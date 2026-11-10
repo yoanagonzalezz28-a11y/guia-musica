@@ -34,12 +34,27 @@
   "sello": "ECM",
   "musicos": [
     {
+      "musico": "abercrombie",
+      "nombre": "John Abercrombie",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": "jon-christensen",
+      "nombre": "Jon Christensen",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Palle Danielsson",
+      "instrumento": "contrabajo"
+    },
+    {
       "musico": "rava",
       "nombre": "Enrico Rava",
-      "instrumento": "trompeta, fliscorno"
+      "instrumento": "trompeta"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm"
   ],
@@ -47,12 +62,18 @@
     "Trompeta lírica en temas lentos, con mucho espacio. Fue su primer disco para ECM, con John Abercrombie, Palle Danielsson y Jon Christensen. Es el disco clave de Enrico Rava en la etapa \"ECM y jazz europeo\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "181aca2b-7675-3747-8889-c4b29ab86802",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición a883e0a0-1ab3-4469-ab34-eb0e0780c41a (1975-06)."
+    }
+  ],
   "temas": [
     {
       "titulo": "The Pilgrim And The Stars",

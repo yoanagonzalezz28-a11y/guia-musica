@@ -35,12 +35,54 @@
   "sello": "Atlantic",
   "musicos": [
     {
+      "musico": "abercrombie",
+      "nombre": "John Abercrombie",
+      "instrumento": "guitarra, guitarra acústica",
+      "nota": "temas 1, 2, 4, 5, 6, 7"
+    },
+    {
+      "musico": "brecker",
+      "nombre": "Michael Brecker",
+      "instrumento": "vientos de madera",
+      "nota": "temas 1, 4, 5, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Randy Brecker",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 4, 5, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Garnett Brown",
+      "instrumento": "trombón",
+      "nota": "temas 1, 2, 4, 5, 6, 7"
+    },
+    {
       "musico": "cobham",
       "nombre": "Billy Cobham",
       "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "George Duke",
+      "instrumento": "teclados, bajo, contrabajo",
+      "nota": "temas 1, 2, 4, 5, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Lee Pastora",
+      "instrumento": "percusión",
+      "nota": "temas 1, 4, 5, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "John Williams",
+      "instrumento": "bajo",
+      "nota": "temas 5, 6, 7"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "fusion"
   ],
@@ -48,10 +90,16 @@
     "Batería poderosa con los hermanos Brecker y John Abercrombie. Cobham toca la batería con potencia en temas de fusión con vientos y guitarra. Es uno de los discos que el banco elige para conocer a Billy Cobham."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "f31b5edf-535b-3122-814e-f95fc15d06f4",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 09f7c798-fa3c-4e34-b1c7-2b975477decc (1974)."
+    }
+  ]
 }

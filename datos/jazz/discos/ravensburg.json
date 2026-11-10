@@ -36,12 +36,37 @@
   "sello": "ECM",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Håkon Aase",
+      "instrumento": "violín"
+    },
+    {
       "musico": "eick",
       "nombre": "Mathias Eick",
       "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Audun Erlien",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Torstein Lofthus",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Helge Norbakken",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Andreas Ulvo",
+      "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm"
   ],
@@ -49,12 +74,18 @@
     "Trompeta noruega de sonido suave con violín, piano, bajo y dos baterías, en temas lentos y melódicos. Es uno de los discos que el banco elige para conocer a Mathias Eick."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "f77e29fc-4e05-4ed6-ae9f-347e4453335c",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 25ac13fb-11ff-4ee8-ad41-8ca7800a589d (2018-03-02)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Family",

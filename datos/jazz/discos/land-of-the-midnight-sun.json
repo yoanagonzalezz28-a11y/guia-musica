@@ -37,10 +37,76 @@
     {
       "musico": "di-meola",
       "nombre": "Al Di Meola",
-      "instrumento": "guitarra"
+      "instrumento": "guitarra acústica, guitarra eléctrica, chimes, sintetizador, voz, gong"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Gadd",
+      "instrumento": "batería",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Anthony Jackson",
+      "instrumento": "bajo",
+      "nota": "temas 1, 2"
+    },
+    {
+      "musico": null,
+      "nombre": "James Mingo Lewis",
+      "instrumento": "teclados, percusión",
+      "nota": "temas 1, 2, 4, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Barry Miles",
+      "instrumento": "piano eléctrico, Minimoog",
+      "nota": "temas 2, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Lenny White",
+      "instrumento": "batería",
+      "nota": "temas 2"
+    },
+    {
+      "musico": "sclarke",
+      "nombre": "Stanley Clarke",
+      "instrumento": "bajo eléctrico, voz",
+      "nota": "temas 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Patty Buyukas",
+      "instrumento": "voz",
+      "nota": "temas 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Alphonse Mouzon",
+      "instrumento": "batería",
+      "nota": "temas 5"
+    },
+    {
+      "musico": "jaco",
+      "nombre": "Jaco Pastorius",
+      "instrumento": "bajo eléctrico",
+      "nota": "temas 5"
+    },
+    {
+      "musico": "corea",
+      "nombre": "Chick Corea",
+      "instrumento": "marimba, piano",
+      "nota": "temas 6"
+    },
+    {
+      "musico": "mclaughlin",
+      "nombre": "John McLaughlin",
+      "instrumento": "músico",
+      "nota": "temas 6"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "fusion"
   ],
@@ -48,10 +114,16 @@
     "Su debut. Di Meola toca la guitarra con una velocidad enorme, en temas de fusión con Jaco Pastorius y Steve Gadd. Es uno de los discos que el banco elige para conocer a Al Di Meola."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "7e6dc1ce-53c0-3340-9cad-2732c8aa04cb",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 15a6a093-a7c3-41ab-a21a-a21b8d7107fa (1976)."
+    }
+  ]
 }

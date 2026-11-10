@@ -1,0 +1,64 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6WZ1VdrNQVrYfPq7eu45yu",
+    "tituloEnSpotify": "Aventurine",
+    "via": "api-spotify"
+  },
+  "id": "aventurine",
+  "titulo": "Aventurine",
+  "credito": "Linda May Han Oh",
+  "lideres": [
+    "linda-may-han-oh"
+  ],
+  "grabacion": {
+    "desde": 2019,
+    "hasta": 2019,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2019,
+    "detalle": null
+  },
+  "sello": "Biophilia",
+  "musicos": [
+    {
+      "musico": "linda-may-han-oh",
+      "nombre": "Linda May Han Oh",
+      "instrumento": "contrabajo, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Contrabajo con un cuarteto de jazz y un cuarteto de cuerdas, en temas propios de mucha escritura. Oh es contrabajista de Pat Metheny y de Vijay Iyer, y acá muestra su lado de compositora. Es el disco clave de Linda May Han Oh en la etapa \"Jazz de hoy\"."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-linda-oh-pend",
+      "acceso": "extracto",
+      "aporta": "Discografía."
+    }
+  ]
+}

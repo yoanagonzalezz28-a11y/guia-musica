@@ -35,12 +35,52 @@
   "sello": "Verve",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Hershy Kay",
+      "instrumento": "dirección"
+    },
+    {
+      "musico": null,
+      "nombre": "Norman Carr",
+      "instrumento": "violín"
+    },
+    {
       "musico": "getz",
       "nombre": "Stan Getz",
       "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Jacob Glick",
+      "instrumento": "viola"
+    },
+    {
+      "musico": "haynes",
+      "nombre": "Roy Haynes",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Alan Martin",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "John Neves",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Bruce Rogers",
+      "instrumento": "violonchelo"
+    },
+    {
+      "musico": null,
+      "nombre": "Gerald Tarack",
+      "instrumento": "violín"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "cool"
   ],
@@ -48,10 +88,16 @@
     "Getz improvisa sobre una suite para cuerdas, sin una melodía previa a la que volver. Eddie Sauter escribió las partes de cuerdas dejando lugar para que Getz inventara la línea principal en el momento. Es el disco clave de Stan Getz en la etapa \"Cool\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "e60ac23f-7b63-3015-8b23-cf16c6ca6725",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 7bce902a-fe4f-3e31-b828-83f827d2e391 (1961)."
+    }
+  ]
 }

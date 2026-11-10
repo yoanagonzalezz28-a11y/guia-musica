@@ -37,10 +37,46 @@
     {
       "musico": "puente",
       "nombre": "Tito Puente",
-      "instrumento": "timbales, vibráfono"
+      "instrumento": "leader, arreglos, timbales, vibráfono, marimba"
+    },
+    {
+      "musico": null,
+      "nombre": "Raymond Concepción",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Bobby Rodríguez",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": "barretto",
+      "nombre": "Ray Barretto",
+      "instrumento": "congas"
+    },
+    {
+      "musico": null,
+      "nombre": "Ray Rodríguez",
+      "instrumento": "bongós"
+    },
+    {
+      "musico": null,
+      "nombre": "Julito Collazo",
+      "instrumento": "congas",
+      "nota": "temas tracks 4 and 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Santitos Colón",
+      "instrumento": "voz, chorus"
+    },
+    {
+      "musico": null,
+      "nombre": "Vitin Avilés, Otto Olivar",
+      "instrumento": "chorus"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "latino"
   ],
@@ -51,7 +87,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Dance_Mania_(album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Dance Mania (album)\"."
+    }
+  ]
 }

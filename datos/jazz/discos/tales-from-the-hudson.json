@@ -39,9 +39,42 @@
       "musico": "brecker",
       "nombre": "Michael Brecker",
       "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Joey Calderazzo",
+      "instrumento": "piano",
+      "nota": "temas 1, 2, 4, 6, 7, 8, 9"
+    },
+    {
+      "musico": "dejohnette",
+      "nombre": "Jack DeJohnette",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "holland",
+      "nombre": "Dave Holland",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": "metheny",
+      "nombre": "Pat Metheny",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Don Alias",
+      "instrumento": "percusión",
+      "nota": "temas 3, 5"
+    },
+    {
+      "musico": "tyner",
+      "nombre": "McCoy Tyner",
+      "instrumento": "piano",
+      "nota": "temas 3, 5"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "neotrad"
   ],
@@ -49,10 +82,16 @@
     "Saxo tenor con Pat Metheny, Dave Holland y Jack DeJohnette, y dos pianistas que se alternan: McCoy Tyner y Joey Calderazzo. Ganó dos premios Grammy. Está entre los discos esenciales de Michael Brecker."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "53e977dd-e1c4-3d10-8cba-17bdea68a26f",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición a24ebe0c-3465-453a-89b2-a9ffa062164b (1996)."
+    }
+  ]
 }

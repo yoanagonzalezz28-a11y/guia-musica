@@ -36,12 +36,204 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Gunther Schuller",
+      "instrumento": "dirección",
+      "nota": "temas 1, 2, 4, 5, 6, 7, 9, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Gloria Agostini",
+      "instrumento": "arpa",
+      "nota": "temas 1, 4, 7, 9, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Ronald E. Carbone",
+      "instrumento": "viola",
+      "nota": "temas 1, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Mark Helias",
+      "instrumento": "bajo",
+      "nota": "temas 1, 2, 4, 5, 6, 7, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Charles Libove",
+      "instrumento": "violín",
+      "nota": "temas 1, 4, 7, 9"
+    },
+    {
       "musico": "lovano",
       "nombre": "Joe Lovano",
-      "instrumento": "saxo tenor"
+      "instrumento": "saxo tenor, percusión, clarinete bajo, saxo soprano"
+    },
+    {
+      "musico": null,
+      "nombre": "Geoff Nuttall",
+      "instrumento": "violín",
+      "nota": "temas 1, 4, 7, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Dick Oatts",
+      "instrumento": "flauta",
+      "nota": "temas 1, 2, 5, 6, 7, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Peabody",
+      "instrumento": "violín",
+      "nota": "temas 1, 4, 7, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Cynthia Phelps",
+      "instrumento": "viola",
+      "nota": "temas 1, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "John Pintavalle",
+      "instrumento": "violín",
+      "nota": "temas 1, 4, 7, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Matthew Raimondi",
+      "instrumento": "violín",
+      "nota": "temas 1, 4, 7, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Ed Schuller",
+      "instrumento": "bajo",
+      "nota": "temas 1, 2, 4, 5, 6, 7, 9, 11, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "George Schuller",
+      "instrumento": "percusión",
+      "nota": "temas 1, 2, 4, 5, 6, 7, 9, 11, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Louise Schulman",
+      "instrumento": "viola",
+      "nota": "temas 1, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Fred Sherry",
+      "instrumento": "violonchelo",
+      "nota": "temas 1, 4, 7, 9, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Mark Orrin Shuman",
+      "instrumento": "violonchelo",
+      "nota": "temas 1, 4, 7, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Joel Smirnoff",
+      "instrumento": "violín",
+      "nota": "temas 1, 4, 7, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Ronald Thomas",
+      "instrumento": "violonchelo",
+      "nota": "temas 1, 4, 7, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Judi Silvano",
+      "instrumento": "voz",
+      "nota": "temas 1, 5, 8, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Mark Belair",
+      "instrumento": "percusión",
+      "nota": "temas 2, 5, 6, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Rob Botti",
+      "instrumento": "corno inglés",
+      "nota": "temas 2, 5, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "James Chirillo",
+      "instrumento": "guitarra",
+      "nota": "temas 2, 4, 5, 6, 9, 11, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "John Clark",
+      "instrumento": "corno",
+      "nota": "temas 2, 5, 6, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Julie Landsman",
+      "instrumento": "corno",
+      "nota": "temas 2, 5, 6, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Jim Pugh",
+      "instrumento": "trombón",
+      "nota": "temas 2, 5, 6, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Michael Rabinowitz",
+      "instrumento": "fagot, clarinete bajo",
+      "nota": "temas 2, 5, 6, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Charles Russo",
+      "instrumento": "cañas",
+      "nota": "temas 2, 5, 6, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Dennis Smylie",
+      "instrumento": "contrabass clarinete",
+      "nota": "temas 2, 5, 6, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Dave Taylor",
+      "instrumento": "vientos de metal",
+      "nota": "temas 2, 5, 6, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Jack Walrath",
+      "instrumento": "trompeta",
+      "nota": "temas 2, 5, 6, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Toby Appel",
+      "instrumento": "viola",
+      "nota": "temas 4, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Ray Gniewek",
+      "instrumento": "viola",
+      "nota": "temas 4, 9"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "neotrad"
   ],
@@ -49,10 +241,16 @@
     "El saxo tenor de Lovano suena con una orquesta de cámara, en temas propios y estándares. Los arreglos son de Gunther Schuller, uno de los creadores del third stream, el cruce entre jazz y música clásica. Es uno de los discos que el banco elige para conocer a Joe Lovano."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "9aac53ec-9bb0-3969-96d6-b085a3328e43",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición e6b9cd18-cabf-4ffd-9c34-403821e2e7e1 (1995)."
+    }
+  ]
 }

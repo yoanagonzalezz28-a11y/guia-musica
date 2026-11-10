@@ -39,9 +39,24 @@
       "musico": "hiromi",
       "nombre": "Hiromi",
       "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Hiromi Uehara",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Anthony Jackson",
+      "instrumento": "contrabass guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Simon Phillips",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "hoy"
   ],
@@ -52,9 +67,15 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Alive_(Hiromi_album)"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Alive (Hiromi album)\"."
+    }
+  ],
   "temas": [
     {
       "titulo": "Alive",

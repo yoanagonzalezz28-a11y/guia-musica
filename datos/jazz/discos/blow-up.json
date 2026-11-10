@@ -37,9 +37,19 @@
       "musico": "isao-suzuki",
       "nombre": "Isao Suzuki",
       "instrumento": "contrabajo, violonchelo"
+    },
+    {
+      "musico": null,
+      "nombre": "Takashi Mizuhashi",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "ジョージ大塚",
+      "instrumento": "batería, piano, bajo, violonchelo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -47,10 +57,16 @@
     "Uno de los discos más famosos del sello: contrabajo y grabación de primer nivel. El trío de Suzuki toca con un sonido de contrabajo muy presente, en una grabación que los audiófilos japoneses usan como referencia. Es el disco clave de Isao Suzuki en la etapa \"Jazz del mundo\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "db5f1a61-e46c-3dd4-aaa7-d531d38d4cb4",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 63569ba6-652c-4408-a7d7-cf26bbc7055d (1979)."
+    }
+  ]
 }

@@ -34,12 +34,113 @@
   "sello": "ArtistShare",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Gary Versace",
+      "instrumento": "acordeón"
+    },
+    {
       "musico": "schneider",
       "nombre": "Maria Schneider",
-      "instrumento": "composición, dirección"
+      "instrumento": "dirección"
+    },
+    {
+      "musico": null,
+      "nombre": "Jay Anderson",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "George Flynn",
+      "instrumento": "trombón bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Marshall Gilkes",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Greg Gisbert",
+      "instrumento": "vientos de metal"
+    },
+    {
+      "musico": null,
+      "nombre": "Augie Haas",
+      "instrumento": "vientos de metal"
+    },
+    {
+      "musico": null,
+      "nombre": "Tony Kadleck",
+      "instrumento": "vientos de metal"
+    },
+    {
+      "musico": null,
+      "nombre": "Ryan Keberle",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Frank Kimbrough",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Lage Lund",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": "mccaslin",
+      "nombre": "Donny McCaslin",
+      "instrumento": "vientos de madera"
+    },
+    {
+      "musico": null,
+      "nombre": "Keith O’Quinn",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Clarence Penn",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Rich Perry",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Dave Pietro",
+      "instrumento": "vientos de madera"
+    },
+    {
+      "musico": null,
+      "nombre": "Scott Robinson",
+      "instrumento": "cañas"
+    },
+    {
+      "musico": null,
+      "nombre": "Michael Rodriguez",
+      "instrumento": "vientos de metal"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Wilson",
+      "instrumento": "vientos de madera"
+    },
+    {
+      "musico": null,
+      "nombre": "Rogério Boccato",
+      "instrumento": "percusión",
+      "nota": "temas 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Maria Schneider Orchestra",
+      "instrumento": "orquesta"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -47,10 +148,16 @@
     "Inspirado en los campos de Minnesota: orquesta pastoral. Schneider escribe para una orquesta grande, en temas inspirados en el paisaje de su infancia. Está entre los discos esenciales de Maria Schneider."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "0df42ba8-02e9-4707-9746-e1858ef94746",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición b7ace644-e4fe-44ec-8a41-77e6ce37148d (2015)."
+    }
+  ]
 }

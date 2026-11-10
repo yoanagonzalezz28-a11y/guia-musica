@@ -36,12 +36,61 @@
   "sello": "Columbia",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Michael Beinhorn",
+      "instrumento": "teclados",
+      "nota": "temas 1, 2, 3, 4, 5, 6"
+    },
+    {
       "musico": "hancock",
       "nombre": "Herbie Hancock",
-      "instrumento": "piano, teclados, composición"
+      "instrumento": "teclados",
+      "nota": "temas 1, 2, 3, 4, 5, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Bill Laswell",
+      "instrumento": "bajo",
+      "nota": "temas 1, 2, 3, 4, 5, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Pete Cosey",
+      "instrumento": "guitarra",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Lowell “Sly” Dunbar",
+      "instrumento": "bongós, batería",
+      "nota": "temas 2, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Bernard Fowler",
+      "instrumento": "voz",
+      "nota": "temas 2, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Nicky Skopelitis",
+      "instrumento": "voz",
+      "nota": "temas 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Roger Trilling",
+      "instrumento": "voz",
+      "nota": "temas 6"
+    },
+    {
+      "musico": null,
+      "nombre": "DXT",
+      "instrumento": "músico",
+      "nota": "temas 1"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "fusion"
   ],
@@ -54,7 +103,13 @@
     "wikidata": null,
     "wikipedia": "Future_Shock"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 521bc5cd-4340-436d-b182-1be5cf0e7fe9 (1983)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Rockit",

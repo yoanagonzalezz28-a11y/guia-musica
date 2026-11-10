@@ -38,10 +38,38 @@
     {
       "musico": "rubalcaba",
       "nombre": "Gonzalo Rubalcaba",
-      "instrumento": "piano"
+      "instrumento": "teclados, percusión, piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Ignacio Berroa",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Carlos Henriquez",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Luisito Quintero",
+      "instrumento": "güiro, timbales",
+      "nota": "temas 2, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Roberto Quintero",
+      "instrumento": "congas",
+      "nota": "temas 2, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Jim Anderson",
+      "instrumento": "flauta",
+      "nota": "temas 9"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "latino"
   ],
@@ -49,10 +77,16 @@
     "Un piano vertiginoso sobre ritmos afrocubanos. Rubalcaba toca el piano en trío con mucha velocidad, en temas cubanos. Es uno de los discos que el banco elige para conocer a Gonzalo Rubalcaba."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "469a4213-8c35-3c4f-a6c4-da22ce9f7c0f",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición d3df7d75-80dc-4759-a79a-7e6547cd8b00 (2001)."
+    }
+  ]
 }

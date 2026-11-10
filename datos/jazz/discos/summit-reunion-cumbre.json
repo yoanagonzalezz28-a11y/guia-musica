@@ -34,12 +34,42 @@
   "sello": "Erre Records",
   "musicos": [
     {
+      "musico": "mulligan",
+      "nombre": "Gerry Mulligan",
+      "instrumento": "saxo barítono"
+    },
+    {
       "musico": "piazzolla",
       "nombre": "Astor Piazzolla",
-      "instrumento": "bandoneón, composición"
+      "instrumento": "bandoneón"
+    },
+    {
+      "musico": null,
+      "nombre": "Alberto Baldan Bembo",
+      "instrumento": "marimba"
+    },
+    {
+      "musico": null,
+      "nombre": "Bruno De Filippi",
+      "instrumento": "guitarra eléctrica"
+    },
+    {
+      "musico": null,
+      "nombre": "Tullio De Piscopo",
+      "instrumento": "batería, percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Angel “Pocho” Gatti",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Pino Presti",
+      "instrumento": "bajo eléctrico"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "rioplat"
   ],
@@ -47,10 +77,16 @@
     "Bandoneón y saxo barítono con un grupo italiano. Se grabó en Milán con arreglos de Piazzolla, y suena más a tango que a jazz. En la ficha de Astor Piazzolla es el disco que representa la etapa \"Summit con Mulligan\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "1a284a4e-e9ec-3f95-83c2-b41f50f06fe5",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición f98382dc-9b0b-3ea3-8adf-ed086947b18d (1974)."
+    }
+  ]
 }

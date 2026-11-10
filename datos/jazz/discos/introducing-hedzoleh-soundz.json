@@ -37,9 +37,34 @@
       "musico": "masekela",
       "nombre": "Hugh Masekela",
       "instrumento": "trompeta, fliscorno"
+    },
+    {
+      "musico": null,
+      "nombre": "Congas",
+      "instrumento": "voz, james kwaku morton, flauta, nat \"leepuma\" hammond"
+    },
+    {
+      "musico": null,
+      "nombre": "Electric bass",
+      "instrumento": "voz, stanley kwesi todd"
+    },
+    {
+      "musico": null,
+      "nombre": "Percussion",
+      "instrumento": "voz, samuel nortey"
+    },
+    {
+      "musico": null,
+      "nombre": "Talking drum",
+      "instrumento": "voz, percusión, isaac asante"
+    },
+    {
+      "musico": null,
+      "nombre": "Guitar",
+      "instrumento": "richard neesai \"jagger\" botchway"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "mundo"
   ],
@@ -50,7 +75,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Introducing_Hedzoleh_Soundz"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Introducing Hedzoleh Soundz\"."
+    }
+  ]
 }

@@ -36,12 +36,37 @@
   "sello": "Argo",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Art Farmer",
+      "instrumento": "trompeta"
+    },
+    {
       "musico": "golson",
       "nombre": "Benny Golson",
-      "instrumento": "saxo tenor, composición"
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Curtis Fuller",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": "tyner",
+      "nombre": "McCoy Tyner",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Addison Farmer",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Lex Humphries",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "hard-bop"
   ],
@@ -54,5 +79,11 @@
     "wikidata": null,
     "wikipedia": "Meet_the_Jazztet"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Meet the Jazztet\"."
+    }
+  ]
 }

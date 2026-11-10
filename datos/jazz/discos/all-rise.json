@@ -35,12 +35,366 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Graeme Blevins",
+      "instrumento": "saxo barítono",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Chip Crawford",
+      "instrumento": "piano, piano eléctrico Rhodes, Moog",
+      "nota": "temas 1, 2, 4, 5, 7, 9, 10, 11, 12, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "James Gardiner‐Bateman",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Jim Hunt",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1, 3, 7, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Troy Miller",
+      "instrumento": "percusión, batería, palmas, piano, dirección, marimba, pandereta",
+      "nota": "temas 1, 3, 4, 5, 6, 9, 10, 11, 12, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Trevor Mires",
+      "instrumento": "trombón",
+      "nota": "temas 1, 2, 3, 7, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Jahmal Nichols",
+      "instrumento": "bajo, contrabajo",
+      "nota": "temas 1, 2, 4, 5, 6, 7, 8, 10, 11, 12, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Ondřej Pivec",
+      "instrumento": "órgano Hammond",
+      "nota": "temas 1, 2, 6, 7, 8, 10, 11, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Tom Rees‐Roberts",
+      "instrumento": "trompeta",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Andy Ross",
+      "instrumento": "saxo alto, saxo barítono",
+      "nota": "temas 1, 2, 3, 7, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Chris Storr",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 2, 3, 7, 8"
+    },
+    {
       "musico": "porter",
       "nombre": "Gregory Porter",
       "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Emanuel Harrold",
+      "instrumento": "batería, pandereta",
+      "nota": "temas 2, 4, 5, 6, 7, 8, 10, 11, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Phebe Edwards",
+      "instrumento": "voz",
+      "nota": "temas 2, 3, 5, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Ladonna Harley‐Peters",
+      "instrumento": "voz",
+      "nota": "temas 2, 3, 5, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Sharlene Hector",
+      "instrumento": "voz",
+      "nota": "temas 2, 3, 5, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Jaz Ellington",
+      "instrumento": "voz",
+      "nota": "temas 2, 3, 5, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Priscilla Jones",
+      "instrumento": "voz",
+      "nota": "temas 2, 3, 5, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Philly Lopez",
+      "instrumento": "voz",
+      "nota": "temas 2, 3, 5, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Vula Malinga",
+      "instrumento": "voz",
+      "nota": "temas 2, 3, 5, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Teyana Miller",
+      "instrumento": "voz",
+      "nota": "temas 2, 3, 5, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "James Thompson",
+      "instrumento": "voz",
+      "nota": "temas 2, 3, 5, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Kevin Mark Trail",
+      "instrumento": "voz",
+      "nota": "temas 2, 3, 5, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Chris Hill",
+      "instrumento": "bajo",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Oli Rockberger",
+      "instrumento": "palmas",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "David Alberman",
+      "instrumento": "violín",
+      "nota": "temas 4, 5, 6, 9, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "David Ballesteros",
+      "instrumento": "violín",
+      "nota": "temas 4, 5, 6, 9, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Alastair Blayden",
+      "instrumento": "violonchelo",
+      "nota": "temas 4, 5, 6, 9, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Laure Le Dantec",
+      "instrumento": "violonchelo",
+      "nota": "temas 4, 5, 6, 9, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Laura Dixon",
+      "instrumento": "violín",
+      "nota": "temas 4, 5, 6, 9, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Clare Duckworth",
+      "instrumento": "violín",
+      "nota": "temas 4, 5, 6, 9, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Lander Echevarria",
+      "instrumento": "viola",
+      "nota": "temas 4, 5, 6, 9, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Carol Ella",
+      "instrumento": "viola",
+      "nota": "temas 4, 5, 6, 9, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Tim Gill",
+      "instrumento": "violonchelo",
+      "nota": "temas 4, 5, 6, 9, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Giovanni Guzzo",
+      "instrumento": "violín",
+      "nota": "temas 4, 5, 6, 9, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Gillianne Haddow",
+      "instrumento": "viola",
+      "nota": "temas 4, 5, 6, 9, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Malcolm Johnston",
+      "instrumento": "viola",
+      "nota": "temas 4, 5, 6, 9, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Hilary Jones",
+      "instrumento": "violonchelo",
+      "nota": "temas 4, 5, 6, 9, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Maxine Kwok‐Adams",
+      "instrumento": "violín",
+      "nota": "temas 4, 5, 6, 9, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Patrick Laurence",
+      "instrumento": "contrabajo",
+      "nota": "temas 4, 5, 6, 9, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "José Moreira",
+      "instrumento": "contrabajo",
+      "nota": "temas 4, 5, 6, 9, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Claire Parfitt",
+      "instrumento": "violín",
+      "nota": "temas 4, 5, 6, 9, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Colin Paris",
+      "instrumento": "contrabajo",
+      "nota": "temas 4, 5, 6, 9, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Elizabeth Pigram",
+      "instrumento": "violín",
+      "nota": "temas 4, 5, 6, 9, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Csilla Pogány",
+      "instrumento": "violín",
+      "nota": "temas 4, 5, 6, 9, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Jennie Pounder",
+      "instrumento": "violonchelo",
+      "nota": "temas 4, 5, 6, 9, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Sarah Quinn",
+      "instrumento": "violín",
+      "nota": "temas 4, 5, 6, 9, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Colin Renwick",
+      "instrumento": "violín",
+      "nota": "temas 4, 5, 6, 9, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Amanda Truelove",
+      "instrumento": "violonchelo",
+      "nota": "temas 4, 5, 6, 9, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Robert Turner",
+      "instrumento": "viola",
+      "nota": "temas 4, 5, 6, 9, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Miya Väisänen",
+      "instrumento": "violín",
+      "nota": "temas 4, 5, 6, 9, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Edward Vanderspar",
+      "instrumento": "viola",
+      "nota": "temas 4, 5, 6, 9, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Sylvain Vasseur",
+      "instrumento": "violín",
+      "nota": "temas 4, 5, 6, 9, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Rhys Watkins",
+      "instrumento": "violín",
+      "nota": "temas 4, 5, 6, 9, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "London Symphony Orchestra",
+      "instrumento": "orquesta",
+      "nota": "temas 4, 5, 6, 9, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Miles Bould",
+      "instrumento": "congas, percusión",
+      "nota": "temas 5, 6, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Femi Temowo",
+      "instrumento": "guitarra",
+      "nota": "temas 5, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Tivon Pennicott",
+      "instrumento": "saxo soprano, saxo tenor",
+      "nota": "temas 6, 8, 11, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Anton Davidyants",
+      "instrumento": "bajo",
+      "nota": "temas 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Keyon Harrold",
+      "instrumento": "fliscorno, trompeta",
+      "nota": "temas 10"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -48,10 +402,16 @@
     "Porter canta canciones propias que vienen del soul y el gospel, con un coro y una orquesta de cuerdas detrás. Llegó después de *Nat King Cole & Me*, un disco de versiones, y marca su vuelta a las composiciones propias. En la ficha de Gregory Porter es el disco que representa la etapa \"Jazz de hoy\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "630bad48-2f57-46df-8248-2ce172e07327",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 2c4d0b25-623d-4723-ab4e-7be254f9460a (2020)."
+    }
+  ]
 }

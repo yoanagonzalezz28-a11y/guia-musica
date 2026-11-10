@@ -38,10 +38,22 @@
     {
       "musico": "giuffre",
       "nombre": "Jimmy Giuffre",
-      "instrumento": "clarinete, saxo, composición"
+      "instrumento": "clarinete"
+    },
+    {
+      "musico": "paul-bley",
+      "nombre": "Paul Bley",
+      "instrumento": "piano",
+      "nota": "temas 2, 6, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Swallow",
+      "instrumento": "contrabajo",
+      "nota": "temas 2, 4, 6, 8, 10"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "free"
   ],
@@ -49,10 +61,16 @@
     "Clarinete solo y en trío: improvisación libre de una sutileza total. Giuffre toca el clarinete con saltos de registro y silencios, y en trío con Bley y Swallow el grupo improvisa casi como música de cámara contemporánea. Está entre los discos esenciales de Jimmy Giuffre."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "1a5bb395-7dc2-3f11-9e46-ccbfa33ddd3b",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición a9faef1f-4a8d-4b4c-9be0-edafd3304cd9 (1963)."
+    }
+  ]
 }

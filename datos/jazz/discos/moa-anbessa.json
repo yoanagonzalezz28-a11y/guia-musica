@@ -37,9 +37,63 @@
       "musico": "mekurya",
       "nombre": "Getatchew Mekurya",
       "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Joost Buis",
+      "instrumento": "trombón",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Xavier Charles",
+      "instrumento": "clarinete",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Colin McLean",
+      "instrumento": "bajo",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "ጌታቸው፡መኩሪያ",
+      "instrumento": "saxo",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Brodie West",
+      "instrumento": "saxo",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Katherina Bornefeld",
+      "instrumento": "músico",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Terrie Hessels",
+      "instrumento": "músico",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Andy Moor",
+      "instrumento": "músico",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "G.W. Sok",
+      "instrumento": "músico",
+      "nota": "temas 1"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -47,10 +101,16 @@
     "El saxo tenor de Mekurya, áspero y con mucho vibrato, se cruza con las guitarras de The Ex, una banda punk holandesa, entre el free y la música etíope. Mekurya había sido una figura del jazz etíope de los 60 y 70, y este encuentro lo volvió a poner en escena en Europa con más de setenta años. Es uno de los discos que el banco elige para conocer a Getatchew Mekurya."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "b074b835-0b21-3197-9cfd-ea92f3e06246",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición e4dc9381-7b9e-49e2-a321-4b3c62a19ae1 (2006-11-27)."
+    }
+  ]
 }

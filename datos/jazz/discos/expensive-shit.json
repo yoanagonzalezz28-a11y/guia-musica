@@ -36,10 +36,70 @@
     {
       "musico": "fela",
       "nombre": "Fela Kuti",
-      "instrumento": "saxo, teclados, voz"
+      "instrumento": "saxo tenor, saxo alto, piano, voz, arrangement, composer"
+    },
+    {
+      "musico": "tony-allen",
+      "nombre": "Tony Allen",
+      "instrumento": "lead batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Henry Kofi",
+      "instrumento": "lead congas"
+    },
+    {
+      "musico": null,
+      "nombre": "Nicholas Addo",
+      "instrumento": "additional congas"
+    },
+    {
+      "musico": null,
+      "nombre": "Christopher Uwaifor",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Lekan Animashaun",
+      "instrumento": "saxo barítono"
+    },
+    {
+      "musico": null,
+      "nombre": "Tunde Williams",
+      "instrumento": "trompeta, solo"
+    },
+    {
+      "musico": null,
+      "nombre": "Ukem Stephen",
+      "instrumento": "2nd trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Oghene Kologbo",
+      "instrumento": "tenor guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Leke Benson",
+      "instrumento": "rhythm guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Franco Aboddy",
+      "instrumento": "bajo eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Issac Olaleye",
+      "instrumento": "maracas"
+    },
+    {
+      "musico": null,
+      "nombre": "James Abayomi",
+      "instrumento": "sticks"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "mundo"
   ],
@@ -52,5 +112,11 @@
     "wikidata": null,
     "wikipedia": "Expensive_Shit"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Expensive Shit\"."
+    }
+  ]
 }

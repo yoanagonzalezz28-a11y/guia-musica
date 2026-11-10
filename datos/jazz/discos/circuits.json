@@ -39,9 +39,25 @@
       "musico": "potter",
       "nombre": "Chris Potter",
       "instrumento": "saxo tenor, composición"
+    },
+    {
+      "musico": null,
+      "nombre": "James Francies",
+      "instrumento": "teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Eric Harland",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Linley Marthe",
+      "instrumento": "bajo",
+      "nota": "temas 3, 4, 5, 8"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -54,7 +70,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 2e3a5f84-8a41-4f11-bb12-91f4b3fd0550 (2019-02-22)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Invocation",

@@ -36,10 +36,25 @@
     {
       "musico": "shankar",
       "nombre": "L. Shankar",
-      "instrumento": "violín"
+      "instrumento": "violín, 10-string double violín, tamboura"
+    },
+    {
+      "musico": "zakir",
+      "nombre": "Zakir Hussain",
+      "instrumento": "tabla"
+    },
+    {
+      "musico": null,
+      "nombre": "V. Lakshminarayana",
+      "instrumento": "dirección"
+    },
+    {
+      "musico": null,
+      "nombre": "Umayalpuram K. Sivaraman",
+      "instrumento": "mridangam"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "mundo"
   ],
@@ -50,7 +65,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Who's_to_Know"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Who's to Know\"."
+    }
+  ]
 }

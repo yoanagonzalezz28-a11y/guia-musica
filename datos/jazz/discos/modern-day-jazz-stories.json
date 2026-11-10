@@ -36,12 +36,47 @@
   "sello": "Talkin' Loud",
   "musicos": [
     {
+      "musico": "geri-allen",
+      "nombre": "Geri Allen",
+      "instrumento": "órgano Hammond, piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Ronnie Burrage",
+      "instrumento": "batería, percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Eddie Henderson",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Charnette Moffett",
+      "instrumento": "contrabajo"
+    },
+    {
       "musico": "courtney-pine",
       "nombre": "Courtney Pine",
-      "instrumento": "saxo tenor, saxo soprano"
+      "instrumento": "flauta, saxo soprano, saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "DJ Pogo",
+      "instrumento": "bandejas"
+    },
+    {
+      "musico": null,
+      "nombre": "Mark Whitfield",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": "cassandra",
+      "nombre": "Cassandra Wilson",
+      "instrumento": "voz"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "acid"
   ],
@@ -49,10 +84,16 @@
     "Jazz con hip hop, en el sello de Gilles Peterson. Pine toca saxos con un grupo de jazz y un DJ, en temas que mezclan hip hop con jazz moderno. Es el disco clave de Courtney Pine en la etapa \"Acid jazz\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "8c64ce59-ea0a-3e91-99f4-9cdd3faf9052",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 24ff54e7-9c2c-4210-80d5-7f93fd46a138 (1995)."
+    }
+  ]
 }

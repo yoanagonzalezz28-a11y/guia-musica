@@ -39,9 +39,38 @@
       "musico": "coryell",
       "nombre": "Larry Coryell",
       "instrumento": "guitarra"
+    },
+    {
+      "musico": "mclaughlin",
+      "nombre": "John McLaughlin",
+      "instrumento": "guitarra",
+      "nota": "temas 1, 2, 4, 5"
+    },
+    {
+      "musico": "corea",
+      "nombre": "Chick Corea",
+      "instrumento": "piano eléctrico",
+      "nota": "temas 5"
+    },
+    {
+      "musico": "vitous",
+      "nombre": "Miroslav Vitouš",
+      "instrumento": "contrabajo",
+      "nota": "temas 1, 3, 4, 5"
+    },
+    {
+      "musico": "cobham",
+      "nombre": "Billy Cobham",
+      "instrumento": "batería",
+      "nota": "temas 1, 3, 4, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Berkowitz",
+      "instrumento": "assistant"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "fusion"
   ],
@@ -54,5 +83,11 @@
     "wikidata": null,
     "wikipedia": "Spaces_(Larry_Coryell_album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Spaces (Larry Coryell album)\"."
+    }
+  ]
 }

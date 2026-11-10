@@ -36,12 +36,36 @@
   "sello": "Warner Bros.",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Larry Grenadier",
+      "instrumento": "bajo",
+      "nota": "temas 1, 2, 3, 4, 5"
+    },
+    {
       "musico": "mehldau",
       "nombre": "Brad Mehldau",
       "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Jorge Rossy",
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 3, 4, 5"
+    },
+    {
+      "musico": "blade",
+      "nombre": "Brian Blade",
+      "instrumento": "batería",
+      "nota": "temas 6, 7, 8, 9"
+    },
+    {
+      "musico": "mcbride",
+      "nombre": "Christian McBride",
+      "instrumento": "bajo",
+      "nota": "temas 6, 7, 8, 9"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -54,7 +78,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 56e48438-0753-46b9-9def-b69247a8e4ef (1995)."
+    }
+  ],
   "temas": [
     {
       "titulo": "It Might as Well Be Spring",

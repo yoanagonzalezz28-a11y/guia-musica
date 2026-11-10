@@ -36,12 +36,22 @@
   "sello": "Prestige",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Sam Jones",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Ray Lucas",
+      "instrumento": "batería"
+    },
+    {
       "musico": "timmons",
       "nombre": "Bobby Timmons",
-      "instrumento": "piano, composición"
+      "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "souljazz"
   ],
@@ -54,7 +64,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 12e1e063-0a6c-4082-981f-01efc6d2f219 (1964)."
+    }
+  ],
   "temas": [
     {
       "titulo": "A Little Barefoot Soul",

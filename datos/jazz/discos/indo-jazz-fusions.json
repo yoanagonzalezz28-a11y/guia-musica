@@ -36,12 +36,59 @@
   "sello": "Columbia",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Allan Ganley",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Coleridge Goode",
+      "instrumento": "bajo"
+    },
+    {
       "musico": "harriott",
       "nombre": "Joe Harriott",
-      "instrumento": "saxo alto"
+      "instrumento": "saxo alto",
+      "nota": "temas 1, 2, 3, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Shake Keane",
+      "instrumento": "vientos de metal",
+      "nota": "temas 1, 2, 3, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "John Mayer",
+      "instrumento": "cuerdas, clave, violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Diwan Motihar",
+      "instrumento": "sitar"
+    },
+    {
+      "musico": null,
+      "nombre": "Keshav Sathe",
+      "instrumento": "tabla"
+    },
+    {
+      "musico": null,
+      "nombre": "Pat Smythe",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Chris Taylor",
+      "instrumento": "flauta"
+    },
+    {
+      "musico": null,
+      "nombre": "Chandrahas Paigankar",
+      "instrumento": "tambura"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -49,10 +96,16 @@
     "La segunda parte del proyecto con John Mayer. Harriott toca el saxo alto con un grupo de jazz y músicos indios, con sitar y tabla. Está entre los discos esenciales de Joe Harriott."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "c680742d-a537-4956-b740-472d45a126f5",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 538677ef-08ff-48c3-adff-035d5747e292 (1967)."
+    }
+  ]
 }

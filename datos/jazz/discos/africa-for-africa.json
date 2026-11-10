@@ -39,9 +39,24 @@
       "musico": "femi-kuti",
       "nombre": "Femi Kuti",
       "instrumento": "saxo, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Femi Anikulapo-Kuti &ndash; composer",
+      "instrumento": "órgano, saxo, trompeta, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Opeyemi Awomolo &ndash; guitar",
+      "instrumento": "dirección"
+    },
+    {
+      "musico": null,
+      "nombre": "Adekunle Osunniran &ndash; percussion",
+      "instrumento": "sekere"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "mundo"
   ],
@@ -52,13 +67,18 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Africa_for_Africa"
   },
   "respaldo": [
     {
       "fuente": "mb-femi-kuti",
       "acceso": "extracto",
       "aporta": "Fecha de edición (12 de abril de 2011)."
+    },
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Africa for Africa\"."
     }
   ]
 }

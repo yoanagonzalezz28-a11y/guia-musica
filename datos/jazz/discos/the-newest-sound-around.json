@@ -1,0 +1,80 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Jeanne Lee y Ran Blake The Newest Sound Around"
+  },
+  "id": "the-newest-sound-around",
+  "titulo": "The Newest Sound Around",
+  "credito": "Jeanne Lee y Ran Blake",
+  "lideres": [
+    "jeanne-lee"
+  ],
+  "grabacion": {
+    "desde": 1962,
+    "hasta": 1962,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1962,
+    "detalle": null
+  },
+  "sello": "RCA Victor",
+  "musicos": [
+    {
+      "musico": null,
+      "nombre": "Ran Blake",
+      "instrumento": "piano",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 8, 10, 11"
+    },
+    {
+      "musico": "jeanne-lee",
+      "nombre": "Jeanne Lee",
+      "instrumento": "voz",
+      "nota": "temas 1, 2, 4, 5, 6, 7, 8, 9, 10, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "George Duvivier",
+      "instrumento": "bajo",
+      "nota": "temas 5, 8"
+    }
+  ],
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
+  "corrientes": [
+    "free"
+  ],
+  "comentario": [
+    "Voz y piano a dúo, en estándares desarmados con mucho silencio y armonías raras. Ran Blake toca el piano, y el disco anticipa la libertad que Lee llevaría después al free jazz. Es el disco clave de Jeanne Lee en la etapa \"Free jazz\"."
+  ],
+  "ids": {
+    "musicbrainz": "81ae752b-257b-347a-b20c-67ab737061a3",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-jeanne-lee",
+      "acceso": "extracto",
+      "aporta": "Colaboración con Ran Blake."
+    },
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 9042cf4e-acb6-4cec-8ec9-f7bf137c515f (1962)."
+    }
+  ]
+}

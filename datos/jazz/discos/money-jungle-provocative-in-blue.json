@@ -38,10 +38,74 @@
     {
       "musico": "carrington",
       "nombre": "Terri Lyne Carrington",
-      "instrumento": "batería, composición"
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Gerald Clayton",
+      "instrumento": "piano"
+    },
+    {
+      "musico": "mcbride",
+      "nombre": "Christian McBride",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Clark Terry",
+      "instrumento": "trompeta, voz",
+      "nota": "temas track 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Robin Eubanks",
+      "instrumento": "trombón",
+      "nota": "temas tracks 2, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Antonio Hart",
+      "instrumento": "flauta",
+      "nota": "temas tracks 2, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Tia Fuller",
+      "instrumento": "flauta, saxo alto",
+      "nota": "temas track 2, track 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Nir Felder",
+      "instrumento": "guitarra",
+      "nota": "temas track 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Arturo Stable",
+      "instrumento": "percusión",
+      "nota": "temas track 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Lizz Wright",
+      "instrumento": "voz",
+      "nota": "temas track 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Shea Rose",
+      "instrumento": "voz",
+      "nota": "temas track 11"
+    },
+    {
+      "musico": "hancock",
+      "nombre": "Herbie Hancock",
+      "instrumento": "voz",
+      "nota": "temas track 11"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "hoy"
   ],
@@ -52,9 +116,15 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Money_Jungle:_Provocative_in_Blue"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Money Jungle: Provocative in Blue\"."
+    }
+  ],
   "temas": [
     {
       "titulo": "Money Jungle",

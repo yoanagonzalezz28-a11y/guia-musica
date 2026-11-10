@@ -1,0 +1,48 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "lakecia-benjamin",
+  "nombre": "Lakecia Benjamin",
+  "nacimiento": {
+    "anio": 1982,
+    "lugar": "Nueva York"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "saxo alto"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/6hvjxbUASJd6bHds2Teaul",
+  "resumen": "Saxofonista de Nueva York que cruza el jazz espiritual de los Coltrane con el funk y el soul.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2020,
+      "hasta": 2023,
+      "texto": "",
+      "discoClave": {
+        "disco": "phoenix-benjamin",
+        "explicacion": "Su disco más conocido."
+      },
+      "discos": [
+        "pursuance-the-coltranes"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-lakecia-benjamin-pend"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "phoenix-benjamin",
+    "pursuance-the-coltranes"
+  ]
+}

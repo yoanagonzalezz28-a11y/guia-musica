@@ -36,10 +36,47 @@
     {
       "musico": "ammons",
       "nombre": "Gene Ammons",
-      "instrumento": "saxo tenor"
+      "instrumento": "saxo tenor",
+      "nota": "temas 1, 2, 5, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Candido",
+      "instrumento": "congas",
+      "nota": "temas 1, 2, 5, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Frankie Jones",
+      "instrumento": "percusión",
+      "nota": "temas 1, 2, 5, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Junior Mance",
+      "instrumento": "piano",
+      "nota": "temas 1, 2, 5, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Houston Person",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Prince James",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Buster Williams",
+      "instrumento": "bajo",
+      "nota": "temas 1, 2, 5, 6"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "souljazz"
   ],
@@ -47,10 +84,16 @@
     "Su regreso tras años de cárcel: tenor grande y bluesero. Ammons toca el saxo tenor con un grupo, en temas de blues. Es el disco clave de Gene Ammons en la etapa \"Soul jazz\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "cac51a5b-90c2-351b-89a2-968f433d0302",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 0a6d6bb6-0185-4e8a-a2da-c155372a3569 (1969)."
+    }
+  ]
 }

@@ -36,23 +36,180 @@
   "sello": "A&M",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Wayne Andre",
+      "instrumento": "trombón"
+    },
+    {
       "musico": "barbieri",
       "nombre": "Gato Barbieri",
-      "instrumento": "saxo tenor"
+      "instrumento": "saxo tenor",
+      "nota": "temas 1, 2, 3, 5, 6, 7, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Beck",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Randy Brecker",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Alfred Brown",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "Harry Cykman",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "Max Ellen",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Faulise",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Eric Gale",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Gershman",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "Harry Glickman",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "Bernie Glow",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Don Grolnick",
+      "instrumento": "teclados, sintetizador"
+    },
+    {
+      "musico": null,
+      "nombre": "Theodore Israel",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "Gary King",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Harold Kohon",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "Harry Lookofsky",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "Ralph MacDonald",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Cachete Maldonado",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Marky Markowitz",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Eddy Martinez",
+      "instrumento": "teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Charles McCracken",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "James Mtume",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "David Nadien",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "Max Pollikoff",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "Matthew Raimondi",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "Alan Shulman",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "David Spinozza",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Marvin Stamm",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Dave Taylor",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Lenny White",
+      "instrumento": "batería, percusión"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
-    "rioplat"
+    "fusion"
   ],
   "comentario": [
     "Producido por Herb Alpert: el Barbieri más popular, con \"Europa\" de Santana. Barbieri toca el tenor con un sonido cálido y gritado sobre arreglos de pop latino y funk de los 70. En la ficha de Gato Barbieri es el disco que representa la etapa \"Caliente! y el pop latino\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "89078e53-d5ba-44bf-b244-22b6b93e9b92",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 565c482e-74e4-4251-862c-aa7d206635a6 (2021)."
+    }
+  ]
 }

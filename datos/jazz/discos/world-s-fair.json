@@ -38,10 +38,15 @@
     {
       "musico": "lage",
       "nombre": "Julian Lage",
-      "instrumento": "guitarra"
+      "instrumento": "guitarra acústica"
+    },
+    {
+      "musico": null,
+      "nombre": "Matt Munisteri",
+      "instrumento": "producing"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "hoy"
   ],
@@ -52,9 +57,15 @@
     "musicbrainz": "ef97254f-22ea-4cf7-a896-0004f6a5df05",
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "World's_Fair_(album)"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"World's Fair (album)\"."
+    }
+  ],
   "temas": [
     {
       "titulo": "40's",

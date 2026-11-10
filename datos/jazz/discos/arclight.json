@@ -38,10 +38,25 @@
     {
       "musico": "lage",
       "nombre": "Julian Lage",
-      "instrumento": "guitarra"
+      "instrumento": "guitarra eléctrica"
+    },
+    {
+      "musico": null,
+      "nombre": "Scott Colley",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Kenny Wollesen",
+      "instrumento": "batería, vibráfono"
+    },
+    {
+      "musico": null,
+      "nombre": "Willard Robison",
+      "instrumento": "music arreglos"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "hoy"
   ],
@@ -52,7 +67,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Arclight_(album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Arclight (album)\"."
+    }
+  ]
 }

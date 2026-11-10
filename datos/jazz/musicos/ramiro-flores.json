@@ -16,7 +16,6 @@
     "composición"
   ],
   "corrientes": [
-    "rioplat",
     "hoy"
   ],
   "regiones": [
@@ -26,7 +25,7 @@
   "resumen": "Saxofonista argentino de la escena actual.",
   "epocas": [
     {
-      "titulo": "Jazz rioplatense",
+      "titulo": "Jazz de hoy",
       "desde": 2012,
       "hasta": 2016,
       "texto": "",

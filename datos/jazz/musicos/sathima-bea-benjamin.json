@@ -1,0 +1,47 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "sathima-bea-benjamin",
+  "nombre": "Sathima Bea Benjamin",
+  "nacimiento": {
+    "anio": 1936,
+    "lugar": "Johannesburgo"
+  },
+  "muerte": {
+    "anio": 2013
+  },
+  "instrumentos": [
+    "voz"
+  ],
+  "corrientes": [
+    "mundo"
+  ],
+  "regiones": [
+    "sudafrica"
+  ],
+  "spotify": null,
+  "resumen": "Cantante sudafricana del exilio, esposa de Abdullah Ibrahim; en 1963 Duke Ellington le produjo un disco en París.",
+  "epocas": [
+    {
+      "titulo": "Jazz del mundo",
+      "desde": 1963,
+      "hasta": 1997,
+      "texto": "",
+      "discoClave": {
+        "disco": "a-morning-in-paris",
+        "explicacion": "El disco que produjo Ellington."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-sathima-pend"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "a-morning-in-paris"
+  ]
+}

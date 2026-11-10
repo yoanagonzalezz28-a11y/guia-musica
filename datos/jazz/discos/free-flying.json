@@ -38,10 +38,15 @@
     {
       "musico": "hersch",
       "nombre": "Fred Hersch",
-      "instrumento": "piano"
+      "instrumento": "piano; producer"
+    },
+    {
+      "musico": "lage",
+      "nombre": "Julian Lage",
+      "instrumento": "guitarra; producer"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "hoy"
   ],
@@ -52,9 +57,15 @@
     "musicbrainz": "9a6cb68c-340d-4fb1-a60c-893048e21261",
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Free_Flying"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Free Flying\"."
+    }
+  ],
   "temas": [
     {
       "titulo": "Song Without Words #4: Duet",

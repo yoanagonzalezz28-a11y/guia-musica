@@ -29,7 +29,7 @@
     {
       "musico": "hayes",
       "nombre": "Andrés Hayes",
-      "instrumento": "saxo y composición"
+      "instrumento": "saxo y composición, saxo"
     },
     {
       "musico": null,
@@ -37,7 +37,7 @@
       "instrumento": "voz"
     },
     {
-      "musico": null,
+      "musico": "urquiza",
       "nombre": "Juan Cruz de Urquiza",
       "instrumento": "trompeta"
     },
@@ -65,15 +65,10 @@
       "musico": null,
       "nombre": "Facundo Flores",
       "instrumento": "percusión"
-    },
-    {
-      "musico": "hayes",
-      "nombre": "Andrés Hayes",
-      "instrumento": "saxo"
     }
   ],
   "corrientes": [
-    "rioplat"
+    "hoy"
   ],
   "comentario": [
     "El octavo disco del saxofonista porteño, con temas propios, canciones, un coral de Bach y un estándar. Hayes buscó un tono \"azul\", más introspectivo que en sus discos anteriores."

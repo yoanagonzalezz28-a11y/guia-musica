@@ -36,12 +36,53 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": "andrew-hill",
+      "nombre": "Andrew Hill",
+      "instrumento": "piano",
+      "nota": "temas 1, 2, 4, 5"
+    },
+    {
+      "musico": "philly-joe-jones",
+      "nombre": "Philly Joe Jones",
+      "instrumento": "batería"
+    },
+    {
       "musico": "mobley",
       "nombre": "Hank Mobley",
       "instrumento": "saxo tenor"
+    },
+    {
+      "musico": "morgan",
+      "nombre": "Lee Morgan",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 2, 4, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "John Ore",
+      "instrumento": "contrabajo",
+      "nota": "temas 1, 2, 4, 5"
+    },
+    {
+      "musico": "byrd",
+      "nombre": "Donald Byrd",
+      "instrumento": "trompeta",
+      "nota": "temas 3, 6"
+    },
+    {
+      "musico": "hancock",
+      "nombre": "Herbie Hancock",
+      "instrumento": "piano",
+      "nota": "temas 3, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Butch Warren",
+      "instrumento": "contrabajo",
+      "nota": "temas 3, 6"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -49,12 +90,18 @@
     "El saxo tenor de Mobley y la trompeta de Lee Morgan en temas con armonías más modernas que las de su hard bop de los 50. Reúne dos sesiones distintas, una con Andrew Hill y otra con Herbie Hancock en el piano. Está entre los discos esenciales de Hank Mobley."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "b401d71d-1219-309d-859f-b49fac22b0d9",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "No_Room_for_Squares"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 0f1b819e-0ccf-4daa-9002-6cb682591d36 (1963)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Three Way Split - Remastered 2000 / Rudy Van Gelder Edition",

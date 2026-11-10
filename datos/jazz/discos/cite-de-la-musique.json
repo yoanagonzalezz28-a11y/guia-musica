@@ -36,12 +36,24 @@
   "sello": "ECM",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Marc Johnson",
+      "instrumento": "contrabajo",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 9"
+    },
+    {
       "musico": "saluzzi",
       "nombre": "Dino Saluzzi",
       "instrumento": "bandoneón"
+    },
+    {
+      "musico": null,
+      "nombre": "José Maria Saluzzi",
+      "instrumento": "guitarra acústica",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 9"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "rioplat"
   ],
@@ -54,7 +66,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición ee6cc6a5-319a-4c5a-b47c-9e62d5c100e2 (1997)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Cité De La Musique",

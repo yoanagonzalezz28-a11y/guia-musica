@@ -36,12 +36,68 @@
   "sello": "Freedom",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Ernest Mothle",
+      "instrumento": "bajo, bajo eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Mongezi Feza",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "James Meine",
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 3, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Louis Moholo",
+      "instrumento": "batería, percusión"
+    },
+    {
       "musico": "pukwana",
       "nombre": "Dudu Pukwana",
       "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Lucky Ranku",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Frank Roberts",
+      "instrumento": "teclados",
+      "nota": "temas 1, 2, 3, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Elton Dean",
+      "instrumento": "saxo",
+      "nota": "temas 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Nick Evans",
+      "instrumento": "trombón",
+      "nota": "temas 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Victor Ntoni",
+      "instrumento": "bajo",
+      "nota": "temas 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Keith Tippett",
+      "instrumento": "piano",
+      "nota": "temas 4"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -49,10 +105,16 @@
     "Alegre y bailable, con mucho groove sudafricano. Pukwana toca el saxo alto con un sonido brillante, en temas de raíz sudafricana con mucho ritmo. Es uno de los discos que el banco elige para conocer a Dudu Pukwana."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "44249336-5d63-49e8-a822-a6b418452d7e",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición fee7c4c1-0c2c-4000-a3e7-522fca724bd1 (1977)."
+    }
+  ]
 }

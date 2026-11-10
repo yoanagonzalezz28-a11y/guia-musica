@@ -39,9 +39,30 @@
       "musico": "eick",
       "nombre": "Mathias Eick",
       "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Jon Balke",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Audun Erlien",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "Audun Kleive",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Stian Carstensen",
+      "instrumento": "pedal steel",
+      "nota": "temas 3, 4, 5"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm"
   ],
@@ -49,10 +70,16 @@
     "Su debut en ECM: melodías amplias y paisajes. Eick toca la trompeta con un grupo con piano, contrabajo y batería, en temas lentos. Está entre los discos esenciales de Mathias Eick."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "90a27e1a-8388-347a-9d1f-56d08225ad1b",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 2883a468-aa5e-43ef-a43d-dc7c2e7187b1 (2008-05-05)."
+    }
+  ]
 }

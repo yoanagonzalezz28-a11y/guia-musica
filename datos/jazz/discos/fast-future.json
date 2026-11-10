@@ -36,12 +36,42 @@
   "sello": "Greenleaf",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Jason Lindner",
+      "instrumento": "piano eléctrico, piano, sintetizador, teclados"
+    },
+    {
+      "musico": "guiliana",
+      "nombre": "Mark Guiliana",
+      "instrumento": "percusión, batería"
+    },
+    {
+      "musico": null,
+      "nombre": "David Binney",
+      "instrumento": "voz, sintetizador"
+    },
+    {
+      "musico": null,
+      "nombre": "Nina Geiger",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Jana Dagdagan",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Tim Lefebvre",
+      "instrumento": "bajo eléctrico"
+    },
+    {
       "musico": "mccaslin",
       "nombre": "Donny McCaslin",
       "instrumento": "saxo tenor"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -49,12 +79,18 @@
     "Con Mark Guiliana: groove eléctrico y denso. McCaslin toca el saxo con un grupo eléctrico, con sintetizadores y una batería que viene de la electrónica. Está entre los discos esenciales de Donny McCaslin."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "1f79e189-eca0-4d0a-b8a6-96879cbfc53e",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición b6cc25a9-b1a7-4e03-8e47-1cf3b6a5925f (2015)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Fast Future",

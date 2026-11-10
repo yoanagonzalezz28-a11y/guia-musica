@@ -1,0 +1,106 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/05bnn11Z5MBOTwiDbmJ5YB",
+    "tituloEnSpotify": "Carmen Sings Monk",
+    "via": "api-spotify"
+  },
+  "id": "carmen-sings-monk",
+  "titulo": "Carmen Sings Monk",
+  "credito": "Carmen McRae",
+  "lideres": [
+    "carmen-mcrae"
+  ],
+  "grabacion": {
+    "desde": 1990,
+    "hasta": 1990,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1990,
+    "detalle": null
+  },
+  "sello": "Novus",
+  "musicos": [
+    {
+      "musico": null,
+      "nombre": "Al Foster",
+      "instrumento": "batería",
+      "nota": "temas 1, 3, 4, 6, 7, 8, 9, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "George Mraz",
+      "instrumento": "contrabajo",
+      "nota": "temas 1, 3, 4, 6, 7, 8, 9, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Charlie Rouse",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Larry Willis",
+      "instrumento": "piano",
+      "nota": "temas 1, 12"
+    },
+    {
+      "musico": "carmen-mcrae",
+      "nombre": "Carmen McRae",
+      "instrumento": "voz",
+      "nota": "temas 1, 3, 4, 6, 7, 8, 9, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Eric Gunnison",
+      "instrumento": "piano",
+      "nota": "temas 3, 4, 6, 7, 8, 9, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Clifford Jordan",
+      "instrumento": "saxo tenor",
+      "nota": "temas 3, 4, 6, 7, 8, 9, 10"
+    }
+  ],
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
+  "corrientes": [
+    "neotrad"
+  ],
+  "comentario": [
+    "Temas de Thelonious Monk con letras, cantados sobre su armonía angulosa. Es uno de sus últimos discos y uno de los mejores homenajes a Monk que se grabaron. Es uno de los discos que el banco elige para conocer a Carmen McRae."
+  ],
+  "ids": {
+    "musicbrainz": "4d72f1e7-1663-3bbc-a784-a4d433314dd7",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-carmen-mcrae",
+      "acceso": "extracto",
+      "aporta": "Discografía tardía."
+    },
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 1c443cbe-48ca-49a2-bebf-d8c6c2e68a6e (1990)."
+    }
+  ]
+}

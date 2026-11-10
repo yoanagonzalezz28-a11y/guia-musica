@@ -34,12 +34,44 @@
   "sello": "Jazzland",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Shake Keane",
+      "instrumento": "fliscorno, trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Coleridge Goode",
+      "instrumento": "contrabajo"
+    },
+    {
       "musico": "harriott",
       "nombre": "Joe Harriott",
       "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Bobby Orr",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Hank Shaw",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 2, 3, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Harry South",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Frank Holder",
+      "instrumento": "bongós",
+      "nota": "temas 4, 6, 7, 8, 9"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -47,10 +79,16 @@
     "Saxo alto con un quinteto británico, en un hard bop con mucho swing. Harriott era jamaiquino y vivía en Londres; poco después creó un free jazz propio, sin haber escuchado el de Ornette Coleman. Es uno de los discos que el banco elige para conocer a Joe Harriott."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "07309608-911f-4cec-83e9-150960afc1b7",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición d0f5a35d-403f-4e73-87ad-2c56a5665729 (1960)."
+    }
+  ]
 }

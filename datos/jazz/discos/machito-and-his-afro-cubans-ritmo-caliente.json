@@ -9,7 +9,7 @@
     "cuba",
     "estados-unidos"
   ],
-  "compilacion": false,
+  "compilacion": true,
   "tipo": "estudio",
   "catalogo": null,
   "lugar": null,
@@ -53,5 +53,9 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "recopilacion": {
+    "anios": "de los años 40 y 50",
+    "original": "Los temas salieron primero en discos de 78 rpm."
+  }
 }

@@ -38,9 +38,29 @@
       "musico": "milt-jackson",
       "nombre": "Milt Jackson",
       "instrumento": "vibráfono"
+    },
+    {
+      "musico": "philly-joe-jones",
+      "nombre": "Philly Joe Jones",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Sam Jones",
+      "instrumento": "contrabajo, bajo"
+    },
+    {
+      "musico": "wynton-kelly",
+      "nombre": "Wynton Kelly",
+      "instrumento": "piano"
+    },
+    {
+      "musico": "wes",
+      "nombre": "Wes Montgomery",
+      "instrumento": "guitarra"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -48,10 +68,16 @@
     "Con Wes Montgomery: vibráfono y guitarra en estado de gracia. Jackson y Montgomery tocan blues y estándares con Wynton Kelly, Sam Jones y Philly Joe Jones, con mucho swing. Está entre los discos esenciales de Milt Jackson."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "7aad6ec7-e517-34f9-a899-2ff32d1988d7",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición b53c8b52-98f6-42cb-983c-3217a8bc1b38 (1962)."
+    }
+  ]
 }

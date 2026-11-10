@@ -1,0 +1,87 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Carmen McRae The Great American Songbook"
+  },
+  "id": "the-great-american-songbook",
+  "titulo": "The Great American Songbook",
+  "credito": "Carmen McRae",
+  "lideres": [
+    "carmen-mcrae"
+  ],
+  "grabacion": {
+    "desde": 1972,
+    "hasta": 1972,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1972,
+    "detalle": null
+  },
+  "sello": "Atlantic",
+  "musicos": [
+    {
+      "musico": "carmen-mcrae",
+      "nombre": "Carmen McRae",
+      "instrumento": "voz, piano on \"if the moon turns green\" and \"mr ugly\", liner notes"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Rowles",
+      "instrumento": "piano"
+    },
+    {
+      "musico": "pass",
+      "nombre": "Joe Pass",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Chuck Domanico",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Chuck Flores",
+      "instrumento": "batería"
+    }
+  ],
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Estándares en vivo, con humor y mucha conversación con el público. Se grabó en un club de Los Ángeles con Joe Pass en guitarra. Es uno de los discos que el banco elige para conocer a Carmen McRae."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "The_Great_American_Songbook_(Carmen_McRae_album)"
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-carmen-mcrae",
+      "acceso": "extracto",
+      "aporta": "Disco en vivo de 1972."
+    },
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"The Great American Songbook (Carmen McRae album)\"."
+    }
+  ]
+}

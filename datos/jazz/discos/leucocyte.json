@@ -36,12 +36,22 @@
   "sello": "ACT Music",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Dan Berglund",
+      "instrumento": "contrabajo, electronic instruments"
+    },
+    {
+      "musico": null,
+      "nombre": "Magnus Öström",
+      "instrumento": "batería, electronic instruments, voz"
+    },
+    {
       "musico": "svensson",
       "nombre": "Esbjörn Svensson",
-      "instrumento": "piano"
+      "instrumento": "piano, electronic instruments, other instruments"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -49,10 +59,16 @@
     "Editado después de su muerte: experimental y oscuro. El trío de Svensson toca temas largos con electrónica y distorsión, muy lejos de sus melodías pegadizas. Es uno de los discos que el banco elige para conocer a Esbjörn Svensson."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "122856c8-6d4d-3c28-a61e-bc2e76fa678d",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 2a65cba2-27de-4977-af2f-e434180bc8bd (2008-08-29)."
+    }
+  ]
 }

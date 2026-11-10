@@ -124,5 +124,9 @@
       "duracion": 405
     }
   ],
-  "temasFuente": "Spotify"
+  "temasFuente": "Spotify",
+  "recopilacion": {
+    "desde": 1954,
+    "hasta": 1955
+  }
 }

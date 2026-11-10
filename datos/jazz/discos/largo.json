@@ -36,12 +36,151 @@
   "sello": "Warner Bros.",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Emily Bernstein",
+      "instrumento": "clarinete",
+      "nota": "temas 1, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Matt Chamberlain",
+      "instrumento": "batería, percusión, tabla",
+      "nota": "temas 1, 3, 4, 5, 6, 7, 8, 9, 10, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Jon Clark",
+      "instrumento": "oboe",
+      "nota": "temas 1, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Rose Corrigan",
+      "instrumento": "fagot",
+      "nota": "temas 1, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Earle Dumler",
+      "instrumento": "oboe",
+      "nota": "temas 1, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Gary Gray",
+      "instrumento": "clarinete",
+      "nota": "temas 1, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Larry Grenadier",
+      "instrumento": "contrabajo guitarra, bajo eléctrico",
+      "nota": "temas 1, 2, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Kujala",
+      "instrumento": "flauta",
+      "nota": "temas 1, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Peter Mandell",
+      "instrumento": "fagot",
+      "nota": "temas 1, 12"
+    },
+    {
       "musico": "mehldau",
       "nombre": "Brad Mehldau",
-      "instrumento": "piano"
+      "instrumento": "piano",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "David Shostac",
+      "instrumento": "flauta",
+      "nota": "temas 1, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Jim Keltner",
+      "instrumento": "batería",
+      "nota": "temas 2, 5, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Darek \"Oles\" Oleszkiewicz",
+      "instrumento": "contrabajo guitarra",
+      "nota": "temas 2, 3, 4, 5, 6, 8, 10, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Jorge Rossy",
+      "instrumento": "batería, percusión",
+      "nota": "temas 2, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Daniel Kelley",
+      "instrumento": "corno",
+      "nota": "temas 3, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Bill Reichenbach, Jr.",
+      "instrumento": "trombón",
+      "nota": "temas 3, 5, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "George B. Thatcher",
+      "instrumento": "trombón bajo",
+      "nota": "temas 3, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Phil Yao",
+      "instrumento": "corno",
+      "nota": "temas 3, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Victor Indrizzo",
+      "instrumento": "batería, percusión",
+      "nota": "temas 4, 10, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Justin Meldal‐Johnsen",
+      "instrumento": "bajo eléctrico",
+      "nota": "temas 4, 10, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Jerry Folsom",
+      "instrumento": "corno",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Kenneth Kugler",
+      "instrumento": "trombón bajo",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Meyer",
+      "instrumento": "corno",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Jon Brion",
+      "instrumento": "chamberlin, guitarra",
+      "nota": "temas 11"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -54,7 +193,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 7167d699-a1a2-3b2b-ad50-af46d4706c97 (2002-08)."
+    }
+  ],
   "temas": [
     {
       "titulo": "When It Rains",

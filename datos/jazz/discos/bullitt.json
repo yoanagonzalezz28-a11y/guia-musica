@@ -37,23 +37,174 @@
   "sello": "Warner Bros.",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Hans Reinhard Biere",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Rob Bruynen",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Frank Chastenier",
+      "instrumento": "piano eléctrico, órgano, piano, sintetizador"
+    },
+    {
+      "musico": null,
+      "nombre": "Ulla van Daelen",
+      "instrumento": "arpa"
+    },
+    {
+      "musico": null,
+      "nombre": "Hans Dekker",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Christopher Dell",
+      "instrumento": "marimba, vibráfono, xilófono"
+    },
+    {
+      "musico": null,
+      "nombre": "Andy Haderer",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Albert Jung",
+      "instrumento": "viola"
+    },
+    {
+      "musico": null,
+      "nombre": "Michael Kasper",
+      "instrumento": "viola"
+    },
+    {
+      "musico": null,
+      "nombre": "Rick Kiefer",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Bernt Laukamp",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "John Marshall",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Klaus Morschel",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Jens Neufang",
+      "instrumento": "flauta alto, saxo barítono, clarinete bajo, flauta baja"
+    },
+    {
+      "musico": null,
+      "nombre": "Ludwig Nuss",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Olivier Peters",
+      "instrumento": "flauta alto, flauta, saxo soprano, saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Rolf Römer",
+      "instrumento": "flauta alto, flauta baja, flauta, saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Harald Rosenstein",
+      "instrumento": "flauta alto, saxo alto, flauta"
+    },
+    {
+      "musico": null,
+      "nombre": "Mischa Salevic",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Wolf Schenk",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Lucas Schmid",
+      "instrumento": "trombón bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Michael Schmidt",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Walter Schreiber",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Hans Erich Schröder-Conrad",
+      "instrumento": "viola"
+    },
+    {
+      "musico": null,
+      "nombre": "Lothar Schröder",
+      "instrumento": "viola"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Shigihara",
+      "instrumento": "guitarra acústica, guitarra eléctrica"
+    },
+    {
+      "musico": null,
+      "nombre": "Jerzy Szopinski",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Heiner Wiberny",
+      "instrumento": "flauta alto, saxo alto, flauta"
+    },
+    {
       "musico": "schifrin",
       "nombre": "Lalo Schifrin",
-      "instrumento": "piano, composición, arreglos"
+      "instrumento": "dirección"
+    },
+    {
+      "musico": null,
+      "nombre": "WDR Big Band Köln",
+      "instrumento": "músico"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
-    "rioplat"
+    "souljazz"
   ],
   "comentario": [
     "Banda sonora con big band, flauta y mucho groove. Schifrin escribe una música de suspenso con bajo eléctrico, flauta y big band, que se volvió modelo de las bandas sonoras policiales. Está entre los discos esenciales de Lalo Schifrin."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "3d487300-36e3-3c4e-8a17-66a45e8bdfa2",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 8c70a578-a60d-4003-949a-dfe88d2a6a52 (2000-07-11)."
+    }
+  ]
 }

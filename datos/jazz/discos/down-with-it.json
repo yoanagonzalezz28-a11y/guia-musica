@@ -35,12 +35,32 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Junior Cook",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": "corea",
+      "nombre": "Chick Corea",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Al Foster",
+      "instrumento": "batería"
+    },
+    {
       "musico": "blue-mitchell",
       "nombre": "Blue Mitchell",
       "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Gene Taylor",
+      "instrumento": "bajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -48,10 +68,16 @@
     "Un hard bop con groove de soul, con Junior Cook en saxo tenor y un joven Chick Corea en el piano. Corea todavía no había grabado como líder: es una de sus primeras apariciones en disco. Es uno de los discos que el banco elige para conocer a Blue Mitchell."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "178997b1-39fc-312b-8011-4f49472750de",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición b735d4cd-a1ba-4832-a439-01c9ab16acb0 (1997)."
+    }
+  ]
 }

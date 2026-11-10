@@ -36,12 +36,32 @@
   "sello": "Muza",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Czesław Bartkowski",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Paweł Jarzębski",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Wojciech Karolak",
+      "instrumento": "piano eléctrico"
+    },
+    {
       "musico": "namyslowski",
       "nombre": "Zbigniew Namysłowski",
       "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Tomasz Szukalski",
+      "instrumento": "saxo soprano, saxo tenor"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -49,10 +69,16 @@
     "El saxo alto de Namysłowski toca melodías del folclore polaco sobre una base de funk y jazz. El kujawiak del título es una danza tradicional polaca en compás de tres, llevada acá a un groove de los 70. En la ficha de Zbigniew Namysłowski es el disco que representa la etapa \"Jazz del mundo\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "0de26f58-0f14-4ce9-9a91-14b3b6bdce2d",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 07ff3eda-aabf-495c-aab3-09a35b6eed78 (s/f)."
+    }
+  ]
 }

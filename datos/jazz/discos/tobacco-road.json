@@ -39,9 +39,92 @@
       "musico": "mcduff",
       "nombre": "Jack McDuff",
       "instrumento": "órgano"
+    },
+    {
+      "musico": null,
+      "nombre": "J.J. Jackson",
+      "instrumento": "dirección",
+      "nota": "temas 1, 2, 5, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Frederick Berry",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 2, 5, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Bobby Christian",
+      "instrumento": "percusión",
+      "nota": "temas 1, 2, 5, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Roland Faulkner",
+      "instrumento": "guitarra",
+      "nota": "temas 1, 2, 5, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Loyal J. Gresham",
+      "instrumento": "bajo",
+      "nota": "temas 1, 2, 5, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Bob Guthrie",
+      "instrumento": "percusión",
+      "nota": "temas 1, 2, 5, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Red Holloway",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1, 2, 5, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "King Kolax",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 2, 5, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "“Brother” Jack McDuff",
+      "instrumento": "órgano"
+    },
+    {
+      "musico": null,
+      "nombre": "Lonnie Simmons",
+      "instrumento": "saxo barítono",
+      "nota": "temas 1, 2, 5, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "John Watson",
+      "instrumento": "trombón",
+      "nota": "temas 1, 2, 5, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Dukes",
+      "instrumento": "percusión",
+      "nota": "temas 3, 4, 6, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Calvin Green",
+      "instrumento": "guitarra",
+      "nota": "temas 3, 4, 6, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Danny Turner",
+      "instrumento": "vientos de madera",
+      "nota": "temas 3, 4, 6, 8, 9"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "souljazz"
   ],
@@ -49,10 +132,16 @@
     "El órgano de McDuff sobre una sección de vientos, en un soul jazz con mucho groove. Es de su paso por Atlantic, después de los años en Prestige que lo hicieron conocido. Está entre los discos esenciales de Jack McDuff."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "0634b74f-3cea-31ab-8654-6739701c80ac",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición bd3b2b05-8e38-4aa0-a414-59e780ccd5d4 (1967)."
+    }
+  ]
 }

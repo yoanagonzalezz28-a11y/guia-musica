@@ -36,12 +36,49 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Claude Bartee, Jr.",
+      "instrumento": "saxo soprano, saxo tenor",
+      "nota": "temas 2, 3, 5, 7, 9, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Gary Coleman",
+      "instrumento": "vibráfono",
+      "nota": "temas 2, 3, 5, 7, 9, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Wilton Felder",
+      "instrumento": "bajo eléctrico",
+      "nota": "temas 2, 3, 5, 7, 9, 11"
+    },
+    {
       "musico": "green",
       "nombre": "Grant Green",
-      "instrumento": "guitarra"
+      "instrumento": "guitarra",
+      "nota": "temas 2, 3, 5, 7, 9, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Bobbye Hall",
+      "instrumento": "percusión, congas",
+      "nota": "temas 2, 3, 5, 7, 9, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Shelton Laster",
+      "instrumento": "órgano",
+      "nota": "temas 2, 3, 5, 7, 9, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Greg Williams",
+      "instrumento": "percusión",
+      "nota": "temas 2, 3, 5, 7, 9, 11"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "souljazz"
   ],
@@ -49,10 +86,16 @@
     "Guitarra en vivo con un grupo de funk, con mucho groove y temas largos. Se grabó en el Lighthouse de Hermosa Beach, en California, en su etapa más cercana al funk de los 70. En la ficha de Grant Green es el disco que representa la etapa \"Soul jazz\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "d492ce41-11f9-3b96-bc26-a2b364de6b4f",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 3880ebe4-a08d-4175-879b-c3155a1ead5b (1972)."
+    }
+  ]
 }

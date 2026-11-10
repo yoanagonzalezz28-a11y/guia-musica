@@ -38,9 +38,29 @@
       "musico": "sonny-clark",
       "nombre": "Sonny Clark",
       "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Art Farmer",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": "mclean",
+      "nombre": "Jackie McLean",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": "chambers",
+      "nombre": "Paul Chambers",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": "philly-joe-jones",
+      "nombre": "Philly Joe Jones",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "hard-bop"
   ],
@@ -53,5 +73,11 @@
     "wikidata": null,
     "wikipedia": "Cool_Struttin%27"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Cool Struttin'\"."
+    }
+  ]
 }

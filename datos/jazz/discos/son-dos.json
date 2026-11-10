@@ -43,23 +43,146 @@
     {
       "musico": "ramiro-flores",
       "nombre": "Ramiro Flores",
-      "instrumento": "saxo, composición"
+      "instrumento": "clarinete, teclados, flauta, saxo soprano, saxo tenor, voz"
+    },
+    {
+      "musico": "jacinto",
+      "nombre": "Hernán Jacinto",
+      "instrumento": "sintetizador, piano eléctrico Rhodes, Moog"
+    },
+    {
+      "musico": null,
+      "nombre": "Richard Nant",
+      "instrumento": "corneta, trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Sergio Verdinelli",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Marcelo Baus",
+      "instrumento": "corno inglés, oboe",
+      "nota": "temas 1, 5, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Juan Canosa",
+      "instrumento": "trombón",
+      "nota": "temas 1, 3, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Ana Corrado",
+      "instrumento": "viola",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Hernán Cupeta",
+      "instrumento": "violín",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Adrian Felizia",
+      "instrumento": "violín",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "María Noel Luzardo",
+      "instrumento": "fagot",
+      "nota": "temas 1, 5, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Mariano Malamud",
+      "instrumento": "viola",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Matías Méndez",
+      "instrumento": "bajo eléctrico",
+      "nota": "temas 1, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Gloria Pankaeva",
+      "instrumento": "violonchelo",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Mariano Sívori",
+      "instrumento": "contrabajo",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Chao Xu",
+      "instrumento": "violonchelo",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Jerónimo Carmona",
+      "instrumento": "contrabajo",
+      "nota": "temas 3, 6, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Mariano Otero",
+      "instrumento": "contrabajo guitarra",
+      "nota": "temas 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Pedro Rossi",
+      "instrumento": "guitarra clásica",
+      "nota": "temas 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Ayelén Zuker",
+      "instrumento": "voz",
+      "nota": "temas 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Martín Pantyrer",
+      "instrumento": "clarinete bajo",
+      "nota": "temas 5, 7, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Pablo Paz",
+      "instrumento": "electronic instruments, teclados",
+      "nota": "temas 9"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
-    "rioplat"
+    "hoy"
   ],
   "comentario": [
     "El saxo de Flores suena en un formato reducido, más íntimo que en sus otros discos. Es uno de los discos que el banco elige para conocer a Ramiro Flores."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "2202cda2-7a79-4683-a090-6814a08db394",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 80d8643c-ea78-4a16-9443-36d04973ecdb (2012-04-01)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Doctor",

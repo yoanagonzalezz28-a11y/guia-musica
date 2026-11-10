@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Lakecia Benjamin Pursuance: The Coltranes"
+  },
+  "id": "pursuance-the-coltranes",
+  "titulo": "Pursuance: The Coltranes",
+  "credito": "Lakecia Benjamin",
+  "lideres": [
+    "lakecia-benjamin"
+  ],
+  "grabacion": {
+    "desde": 2020,
+    "hasta": 2020,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2020,
+    "detalle": null
+  },
+  "sello": "Ropeadope",
+  "musicos": [
+    {
+      "musico": "lakecia-benjamin",
+      "nombre": "Lakecia Benjamin",
+      "instrumento": "saxo alto"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy",
+    "free"
+  ],
+  "comentario": [
+    "Temas de John y Alice Coltrane con muchos invitados, de veteranos como Reggie Workman y Gary Bartz a músicos jóvenes. Fue el disco que la hizo conocida fuera de Nueva York. Es uno de los discos que el banco elige para conocer a Lakecia Benjamin."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-lakecia-benjamin-pend",
+      "acceso": "extracto",
+      "aporta": "Discografía."
+    }
+  ]
+}

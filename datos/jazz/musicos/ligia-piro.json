@@ -1,0 +1,48 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "ligia-piro",
+  "nombre": "Ligia Piro",
+  "nacimiento": {
+    "anio": 1971,
+    "lugar": "Buenos Aires"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "voz"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "spotify": "https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q",
+  "resumen": "Cantante porteña, hija de la cantante de tango Susana Rinaldi y del bandoneonista Osvaldo Piro, que eligió el jazz.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2010,
+      "hasta": 2024,
+      "texto": "",
+      "discoClave": {
+        "disco": "volumen-2-piro",
+        "explicacion": "Su disco más reciente, nominado al Gardel."
+      },
+      "discos": [
+        "strange-fruit-piro-urquiza"
+      ]
+    }
+  ],
+  "fuentes": [
+    "perfil-piro"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "volumen-2-piro",
+    "strange-fruit-piro-urquiza"
+  ]
+}

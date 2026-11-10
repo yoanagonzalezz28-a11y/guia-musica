@@ -36,12 +36,34 @@
   "sello": "Winter & Winter",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Larry Grenadier",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "菊地雅章",
+      "instrumento": "piano",
+      "nota": "temas 1, 4, 5, 8, 11"
+    },
+    {
       "musico": "motian",
       "nombre": "Paul Motian",
-      "instrumento": "batería, composición"
+      "instrumento": "batería"
+    },
+    {
+      "musico": "potter",
+      "nombre": "Chris Potter",
+      "instrumento": "saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Rebecca Martin",
+      "instrumento": "voz",
+      "nota": "temas 2, 3, 6, 7, 9, 10, 12, 13"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -49,12 +71,18 @@
     "Canciones de Broadway tocadas con la libertad característica de Motian, con mucho espacio. Es el cuarto volumen de una serie que había empezado en 1988, con Bill Frisell y Joe Lovano en las primeras entregas. En la ficha de Paul Motian es el disco que representa la etapa \"Jazz de hoy\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "3360d673-be40-4735-8c0d-31228f4def7b",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 11586010-d6f7-458b-a438-1f3c0c4c3fbf (2006)."
+    }
+  ],
   "temas": [
     {
       "titulo": "The Last Dance",

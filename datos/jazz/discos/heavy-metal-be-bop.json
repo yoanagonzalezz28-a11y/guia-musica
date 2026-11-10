@@ -34,12 +34,50 @@
   "sello": "Arista",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Terry Bozzio",
+      "instrumento": "percusión"
+    },
+    {
       "musico": "brecker",
       "nombre": "Michael Brecker",
-      "instrumento": "saxo tenor"
+      "instrumento": "palmas, saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Randy Brecker",
+      "instrumento": "teclados, trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Bob Clearmountain",
+      "instrumento": "palmas",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Barry Finnerty",
+      "instrumento": "guitarra eléctrica"
+    },
+    {
+      "musico": null,
+      "nombre": "Neil Jason",
+      "instrumento": "bajo eléctrico, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Schaefer",
+      "instrumento": "piano eléctrico Rhodes",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Allan Schwartzberg",
+      "instrumento": "percusión",
+      "nota": "temas 1"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "fusion"
   ],
@@ -47,10 +85,16 @@
     "Trompeta y saxo con efectos eléctricos, sobre una base de funk muy potente. Gran parte se grabó en vivo, y los hermanos procesan los vientos con pedales, como si fueran guitarras. Es uno de los discos que el banco elige para conocer a Michael Brecker."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "b1b80996-97fd-37e0-b6ee-cdc9acc1765c",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 5204fba6-a92b-41d8-bc1e-a577b7a6ccfa (1978)."
+    }
+  ]
 }

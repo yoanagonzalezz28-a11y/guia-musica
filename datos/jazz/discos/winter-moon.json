@@ -34,12 +34,72 @@
   "sello": "Galaxy",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Patrice Anderson",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Carl Burnett",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Stanley Cowell",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Audrey Desilva",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Clifton Foster",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Stephen Gehl",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Greg Mazmanian",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Cecil McBee",
+      "instrumento": "contrabajo"
+    },
+    {
       "musico": "pepper",
       "nombre": "Art Pepper",
-      "instrumento": "saxo alto"
+      "instrumento": "saxo alto, clarinete"
+    },
+    {
+      "musico": null,
+      "nombre": "Howard Roberts",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Dan Smiley",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "John Tenney",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Emily Van Valkenburgh",
+      "instrumento": "violín"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "cool"
   ],
@@ -47,10 +107,16 @@
     "Saxo alto con cuerdas, en baladas de una gran ternura. Pepper había vuelto a la música a fines de los 70, después de años de cárcel y adicción, y siempre había querido grabar con cuerdas. Es uno de los discos que el banco elige para conocer a Art Pepper."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "2cc486bf-edcf-30ac-a5ba-87e17dadb983",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición eeff4bff-4c9a-41b6-a8ae-01eb76238736 (1981)."
+    }
+  ]
 }

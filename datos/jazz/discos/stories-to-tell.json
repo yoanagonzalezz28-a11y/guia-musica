@@ -34,12 +34,93 @@
   "sello": "Milestone",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "George Duke",
+      "instrumento": "sintetizador, teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "King Errisson",
+      "instrumento": "congas"
+    },
+    {
+      "musico": null,
+      "nombre": "Earl Klugh",
+      "instrumento": "guitarra",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 8, 9"
+    },
+    {
+      "musico": "airto",
+      "nombre": "Airto Moreira",
+      "instrumento": "percusión, batería"
+    },
+    {
+      "musico": "vitous",
+      "nombre": "Miroslav Vitouš",
+      "instrumento": "bajo, sintetizador",
+      "nota": "temas 1, 7, 9"
+    },
+    {
       "musico": "flora",
       "nombre": "Flora Purim",
       "instrumento": "voz"
+    },
+    {
+      "musico": "ronc",
+      "nombre": "Ron Carter",
+      "instrumento": "bajo",
+      "nota": "temas 2, 3, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "George Bohanon",
+      "instrumento": "trombón",
+      "nota": "temas 3, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Oscar Brashear",
+      "instrumento": "fliscorno",
+      "nota": "temas 3, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Hadley Caliman",
+      "instrumento": "flauta alto, flauta, trombón",
+      "nota": "temas 3, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Raul de Souza",
+      "instrumento": "trombón",
+      "nota": "temas 3, 6, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Oscar Castro‐Neves",
+      "instrumento": "guitarra acústica",
+      "nota": "temas 4, 5, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Larry Dunlap",
+      "instrumento": "piano",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Ernest Hood",
+      "instrumento": "cítara, voz",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Carlos Santana",
+      "instrumento": "guitarra",
+      "nota": "temas 7"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "brasil"
   ],
@@ -47,10 +128,16 @@
     "Con Carlos Santana y George Duke: la voz más aguda y libre del jazz brasileño en Estados Unidos. Purim canta con Santana, Duke y Airto, en temas de fusión. Es uno de los discos que el banco elige para conocer a Flora Purim."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "8bffd3b6-1700-3101-bf29-e30cfdba19f9",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 5886f826-42eb-494c-8ba6-78f5209ff399 (1974)."
+    }
+  ]
 }

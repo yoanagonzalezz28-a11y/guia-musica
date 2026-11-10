@@ -36,12 +36,22 @@
   "sello": "Impulse!",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Art Davis",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "elvin",
+      "nombre": "Elvin Jones",
+      "instrumento": "batería"
+    },
+    {
       "musico": "tyner",
       "nombre": "McCoy Tyner",
       "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "modal"
   ],
@@ -49,12 +59,18 @@
     "Piano en trío, con una mano izquierda potente y acordes en cuartas. Fue su debut como líder, grabado mientras tocaba en el cuarteto de John Coltrane. Es uno de los discos que el banco elige para conocer a McCoy Tyner."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "90d299f7-ae6a-43c6-8a12-9a53b2dda3d1",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Inception_(McCoy_Tyner_album)"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 814a149d-fd04-4c80-a10b-6533926cae44 (1997)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Inception",

@@ -33,12 +33,32 @@
   "sello": "ECM",
   "musicos": [
     {
+      "musico": "garbarek",
+      "nombre": "Jan Garbarek",
+      "instrumento": "saxo tenor"
+    },
+    {
       "musico": "katche",
       "nombre": "Manu Katché",
-      "instrumento": "batería, composición"
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Sławomir Kurkiewicz",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "stanko",
+      "nombre": "Tomasz Stańko",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": "wasilewski",
+      "nombre": "Marcin Wasilewski",
+      "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm"
   ],
@@ -46,10 +66,16 @@
     "Batería con un groove suave, saxo, trompeta y piano en melodías claras. Katché, francés, fue baterista de Peter Gabriel y de Sting, y acá junta a Jan Garbarek, Tomasz Stańko y el trío de Marcin Wasilewski. En la ficha de Manu Katché es el disco que representa la etapa \"ECM y jazz europeo\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "408330c7-19fc-3f33-97c2-42ffcbbcd620",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición bf334c9d-fc76-4ce2-9e2d-4f117835dc0a (2005)."
+    }
+  ]
 }

@@ -26,7 +26,9 @@
   "id": "juntos-ahora",
   "titulo": "Juntos ahora",
   "credito": "Nair Mirabrat",
-  "lideres": [],
+  "lideres": [
+    "martin-ibarra"
+  ],
   "grabacion": {
     "desde": 2021,
     "hasta": 2021,
@@ -39,9 +41,9 @@
   "sello": null,
   "musicos": [
     {
-      "musico": null,
+      "musico": "martin-ibarra",
       "nombre": "Martín Ibarra",
-      "instrumento": "director del proyecto"
+      "instrumento": "director del proyecto, guitarra, voz, arreglos"
     },
     {
       "musico": "fattoruso",
@@ -59,7 +61,7 @@
       "instrumento": "invitado"
     },
     {
-      "musico": null,
+      "musico": "ibarra",
       "nombre": "Juan Ibarra",
       "instrumento": "invitado"
     },

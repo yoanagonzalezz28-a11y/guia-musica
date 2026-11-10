@@ -39,9 +39,37 @@
       "musico": "roney",
       "nombre": "Wallace Roney",
       "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Patrice Rushen",
+      "instrumento": "piano",
+      "nota": "temas 1, 2, 3, 5, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Ben Solomon",
+      "instrumento": "saxo",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Lenny White",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Buster Williams",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Gary Bartz",
+      "instrumento": "saxo alto",
+      "nota": "temas 3, 5, 6, 7"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "neotrad"
   ],
@@ -49,10 +77,16 @@
     "Hard bop moderno con Buster Williams y Lenny White. Roney, discípulo de Miles Davis, toca con un sonido oscuro y frases largas sobre una base de hard bop moderno. Es uno de los discos que el banco elige para conocer a Wallace Roney."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "6d2f808a-2813-4e7d-9312-2954206003cc",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición e6a69186-5a0e-4a2c-b892-2d1ceea6932d (2016-11-04)."
+    }
+  ]
 }

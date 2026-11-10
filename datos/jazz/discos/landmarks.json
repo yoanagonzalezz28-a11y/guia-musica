@@ -38,10 +38,42 @@
     {
       "musico": "blade",
       "nombre": "Brian Blade",
-      "instrumento": "batería, composición"
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Melvin Butler",
+      "instrumento": "saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Jon Cowherd",
+      "instrumento": "teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Christopher Thomas",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Myron Walden",
+      "instrumento": "cañas"
+    },
+    {
+      "musico": null,
+      "nombre": "Marvin Sewell",
+      "instrumento": "guitarra",
+      "nota": "temas 3, 4, 6, 8, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Jeff Parker",
+      "instrumento": "guitarra",
+      "nota": "temas 7, 9"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -54,7 +86,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 7df5fdcb-19d6-4a44-b5c5-4b634eeb27cc (2014-04-29)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Down River",

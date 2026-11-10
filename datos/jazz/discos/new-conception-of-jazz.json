@@ -36,12 +36,96 @@
   "sello": "Jazzland",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Trude Eick",
+      "instrumento": "corno",
+      "nota": "temas 1, 2, 3, 5, 7, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Anders Engen",
+      "instrumento": "batería",
+      "nota": "temas 1, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Ingebrigt Håker Flaten",
+      "instrumento": "contrabajo",
+      "nota": "temas 1, 4, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Vidar Johansen",
+      "instrumento": "clarinete bajo, saxo tenor, saxo soprano",
+      "nota": "temas 1, 2, 3, 4, 5, 7, 9, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Sjur Miljeteig",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 5"
+    },
+    {
       "musico": "wesseltoft",
       "nombre": "Bugge Wesseltoft",
-      "instrumento": "piano, teclados, electrónica"
+      "instrumento": "electronic instruments, voz, órgano Hammond, piano eléctrico, sintetizador, piano, goblet batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Jens Petter Antonsen",
+      "instrumento": "trompeta",
+      "nota": "temas 2, 3, 7, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Audun Kleive",
+      "instrumento": "batería, electronic instruments",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Eivind Aarset",
+      "instrumento": "guitarra",
+      "nota": "temas 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Erlend Gjerde",
+      "instrumento": "trompeta",
+      "nota": "temas 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Rune Arnesen",
+      "instrumento": "batería, percusión",
+      "nota": "temas 6, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Bjørn Kjellemyr",
+      "instrumento": "contrabajo, bajo eléctrico",
+      "nota": "temas 6, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Sveinung Hovensjø",
+      "instrumento": "bajo eléctrico",
+      "nota": "temas 7, 10"
+    },
+    {
+      "musico": "molvaer",
+      "nombre": "Nils Petter Molvær",
+      "instrumento": "trompeta",
+      "nota": "temas 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Michy",
+      "instrumento": "voz",
+      "nota": "temas 8"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -49,10 +133,16 @@
     "Jazz con bases electrónicas: uno de los primeros discos de lo que se llamó future jazz. Wesseltoft toca teclados y electrónica con un grupo, en temas que mezclan jazz con house. En la ficha de Bugge Wesseltoft es el disco que representa la etapa \"Jazz de hoy\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "e4fd6de8-179a-3ad7-bc93-aa3c36f85544",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición fa4be18f-a0d5-4c25-8c23-55bf159cdf0e (1997-08-11)."
+    }
+  ]
 }

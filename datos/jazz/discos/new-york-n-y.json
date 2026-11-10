@@ -38,10 +38,153 @@
     {
       "musico": "george-russell",
       "nombre": "George Russell",
-      "instrumento": "composición, piano, teoría"
+      "instrumento": "dirección, batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Bob Brookmeyer",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": "coltrane",
+      "nombre": "John Coltrane",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1"
+    },
+    {
+      "musico": "evans",
+      "nombre": "Bill Evans",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Art Farmer",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Barry Galbraith",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Milt Hinton",
+      "instrumento": "bajo",
+      "nota": "temas 1, 2, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Hal McKusick",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Tom Mitchell",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Charlie Persip",
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Frank Rehak",
+      "instrumento": "trombón",
+      "nota": "temas 1, 2, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Ernie Royal",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 3, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Sol Schlinger",
+      "instrumento": "saxo barítono",
+      "nota": "temas 1, 2, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Doc Severinsen",
+      "instrumento": "trompeta",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Jon Hendricks",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Ferrante",
+      "instrumento": "trompeta",
+      "nota": "temas 2, 4"
+    },
+    {
+      "musico": "golson",
+      "nombre": "Benny Golson",
+      "instrumento": "saxo tenor",
+      "nota": "temas 2, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Wilder",
+      "instrumento": "trompeta",
+      "nota": "temas 2, 3, 4, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Phil Woods",
+      "instrumento": "saxo alto",
+      "nota": "temas 2, 3, 4, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Gene Allen",
+      "instrumento": "saxo barítono",
+      "nota": "temas 3, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Cleveland",
+      "instrumento": "trombón",
+      "nota": "temas 3, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Al Cohn",
+      "instrumento": "saxo tenor",
+      "nota": "temas 3, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "George Duvivier",
+      "instrumento": "bajo",
+      "nota": "temas 3, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Al Epstein",
+      "instrumento": "bongós",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Don Lamond",
+      "instrumento": "batería",
+      "nota": "temas 3"
+    },
+    {
+      "musico": "roach",
+      "nombre": "Max Roach",
+      "instrumento": "batería",
+      "nota": "temas 5"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "cool"
   ],
@@ -49,10 +192,16 @@
     "Una suite sobre Nueva York, con Coltrane y Bill Evans, y narraciones de Jon Hendricks. Russell escribe una suite con arreglos complejos y la voz de Hendricks, que recita. Es uno de los discos que el banco elige para conocer a George Russell."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "63857b19-de71-3432-9ef1-de53c0e8d3b8",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición b09031d6-7348-4c76-a78f-549e16b206f0 (1959)."
+    }
+  ]
 }

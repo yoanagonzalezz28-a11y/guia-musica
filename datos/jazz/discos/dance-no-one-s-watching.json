@@ -36,12 +36,61 @@
   "sello": "Partisan",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Femi Koleoso",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "TJ Koleoso",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Ife Ogunjobi",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "James Mollison",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Armon-Jones",
+      "instrumento": "synthesiser"
+    },
+    {
+      "musico": null,
+      "nombre": "Yazmin Lacey",
+      "instrumento": "voz",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Olivia Dean",
+      "instrumento": "voz",
+      "nota": "temas 10"
+    },
+    {
+      "musico": null,
+      "nombre": "M.anifest",
+      "instrumento": "voz",
+      "nota": "temas 15"
+    },
+    {
+      "musico": null,
+      "nombre": "Moonchild Sanelly",
+      "instrumento": "voz",
+      "nota": "temas 15"
+    },
+    {
       "musico": "ezra-collective",
       "nombre": "Ezra Collective",
-      "instrumento": "grupo"
+      "instrumento": "producers"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "hoy"
   ],
@@ -52,7 +101,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Dance,_No_One's_Watching"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Dance, No One's Watching\"."
+    }
+  ]
 }

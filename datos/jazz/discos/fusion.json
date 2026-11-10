@@ -35,12 +35,25 @@
   "sello": "Verve",
   "musicos": [
     {
+      "musico": "paul-bley",
+      "nombre": "Paul Bley",
+      "instrumento": "piano",
+      "nota": "temas 2, 3, 4, 5, 8"
+    },
+    {
       "musico": "giuffre",
       "nombre": "Jimmy Giuffre",
-      "instrumento": "clarinete, saxo, composición"
+      "instrumento": "clarinete",
+      "nota": "temas 2, 3, 4, 5, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Swallow",
+      "instrumento": "contrabajo",
+      "nota": "temas 2, 3, 4, 5, 8"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "free"
   ],
@@ -48,10 +61,16 @@
     "Trío con Paul Bley y Steve Swallow: libre, de cámara y muy delicado. El trío de Giuffre toca sin batería, con el clarinete, el piano y el contrabajo improvisando con mucho espacio y delicadeza. Es el disco clave de Jimmy Giuffre en la etapa \"Free jazz\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "4ffe38e5-49b4-3385-a74f-700aff0c5a5f",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición f997abbc-98a8-4eae-b709-58a7238a7dea (1961)."
+    }
+  ]
 }

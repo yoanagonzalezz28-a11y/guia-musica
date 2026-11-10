@@ -36,10 +36,45 @@
     {
       "musico": "courtney-pine",
       "nombre": "Courtney Pine",
-      "instrumento": "saxo tenor, saxo soprano"
+      "instrumento": "soprano & saxo tenor, clarinete bajo and flutes"
+    },
+    {
+      "musico": null,
+      "nombre": "Cyrus Chestnut",
+      "instrumento": "piano, hammond b3 órgano and wurlitzer piano eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Reginald Veal",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "tain-watts",
+      "nombre": "Jeff \"Tain\" Watts",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "DJ Pogo",
+      "instrumento": "bandejas"
+    },
+    {
+      "musico": null,
+      "nombre": "Jhelisa",
+      "instrumento": "voz"
+    },
+    {
+      "musico": "payton",
+      "nombre": "Nicholas Payton",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Mark Whitfield",
+      "instrumento": "guitarra"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "acid"
   ],
@@ -50,7 +85,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Underground_(Courtney_Pine_album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Underground (Courtney Pine album)\"."
+    }
+  ]
 }

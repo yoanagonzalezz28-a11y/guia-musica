@@ -36,12 +36,47 @@
   "sello": "Prestige",
   "musicos": [
     {
+      "musico": "dorham",
+      "nombre": "Kenny Dorham",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Henry Coker",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Cecil Payne",
+      "instrumento": "saxo barítono"
+    },
+    {
+      "musico": null,
+      "nombre": "Sahib Shihab",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Alexander",
+      "instrumento": "saxo tenor"
+    },
+    {
       "musico": "dameron",
       "nombre": "Tadd Dameron",
-      "instrumento": "piano, composición"
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "John Simmons",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Shadow Wilson",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "bebop"
   ],
@@ -52,7 +87,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Fontainebleau_(album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Fontainebleau (album)\"."
+    }
+  ]
 }

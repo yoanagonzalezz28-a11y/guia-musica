@@ -38,10 +38,20 @@
     {
       "musico": "arild-andersen",
       "nombre": "Arild Andersen",
-      "instrumento": "contrabajo, composición"
+      "instrumento": "electronic instruments, contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Tommy Smith",
+      "instrumento": "vientos"
+    },
+    {
+      "musico": null,
+      "nombre": "Paolo Vinaccia",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm"
   ],
@@ -49,10 +59,16 @@
     "El mismo trío en estudio: más íntimo, casi en voz baja. Andersen toca el contrabajo con Smith y Vinaccia en estudio, con un sonido más suave que en vivo. Es uno de los discos que el banco elige para conocer a Arild Andersen."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "1134507d-f4d1-4fe3-b264-ed8587578076",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición f1c6ce23-ea9b-476c-9371-28b9f5f75dba (2013)."
+    }
+  ]
 }

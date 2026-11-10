@@ -35,12 +35,73 @@
   "sello": "Flying Dutchman",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Stanley Wilson",
+      "instrumento": "dirección",
+      "nota": "temas 1, 3, 4, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "John Gross",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "John Klemmer",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1"
+    },
+    {
       "musico": "oliver-nelson",
       "nombre": "Oliver Nelson",
-      "instrumento": "saxo, arreglos, composición"
+      "instrumento": "dirección, piano, saxo soprano, saxo alto, sopranino saxo",
+      "nota": "temas 2, 4, 5, 6, 7, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Pearl Kaufman",
+      "instrumento": "piano",
+      "nota": "temas 2, 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Bobby Bryant",
+      "instrumento": "trompeta",
+      "nota": "temas 5, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Chuck Domanico",
+      "instrumento": "contrabajo, bajo",
+      "nota": "temas 5, 6, 7, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "John Guerin",
+      "instrumento": "batería, percusión",
+      "nota": "temas 5, 6, 7, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Roger Kellaway",
+      "instrumento": "piano",
+      "nota": "temas 5, 6, 7, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Frank Strozier",
+      "instrumento": "saxo alto",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Bob Bryant",
+      "instrumento": "trompeta",
+      "nota": "temas 7"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -48,10 +109,16 @@
     "Big band en homenaje a Martin Luther King. Nelson escribe para una big band con sonido de los 70, mezclando hard bop, soul y un tono de duelo. Es el disco clave de Oliver Nelson en la etapa \"Hard bop\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "361d5d57-8e45-4be8-8bb9-88d65abb9ecc",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición ba740867-5159-4674-a9e0-3f05229d8fa3 (1970)."
+    }
+  ]
 }

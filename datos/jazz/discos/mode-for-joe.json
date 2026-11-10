@@ -36,12 +36,42 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": "ronc",
+      "nombre": "Ron Carter",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Chambers",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Curtis Fuller",
+      "instrumento": "trombón"
+    },
+    {
       "musico": "henderson",
       "nombre": "Joe Henderson",
       "instrumento": "saxo tenor"
+    },
+    {
+      "musico": "hutcherson",
+      "nombre": "Bobby Hutcherson",
+      "instrumento": "vibráfono"
+    },
+    {
+      "musico": "morgan",
+      "nombre": "Lee Morgan",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": "walton",
+      "nombre": "Cedar Walton",
+      "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "modal"
   ],
@@ -49,10 +79,16 @@
     "Un septeto en arreglos densos y modernos, con el saxo tenor de Henderson al frente. Tocan Lee Morgan, Bobby Hutcherson y Curtis Fuller, y fue su último disco como líder para Blue Note en los 60. Está entre los discos esenciales de Joe Henderson."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "3f31e25d-b3be-4edb-9b5b-5dac61f8fd17",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Mode_for_Joe"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición b061d121-e628-49fb-8847-47aaae111a79 (2013)."
+    }
+  ]
 }

@@ -35,12 +35,32 @@
   "sello": "Impulse!",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "James Black",
+      "instrumento": "percusión, batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Ernie Farrow",
+      "instrumento": "bajo"
+    },
+    {
       "musico": "lateef",
       "nombre": "Yusef Lateef",
-      "instrumento": "saxo tenor, flauta, oboe"
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Mike Nock",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Richard Williams",
+      "instrumento": "trompeta"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -48,10 +68,16 @@
     "Saxo, flauta y oboe en vivo con un quinteto, en temas que van del blues a melodías de aire oriental. Se grabó en Pep's, un club de Filadelfia, y muestra a Lateef con instrumentos que casi nadie usaba en el jazz de la época. Está entre los discos esenciales de Yusef Lateef."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "f86456c8-460b-3996-a8a8-dcc2af586d30",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 0cf12dfe-f7eb-4ced-a534-0d16fc53687e (1965)."
+    }
+  ]
 }

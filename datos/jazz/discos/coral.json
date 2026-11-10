@@ -39,9 +39,45 @@
       "musico": "david-sanchez",
       "nombre": "David Sánchez",
       "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Carlos Franzetti",
+      "instrumento": "dirección",
+      "nota": "temas 1-1, 1-2, 1-3, 1-4, 1-5, 1-6, 1-7, 1-8, 2-1, 2-2, 2-3, 2-4, 2-5, 2-6, 2-7, 2-8"
+    },
+    {
+      "musico": null,
+      "nombre": "Adam Cruz",
+      "instrumento": "batería",
+      "nota": "temas 1-1, 1-2, 1-3, 1-4, 1-5, 1-6, 1-7, 1-8, 2-1, 2-2, 2-3, 2-4, 2-5, 2-6, 2-7, 2-8"
+    },
+    {
+      "musico": null,
+      "nombre": "Edsel Gomez",
+      "instrumento": "piano",
+      "nota": "temas 1-1, 1-2, 1-3, 1-4, 1-5, 1-6, 1-7, 1-8, 2-1, 2-2, 2-3, 2-4, 2-5, 2-6, 2-7, 2-8"
+    },
+    {
+      "musico": null,
+      "nombre": "Pernell Saturnino",
+      "instrumento": "percusión",
+      "nota": "temas 1-1, 1-2, 1-3, 1-4, 1-5, 1-6, 1-7, 1-8, 2-1, 2-2, 2-3, 2-4, 2-5, 2-6, 2-7, 2-8"
+    },
+    {
+      "musico": null,
+      "nombre": "The City of Prague Philharmonic Orchestra",
+      "instrumento": "orquesta",
+      "nota": "temas 1-1, 1-2, 1-3, 1-4, 1-5, 1-6, 1-7, 1-8, 2-1, 2-2, 2-3, 2-4, 2-5, 2-6, 2-7, 2-8"
+    },
+    {
+      "musico": "zenon",
+      "nombre": "Miguel Zenón",
+      "instrumento": "saxo alto",
+      "nota": "temas 1-3, 1-4, 1-5, 1-6, 1-7, 1-8, 2-3, 2-4, 2-5, 2-6, 2-7, 2-8"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "latino"
   ],
@@ -49,10 +85,16 @@
     "Con orquesta: Villa-Lobos y Ginastera en clave de jazz. Sánchez toca el saxo tenor con una orquesta, en arreglos de obras de compositores latinoamericanos. Es uno de los discos que el banco elige para conocer a David Sánchez."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "c6596d0f-0261-4b6b-986c-7d096b1dbc38",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 155ffb4f-f667-4edf-8d80-d3dc1dd4cc9e (2004)."
+    }
+  ]
 }

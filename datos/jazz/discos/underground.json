@@ -34,12 +34,33 @@
   "sello": "Sunnyside",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Wayne Krantz",
+      "instrumento": "guitarra"
+    },
+    {
       "musico": "potter",
       "nombre": "Chris Potter",
-      "instrumento": "saxo tenor, composición"
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": "taborn",
+      "nombre": "Craig Taborn",
+      "instrumento": "piano eléctrico Rhodes"
+    },
+    {
+      "musico": null,
+      "nombre": "Nate Smith",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Adam Rogers",
+      "instrumento": "guitarra",
+      "nota": "temas 6, 9"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -47,10 +68,16 @@
     "Con Wayne Krantz y Craig Taborn: groove eléctrico sin bajo. Potter toca el saxo con Krantz en guitarra, Taborn en Fender Rhodes y Nate Smith en batería. Es uno de los discos que el banco elige para conocer a Chris Potter."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "7ced8106-2e64-3af9-953a-7123862d3fa4",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 1a11e9ea-6533-4ee0-ade4-c6d51807d7a9 (2006)."
+    }
+  ]
 }

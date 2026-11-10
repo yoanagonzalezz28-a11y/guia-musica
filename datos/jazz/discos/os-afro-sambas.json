@@ -36,12 +36,47 @@
   "sello": "Forma",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Alfredo Bessa",
+      "instrumento": "pandereta, cuíca, ganzá, afoxé, atabaque, berimbau"
+    },
+    {
+      "musico": null,
+      "nombre": "Ernesto Gonçalves",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Paulo Guimarães",
+      "instrumento": "flauta"
+    },
+    {
       "musico": "baden",
       "nombre": "Baden Powell",
-      "instrumento": "guitarra"
+      "instrumento": "percusión, guitarra, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Sutinho",
+      "instrumento": "batería, pandereta, agogô"
+    },
+    {
+      "musico": null,
+      "nombre": "Valdeci",
+      "instrumento": "pandereta, frame batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Flavio Neves",
+      "instrumento": "surdo, ganzá, afoxé, atabaque"
+    },
+    {
+      "musico": null,
+      "nombre": "Quarteto em Cy",
+      "instrumento": "voz"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "brasil"
   ],
@@ -49,10 +84,16 @@
     "La guitarra de Powell y la voz de Vinicius de Moraes, con coros y percusión, en canciones sobre ritmos afrobrasileños. Las canciones nacieron del interés de los dos por el candomblé y la música de Bahía. En la ficha de Baden Powell es el disco que representa la etapa \"Jazz brasileño\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "34a3cc18-9d95-3712-b14f-1fa2817a4a8c",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 45897c43-2a6c-4324-98e0-0260edd77f58 (2000)."
+    }
+  ]
 }

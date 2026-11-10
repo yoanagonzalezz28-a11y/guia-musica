@@ -1,0 +1,122 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "brasil"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Joyce Feminina"
+  },
+  "id": "feminina",
+  "titulo": "Feminina",
+  "credito": "Joyce",
+  "lideres": [
+    "joyce-moreno"
+  ],
+  "grabacion": {
+    "desde": 1980,
+    "hasta": 1980,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1980,
+    "detalle": null
+  },
+  "sello": "EMI-Odeon",
+  "musicos": [
+    {
+      "musico": "joyce-moreno",
+      "nombre": "Joyce Moreno",
+      "instrumento": "voz, guitarra, composición"
+    },
+    {
+      "musico": null,
+      "nombre": "Joyce",
+      "instrumento": "voz, guitarra clásica"
+    },
+    {
+      "musico": null,
+      "nombre": "Mauro Senise",
+      "instrumento": "flauta, saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Danilo Caymmi",
+      "instrumento": "flauta"
+    },
+    {
+      "musico": null,
+      "nombre": "Jorginho",
+      "instrumento": "flauta"
+    },
+    {
+      "musico": null,
+      "nombre": "Paulo Guimaraes",
+      "instrumento": "flauta"
+    },
+    {
+      "musico": null,
+      "nombre": "Helvius Vilela",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Helio Delmiro",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Claudio Guimaraes",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Fernando Leporace",
+      "instrumento": "bajo eléctrico, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Tutti Moreno",
+      "instrumento": "batería, percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Lize Bravo",
+      "instrumento": "voz"
+    }
+  ],
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
+  "corrientes": [
+    "brasil"
+  ],
+  "comentario": [
+    "Voz y guitarra con un grupo de samba jazz, en canciones propias de armonía muy rica. El tema del título se volvió uno de los más conocidos de la música brasileña de esos años. Es el disco clave de Joyce Moreno en la etapa \"Jazz brasileño\"."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Feminina"
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-joyce-pend",
+      "acceso": "extracto",
+      "aporta": "Discografía."
+    },
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Feminina\"."
+    }
+  ]
+}

@@ -36,12 +36,52 @@
   "sello": "Verve",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Lawrence Brown",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Roy Eldridge",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Hamilton",
+      "instrumento": "clarinete"
+    },
+    {
       "musico": "hodges",
       "nombre": "Johnny Hodges",
       "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Ray Nance",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Strayhorn",
+      "instrumento": "piano"
+    },
+    {
+      "musico": "webster",
+      "nombre": "Ben Webster",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Woode",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Sam Woodyard",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "swing"
   ],
@@ -49,12 +89,18 @@
     "Saxo alto de sonido dulce y deslizado, en temas de tempo medio. Hodges graba con músicos de la orquesta de Ellington, pero el título avisa que no es un disco de Ellington. Es uno de los discos que el banco elige para conocer a Johnny Hodges."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "e0efdd41-4c76-463a-8de9-b0f33c1ebf58",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición e05f4be2-efde-438e-917c-09c92f14a26f (1958)."
+    }
+  ],
   "temas": [
     {
       "titulo": "M. H. R.",

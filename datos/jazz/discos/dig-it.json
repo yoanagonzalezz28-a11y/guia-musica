@@ -38,10 +38,39 @@
     {
       "musico": "garland",
       "nombre": "Red Garland",
-      "instrumento": "piano"
+      "instrumento": "dirección, piano"
+    },
+    {
+      "musico": "byrd",
+      "nombre": "Donald Byrd",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 4"
+    },
+    {
+      "musico": "coltrane",
+      "nombre": "John Coltrane",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1, 3, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "George Joyner",
+      "instrumento": "contrabajo, bajo",
+      "nota": "temas 1, 3, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Art Taylor",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "chambers",
+      "nombre": "Paul Chambers",
+      "instrumento": "contrabajo",
+      "nota": "temas 2, 3"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -49,12 +78,18 @@
     "Con John Coltrane y Donald Byrd. Garland toca el piano en sesiones de Prestige de fines de los 50 con Coltrane en saxo. Está entre los discos esenciales de Red Garland."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "1b45ff7c-3ce2-3bfe-bc62-f3f527ae984b",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición fd1d165c-0e17-4048-9abd-ed396e1a1c87 (1962)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Billie's Bounce",

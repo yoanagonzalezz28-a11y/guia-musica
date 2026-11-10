@@ -38,10 +38,25 @@
     {
       "musico": "frisell",
       "nombre": "Bill Frisell",
-      "instrumento": "guitarra"
+      "instrumento": "guitarra eléctrica"
+    },
+    {
+      "musico": null,
+      "nombre": "Greg Leisz",
+      "instrumento": "pedal steel, guitarra eléctrica"
+    },
+    {
+      "musico": null,
+      "nombre": "Tony Scherr",
+      "instrumento": "bajo, guitarra acústica"
+    },
+    {
+      "musico": null,
+      "nombre": "Kenny Wollesen",
+      "instrumento": "batería, percusión, vibráfono"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -54,7 +69,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 80e2cf94-2320-4a81-9e34-e56e0899a8e9 (2014-10-03)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Pipeline",

@@ -39,9 +39,14 @@
       "musico": "rubalcaba",
       "nombre": "Gonzalo Rubalcaba",
       "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Gonzalo Rubalcaba&nbsp;–  main performer",
+      "instrumento": "composer, piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "latino"
   ],
@@ -52,9 +57,15 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Solo_(Gonzalo_Rubalcaba_album)"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Solo (Gonzalo Rubalcaba album)\"."
+    }
+  ],
   "temas": [
     {
       "titulo": "My One And Only Love",

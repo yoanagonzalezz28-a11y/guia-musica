@@ -36,12 +36,40 @@
   "sello": "Concord",
   "musicos": [
     {
+      "musico": "blade",
+      "nombre": "Brian Blade",
+      "instrumento": "batería"
+    },
+    {
       "musico": "corea",
       "nombre": "Chick Corea",
-      "instrumento": "piano, teclados"
+      "instrumento": "piano"
+    },
+    {
+      "musico": "mcbride",
+      "nombre": "Christian McBride",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Niño Josele",
+      "instrumento": "guitarra acústica",
+      "nota": "temas 1-5, 1-7"
+    },
+    {
+      "musico": null,
+      "nombre": "Jorge Pardo",
+      "instrumento": "flauta",
+      "nota": "temas 1-5, 1-7"
+    },
+    {
+      "musico": null,
+      "nombre": "Gayle Moran",
+      "instrumento": "voz",
+      "nota": "temas 3-3"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -54,7 +82,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 6213d250-82a1-4c87-8a81-18e1199f18cf (2013)."
+    }
+  ],
   "temas": [
     {
       "titulo": "You’re My Everything",

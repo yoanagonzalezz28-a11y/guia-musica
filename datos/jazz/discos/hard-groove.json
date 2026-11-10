@@ -37,10 +37,133 @@
     {
       "musico": "hargrove",
       "nombre": "Roy Hargrove",
-      "instrumento": "trompeta, fliscorno"
+      "instrumento": "trompeta, fliscorno, piano, teclados, bajo, percusión, coros, arranging, production",
+      "nota": "temas 1–7, 10, 11, 14, 6, 8, 13, 9, 7, 2, 3"
+    },
+    {
+      "musico": null,
+      "nombre": "D'Angelo",
+      "instrumento": "voz, coros, wurlitzer piano",
+      "nota": "temas guest artist; 3, 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Karl Denson",
+      "instrumento": "flauta",
+      "nota": "temas guest artist; 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Jacques Schwarz-Bart",
+      "instrumento": "flauta, saxo soprano, saxo tenor, guitarra acústica",
+      "nota": "temas 8, 11, 1–3, 6, 8–11, 13, 14, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Coleman",
+      "instrumento": "saxo alto",
+      "nota": "temas guest artist; 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Keith Anderson",
+      "instrumento": "saxo alto, saxo tenor",
+      "nota": "temas 1, 3, 5, 6, 9, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Keith Loftis",
+      "instrumento": "saxo tenor",
+      "nota": "temas 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Maurice Brown",
+      "instrumento": "trompeta, coros",
+      "nota": "temas 9, 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Bernard Wright",
+      "instrumento": "piano, teclados, hammond b3 órgano, arp sintetizador, coros",
+      "nota": "temas 12, 13, 1, 5, 7, 10, 14, 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Bobby Sparks",
+      "instrumento": "teclados, hammond b3 órgano, piano eléctrico Rhodes, arp sintetizador, clavinet",
+      "nota": "temas 8, 12, 5, 7, 1"
+    },
+    {
+      "musico": null,
+      "nombre": "James Poyser",
+      "instrumento": "piano, teclados, piano eléctrico Rhodes, coros",
+      "nota": "temas 10, 2, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Marc Cary",
+      "instrumento": "wurlitzer piano",
+      "nota": "temas 6, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Tony Suggs",
+      "instrumento": "hammond b3 órgano",
+      "nota": "temas 14"
+    },
+    {
+      "musico": null,
+      "nombre": "Pino Palladino",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Reggie Washington",
+      "instrumento": "contrabajo, bajo eléctrico",
+      "nota": "temas 5, 9, 10, 11, 1, 4, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Meshell Ndegeocello",
+      "instrumento": "bajo",
+      "nota": "temas guest artist; 6, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Daniel Moreno",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Gene Lake",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Jason Thomas",
+      "instrumento": "batería, coros",
+      "nota": "temas 1, 3, 5, 7, 8, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "G. Craig \"Butter\" Glanville",
+      "instrumento": "batería, batería machine, coros",
+      "nota": "temas 7, 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Dontae Winslow",
+      "instrumento": "mpc batería machine, finger snaps, coros",
+      "nota": "temas 2, 14, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Rudy Guiterrez",
+      "instrumento": "illustrations"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "hoy"
   ],
@@ -51,7 +174,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Hard_Groove"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Hard Groove\"."
+    }
+  ]
 }

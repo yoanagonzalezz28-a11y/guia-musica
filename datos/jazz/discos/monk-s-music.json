@@ -38,10 +38,40 @@
     {
       "musico": "monk",
       "nombre": "Thelonious Monk",
-      "instrumento": "piano, composición"
+      "instrumento": "piano on tracks 2–6"
+    },
+    {
+      "musico": null,
+      "nombre": "Ray Copeland",
+      "instrumento": "trompeta on tracks 1, 2, 4–6"
+    },
+    {
+      "musico": null,
+      "nombre": "Gigi Gryce",
+      "instrumento": "saxo alto and arreglos on tracks 1, 2, 4–6"
+    },
+    {
+      "musico": "hawkins",
+      "nombre": "Coleman Hawkins",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": "coltrane",
+      "nombre": "John Coltrane",
+      "instrumento": "saxo tenor on tracks 1, 2, 4–6"
+    },
+    {
+      "musico": null,
+      "nombre": "Wilbur Ware",
+      "instrumento": "contrabajo on tracks 2–6"
+    },
+    {
+      "musico": "blakey",
+      "nombre": "Art Blakey",
+      "instrumento": "batería on tracks 2–6"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "bebop"
   ],
@@ -58,5 +88,11 @@
     "wikidata": null,
     "wikipedia": "Monk%27s_Music"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Monk's Music\"."
+    }
+  ]
 }

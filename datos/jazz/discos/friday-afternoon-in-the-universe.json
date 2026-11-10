@@ -38,9 +38,37 @@
       "musico": "mmw",
       "nombre": "Medeski, Martin & Wood",
       "instrumento": "grupo"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Martin",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "John Medeski",
+      "instrumento": "teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Danny Blume",
+      "instrumento": "guitarra",
+      "nota": "temas 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Tonino Benson",
+      "instrumento": "voz",
+      "nota": "temas 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Carl Green",
+      "instrumento": "flauta",
+      "nota": "temas 15"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "fusion"
   ],
@@ -48,10 +76,16 @@
     "Órgano y groove libre. El órgano de Medeski, el bajo de Wood y la batería de Martin tocan temas largos que se arman sobre grooves de funk y jazz. Está entre los discos esenciales de Medeski, Martin & Wood."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "e2b11e47-92e4-3b37-8f1d-146e7acfc886",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición ee6bdec8-13a1-4c90-bbcd-8f201e0fd580 (1995-01-24)."
+    }
+  ]
 }

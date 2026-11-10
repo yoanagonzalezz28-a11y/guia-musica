@@ -36,12 +36,72 @@
   "sello": "Pacific Jazz",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Quinn Davis",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Ernie Watts",
+      "instrumento": "saxo alto and flauta"
+    },
+    {
+      "musico": null,
+      "nombre": "Jay Corre, Robert Keller",
+      "instrumento": "saxo tenor and flauta"
+    },
+    {
+      "musico": null,
+      "nombre": "Marty Flax",
+      "instrumento": "saxo barítono"
+    },
+    {
+      "musico": null,
+      "nombre": "Bobby Shew, Yoshito Murakami, Charles Findley, John Scottile",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Jim Trimble, John Boice",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Bill Wimberly",
+      "instrumento": "trombón bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Richie Resnicoff",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Ray Starling",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "James Gannon",
+      "instrumento": "contrabajo"
+    },
+    {
       "musico": "buddy-rich",
       "nombre": "Buddy Rich",
-      "instrumento": "batería, dirección"
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Cathy Rich",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Shorty Rogers",
+      "instrumento": "arreglos, \"wack, wack\" and \"the beat goes on\""
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "swing"
   ],
@@ -52,9 +112,15 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Big_Swing_Face_(Buddy_Rich_Big_Band_album)"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Big Swing Face (Buddy Rich Big Band album)\"."
+    }
+  ],
   "temas": [
     {
       "titulo": "Norwegian Wood (This Bird Has Flown) - Live",

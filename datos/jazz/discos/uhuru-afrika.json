@@ -1,0 +1,171 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Randy Weston Uhuru Afrika"
+  },
+  "id": "uhuru-afrika",
+  "titulo": "Uhuru Afrika",
+  "credito": "Randy Weston",
+  "lideres": [],
+  "grabacion": {
+    "desde": 1960,
+    "hasta": 1960,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1960,
+    "detalle": null
+  },
+  "sello": "Roulette",
+  "musicos": [
+    {
+      "musico": null,
+      "nombre": "Randy Weston",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Clark Terry",
+      "instrumento": "trompeta, fliscorno"
+    },
+    {
+      "musico": null,
+      "nombre": "Benny Bailey, Richard Williams, Freddie Hubbard",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Slide Hampton, Jimmy Cleveland, Quentin Jackson",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Julius Watkins",
+      "instrumento": "corno"
+    },
+    {
+      "musico": null,
+      "nombre": "Gigi Gryce",
+      "instrumento": "saxo alto, flauta"
+    },
+    {
+      "musico": "lateef",
+      "nombre": "Yusef Lateef",
+      "instrumento": "saxo tenor, flauta, oboe"
+    },
+    {
+      "musico": null,
+      "nombre": "Sahib Shihab",
+      "instrumento": "saxo alto, saxo barítono"
+    },
+    {
+      "musico": null,
+      "nombre": "Budd Johnson",
+      "instrumento": "saxo tenor, clarinete"
+    },
+    {
+      "musico": null,
+      "nombre": "Jerome Richardson",
+      "instrumento": "saxo barítono, flautín"
+    },
+    {
+      "musico": null,
+      "nombre": "Cecil Payne",
+      "instrumento": "saxo barítono"
+    },
+    {
+      "musico": null,
+      "nombre": "Les Spann",
+      "instrumento": "guitarra, flauta"
+    },
+    {
+      "musico": "burrell",
+      "nombre": "Kenny Burrell",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "George Duvivier, Ron Carter",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Max Roach, Charlie Persip",
+      "instrumento": "batería, percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Wilbert Hogan",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Candido Camero",
+      "instrumento": "congas"
+    },
+    {
+      "musico": null,
+      "nombre": "Babatunde Olatunji",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Armando Peraza",
+      "instrumento": "bongós"
+    },
+    {
+      "musico": null,
+      "nombre": "Martha Flowers, Brock Peters",
+      "instrumento": "voz"
+    },
+    {
+      "musico": "melba-liston",
+      "nombre": "Melba Liston",
+      "instrumento": "arreglos"
+    },
+    {
+      "musico": null,
+      "nombre": "Tuntemeke Sanga",
+      "instrumento": "narrator"
+    }
+  ],
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
+  "corrientes": [
+    "hard-bop",
+    "mundo"
+  ],
+  "comentario": [
+    "Una suite para orquesta grande que une el jazz con ritmos africanos, con poemas de Langston Hughes. Los arreglos son de Melba Liston, que trabajó con Randy Weston durante décadas. Es uno de los discos que el banco elige para conocer a Melba Liston."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Uhuru_Afrika"
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-melba-liston",
+      "acceso": "extracto",
+      "aporta": "Su sociedad con Randy Weston como arregladora."
+    },
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Uhuru Afrika\"."
+    }
+  ]
+}

@@ -36,12 +36,128 @@
   "sello": "EmArcy",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Don Elliott",
+      "instrumento": "bongós, vibráfono, xilófono, trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Quincy Jones",
+      "instrumento": "dirección",
+      "nota": "temas 1, 2, 3, 6, 7, 9, 10, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Clarence Anderson",
+      "instrumento": "teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Danny Bank",
+      "instrumento": "saxo barítono"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Cleveland",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Barry Galbraith",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Bernie Glow",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 2, 3, 4, 5, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Urbie Green",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Milt Hinton",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Quentin Jackson",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Osie Johnson",
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 3, 4, 5, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Hal McKusick",
+      "instrumento": "vientos de madera"
+    },
+    {
+      "musico": null,
+      "nombre": "Tom Mitchell",
+      "instrumento": "trombón bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Anthony Ortega",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Jerome Richardson",
+      "instrumento": "cañas"
+    },
+    {
+      "musico": null,
+      "nombre": "Ernie Royal",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Charlie Shavers",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Clark Terry",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Lucky Thompson",
+      "instrumento": "cañas"
+    },
+    {
+      "musico": null,
+      "nombre": "Nick Travis",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 2, 3, 4, 5, 10"
+    },
+    {
       "musico": "dinah",
       "nombre": "Dinah Washington",
       "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Crawford",
+      "instrumento": "batería",
+      "nota": "temas 6, 7, 9, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Wilder",
+      "instrumento": "trompeta",
+      "nota": "temas 6, 7, 9, 11"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "swing"
   ],
@@ -49,10 +165,16 @@
     "Washington canta estándares con una orquesta, con su voz filosa y su fraseo de blues. Los arreglos son de Quincy Jones, que todavía no tenía treinta años. Es uno de los discos que el banco elige para conocer a Dinah Washington."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "ffaa1d81-9535-4a5b-9ff9-e2bbc7e225bc",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 117e4ba7-2711-4f17-b9bf-e4881b2ed2bd (1957)."
+    }
+  ]
 }

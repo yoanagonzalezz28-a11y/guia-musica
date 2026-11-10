@@ -39,9 +39,24 @@
       "musico": "sarah",
       "nombre": "Sarah Vaughan",
       "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Jones",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Richard Davis",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "haynes",
+      "nombre": "Roy Haynes",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "bebop"
   ],
@@ -52,7 +67,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "At_Mister_Kelly's"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"At Mister Kelly's\"."
+    }
+  ]
 }

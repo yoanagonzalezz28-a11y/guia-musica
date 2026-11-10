@@ -1,21 +1,27 @@
 {
   "id": "rio-de-la-plata",
   "nombre": "Río de la Plata",
-  "resumen": "Del candombe de Montevideo al jazz porteño de hoy, entre Uruguay y la Argentina.",
+  "resumen": "Todo el jazz de Uruguay y la Argentina: del swing de Oscar Alemán y el Hot Club de Montevideo a la escena actual de las dos orillas.",
   "texto": [
-    "Una marca de esta región es el cruce del jazz con ritmos propios, y el candombe es el caso más visible. A mediados de los 70, los hermanos Hugo y George Fattoruso y Ringo Thielmann formaban Opa, un trío uruguayo instalado en Estados Unidos. Airto Moreira los descubrió tocando en clubes y produjo sus discos para Milestone.[^wp-opa]",
-    "Ese diálogo sigue vivo. Juan Ibarra, baterista nacido en Montevideo en 1988, debutó con *NauMay* en el sello DomusJazz, y sigue trabajando sobre el candombe.[^aaj-ibarra-bio] En Buenos Aires, Andrés Hayes lleva ocho discos a su nombre y una larga trayectoria en grupos de la escena local.[^tiempo-hayes][^litoral-hayes]",
-    "A ese diálogo se suman figuras que hicieron carrera afuera: Gato Barbieri, Astor Piazzolla en su cruce con el jazz, Dino Saluzzi en ECM y Guillermo Klein con Los Guachos en Nueva York.[^wp-barbieri][^wp-saluzzi][^db-klein] Falta consultar mejor a DomusJazz y a la prensa cultural de ambos países."
+    "Esta región reúne todo el jazz de Uruguay y la Argentina, use o no raíces locales. La parte que cruza el jazz con el candombe, el tango y el folclore tiene su propia época, el jazz rioplatense.",
+    "Muchas figuras hicieron carrera afuera, como Gato Barbieri, Lalo Schifrin y Guillermo Klein, y otras armaron la escena local, como Jorge López Ruiz, Baby López Furst o Ernesto Jodos en Buenos Aires.[^wp-barbieri][^db-klein] La región también tiene una herida: el pianista brasileño Tenório Jr. fue asesinado por la dictadura en Buenos Aires en 1976.[^tiempo-tenorio]",
+    "Hoy la escena es muy activa en las dos orillas. En la Argentina, el Gardel al mejor álbum de jazz fue para el trío de Pipi Piazzolla en 2023 y 2026, para Escalandrum en 2024 y para Hernán Jacinto en 2025.[^wp-gardel-2023][^wp-gardel-2024][^ln-gardel-2025][^ln-gardel-2026] En Uruguay, el Festival Internacional de Jazz de Punta del Este, el Festival de Jazz del Uruguay del Sodre y Jazz a la Calle, en Mercedes, reúnen cada año a los músicos locales.[^maldonado-punta-2025][^sodre-jazz-2023][^mec-jazz-calle-2024]"
   ],
   "corrientes": [
-    "rioplat"
+    "rioplat",
+    "free",
+    "ecm",
+    "hoy",
+    "latino",
+    "souljazz",
+    "hard-bop",
+    "fusion"
   ],
   "musicos": [
     "barbieri",
     "piazzolla",
     "saluzzi",
     "klein",
-    "tenorio",
     "fattoruso",
     "rada",
     "schifrin",
@@ -36,7 +42,18 @@
     "restuccia",
     "maslia",
     "ibarburu",
-    "urquiza"
+    "urquiza",
+    "roxana-amed",
+    "ligia-piro",
+    "genovese",
+    "urcola",
+    "chapital",
+    "ottonello",
+    "martin-ibarra",
+    "casenave",
+    "popo-romano",
+    "oscar-aleman",
+    "ibarra"
   ],
   "discos": [
     "goldenwings",
@@ -144,6 +161,137 @@
   ],
   "figurasPendientes": [],
   "escenaActual": [
+    {
+      "musico": "ottonello",
+      "nombre": "Mateo Ottonello",
+      "instrumento": "batería",
+      "base": "Montevideo",
+      "ultimaActividad": 2026,
+      "detalle": "Desde 2022 tiene una residencia semanal en El Mingus, dirige el cuarteto de la casa del Jazz Club en el Bluzz Bar y presenta su trío con Javier Malosetti y Augusto Durañona.",
+      "fuentes": [
+        "busqueda-ottonello",
+        "montevideo-ottonello"
+      ]
+    },
+    {
+      "musico": "chapital",
+      "nombre": "Juan Pablo Chapital",
+      "instrumento": "guitarra",
+      "base": "Montevideo",
+      "ultimaActividad": 2024,
+      "detalle": "Publicó *Móvil* en 2024 y dirige el proyecto Electric Miles, que tocó en el Festival de Jazz de Montevideo.",
+      "fuentes": [
+        "bandcamp-chapital",
+        "montevideo-chapital"
+      ]
+    },
+    {
+      "musico": "martin-ibarra",
+      "nombre": "Martín Ibarra (Nair Mirabrat)",
+      "instrumento": "guitarra, voz y arreglos",
+      "base": "Montevideo",
+      "ultimaActividad": 2026,
+      "detalle": "En 2025 Nair Mirabrat grabó completo *Mateo solo bien se lame*, de Eduardo Mateo, y en 2026 presentó *Nair circular* en la sala Zavala Muniz.",
+      "fuentes": [
+        "cyc-nair",
+        "busqueda-nair"
+      ]
+    },
+    {
+      "musico": "levin",
+      "nombre": "Gonzalo Levin",
+      "instrumento": "saxo tenor",
+      "base": "Montevideo",
+      "ultimaActividad": 2024,
+      "detalle": "Su octeto con cuerdas tocó en el Festival de Jazz del Uruguay del Sodre en 2023 y en Jazz a la Calle, en Mercedes, en 2024.",
+      "fuentes": [
+        "sodre-jazz-2023",
+        "mec-jazz-calle-2024"
+      ]
+    },
+    {
+      "musico": "popo-romano",
+      "nombre": "Popo Romano",
+      "instrumento": "contrabajo",
+      "base": null,
+      "ultimaActividad": 2026,
+      "detalle": "Tocó en las ediciones 2025 y 2026 del Festival Internacional de Jazz de Punta del Este, en 2026 en un cuarteto con música de Miles Davis.",
+      "fuentes": [
+        "cooltivarte-punta-2025",
+        "busqueda-punta-2026"
+      ]
+    },
+    {
+      "musico": "casenave",
+      "nombre": "Gustavo Casenave",
+      "instrumento": "piano",
+      "base": "Nueva York",
+      "ultimaActividad": 2025,
+      "detalle": "Su trío estuvo nominado en los Premios Graffiti 2025 a mejor álbum de música instrumental.",
+      "fuentes": [
+        "graffiti-2025"
+      ]
+    },
+    {
+      "musico": "pipi-piazzolla",
+      "nombre": "Pipi Piazzolla",
+      "instrumento": "batería",
+      "base": "Buenos Aires",
+      "ultimaActividad": 2026,
+      "detalle": "Su trío ganó el Gardel al mejor álbum de jazz en 2023 y en 2026, con *Apocalipsis*, y Escalandrum lo ganó en 2024.",
+      "fuentes": [
+        "wp-gardel-2023",
+        "wp-gardel-2024",
+        "ln-gardel-2026"
+      ]
+    },
+    {
+      "musico": "jacinto",
+      "nombre": "Hernán Jacinto",
+      "instrumento": "piano",
+      "base": "Buenos Aires",
+      "ultimaActividad": 2025,
+      "detalle": "Ganó el Gardel 2025 al mejor álbum de jazz con *Gardel*.",
+      "fuentes": [
+        "ln-gardel-2025"
+      ]
+    },
+    {
+      "musico": "genovese",
+      "nombre": "Leo Genovese",
+      "instrumento": "piano",
+      "base": "Estados Unidos",
+      "ultimaActividad": 2026,
+      "detalle": "Su dúo con Mariano Otero, *New York Sessions, Vol. 1*, estuvo nominado al Gardel 2026.",
+      "fuentes": [
+        "ln-gardel-2026",
+        "tiempo-genovese-otero"
+      ]
+    },
+    {
+      "musico": "ligia-piro",
+      "nombre": "Ligia Piro",
+      "instrumento": "voz",
+      "base": "Buenos Aires",
+      "ultimaActividad": 2025,
+      "detalle": "*Volumen 2* estuvo nominado al Gardel 2025 al mejor álbum de jazz.",
+      "fuentes": [
+        "ln-gardel-2025",
+        "perfil-piro"
+      ]
+    },
+    {
+      "musico": "urcola",
+      "nombre": "Diego Urcola",
+      "instrumento": "trompeta",
+      "base": "Nueva York",
+      "ultimaActividad": 2026,
+      "detalle": "Tocó en las ediciones 2025 y 2026 del Festival Internacional de Jazz de Punta del Este.",
+      "fuentes": [
+        "cooltivarte-punta-2025",
+        "busqueda-punta-2026"
+      ]
+    },
     {
       "musico": "ibarra",
       "nombre": "Juan Ibarra",

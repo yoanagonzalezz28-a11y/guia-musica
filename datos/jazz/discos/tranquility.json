@@ -39,9 +39,24 @@
       "musico": "konitz",
       "nombre": "Lee Konitz",
       "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Bauer",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Henry Grimes",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Dave Bailey",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "cool"
   ],
@@ -52,9 +67,15 @@
     "musicbrainz": "5ca54e55-ac4f-480d-85da-3664f636357a",
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Tranquility_(Lee_Konitz_album)"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Tranquility (Lee Konitz album)\"."
+    }
+  ],
   "temas": [
     {
       "titulo": "Stephanie",

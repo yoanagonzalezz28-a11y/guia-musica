@@ -16,7 +16,6 @@
     "composición"
   ],
   "corrientes": [
-    "rioplat",
     "hoy"
   ],
   "regiones": [
@@ -26,7 +25,7 @@
   "resumen": "Pianista porteño y uno de los grandes maestros del jazz en Buenos Aires, de lenguaje moderno y muy personal.",
   "epocas": [
     {
-      "titulo": "Jazz rioplatense",
+      "titulo": "Jazz de hoy",
       "desde": 2011,
       "hasta": 2019,
       "texto": "",

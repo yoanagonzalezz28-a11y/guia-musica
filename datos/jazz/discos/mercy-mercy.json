@@ -36,12 +36,92 @@
   "sello": "World Pacific",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Joe Azarello",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "David Culp",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Ken Faulk",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Peter Graves",
+      "instrumento": "trombón bajo, trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Pat LaBarbera",
+      "instrumento": "saxo tenor, vientos de madera"
+    },
+    {
+      "musico": null,
+      "nombre": "John Laws",
+      "instrumento": "saxo barítono, cañas"
+    },
+    {
+      "musico": null,
+      "nombre": "Don Menza",
+      "instrumento": "saxo tenor, vientos de madera"
+    },
+    {
+      "musico": null,
+      "nombre": "Walter Namuth",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Charles Owens",
+      "instrumento": "saxo alto, vientos de madera"
+    },
+    {
+      "musico": "pepper",
+      "nombre": "Art Pepper",
+      "instrumento": "saxo alto, vientos de madera"
+    },
+    {
+      "musico": null,
+      "nombre": "Al Porcino",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Bill Prince",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "William Prince",
+      "instrumento": "trompeta"
+    },
+    {
       "musico": "buddy-rich",
       "nombre": "Buddy Rich",
-      "instrumento": "batería, dirección"
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Rick Stepton",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Jim Trimble",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Gary Walters",
+      "instrumento": "bajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "swing"
   ],
@@ -49,10 +129,16 @@
     "En vivo, con una versión del tema de Zawinul. La big band de Rich toca en vivo con mucha potencia, con arreglos que miran al soul y al rock. Es uno de los discos que el banco elige para conocer a Buddy Rich."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "73353b8d-dbb1-4669-a1a3-0b8de7d1c144",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 8516441b-0efe-4a35-a8fc-56178592db8d (2011-04-20)."
+    }
+  ]
 }

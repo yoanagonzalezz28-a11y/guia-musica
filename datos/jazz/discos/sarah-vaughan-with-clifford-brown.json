@@ -39,9 +39,44 @@
       "musico": "sarah",
       "nombre": "Sarah Vaughan",
       "instrumento": "voz"
+    },
+    {
+      "musico": "brown",
+      "nombre": "Clifford Brown",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Quinichette",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Herbie Mann",
+      "instrumento": "flauta"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Jones",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Benjamin",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": "haynes",
+      "nombre": "Roy Haynes",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Ernie Wilkins",
+      "instrumento": "dirección, arreglos"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "bebop"
   ],
@@ -52,7 +87,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Sarah_Vaughan_(1955_album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Sarah Vaughan (1955 album)\"."
+    }
+  ]
 }

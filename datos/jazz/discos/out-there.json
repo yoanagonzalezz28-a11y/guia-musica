@@ -36,12 +36,27 @@
   "sello": "Prestige",
   "musicos": [
     {
+      "musico": "ronc",
+      "nombre": "Ron Carter",
+      "instrumento": "violonchelo"
+    },
+    {
       "musico": "dolphy",
       "nombre": "Eric Dolphy",
-      "instrumento": "saxo alto, clarinete bajo, flauta"
+      "instrumento": "saxo alto, clarinete bajo, clarinete, flauta"
+    },
+    {
+      "musico": null,
+      "nombre": "George Duvivier",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "haynes",
+      "nombre": "Roy Haynes",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "free"
   ],
@@ -49,10 +64,16 @@
     "Saxo alto, flauta y clarinete bajo, en temas que suenan a música de cámara de vanguardia. Ron Carter toca acá el violonchelo y no el contrabajo, y George Duvivier y Roy Haynes completan el cuarteto. Es uno de los discos que el banco elige para conocer a Eric Dolphy."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "f17eb6cd-d1ef-3e2f-94a9-06e286368245",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Out_There_(Eric_Dolphy_album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 06180693-a7f6-420e-9b63-f5dea557336a (1961-09)."
+    }
+  ]
 }

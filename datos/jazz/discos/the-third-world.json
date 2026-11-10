@@ -39,10 +39,35 @@
     {
       "musico": "barbieri",
       "nombre": "Gato Barbieri",
-      "instrumento": "saxo tenor"
+      "instrumento": "flauta, saxo tenor, voz"
+    },
+    {
+      "musico": "haden",
+      "nombre": "Charlie Haden",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Beaver Harris",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Richard Landrum",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Roswell Rudd",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Lonnie Liston Smith",
+      "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "rioplat"
   ],
@@ -50,10 +75,16 @@
     "Free jazz y folclore latinoamericano, con el saxo en su registro más rasposo. Barbieri toca el saxo tenor con Lonnie Liston Smith, Charlie Haden y Beaver Harris, en temas largos. Es el disco clave de Gato Barbieri en la etapa \"El tercer mundo\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "1aa61a9e-b45d-3a8c-a686-ccd7d1642880",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 640f58c3-93ca-4c2f-aab6-50f4ae7f4712 (1970)."
+    }
+  ]
 }

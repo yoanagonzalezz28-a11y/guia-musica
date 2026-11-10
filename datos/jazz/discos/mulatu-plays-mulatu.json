@@ -38,9 +38,109 @@
       "musico": "mulatu",
       "nombre": "Mulatu Astatke",
       "instrumento": "vibráfono, percusión, teclados, arreglos"
+    },
+    {
+      "musico": null,
+      "nombre": "James Arben",
+      "instrumento": "saxo tenor, flauta"
+    },
+    {
+      "musico": null,
+      "nombre": "ሙላቱ አስታጥቄ",
+      "instrumento": "piano, vibráfono, electronic órgano, timbales, congas, bongós"
+    },
+    {
+      "musico": null,
+      "nombre": "Richard Olatunde Baker",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Neil Charles",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "John Edwards",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Alexander Hawkins",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Danny Keane",
+      "instrumento": "violonchelo"
+    },
+    {
+      "musico": null,
+      "nombre": "Jon Scott",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Ager Selam Shafi",
+      "instrumento": "palmas, other instruments"
+    },
+    {
+      "musico": null,
+      "nombre": "Byron Wallen",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Carlos Niño",
+      "instrumento": "percusión",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Dexter Story",
+      "instrumento": "palmas, krar",
+      "nota": "temas 6, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Freshgenet Roufa Lightner",
+      "instrumento": "voz",
+      "nota": "temas 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Almaz Wolde",
+      "instrumento": "voz",
+      "nota": "temas 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Samson Alemayew",
+      "instrumento": "other instruments"
+    },
+    {
+      "musico": null,
+      "nombre": "Fassika Hailu",
+      "instrumento": "krar"
+    },
+    {
+      "musico": null,
+      "nombre": "Yetemusaq Mulat",
+      "instrumento": "lyre"
+    },
+    {
+      "musico": null,
+      "nombre": "Tasew Wendem",
+      "instrumento": "other instruments"
+    },
+    {
+      "musico": null,
+      "nombre": "Kibrom Birhane",
+      "instrumento": "other instruments",
+      "nota": "temas 11"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -48,10 +148,16 @@
     "Su despedida: sus clásicos con nuevos arreglos. Astatke toca vibráfono con un grupo nuevo, en arreglos de sus temas más conocidos. En la ficha de Mulatu Astatke es el disco que representa la etapa \"Mulatu Plays Mulatu\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "d2db712f-5791-44e5-a007-e3c85de49947",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición af240304-3721-4f89-9cba-14e9676bcf7d (2025-09)."
+    }
+  ]
 }

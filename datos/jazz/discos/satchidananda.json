@@ -59,14 +59,14 @@
     },
     {
       "musico": null,
-      "nombre": "Tulsi Sen Gupta",
-      "instrumento": "tanpura"
-    },
-    {
-      "musico": null,
       "nombre": "Vishnu Wood",
       "instrumento": "oud",
       "nota": "\"Isis and Osiris\""
+    },
+    {
+      "musico": null,
+      "nombre": "Tulsi Sen Gupta",
+      "instrumento": "tanpura"
     }
   ],
   "corrientes": [

@@ -37,9 +37,19 @@
       "musico": "aldana",
       "nombre": "Melissa Aldana",
       "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Pablo Menares",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Jochen Rückert",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -47,10 +57,16 @@
     "Saxo tenor en trío sin piano, con un sonido directo que sostiene toda la armonía. Aldana es chilena y fue la primera mujer en ganar el concurso Thelonious Monk de saxo, en 2013. Es uno de los discos que el banco elige para conocer a Melissa Aldana."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "1796d277-437a-45a8-8723-a158e45664a5",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición f6a84d6a-2b55-47f5-a561-5a8326bd9f58 (2016)."
+    }
+  ]
 }

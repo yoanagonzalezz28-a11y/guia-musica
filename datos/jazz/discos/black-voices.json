@@ -38,10 +38,35 @@
     {
       "musico": "tony-allen",
       "nombre": "Tony Allen",
-      "instrumento": "batería"
+      "instrumento": "voz",
+      "nota": "temas 1, 4, 5, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Gary “Mudbone” Cooper",
+      "instrumento": "voz",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Loïc Dury",
+      "instrumento": "batería",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Michael Payne",
+      "instrumento": "voz",
+      "nota": "temas 3, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Doctor L",
+      "instrumento": "percusión",
+      "nota": "temas 5"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -49,12 +74,18 @@
     "Afrobeat con electrónica, producido en París. Allen toca afrobeat sobre bases electrónicas producidas por Doctor L, con un groove más oscuro que en los 70. Es uno de los discos que el banco elige para conocer a Tony Allen."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "f5d43ab5-31b1-37b2-9190-d01e573c1eee",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición e7a90c9c-4a03-48d4-ab57-dfac11effc9c (1999)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Asiko",

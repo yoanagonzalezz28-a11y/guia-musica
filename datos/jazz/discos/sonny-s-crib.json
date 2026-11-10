@@ -36,12 +36,37 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": "byrd",
+      "nombre": "Donald Byrd",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": "chambers",
+      "nombre": "Paul Chambers",
+      "instrumento": "contrabajo"
+    },
+    {
       "musico": "sonny-clark",
       "nombre": "Sonny Clark",
       "instrumento": "piano"
+    },
+    {
+      "musico": "coltrane",
+      "nombre": "John Coltrane",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Curtis Fuller",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Art Taylor",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -49,12 +74,18 @@
     "Hard bop con tres vientos y un piano de swing liviano. Tocan John Coltrane, Curtis Fuller y Donald Byrd, con Paul Chambers y Art Taylor; es de 1957, el año de *Blue Train*. Está entre los discos esenciales de Sonny Clark."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "f7e4c1bf-293d-369d-94bf-4fa1a5d8deef",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 4d74f9dc-9ec0-412a-ae00-ce3ec1e7bc49 (1958-03)."
+    }
+  ],
   "temas": [
     {
       "titulo": "With A Song In My Heart - Remastered 1998",

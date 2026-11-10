@@ -36,10 +36,155 @@
     {
       "musico": "marcus-miller",
       "nombre": "Marcus Miller",
-      "instrumento": "bajo eléctrico, producción"
+      "instrumento": "wurlitzer piano eléctrico, sintetizadores, vocoder, bajo guitarras, batería programación, scratches, órgano, guitarras, bajo eléctrico, saxo tenor, clarinete bajo, voz, contrabajo, voz, piano eléctrico Rhodes, bajo sintetizado, saxo alto, fretless basses, b♭ clarinete, bajo sin trastes, rhythm guitarra, roland tr-808, coros, clavinet, ambient sintetizador, talking bajo sintetizado, guitarra eléctrica, radio, guitarra efectos, percusión programación, vibráfono, guitarra acústica, saxo soprano",
+      "nota": "temas 1, 1–8, 10–15, 4, 8, 12, 14, 1–6, 10, 13, 6, 12–13, 2, 11, 2–4, 7, 9, 15, 12–14, 5, 13–15, 3, 7–9"
+    },
+    {
+      "musico": null,
+      "nombre": "Bernard Wright",
+      "instrumento": "piano eléctrico Rhodes, órgano",
+      "nota": "temas 1, 7, 4"
+    },
+    {
+      "musico": "hancock",
+      "nombre": "Herbie Hancock",
+      "instrumento": "piano, piano solo",
+      "nota": "temas 3, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Jackson, Jr.",
+      "instrumento": "guitarra acústica, guitarras, dobro",
+      "nota": "temas 3, 8, 4, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Hiram Bullock",
+      "instrumento": "lead guitarra, guitarras",
+      "nota": "temas 7, 12, 15"
+    },
+    {
+      "musico": null,
+      "nombre": "Leroy Taylor",
+      "instrumento": "bajo sintetizado, piano eléctrico Rhodes",
+      "nota": "temas 2, 7, 12, 15"
+    },
+    {
+      "musico": null,
+      "nombre": "Poogie Bell",
+      "instrumento": "batería",
+      "nota": "temas 7, 9, 11–12, 15"
+    },
+    {
+      "musico": null,
+      "nombre": "David Isaac",
+      "instrumento": "water efectos, hi-string note, tom overdubs, cencerro, triángulo, percusión programación",
+      "nota": "temas 1, 7, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Mino Cinelu",
+      "instrumento": "percusión",
+      "nota": "temas 6, 8–10, 13"
+    },
+    {
+      "musico": "kenny-garrett",
+      "nombre": "Kenny Garrett",
+      "instrumento": "saxo alto, alto sax solo",
+      "nota": "temas 2, 12, 7, 15"
+    },
+    {
+      "musico": "branford",
+      "nombre": "Branford Marsalis",
+      "instrumento": "soprano sax solo",
+      "nota": "temas 2, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Hubert Laws",
+      "instrumento": "flauta solo, flauta",
+      "nota": "temas 2, 9"
+    },
+    {
+      "musico": "shorter",
+      "nombre": "Wayne Shorter",
+      "instrumento": "saxo soprano, soprano sax solo",
+      "nota": "temas 9, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Fred Wesley",
+      "instrumento": "trombón, trombón solo",
+      "nota": "temas 7, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Michael \"Patches\" Stewart",
+      "instrumento": "trompeta",
+      "nota": "temas 2–3, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Larry Corbett",
+      "instrumento": "violonchelo",
+      "nota": "temas 1–3, 7, 9, 13–14"
+    },
+    {
+      "musico": null,
+      "nombre": "Matt Funes",
+      "instrumento": "viola",
+      "nota": "temas 1, 3, 7, 9, 12, 14"
+    },
+    {
+      "musico": null,
+      "nombre": "Joel Derouin",
+      "instrumento": "violín",
+      "nota": "temas 1, 3, 12, 14"
+    },
+    {
+      "musico": null,
+      "nombre": "Raphael Saadiq",
+      "instrumento": "voz",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Nikki Miller",
+      "instrumento": "voz",
+      "nota": "temas 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Vinnie Colaiuta",
+      "instrumento": "batería",
+      "nota": "temas 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Djavan",
+      "instrumento": "scat voz",
+      "nota": "temas 8"
+    },
+    {
+      "musico": null,
+      "nombre": "James Carter",
+      "instrumento": "tenor sax solo",
+      "nota": "temas 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Maceo Parker",
+      "instrumento": "alto sax solo",
+      "nota": "temas 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Chaka Khan",
+      "instrumento": "voz",
+      "nota": "temas 14"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "fusion"
   ],
@@ -50,7 +195,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "M²_(album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"M² (album)\"."
+    }
+  ]
 }

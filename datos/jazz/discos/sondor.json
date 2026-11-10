@@ -26,7 +26,9 @@
   "id": "sondor",
   "titulo": "Sondor",
   "credito": "Nair Mirabrat",
-  "lideres": [],
+  "lideres": [
+    "martin-ibarra"
+  ],
   "grabacion": {
     "desde": 2019,
     "hasta": 2019,
@@ -39,9 +41,9 @@
   "sello": null,
   "musicos": [
     {
-      "musico": null,
+      "musico": "martin-ibarra",
       "nombre": "Martín Ibarra",
-      "instrumento": "director del proyecto"
+      "instrumento": "director del proyecto, guitarra, voz, arreglos"
     }
   ],
   "personalNota": "Lista parcial: sale de los créditos de Spotify.",

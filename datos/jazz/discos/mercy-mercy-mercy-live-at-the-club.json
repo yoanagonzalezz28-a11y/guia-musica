@@ -37,10 +37,35 @@
     {
       "musico": "adderley",
       "nombre": "Cannonball Adderley",
-      "instrumento": "saxo alto"
+      "instrumento": "saxo alto",
+      "nota": "temas 2, 3, 4, 5, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Nat Adderley",
+      "instrumento": "corneta",
+      "nota": "temas 2, 3, 4, 5, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Victor Gaskin",
+      "instrumento": "bajo, contrabajo",
+      "nota": "temas 2, 3, 4, 5, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Roy McCurdy",
+      "instrumento": "batería",
+      "nota": "temas 2, 3, 4, 5, 6, 7"
+    },
+    {
+      "musico": "zawinul",
+      "nombre": "Joe Zawinul",
+      "instrumento": "piano eléctrico",
+      "nota": "temas 2, 3, 4, 5, 6, 7"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "souljazz"
   ],
@@ -48,10 +73,16 @@
     "El tema de Joe Zawinul se volvió un éxito: soul jazz con piano eléctrico. Zawinul toca el piano eléctrico Wurlitzer y el quinteto de los hermanos Adderley suena con mucho groove de iglesia. Es el disco clave de Cannonball Adderley en la etapa \"Sus grupos y \"Mercy, Mercy, Mercy\"\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "28ea51ba-f497-3bc1-9290-dc9d476c21ea",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Mercy,_Mercy,_Mercy!_Live_at_%22The_Club%22"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 9b34d0d5-3080-446a-b5eb-1d956c77afd7 (1966)."
+    }
+  ]
 }

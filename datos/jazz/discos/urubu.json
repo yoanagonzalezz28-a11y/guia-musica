@@ -36,12 +36,33 @@
   "sello": "Warner Bros.",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Claus Ogerman",
+      "instrumento": "dirección"
+    },
+    {
+      "musico": "ronc",
+      "nombre": "Ron Carter",
+      "instrumento": "bajo"
+    },
+    {
       "musico": "jobim",
       "nombre": "Antônio Carlos Jobim",
-      "instrumento": "piano, guitarra, composición"
+      "instrumento": "piano eléctrico Rhodes"
+    },
+    {
+      "musico": null,
+      "nombre": "João Palma",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Miúcha",
+      "instrumento": "voz",
+      "nota": "temas 1"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "brasil"
   ],
@@ -49,10 +70,16 @@
     "Un lado de canciones y otro orquestal, con arreglos de Claus Ogerman: su disco más ambicioso como compositor. Jobim canta y toca el piano con orquesta de Ogerman, en canciones y piezas orquestales. Completa la discografía de Antônio Carlos Jobim dentro de Jazz brasileño."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "8305685b-6c6a-33ff-9aad-3f673be11854",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Urubu_(album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 23d0748b-1c98-451d-a424-6bc63666a469 (1976)."
+    }
+  ]
 }

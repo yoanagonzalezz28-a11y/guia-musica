@@ -35,12 +35,42 @@
   "sello": "Elenco",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Rubens Bassini",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Sandoval Dias",
+      "instrumento": "clarinete bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Jorge Ferreira da Silva",
+      "instrumento": "flauta"
+    },
+    {
       "musico": "baden",
       "nombre": "Baden Powell",
-      "instrumento": "guitarra"
+      "instrumento": "guitarra acústica"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Pratt",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "moacir",
+      "nombre": "Moacir Santos",
+      "instrumento": "violonchelo, saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Sergio Barroso",
+      "instrumento": "músico"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "brasil"
   ],
@@ -48,10 +78,16 @@
     "La guitarra de Powell mezcla samba y swing, con el baterista estadounidense Jimmy Pratt marcando un pulso de jazz. Salió por Elenco, el sello carioca de Aloysio de Oliveira, en pleno auge de la bossa nova. Está entre los discos esenciales de Baden Powell."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "219f389c-1369-37ff-8c45-435f4220b2ed",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición df2ad711-264b-4c32-8695-73ffba8512c9 (1963)."
+    }
+  ]
 }

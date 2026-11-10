@@ -36,12 +36,25 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Tarus Mateen",
+      "instrumento": "bajo",
+      "nota": "temas 2, 5, 6, 9, 11, 13"
+    },
+    {
       "musico": "moran",
       "nombre": "Jason Moran",
-      "instrumento": "piano"
+      "instrumento": "piano",
+      "nota": "temas 2, 5, 6, 9, 11, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Nasheet Waits",
+      "instrumento": "batería",
+      "nota": "temas 2, 5, 6, 9, 11, 13"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -49,10 +62,16 @@
     "Diez años de su trío. Moran toca el piano con Tarus Mateen y Nasheet Waits, en temas propios y versiones. Es uno de los discos que el banco elige para conocer a Jason Moran."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "f914f0a9-59cb-4bf5-8023-1e001085def3",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 155b9bdf-dda5-4df1-8b86-50a5ad28cf33 (2010)."
+    }
+  ]
 }

@@ -70,5 +70,10 @@
       "acceso": "extracto",
       "aporta": "Ken Dryden explica cómo se recuperó el orden original de las sesiones, sumando lo inédito."
     }
-  ]
+  ],
+  "recopilacion": {
+    "desde": 1938,
+    "hasta": 1938,
+    "original": "Son las entrevistas y grabaciones que hizo Alan Lomax para la Biblioteca del Congreso de Estados Unidos."
+  }
 }

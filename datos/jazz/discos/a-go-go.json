@@ -36,12 +36,27 @@
   "sello": "Verve",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Billy Martin",
+      "instrumento": "percusión, pandereta"
+    },
+    {
+      "musico": null,
+      "nombre": "John Medeski",
+      "instrumento": "clavinet, órgano, piano, wurlitzer piano eléctrico"
+    },
+    {
       "musico": "scofield",
       "nombre": "John Scofield",
-      "instrumento": "guitarra"
+      "instrumento": "guitarra acústica, guitarra eléctrica, silbato"
+    },
+    {
+      "musico": null,
+      "nombre": "Chris Wood",
+      "instrumento": "contrabajo, bajo eléctrico"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "fusion"
   ],
@@ -49,10 +64,16 @@
     "Guitarra de sonido torcido y bluesero sobre el órgano, el bajo y la batería de Medeski, Martin & Wood, en grooves largos. Todos los temas son de Scofield, y el disco lo acercó al público de las jam bands. Es uno de los discos que el banco elige para conocer a John Scofield."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "48b1ca7f-941a-3de9-950f-a8e6f9b17723",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 27d6a89d-5c09-4dfd-a4f1-7bc923a691d0 (1998)."
+    }
+  ]
 }

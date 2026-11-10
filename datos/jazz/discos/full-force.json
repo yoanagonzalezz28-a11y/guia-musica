@@ -38,9 +38,34 @@
       "musico": "aeoc",
       "nombre": "Art Ensemble of Chicago",
       "instrumento": "colectivo"
+    },
+    {
+      "musico": null,
+      "nombre": "Lester Bowie",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Malachi Favors",
+      "instrumento": "bajo, percusión, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Joseph Jarman",
+      "instrumento": "saxo alto, saxo barítono, clarinete bajo, fagot, clarinete, flauta, saxo soprano, saxo tenor, vibráfono"
+    },
+    {
+      "musico": null,
+      "nombre": "Roscoe Mitchell",
+      "instrumento": "saxo alto, saxo barítono, clarinete, flauta, saxo soprano, saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Famoudou Don Moye",
+      "instrumento": "batería, percusión, timbales sinfónicos"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "free"
   ],
@@ -48,10 +73,16 @@
     "Percusión, campanas y vientos, en temas que pasan del silencio a los gritos y al blues. Incluye \"Charlie M\", un homenaje a Charles Mingus, que había muerto el año anterior. En la ficha de Art Ensemble of Chicago es el disco que representa la etapa \"Free jazz\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "9f0cca71-c88a-3aca-8ead-a22851333990",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 71e65bc0-5055-4d82-9921-da1bc78e3337 (1980)."
+    }
+  ]
 }

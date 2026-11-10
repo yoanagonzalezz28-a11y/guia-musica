@@ -36,12 +36,54 @@
   "sello": "Atlantic",
   "musicos": [
     {
+      "musico": "abercrombie",
+      "nombre": "John Abercrombie",
+      "instrumento": "guitarra acústica, guitarra eléctrica, guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Alex Blake",
+      "instrumento": "bajo eléctrico"
+    },
+    {
+      "musico": "brecker",
+      "nombre": "Michael Brecker",
+      "instrumento": "flauta, saxo soprano, saxo tenor, saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Randy Brecker",
+      "instrumento": "fliscorno, trompeta"
+    },
+    {
       "musico": "cobham",
       "nombre": "Billy Cobham",
-      "instrumento": "batería"
+      "instrumento": "percusión, timbales sinfónicos, batería, piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Glenn Ferris",
+      "instrumento": "trombón bajo, trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Milcho Leviev",
+      "instrumento": "teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Cornell Dupree",
+      "instrumento": "guitarra",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "David Earle Johnson",
+      "instrumento": "congas",
+      "nota": "temas 5"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "fusion"
   ],
@@ -49,10 +91,16 @@
     "Fusión densa y muy técnica. Cobham toca la batería con los Brecker y Abercrombie, en temas de fusión. Está entre los discos esenciales de Billy Cobham."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "f4931229-1c57-3e3a-9f96-61a11bf92af8",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 99dbf6f5-e0b8-4151-bd41-517a587ff674 (1974)."
+    }
+  ]
 }

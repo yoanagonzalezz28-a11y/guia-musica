@@ -36,12 +36,112 @@
   "sello": "Mack Avenue",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Richard Bona",
+      "instrumento": "bajo, featured artist, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Ariel Bringuez",
+      "instrumento": "clarinete, flauta, sax, sax"
+    },
+    {
+      "musico": null,
+      "nombre": "Ganavya Doraiswamy",
+      "instrumento": "featured artist, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Ibeyi",
+      "instrumento": "featured artist, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Randall Kennedy",
+      "instrumento": "creative director"
+    },
+    {
+      "musico": null,
+      "nombre": "Antonio Lizana",
+      "instrumento": "arreglos, featured artist, voz"
+    },
+    {
+      "musico": "maalouf",
+      "nombre": "Ibrahim Maalouf",
+      "instrumento": "featured artist, trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Michael Olivera",
+      "instrumento": "arreglos, batería, percusión"
+    },
+    {
+      "musico": "piazzolla",
+      "nombre": "Astor Piazzolla",
+      "instrumento": "composer"
+    },
+    {
       "musico": "alfredo-rodriguez",
       "nombre": "Alfredo Rodríguez",
-      "instrumento": "piano"
+      "instrumento": "arreglos, composer, melodion, piano, primary artist, sintetizador, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Reiner Elizarde Ruano",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Johann Sebastian Bach",
+      "instrumento": "composer"
+    },
+    {
+      "musico": null,
+      "nombre": "Georges Coulonges",
+      "instrumento": "composer"
+    },
+    {
+      "musico": null,
+      "nombre": "Eliseo Grenet",
+      "instrumento": "composer"
+    },
+    {
+      "musico": null,
+      "nombre": "Simon Helpert",
+      "instrumento": "composer"
+    },
+    {
+      "musico": null,
+      "nombre": "Albert Lasry",
+      "instrumento": "composer"
+    },
+    {
+      "musico": null,
+      "nombre": "Ernesto Lecuona",
+      "instrumento": "composer"
+    },
+    {
+      "musico": null,
+      "nombre": "Gerardo Alfonso Morejón",
+      "instrumento": "composer"
+    },
+    {
+      "musico": null,
+      "nombre": "Francisco Repilado",
+      "instrumento": "composer"
+    },
+    {
+      "musico": null,
+      "nombre": "Silvio Rodríguez",
+      "instrumento": "composer"
+    },
+    {
+      "musico": null,
+      "nombre": "Ben Soussan",
+      "instrumento": "composer"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "latino"
   ],
@@ -52,9 +152,15 @@
     "musicbrainz": "2bb52176-af70-4c4b-9faf-edfaba17673c",
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Tocororo_(album)"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Tocororo (album)\"."
+    }
+  ],
   "temas": [
     {
       "titulo": "Chan Chan",

@@ -34,12 +34,47 @@
   "sello": "Gondwana",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Gavin Barras",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Nat Birchall",
+      "instrumento": "saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Luke Flowers",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Rachael Gladwin",
+      "instrumento": "arpa"
+    },
+    {
       "musico": "halsall",
       "nombre": "Matthew Halsall",
-      "instrumento": "trompeta, composición"
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Keiko Kitamura",
+      "instrumento": "koto"
+    },
+    {
+      "musico": null,
+      "nombre": "Lisa Mallett",
+      "instrumento": "flauta"
+    },
+    {
+      "musico": null,
+      "nombre": "Taz Modi",
+      "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -52,7 +87,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición c2dda8ee-672c-446d-8375-7318c547de36 (2014-06-16)."
+    }
+  ],
   "temas": [
     {
       "titulo": "When the World Was One",

@@ -1,0 +1,100 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7pyMVbIw7GW24pEge8ufbC",
+    "tituloEnSpotify": "Cloudward",
+    "via": "api-spotify"
+  },
+  "id": "cloudward",
+  "titulo": "Cloudward",
+  "credito": "Mary Halvorson",
+  "lideres": [
+    "mary-halvorson"
+  ],
+  "grabacion": {
+    "desde": 2024,
+    "hasta": 2024,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2024,
+    "detalle": null
+  },
+  "sello": "Nonesuch",
+  "musicos": [
+    {
+      "musico": null,
+      "nombre": "Patricia Brennan",
+      "instrumento": "vibráfono"
+    },
+    {
+      "musico": null,
+      "nombre": "Nick Dunston",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Jacob Garchik",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": "mary-halvorson",
+      "nombre": "Mary Halvorson",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Adam O’Farrill",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Tomas Fujiwara",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Laurie Anderson",
+      "instrumento": "violín",
+      "nota": "temas 6"
+    }
+  ],
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "El mismo sexteto de *Amaryllis*, con temas más compactos y luminosos. Confirma a Halvorson como una de las compositoras más personales del jazz actual. Es uno de los discos que el banco elige para conocer a Mary Halvorson."
+  ],
+  "ids": {
+    "musicbrainz": "fbe80a15-ecfa-456b-b102-0ea497487ca7",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-mary-halvorson-pend",
+      "acceso": "extracto",
+      "aporta": "Discografía."
+    },
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 17a19a6a-d562-41c3-8836-5952038425d1 (2024-01-19)."
+    }
+  ]
+}

@@ -36,12 +36,113 @@
   "sello": "Impulse!",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Arthur Aaron",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "Henry Aaron",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "Julien Barber",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "Avron Coleman",
+      "instrumento": "cuerdas"
+    },
+    {
       "musico": "alice",
       "nombre": "Alice Coltrane",
-      "instrumento": "piano, arpa, órgano"
+      "instrumento": "órgano, arpa, percusión, piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Harry Glickman",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "Edward Green",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "Janet Hill",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "Leroy Jenkins",
+      "instrumento": "cuerdas, violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Elayne Jones",
+      "instrumento": "timbales sinfónicos"
+    },
+    {
+      "musico": null,
+      "nombre": "Joan Kalisch",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "Ronald Lipscomb",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "Frank Lowe",
+      "instrumento": "saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Seymour Miroff",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "Thomas Nickerson",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "Ben Riley",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Alan Shulman",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "Irving Spice",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "William Stone",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "Reggie Workman",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Swami Satchidananda",
+      "instrumento": "voz",
+      "nota": "temas 4, 5"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "free"
   ],
@@ -49,10 +150,16 @@
     "Arpa y órgano con cuerdas, en temas espirituales de clima cósmico. Abre con una versión de \"My Favorite Things\", el tema que John Coltrane había hecho famoso. Es uno de los discos que el banco elige para conocer a Alice Coltrane."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "47fb55c7-b8da-3527-8df3-01599a96daf1",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 75e6e3bc-32df-4a1e-bf98-1182eb7d6657 (1972)."
+    }
+  ]
 }

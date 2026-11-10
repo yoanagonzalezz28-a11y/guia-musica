@@ -34,12 +34,22 @@
   "sello": "Verve",
   "musicos": [
     {
+      "musico": "haden",
+      "nombre": "Charlie Haden",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Higgins",
+      "instrumento": "batería"
+    },
+    {
       "musico": "mseleku",
       "nombre": "Bheki Mseleku",
-      "instrumento": "piano, saxo"
+      "instrumento": "piano, guitarra, saxo tenor, voz"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -47,10 +57,16 @@
     "Piano en trío, en temas lentos y espirituales. Mseleku era sudafricano y autodidacta, y graba con Charlie Haden y Billy Higgins, que habían tocado con Ornette Coleman. Está entre los discos esenciales de Bheki Mseleku."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "e545e495-0b4d-39d5-a562-7c7b960d3eef",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 0dd8b5b0-cf6c-4bc8-b434-eed14adc549e (1995)."
+    }
+  ]
 }

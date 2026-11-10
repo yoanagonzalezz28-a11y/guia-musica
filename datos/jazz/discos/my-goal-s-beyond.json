@@ -36,12 +36,54 @@
   "sello": "Douglas",
   "musicos": [
     {
+      "musico": "cobham",
+      "nombre": "Billy Cobham",
+      "instrumento": "batería, platillos",
+      "nota": "temas 1, 2, 4, 6, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Jerry Goodman",
+      "instrumento": "violín",
+      "nota": "temas 1, 2"
+    },
+    {
+      "musico": "haden",
+      "nombre": "Charlie Haden",
+      "instrumento": "bajo",
+      "nota": "temas 1, 2"
+    },
+    {
+      "musico": null,
+      "nombre": "David Liebman",
+      "instrumento": "flauta, saxo soprano",
+      "nota": "temas 1, 2"
+    },
+    {
       "musico": "mclaughlin",
       "nombre": "John McLaughlin",
       "instrumento": "guitarra"
+    },
+    {
+      "musico": "airto",
+      "nombre": "Airto Moreira",
+      "instrumento": "percusión",
+      "nota": "temas 1, 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Badal Roy",
+      "instrumento": "tabla",
+      "nota": "temas 1, 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Mahalakshmi",
+      "instrumento": "tanpura",
+      "nota": "temas 1, 2"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "fusion"
   ],
@@ -54,7 +96,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 35ffe942-03d8-40f7-b8e9-d27719cd93a5 (1971)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Peace One",

@@ -36,12 +36,48 @@
   "sello": null,
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Juan Alarcon",
+      "instrumento": "bongós, cencerro, cajón, congas, shakers"
+    },
+    {
+      "musico": null,
+      "nombre": "Alejandro Albar",
+      "instrumento": "steel guitarra, tres, voz, guitarra clásica"
+    },
+    {
+      "musico": null,
+      "nombre": "Vicente Arencibia",
+      "instrumento": "congas, güiro, voz, shakers, timbales"
+    },
+    {
       "musico": "cobham",
       "nombre": "Billy Cobham",
-      "instrumento": "batería"
+      "instrumento": "batería, bongós"
+    },
+    {
+      "musico": null,
+      "nombre": "David Echevarria",
+      "instrumento": "güiro, maracas, voz, claves, cencerro",
+      "nota": "temas 1, 2, 4, 5, 6, 7, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Michel Padron",
+      "instrumento": "trompeta, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Michel Salazar",
+      "instrumento": "bajo, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Andres Valdes",
+      "instrumento": "guitarra clásica, voz, güiro"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "latino"
   ],
@@ -49,12 +85,18 @@
     "Ritmos de Cuba y de Panamá, su país natal. Cobham toca la batería con músicos latinos, mezclando ritmos caribeños con jazz eléctrico. Es el disco clave de Billy Cobham en la etapa \"Jazz latino\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "7647101a-c7b6-31fd-849d-0dd5ed3064b8",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición cd8ae3ea-e077-4781-bb9c-07d2bbb2c7da (2008)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Destinos",

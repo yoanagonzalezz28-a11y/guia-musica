@@ -40,9 +40,69 @@
       "musico": "barretto",
       "nombre": "Ray Barretto",
       "instrumento": "congas"
+    },
+    {
+      "musico": null,
+      "nombre": "Louie Colon",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Tony Fuentes",
+      "instrumento": "bongós"
+    },
+    {
+      "musico": null,
+      "nombre": "Jose \"Ite\" Jerez",
+      "instrumento": "fliscorno, trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Gilbert Lopez",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Roberto Rodríguez",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Joseph \"Papy\" Roman",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "“Little” Ray Romero",
+      "instrumento": "timbales"
+    },
+    {
+      "musico": null,
+      "nombre": "Artie Webb",
+      "instrumento": "flauta"
+    },
+    {
+      "musico": null,
+      "nombre": "Tito Allen",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Rubén Blades",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Tito Gómez",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Adalberto Santiago",
+      "instrumento": "voz"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "latino"
   ],
@@ -50,10 +110,16 @@
     "Con \"Guararé\": salsa dura. Barretto toca las congas al frente de una orquesta de salsa, con coros, trompetas y piano. Es uno de los discos que el banco elige para conocer a Ray Barretto."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "7778bc6a-2f2d-3716-8fe5-f0f6d9af54e3",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 80899572-3621-4deb-a957-8a876a1e8220 (1975)."
+    }
+  ]
 }

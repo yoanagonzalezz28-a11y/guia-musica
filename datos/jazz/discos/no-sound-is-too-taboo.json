@@ -37,9 +37,33 @@
       "musico": "ufo",
       "nombre": "United Future Organization",
       "instrumento": "grupo"
+    },
+    {
+      "musico": null,
+      "nombre": "Jessica Lauren",
+      "instrumento": "piano",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "笹沼位吉",
+      "instrumento": "bajo",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Gemi Taylor",
+      "instrumento": "guitarra",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Linda Muriel",
+      "instrumento": "voz",
+      "nota": "temas 2"
     }
   ],
-  "personalNota": "Lista parcial.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "acid"
   ],
@@ -47,12 +71,18 @@
     "Su disco para Talkin' Loud, el sello de Gilles Peterson: jazz bailable, bossa nova y voces invitadas. Lo editó el mismo sello que en Londres armaba la escena. Es el disco que los hizo conocidos fuera de Japón."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "26d62c0a-7ce4-3f9a-8ce0-45c4c2c1bcc3",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición cc90fc7a-ef7b-42e9-9be8-718192399b69 (1994-07-25)."
+    }
+  ],
   "fuentes": [
     "wp-united-future-organization"
   ]

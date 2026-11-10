@@ -36,12 +36,59 @@
   "sello": "Riverside",
   "musicos": [
     {
+      "musico": "barretto",
+      "nombre": "Ray Barretto",
+      "instrumento": "percusión"
+    },
+    {
       "musico": "lockjaw",
-      "nombre": "Eddie \"Lockjaw\" Davis",
+      "nombre": "Eddie “Lockjaw” Davis",
       "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Larry Gales",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Lloyd Mayers",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Ben Riley",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Ernie Royal",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Phil Sunkel",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Clark Terry",
+      "instrumento": "vientos de metal"
+    },
+    {
+      "musico": null,
+      "nombre": "John Ballo",
+      "instrumento": "trompeta",
+      "nota": "temas 3, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "John Bello",
+      "instrumento": "trompeta",
+      "nota": "temas 3, 4"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "latino"
   ],
@@ -49,10 +96,16 @@
     "Con percusión latina. El tenor de Davis, áspero y bluesero, toca sobre congas y una sección de trompetas con arreglos de Gil Lopez. Está entre los discos esenciales de Eddie \"Lockjaw\" Davis."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "5531df01-ae1a-4266-b03e-f7218a4762fd",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 16ed7362-575e-47f7-a414-087466f4b632 (1989)."
+    }
+  ]
 }

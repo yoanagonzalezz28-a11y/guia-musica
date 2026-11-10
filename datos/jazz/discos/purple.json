@@ -34,12 +34,29 @@
   "sello": "CBS/Sony",
   "musicos": [
     {
+      "musico": "cobham",
+      "nombre": "Billy Cobham",
+      "instrumento": "batería"
+    },
+    {
       "musico": "vitous",
       "nombre": "Miroslav Vitouš",
-      "instrumento": "contrabajo"
+      "instrumento": "bajo, piano eléctrico"
+    },
+    {
+      "musico": "zawinul",
+      "nombre": "Joe Zawinul",
+      "instrumento": "piano eléctrico",
+      "nota": "temas 1, 2"
+    },
+    {
+      "musico": "mclaughlin",
+      "nombre": "John McLaughlin",
+      "instrumento": "guitarra",
+      "nota": "temas 3"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "fusion"
   ],
@@ -47,10 +64,16 @@
     "Contrabajo con John McLaughlin en guitarra y Billy Cobham en batería, en un jazz eléctrico temprano. Se grabó en 1970, cuando McLaughlin y Cobham estaban en los discos eléctricos de Miles Davis. Está entre los discos esenciales de Miroslav Vitouš."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "2db43f40-2f74-32e5-8571-56a738140928",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 66cc4b0b-9f0a-4e74-8be8-d9e22acd7759 (1970)."
+    }
+  ]
 }

@@ -36,12 +36,47 @@
   "sello": "Pablo",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Irving Ashby",
+      "instrumento": "guitarra"
+    },
+    {
       "musico": "basie",
       "nombre": "Count Basie",
-      "instrumento": "piano, dirección"
+      "instrumento": "teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Louie Bellson",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Ray Brown",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": "lockjaw",
+      "nombre": "Eddie “Lockjaw” Davis",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Harry “Sweets” Edison",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "J.J. Johnson",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Zoot Sims",
+      "instrumento": "saxo tenor"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "swing"
   ],
@@ -49,10 +84,16 @@
     "Jam session con Zoot Sims y Eddie \"Lockjaw\" Davis: Basie en grupo chico. Basie toca el piano con sus típicas notas justas, y los saxofonistas invitados soplan largos solos de jam. Es uno de los discos que el banco elige para conocer a Count Basie."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "8b2d855e-12f2-336d-9f85-b9cd50f20f0d",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición ba2c49b4-1455-4080-96f5-38911ff7e004 (1975)."
+    }
+  ]
 }

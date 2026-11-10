@@ -37,12 +37,58 @@
   "sello": "Flying Dutchman",
   "musicos": [
     {
+      "musico": "abercrombie",
+      "nombre": "John Abercrombie",
+      "instrumento": "guitarra eléctrica, guitarra acústica",
+      "nota": "temas 1, 3, 5"
+    },
+    {
       "musico": "barbieri",
       "nombre": "Gato Barbieri",
-      "instrumento": "saxo tenor"
+      "instrumento": "saxo tenor, flauta, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Jean-François Jenny-Clark",
+      "instrumento": "bajo",
+      "nota": "temas 1, 2"
+    },
+    {
+      "musico": "airto",
+      "nombre": "Airto Moreira",
+      "instrumento": "percusión, batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Bernard “Pretty” Purdie",
+      "instrumento": "batería",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Lonnie Liston Smith",
+      "instrumento": "piano"
+    },
+    {
+      "musico": "sclarke",
+      "nombre": "Stanley Clarke",
+      "instrumento": "bajo",
+      "nota": "temas 2, 3, 4, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Gene Golden",
+      "instrumento": "congas",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "James Mtume",
+      "instrumento": "congas",
+      "nota": "temas 2"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "rioplat"
   ],
@@ -50,10 +96,16 @@
     "Quenas, percusiones y saxo encendido. Barbieri toca el tenor con un sonido rasposo y gritado sobre percusiones y vientos andinos. Está entre los discos esenciales de Gato Barbieri."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "c2fdb869-adf7-4e60-a94d-221893648bbf",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición f926df95-f3cb-4255-9088-6aabaefa6cd7 (1994)."
+    }
+  ]
 }

@@ -36,12 +36,81 @@
   "sello": "Prestige",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "John Carisi",
+      "instrumento": "trompeta",
+      "nota": "temas 1"
+    },
+    {
+      "musico": "chambers",
+      "nombre": "Paul Chambers",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Cleveland",
+      "instrumento": "trombón"
+    },
+    {
       "musico": "gilevans",
       "nombre": "Gil Evans",
-      "instrumento": "arreglos, piano"
+      "instrumento": "piano"
+    },
+    {
+      "musico": "jo-jones",
+      "nombre": "Jo Jones",
+      "instrumento": "batería",
+      "nota": "temas 1"
+    },
+    {
+      "musico": "konitz",
+      "nombre": "Lee Konitz",
+      "instrumento": "saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Jake Koven",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Dave Kurtzer",
+      "instrumento": "fagot"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Lacy",
+      "instrumento": "saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Willie Ruff",
+      "instrumento": "corno"
+    },
+    {
+      "musico": null,
+      "nombre": "Zeke Tolin",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Bart Varsalona",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Louis R. Mucci",
+      "instrumento": "trompeta",
+      "nota": "temas 2, 3, 4, 5, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Nick Stabulas",
+      "instrumento": "batería",
+      "nota": "temas 2, 3, 4, 5, 6, 7"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "cool"
   ],
@@ -49,10 +118,16 @@
     "Su primer disco a nombre propio: once músicos que suenan como una orquesta entera, con colores de corno y fagot. Evans escribe arreglos que juntan instrumentos poco comunes en el jazz, con Steve Lacy en saxo soprano como solista. Está entre los discos esenciales de Gil Evans."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "7ae2d64b-91b7-4ec9-ac79-f43949e62c65",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Gil_Evans_%26_Ten"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición cafc7b01-0417-4cbc-a637-07755ee2b11a (1957)."
+    }
+  ]
 }

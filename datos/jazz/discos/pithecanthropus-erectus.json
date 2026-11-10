@@ -36,12 +36,32 @@
   "sello": "Atlantic",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Willie Jones",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "mclean",
+      "nombre": "Jackie McLean",
+      "instrumento": "saxo alto"
+    },
+    {
       "musico": "mingus",
       "nombre": "Charles Mingus",
-      "instrumento": "contrabajo, composición"
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "J. R. Monterose",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Mal Waldron",
+      "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -52,10 +72,16 @@
     "Mingus lo pensó como una historia de la humanidad: el ascenso, el orgullo y la caída del hombre."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "c4d4589f-c6d0-31d1-a9cd-38e31e7cfa70",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 31efffb2-659e-4d11-8356-2d58de45b824 (1956-07)."
+    }
+  ]
 }

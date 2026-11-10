@@ -34,12 +34,32 @@
   "sello": "Pablo",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "“Sir” Roland Hanna",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Harold Jones",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "pass",
+      "nombre": "Joe Pass",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Andy Simpkins",
+      "instrumento": "contrabajo"
+    },
+    {
       "musico": "sarah",
       "nombre": "Sarah Vaughan",
       "instrumento": "voz"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "bebop"
   ],
@@ -47,10 +67,16 @@
     "Disco tardío con Joe Pass y Roland Hanna: la voz más grave y madura, con un scat de una agilidad que todavía impresiona. Vaughan canta con un trío y la guitarra de Pass, en un repertorio de estándares con mucho scat. Es uno de los discos que el banco elige para conocer a Sarah Vaughan."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "2ee51380-5d63-36f0-82ac-e5455ad78bd7",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición b4c05328-a384-4a55-9d4b-31db15b40527 (1982)."
+    }
+  ]
 }

@@ -36,12 +36,47 @@
   "sello": "ECM",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Tore Brunborg",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1, 7"
+    },
+    {
       "musico": "eick",
       "nombre": "Mathias Eick",
-      "instrumento": "trompeta"
+      "instrumento": "trompeta, vibráfono, guitarra eléctrica, contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Audun Erlien",
+      "instrumento": "bajo",
+      "nota": "temas 1, 2, 4, 5, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Torstein Lofthus",
+      "instrumento": "batería, percusión",
+      "nota": "temas 1, 2, 4, 5, 6, 7, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Gard Nilssen",
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 4, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Morten Qvenild",
+      "instrumento": "teclados",
+      "nota": "temas 1, 4, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Andreas Ulvo",
+      "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm"
   ],
@@ -49,10 +84,16 @@
     "Trompeta de sonido suave y melodías sencillas, sobre un grupo con dos baterías. Eick es noruego, y la doble batería le da a esa trompeta tranquila un empuje poco habitual en ECM. Es el disco clave de Mathias Eick en la etapa \"ECM y jazz europeo\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "9e331452-b836-4a66-94ba-84063e896e26",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición eeee3d61-e2aa-42c7-9e54-75674ce6200d (2011-03-18)."
+    }
+  ]
 }

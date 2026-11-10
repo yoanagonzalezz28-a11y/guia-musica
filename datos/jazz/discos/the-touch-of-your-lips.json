@@ -39,9 +39,19 @@
       "musico": "baker",
       "nombre": "Chet Baker",
       "instrumento": "trompeta, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Niels‐Henning Ørsted Pedersen",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Doug Raney",
+      "instrumento": "guitarra"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "cool"
   ],
@@ -54,7 +64,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 095e9b3d-8109-4433-816c-5c5f10fbce64 (1980)."
+    }
+  ],
   "temas": [
     {
       "titulo": "I waited for you",

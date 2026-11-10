@@ -1,0 +1,77 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "reino-unido"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Norma Winstone Somewhere Called Home"
+  },
+  "id": "somewhere-called-home",
+  "titulo": "Somewhere Called Home",
+  "credito": "Norma Winstone",
+  "lideres": [
+    "norma-winstone"
+  ],
+  "grabacion": {
+    "desde": 1987,
+    "hasta": 1987,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1987,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": null,
+      "nombre": "Tony Coe",
+      "instrumento": "cañas"
+    },
+    {
+      "musico": null,
+      "nombre": "John Taylor",
+      "instrumento": "piano"
+    },
+    {
+      "musico": "norma-winstone",
+      "nombre": "Norma Winstone",
+      "instrumento": "voz"
+    }
+  ],
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "Voz, piano y clarinete o saxo, en canciones lentas y muy despojadas. La acompañan John Taylor en piano y Tony Coe en vientos, sin bajo ni batería. Es el disco clave de Norma Winstone en la etapa \"ECM y jazz europeo\"."
+  ],
+  "ids": {
+    "musicbrainz": "b4ecc498-250f-4ced-b130-8388eccc77c8",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-norma-winstone",
+      "acceso": "extracto",
+      "aporta": "Cantante y letrista, colaboradora de John Taylor."
+    },
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición d6d890de-07c8-4305-9d2c-d6aab09d53bc (1987)."
+    }
+  ]
+}

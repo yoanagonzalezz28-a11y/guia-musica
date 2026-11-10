@@ -39,9 +39,25 @@
       "musico": "wasilewski",
       "nombre": "Marcin Wasilewski",
       "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Slawomir Kurkiewicz",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Michal Miskiewicz",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Joakim Milder",
+      "instrumento": "saxo tenor",
+      "nota": "temas tracks 2–4, 6 & 8"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "ecm"
   ],
@@ -52,7 +68,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Spark_of_Life_(album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Spark of Life (album)\"."
+    }
+  ]
 }

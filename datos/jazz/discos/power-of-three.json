@@ -34,12 +34,22 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": "jim-hall",
+      "nombre": "Jim Hall",
+      "instrumento": "guitarra"
+    },
+    {
       "musico": "petrucciani",
       "nombre": "Michel Petrucciani",
       "instrumento": "piano"
+    },
+    {
+      "musico": "shorter",
+      "nombre": "Wayne Shorter",
+      "instrumento": "saxo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -47,10 +57,16 @@
     "Piano, guitarra y saxo, sin bajo ni batería, en un trío de mucha conversación. Se grabó en vivo en el Festival de Montreux de 1986, con Jim Hall y Wayne Shorter como invitados de Petrucciani. Está entre los discos esenciales de Michel Petrucciani."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "391748c2-ac79-31b0-be38-372bac45311d",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 156a59af-886c-4168-bbca-9a68f6fbd5c9 (1987)."
+    }
+  ]
 }

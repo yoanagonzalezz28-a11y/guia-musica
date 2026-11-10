@@ -36,12 +36,35 @@
   "sello": "Impulse!",
   "musicos": [
     {
+      "musico": "avishai",
+      "nombre": "Avishai Cohen",
+      "instrumento": "bajo"
+    },
+    {
       "musico": "danilo-perez",
       "nombre": "Danilo Pérez",
-      "instrumento": "piano, composición"
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Jeffrey “Tain” Watts",
+      "instrumento": "batería",
+      "nota": "temas 2, 4, 6, 7"
+    },
+    {
+      "musico": "carrington",
+      "nombre": "Terri Lyne Carrington",
+      "instrumento": "batería",
+      "nota": "temas 3, 5, 8, 9, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Olga Román",
+      "instrumento": "voz",
+      "nota": "temas 8"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "latino"
   ],
@@ -49,10 +72,16 @@
     "Pérez toca temas de Monk en trío, sobre ritmos panameños que les cambian el paso. Pérez nació en Panamá, y el trío lo completan Avishai Cohen en contrabajo y Jeff \"Tain\" Watts en batería. En la ficha de Danilo Pérez es el disco que representa la etapa \"Jazz latino\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "809f14f8-9866-3761-bd81-106066e53124",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 5b9711cb-fd79-4c2f-bf9b-d0d3034bf5a7 (1996)."
+    }
+  ]
 }

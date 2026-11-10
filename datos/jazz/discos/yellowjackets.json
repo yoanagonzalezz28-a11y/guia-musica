@@ -39,9 +39,83 @@
       "musico": "yellowjackets",
       "nombre": "Yellowjackets",
       "instrumento": "grupo"
+    },
+    {
+      "musico": null,
+      "nombre": "Lenny Castro",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Paulinho da Costa",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Russell Ferrante",
+      "instrumento": "teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Robben Ford",
+      "instrumento": "guitarra",
+      "nota": "temas 1, 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Haslip",
+      "instrumento": "bajo, bajo eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Gary Herbig",
+      "instrumento": "flauta, saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Jerry Hey",
+      "instrumento": "trompeta, fliscorno"
+    },
+    {
+      "musico": null,
+      "nombre": "Kim Hutchcroft",
+      "instrumento": "saxo barítono, saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Ricky Lawson",
+      "instrumento": "batería, percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Bill Reichenbach, Jr.",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Ernie Watts",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Larry Williams",
+      "instrumento": "flauta, saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Roland Bautista",
+      "instrumento": "guitarra",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Bobby Lyle",
+      "instrumento": "piano",
+      "nota": "temas 3"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "fusion"
   ],
@@ -49,12 +123,18 @@
     "Su debut: fusión melódica y funk. Los Yellowjackets tocan fusión con teclados, bajo y saxo, en temas melódicos. En la ficha de Yellowjackets es el disco que representa la etapa \"Fusión\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "0935271b-02b6-33a7-9baf-7981b4558947",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 9452fcc3-7189-4d42-a71c-18d9abe36193 (1981-06)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Matinee Idol",

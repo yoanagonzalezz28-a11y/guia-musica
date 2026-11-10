@@ -36,12 +36,47 @@
   "sello": "Bee Hive",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Keith Copland",
+      "instrumento": "batería",
+      "nota": "temas 1, 3, 4, 5, 6, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Al Gafa",
+      "instrumento": "guitarra eléctrica"
+    },
+    {
+      "musico": null,
+      "nombre": "Victor Gaskin",
+      "instrumento": "bajo",
+      "nota": "temas 1, 3, 4, 5, 6, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Taylor",
+      "instrumento": "piano",
+      "nota": "temas 1, 3, 4, 5, 6, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Frank Wess",
+      "instrumento": "flauta, saxo tenor",
+      "nota": "temas 1, 3, 4, 5, 6, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Wilder",
+      "instrumento": "fliscorno, trompeta",
+      "nota": "temas 1, 3, 4, 5, 6, 8, 9"
+    },
+    {
       "musico": "hartman",
       "nombre": "Johnny Hartman",
       "instrumento": "voz"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "modal"
   ],
@@ -49,10 +84,16 @@
     "Su voz grave, al final de su carrera. Hartman canta baladas con su voz grave, en un grupo pequeño. Está entre los discos esenciales de Johnny Hartman."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "bd938da6-96ad-440f-8f96-0b573fb9d20c",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición a3dab666-f4d3-4ea4-9691-eb4b3e007bbe (1980)."
+    }
+  ]
 }

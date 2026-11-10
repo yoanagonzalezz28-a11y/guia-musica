@@ -37,9 +37,21 @@
       "musico": "tony-allen",
       "nombre": "Tony Allen",
       "instrumento": "batería"
+    },
+    {
+      "musico": "fela",
+      "nombre": "Fela Kuti",
+      "instrumento": "piano, saxo tenor",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Africa 70",
+      "instrumento": "músico",
+      "nota": "temas 2"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -47,10 +59,16 @@
     "La batería de Allen lleva un afrobeat con vientos y un groove más abierto y suelto. Allen todavía era el baterista de Fela Kuti, y en sus discos propios probaba ese afrobeat más liviano. Es uno de los discos que el banco elige para conocer a Tony Allen."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "027e8f25-5634-4751-9a1a-0d318d8f338a",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 24299aec-45c1-4e0c-addd-a2efe391fb3b (1977)."
+    }
+  ]
 }

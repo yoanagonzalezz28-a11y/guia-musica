@@ -36,12 +36,27 @@
   "sello": "Moodsville",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Ernie Farrow",
+      "instrumento": "contrabajo, rebab"
+    },
+    {
+      "musico": null,
+      "nombre": "Barry Harris",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Lex Humphries",
+      "instrumento": "batería"
+    },
+    {
       "musico": "lateef",
       "nombre": "Yusef Lateef",
-      "instrumento": "saxo tenor, flauta, oboe"
+      "instrumento": "flauta, oboe, saxo tenor"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -54,7 +69,13 @@
     "wikidata": null,
     "wikipedia": "Eastern_Sounds"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición d14ba5ec-7241-4898-8a25-5330a4539f21 (1961-09-05)."
+    }
+  ],
   "temas": [
     {
       "titulo": "The Plum Blossom - Remastered 2023",

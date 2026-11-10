@@ -34,12 +34,28 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "André Ceccarelli",
+      "instrumento": "percusión"
+    },
+    {
       "musico": "lagrene",
       "nombre": "Biréli Lagrène",
       "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Niels‐Henning Ørsted Pedersen",
+      "instrumento": "contrabajo guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Dominique Di Piazza",
+      "instrumento": "bajo eléctrico",
+      "nota": "temas 12"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "manouche"
   ],
@@ -47,10 +63,16 @@
     "Lagrène toca estándares en trío, con mucha velocidad y un fraseo que viene de Django Reinhardt. Lagrène empezó de chico como heredero de Django, y acá, con veintipico de años, se mueve hacia el jazz moderno. Está entre los discos esenciales de Biréli Lagrène."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "c6081f70-f67a-3b78-8b80-73bf7639ed07",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 706a372b-c978-4c0c-8df9-e6837a9344ff (1992)."
+    }
+  ]
 }

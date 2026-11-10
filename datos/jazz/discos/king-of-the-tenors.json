@@ -36,12 +36,54 @@
   "sello": "Norgran",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Ray Brown",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "benny-carter",
+      "nombre": "Benny Carter",
+      "instrumento": "saxo alto",
+      "nota": "temas 1, 2, 3, 4, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Harry “Sweets” Edison",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 2, 3, 4, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "J.C. Heard",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Barney Kessel",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": "peterson",
+      "nombre": "Oscar Peterson",
+      "instrumento": "piano"
+    },
+    {
       "musico": "webster",
       "nombre": "Ben Webster",
       "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Herb Ellis",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Alvin Stoller",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "swing"
   ],
@@ -49,10 +91,16 @@
     "Con Oscar Peterson, Benny Carter y Harry Edison: Webster en su mejor forma después de Ellington. Webster toca el saxo tenor con un sonido grande y suave, con vibrato amplio, en baladas y temas medios. Es uno de los discos que el banco elige para conocer a Ben Webster."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "0270593d-afa1-3d0f-a4ea-aa604c5c2685",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición b163eeb6-2eae-4fef-932b-d0eda8d728af (1953)."
+    }
+  ]
 }

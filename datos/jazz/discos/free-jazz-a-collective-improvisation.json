@@ -38,10 +38,45 @@
     {
       "musico": "ornette",
       "nombre": "Ornette Coleman",
-      "instrumento": "saxo alto, trompeta, violín"
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": "cherry",
+      "nombre": "Don Cherry",
+      "instrumento": "pocket corneta"
+    },
+    {
+      "musico": null,
+      "nombre": "Scott LaFaro",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Higgins",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "dolphy",
+      "nombre": "Eric Dolphy",
+      "instrumento": "clarinete bajo"
+    },
+    {
+      "musico": "hubbard",
+      "nombre": "Freddie Hubbard",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": "haden",
+      "nombre": "Charlie Haden",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Ed Blackwell",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "free"
   ],
@@ -54,5 +89,11 @@
     "wikidata": null,
     "wikipedia": "Free_Jazz:_A_Collective_Improvisation"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Free Jazz: A Collective Improvisation\"."
+    }
+  ]
 }

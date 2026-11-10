@@ -176,5 +176,9 @@
       "duracion": 171
     }
   ],
-  "temasFuente": "Spotify"
+  "temasFuente": "Spotify",
+  "recopilacion": {
+    "desde": 1947,
+    "hasta": 1948
+  }
 }

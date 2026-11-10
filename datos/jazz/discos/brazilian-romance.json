@@ -39,9 +39,63 @@
       "musico": "sarah",
       "nombre": "Sarah Vaughan",
       "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Marcio Montarroyos",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Tom Scott",
+      "instrumento": "saxo tenor, Lyricon",
+      "nota": "temas 1, 3"
+    },
+    {
+      "musico": "milton",
+      "nombre": "Milton Nascimento",
+      "instrumento": "voz",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Chuck Domanico",
+      "instrumento": "bajo",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Ernie Watts",
+      "instrumento": "saxo alto",
+      "nota": "temas 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Hubert Laws",
+      "instrumento": "flauta",
+      "nota": "temas 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Siedah Garrett",
+      "instrumento": "voz",
+      "nota": "temas 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Gracinha Leporace",
+      "instrumento": "voz",
+      "nota": "temas 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Kate Markowitz",
+      "instrumento": "voz",
+      "nota": "temas 10"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "brasil"
   ],
@@ -49,10 +103,16 @@
     "Canciones de Milton Nascimento y Dori Caymmi. Vaughan canta canciones brasileñas en inglés, producido por Sergio Mendes, con una voz todavía impresionante. Es el disco clave de Sarah Vaughan en la etapa \"Jazz brasileño\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "8f37c748-b6b4-31f6-8bd7-da9875ea045b",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición e8144de7-42d7-35ee-bb8b-a5fca056f45d (1987)."
+    }
+  ]
 }

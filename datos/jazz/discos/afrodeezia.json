@@ -35,12 +35,204 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Adam Agati",
+      "instrumento": "guitarra, guitarra eléctrica",
+      "nota": "temas 1, 2, 4, 5, 6, 7, 8, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Louis Cato",
+      "instrumento": "batería, voz, djembé, batería machine",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 8, 9, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Adama Bilorou Dembele",
+      "instrumento": "percusión, voz",
+      "nota": "temas 1, 2, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Alex Han",
+      "instrumento": "saxo alto, saxo soprano",
+      "nota": "temas 1, 2, 4, 5, 6, 7, 8, 9, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Guimba Kouyate",
+      "instrumento": "guitarra acústica, voz",
+      "nota": "temas 1, 2, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Lee Hogans",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 4, 6, 8, 9"
+    },
+    {
       "musico": "marcus-miller",
       "nombre": "Marcus Miller",
-      "instrumento": "bajo eléctrico, producción"
+      "instrumento": "bajo eléctrico, voz, clarinete bajo, guembri, contrabajo guitarra, piano, guitarra eléctrica, bajo sin trastes, mbira, piano eléctrico Rhodes, sintetizador"
+    },
+    {
+      "musico": null,
+      "nombre": "Brett Williams",
+      "instrumento": "piano, piano eléctrico Rhodes",
+      "nota": "temas 1, 2, 4, 6, 7, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Chérif Soumano",
+      "instrumento": "voz, kora",
+      "nota": "temas 1, 2, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Alune Wade",
+      "instrumento": "voz",
+      "nota": "temas 1, 3, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Etienne Charles",
+      "instrumento": "trompeta, percusión",
+      "nota": "temas 2, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Cory Henry",
+      "instrumento": "órgano",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Alvin Chea",
+      "instrumento": "voz",
+      "nota": "temas 3, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Lalah Hathaway",
+      "instrumento": "voz",
+      "nota": "temas 3, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Julia Sarr",
+      "instrumento": "voz",
+      "nota": "temas 3"
+    },
+    {
+      "musico": "glasper",
+      "nombre": "Robert Glasper",
+      "instrumento": "piano eléctrico Rhodes",
+      "nota": "temas 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Marco Lobo",
+      "instrumento": "percusión",
+      "nota": "temas 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Aline Cabral",
+      "instrumento": "voz",
+      "nota": "temas 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Andrea Dutra",
+      "instrumento": "voz",
+      "nota": "temas 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Christiane Correa Tristao",
+      "instrumento": "voz",
+      "nota": "temas 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Cliff Barnes",
+      "instrumento": "órgano, piano",
+      "nota": "temas 5, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Munyungo Jackson",
+      "instrumento": "percusión",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Keb’ Mo’",
+      "instrumento": "guitarra",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Michael “Patches” Stewart",
+      "instrumento": "trompeta",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Melvin “Wah Wah” Watson",
+      "instrumento": "guitarra eléctrica",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Lamumba Henry",
+      "instrumento": "percusión, djembé",
+      "nota": "temas 6, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Ben Hong",
+      "instrumento": "violonchelo",
+      "nota": "temas 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Robert Greenidge",
+      "instrumento": "steel pan",
+      "nota": "temas 7"
+    },
+    {
+      "musico": "akinmusire",
+      "nombre": "Ambrose Akinmusire",
+      "instrumento": "trompeta",
+      "nota": "temas 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Michael Doucet",
+      "instrumento": "violín",
+      "nota": "temas 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Roddie Romero",
+      "instrumento": "acordeón",
+      "nota": "temas 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Mocean Worker",
+      "instrumento": "piano eléctrico Rhodes, guitarra, bajo eléctrico",
+      "nota": "temas 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Chuck D",
+      "instrumento": "músico",
+      "nota": "temas 11"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "fusion"
   ],
@@ -48,10 +240,16 @@
     "Inspirado en la ruta de los esclavos: música africana y funk. Miller lleva su bajo eléctrico por músicas de África, el Caribe y Estados Unidos, con músicos de cada lugar. Está entre los discos esenciales de Marcus Miller."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "0cb2b83f-2ac9-4ef6-a615-4da0db97b97f",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 2b4a5377-8dd1-4345-9346-a6024049f0e7 (2015)."
+    }
+  ]
 }

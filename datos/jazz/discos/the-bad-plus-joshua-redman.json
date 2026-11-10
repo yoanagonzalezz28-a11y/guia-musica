@@ -39,9 +39,29 @@
       "musico": "bad-plus",
       "nombre": "The Bad Plus",
       "instrumento": "grupo"
+    },
+    {
+      "musico": null,
+      "nombre": "Reid Anderson",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Ethan Iverson",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Dave King",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": "redman",
+      "nombre": "Joshua Redman",
+      "instrumento": "saxo tenor"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -49,12 +69,18 @@
     "Piano, contrabajo, batería y el saxo tenor de Redman, en temas propios del grupo. Redman no entra como solista invitado sino como un cuarto integrante, y los cuatro aportan composiciones. Es uno de los discos que el banco elige para conocer a The Bad Plus."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "82d8a913-f56f-4aec-9447-0bfe86c8b04b",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición ee3bcf1a-03d9-427a-a1c5-c531cb9be9fd (2015-05-26)."
+    }
+  ],
   "temas": [
     {
       "titulo": "As This Moment Slips Away",

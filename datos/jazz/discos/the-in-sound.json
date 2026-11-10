@@ -35,12 +35,33 @@
   "sello": "Atlantic",
   "musicos": [
     {
+      "musico": "ronc",
+      "nombre": "Ron Carter",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Ray Codrington",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 4, 6"
+    },
+    {
       "musico": "eddie-harris",
       "nombre": "Eddie Harris",
-      "instrumento": "saxo tenor, saxo eléctrico"
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Higgins",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "walton",
+      "nombre": "Cedar Walton",
+      "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -48,10 +69,16 @@
     "Con \"Freedom Jazz Dance\". Harris toca el saxo tenor con un sonido agudo y suave, en temas propios con un grupo de hard bop. En la ficha de Eddie Harris es el disco que representa la etapa \"Hard bop\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "cdb32ef9-3039-30eb-b643-92dbb2a6d407",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición a8003032-a6ce-4a09-b203-c70b8b0bd8b9 (1965-08-30)."
+    }
+  ]
 }

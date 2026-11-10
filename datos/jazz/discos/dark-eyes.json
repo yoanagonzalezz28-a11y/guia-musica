@@ -36,12 +36,32 @@
   "sello": "ECM",
   "musicos": [
     {
+      "musico": "bro",
+      "nombre": "Jakob Bro",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Olavi Louhivuori",
+      "instrumento": "percusión, batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Alexi Tuomarila",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Anders Christensen",
+      "instrumento": "bajo"
+    },
+    {
       "musico": "stanko",
       "nombre": "Tomasz Stańko",
-      "instrumento": "trompeta, composición"
+      "instrumento": "trompeta"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm"
   ],
@@ -49,10 +69,16 @@
     "Con músicos daneses y finlandeses: su sonido maduro y melancólico. Stańko toca la trompeta con un sonido oscuro y frases largas, sobre un grupo con guitarra eléctrica que deja mucho espacio. Es uno de los discos que el banco elige para conocer a Tomasz Stańko."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "d6c44657-e3ba-439b-903a-4f2f0dc734d3",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 21f85991-7d8c-48e7-9269-25b2cc484971 (2009-10-26)."
+    }
+  ]
 }

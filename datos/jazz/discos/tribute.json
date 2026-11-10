@@ -38,10 +38,30 @@
     {
       "musico": "motian",
       "nombre": "Paul Motian",
-      "instrumento": "batería, composición"
+      "instrumento": "batería, percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Carlos Ward",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Sam Brown",
+      "instrumento": "acoustic and electric guitarras"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Metzke",
+      "instrumento": "guitarra eléctrica"
+    },
+    {
+      "musico": "haden",
+      "nombre": "Charlie Haden",
+      "instrumento": "bajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "ecm"
   ],
@@ -52,9 +72,15 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Tribute_(Paul_Motian_album)"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Tribute (Paul Motian album)\"."
+    }
+  ],
   "temas": [
     {
       "titulo": "Victoria",

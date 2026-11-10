@@ -36,12 +36,37 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": "blakey",
+      "nombre": "Art Blakey",
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 3, 4"
+    },
+    {
+      "musico": "chambers",
+      "nombre": "Paul Chambers",
+      "instrumento": "contrabajo",
+      "nota": "temas 1, 2, 3, 4"
+    },
+    {
+      "musico": "hubbard",
+      "nombre": "Freddie Hubbard",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 2, 3, 4"
+    },
+    {
+      "musico": "wynton-kelly",
+      "nombre": "Wynton Kelly",
+      "instrumento": "piano",
+      "nota": "temas 1, 2, 3, 4"
+    },
+    {
       "musico": "mobley",
       "nombre": "Hank Mobley",
-      "instrumento": "saxo tenor"
+      "instrumento": "saxo tenor",
+      "nota": "temas 1, 2, 3, 4"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -49,12 +74,18 @@
     "Hard bop enérgico, con Freddie Hubbard en trompeta y Art Blakey en batería. Lo grabó meses después de *Soul Station*, con la misma base de Wynton Kelly y Paul Chambers, pero con más empuje. Está entre los discos esenciales de Hank Mobley."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "1468f24c-9f59-45cd-ab89-554f829ebe69",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Roll_Call_(album)"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición d317bb8d-d00f-4e3c-935c-8f24b3cfce4e (1960)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Roll Call - Rudy Van Gelder Edition",

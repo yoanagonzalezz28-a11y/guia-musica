@@ -36,12 +36,32 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Pepper Adams",
+      "instrumento": "saxo barítono"
+    },
+    {
       "musico": "byrd",
       "nombre": "Donald Byrd",
       "instrumento": "trompeta"
+    },
+    {
+      "musico": "hancock",
+      "nombre": "Herbie Hancock",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Higgins",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Butch Warren",
+      "instrumento": "bajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -49,12 +69,18 @@
     "Con Pepper Adams y Herbie Hancock: hard bop elegante. Byrd toca la trompeta con Adams en saxo barítono y Hancock en piano, en temas elegantes. Es el disco clave de Donald Byrd en la etapa \"Hard bop en Blue Note\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "65fea999-31df-3a3b-a9a5-d6c88aebc8e8",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición eae40598-4d4e-4059-a090-ba0a5bf901e3 (1961-09-21)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Hush - Remastered 2006",

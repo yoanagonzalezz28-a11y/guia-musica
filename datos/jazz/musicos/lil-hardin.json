@@ -1,0 +1,52 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "lil-hardin",
+  "nombre": "Lil Hardin Armstrong",
+  "nacimiento": {
+    "anio": 1898,
+    "lugar": "Memphis"
+  },
+  "muerte": {
+    "anio": 1971
+  },
+  "instrumentos": [
+    "piano",
+    "composición",
+    "dirección"
+  ],
+  "corrientes": [
+    "origenes"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/5YBvQCeoo49EF0KVPYlFHj",
+  "resumen": "Pianista, compositora y directora de Memphis. Tocó en la Creole Jazz Band de King Oliver y en los Hot Five de Louis Armstrong, con quien estuvo casada.",
+  "epocas": [
+    {
+      "titulo": "Orígenes",
+      "desde": 1923,
+      "hasta": 1928,
+      "texto": "",
+      "discoClave": {
+        "disco": "hot-fives",
+        "explicacion": "El piano de los Hot Five, el grupo con el que Armstrong cambió el jazz."
+      },
+      "discos": [
+        "creole-jazz-band"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-lil-hardin"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "hot-fives",
+    "creole-jazz-band"
+  ]
+}

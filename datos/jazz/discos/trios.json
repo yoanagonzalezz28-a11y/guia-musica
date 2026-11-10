@@ -38,10 +38,20 @@
     {
       "musico": "carla",
       "nombre": "Carla Bley",
-      "instrumento": "piano, órgano, composición"
+      "instrumento": "piano"
+    },
+    {
+      "musico": "sheppard",
+      "nombre": "Andy Sheppard",
+      "instrumento": "saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Swallow",
+      "instrumento": "bajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm"
   ],
@@ -54,7 +64,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 1930f6a1-a506-4e04-a15e-3929b89e4c9b (2013)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Útviklingssang",

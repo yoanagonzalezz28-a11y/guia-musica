@@ -35,12 +35,91 @@
   "sello": "JCOA",
   "musicos": [
     {
+      "musico": "barbieri",
+      "nombre": "Gato Barbieri",
+      "instrumento": "saxo tenor",
+      "nota": "temas 2-4"
+    },
+    {
       "musico": "carla",
       "nombre": "Carla Bley",
-      "instrumento": "piano, órgano, composición"
+      "instrumento": "piano",
+      "nota": "temas 2-4"
+    },
+    {
+      "musico": null,
+      "nombre": "John Buckingham",
+      "instrumento": "tuba",
+      "nota": "temas 2-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Sharon Freeman",
+      "instrumento": "corno",
+      "nota": "temas 2-4"
+    },
+    {
+      "musico": "haden",
+      "nombre": "Charlie Haden",
+      "instrumento": "contrabajo, voz",
+      "nota": "temas 2-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Jack Jeffers",
+      "instrumento": "trombón bajo",
+      "nota": "temas 2-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Lyons",
+      "instrumento": "saxo alto",
+      "nota": "temas 2-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Michael Mantler",
+      "instrumento": "trompeta",
+      "nota": "temas 2-4"
+    },
+    {
+      "musico": "mclaughlin",
+      "nombre": "John McLaughlin",
+      "instrumento": "guitarra eléctrica",
+      "nota": "temas 2-4"
+    },
+    {
+      "musico": "motian",
+      "nombre": "Paul Motian",
+      "instrumento": "batería",
+      "nota": "temas 2-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Perry Robinson",
+      "instrumento": "clarinete",
+      "nota": "temas 2-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Roswell Rudd",
+      "instrumento": "trombón",
+      "nota": "temas 2-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Chris Woods",
+      "instrumento": "saxo barítono",
+      "nota": "temas 2-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Linda Ronstadt",
+      "instrumento": "voz",
+      "nota": "temas 2-4"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "free"
   ],
@@ -48,10 +127,16 @@
     "Ópera de jazz en tres discos. Bley compone una obra larga con textos de Paul Haines, con músicos de jazz, rock y una orquesta. Es uno de los discos que el banco elige para conocer a Carla Bley."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "9ead7ee2-e0ed-3b2e-94e9-09b379102b84",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 1eb54676-e618-412e-a148-73571f3a60c4 (1971)."
+    }
+  ]
 }

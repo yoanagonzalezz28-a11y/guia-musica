@@ -39,9 +39,42 @@
       "musico": "nubya",
       "nombre": "Nubya Garcia",
       "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Armon‐Jones",
+      "instrumento": "piano"
+    },
+    {
+      "musico": "moses-boyd",
+      "nombre": "Moses Boyd",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Daniel Casimir",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Femi Koloeso",
+      "instrumento": "batería",
+      "nota": "temas 1, 3, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Sheila Maurice‐Grey",
+      "instrumento": "trompeta",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Theon Cross",
+      "instrumento": "tuba",
+      "nota": "temas 3, 6"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -49,10 +82,16 @@
     "Saxo tenor con un grupo londinense, en temas de jazz moderno con raíces caribeñas. Fue su debut, en el sello Jazz re:freshed, que impulsó a la nueva escena de Londres. Es uno de los discos que el banco elige para conocer a Nubya Garcia."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "2e3e9ded-7ea9-4556-9afc-bcd5a006ff9e",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 97ec29d4-5927-4a8f-907d-1d71fda9c53f (2017-05-09)."
+    }
+  ]
 }

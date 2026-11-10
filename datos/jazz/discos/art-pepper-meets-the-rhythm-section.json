@@ -36,12 +36,27 @@
   "sello": "Contemporary",
   "musicos": [
     {
+      "musico": "chambers",
+      "nombre": "Paul Chambers",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "garland",
+      "nombre": "Red Garland",
+      "instrumento": "piano"
+    },
+    {
+      "musico": "philly-joe-jones",
+      "nombre": "Philly Joe Jones",
+      "instrumento": "batería"
+    },
+    {
       "musico": "pepper",
       "nombre": "Art Pepper",
       "instrumento": "saxo alto"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "cool"
   ],
@@ -54,7 +69,13 @@
     "wikidata": null,
     "wikipedia": "Art_Pepper_Meets_the_Rhythm_Section"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 54f00402-27b4-4a32-9097-53139d390a1a (1957)."
+    }
+  ],
   "temas": [
     {
       "titulo": "You'd Be So Nice to Come Home To",

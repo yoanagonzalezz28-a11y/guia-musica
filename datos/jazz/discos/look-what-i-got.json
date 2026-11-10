@@ -1,0 +1,115 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Betty Carter Look What I Got!"
+  },
+  "id": "look-what-i-got",
+  "titulo": "Look What I Got!",
+  "credito": "Betty Carter",
+  "lideres": [
+    "betty-carter"
+  ],
+  "grabacion": {
+    "desde": 1988,
+    "hasta": 1988,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1988,
+    "detalle": null
+  },
+  "sello": "Verve",
+  "musicos": [
+    {
+      "musico": null,
+      "nombre": "Michael Bowie",
+      "instrumento": "bajo",
+      "nota": "temas 1, 3, 4, 5, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Don Braden",
+      "instrumento": "saxo",
+      "nota": "temas 1, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Benny Green",
+      "instrumento": "piano",
+      "nota": "temas 1, 3, 4, 5, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Winard Harper",
+      "instrumento": "batería",
+      "nota": "temas 1, 3, 4, 5, 6, 7"
+    },
+    {
+      "musico": "betty-carter",
+      "nombre": "Betty Carter",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Ira Coleman",
+      "instrumento": "bajo",
+      "nota": "temas 2, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Lewis Nash",
+      "instrumento": "batería",
+      "nota": "temas 2, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Stephen Scott",
+      "instrumento": "piano",
+      "nota": "temas 2, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Troy Davis",
+      "instrumento": "batería",
+      "nota": "temas 8"
+    }
+  ],
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
+  "corrientes": [
+    "neotrad"
+  ],
+  "comentario": [
+    "Su voz con un grupo de músicos jóvenes, en temas propios y estándares muy transformados. Ganó un Grammy, y por su banda pasaron muchos pianistas y bateristas que después hicieron carrera. Es uno de los discos que el banco elige para conocer a Betty Carter."
+  ],
+  "ids": {
+    "musicbrainz": "31728cdf-406a-32ac-87e6-77ac29de9c2f",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-betty-carter",
+      "acceso": "extracto",
+      "aporta": "Grammy y su banda como escuela."
+    },
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición b3a3b43b-0afd-47b2-af58-67714ff57721 (1988)."
+    }
+  ]
+}

@@ -37,9 +37,21 @@
       "musico": "ufo",
       "nombre": "United Future Organization",
       "instrumento": "grupo"
+    },
+    {
+      "musico": "galliano",
+      "nombre": "Galliano",
+      "instrumento": "voz",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "MONDAY満ちる",
+      "instrumento": "voz",
+      "nota": "temas 8"
     }
   ],
-  "personalNota": "Lista parcial.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "acid"
   ],
@@ -47,12 +59,18 @@
     "El primer disco del trío de Tokio: samples de jazz, ritmos latinos y bases electrónicas para la pista de baile. Muestra que la escena del acid jazz no era solo londinense. Fue uno de los puntos de partida del nu jazz japonés."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "71bc35f8-252d-3cd9-810a-707739d41cdb",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 286f4816-408e-4fca-bc3e-efef7ba2e4fc (1993)."
+    }
+  ],
   "fuentes": [
     "wp-united-future-organization"
   ]

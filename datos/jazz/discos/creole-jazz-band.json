@@ -58,14 +58,9 @@
       "instrumento": "trombón"
     },
     {
-      "musico": null,
+      "musico": "lil-hardin",
       "nombre": "Lil Hardin Armstrong",
       "instrumento": "piano"
-    },
-    {
-      "musico": "dodds",
-      "nombre": "Johnny Dodds",
-      "instrumento": "clarinete"
     }
   ],
   "personalNota": "Lista parcial: faltan la base rítmica y las variantes de cada sesión.",
@@ -155,5 +150,9 @@
       "duracion": 166
     }
   ],
-  "temasFuente": "Spotify"
+  "temasFuente": "Spotify",
+  "recopilacion": {
+    "desde": 1923,
+    "hasta": 1923
+  }
 }

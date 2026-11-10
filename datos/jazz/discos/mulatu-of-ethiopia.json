@@ -37,9 +37,51 @@
       "musico": "mulatu",
       "nombre": "Mulatu Astatke",
       "instrumento": "vibráfono, percusión, teclados y arreglos"
+    },
+    {
+      "musico": null,
+      "nombre": "ሙላቱ አስታጥቄ",
+      "instrumento": "piano",
+      "nota": "temas 1, 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Fèqadu Amdè‐Mesqel",
+      "instrumento": "flauta, saxo",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Mogès Habté",
+      "instrumento": "saxo",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Temare Haregu",
+      "instrumento": "batería",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Giovanni Rico",
+      "instrumento": "bajo eléctrico",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Yohannes Tekola",
+      "instrumento": "trompeta",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Andrew Wilson",
+      "instrumento": "guitarra",
+      "nota": "temas 3"
     }
   ],
-  "personalNota": "No pudimos confirmar el resto del grupo en fuentes abiertas.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -62,6 +104,11 @@
       "fuente": "db-mulatu",
       "acceso": "completa",
       "aporta": "Howard Mandel, en DownBeat, oye en él a Ellington, Sun Ra, James Brown y Eddie Palmieri."
+    },
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición f64dc9c1-661c-4f23-be86-9281c5ff4c57 (1972)."
     }
   ],
   "temas": [

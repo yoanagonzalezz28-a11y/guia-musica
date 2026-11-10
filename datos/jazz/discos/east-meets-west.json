@@ -38,11 +38,76 @@
   "musicos": [
     {
       "musico": "abdul-malik",
-      "nombre": "Ahmed Abdul-Malik",
-      "instrumento": "contrabajo, oud"
+      "nombre": "Ahmed Abdul‐Malik",
+      "instrumento": "oud"
+    },
+    {
+      "musico": "golson",
+      "nombre": "Benny Golson",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Johnny Griffin",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1, 2, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Al Harewood",
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 4, 5, 6, 7, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Naim Karacand",
+      "instrumento": "violín",
+      "nota": "temas 1, 2, 3, 5"
+    },
+    {
+      "musico": "morgan",
+      "nombre": "Lee Morgan",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 2, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Jakarawan Nasseur",
+      "instrumento": "viola",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Curtis Fuller",
+      "instrumento": "trombón",
+      "nota": "temas 4, 6, 7, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Jerome Richardson",
+      "instrumento": "flauta",
+      "nota": "temas 4, 6, 7, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Bilal Abdurahman",
+      "instrumento": "músico",
+      "nota": "temas 1, 2, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Mike Hemway",
+      "instrumento": "músico",
+      "nota": "temas 1, 2, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Ahmed Yetman",
+      "instrumento": "músico",
+      "nota": "temas 1, 2, 3, 5"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -50,10 +115,16 @@
     "Con Lee Morgan y Johnny Griffin: el jazz con escalas árabes y percusión de Medio Oriente. Abdul-Malik toca el oud y el contrabajo en temas que mezclan jazz con música de Medio Oriente. Está entre los discos esenciales de Ahmed Abdul-Malik."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "ab745250-4313-4219-af89-cfbd6db4288c",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 49ef814b-8df3-4e01-a144-050c5b9acaa5 (1960)."
+    }
+  ]
 }

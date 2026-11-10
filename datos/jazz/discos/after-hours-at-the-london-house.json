@@ -36,12 +36,48 @@
   "sello": "Mercury",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Ronnell Bright",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Henry Coker",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Wendell Culley",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Richard Davis",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "haynes",
+      "nombre": "Roy Haynes",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Thad Jones",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Frank Wess",
+      "instrumento": "saxo tenor"
+    },
+    {
       "musico": "sarah",
       "nombre": "Sarah Vaughan",
-      "instrumento": "voz"
+      "instrumento": "voz",
+      "nota": "temas 3, 4, 5, 6"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "bebop"
   ],
@@ -49,10 +85,16 @@
     "Otro club, otra noche, con músicos de la orquesta de Basie. Vaughan canta estándares con un pequeño grupo en un club de Chicago, entre bromas al público y solos de la banda. Está entre los discos esenciales de Sarah Vaughan."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "6e1169c9-405f-32a2-94cf-479127291ce3",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 3a3cf7a8-c54c-309b-9372-d694234072ba (1959)."
+    }
+  ]
 }

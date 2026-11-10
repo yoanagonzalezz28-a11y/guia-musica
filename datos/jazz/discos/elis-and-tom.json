@@ -36,12 +36,66 @@
   "sello": "Philips",
   "musicos": [
     {
+      "musico": "elis",
+      "nombre": "Elis Regina",
+      "instrumento": "voz"
+    },
+    {
       "musico": "jobim",
       "nombre": "Antônio Carlos Jobim",
-      "instrumento": "piano, guitarra, composición"
+      "instrumento": "voz, piano, arrangement, guitarra",
+      "nota": "temas 1, 6, 12, 14, 4, 6–8, 11–14"
+    },
+    {
+      "musico": null,
+      "nombre": "César Camargo Mariano",
+      "instrumento": "piano, piano eléctrico, arreglos",
+      "nota": "temas 1, 2, 5, 3, 9, 11, 13, except 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Hélio Delmiro",
+      "instrumento": "guitarra, guitarra eléctrica",
+      "nota": "temas 1, 3, 9, 2, 5, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Oscar Castro-Neves",
+      "instrumento": "guitarra",
+      "nota": "temas 1–3, 5, 9, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Luizão Maia",
+      "instrumento": "bajo",
+      "nota": "temas 1–3, 5, 9, 11, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Paulo Braga",
+      "instrumento": "batería",
+      "nota": "temas 1–3, 5, 9, 11, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Bill Hitchcock",
+      "instrumento": "dirección of string section",
+      "nota": "temas 1, 6, 8, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Hubert Laws and Jerome Richardson",
+      "instrumento": "flauta",
+      "nota": "temas 1, 5, 6, 13; uncredited"
+    },
+    {
+      "musico": null,
+      "nombre": "Chico Batera",
+      "instrumento": "percusión",
+      "nota": "temas 11"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "brasil"
   ],
@@ -52,7 +106,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Elis_&_Tom"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Elis & Tom\"."
+    }
+  ]
 }

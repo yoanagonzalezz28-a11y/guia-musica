@@ -34,12 +34,22 @@
   "sello": "Milestone",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Jimmy Cobb",
+      "instrumento": "batería"
+    },
+    {
       "musico": "wynton-kelly",
       "nombre": "Wynton Kelly",
       "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Ron McClure",
+      "instrumento": "contrabajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -47,10 +57,16 @@
     "Trío de sus últimos años. Kelly toca el piano en trío con un swing muy relajado y su típico toque alegre y bluesero. Es uno de los discos que el banco elige para conocer a Wynton Kelly."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "744c5a7d-832f-4649-b832-0ef487419ccd",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 8cf0cb13-273f-464a-b132-0df2f8d283f9 (1968)."
+    }
+  ]
 }

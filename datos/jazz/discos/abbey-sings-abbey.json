@@ -34,12 +34,39 @@
   "sello": "Verve",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Larry Campbell",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "Scott Colley",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Shawn Pelton",
+      "instrumento": "percusión"
+    },
+    {
       "musico": "abbey",
       "nombre": "Abbey Lincoln",
-      "instrumento": "voz, composición"
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Dave Eggar",
+      "instrumento": "violonchelo",
+      "nota": "temas 4, 7, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Gil Goldstein",
+      "instrumento": "acordeón",
+      "nota": "temas 4, 7, 11"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -47,10 +74,16 @@
     "Sus propias canciones, revisitadas al final de su vida con una voz gastada y conmovedora. Los arreglos son despojados y acústicos, y dejan toda la atención en la voz y en las letras. Es el disco clave de Abbey Lincoln en la etapa \"Jazz de hoy\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "945b81ad-8d3b-3200-8cc7-fd8145016d06",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición a5df9b9a-2a33-4380-959c-d90343454cda (2007-05)."
+    }
+  ]
 }

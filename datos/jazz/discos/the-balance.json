@@ -36,12 +36,56 @@
   "sello": "Gearbox",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Lance Bryant",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Cleave Guyton",
+      "instrumento": "flauta, saxo alto, flautín",
+      "nota": "temas 1, 2, 3, 4, 6, 8, 10"
+    },
+    {
       "musico": "ibrahim",
       "nombre": "Abdullah Ibrahim",
-      "instrumento": "piano, composición"
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Noah Jackson",
+      "instrumento": "contrabajo, violonchelo",
+      "nota": "temas 1, 2, 3, 4, 6, 8, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Marshall McDonald",
+      "instrumento": "saxo barítono"
+    },
+    {
+      "musico": null,
+      "nombre": "Andrae Murchison",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Will Terrill",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Alec Dankworth",
+      "instrumento": "contrabajo",
+      "nota": "temas 3, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Adam Glasser",
+      "instrumento": "armónica",
+      "nota": "temas 10"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -54,7 +98,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 6b77ac06-d043-4611-8944-9deee26ebb12 (2019-06-28)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Dreamtime",

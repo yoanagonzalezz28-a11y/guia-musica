@@ -38,10 +38,80 @@
     {
       "musico": "esperanza",
       "nombre": "Esperanza Spalding",
-      "instrumento": "contrabajo, voz, composición"
+      "instrumento": "voz, contrabajo, bajo eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Matt Stevens",
+      "instrumento": "guitarra, bajo eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Justin Tyson",
+      "instrumento": "batería, órgano, sintetizadores, voz, beats & programación"
+    },
+    {
+      "musico": null,
+      "nombre": "Aaron Burnett",
+      "instrumento": "saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Burniss Travis",
+      "instrumento": "bajo eléctrico, contrabajo, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Corey King",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Rob Schwimmer",
+      "instrumento": "continuum"
+    },
+    {
+      "musico": null,
+      "nombre": "Eric Reed",
+      "instrumento": "corno"
+    },
+    {
+      "musico": null,
+      "nombre": "Laura Weiner",
+      "instrumento": "corno"
+    },
+    {
+      "musico": null,
+      "nombre": "Brandon Ridenour",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "John Blevins",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Richard Harris",
+      "instrumento": "tenor/trombón bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Julietta Curenton",
+      "instrumento": "flauta, flautín"
+    },
+    {
+      "musico": null,
+      "nombre": "Katie Hyun",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Sami Merdinian",
+      "instrumento": "violín"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "hoy"
   ],
@@ -52,9 +122,15 @@
     "musicbrainz": "00974814-f612-4c1c-8b94-5f60be0c988b",
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "12_Little_Spells"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"12 Little Spells\"."
+    }
+  ],
   "temas": [
     {
       "titulo": "12 Little Spells (thoracic spine)",

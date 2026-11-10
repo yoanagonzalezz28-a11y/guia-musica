@@ -37,9 +37,19 @@
       "musico": "aldana",
       "nombre": "Melissa Aldana",
       "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Francisco Mela",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Pablo Menares",
+      "instrumento": "bajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -47,12 +57,18 @@
     "Saxo tenor sólido y fluido en trío sin piano, con Pablo Menares y Francisco Mela. Fue su primer disco para un sello grande, como premio por haber ganado el concurso Thelonious Monk. En la ficha de Melissa Aldana es el disco que representa la etapa \"Jazz de hoy\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "4942a904-5a9e-4695-8f63-97ccbb190a7f",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición a48870ac-85ed-4cf2-b65e-2e4257827152 (2014)."
+    }
+  ],
   "temas": [
     {
       "titulo": "M&M",

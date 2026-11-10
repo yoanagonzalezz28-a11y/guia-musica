@@ -38,7 +38,7 @@
     {
       "musico": "larry-young",
       "nombre": "Larry Young",
-      "instrumento": "órgano Hammond"
+      "instrumento": "órgano Hammond, órgano"
     },
     {
       "musico": null,
@@ -54,11 +54,6 @@
       "musico": "elvin",
       "nombre": "Elvin Jones",
       "instrumento": "batería"
-    },
-    {
-      "musico": "larry-young",
-      "nombre": "Larry Young",
-      "instrumento": "órgano"
     }
   ],
   "corrientes": [

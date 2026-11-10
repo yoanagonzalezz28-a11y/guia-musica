@@ -38,10 +38,49 @@
     {
       "musico": "benny-carter",
       "nombre": "Benny Carter",
-      "instrumento": "saxo alto, trompeta, arreglos"
+      "instrumento": "saxo alto, trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Barney Kessel",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Shelly Manne",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "André Previn",
+      "instrumento": "piano",
+      "nota": "temas 1, 4, 5, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Frank Rosolino",
+      "instrumento": "trombón",
+      "nota": "temas 1, 4, 5, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Leroy Vinnegar",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "webster",
+      "nombre": "Ben Webster",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1, 4, 5, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Rowles",
+      "instrumento": "piano",
+      "nota": "temas 2, 3"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "swing"
   ],
@@ -49,10 +88,16 @@
     "Con Ben Webster y André Previn: el alto más fluido del swing. Carter toca el saxo alto con un sonido limpio y fluido, en un grupo de la costa oeste con Barney Kessel y Shelly Manne. Es uno de los discos que el banco elige para conocer a Benny Carter."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "0b0bcd45-ef72-3d17-bb82-885bbaff231e",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición c43c5bf5-6c4c-490d-aad1-b0daaac6f1ff (1958)."
+    }
+  ]
 }

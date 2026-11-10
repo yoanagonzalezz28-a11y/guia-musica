@@ -34,12 +34,27 @@
   "sello": "Limelight",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Han Bennink",
+      "instrumento": "batería"
+    },
+    {
       "musico": "dolphy",
       "nombre": "Eric Dolphy",
-      "instrumento": "saxo alto, clarinete bajo, flauta"
+      "instrumento": "clarinete bajo, flauta, saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Misha Mengelberg",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Jacques Schols",
+      "instrumento": "contrabajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "free"
   ],
@@ -47,10 +62,16 @@
     "Grabado en Holanda semanas antes de su muerte: termina con su voz hablando de la música. Dolphy toca saxo alto, flauta y clarinete bajo con un trío holandés, en temas propios y de Monk. Es uno de los discos que el banco elige para conocer a Eric Dolphy."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "f23f022a-5e10-3604-a7c0-fc8260c712e4",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Last_Date"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 4b565bcc-fab2-4092-9b04-9bcab8c0e492 (1965)."
+    }
+  ]
 }

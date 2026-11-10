@@ -23,7 +23,7 @@
     "waller"
   ],
   "grabacion": {
-    "desde": 1943,
+    "desde": 1929,
     "hasta": 1943,
     "detalle": null
   },
@@ -52,5 +52,10 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "recopilacion": {
+    "desde": 1929,
+    "hasta": 1943,
+    "original": "Los temas salieron primero en discos de 78 rpm."
+  }
 }

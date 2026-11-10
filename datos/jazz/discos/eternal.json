@@ -36,12 +36,27 @@
   "sello": "Marsalis Music",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Joey Calderazzo",
+      "instrumento": "piano"
+    },
+    {
       "musico": "branford",
       "nombre": "Branford Marsalis",
       "instrumento": "saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Eric Revis",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Jeffrey “Tain” Watts",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "neotrad"
   ],
@@ -49,10 +64,16 @@
     "Baladas con su cuarteto, con un sonido de saxo suave y lleno. Salió por Marsalis Music, el sello que fundó Branford, con el cuarteto de Joey Calderazzo, Eric Revis y Jeff \"Tain\" Watts. Es uno de los discos que el banco elige para conocer a Branford Marsalis."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "8d9adf5d-d011-3b3d-ba28-6f25f2203dcf",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 23dafc3e-ed1d-4632-bb65-958becc947bf (2004)."
+    }
+  ]
 }

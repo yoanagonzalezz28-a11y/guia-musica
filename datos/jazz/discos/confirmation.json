@@ -37,9 +37,19 @@
       "musico": "flanagan",
       "nombre": "Tommy Flanagan",
       "instrumento": "piano"
+    },
+    {
+      "musico": "elvin",
+      "nombre": "Elvin Jones",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "George Mraz",
+      "instrumento": "contrabajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "bebop"
   ],
@@ -47,10 +57,16 @@
     "Trío con George Mraz y Elvin Jones: temas de Parker y estándares. Flanagan toca el piano con un toque muy elegante y una gran claridad en temas del bebop. Es uno de los discos que el banco elige para conocer a Tommy Flanagan."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "5005c93c-bbd3-3b0d-b683-977d6e50e80d",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 07056a30-4f8c-48fc-aac6-7850258883b4 (1999)."
+    }
+  ]
 }

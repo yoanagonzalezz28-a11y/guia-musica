@@ -24,8 +24,8 @@
     "nat-cole"
   ],
   "grabacion": {
-    "desde": 1991,
-    "hasta": 1991,
+    "desde": 1942,
+    "hasta": 1961,
     "detalle": null
   },
   "edicion": {
@@ -35,12 +35,678 @@
   "sello": "Mosaic",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Red Callender",
+      "instrumento": "contrabajo",
+      "nota": "temas 1-1, 1-2, 1-13, 1-14, 1-19"
+    },
+    {
       "musico": "nat-cole",
       "nombre": "Nat King Cole",
-      "instrumento": "piano, voz"
+      "instrumento": "piano, voz, upright piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Oscar Moore",
+      "instrumento": "guitarra, voz",
+      "nota": "temas 1-1, 1-2, 1-3, 1-4, 1-5, 1-6, 1-7, 1-8, 1-9, 1-10, 1-11, 1-12, 1-13, 1-14, 1-15, 1-16, 1-17, 1-18, 1-19, 2-1, 2-2, 2-3, 2-4, 2-5, 2-6, 2-7, 2-8, 2-9, 2-10, 2-11, 2-12, 2-13, 2-14, 2-15, 2-16, 2-17, 2-18, 2-19, 3-1, 3-2, 3-3, 3-4, 3-5, 3-6, 3-7, 3-8, 3-9, 3-10, 3-11, 3-12, 3-13, 3-14, 3-15, 3-16, 3-17, 3-18, 3-19, 4-1, 4-2, 4-3, 4-4, 4-5, 4-6, 4-7, 4-8, 4-9, 4-10, 4-11, 4-12, 4-13, 4-14, 4-15, 4-16, 4-17, 4-18, 4-19, 4-20, 5-1, 5-2, 5-3, 5-4, 5-5, 5-6, 5-7, 5-8, 5-9, 5-10, 5-11, 5-12, 5-13, 5-14, 5-15, 5-16, 5-17, 5-18, 5-19, 6-1, 6-2, 6-3, 6-4, 6-5, 6-6, 6-7, 6-8, 6-9, 6-10, 6-11, 6-12, 6-13, 6-14, 6-15, 6-16, 6-17, 6-18, 6-19, 7-1, 7-2, 7-3, 7-4, 7-5, 7-6, 7-7, 7-8, 7-9, 7-10, 7-11, 7-12, 7-13, 7-14, 7-15, 7-16, 7-17, 7-18, 8-1, 8-2, 8-3, 8-4, 8-5, 8-6, 8-7, 8-8, 8-9, 8-10, 8-11, 8-12, 8-13, 8-14, 8-15, 8-16, 8-17, 8-18, 8-19, 9-1, 9-2, 9-3, 9-4, 9-5, 9-6, 9-7, 9-8, 9-9, 9-10, 9-11, 9-12, 9-13, 9-14, 9-15, 9-16, 9-17, 9-18, 9-19, 10-1, 10-2, 10-3, 10-4, 10-5, 10-6, 10-7, 10-8, 10-9, 10-10, 10-11, 10-12, 10-13, 10-14, 10-15, 10-16, 10-17, 10-18, 10-19"
+    },
+    {
+      "musico": null,
+      "nombre": "Johnny Miller",
+      "instrumento": "contrabajo, voz, bajo",
+      "nota": "temas 1-3, 1-4, 1-5, 1-6, 1-7, 1-8, 1-9, 1-10, 1-11, 1-12, 1-13, 1-14, 1-15, 1-16, 1-17, 1-18, 1-19, 2-1, 2-2, 2-3, 2-4, 2-5, 2-6, 2-7, 2-8, 2-9, 2-10, 2-11, 2-12, 2-13, 2-14, 2-15, 2-16, 2-17, 2-18, 2-19, 3-1, 3-2, 3-3, 3-4, 3-5, 3-6, 3-7, 3-8, 3-9, 3-10, 3-11, 3-12, 3-13, 3-14, 3-15, 3-16, 3-17, 3-18, 3-19, 4-1, 4-2, 4-3, 4-4, 4-5, 4-6, 4-7, 4-8, 4-9, 4-10, 4-11, 4-12, 4-13, 4-14, 4-15, 4-16, 4-17, 4-18, 4-19, 4-20, 5-1, 5-2, 5-3, 5-4, 5-5, 5-6, 5-7, 5-8, 5-9, 5-10, 5-11, 5-12, 5-13, 5-14, 5-15, 5-16, 5-17, 5-18, 5-19, 6-1, 6-2, 6-3, 6-4, 6-5, 6-6, 6-7, 6-8, 6-9, 6-10, 6-11, 6-12, 6-13, 6-14, 6-15, 6-16, 6-17, 6-18, 6-19, 7-1, 7-2, 7-3, 7-4, 7-5, 7-6, 7-7, 7-8, 7-9, 7-10, 7-11, 7-12, 7-13, 7-14, 7-15, 7-16, 7-17, 7-18, 8-1, 8-2, 8-3, 8-4, 8-5, 8-6, 8-7, 8-8, 8-9, 8-10, 8-11, 8-12, 8-13, 8-14, 8-15, 8-16, 8-17, 8-18, 8-19, 9-1, 9-2, 9-3, 9-4, 9-5, 9-6, 9-7, 9-8, 9-9, 9-10, 9-11, 9-12, 9-13, 9-14, 9-15, 9-16, 9-17, 9-18, 9-19, 10-1, 10-2, 10-3, 10-4, 10-5, 10-6, 10-7, 10-8, 10-9, 10-10, 10-11, 10-12, 10-13, 10-14, 10-15, 10-16, 10-17, 10-18, 10-19, 11-1, 11-2, 11-3, 11-4, 11-5, 11-6, 11-7, 11-8, 11-9, 11-10, 11-11, 11-12, 11-13, 11-14, 11-15, 11-16, 11-17, 11-18, 11-19, 11-20, 12-1, 12-2, 12-3, 12-4, 12-5, 12-6, 12-7, 12-8, 12-9, 12-10, 12-11, 12-12, 12-13, 12-14, 12-15, 12-16"
+    },
+    {
+      "musico": null,
+      "nombre": "Jack Parker",
+      "instrumento": "batería",
+      "nota": "temas 7-7, 7-8, 7-9"
+    },
+    {
+      "musico": null,
+      "nombre": "Charles R. Grean",
+      "instrumento": "dirección",
+      "nota": "temas 7-8"
+    },
+    {
+      "musico": null,
+      "nombre": "Buddy Cole",
+      "instrumento": "celesta, piano",
+      "nota": "temas 9-17, 9-18, 10-5, 16-10, 16-11, 16-12, 16-13, 16-14, 17-5, 17-6, 17-8"
+    },
+    {
+      "musico": null,
+      "nombre": "Johnny Moore",
+      "instrumento": "guitarra",
+      "nota": "temas 10-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Johnny Mercer",
+      "instrumento": "voz",
+      "nota": "temas 10-1, 10-2, 10-3, 10-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Frank De Vol",
+      "instrumento": "dirección",
+      "nota": "temas 10-5, 10-6, 10-7, 10-8"
+    },
+    {
+      "musico": null,
+      "nombre": "Harry Bluestone",
+      "instrumento": "violín",
+      "nota": "temas 10-5, 10-6, 10-7, 10-8, 17-8"
+    },
+    {
+      "musico": null,
+      "nombre": "Jules Kinsler",
+      "instrumento": "cañas, flauta",
+      "nota": "temas 10-5, 10-6, 10-7, 10-8, 17-8"
+    },
+    {
+      "musico": null,
+      "nombre": "Frank De Vol and His Orchestra",
+      "instrumento": "orquesta",
+      "nota": "temas 10-7"
+    },
+    {
+      "musico": null,
+      "nombre": "Pinto Colvig",
+      "instrumento": "efectos",
+      "nota": "temas 10-9, 10-10, 10-11"
+    },
+    {
+      "musico": null,
+      "nombre": "Irving Ashby",
+      "instrumento": "guitarra, percusión",
+      "nota": "temas 11-1, 11-2, 11-3, 11-4, 11-5, 11-6, 11-7, 11-8, 11-9, 11-10, 11-11, 11-12, 11-13, 11-14, 11-15, 11-16, 11-17, 11-18, 11-19, 11-20, 12-1, 12-2, 12-3, 12-4, 12-5, 12-6, 12-7, 12-8, 12-9, 12-10, 12-11, 12-12, 12-13, 12-14, 12-15, 12-16, 12-17, 12-18, 12-19, 12-20, 13-1, 13-2, 13-3, 13-4, 13-5, 13-6, 13-7, 13-8, 13-9, 13-10, 13-11, 13-12, 13-13, 13-14, 13-15, 13-16, 13-17, 13-18, 13-19, 13-20, 14-1, 14-2, 14-3, 14-4, 14-5, 14-6, 14-7, 14-8, 14-9, 14-10, 14-11, 14-12, 14-13, 14-14, 14-15, 14-16, 14-18, 14-19, 14-20, 14-21, 15-1, 15-2, 15-3, 15-4, 15-5, 15-6, 15-7, 15-8, 15-9, 15-10, 15-11, 15-12, 15-13, 15-14, 15-15, 15-16, 15-17, 15-18, 15-20, 16-1, 16-2, 16-3, 16-4, 16-5, 16-6, 16-7, 16-8, 16-9"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Comfort",
+      "instrumento": "contrabajo, bajo",
+      "nota": "temas 12-17, 12-18, 12-19, 12-20, 13-1, 13-2, 13-3, 13-4, 13-5, 13-6, 13-7, 13-8, 13-9, 13-10, 13-11, 13-12, 13-13, 13-14, 13-15, 13-16, 13-17, 13-18, 13-19, 13-20, 14-1, 14-2, 14-3, 14-4, 14-5, 14-6, 14-7, 14-8, 14-9, 14-10, 14-11, 14-12, 14-13, 14-14, 14-15, 14-16, 14-18, 14-19, 14-20, 14-21, 15-1, 15-2, 15-3, 15-4, 15-5, 15-6, 15-7, 15-8, 15-9, 15-10, 15-11, 15-12, 15-13, 15-14, 15-15, 15-16, 15-17, 15-18, 15-20, 16-1, 16-2, 16-3, 16-4, 16-5, 16-6, 16-7, 16-8, 16-9"
+    },
+    {
+      "musico": null,
+      "nombre": "Carlyle Hall",
+      "instrumento": "dirección",
+      "nota": "temas 13-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Jack Costanzo",
+      "instrumento": "bongós, congas, percusión",
+      "nota": "temas 13-5, 13-6, 13-8, 13-9, 13-12, 13-13, 13-14, 13-15, 13-16, 13-17, 14-1, 14-2, 14-4, 14-7, 14-8, 14-9, 14-10, 14-11, 14-13, 14-14, 14-15, 14-16, 14-17, 14-18, 14-19, 15-4, 15-5, 15-9, 15-10, 15-12, 15-13, 15-14, 15-15, 15-16, 15-18, 15-19, 15-20, 16-1, 16-2, 16-6, 16-7, 16-8, 16-10, 16-11, 16-12, 16-16, 16-17, 17-1, 17-2, 17-5, 17-6, 18-3, 18-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Pete Rugolo",
+      "instrumento": "dirección",
+      "nota": "temas 13-8, 13-9, 15-17, 15-20, 16-3, 16-4, 16-5, 16-6, 16-10, 16-11, 16-12, 16-13, 16-14"
+    },
+    {
+      "musico": null,
+      "nombre": "Maria Cole",
+      "instrumento": "voz",
+      "nota": "temas 14-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Gene Orloff",
+      "instrumento": "violín",
+      "nota": "temas 14-18"
+    },
+    {
+      "musico": null,
+      "nombre": "Woody Herman",
+      "instrumento": "voz",
+      "nota": "temas 14-18, 14-19"
+    },
+    {
+      "musico": null,
+      "nombre": "Charlie Barnet",
+      "instrumento": "saxo tenor",
+      "nota": "temas 14-20, 14-21"
+    },
+    {
+      "musico": null,
+      "nombre": "Earl Hyde",
+      "instrumento": "batería",
+      "nota": "temas 14-20, 14-21"
+    },
+    {
+      "musico": null,
+      "nombre": "Ernie Royal",
+      "instrumento": "trompeta",
+      "nota": "temas 14-20, 14-21"
+    },
+    {
+      "musico": null,
+      "nombre": "Nellie Lutcher",
+      "instrumento": "voz",
+      "nota": "temas 14-20, 14-21"
+    },
+    {
+      "musico": null,
+      "nombre": "Lee Young",
+      "instrumento": "batería",
+      "nota": "temas 15-4, 15-5, 15-15, 15-16, 17-5, 17-6, 17-8, 17-9, 17-10, 17-11, 17-12, 17-13, 17-14, 17-15, 17-16, 17-17, 17-18, 17-19, 17-20, 18-1, 18-2, 18-3, 18-4, 18-5, 18-6, 18-7, 18-8, 18-9, 18-10, 18-13"
+    },
+    {
+      "musico": null,
+      "nombre": "Stan Kenton and His Orchestra",
+      "instrumento": "orquesta",
+      "nota": "temas 15-18, 15-19"
+    },
+    {
+      "musico": null,
+      "nombre": "Laurindo Almeida",
+      "instrumento": "guitarra",
+      "nota": "temas 15-19"
+    },
+    {
+      "musico": null,
+      "nombre": "Don Bagley",
+      "instrumento": "contrabajo",
+      "nota": "temas 15-19"
+    },
+    {
+      "musico": null,
+      "nombre": "Shelly Manne",
+      "instrumento": "batería",
+      "nota": "temas 15-20, 16-10, 16-11, 16-12, 16-13, 16-14"
+    },
+    {
+      "musico": null,
+      "nombre": "Neal Hefti",
+      "instrumento": "dirección",
+      "nota": "temas 16-1, 16-2"
+    },
+    {
+      "musico": null,
+      "nombre": "Walter Benson",
+      "instrumento": "trombón",
+      "nota": "temas 16-10, 16-11, 16-12, 16-13, 16-14"
+    },
+    {
+      "musico": null,
+      "nombre": "Gus Bivona",
+      "instrumento": "saxo alto",
+      "nota": "temas 16-10, 16-11, 16-12, 16-13, 16-14"
+    },
+    {
+      "musico": null,
+      "nombre": "John Collins",
+      "instrumento": "guitarra",
+      "nota": "temas 16-10, 16-11, 16-12, 16-13, 16-14, 16-15, 16-16, 16-17, 16-18, 16-19, 17-1, 17-2, 17-3, 17-4, 17-5, 17-6, 17-7, 17-8, 17-9, 17-10, 17-11, 17-12, 17-13, 17-14, 17-15, 17-16, 17-17, 17-18, 17-19, 17-20, 18-1, 18-2, 18-3, 18-4, 18-5, 18-6, 18-7, 18-8, 18-9, 18-10, 18-11, 18-12, 18-13, 18-14, 18-15, 18-16, 18-17, 18-18, 18-19"
+    },
+    {
+      "musico": null,
+      "nombre": "Bob Cooper",
+      "instrumento": "saxo tenor",
+      "nota": "temas 16-10, 16-11, 16-12, 16-13, 16-14"
+    },
+    {
+      "musico": null,
+      "nombre": "Chuck Gentry",
+      "instrumento": "saxo barítono",
+      "nota": "temas 16-10, 16-11, 16-12, 16-13, 16-14"
+    },
+    {
+      "musico": null,
+      "nombre": "Alex Gershonoff",
+      "instrumento": "saxo alto",
+      "nota": "temas 16-10, 16-11, 16-12, 16-13, 16-14"
+    },
+    {
+      "musico": null,
+      "nombre": "Conrad Gozzo",
+      "instrumento": "trompeta",
+      "nota": "temas 16-10, 16-11, 16-12, 16-13, 16-14"
+    },
+    {
+      "musico": null,
+      "nombre": "Charlie Harris",
+      "instrumento": "contrabajo",
+      "nota": "temas 16-10, 16-11, 16-12, 16-13, 16-14, 16-15, 16-16, 16-17, 16-18, 16-19, 17-1, 17-2, 17-3, 17-4, 17-5, 17-6, 17-7, 17-8, 17-9, 17-10, 17-11, 17-12, 17-13, 17-14, 17-15, 17-16, 17-17, 17-18, 17-19, 17-20, 18-1, 18-2, 18-3, 18-4, 18-5, 18-6, 18-7, 18-8, 18-9, 18-10, 18-11, 18-12, 18-13, 18-14, 18-15, 18-16, 18-17, 18-18, 18-19"
+    },
+    {
+      "musico": null,
+      "nombre": "Don Lodice",
+      "instrumento": "saxo tenor",
+      "nota": "temas 16-10, 16-11, 16-12, 16-13, 16-14"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Priddy",
+      "instrumento": "trombón",
+      "nota": "temas 16-10, 16-11, 16-12, 16-13, 16-14, 17-5, 17-6"
+    },
+    {
+      "musico": null,
+      "nombre": "Uan Rasey",
+      "instrumento": "trompeta",
+      "nota": "temas 16-10, 16-11, 16-12, 16-13, 16-14"
+    },
+    {
+      "musico": null,
+      "nombre": "Shorty Rogers",
+      "instrumento": "trompeta",
+      "nota": "temas 16-10, 16-11, 16-12, 16-13, 16-14"
+    },
+    {
+      "musico": null,
+      "nombre": "Joseph Triscari",
+      "instrumento": "trompeta",
+      "nota": "temas 16-10, 16-11, 16-12, 16-13, 16-14"
+    },
+    {
+      "musico": null,
+      "nombre": "Si Zentner",
+      "instrumento": "trombón",
+      "nota": "temas 16-10, 16-11, 16-12, 16-13, 16-14, 17-5, 17-6"
+    },
+    {
+      "musico": null,
+      "nombre": "Norris \"Bunny\" Shawker",
+      "instrumento": "batería, percusión",
+      "nota": "temas 16-15, 16-16, 16-17, 16-18, 16-19, 17-1, 17-2, 17-3"
+    },
+    {
+      "musico": null,
+      "nombre": "Nelson Riddle",
+      "instrumento": "dirección",
+      "nota": "temas 17-4, 17-5, 17-6, 17-7, 17-8"
+    },
+    {
+      "musico": null,
+      "nombre": "Leo Anthony",
+      "instrumento": "cañas",
+      "nota": "temas 17-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Earl Bergman",
+      "instrumento": "cañas",
+      "nota": "temas 17-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Bruce Bruckert",
+      "instrumento": "trompeta",
+      "nota": "temas 17-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Keith Butterfield",
+      "instrumento": "trombón",
+      "nota": "temas 17-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Archie Freeman",
+      "instrumento": "batería",
+      "nota": "temas 17-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Chris Griffin",
+      "instrumento": "trompeta",
+      "nota": "temas 17-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Dean Henckle",
+      "instrumento": "trompeta",
+      "nota": "temas 17-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Jack H. Laubach",
+      "instrumento": "trompeta",
+      "nota": "temas 17-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Dick Reynolds",
+      "instrumento": "trombón",
+      "nota": "temas 17-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Jim Schneider",
+      "instrumento": "cañas",
+      "nota": "temas 17-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Walter Shields",
+      "instrumento": "trombón",
+      "nota": "temas 17-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Kenneth Trimble",
+      "instrumento": "trombón",
+      "nota": "temas 17-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Usselton",
+      "instrumento": "cañas",
+      "nota": "temas 17-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Martin White",
+      "instrumento": "trompeta",
+      "nota": "temas 17-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Buddy Wise",
+      "instrumento": "cañas",
+      "nota": "temas 17-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Ray Anthony and His Orchestra",
+      "instrumento": "orquesta",
+      "nota": "temas 17-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Milt Bernhart",
+      "instrumento": "trombón",
+      "nota": "temas 17-5, 17-6, 17-8"
+    },
+    {
+      "musico": null,
+      "nombre": "Pete Candoli",
+      "instrumento": "trompeta",
+      "nota": "temas 17-5, 17-6"
+    },
+    {
+      "musico": null,
+      "nombre": "Jack Dumont",
+      "instrumento": "saxo",
+      "nota": "temas 17-5, 17-6"
+    },
+    {
+      "musico": null,
+      "nombre": "Skeets Herfurt",
+      "instrumento": "saxo",
+      "nota": "temas 17-5, 17-6"
+    },
+    {
+      "musico": null,
+      "nombre": "Manny Klein",
+      "instrumento": "trompeta",
+      "nota": "temas 17-5, 17-6"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Koch",
+      "instrumento": "saxo",
+      "nota": "temas 17-5, 17-6"
+    },
+    {
+      "musico": null,
+      "nombre": "Ed Kusby",
+      "instrumento": "trombón",
+      "nota": "temas 17-5, 17-6"
+    },
+    {
+      "musico": null,
+      "nombre": "Ted Nash",
+      "instrumento": "saxo, flauta",
+      "nota": "temas 17-5, 17-6, 17-8"
+    },
+    {
+      "musico": null,
+      "nombre": "Shorty Sherock",
+      "instrumento": "trompeta",
+      "nota": "temas 17-5, 17-6"
+    },
+    {
+      "musico": null,
+      "nombre": "Buck Skalak",
+      "instrumento": "saxo",
+      "nota": "temas 17-5, 17-6"
+    },
+    {
+      "musico": null,
+      "nombre": "Rubin \"Zeke\" Zarchy",
+      "instrumento": "trompeta",
+      "nota": "temas 17-5, 17-6"
+    },
+    {
+      "musico": null,
+      "nombre": "Nelson Riddle and His Orchestra",
+      "instrumento": "orquesta",
+      "nota": "temas 17-5, 17-6, 17-8"
+    },
+    {
+      "musico": null,
+      "nombre": "Victor Bay",
+      "instrumento": "violín",
+      "nota": "temas 17-8"
+    },
+    {
+      "musico": null,
+      "nombre": "Alex Beller",
+      "instrumento": "violín",
+      "nota": "temas 17-8"
+    },
+    {
+      "musico": null,
+      "nombre": "Cy Bernard",
+      "instrumento": "violonchelo",
+      "nota": "temas 17-8"
+    },
+    {
+      "musico": null,
+      "nombre": "Vincent DeRosa",
+      "instrumento": "corno",
+      "nota": "temas 17-8"
+    },
+    {
+      "musico": null,
+      "nombre": "Walter Edelstein",
+      "instrumento": "violín",
+      "nota": "temas 17-8"
+    },
+    {
+      "musico": null,
+      "nombre": "John Graas",
+      "instrumento": "corno",
+      "nota": "temas 17-8"
+    },
+    {
+      "musico": null,
+      "nombre": "Henry Hill",
+      "instrumento": "violín",
+      "nota": "temas 17-8"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Howard",
+      "instrumento": "trombón",
+      "nota": "temas 17-8"
+    },
+    {
+      "musico": null,
+      "nombre": "Armand Kaproff",
+      "instrumento": "violonchelo",
+      "nota": "temas 17-8"
+    },
+    {
+      "musico": null,
+      "nombre": "Lou Kievman",
+      "instrumento": "viola",
+      "nota": "temas 17-8"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Nero",
+      "instrumento": "violín",
+      "nota": "temas 17-8"
+    },
+    {
+      "musico": null,
+      "nombre": "George Roberts",
+      "instrumento": "trombón bajo",
+      "nota": "temas 17-8"
+    },
+    {
+      "musico": null,
+      "nombre": "Mischa Russell",
+      "instrumento": "violín",
+      "nota": "temas 17-8"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Shure",
+      "instrumento": "violín",
+      "nota": "temas 17-8"
+    },
+    {
+      "musico": null,
+      "nombre": "Eleanor Slatkin",
+      "instrumento": "violonchelo",
+      "nota": "temas 17-8"
+    },
+    {
+      "musico": null,
+      "nombre": "Felix Slatkin",
+      "instrumento": "violín",
+      "nota": "temas 17-8"
+    },
+    {
+      "musico": null,
+      "nombre": "Stanley Spiegelman",
+      "instrumento": "viola",
+      "nota": "temas 17-8"
+    },
+    {
+      "musico": null,
+      "nombre": "Harry Steinfeld",
+      "instrumento": "flauta",
+      "nota": "temas 17-8"
+    },
+    {
+      "musico": null,
+      "nombre": "Dave Sterkin",
+      "instrumento": "viola",
+      "nota": "temas 17-8"
+    },
+    {
+      "musico": null,
+      "nombre": "Ann Mason Stockton",
+      "instrumento": "arpa",
+      "nota": "temas 17-8"
+    },
+    {
+      "musico": null,
+      "nombre": "Gerald Vinci",
+      "instrumento": "violín",
+      "nota": "temas 17-8"
+    },
+    {
+      "musico": null,
+      "nombre": "Harry “Sweets” Edison",
+      "instrumento": "trompeta",
+      "nota": "temas 17-14, 17-15, 17-16, 17-17, 17-18"
+    },
+    {
+      "musico": null,
+      "nombre": "Willie Smith",
+      "instrumento": "saxo alto",
+      "nota": "temas 17-19, 17-20, 18-1, 18-2"
+    },
+    {
+      "musico": "tizol",
+      "nombre": "Juan Tizol",
+      "instrumento": "trombón de pistones",
+      "nota": "temas 18-3, 18-4, 18-5, 18-6"
+    },
+    {
+      "musico": null,
+      "nombre": "Stuff Smith",
+      "instrumento": "violín, violín family",
+      "nota": "temas 18-7, 18-8, 18-9, 18-10"
+    },
+    {
+      "musico": null,
+      "nombre": "Dave Cavanaugh",
+      "instrumento": "dirección",
+      "nota": "temas 18-11, 18-12"
+    },
+    {
+      "musico": null,
+      "nombre": "Anton Morelli",
+      "instrumento": "dirección",
+      "nota": "temas 18-13"
+    },
+    {
+      "musico": null,
+      "nombre": "Ralph Carmichael",
+      "instrumento": "dirección",
+      "nota": "temas 18-14, 18-16"
+    },
+    {
+      "musico": null,
+      "nombre": "The Nat King Cole Trio",
+      "instrumento": "orquesta",
+      "nota": "temas 1-11, 1-13, 1-18, 4-5, 7-10, 10-1, 10-7, 11-2, 14-4, 14-19"
+    },
+    {
+      "musico": null,
+      "nombre": "Pete Rugolo and His Orchestra",
+      "instrumento": "orquesta",
+      "nota": "temas 13-9, 16-10, 16-11, 16-12, 16-13, 16-14"
+    },
+    {
+      "musico": null,
+      "nombre": "Alyce King’s Vokettes",
+      "instrumento": "voz",
+      "nota": "temas 13-10, 13-19, 13-20"
+    },
+    {
+      "musico": null,
+      "nombre": "The Starlighters",
+      "instrumento": "voz",
+      "nota": "temas 14-11, 14-12, 15-1, 15-5"
+    },
+    {
+      "musico": null,
+      "nombre": "Nat King Cole Combo",
+      "instrumento": "orquesta",
+      "nota": "temas 14-21"
+    },
+    {
+      "musico": null,
+      "nombre": "The King Sisters",
+      "instrumento": "voz",
+      "nota": "temas 15-2, 15-3"
+    },
+    {
+      "musico": null,
+      "nombre": "Les Baxter Chorus",
+      "instrumento": "voz",
+      "nota": "temas 15-15"
+    },
+    {
+      "musico": null,
+      "nombre": "The Ray Charles Singers",
+      "instrumento": "voz",
+      "nota": "temas 16-8"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "swing"
   ],
@@ -48,10 +714,21 @@
     "Las grabaciones de su trío de los 40: piano swing de primer nivel. Cole toca el piano y canta en trío con guitarra y contrabajo, sin batería. Está entre los discos esenciales de Nat King Cole."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "801d1505-5773-35f3-a9d7-d7cdbb38492a",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 4142ea0e-cbd8-439a-8a98-5ce07a91df61 (1991)."
+    }
+  ],
+  "recopilacion": {
+    "desde": 1942,
+    "hasta": 1961,
+    "original": "Los temas salieron primero en discos de 78 rpm. Esta caja reúne todo lo que el trío grabó para Capitol."
+  }
 }

@@ -36,12 +36,72 @@
   "sello": "Riverside",
   "musicos": [
     {
+      "musico": "adderley",
+      "nombre": "Cannonball Adderley",
+      "instrumento": "saxo alto",
+      "nota": "temas 1, 2, 3, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Curtis Fuller",
+      "instrumento": "trombón",
+      "nota": "temas 1, 2, 3, 5, 6, 7"
+    },
+    {
+      "musico": "golson",
+      "nombre": "Benny Golson",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1, 2, 3, 5, 6, 7"
+    },
+    {
       "musico": "philly-joe-jones",
       "nombre": "Philly Joe Jones",
       "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Sam Jones",
+      "instrumento": "contrabajo",
+      "nota": "temas 1, 2, 5"
+    },
+    {
+      "musico": "wynton-kelly",
+      "nombre": "Wynton Kelly",
+      "instrumento": "piano",
+      "nota": "temas 1, 2, 3, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Herbie Mann",
+      "instrumento": "flauta, flautín",
+      "nota": "temas 1, 3, 6, 7"
+    },
+    {
+      "musico": "blue-mitchell",
+      "nombre": "Blue Mitchell",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 2, 5"
+    },
+    {
+      "musico": "morgan",
+      "nombre": "Lee Morgan",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 2, 3, 5, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Sahib Shihab",
+      "instrumento": "saxo barítono",
+      "nota": "temas 1, 2, 3, 5, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Garrison",
+      "instrumento": "contrabajo",
+      "nota": "temas 3, 6, 7"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -49,10 +109,16 @@
     "Big band chica con arreglos de Benny Golson: la batería como protagonista. Jones toca la batería con un grupo grande en temas que se inspiran en ritmos de varios lugares. Está entre los discos esenciales de Philly Joe Jones."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "eb26a594-2c63-3121-b420-ab2ba8be2ba8",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición cb7c3759-2da0-4a4f-b456-2e1780e6a2cd (1959)."
+    }
+  ]
 }

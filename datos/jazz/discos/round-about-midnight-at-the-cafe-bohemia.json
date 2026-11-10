@@ -34,12 +34,37 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": "burrell",
+      "nombre": "Kenny Burrell",
+      "instrumento": "guitarra"
+    },
+    {
       "musico": "dorham",
       "nombre": "Kenny Dorham",
       "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Arthur Edgehill",
+      "instrumento": "percusión, batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Sam Jones",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "J. R. Monterose",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": "timmons",
+      "nombre": "Bobby Timmons",
+      "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -47,10 +72,16 @@
     "Hard bop elegante en vivo, con trompeta, saxo y guitarra. Se grabó en el Cafe Bohemia de Nueva York con Kenny Burrell, Bobby Timmons, J.R. Monterose y Sam Jones. En la ficha de Kenny Dorham es el disco que representa la etapa \"Hard bop\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "4f16f8a8-a412-3602-8bcf-82a03d2052de",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 5a8ad861-4e89-43b1-b65f-0d83d189754f (1956)."
+    }
+  ]
 }

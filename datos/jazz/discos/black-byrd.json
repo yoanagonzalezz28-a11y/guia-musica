@@ -37,11 +37,6 @@
     },
     {
       "musico": null,
-      "nombre": "Larry Mizell",
-      "instrumento": "producción y voz"
-    },
-    {
-      "musico": null,
       "nombre": "Fonce Mizell",
       "instrumento": "trompeta y voz"
     },
@@ -59,6 +54,11 @@
       "musico": null,
       "nombre": "Harvey Mason",
       "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Larry Mizell",
+      "instrumento": "producción y voz"
     }
   ],
   "personalNota": "Lista parcial.",

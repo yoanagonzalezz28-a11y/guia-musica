@@ -36,12 +36,41 @@
   "sello": "Verve",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Larry Grenadier",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Ali Jackson",
+      "instrumento": "percusión",
+      "nota": "temas 1, 2, 6, 7, 9, 10"
+    },
+    {
+      "musico": "mehldau",
+      "nombre": "Brad Mehldau",
+      "instrumento": "piano",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 9, 10"
+    },
+    {
+      "musico": "redman",
+      "nombre": "Joshua Redman",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1, 3, 4, 5, 6, 7, 8, 9, 10"
+    },
+    {
       "musico": "rosenwinkel",
       "nombre": "Kurt Rosenwinkel",
-      "instrumento": "guitarra, composición"
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Jeff Ballard",
+      "instrumento": "percusión",
+      "nota": "temas 3, 4, 5, 8"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -49,10 +78,16 @@
     "Con Brad Mehldau y Joshua Redman. Rosenwinkel toca la guitarra con frases largas y fluidas en un grupo de lujo, con temas propios y estándares. Está entre los discos esenciales de Kurt Rosenwinkel."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "f67d77e9-cfbe-35a3-9ff4-c0c59fd9b946",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 1a39ad56-c8cb-4b90-a7b3-6426ad478baf (2005-03-01)."
+    }
+  ]
 }

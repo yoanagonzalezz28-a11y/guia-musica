@@ -17,8 +17,8 @@
     "voz"
   ],
   "corrientes": [
-    "rioplat",
-    "fusion"
+    "fusion",
+    "hoy"
   ],
   "regiones": [
     "rio-de-la-plata"
@@ -27,7 +27,7 @@
   "resumen": "Bajista y multiinstrumentista porteño, hijo del guitarrista Walter Malosetti, que mezcla jazz, funk y blues.",
   "epocas": [
     {
-      "titulo": "Jazz rioplatense",
+      "titulo": "Fusión",
       "desde": 2010,
       "hasta": 2014,
       "texto": "",

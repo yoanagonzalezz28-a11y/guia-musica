@@ -33,12 +33,42 @@
   "sello": "Warner Bros.",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Jeff Berlin",
+      "instrumento": "bajo, bajo eléctrico"
+    },
+    {
       "musico": "holdsworth",
       "nombre": "Allan Holdsworth",
       "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Chad Wackerman",
+      "instrumento": "percusión, batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Jack Bruce",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Korda",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Turano",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Williams",
+      "instrumento": "voz"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "fusion"
   ],
@@ -46,10 +76,16 @@
     "La guitarra legato de Holdsworth, con Jack Bruce en voz y Jeff Berlin en bajo, en temas de fusión. Es un EP corto, el único que grabó para Warner Bros., con Chad Wackerman en batería. Es el disco clave de Allan Holdsworth en la etapa \"Fusión\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "aaee554e-4804-3bfd-b285-bd1527404ff6",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición e79eee43-f6d7-4f48-bbb4-0b9ccf88773b (1983)."
+    }
+  ]
 }

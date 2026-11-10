@@ -39,21 +39,42 @@
     {
       "musico": "schifrin",
       "nombre": "Lalo Schifrin",
-      "instrumento": "piano, composición, arreglos"
+      "instrumento": "dirección, piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Ray Brown",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Grady Tate",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "London Philharmonic Orchestra",
+      "instrumento": "orquesta"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
-    "rioplat"
+    "neotrad"
   ],
   "comentario": [
     "Temas de jazz arreglados para orquesta sinfónica, con Ray Brown y Grady Tate como solistas. Schifrin es argentino, fue pianista de Dizzy Gillespie y después escribió para el cine, y acá junta esos mundos. Está entre los discos esenciales de Lalo Schifrin."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "768fef73-9eae-3731-9da3-b097e8814444",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 589281ee-d1cc-4032-8f86-66435542e591 (1993)."
+    }
+  ]
 }

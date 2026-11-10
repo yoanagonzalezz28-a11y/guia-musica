@@ -37,9 +37,54 @@
       "musico": "hawkins",
       "nombre": "Coleman Hawkins",
       "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Tommy Lindsay",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Guy",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Early Hardy",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Jackie Fields",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Eustis Moore",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Gene Rodgers",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "William Oscar Smith",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Arthur Herbert",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Thelma Carpenter",
+      "instrumento": "voz on \"she's funny that way\""
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "swing"
   ],
@@ -50,7 +95,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Body_and_Soul_(Coleman_Hawkins_album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Body and Soul (Coleman Hawkins album)\"."
+    }
+  ]
 }

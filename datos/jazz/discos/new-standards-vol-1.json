@@ -38,10 +38,123 @@
     {
       "musico": "carrington",
       "nombre": "Terri Lyne Carrington",
-      "instrumento": "batería, composición"
+      "instrumento": "batería"
+    },
+    {
+      "musico": "lage",
+      "nombre": "Julian Lage",
+      "instrumento": "guitarra eléctrica, guitarra acústica",
+      "nota": "temas 1, 2, 10"
+    },
+    {
+      "musico": "linda-may-han-oh",
+      "nombre": "Linda May Han Oh",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "payton",
+      "nombre": "Nicholas Payton",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 2, 5, 7, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Elena Pinderhughes",
+      "instrumento": "flauta",
+      "nota": "temas 1, 3, 7"
+    },
+    {
+      "musico": "kris-davis",
+      "nombre": "Kris Davis",
+      "instrumento": "piano eléctrico, piano",
+      "nota": "temas 2, 3, 5, 6, 7, 8, 9, 10, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Nêgah Santos",
+      "instrumento": "percusión",
+      "nota": "temas 2, 3, 6, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Michael Mayo",
+      "instrumento": "voz",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Ravi Coltrane",
+      "instrumento": "saxo",
+      "nota": "temas 3, 4, 7, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Matthew Stevens",
+      "instrumento": "guitarra eléctrica",
+      "nota": "temas 3, 4, 6, 7, 8, 9, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Shadrack Oppong",
+      "instrumento": "voz",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Dianne Reeves",
+      "instrumento": "voz",
+      "nota": "temas 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Milena Casado",
+      "instrumento": "fliscorno",
+      "nota": "temas 5, 8, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Anabel Gil Díaz",
+      "instrumento": "flauta",
+      "nota": "temas 5, 8, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Veronica Frantz Leahy",
+      "instrumento": "clarinete bajo",
+      "nota": "temas 5, 8, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Melanie Charles",
+      "instrumento": "voz",
+      "nota": "temas 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Somi",
+      "instrumento": "voz",
+      "nota": "temas 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Samara Joy",
+      "instrumento": "voz",
+      "nota": "temas 8"
+    },
+    {
+      "musico": "akinmusire",
+      "nombre": "Ambrose Akinmusire",
+      "instrumento": "trompeta",
+      "nota": "temas 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Val Jeanty",
+      "instrumento": "electronic instruments",
+      "nota": "temas 3"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -54,7 +167,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 64257aa8-c139-4e05-a9ab-571acb1ed4a4 (2022-09-16)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Wind Flower",

@@ -39,9 +39,27 @@
       "musico": "bad-plus",
       "nombre": "The Bad Plus",
       "instrumento": "grupo"
+    },
+    {
+      "musico": null,
+      "nombre": "Reid Anderson",
+      "instrumento": "bajo",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Orrin Evans",
+      "instrumento": "piano",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Dave King",
+      "instrumento": "batería",
+      "nota": "temas 1"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -54,7 +72,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 08e31b2f-38eb-4081-bc28-f7f64d6507ef (2019-10-25)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Avail",

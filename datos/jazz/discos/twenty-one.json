@@ -1,0 +1,82 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Geri Allen Twenty One"
+  },
+  "id": "twenty-one",
+  "titulo": "Twenty One",
+  "credito": "Geri Allen",
+  "lideres": [
+    "geri-allen"
+  ],
+  "grabacion": {
+    "desde": 1994,
+    "hasta": 1994,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1994,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "geri-allen",
+      "nombre": "Geri Allen",
+      "instrumento": "piano"
+    },
+    {
+      "musico": "ronc",
+      "nombre": "Ron Carter",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "tonyw",
+      "nombre": "Tony Williams",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Geri Allen Trio",
+      "instrumento": "músico"
+    }
+  ],
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
+  "corrientes": [
+    "neotrad"
+  ],
+  "comentario": [
+    "Piano en trío con Ron Carter y Tony Williams, en estándares y temas propios. Carter y Williams habían sido la base del quinteto de Miles Davis, y Allen toca a la par de ellos. Es el disco clave de Geri Allen en la etapa \"Neotradicionalismo\"."
+  ],
+  "ids": {
+    "musicbrainz": "949d7276-96b4-301d-aa07-e49ba302bb46",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-geri-allen",
+      "acceso": "extracto",
+      "aporta": "Discografía en Blue Note."
+    },
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 8daf4d06-10f8-443e-a21b-0e1b2946d8f3 (1994)."
+    }
+  ]
+}

@@ -36,12 +36,27 @@
   "sello": "Timeless",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "George Coleman",
+      "instrumento": "saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Higgins",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Sam Jones",
+      "instrumento": "bajo"
+    },
+    {
       "musico": "walton",
       "nombre": "Cedar Walton",
-      "instrumento": "piano, composición"
+      "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -49,12 +64,18 @@
     "Hard bop de los 70, con George Coleman en saxo, Sam Jones en contrabajo y Billy Higgins en batería. Eastern Rebellion pasó a ser el nombre del grupo, que siguió grabando con distintos saxofonistas. Es uno de los discos que el banco elige para conocer a Cedar Walton."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "1cc06e11-e528-3ae5-83ea-cd6a33f6a2eb",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición bd7f4780-3a6e-4f12-a14d-769f9ccc8d13 (1975-12-10)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Bolivia",

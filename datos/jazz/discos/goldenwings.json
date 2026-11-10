@@ -29,7 +29,7 @@
     {
       "musico": "fattoruso",
       "nombre": "Hugo Fattoruso",
-      "instrumento": "teclados y voz"
+      "instrumento": "teclados y voz, piano"
     },
     {
       "musico": null,
@@ -50,11 +50,6 @@
       "musico": null,
       "nombre": "David Amaro",
       "instrumento": "guitarra"
-    },
-    {
-      "musico": "fattoruso",
-      "nombre": "Hugo Fattoruso",
-      "instrumento": "piano"
     },
     {
       "musico": "ofattoruso",

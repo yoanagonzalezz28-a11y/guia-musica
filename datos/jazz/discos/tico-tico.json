@@ -39,9 +39,68 @@
       "musico": "paquito",
       "nombre": "Paquito D'Rivera",
       "instrumento": "saxo, clarinete"
+    },
+    {
+      "musico": null,
+      "nombre": "Paquito D’Rivera",
+      "instrumento": "saxo alto, clarinete, saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Raphael Cruz",
+      "instrumento": "percusión",
+      "nota": "temas 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "David Finck",
+      "instrumento": "bajo",
+      "nota": "temas 1, 2, 5, 9, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Fareed Haque",
+      "instrumento": "guitarra",
+      "nota": "temas 1"
+    },
+    {
+      "musico": "danilo-perez",
+      "nombre": "Danilo Pérez",
+      "instrumento": "piano",
+      "nota": "temas 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Mark Walker",
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 5, 9, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Tiberio Nascimiento",
+      "instrumento": "guitarra",
+      "nota": "temas 4, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Romero Lobambo",
+      "instrumento": "guitarra",
+      "nota": "temas 6, 8, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Nilson Matta",
+      "instrumento": "bajo",
+      "nota": "temas 6, 7, 8, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Portinho",
+      "instrumento": "batería",
+      "nota": "temas 6, 7, 8, 12"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "latino"
   ],
@@ -49,10 +108,16 @@
     "Saxo y clarinete en temas de choro brasileño y jazz latino, con mucha velocidad y alegría. D'Rivera había dejado Cuba en 1980, y acá amplía su jazz cubano con el choro de Brasil; salió por Chesky, un sello conocido por la calidad de sus grabaciones. Es uno de los discos que el banco elige para conocer a Paquito D'Rivera."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "dcb12a90-bcc7-33d2-abc1-3cdc513f6b1c",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición aa57ae01-7065-4cf0-b8fe-59167dcd8215 (1989)."
+    }
+  ]
 }

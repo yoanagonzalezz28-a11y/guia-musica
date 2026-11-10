@@ -39,9 +39,14 @@
       "musico": "pass",
       "nombre": "Joe Pass",
       "instrumento": "guitarra"
+    },
+    {
+      "musico": "fitzgerald",
+      "nombre": "Ella Fitzgerald",
+      "instrumento": "voz"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "swing"
   ],
@@ -49,10 +54,16 @@
     "Dúos con Ella Fitzgerald. Pass toca la guitarra y Fitzgerald canta, en estándares a dúo. Es uno de los discos que el banco elige para conocer a Joe Pass."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "24da479c-8b1d-3903-98f6-e1cd897ebaa6",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición a40f3182-aad8-3aeb-a7ae-0057d61b090b (1974)."
+    }
+  ]
 }

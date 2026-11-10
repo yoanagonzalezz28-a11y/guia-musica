@@ -35,12 +35,22 @@
   "sello": "Prestige",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Bob Cranshaw",
+      "instrumento": "bajo"
+    },
+    {
       "musico": "shirley",
       "nombre": "Shirley Scott",
       "instrumento": "órgano"
+    },
+    {
+      "musico": null,
+      "nombre": "Stanley Turrentine",
+      "instrumento": "saxo tenor"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "souljazz"
   ],
@@ -48,10 +58,16 @@
     "El órgano de Scott tiene un swing muy bluesero, y el saxo tenor de Stanley Turrentine le responde con un sonido grande y terroso. Scott y Turrentine estaban casados y grabaron juntos varios discos en los años 60. En la ficha de Shirley Scott es el disco que representa la etapa \"Soul jazz\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "6fcdd41c-c08c-33f9-99d4-01e9657d3c7b",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 6e6b9508-5765-48c4-8f47-53d75219838a (1995)."
+    }
+  ]
 }

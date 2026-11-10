@@ -39,9 +39,44 @@
       "musico": "desmond",
       "nombre": "Paul Desmond",
       "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Connie Kay",
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 4, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Wendell Marshall",
+      "instrumento": "contrabajo",
+      "nota": "temas 1, 2"
+    },
+    {
+      "musico": "mulligan",
+      "nombre": "Gerry Mulligan",
+      "instrumento": "saxo barítono"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Benjamin",
+      "instrumento": "contrabajo",
+      "nota": "temas 3, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Mel Lewis",
+      "instrumento": "batería",
+      "nota": "temas 3, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "John Beal",
+      "instrumento": "contrabajo",
+      "nota": "temas 4, 5"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "cool"
   ],
@@ -49,12 +84,18 @@
     "Con Gerry Mulligan: dos saxos que conversan en contrapunto, como en el cool de la costa oeste. Desmond y Mulligan tocan saxo alto y barítono, en contrapunto suave. Es uno de los discos que el banco elige para conocer a Paul Desmond."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "bde8008d-1eb9-35cd-bc1b-50dc18ba2dd5",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Two_of_a_Mind"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 6b54a4e6-1236-4c03-9fb2-092eca6070ca (1962)."
+    }
+  ],
   "temas": [
     {
       "titulo": "All the Things You Are",

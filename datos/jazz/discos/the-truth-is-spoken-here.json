@@ -35,12 +35,39 @@
   "sello": "Novus",
   "musicos": [
     {
+      "musico": "elvin",
+      "nombre": "Elvin Jones",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "marsalis",
+      "nombre": "Wynton Marsalis",
+      "instrumento": "trompeta"
+    },
+    {
       "musico": "mroberts",
       "nombre": "Marcus Roberts",
       "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Reginald Veal",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Todd Williams",
+      "instrumento": "saxo tenor",
+      "nota": "temas 3, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Charlie Rouse",
+      "instrumento": "saxo tenor",
+      "nota": "temas 5, 7, 8"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "neotrad"
   ],
@@ -48,10 +75,16 @@
     "Roberts toca el piano en temas propios, con un grupo que incluye a Wynton Marsalis y Elvin Jones. Fue su debut como líder, cuando era el pianista de la banda de Marsalis. Es el disco clave de Marcus Roberts en la etapa \"Neotradicionalismo\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "2ce77c7a-7f50-34df-8f77-222eb8c35899",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición aacb5371-46e2-4ee0-97e0-a8890f4d91f3 (1988-07-26)."
+    }
+  ]
 }

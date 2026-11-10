@@ -1,0 +1,82 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Jutta Hipp Jutta Hipp with Zoot Sims"
+  },
+  "id": "jutta-hipp-with-zoot-sims",
+  "titulo": "Jutta Hipp with Zoot Sims",
+  "credito": "Jutta Hipp",
+  "lideres": [
+    "jutta-hipp"
+  ],
+  "grabacion": {
+    "desde": 1956,
+    "hasta": 1956,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1956,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "jutta-hipp",
+      "nombre": "Jutta Hipp",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Zoot Sims",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": "abdul-malik",
+      "nombre": "Ahmed Abdul-Malik",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Ed Thigpen",
+      "instrumento": "batería"
+    }
+  ],
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
+  "corrientes": [
+    "cool"
+  ],
+  "comentario": [
+    "Piano con el saxo tenor de Zoot Sims, en un swing relajado y melódico. Fue su último disco: poco después dejó la música y trabajó durante décadas en una fábrica de ropa en Nueva York. Es uno de los discos que el banco elige para conocer a Jutta Hipp."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Jutta_Hipp_with_Zoot_Sims"
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-jutta-hipp",
+      "acceso": "extracto",
+      "aporta": "Carrera en Estados Unidos."
+    },
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Jutta Hipp with Zoot Sims\"."
+    }
+  ]
+}

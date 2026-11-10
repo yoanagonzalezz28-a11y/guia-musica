@@ -36,12 +36,17 @@
   "sello": "Nonesuch",
   "musicos": [
     {
+      "musico": "mehldau",
+      "nombre": "Brad Mehldau",
+      "instrumento": "piano"
+    },
+    {
       "musico": "redman",
       "nombre": "Joshua Redman",
-      "instrumento": "saxo tenor"
+      "instrumento": "saxo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -49,12 +54,18 @@
     "Saxo y piano a dúo en vivo, en estándares y temas propios. Redman y Mehldau se conocen desde los 90, cuando Mehldau era el pianista del cuarteto de Redman. Es uno de los discos que el banco elige para conocer a Joshua Redman."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "bf9b7e9c-0a19-4b2e-9622-336313b7ebda",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición f7b330a7-7971-41ba-9918-bfcb9ff9722e (2016-09-09)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Ornithology",

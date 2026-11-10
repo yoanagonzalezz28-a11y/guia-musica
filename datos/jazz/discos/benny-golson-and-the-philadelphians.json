@@ -36,12 +36,60 @@
   "sello": "United Artists",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Ray Bryant",
+      "instrumento": "piano",
+      "nota": "temas 1, 2, 3, 4, 5, 6"
+    },
+    {
       "musico": "golson",
       "nombre": "Benny Golson",
-      "instrumento": "saxo tenor, composición"
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Percy Heath",
+      "instrumento": "contrabajo",
+      "nota": "temas 1, 2, 3, 4, 5, 6"
+    },
+    {
+      "musico": "philly-joe-jones",
+      "nombre": "Philly Joe Jones",
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 3, 4, 5, 6"
+    },
+    {
+      "musico": "morgan",
+      "nombre": "Lee Morgan",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 2, 3, 4, 5, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Christian Garros",
+      "instrumento": "batería",
+      "nota": "temas 7, 8, 9, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Roger Guérin",
+      "instrumento": "trompeta",
+      "nota": "temas 7, 8, 9, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Pierre Michelot",
+      "instrumento": "contrabajo",
+      "nota": "temas 7, 8, 9, 10"
+    },
+    {
+      "musico": "timmons",
+      "nombre": "Bobby Timmons",
+      "instrumento": "piano",
+      "nota": "temas 7, 8, 9, 10"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -54,7 +102,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 5caa4d67-c25a-4b0a-ad5e-7c3b5aa97829 (1998)."
+    }
+  ],
   "temas": [
     {
       "titulo": "You're Not the Kind",

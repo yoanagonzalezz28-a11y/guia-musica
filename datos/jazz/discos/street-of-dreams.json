@@ -44,9 +44,24 @@
       "musico": "green",
       "nombre": "Grant Green",
       "instrumento": "guitarra"
+    },
+    {
+      "musico": "hutcherson",
+      "nombre": "Bobby Hutcherson",
+      "instrumento": "vibráfono"
+    },
+    {
+      "musico": "elvin",
+      "nombre": "Elvin Jones",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "larry-young",
+      "nombre": "Larry Young",
+      "instrumento": "órgano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -59,7 +74,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 938894e9-261b-45da-8feb-f5d8ca10c012 (1967)."
+    }
+  ],
   "temas": [
     {
       "titulo": "I Wish You Love - Rudy Van Gelder Edition / Remastered 2009",

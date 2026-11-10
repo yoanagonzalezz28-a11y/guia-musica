@@ -36,12 +36,83 @@
   "sello": "Atlantic",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "George Davis",
+      "instrumento": "flauta",
+      "nota": "temas 1, 2, 3, 5"
+    },
+    {
+      "musico": "hancock",
+      "nombre": "Herbie Hancock",
+      "instrumento": "piano, piano eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Woody Shaw",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 2, 4, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Earl Turbinton, Jr.",
+      "instrumento": "saxo soprano",
+      "nota": "temas 1, 2, 3, 5"
+    },
+    {
       "musico": "zawinul",
       "nombre": "Joe Zawinul",
-      "instrumento": "teclados, composición"
+      "instrumento": "piano, piano eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Walter Booker",
+      "instrumento": "contrabajo",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Hart",
+      "instrumento": "percusión",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "David Lee",
+      "instrumento": "percusión",
+      "nota": "temas 2"
+    },
+    {
+      "musico": "vitous",
+      "nombre": "Miroslav Vitouš",
+      "instrumento": "contrabajo",
+      "nota": "temas 2"
+    },
+    {
+      "musico": "dejohnette",
+      "nombre": "Jack DeJohnette",
+      "instrumento": "melódica, percusión",
+      "nota": "temas 3, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Owens",
+      "instrumento": "trompeta",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Hubert Laws",
+      "instrumento": "flauta",
+      "nota": "temas 4"
+    },
+    {
+      "musico": "shorter",
+      "nombre": "Wayne Shorter",
+      "instrumento": "saxo soprano",
+      "nota": "temas 4"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "fusion"
   ],
@@ -49,10 +120,16 @@
     "Piano eléctrico y paisajes lentos, con Wayne Shorter y Hubert Laws. Incluye su versión de \"In a Silent Way\", el tema que había escrito para Miles Davis, y se grabó poco antes de fundar Weather Report. Está entre los discos esenciales de Joe Zawinul."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "b1ee16be-2a53-3bca-a708-b7c2268b25ed",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición beef2294-3922-4ead-8ff4-0bd503835ff8 (1971)."
+    }
+  ]
 }

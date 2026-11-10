@@ -36,12 +36,38 @@
   "sello": "Atlantic",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Ray Appleton",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "barretto",
+      "nombre": "Ray Barretto",
+      "instrumento": "percusión",
+      "nota": "temas 1, 2, 3, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Bob Cunningham",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Albert Dailey",
+      "instrumento": "piano"
+    },
+    {
       "musico": "hubbard",
       "nombre": "Freddie Hubbard",
-      "instrumento": "trompeta"
+      "instrumento": "vientos de metal"
+    },
+    {
+      "musico": null,
+      "nombre": "James Spaulding",
+      "instrumento": "vientos de madera"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -54,7 +80,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición d71c1414-dd42-4107-acd7-577ae249845e (1967)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Backlash",

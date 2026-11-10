@@ -1,0 +1,47 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "joyce-moreno",
+  "nombre": "Joyce Moreno",
+  "nacimiento": {
+    "anio": 1948,
+    "lugar": "Río de Janeiro"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "voz",
+    "guitarra",
+    "composición"
+  ],
+  "corrientes": [
+    "brasil"
+  ],
+  "regiones": [
+    "brasil"
+  ],
+  "spotify": null,
+  "resumen": "Cantante, guitarrista y compositora carioca, de la generación posterior a la bossa nova, muy cerca del samba jazz.",
+  "epocas": [
+    {
+      "titulo": "Jazz brasileño",
+      "desde": 1980,
+      "hasta": 1980,
+      "texto": "",
+      "discoClave": {
+        "disco": "feminina",
+        "explicacion": "Su disco más conocido."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-joyce-pend"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "feminina"
+  ]
+}

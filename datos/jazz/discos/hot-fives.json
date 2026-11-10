@@ -47,7 +47,7 @@
       "instrumento": "clarinete"
     },
     {
-      "musico": null,
+      "musico": "lil-hardin",
       "nombre": "Lil Hardin Armstrong",
       "instrumento": "piano"
     },
@@ -468,5 +468,9 @@
       "duracion": 4
     }
   ],
-  "temasFuente": "Spotify"
+  "temasFuente": "Spotify",
+  "recopilacion": {
+    "desde": 1925,
+    "hasta": 1929
+  }
 }

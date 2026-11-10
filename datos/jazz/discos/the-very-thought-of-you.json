@@ -38,10 +38,15 @@
     {
       "musico": "nat-cole",
       "nombre": "Nat King Cole",
-      "instrumento": "piano, voz"
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Gordon Jenkins",
+      "instrumento": "arreglos, dirección"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "swing"
   ],
@@ -52,9 +57,15 @@
     "musicbrainz": "4c572b9f-bf8f-3238-a0c2-8185862ca5fa",
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "The_Very_Thought_of_You_(Nat_King_Cole_album)"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"The Very Thought of You (Nat King Cole album)\"."
+    }
+  ],
   "temas": [
     {
       "titulo": "The Very Thought Of You",

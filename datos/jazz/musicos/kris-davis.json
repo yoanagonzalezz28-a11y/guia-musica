@@ -1,0 +1,47 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "kris-davis",
+  "nombre": "Kris Davis",
+  "nacimiento": {
+    "anio": 1980,
+    "lugar": "Vancouver"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano",
+    "composición"
+  ],
+  "corrientes": [
+    "hoy",
+    "free"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/3Noi5BtszygxpaGkmvSNGv",
+  "resumen": "Pianista y compositora canadiense radicada en Nueva York, de la vanguardia actual; dirige el sello Pyroclastic.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2019,
+      "hasta": 2026,
+      "texto": "",
+      "discoClave": {
+        "disco": "diatom-ribbons",
+        "explicacion": "Su disco más ambicioso, entre el jazz y la electrónica."
+      },
+      "discos": []
+    }
+  ],
+  "fuentes": [
+    "wp-kris-davis-pend"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "diatom-ribbons"
+  ]
+}

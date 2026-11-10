@@ -1,0 +1,52 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "geri-allen",
+  "nombre": "Geri Allen",
+  "nacimiento": {
+    "anio": 1957,
+    "lugar": "Pontiac"
+  },
+  "muerte": {
+    "anio": 2017
+  },
+  "instrumentos": [
+    "piano",
+    "composición"
+  ],
+  "corrientes": [
+    "neotrad",
+    "hoy"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/0jqAOYfo9ipclW7ATXPhHg",
+  "resumen": "Pianista, compositora y docente de Detroit, entre la tradición y la vanguardia. Enseñó en las universidades de Michigan y Pittsburgh.",
+  "epocas": [
+    {
+      "titulo": "Neotradicionalismo",
+      "desde": 1991,
+      "hasta": 1994,
+      "texto": "",
+      "discoClave": {
+        "disco": "twenty-one",
+        "explicacion": "Su trío con Ron Carter y Tony Williams."
+      },
+      "discos": [
+        "the-nurturer"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-geri-allen"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "twenty-one",
+    "the-nurturer"
+  ]
+}

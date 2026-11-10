@@ -38,10 +38,35 @@
     {
       "musico": "akinmusire",
       "nombre": "Ambrose Akinmusire",
-      "instrumento": "trompeta, composición"
+      "instrumento": "trompeta, piano eléctrico Rhodes"
+    },
+    {
+      "musico": null,
+      "nombre": "Harish Raghavan",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Justin Brown",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Sam Harris",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Jesús Diaz",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Genevieve Artadi",
+      "instrumento": "voz"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "hoy"
   ],
@@ -52,9 +77,15 @@
     "musicbrainz": "e379fe82-8512-42f4-a57c-915738106808",
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "On_the_Tender_Spot_of_Every_Calloused_Moment"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"On the Tender Spot of Every Calloused Moment\"."
+    }
+  ],
   "temas": [
     {
       "titulo": "Tide of Hyacinth",

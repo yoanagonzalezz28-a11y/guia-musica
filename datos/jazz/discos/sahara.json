@@ -34,12 +34,28 @@
   "sello": "Milestone",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Sonny Fortune",
+      "instrumento": "saxo soprano, vientos de madera, flauta, saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Calvin Hill",
+      "instrumento": "contrabajo, percusión, cañas",
+      "nota": "temas 1, 3, 4, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Alphonse Mouzon",
+      "instrumento": "batería, percusión, cañas, trompeta"
+    },
+    {
       "musico": "tyner",
       "nombre": "McCoy Tyner",
-      "instrumento": "piano"
+      "instrumento": "piano, koto, percusión, flauta"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -47,10 +63,16 @@
     "Tyner con koto, flautas y percusión: modal con sabor africano y asiático. Tyner toca piano, koto y flauta con un grupo, en temas largos y modales. Es el disco clave de McCoy Tyner en la etapa \"Jazz del mundo\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "93052b69-747d-3ccd-ad10-8630e7b1ad7f",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición f6216267-38ac-44e8-b9e8-0dc8902c61fa (1972)."
+    }
+  ]
 }

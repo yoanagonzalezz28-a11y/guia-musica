@@ -38,10 +38,52 @@
     {
       "musico": "sclarke",
       "nombre": "Stanley Clarke",
-      "instrumento": "contrabajo, bajo eléctrico"
+      "instrumento": "bajo, contrabajo guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "George Duke",
+      "instrumento": "piano, sintetizador",
+      "nota": "temas 1, 2, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Gadd",
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "David Sancious",
+      "instrumento": "guitarra",
+      "nota": "temas 1, 2, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Jeff Beck",
+      "instrumento": "guitarra, guitarra eléctrica",
+      "nota": "temas 2, 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Lenny White",
+      "instrumento": "batería",
+      "nota": "temas 3"
+    },
+    {
+      "musico": "corea",
+      "nombre": "Chick Corea",
+      "instrumento": "piano",
+      "nota": "temas 4, 5"
+    },
+    {
+      "musico": "mclaughlin",
+      "nombre": "John McLaughlin",
+      "instrumento": "guitarra acústica",
+      "nota": "temas 4, 5"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "fusion"
   ],
@@ -49,10 +91,16 @@
     "El bajo eléctrico de Clarke va al frente, con Jeff Beck en guitarra, en temas de fusión con mucho rock. Lo grabó mientras tocaba en Return to Forever, y Chick Corea y John McLaughlin aparecen en \"Song to John\", dedicado a Coltrane. Es uno de los discos que el banco elige para conocer a Stanley Clarke."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "042b174c-c8bc-3159-9e8c-f6d8fef5fceb",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 72616347-2489-4103-96f2-272fe4c5b0d4 (1975)."
+    }
+  ]
 }

@@ -36,12 +36,179 @@
   "sello": "Young",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Woody Aplanalp",
+      "instrumento": "guitarra",
+      "nota": "temas 1-1, 1-3, 2-2"
+    },
+    {
+      "musico": null,
+      "nombre": "Tony Austin",
+      "instrumento": "batería",
+      "nota": "temas 1-1, 1-2, 1-3, 1-6, 1-7, 1-8, 2-1, 2-2, 2-3, 2-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Ronald Bruner Jr.",
+      "instrumento": "batería",
+      "nota": "temas 1-1, 1-2, 1-5, 1-7, 1-8, 2-1, 2-2, 2-3, 2-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Brandon Coleman",
+      "instrumento": "teclados, órgano, vocoder, teclados bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Kahlil Cummings",
+      "instrumento": "percusión",
+      "nota": "temas 1-1, 1-2, 1-3, 1-7, 1-8, 2-1, 2-2, 2-3, 2-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Cameron Graves",
+      "instrumento": "piano",
+      "nota": "temas 1-1, 1-2, 1-3, 1-4, 1-7, 1-8, 2-1, 2-2, 2-3, 2-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Miles Mosley",
+      "instrumento": "contrabajo",
+      "nota": "temas 1-1, 1-3, 1-8, 2-2, 2-3, 2-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Carlos Niño",
+      "instrumento": "percusión",
+      "nota": "temas 1-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Allakoi Peete",
+      "instrumento": "percusión",
+      "nota": "temas 1-1, 1-2, 1-3, 1-7, 1-8, 2-1, 2-2, 2-3, 2-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Ryan Porter",
+      "instrumento": "trombón",
+      "nota": "temas 1-1, 1-2, 1-3, 1-5, 1-7, 1-8, 2-1, 2-2, 2-3, 2-4"
+    },
+    {
       "musico": "washington",
       "nombre": "Kamasi Washington",
-      "instrumento": "saxo tenor, composición"
+      "instrumento": "saxo tenor, saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Dontae Winslow",
+      "instrumento": "trompeta",
+      "nota": "temas 1-1, 1-2, 1-3, 1-5, 1-7, 1-8, 2-1, 2-2, 2-3, 2-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Banchamlak Abegaze",
+      "instrumento": "voz",
+      "nota": "temas 1-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Henok Elias",
+      "instrumento": "voz",
+      "nota": "temas 1-1"
+    },
+    {
+      "musico": null,
+      "nombre": "Patrice Quinn",
+      "instrumento": "voz",
+      "nota": "temas 1-1, 1-2, 1-3, 1-8, 2-3"
+    },
+    {
+      "musico": null,
+      "nombre": "Thundercat",
+      "instrumento": "bajo eléctrico, bandejas, talkbox",
+      "nota": "temas 1-2, 1-3, 1-5"
+    },
+    {
+      "musico": null,
+      "nombre": "Taj Austin",
+      "instrumento": "voz",
+      "nota": "temas 1-2"
+    },
+    {
+      "musico": null,
+      "nombre": "Ras Austin",
+      "instrumento": "voz",
+      "nota": "temas 1-2"
+    },
+    {
+      "musico": null,
+      "nombre": "Robert Miller",
+      "instrumento": "batería",
+      "nota": "temas 1-3"
+    },
+    {
+      "musico": "terrace-martin",
+      "nombre": "Terrace Martin",
+      "instrumento": "saxo alto",
+      "nota": "temas 1-4"
+    },
+    {
+      "musico": null,
+      "nombre": "Rickey Washington",
+      "instrumento": "flauta",
+      "nota": "temas 1-5, 1-8, 2-3"
+    },
+    {
+      "musico": null,
+      "nombre": "Joel Whitley",
+      "instrumento": "guitarra",
+      "nota": "temas 1-5"
+    },
+    {
+      "musico": null,
+      "nombre": "George Clinton",
+      "instrumento": "voz",
+      "nota": "temas 1-5"
+    },
+    {
+      "musico": null,
+      "nombre": "D Smoke",
+      "instrumento": "voz",
+      "nota": "temas 1-5"
+    },
+    {
+      "musico": null,
+      "nombre": "André 3000",
+      "instrumento": "flauta",
+      "nota": "temas 1-6"
+    },
+    {
+      "musico": null,
+      "nombre": "Mono/Poly",
+      "instrumento": "sintetizador",
+      "nota": "temas 1-6"
+    },
+    {
+      "musico": null,
+      "nombre": "BJ the Chicago Kid",
+      "instrumento": "voz",
+      "nota": "temas 1-7"
+    },
+    {
+      "musico": null,
+      "nombre": "Dwight Trible",
+      "instrumento": "voz",
+      "nota": "temas 1-8, 2-3"
+    },
+    {
+      "musico": null,
+      "nombre": "Ben Williams",
+      "instrumento": "contrabajo",
+      "nota": "temas 2-1"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -54,7 +221,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 3b76a10d-1fd7-4eab-a537-eb04636a703b (2024-05-03)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Lesanu",

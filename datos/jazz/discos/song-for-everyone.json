@@ -38,10 +38,25 @@
     {
       "musico": "shankar",
       "nombre": "L. Shankar",
-      "instrumento": "violín"
+      "instrumento": "violín, 10-string double violín, batería machine"
+    },
+    {
+      "musico": "garbarek",
+      "nombre": "Jan Garbarek",
+      "instrumento": "soprano and saxo tenor"
+    },
+    {
+      "musico": "zakir",
+      "nombre": "Zakir Hussain",
+      "instrumento": "tabla, congas"
+    },
+    {
+      "musico": null,
+      "nombre": "Trilok Gurtu",
+      "instrumento": "percusión"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "mundo"
   ],
@@ -52,7 +67,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Song_for_Everyone"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Song for Everyone\"."
+    }
+  ]
 }

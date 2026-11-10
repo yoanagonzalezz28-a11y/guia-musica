@@ -38,10 +38,20 @@
     {
       "musico": "brahem",
       "nombre": "Anouar Brahem",
-      "instrumento": "oud, composición"
+      "instrumento": "oud"
+    },
+    {
+      "musico": "jon-christensen",
+      "nombre": "Jon Christensen",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Palle Danielsson",
+      "instrumento": "contrabajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm"
   ],
@@ -49,10 +59,16 @@
     "Con Richard Galliano y François Couturier: oud, acordeón y piano. Brahem toca el oud con acordeón, piano, cuerdas y saxo, en temas lentos y melancólicos. Es uno de los discos que el banco elige para conocer a Anouar Brahem."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "56d0d624-6a02-3bed-8e12-46c952e532bd",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición a42b7d38-25aa-4548-8d82-c9851dfe435c (1995-01)."
+    }
+  ]
 }

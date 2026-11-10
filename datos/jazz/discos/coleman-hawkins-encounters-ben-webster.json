@@ -35,12 +35,38 @@
   "sello": "Verve",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Ray Brown",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Herb Ellis",
+      "instrumento": "guitarra"
+    },
+    {
       "musico": "hawkins",
       "nombre": "Coleman Hawkins",
       "instrumento": "saxo tenor"
+    },
+    {
+      "musico": "peterson",
+      "nombre": "Oscar Peterson",
+      "instrumento": "piano",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Alvin Stoller",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "webster",
+      "nombre": "Ben Webster",
+      "instrumento": "saxo tenor, saxo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "swing"
   ],
@@ -48,10 +74,16 @@
     "Maestro y discípulo: dos tenores de sonido grueso en baladas y blues medios, con Oscar Peterson. Hawkins y Webster tocan juntos con el trío de Peterson, con dos sonidos de tenor parecidos pero distintos en el vibrato. Es uno de los discos que el banco elige para conocer a Coleman Hawkins."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "d15f89eb-2375-3bbb-b0d3-ecdb04d123e0",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Coleman_Hawkins_Encounters_Ben_Webster"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 4ffcfcbc-9c66-43e9-84a9-defa07c02fde (1959)."
+    }
+  ]
 }

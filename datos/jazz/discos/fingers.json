@@ -38,10 +38,35 @@
     {
       "musico": "airto",
       "nombre": "Airto Moreira",
-      "instrumento": "percusión"
+      "instrumento": "percusión, batería, voz"
+    },
+    {
+      "musico": "fattoruso",
+      "nombre": "Hugo Fattoruso",
+      "instrumento": "teclados, armónica, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "David Amaro",
+      "instrumento": "guitarra acústica, guitarra eléctrica"
+    },
+    {
+      "musico": null,
+      "nombre": "Ringo Thielmann",
+      "instrumento": "contrabajo, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Jorge Osvaldo Fattoruso",
+      "instrumento": "batería, voz"
+    },
+    {
+      "musico": "flora",
+      "nombre": "Flora Purim",
+      "instrumento": "percusión, voz"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "brasil"
   ],
@@ -52,7 +77,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Fingers_(album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Fingers (album)\"."
+    }
+  ]
 }

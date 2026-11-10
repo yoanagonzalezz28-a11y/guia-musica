@@ -36,12 +36,139 @@
   "sello": "Sounds of Crenshaw",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Craig Brockman",
+      "instrumento": "piano, órgano, wurlitzer piano eléctrico",
+      "nota": "temas 1, 8, 14"
+    },
+    {
+      "musico": null,
+      "nombre": "Kenneth Crouch",
+      "instrumento": "teclados, órgano, piano",
+      "nota": "temas 1, 11, 13, 14"
+    },
+    {
+      "musico": null,
+      "nombre": "Preston Harris",
+      "instrumento": "voz",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Eugene",
+      "instrumento": "bajo, contrabajo, bajo eléctrico",
+      "nota": "temas 2, 3, 6, 8, 11, 12"
+    },
+    {
       "musico": "terrace-martin",
       "nombre": "Terrace Martin",
-      "instrumento": "saxo, producción"
+      "instrumento": "saxo alto, Minimoog, percusión, piano eléctrico Rhodes, vocoder, teclados, silbato, sintetizador",
+      "nota": "temas 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14"
+    },
+    {
+      "musico": null,
+      "nombre": "Robert Searight",
+      "instrumento": "Minimoog, piano eléctrico Rhodes, sintetizador, percusión, clavinet, wurlitzer piano eléctrico, teclados",
+      "nota": "temas 2, 3, 6, 10, 11, 14"
+    },
+    {
+      "musico": null,
+      "nombre": "Marlon Williams",
+      "instrumento": "guitarra",
+      "nota": "temas 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14"
+    },
+    {
+      "musico": null,
+      "nombre": "Josef Leimberg",
+      "instrumento": "trompeta",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Curly Martin",
+      "instrumento": "batería, percusión",
+      "nota": "temas 3, 6, 8, 10, 11, 12, 14"
+    },
+    {
+      "musico": null,
+      "nombre": "Mitch Towne",
+      "instrumento": "órgano",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Adam Turchin",
+      "instrumento": "saxo tenor, saxo barítono",
+      "nota": "temas 3, 5, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Ronald Bruner Jr.",
+      "instrumento": "batería",
+      "nota": "temas 5"
+    },
+    {
+      "musico": "glasper",
+      "nombre": "Robert Glasper",
+      "instrumento": "piano eléctrico Rhodes, piano",
+      "nota": "temas 5, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Allakoi Peete",
+      "instrumento": "percusión",
+      "nota": "temas 5, 14"
+    },
+    {
+      "musico": null,
+      "nombre": "Thundercat",
+      "instrumento": "bajo",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "J‐Black",
+      "instrumento": "voz",
+      "nota": "temas 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Wanda Vaughn",
+      "instrumento": "voz",
+      "nota": "temas 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Chris Cadenhead",
+      "instrumento": "piano eléctrico Rhodes, piano eléctrico",
+      "nota": "temas 8, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Keyon Harrold",
+      "instrumento": "trompeta",
+      "nota": "temas 9"
+    },
+    {
+      "musico": "washington",
+      "nombre": "Kamasi Washington",
+      "instrumento": "saxo tenor",
+      "nota": "temas 9, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Wow Jones",
+      "instrumento": "Minimoog",
+      "nota": "temas 14"
+    },
+    {
+      "musico": null,
+      "nombre": "Perri",
+      "instrumento": "voz",
+      "nota": "temas 3"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -54,7 +181,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 226a2e99-f679-468e-9b6f-7881a95559ef (2016-04-01)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Velvet Portraits",

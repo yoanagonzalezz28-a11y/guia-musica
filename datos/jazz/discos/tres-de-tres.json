@@ -30,7 +30,7 @@
     "ibarburu"
   ],
   "grabacion": {
-    "desde": 2022,
+    "desde": 2015,
     "hasta": 2022,
     "detalle": null
   },
@@ -181,5 +181,10 @@
       "duracion": 258
     }
   ],
-  "temasFuente": "Spotify"
+  "temasFuente": "Spotify",
+  "recopilacion": {
+    "desde": 2015,
+    "hasta": 2022,
+    "original": "Incluye completo *Huella digital* (2015), el primer disco del trío."
+  }
 }

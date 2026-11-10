@@ -34,12 +34,27 @@
   "sello": "MPS",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Philip Catherine",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": "coryell",
+      "nombre": "Larry Coryell",
+      "instrumento": "guitarra"
+    },
+    {
       "musico": "grappelli",
       "nombre": "Stéphane Grappelli",
-      "instrumento": "violín"
+      "instrumento": "violín, piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Niels‐Henning Ørsted Pedersen",
+      "instrumento": "contrabajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "manouche"
   ],
@@ -47,10 +62,16 @@
     "Violín con dos guitarras y contrabajo, en temas de Django y piezas nuevas en su estilo. Grappelli, que había fundado el Quintette du Hot Club con Django, toca con Philip Catherine, Larry Coryell y Niels-Henning Ørsted Pedersen. Está entre los discos esenciales de Stéphane Grappelli."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "8346ec1d-c714-30fa-8182-12308eb8ea85",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 9b568a4e-b2de-4d83-9b2a-8090b41f5860 (1979)."
+    }
+  ]
 }

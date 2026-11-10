@@ -34,12 +34,114 @@
   "sello": "Enja",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Dennis Mackrel",
+      "instrumento": "percusión, batería"
+    },
+    {
       "musico": "schneider",
       "nombre": "Maria Schneider",
-      "instrumento": "composición, dirección"
+      "instrumento": "dirección"
+    },
+    {
+      "musico": null,
+      "nombre": "Jay Anderson",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Larry Farrell",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "John Fedchock",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "George Flynn",
+      "instrumento": "vientos de metal"
+    },
+    {
+      "musico": null,
+      "nombre": "Laurie Frink",
+      "instrumento": "vientos de metal"
+    },
+    {
+      "musico": null,
+      "nombre": "Greg Gisbert",
+      "instrumento": "vientos de metal"
+    },
+    {
+      "musico": null,
+      "nombre": "Tim Hagans",
+      "instrumento": "vientos de metal"
+    },
+    {
+      "musico": null,
+      "nombre": "Tony Kadleck",
+      "instrumento": "vientos de metal"
+    },
+    {
+      "musico": null,
+      "nombre": "Rick Margitza",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Ben Monder",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Keith O’Quinn",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Rich Perry",
+      "instrumento": "vientos de madera"
+    },
+    {
+      "musico": null,
+      "nombre": "Tim Ries",
+      "instrumento": "vientos de madera"
+    },
+    {
+      "musico": null,
+      "nombre": "Scott Robinson",
+      "instrumento": "cañas"
+    },
+    {
+      "musico": null,
+      "nombre": "Mark Vinci",
+      "instrumento": "vientos de madera"
+    },
+    {
+      "musico": null,
+      "nombre": "Kenny Werner",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Emedin Rivera",
+      "instrumento": "percusión",
+      "nota": "temas 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Maria Schneider Orchestra",
+      "instrumento": "orquesta"
+    },
+    {
+      "musico": null,
+      "nombre": "Bill Hayes",
+      "instrumento": "idiophone",
+      "nota": "temas 6"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -47,10 +149,16 @@
     "Su debut: dedicado a Gil Evans. Schneider escribe para una orquesta grande temas largos de colores muy cuidados, en la línea de Gil Evans. Está entre los discos esenciales de Maria Schneider."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "6bfc48a4-e5de-3d9b-987a-01299b2ec882",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 12336f95-cfcb-4928-b67d-1e9748014bc5 (1994)."
+    }
+  ]
 }

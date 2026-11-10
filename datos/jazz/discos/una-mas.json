@@ -39,9 +39,29 @@
       "musico": "dorham",
       "nombre": "Kenny Dorham",
       "instrumento": "trompeta"
+    },
+    {
+      "musico": "hancock",
+      "nombre": "Herbie Hancock",
+      "instrumento": "piano"
+    },
+    {
+      "musico": "henderson",
+      "nombre": "Joe Henderson",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Butch Warren",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "tonyw",
+      "nombre": "Tony Williams",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -49,12 +69,18 @@
     "Con Joe Henderson y Herbie Hancock: groove latino y hard bop moderno. Dorham toca la trompeta con Henderson, Hancock, Butch Warren y Tony Williams. Está entre los discos esenciales de Kenny Dorham."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "463b030f-518d-4cca-a0c5-4e89a59cf85e",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Una_Mas"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 320a19cb-17e1-4d4a-8246-06d19e3791e2 (1964-01)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Una Mas (One More Time) - Remasted 1998/ Rudy Van Gelder Edition",

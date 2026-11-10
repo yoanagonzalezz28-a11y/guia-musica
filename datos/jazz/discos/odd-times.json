@@ -37,11 +37,31 @@
   "musicos": [
     {
       "musico": "abou-khalil",
-      "nombre": "Rabih Abou-Khalil",
-      "instrumento": "oud, composición"
+      "nombre": "Rabih Abou‐Khalil",
+      "instrumento": "oud"
+    },
+    {
+      "musico": null,
+      "nombre": "Michel Godard",
+      "instrumento": "vientos"
+    },
+    {
+      "musico": null,
+      "nombre": "Nabil Khaiat",
+      "instrumento": "frame batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Howard Levy",
+      "instrumento": "armónica"
+    },
+    {
+      "musico": null,
+      "nombre": "Mark Nauseef",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -49,10 +69,16 @@
     "En vivo, con compases irregulares de la música árabe. Abou-Khalil toca el oud con su grupo en vivo, con tuba, percusión y saxo. Está entre los discos esenciales de Rabih Abou-Khalil."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "78777d24-a0ea-3334-922d-9535d8ed2dd1",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 00ddbdfe-e776-4de4-a952-1212f3155732 (1997)."
+    }
+  ]
 }

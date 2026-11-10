@@ -37,10 +37,58 @@
     {
       "musico": "jobim",
       "nombre": "Antônio Carlos Jobim",
-      "instrumento": "piano, guitarra, composición"
+      "instrumento": "piano eléctrico, piano, violín, voz, guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Eumir Deodato",
+      "instrumento": "dirección, guitarra"
+    },
+    {
+      "musico": "ronc",
+      "nombre": "Ron Carter",
+      "instrumento": "contrabajo, bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Everaldo Ferreira",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": "airto",
+      "nombre": "Airto Moreira",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "João Palma",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Urbie Green",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Harry Lookofsky",
+      "instrumento": "violín",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Hubert Laws",
+      "instrumento": "flauta",
+      "nota": "temas 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Farrell",
+      "instrumento": "saxo soprano",
+      "nota": "temas 8"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "brasil"
   ],
@@ -48,10 +96,16 @@
     "Producido por Creed Taylor con arreglos de Eumir Deodato: Jobim más oscuro y rítmico, con \"Tereza My Love\" y \"Brazil\". Jobim toca piano y guitarra y canta con músicos como Ron Carter, en temas lentos y rítmicos. Completa la discografía de Antônio Carlos Jobim dentro de Jazz brasileño."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "e749dd10-8be4-3c2c-abda-22102a2d7003",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Stone_Flower"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 00fe9bd6-653c-48bc-881a-2a07e1611571 (1970)."
+    }
+  ]
 }

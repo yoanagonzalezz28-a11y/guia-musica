@@ -38,9 +38,29 @@
       "musico": "mcduff",
       "nombre": "Jack McDuff",
       "instrumento": "órgano"
+    },
+    {
+      "musico": null,
+      "nombre": "Ben Dixon",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Forrest",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": "green",
+      "nombre": "Grant Green",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "“Brother” Jack McDuff",
+      "instrumento": "órgano Hammond"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "souljazz"
   ],
@@ -48,10 +68,16 @@
     "Órgano y blues relajados, con Grant Green en guitarra y Jimmy Forrest en saxo. Forrest es el autor de \"Night Train\", un éxito del rhythm and blues de los 50. En la ficha de Jack McDuff es el disco que representa la etapa \"Soul jazz\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "e2e98b45-7fff-3c1f-a478-adc6237c0b93",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 3483be56-2d01-4234-b6c9-bdab68e778c4 (1961)."
+    }
+  ]
 }

@@ -35,12 +35,78 @@
   "sello": "Strut",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Shinan Abiodun",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Oladimeji Akinyele",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Okon Iyamba",
+      "instrumento": "shekere"
+    },
+    {
+      "musico": null,
+      "nombre": "Kunle Justice",
+      "instrumento": "bajo eléctrico"
+    },
+    {
       "musico": "seun-kuti",
       "nombre": "Seun Kuti",
-      "instrumento": "saxo, voz"
+      "instrumento": "teclados, saxo alto, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "David Obanyedo",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Alade Oluwagbemiga",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Kola Onasanya",
+      "instrumento": "congas"
+    },
+    {
+      "musico": null,
+      "nombre": "Adebowale Osunnibu",
+      "instrumento": "saxo barítono"
+    },
+    {
+      "musico": null,
+      "nombre": "Ojo Samuel",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Wale Toriola",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Iyabo Adeniran",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Joy Opara",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Carlos Santana",
+      "instrumento": "guitarra",
+      "nota": "temas 2"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -48,7 +114,7 @@
     "Afrobeat potente, con vientos y coros, en temas sobre la historia y el presente de África. Carlos Santana toca la guitarra en el tema del título, y el disco fue nominado a un Grammy. Es uno de los discos que el banco elige para conocer a Seun Kuti."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "06f50e88-278e-4f1c-a312-7b5bf74d7c28",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
@@ -58,6 +124,11 @@
       "fuente": "mb-seun-kuti",
       "acceso": "extracto",
       "aporta": "Strut, 2 de marzo de 2018."
+    },
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición e91a068b-7206-4538-a6e9-7684d41c7610 (2018-03-02)."
     }
   ]
 }

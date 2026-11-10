@@ -36,12 +36,27 @@
   "sello": "ECM",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Marcus Gilmore",
+      "instrumento": "percusión"
+    },
+    {
       "musico": "potter",
       "nombre": "Chris Potter",
-      "instrumento": "saxo tenor, composición"
+      "instrumento": "sampler, clarinete, flauta, saxo tenor, mbira, clarinete bajo, saxo soprano"
+    },
+    {
+      "musico": "virelles",
+      "nombre": "David Virelles",
+      "instrumento": "celesta, piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Martin",
+      "instrumento": "contrabajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm"
   ],
@@ -54,7 +69,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición c0dbcadf-416e-440a-bec8-721728bd35ea (2017-04-21)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Heart In Hand",

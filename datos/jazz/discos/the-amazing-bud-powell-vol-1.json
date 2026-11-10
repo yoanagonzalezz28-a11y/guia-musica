@@ -39,9 +39,39 @@
       "musico": "powell",
       "nombre": "Bud Powell",
       "instrumento": "piano"
+    },
+    {
+      "musico": "navarro",
+      "nombre": "Fats Navarro",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": "rollins",
+      "nombre": "Sonny Rollins",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Tommy Potter",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": "haynes",
+      "nombre": "Roy Haynes",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Curley Russell",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": "roach",
+      "nombre": "Max Roach",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "bebop"
   ],
@@ -55,7 +85,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "The_Amazing_Bud_Powell"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"The Amazing Bud Powell\"."
+    }
+  ]
 }

@@ -36,12 +36,22 @@
   "sello": "New Jazz",
   "musicos": [
     {
+      "musico": "chambers",
+      "nombre": "Paul Chambers",
+      "instrumento": "contrabajo"
+    },
+    {
       "musico": "haynes",
       "nombre": "Roy Haynes",
       "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Phineas Newborn, Jr.",
+      "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -49,12 +59,18 @@
     "Trío con Phineas Newborn y Paul Chambers: swing liviano y muy ágil. Haynes toca la batería con Newborn y Chambers, en estándares. En la ficha de Roy Haynes es el disco que representa la etapa \"Hard bop\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "4fc75f29-4099-4c53-8d0b-c7df5c42d64e",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición f915e545-36cc-49ff-87b4-cc9c3c336964 (1959-05)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Reflection",

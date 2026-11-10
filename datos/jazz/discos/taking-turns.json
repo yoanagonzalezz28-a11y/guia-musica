@@ -37,10 +37,35 @@
     {
       "musico": "bro",
       "nombre": "Jakob Bro",
-      "instrumento": "guitarra, composición"
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Andrew Cyrille",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "frisell",
+      "nombre": "Bill Frisell",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": "konitz",
+      "nombre": "Lee Konitz",
+      "instrumento": "saxo alto, saxo soprano"
+    },
+    {
+      "musico": "moran",
+      "nombre": "Jason Moran",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Thomas Morgan",
+      "instrumento": "contrabajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm"
   ],
@@ -48,10 +73,16 @@
     "Una sesión de 2014 con Lee Konitz y Bill Frisell, editada diez años después. Bro toca la guitarra con Konitz, Frisell, Jason Moran, Thomas Morgan, Andrew Cyrille y Mark Turner. Es uno de los discos que el banco elige para conocer a Jakob Bro."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "ebf1cb43-4086-4078-979c-12620c1de36c",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 416e984f-babf-4184-884e-8f329432a68b (2024-11-29)."
+    }
+  ]
 }

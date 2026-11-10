@@ -39,9 +39,19 @@
       "musico": "gustavsen",
       "nombre": "Tord Gustavsen",
       "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Harald Johnsen",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Jarle Vespestad",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm"
   ],
@@ -49,10 +59,16 @@
     "Trío de piano casi en susurro, con melodías sencillas y una calma muy nórdica. Es el segundo disco del trío con Harald Johnsen y Jarle Vespestad. Es uno de los discos que el banco elige para conocer a Tord Gustavsen."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "058e1d29-0926-3be4-a4ac-f05681446231",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición a22710d0-d634-4f56-8498-19c860bb4799 (2004)."
+    }
+  ]
 }

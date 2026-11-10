@@ -34,12 +34,22 @@
   "sello": "Verve",
   "musicos": [
     {
+      "musico": "burrell",
+      "nombre": "Kenny Burrell",
+      "instrumento": "guitarra"
+    },
+    {
       "musico": "jimmysmith",
       "nombre": "Jimmy Smith",
-      "instrumento": "órgano Hammond"
+      "instrumento": "órgano"
+    },
+    {
+      "musico": null,
+      "nombre": "Grady Tate",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "souljazz"
   ],
@@ -47,10 +57,16 @@
     "Órgano en trío, con un swing muy bluesero. A diferencia de sus discos con orquesta de esos años, acá Smith toca solo con Kenny Burrell en guitarra y Grady Tate en batería. Está entre los discos esenciales de Jimmy Smith."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "a56e1c8f-9625-38be-b7a2-753b2a5ad900",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición fa6f0be7-ffee-48b2-b4a9-a41c3c609de4 (1965)."
+    }
+  ]
 }

@@ -1,0 +1,51 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "chapital",
+  "nombre": "Juan Pablo Chapital",
+  "nacimiento": {
+    "anio": null,
+    "lugar": "Montevideo"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "guitarra",
+    "composición"
+  ],
+  "corrientes": [
+    "hoy",
+    "rioplat"
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "spotify": null,
+  "resumen": "Guitarrista, compositor y docente de Montevideo. Dirige sus propios grupos, entre ellos Electric Miles, es director musical de la banda de Laura Canoura y enseña en el Conservatorio Sur.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2010,
+      "hasta": 2024,
+      "texto": "",
+      "discoClave": {
+        "disco": "movil",
+        "explicacion": "Su disco más reciente."
+      },
+      "discos": [
+        "fotografia-silenciosa"
+      ]
+    }
+  ],
+  "fuentes": [
+    "bandcamp-chapital",
+    "montevideo-chapital"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "movil",
+    "fotografia-silenciosa"
+  ]
+}

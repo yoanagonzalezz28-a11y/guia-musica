@@ -34,12 +34,22 @@
   "sello": "Dreyfus",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Steve Gadd",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Anthony Jackson",
+      "instrumento": "bajo"
+    },
+    {
       "musico": "petrucciani",
       "nombre": "Michel Petrucciani",
       "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -47,12 +57,18 @@
     "Piano en vivo con mucha energía, con Anthony Jackson en bajo y Steve Gadd en batería. Jackson y Gadd venían del pop y del estudio, y el disco salió el año de la muerte de Petrucciani. Es uno de los discos que el banco elige para conocer a Michel Petrucciani."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "8b89c2f8-8d7a-3147-af17-1fd33f7d5d2d",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición b4109b5f-1548-456b-9410-57329eeb5232 (1999)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Training - Live",

@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Juan Pablo Chapital Móvil"
+  },
+  "id": "movil",
+  "titulo": "Móvil",
+  "credito": "Juan Pablo Chapital",
+  "lideres": [
+    "chapital"
+  ],
+  "grabacion": {
+    "desde": 2024,
+    "hasta": 2024,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2024,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "chapital",
+      "nombre": "Juan Pablo Chapital",
+      "instrumento": "guitarra, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "rioplat",
+    "hoy"
+  ],
+  "comentario": [
+    "Guitarra eléctrica en temas propios que cruzan el jazz, el candombe y la fusión. Es su disco más reciente, publicado de forma independiente. Es el disco clave de Juan Pablo Chapital en la etapa \"Jazz de hoy\"."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "bandcamp-chapital",
+      "acceso": "extracto",
+      "aporta": "Edición de 2024, con etiquetas de jazz, candombe y fusión."
+    }
+  ]
+}

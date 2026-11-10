@@ -35,12 +35,32 @@
   "sello": "ECM",
   "musicos": [
     {
+      "musico": "potter",
+      "nombre": "Chris Potter",
+      "instrumento": "soprano, alto, and tenor saxos"
+    },
+    {
+      "musico": null,
+      "nombre": "Robin Eubanks",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Nelson",
+      "instrumento": "vibráfono, marimba"
+    },
+    {
       "musico": "holland",
       "nombre": "Dave Holland",
-      "instrumento": "contrabajo, composición"
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Kilson",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "ecm"
   ],
@@ -51,7 +71,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Prime_Directive_(album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Prime Directive (album)\"."
+    }
+  ]
 }

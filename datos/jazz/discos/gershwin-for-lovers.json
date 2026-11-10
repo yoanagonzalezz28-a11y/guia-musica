@@ -36,12 +36,22 @@
   "sello": "Columbia",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Herlin Riley",
+      "instrumento": "batería"
+    },
+    {
       "musico": "mroberts",
       "nombre": "Marcus Roberts",
       "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Reginald Veal",
+      "instrumento": "bajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "neotrad"
   ],
@@ -49,10 +59,16 @@
     "Canciones de Gershwin en trío, con un toque suave y armonías muy cuidadas. Roberts, ciego desde chico, se dedicó a fondo a Gershwin y después grabó también la *Rhapsody in Blue*. Es uno de los discos que el banco elige para conocer a Marcus Roberts."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "2fe3e381-e45d-3997-8135-3045a397010d",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición a10e0d1d-6020-4f0d-a9dd-ede493c7363b (1994)."
+    }
+  ]
 }

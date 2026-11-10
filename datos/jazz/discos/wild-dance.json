@@ -34,12 +34,32 @@
   "sello": "ECM",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Francesco Diodati",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Gabriele Evangelista",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Enrico Morello",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Gianluca Petrella",
+      "instrumento": "trombón"
+    },
+    {
       "musico": "rava",
       "nombre": "Enrico Rava",
-      "instrumento": "trompeta, fliscorno"
+      "instrumento": "trompeta"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm"
   ],
@@ -47,10 +67,16 @@
     "Con músicos jóvenes italianos: energía y canto. Rava toca la trompeta con Gianluca Petrella, Francesco Diodati, Gabriele Evangelista y Enrico Morello. Está entre los discos esenciales de Enrico Rava."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "cce1ac4b-79d1-48e1-bd22-e6e86e1969e2",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición e62346e7-2b2e-473b-a671-94fb60ff6b34 (2015-08-28)."
+    }
+  ]
 }

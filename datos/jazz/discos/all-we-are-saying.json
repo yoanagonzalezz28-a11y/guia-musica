@@ -39,9 +39,29 @@
       "musico": "frisell",
       "nombre": "Bill Frisell",
       "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Greg Leisz",
+      "instrumento": "guitarra acústica, steel guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Jenny Scheinman",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Tony Scherr",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Kenny Wollesen",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -54,7 +74,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición eac04b94-2579-4bcd-a7a3-92859c2e04d7 (2011-09-27)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Across The Universe",

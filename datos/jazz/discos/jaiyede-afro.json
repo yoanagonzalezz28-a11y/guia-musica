@@ -36,12 +36,67 @@
   "sello": "Strut",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Malcolm Catto",
+      "instrumento": "percusión, órgano"
+    },
+    {
+      "musico": null,
+      "nombre": "Phil Dawson",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Jake Ferguson",
+      "instrumento": "bajo, guitarra"
+    },
+    {
       "musico": "orlando-julius",
       "nombre": "Orlando Julius",
-      "instrumento": "saxo, voz"
+      "instrumento": "percusión, saxo tenor, órgano, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Adrian Owusu",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Oliver Parfitt",
+      "instrumento": "órgano"
+    },
+    {
+      "musico": null,
+      "nombre": "Abdul Raheem",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Matt Roberts",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Jason Yarde",
+      "instrumento": "saxo barítono"
+    },
+    {
+      "musico": null,
+      "nombre": "Jack Yglesias",
+      "instrumento": "congas"
+    },
+    {
+      "musico": null,
+      "nombre": "Latoya Aduke Ekemode",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Luzmira Zerpa",
+      "instrumento": "voz"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -49,10 +104,16 @@
     "Grabado con los Heliocentrics, la banda londinense, cuando Julius ya era un veterano del afrobeat nigeriano. Julius toca el saxo y canta con los Heliocentrics, en temas de afrobeat y highlife. Está entre los discos esenciales de Orlando Julius."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "5d41b70d-c40d-455c-a4a3-9a2445dc6cd1",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 8c33466e-d763-4824-9c5f-fa8a96f2cf39 (2014-09-09)."
+    }
+  ]
 }

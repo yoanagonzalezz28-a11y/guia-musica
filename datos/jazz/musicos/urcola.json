@@ -1,0 +1,52 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "urcola",
+  "nombre": "Diego Urcola",
+  "nacimiento": {
+    "anio": 1965,
+    "lugar": "Buenos Aires"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "trompeta"
+  ],
+  "corrientes": [
+    "hoy",
+    "latino"
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "spotify": null,
+  "resumen": "Trompetista porteño radicado en Nueva York, de larga trayectoria con Paquito D'Rivera; toca en el Festival de Jazz de Punta del Este.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2003,
+      "hasta": 2020,
+      "texto": "",
+      "discoClave": {
+        "disco": "soundances",
+        "explicacion": "Su segundo disco, nominado al Grammy."
+      },
+      "discos": [
+        "viva-urcola",
+        "el-duelo"
+      ]
+    }
+  ],
+  "fuentes": [
+    "newvelle-urcola",
+    "miller-urcola"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "soundances",
+    "viva-urcola",
+    "el-duelo"
+  ]
+}

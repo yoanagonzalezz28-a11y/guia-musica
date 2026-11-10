@@ -37,10 +37,94 @@
     {
       "musico": "mccraven",
       "nombre": "Makaya McCraven",
-      "instrumento": "batería, producción"
+      "instrumento": "batería, production"
+    },
+    {
+      "musico": "brandee-younger",
+      "nombre": "Brandee Younger",
+      "instrumento": "arpa",
+      "nota": "temas 1–6"
+    },
+    {
+      "musico": "joel-ross",
+      "nombre": "Joel Ross",
+      "instrumento": "vibráfono",
+      "nota": "temas 1–6"
+    },
+    {
+      "musico": null,
+      "nombre": "Dezron Douglas",
+      "instrumento": "contrabajo",
+      "nota": "temas 1–6"
+    },
+    {
+      "musico": null,
+      "nombre": "Tomeka Reid",
+      "instrumento": "violonchelo",
+      "nota": "temas 1–11"
+    },
+    {
+      "musico": "hutchings",
+      "nombre": "Shabaka Hutchings",
+      "instrumento": "saxo tenor",
+      "nota": "temas 7–11"
+    },
+    {
+      "musico": null,
+      "nombre": "Junius Paul",
+      "instrumento": "contrabajo, percusión",
+      "nota": "temas 7–11"
+    },
+    {
+      "musico": "nubya",
+      "nombre": "Nubya Garcia",
+      "instrumento": "saxo tenor",
+      "nota": "temas 12–16"
+    },
+    {
+      "musico": null,
+      "nombre": "Ashley Henry",
+      "instrumento": "piano eléctrico Rhodes",
+      "nota": "temas 12–16"
+    },
+    {
+      "musico": null,
+      "nombre": "Daniel Casimir",
+      "instrumento": "contrabajo",
+      "nota": "temas 12–16"
+    },
+    {
+      "musico": null,
+      "nombre": "Josh Johnson",
+      "instrumento": "saxo alto",
+      "nota": "temas 17–22"
+    },
+    {
+      "musico": null,
+      "nombre": "Miguel Atwood-Ferguson",
+      "instrumento": "violín",
+      "nota": "temas 17–22"
+    },
+    {
+      "musico": null,
+      "nombre": "Jeff Parker",
+      "instrumento": "guitarra",
+      "nota": "temas 17–22"
+    },
+    {
+      "musico": null,
+      "nombre": "Anna Butterss",
+      "instrumento": "contrabajo",
+      "nota": "temas 17–22"
+    },
+    {
+      "musico": null,
+      "nombre": "Carlos Niño",
+      "instrumento": "percusión",
+      "nota": "temas 17–22"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "hoy"
   ],
@@ -51,7 +135,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Universal_Beings"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Universal Beings\"."
+    }
+  ]
 }

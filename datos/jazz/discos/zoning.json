@@ -36,12 +36,42 @@
   "sello": "Mary Records",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Bob Cranshaw",
+      "instrumento": "contrabajo, bajo eléctrico",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Mickey Roker",
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 9"
+    },
+    {
       "musico": "williams",
       "nombre": "Mary Lou Williams",
-      "instrumento": "piano, composición, arreglos"
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Zita Carno",
+      "instrumento": "piano",
+      "nota": "temas 5, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Milton Suggs",
+      "instrumento": "contrabajo",
+      "nota": "temas 11, 12, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Tony Waters",
+      "instrumento": "congas",
+      "nota": "temas 11, 12, 13"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "modal"
   ],
@@ -49,10 +79,16 @@
     "Williams toca el piano en trío, con temas propios y un aire moderno, más abierto que el de sus discos de swing. Salió por Mary Records, el sello que ella misma fundó para controlar su música. En la ficha de Mary Lou Williams es el disco que representa la etapa \"Regreso de los 70\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "ac5f2664-c1f3-31ea-96bc-52566f650a3b",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición f8bdce21-8eee-4ab6-8552-7ad5ebe1659a (1974)."
+    }
+  ]
 }

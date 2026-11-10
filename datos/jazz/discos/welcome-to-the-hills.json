@@ -35,12 +35,22 @@
   "sello": "Brownswood",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Charlie Stacey",
+      "instrumento": "teclados, sintetizador"
+    },
+    {
       "musico": "yussef-dayes",
       "nombre": "Yussef Dayes",
-      "instrumento": "batería"
+      "instrumento": "batería, percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Rocco Palladino",
+      "instrumento": "bajo eléctrico"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -48,10 +58,16 @@
     "Batería, teclados y bajo en vivo, con grooves largos que se van transformando. Rocco Palladino, hijo del bajista Pino Palladino, toca el bajo, y Charlie Stacey los teclados. Es uno de los discos que el banco elige para conocer a Yussef Dayes."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "f07df373-94d9-49b1-9bb1-fe978bdd88a7",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 235ef484-c2e0-4bae-922e-c5a7a952260f (2020-12-03)."
+    }
+  ]
 }

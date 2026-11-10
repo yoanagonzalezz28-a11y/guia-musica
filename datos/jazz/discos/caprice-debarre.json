@@ -37,9 +37,39 @@
       "musico": "debarre",
       "nombre": "Angelo Debarre",
       "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Philippe Cuillerier",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Xavier Desandre-Navarre",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Bernard Malandain",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Florin Niculescu",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Max Robin",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Bojan Z",
+      "instrumento": "piano"
     }
   ],
-  "personalNota": "Lista parcial.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "manouche"
   ],
@@ -47,12 +77,18 @@
     "Disco de Debarre para el sello noruego Hot Club, cuyo productor, Jon Larsen, lo descubrió tocando en el café La Roue Fleurie de París. Guitarra virtuosa y muy melódica, con valses y swing. Es una buena entrada a su estilo."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "4e65330d-62dd-4e30-a85d-c358b03675fc",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 52561d4c-6f8b-465d-9830-2cb8f8274a2d (1998)."
+    }
+  ],
   "fuentes": [
     "wp-angelo-debarre"
   ]

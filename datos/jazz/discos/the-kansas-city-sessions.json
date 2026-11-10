@@ -8,7 +8,7 @@
   "regiones": [
     "estados-unidos"
   ],
-  "compilacion": false,
+  "compilacion": true,
   "tipo": "estudio",
   "catalogo": null,
   "lugar": null,
@@ -24,7 +24,7 @@
   ],
   "grabacion": {
     "desde": 1938,
-    "hasta": 1938,
+    "hasta": 1944,
     "detalle": null
   },
   "edicion": {
@@ -34,12 +34,66 @@
   "sello": "Commodore",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Buck Clayton",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 19, 20, 21, 22"
+    },
+    {
+      "musico": null,
+      "nombre": "Eddie Durham",
+      "instrumento": "guitarra eléctrica, trombón",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 19, 20, 21, 22"
+    },
+    {
+      "musico": null,
+      "nombre": "Freddie Green",
+      "instrumento": "guitarra, voz",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 19, 20, 21, 22"
+    },
+    {
+      "musico": "jo-jones",
+      "nombre": "Jo Jones",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Walter Page",
+      "instrumento": "contrabajo",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 19, 20, 21, 22"
+    },
+    {
       "musico": "young",
       "nombre": "Lester Young",
-      "instrumento": "saxo tenor"
+      "instrumento": "clarinete, saxo tenor",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Bushkin",
+      "instrumento": "piano",
+      "nota": "temas 11, 12, 13, 14, 15, 16, 17, 18"
+    },
+    {
+      "musico": null,
+      "nombre": "Bill Coleman",
+      "instrumento": "trompeta",
+      "nota": "temas 11, 12, 13, 14, 15, 16, 17, 18"
+    },
+    {
+      "musico": null,
+      "nombre": "John Simmons",
+      "instrumento": "contrabajo",
+      "nota": "temas 11, 12, 13, 14, 15, 16, 17, 18"
+    },
+    {
+      "musico": null,
+      "nombre": "Dicky Wells",
+      "instrumento": "trombón",
+      "nota": "temas 11, 12, 13, 14, 15, 16, 17, 18"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "swing"
   ],
@@ -47,10 +101,21 @@
     "Grupo chico con Buck Clayton: Lester en su mejor momento. Young toca el saxo tenor y el clarinete con Clayton, Freddie Green y Jo Jones, con un sonido liviano. Es uno de los discos que el banco elige para conocer a Lester Young."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "9cd0a88f-80d3-3e7c-b91d-55d7547bfe6e",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 45adcd5a-50eb-4711-b29c-e350fdad7fa7 (1997)."
+    }
+  ],
+  "recopilacion": {
+    "desde": 1938,
+    "hasta": 1944,
+    "original": "Los temas salieron primero en discos de 78 rpm."
+  }
 }

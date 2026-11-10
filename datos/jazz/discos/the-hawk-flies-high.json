@@ -34,12 +34,42 @@
   "sello": "Riverside",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Barry Galbraith",
+      "instrumento": "guitarra"
+    },
+    {
       "musico": "hawkins",
       "nombre": "Coleman Hawkins",
       "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "J.J. Johnson",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": "hank-jones",
+      "nombre": "Hank Jones",
+      "instrumento": "piano"
+    },
+    {
+      "musico": "jo-jones",
+      "nombre": "Jo Jones",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Oscar Pettiford",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Idrees Sulieman",
+      "instrumento": "trompeta"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "swing"
   ],
@@ -47,10 +77,16 @@
     "Hawkins con músicos más jóvenes como Idrees Sulieman y J. J. Johnson: el padre del saxo tenor, cómodo en el hard bop."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "f75664d4-47ce-31ac-8228-d3d1c2a027c0",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "The_Hawk_Flies_High"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 274a5f43-d0ff-4b99-b664-0a90406c849a (1957)."
+    }
+  ]
 }

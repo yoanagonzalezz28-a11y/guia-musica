@@ -35,12 +35,60 @@
   "sello": null,
   "musicos": [
     {
+      "musico": "akinmusire",
+      "nombre": "Ambrose Akinmusire",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 3, 4, 6, 10, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Vinnie Colaiuta",
+      "instrumento": "batería",
+      "nota": "temas 1, 3, 4, 6, 8, 10, 11, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Adriano Dos Santos Tenorio",
+      "instrumento": "percusión",
+      "nota": "temas 1, 3, 4, 6, 8, 10, 11, 12"
+    },
+    {
+      "musico": "holland",
+      "nombre": "Dave Holland",
+      "instrumento": "contrabajo",
+      "nota": "temas 1, 4, 6, 9, 10, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Nguyên Lê",
+      "instrumento": "guitarra",
+      "nota": "temas 1, 3, 4, 5, 6, 8, 9, 10, 11, 12"
+    },
+    {
       "musico": "youssef",
       "nombre": "Dhafer Youssef",
       "instrumento": "oud, voz"
+    },
+    {
+      "musico": "hancock",
+      "nombre": "Herbie Hancock",
+      "instrumento": "sintetizador, piano, oud",
+      "nota": "temas 2, 4, 5, 6, 7, 11"
+    },
+    {
+      "musico": "marcus-miller",
+      "nombre": "Marcus Miller",
+      "instrumento": "bajo eléctrico",
+      "nota": "temas 3, 8, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Rakesh Chaurasia",
+      "instrumento": "bansuri",
+      "nota": "temas 3, 4, 8, 9, 10, 11, 12"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -48,10 +96,16 @@
     "Oud y voz con invitados, en temas largos. Youssef junta a Herbie Hancock y Marcus Miller con músicos de jazz europeo y de Medio Oriente. En la ficha de Dhafer Youssef es el disco que representa la etapa \"Jazz del mundo\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "78c38f75-8ad0-485f-8477-3bb095aafc04",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición ea3c6344-3d3e-42f2-a1f5-fc066a31daa8 (2023-01-27)."
+    }
+  ]
 }

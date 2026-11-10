@@ -38,9 +38,188 @@
       "musico": "ofarrill",
       "nombre": "Chico O'Farrill",
       "instrumento": "arreglos, composición, trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Alfredo \"Chocolate\" Armenteros",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 10, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Eddie Bobé",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Peter Brainin",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Sam Burtis",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Pablo Calogero",
+      "instrumento": "saxo barítono"
+    },
+    {
+      "musico": null,
+      "nombre": "Candido",
+      "instrumento": "congas",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Cozier",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Paquito D’Rivera",
+      "instrumento": "cañas",
+      "nota": "temas 1, 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Matt Hilgenberg",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Roger Ingram",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Jack Jeffers",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Marshall McDonald",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Mike Migliore",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Arturo O’Farrill",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Peter Olstad",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "David Oquendo",
+      "instrumento": "guitarra",
+      "nota": "temas 1, 8, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Orlando \"Puntilla\" Rios",
+      "instrumento": "percusión",
+      "nota": "temas 1, 7, 10, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Bobby Porcelli",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Kenny Rampton",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "David \"Piro\" Rodríguez",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Jim Seeley",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Mauricio Smith",
+      "instrumento": "vientos de madera",
+      "nota": "temas 1, 3, 7, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Gary Valente",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": "papo-vazquez",
+      "nombre": "Papo Vázquez",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Vivian Ara",
+      "instrumento": "voz",
+      "nota": "temas 1, 8, 10, 11, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Ilmar Gavilán",
+      "instrumento": "violín",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Freddy Cole",
+      "instrumento": "voz",
+      "nota": "temas 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Mario Rivera",
+      "instrumento": "saxo soprano",
+      "nota": "temas 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Israel “Cachao” López",
+      "instrumento": "bajo",
+      "nota": "temas 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Juan Pablo Torres",
+      "instrumento": "trombón",
+      "nota": "temas 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Carlos “Patato” Valdés",
+      "instrumento": "congas, maracas",
+      "nota": "temas 10, 11"
+    },
+    {
+      "musico": "sandoval",
+      "nombre": "Arturo Sandoval",
+      "instrumento": "trompeta",
+      "nota": "temas 14"
+    },
+    {
+      "musico": null,
+      "nombre": "Afro-Cuban Jazz Big Band",
+      "instrumento": "músico"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "latino"
   ],
@@ -48,10 +227,16 @@
     "Con Cachao y Gato Barbieri entre los invitados. O'Farrill escribe para una big band de jazz afrocubano, con arreglos ricos y mucha percusión. Está entre los discos esenciales de Chico O'Farrill."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "1bb876ef-2c81-3cf3-b193-2a8197cda98d",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 1f51049a-8919-41ec-8f4d-586aa3cd1935 (1999)."
+    }
+  ]
 }

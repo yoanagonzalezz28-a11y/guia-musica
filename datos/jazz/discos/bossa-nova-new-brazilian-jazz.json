@@ -37,12 +37,37 @@
   "sello": "Audio Fidelity",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Leo Wright",
+      "instrumento": "flauta, saxo, vientos de madera"
+    },
+    {
+      "musico": null,
+      "nombre": "Rudy Collins",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "José Paulo",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Jack Del Rio",
+      "instrumento": "percusión"
+    },
+    {
       "musico": "schifrin",
       "nombre": "Lalo Schifrin",
-      "instrumento": "piano, composición, arreglos"
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Chris White",
+      "instrumento": "bajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "brasil"
   ],
@@ -50,10 +75,16 @@
     "Canciones de bossa nova arregladas para un grupo de jazz con percusión brasileña. Schifrin había llegado de Buenos Aires a Nueva York pocos años antes y tocaba con Dizzy Gillespie. En la ficha de Lalo Schifrin es el disco que representa la etapa \"Jazz brasileño\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "9d6c697f-10f7-461e-9c73-8456b90889c6",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición f8750e08-2df0-49b1-9437-6c42979f9c44 (1962)."
+    }
+  ]
 }

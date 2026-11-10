@@ -36,9 +36,34 @@
       "musico": "getz",
       "nombre": "Stan Getz",
       "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Charlie Byrd",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Gene Byrd",
+      "instrumento": "guitarra, bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Keter Betts",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Buddy Deppenschmidt",
+      "instrumento": "batería, percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Bill Reichenbach Sr.",
+      "instrumento": "batería, percusión"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "brasil"
   ],
@@ -49,7 +74,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Jazz_Samba"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Jazz Samba\"."
+    }
+  ]
 }

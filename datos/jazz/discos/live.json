@@ -37,9 +37,29 @@
       "musico": "mcduff",
       "nombre": "Jack McDuff",
       "instrumento": "órgano"
+    },
+    {
+      "musico": null,
+      "nombre": "George Benson",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Dukes",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Red Holloway",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "“Brother” Jack McDuff",
+      "instrumento": "órgano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "souljazz"
   ],
@@ -47,10 +67,16 @@
     "Órgano con un groove muy bluesero en vivo, con la guitarra de George Benson. Benson tenía unos veinte años, y el disco incluye \"Rock Candy\". Está entre los discos esenciales de Jack McDuff."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "9a2bb251-4704-34fa-b091-bdc305dd2f68",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición f7f949b3-1289-465a-b5e8-21d0127867cd (1963)."
+    }
+  ]
 }

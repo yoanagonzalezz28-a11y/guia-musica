@@ -37,12 +37,22 @@
   "sello": "Sunnyside",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Jeff Ballard",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Fernando Huergo",
+      "instrumento": "bajo"
+    },
+    {
       "musico": "klein",
       "nombre": "Guillermo Klein",
-      "instrumento": "piano, composición, arreglos"
+      "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "rioplat"
   ],
@@ -50,12 +60,18 @@
     "Veinte años después, el grupo sigue sonando nuevo. Los Guachos tocan temas de Klein con ritmos argentinos y armonía compleja. Es el disco clave de Guillermo Klein en la etapa \"Jazz rioplatense\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "63e1abd9-2b4b-411c-a244-98ec625cb1f5",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 9f9ff4f3-e185-4ea9-9c7a-10fca48784bf (2019-09-27)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Melodia De Arrabal",

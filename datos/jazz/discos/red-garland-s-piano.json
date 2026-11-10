@@ -35,12 +35,22 @@
   "sello": "Prestige",
   "musicos": [
     {
+      "musico": "chambers",
+      "nombre": "Paul Chambers",
+      "instrumento": "contrabajo"
+    },
+    {
       "musico": "garland",
       "nombre": "Red Garland",
       "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Art Taylor",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -48,10 +58,16 @@
     "Garland toca en trío con un toque liviano y acordes en bloque, en baladas y estándares. Era el pianista del quinteto de Miles Davis en esos años, y lo acompañan Paul Chambers en contrabajo y Art Taylor en batería. Es uno de los discos que el banco elige para conocer a Red Garland."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "e3b531a6-7799-3f6d-8a9d-935edd1f8200",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 9aa4e2f0-cc32-450a-92ce-60a6f2b675d1 (1957)."
+    }
+  ]
 }

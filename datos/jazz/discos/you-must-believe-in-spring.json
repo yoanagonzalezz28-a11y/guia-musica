@@ -39,9 +39,19 @@
       "musico": "evans",
       "nombre": "Bill Evans",
       "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Eddie Gomez",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Eliot Zigmund",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "cool"
   ],
@@ -53,12 +63,18 @@
     "Es el Evans tardío, con un sonido más grave y lento, y uno de los mejores lugares para escuchar cómo tocaba una balada."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "0cf4e31e-14a0-3c31-bcc3-9cad55817aac",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "You_Must_Believe_in_Spring"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 47dfc840-4dfc-4d08-be02-93a968cf658e (1981)."
+    }
+  ],
   "temas": [
     {
       "titulo": "B Minor Waltz - Remastered 2003",

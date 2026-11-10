@@ -38,9 +38,87 @@
       "musico": "us3",
       "nombre": "Us3",
       "instrumento": "grupo"
+    },
+    {
+      "musico": null,
+      "nombre": "Alexander Pope Norris",
+      "instrumento": "trompeta",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Gareth Williams",
+      "instrumento": "piano, piano eléctrico",
+      "nota": "temas 2, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "KCB",
+      "instrumento": "voz",
+      "nota": "temas 2, 4, 5, 7, 8, 11, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Dominic Glover",
+      "instrumento": "trompeta",
+      "nota": "temas 3, 11, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Shabaam Sahdeeq",
+      "instrumento": "voz",
+      "nota": "temas 3, 6, 9, 10, 11, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Ed Jones",
+      "instrumento": "saxo soprano, saxo tenor",
+      "nota": "temas 5, 6, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Tim Vine",
+      "instrumento": "piano eléctrico",
+      "nota": "temas 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Gabe Catanzaro",
+      "instrumento": "piano",
+      "nota": "temas 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Dennis Rollins",
+      "instrumento": "trombón",
+      "nota": "temas 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Tony Rémy",
+      "instrumento": "guitarra",
+      "nota": "temas 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Williamson",
+      "instrumento": "saxo tenor",
+      "nota": "temas 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Mike Smith",
+      "instrumento": "saxo tenor",
+      "nota": "temas 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Jonathan Gee",
+      "instrumento": "melódica",
+      "nota": "temas 14"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "acid"
   ],
@@ -48,10 +126,16 @@
     "Raperos sobre bases armadas con samples del catálogo de Blue Note, con vientos grabados en vivo encima. Es el segundo disco del grupo de Londres, que se había hecho conocido con \"Cantaloop\", construido sobre un tema de Herbie Hancock. Es uno de los discos que el banco elige para conocer a Us3."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "389e4651-ecff-3d07-8205-2a7dbafeb363",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 231119ad-9da1-4737-a872-232526abdeb5 (1996)."
+    }
+  ]
 }

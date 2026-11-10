@@ -36,12 +36,37 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": "chambers",
+      "nombre": "Paul Chambers",
+      "instrumento": "contrabajo"
+    },
+    {
       "musico": "coltrane",
       "nombre": "John Coltrane",
-      "instrumento": "saxo tenor, saxo soprano"
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Kenny Drew",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Curtis Fuller",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": "philly-joe-jones",
+      "nombre": "Philly Joe Jones",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "morgan",
+      "nombre": "Lee Morgan",
+      "instrumento": "trompeta"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -58,7 +83,13 @@
     "wikidata": null,
     "wikipedia": "Blue_Train_(album)"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 4ca248f9-8f10-462b-a3bd-6ff48f25f151 (1958)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Blue Train - Remastered 2003/Rudy Van Gelder Edition",

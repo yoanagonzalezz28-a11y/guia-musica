@@ -36,10 +36,30 @@
     {
       "musico": "dudziak",
       "nombre": "Urszula Dudziak",
-      "instrumento": "voz, electrónica"
+      "instrumento": "percusión, sintetizador, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Gerry Brown",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Basil Fearington",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": "urbaniak",
+      "nombre": "Michał Urbaniak",
+      "instrumento": "Lyricon"
+    },
+    {
+      "musico": null,
+      "nombre": "Harold \"Ivory\" Williams",
+      "instrumento": "teclados"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "fusion"
   ],
@@ -47,10 +67,16 @@
     "Con \"Papaya\": voz procesada y groove de fusión. Dudziak canta sin letra y procesa su voz, sobre una base de fusión. Está entre los discos esenciales de Urszula Dudziak."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "4fd7d480-59a7-4ffe-806c-caf4fa64adf3",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 8019626c-7551-42ec-acef-8aac4d889aa4 (1975)."
+    }
+  ]
 }

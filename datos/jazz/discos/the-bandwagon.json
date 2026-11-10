@@ -36,12 +36,31 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Tarus Mateen",
+      "instrumento": "contrabajo guitarra, bajo eléctrico",
+      "nota": "temas 2, 3, 4, 5, 6, 7, 8, 9, 10"
+    },
+    {
       "musico": "moran",
       "nombre": "Jason Moran",
-      "instrumento": "piano"
+      "instrumento": "piano",
+      "nota": "temas 2, 3, 4, 5, 6, 7, 8, 9, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Nasheet Waits",
+      "instrumento": "percusión",
+      "nota": "temas 2, 3, 4, 5, 6, 7, 8, 9, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Ahu Gural",
+      "instrumento": "voz",
+      "nota": "temas 4"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -49,10 +68,16 @@
     "Piano en trío en vivo, con grabaciones de voces habladas que suenan sobre la música. Se grabó en el Village Vanguard con Tarus Mateen y Nasheet Waits, el trío al que el título nombra. Es uno de los discos que el banco elige para conocer a Jason Moran."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "77690c69-cda4-3031-a834-bcdb3521a2b4",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición a75925b6-e0bd-4367-9c7b-bc7e4dbab30a (2003)."
+    }
+  ]
 }

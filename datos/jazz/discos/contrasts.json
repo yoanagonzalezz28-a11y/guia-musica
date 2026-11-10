@@ -38,10 +38,23 @@
     {
       "musico": "garner",
       "nombre": "Erroll Garner",
-      "instrumento": "piano, composición"
+      "instrumento": "piano",
+      "nota": "temas 1, 3, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Eugene \"Fats\" Heard",
+      "instrumento": "batería",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Wyatt Ruther",
+      "instrumento": "contrabajo, bajo",
+      "nota": "temas 1"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "swing"
   ],
@@ -49,10 +62,16 @@
     "Trío con \"Misty\" en otra versión. Garner toca con su trío en piezas que alternan baladas y swing, con su mano izquierda que marca el pulso como una guitarra. Es uno de los discos que el banco elige para conocer a Erroll Garner."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "7cca3eb7-a3ff-3f37-a5c7-674e69c48fb3",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 4af63619-5696-482e-977c-6ad68e000342 (1955)."
+    }
+  ]
 }

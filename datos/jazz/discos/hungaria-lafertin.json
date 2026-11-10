@@ -32,12 +32,32 @@
   "sello": null,
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Tony Bevir",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Elsworth",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Pete Finch",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Dave Kelbie",
+      "instrumento": "guitarra"
+    },
+    {
       "musico": "lafertin",
       "nombre": "Fapy Lafertin",
-      "instrumento": "guitarra, guitarra de doce cuerdas"
+      "instrumento": "guitarra"
     }
   ],
-  "personalNota": "Lista parcial.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "manouche"
   ],
@@ -45,12 +65,18 @@
     "El título viene de un tema de Django Reinhardt, y el disco sigue esa línea. Lafertin suma su guitarra de doce cuerdas y aires de fado y samba. Muestra cómo el manouche se abre a otras músicas sin perder su base."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "04f333a9-9993-4743-a889-3bfa6985476f",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 363203f8-a1c6-4b3d-a8f1-bc421eafebbd (1996)."
+    }
+  ],
   "fuentes": [
     "wp-fapy-lafertin"
   ]

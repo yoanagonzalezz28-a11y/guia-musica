@@ -37,10 +37,20 @@
     {
       "musico": "avishai",
       "nombre": "Avishai Cohen",
-      "instrumento": "contrabajo, voz"
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Roni Kaspi",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Elchin Shirinov",
+      "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -48,10 +58,16 @@
     "Contrabajo con piano y batería, en temas melódicos. El pianista Elchin Shirinov es de Azerbaiyán, y la baterista Roni Kaspi tenía poco más de veinte años. Está entre los discos esenciales de Avishai Cohen."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "e3836625-aa95-4dd1-968f-642dbc8febe7",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 2a341889-937f-415e-843c-209ad308d0fe (2022-05-13)."
+    }
+  ]
 }

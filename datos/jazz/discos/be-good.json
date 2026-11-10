@@ -39,9 +39,51 @@
       "musico": "porter",
       "nombre": "Gregory Porter",
       "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Chip Crawford",
+      "instrumento": "piano",
+      "nota": "temas all tracks, except 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Aaron James",
+      "instrumento": "bajo",
+      "nota": "temas exc. 7, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Emanuel Harrold",
+      "instrumento": "batería",
+      "nota": "temas exc. 7, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Yosuke Sato",
+      "instrumento": "saxo alto",
+      "nota": "temas 2, 3, 6, 8&ndash;11"
+    },
+    {
+      "musico": null,
+      "nombre": "Tivon Pennicott",
+      "instrumento": "saxo tenor",
+      "nota": "temas 2&ndash;4, 8, 10, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Keyon Harrold",
+      "instrumento": "trompeta",
+      "nota": "temas 2&ndash;4, 8, 10, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Kamau Kenyatta",
+      "instrumento": "corno arreglos",
+      "nota": "temas 2&ndash;4, 8, 11"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "hoy"
   ],
@@ -52,7 +94,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Be_Good_(Gregory_Porter_album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Be Good (Gregory Porter album)\"."
+    }
+  ]
 }

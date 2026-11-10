@@ -38,9 +38,61 @@
       "musico": "abbey",
       "nombre": "Abbey Lincoln",
       "instrumento": "voz, composición"
+    },
+    {
+      "musico": null,
+      "nombre": "Walter Benton",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Art Davis",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": "dolphy",
+      "nombre": "Eric Dolphy",
+      "instrumento": "cañas"
+    },
+    {
+      "musico": "hawkins",
+      "nombre": "Coleman Hawkins",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Booker Little",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Julian Priester",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": "roach",
+      "nombre": "Max Roach",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Mal Waldron",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Roger “Montego Joe” Sanders",
+      "instrumento": "congas",
+      "nota": "temas 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Robert Whitley",
+      "instrumento": "congas",
+      "nota": "temas 6"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -48,10 +100,16 @@
     "Lincoln canta con Eric Dolphy, Coleman Hawkins, Max Roach y Mal Waldron, con una voz dura y directa. Los temas hablan de la experiencia afroamericana, y algunos críticos de la época la atacaron por ser \"demasiado política\". Es el disco clave de Abbey Lincoln en la etapa \"Hard bop\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "c39391b8-a7eb-3000-853c-2ad00ebfd1dd",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición b705a7fa-3ec7-4b84-9107-975968a892dc (1961)."
+    }
+  ]
 }

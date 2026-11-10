@@ -34,12 +34,22 @@
   "sello": "Label Bleu",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Aldo Romano",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Louis Sclavis",
+      "instrumento": "cañas"
+    },
+    {
       "musico": "texier",
       "nombre": "Henri Texier",
-      "instrumento": "contrabajo, composición"
+      "instrumento": "contrabajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -47,12 +57,18 @@
     "Trío con Aldo Romano y Louis Sclavis: viajes por África en música. Texier, Romano y Sclavis tocan temas inspirados en un viaje por África, con clarinete y saxo sobre ritmos circulares. Está entre los discos esenciales de Henri Texier."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "f724e860-facc-3b0a-b350-f209775d0e3d",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 8869a1b4-6d9f-49d3-a227-a367603f9d96 (1995)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Standing Ovation (For Mandela)",

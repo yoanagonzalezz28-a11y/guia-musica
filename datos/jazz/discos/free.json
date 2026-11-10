@@ -34,12 +34,91 @@
   "sello": "CTI",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Wayne Andre",
+      "instrumento": "trombón",
+      "nota": "temas 1, 2, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Garnett Brown",
+      "instrumento": "trombón",
+      "nota": "temas 1, 2, 4"
+    },
+    {
+      "musico": "ronc",
+      "nombre": "Ron Carter",
+      "instrumento": "bajo",
+      "nota": "temas 1, 2, 3, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Burt Collins",
+      "instrumento": "fliscorno, trompeta",
+      "nota": "temas 1, 2, 4"
+    },
+    {
+      "musico": "corea",
+      "nombre": "Chick Corea",
+      "instrumento": "piano, piano eléctrico",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Mel Davis",
+      "instrumento": "fliscorno, trompeta",
+      "nota": "temas 1, 2, 4"
+    },
+    {
       "musico": "airto",
       "nombre": "Airto Moreira",
-      "instrumento": "percusión"
+      "instrumento": "percusión, voz, flauta",
+      "nota": "temas 1, 2, 3, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Al Rubin",
+      "instrumento": "fliscorno, trompeta",
+      "nota": "temas 1, 2, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Wallace",
+      "instrumento": "trombón",
+      "nota": "temas 1, 2, 4"
+    },
+    {
+      "musico": "flora",
+      "nombre": "Flora Purim",
+      "instrumento": "voz",
+      "nota": "temas 1, 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Jay Berliner",
+      "instrumento": "guitarra",
+      "nota": "temas 2"
+    },
+    {
+      "musico": "jarrett",
+      "nombre": "Keith Jarrett",
+      "instrumento": "piano, piano eléctrico",
+      "nota": "temas 2, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Hubert Laws",
+      "instrumento": "flauta",
+      "nota": "temas 2, 3, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "George Benson",
+      "instrumento": "guitarra",
+      "nota": "temas 4"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "brasil"
   ],
@@ -47,10 +126,16 @@
     "Con Chick Corea, Keith Jarrett y Hubert Laws. Airto toca la percusión con un grupo de lujo, en temas que mezclan jazz eléctrico y música brasileña. Es el disco clave de Airto Moreira en la etapa \"Jazz brasileño\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "72256ea1-a7a2-356a-8efa-addbd5434606",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 0b29f2b8-3b8d-4643-b86e-9af882c08845 (1972)."
+    }
+  ]
 }

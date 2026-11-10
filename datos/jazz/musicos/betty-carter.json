@@ -1,0 +1,53 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "betty-carter",
+  "nombre": "Betty Carter",
+  "nacimiento": {
+    "anio": 1929,
+    "lugar": "Flint"
+  },
+  "muerte": {
+    "anio": 1998
+  },
+  "instrumentos": [
+    "voz"
+  ],
+  "corrientes": [
+    "hard-bop",
+    "neotrad"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ",
+  "resumen": "Cantante de una técnica de improvisación y scat única. Su banda fue una escuela para muchos músicos jóvenes de los 80 y 90.",
+  "epocas": [
+    {
+      "titulo": "Neotradicionalismo",
+      "desde": 1961,
+      "hasta": 1988,
+      "texto": "",
+      "discoClave": {
+        "disco": "the-audience-with-betty-carter",
+        "explicacion": "Su forma de improvisar con la voz, en vivo."
+      },
+      "discos": [
+        "ray-charles-and-betty-carter",
+        "look-what-i-got"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-betty-carter"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "the-audience-with-betty-carter",
+    "ray-charles-and-betty-carter",
+    "look-what-i-got"
+  ]
+}

@@ -36,12 +36,74 @@
   "sello": "Verve",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Vinnie Colaiuta",
+      "instrumento": "batería"
+    },
+    {
       "musico": "hancock",
       "nombre": "Herbie Hancock",
-      "instrumento": "piano, teclados, composición"
+      "instrumento": "piano"
+    },
+    {
+      "musico": "holland",
+      "nombre": "Dave Holland",
+      "instrumento": "bajo eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Lionel Loueke",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": "shorter",
+      "nombre": "Wayne Shorter",
+      "instrumento": "saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Norah Jones",
+      "instrumento": "voz",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Prince",
+      "instrumento": "guitarra",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Tina Turner",
+      "instrumento": "voz",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Corinne Bailey Rae",
+      "instrumento": "voz",
+      "nota": "temas 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Joni Mitchell",
+      "instrumento": "voz",
+      "nota": "temas 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Luciana Souza",
+      "instrumento": "voz",
+      "nota": "temas 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Leonard Cohen",
+      "instrumento": "voz",
+      "nota": "temas 10"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -54,7 +116,13 @@
     "wikidata": null,
     "wikipedia": "River:_The_Joni_Letters"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 382365d3-118e-4bff-b18c-05bd3c404bb7 (2007)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Court And Spark",

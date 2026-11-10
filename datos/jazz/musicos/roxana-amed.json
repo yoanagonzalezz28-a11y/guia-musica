@@ -1,0 +1,56 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "roxana-amed",
+  "nombre": "Roxana Amed",
+  "nacimiento": {
+    "anio": 1963,
+    "lugar": null
+  },
+  "muerte": {
+    "anio": 2026
+  },
+  "instrumentos": [
+    "voz",
+    "composición"
+  ],
+  "corrientes": [
+    "hoy",
+    "rioplat"
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "spotify": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n",
+  "resumen": "Cantante y compositora argentina, una de las voces más singulares del jazz del país. Vivió más de una década en Estados Unidos, donde enseñó en la Universidad de Miami; murió en octubre de 2026.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2022,
+      "hasta": 2024,
+      "texto": "",
+      "discoClave": {
+        "disco": "los-trabajos-y-las-noches",
+        "explicacion": "Canciones sobre poemas de Alejandra Pizarnik."
+      },
+      "discos": [
+        "unanime",
+        "becoming-human"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-roxana-amed",
+    "perfil-amed",
+    "miami-amed"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "los-trabajos-y-las-noches",
+    "unanime",
+    "becoming-human"
+  ]
+}

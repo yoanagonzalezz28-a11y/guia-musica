@@ -36,12 +36,57 @@
   "sello": "Saturn",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Marshall Allen",
+      "instrumento": "vientos de madera"
+    },
+    {
+      "musico": null,
+      "nombre": "Ronnie Boykins",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "William Cochran",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Charles Davis",
+      "instrumento": "saxo barítono"
+    },
+    {
+      "musico": null,
+      "nombre": "Hobart Dotson",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "John Gilmore",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Pat Patrick",
+      "instrumento": "vientos de madera"
+    },
+    {
+      "musico": null,
+      "nombre": "Julian Priester",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "James Spaulding",
+      "instrumento": "vientos de madera"
+    },
+    {
       "musico": "sunra",
       "nombre": "Sun Ra",
-      "instrumento": "piano, sintetizador, composición"
+      "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "free"
   ],
@@ -49,10 +94,16 @@
     "La Arkestra toca swing de big band con arreglos raros, percusión y temas que miran al espacio exterior. Salió por Saturn, el sello propio de Sun Ra, e incluye \"Ancient Aiethopia\", uno de sus temas más largos y misteriosos de esa época. Es el disco clave de Sun Ra en la etapa \"Free jazz\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "9e656f56-9d0d-34fa-82f0-b31062305588",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición b69a3b9f-288f-3b8d-907b-b7a3ffeb9162 (1958)."
+    }
+  ]
 }

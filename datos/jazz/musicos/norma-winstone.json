@@ -1,0 +1,49 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "norma-winstone",
+  "nombre": "Norma Winstone",
+  "nacimiento": {
+    "anio": 1941,
+    "lugar": "Londres"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "voz",
+    "letras"
+  ],
+  "corrientes": [
+    "ecm"
+  ],
+  "regiones": [
+    "reino-unido"
+  ],
+  "spotify": "https://open.spotify.com/artist/0CRQWqvYVd26x1RHVzzBy5",
+  "resumen": "Cantante y letrista inglesa, una de las grandes voces de la improvisación vocal, con más de cincuenta años de carrera junto a John Taylor, John Surman y Kenny Wheeler.",
+  "epocas": [
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 1987,
+      "hasta": 2008,
+      "texto": "",
+      "discoClave": {
+        "disco": "somewhere-called-home",
+        "explicacion": "Su trío con John Taylor y Tony Coe."
+      },
+      "discos": [
+        "distances"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-norma-winstone"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "somewhere-called-home",
+    "distances"
+  ]
+}

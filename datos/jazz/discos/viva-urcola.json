@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Diego Urcola Viva"
+  },
+  "id": "viva-urcola",
+  "titulo": "Viva",
+  "credito": "Diego Urcola",
+  "lideres": [
+    "urcola"
+  ],
+  "grabacion": {
+    "desde": 2006,
+    "hasta": 2006,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2006,
+    "detalle": null
+  },
+  "sello": "Cam Jazz",
+  "musicos": [
+    {
+      "musico": "urcola",
+      "nombre": "Diego Urcola",
+      "instrumento": "trompeta"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy",
+    "latino"
+  ],
+  "comentario": [
+    "Trompeta con un grupo de jazz, en temas que cruzan el bebop con la música rioplatense y latina. Fue nominado a un Grammy. Es uno de los discos que el banco elige para conocer a Diego Urcola."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "newvelle-urcola",
+      "acceso": "extracto",
+      "aporta": "Cam Jazz, 2006; nominado al Grammy 2007."
+    }
+  ]
+}

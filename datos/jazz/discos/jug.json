@@ -39,9 +39,31 @@
       "musico": "ammons",
       "nombre": "Gene Ammons",
       "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "J.C. Heard",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Doug Watkins",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Richard Wyands",
+      "instrumento": "piano",
+      "nota": "temas 1, 2, 3, 4, 7, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Clarence Anderson",
+      "instrumento": "órgano, piano",
+      "nota": "temas 5, 6"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "souljazz"
   ],
@@ -49,10 +71,16 @@
     "Su apodo como título: soul jazz con Richard Wyands. Ammons toca el saxo tenor con un sonido grande y bluesero, en temas lentos y medios. Está entre los discos esenciales de Gene Ammons."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "a5e9f1c2-c58f-357d-8593-6a99b618fca3",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 464bd5ef-0722-4028-98f4-b49fff77c01e (1961)."
+    }
+  ]
 }

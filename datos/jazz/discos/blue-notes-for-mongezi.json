@@ -35,9 +35,29 @@
       "musico": "moholo",
       "nombre": "Louis Moholo-Moholo",
       "instrumento": "batería"
+    },
+    {
+      "musico": "dyani",
+      "nombre": "Johnny Dyani",
+      "instrumento": "bajo, campana, voz"
+    },
+    {
+      "musico": "mcgregor",
+      "nombre": "Chris McGregor",
+      "instrumento": "percusión, piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Louis Moholo",
+      "instrumento": "batería, percusión, voz"
+    },
+    {
+      "musico": "pukwana",
+      "nombre": "Dudu Pukwana",
+      "instrumento": "saxo alto, percusión, silbato, voz"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "free"
   ],
@@ -45,10 +65,16 @@
     "Una improvisación larga, entre el lamento y la fiesta, con melodías sudafricanas que aparecen en medio del free. Los Blue Notes eran músicos sudafricanos exiliados en Londres, y lo grabaron después de la muerte del trompetista Mongezi Feza, en 1975. Está entre los discos esenciales de Louis Moholo-Moholo."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "5b17d5bc-c2e1-4ffb-8c8a-523050d6044d",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición fd6543db-695b-48c4-b312-75547eb8310a (1976)."
+    }
+  ]
 }

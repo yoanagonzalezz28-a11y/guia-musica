@@ -39,9 +39,96 @@
       "musico": "akiyoshi",
       "nombre": "Toshiko Akiyoshi",
       "instrumento": "piano, composición"
+    },
+    {
+      "musico": null,
+      "nombre": "穐吉敏子",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Don Baldwin",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Richard Cooper",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Peter Donald",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Gary Foster",
+      "instrumento": "saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Huffsteter",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Charles Loper",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Bill Perkins",
+      "instrumento": "saxo barítono, clarinete bajo, flauta"
+    },
+    {
+      "musico": null,
+      "nombre": "Tom Peterson",
+      "instrumento": "clarinete, flauta, saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Mike Price",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Bill Reichenbach, Jr.",
+      "instrumento": "trombón",
+      "nota": "temas 1, 2, 4, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Bobby Shew",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Dick Spencer",
+      "instrumento": "saxo alto, clarinete, flauta"
+    },
+    {
+      "musico": null,
+      "nombre": "Lew Tabackin",
+      "instrumento": "flauta, saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Phil Teele",
+      "instrumento": "trombón bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Britt Woodman",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Jim Sawyer",
+      "instrumento": "trombón",
+      "nota": "temas 3, 6"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -49,10 +136,16 @@
     "Big band con flautas y tambores japoneses: una mirada a la historia de su país. La big band de Akiyoshi toca temas con flautas y percusión japonesa. Está entre los discos esenciales de Toshiko Akiyoshi."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "04156735-59a0-3ced-aa59-3a5228f11b17",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 52d3ef96-c846-4f17-a184-34a2f1bc5717 (1976)."
+    }
+  ]
 }

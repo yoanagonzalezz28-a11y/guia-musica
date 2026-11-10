@@ -34,12 +34,32 @@
   "sello": "ECM",
   "musicos": [
     {
+      "musico": "akinmusire",
+      "nombre": "Ambrose Akinmusire",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": "blade",
+      "nombre": "Brian Blade",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Larry Grenadier",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "mehldau",
+      "nombre": "Brad Mehldau",
+      "instrumento": "piano"
+    },
+    {
       "musico": "muthspiel",
       "nombre": "Wolfgang Muthspiel",
-      "instrumento": "guitarra, composición"
+      "instrumento": "guitarra"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm"
   ],
@@ -47,12 +67,18 @@
     "Con Ambrose Akinmusire y Brad Mehldau: un quinteto de lujo con mucha calma. Muthspiel toca la guitarra con Akinmusire, Mehldau, Grenadier y Blade, en temas lentos. Es uno de los discos que el banco elige para conocer a Wolfgang Muthspiel."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "6ee62ad0-98f2-45de-9a19-bb42ec6ca127",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición cc9f8260-7f8e-49f2-b71b-b9443c8d010d (2016)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Rising Grace",

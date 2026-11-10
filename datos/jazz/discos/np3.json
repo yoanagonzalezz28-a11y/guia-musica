@@ -36,12 +36,54 @@
   "sello": "Universal",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Eivind Aarset",
+      "instrumento": "guitarra",
+      "nota": "temas 1, 2, 3, 4, 5, 7, 8, 9"
+    },
+    {
       "musico": "molvaer",
       "nombre": "Nils Petter Molvær",
-      "instrumento": "trompeta, producción"
+      "instrumento": "trompeta, bajo, sampler, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Rune Arnesen",
+      "instrumento": "batería",
+      "nota": "temas 2, 3, 4, 5, 7, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Audun Erlien",
+      "instrumento": "bajo",
+      "nota": "temas 2, 3, 4, 5, 7, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Raymond Pellicer",
+      "instrumento": "sampler, bajo",
+      "nota": "temas 2, 3, 4, 5, 7, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "DJ Strangefruit",
+      "instrumento": "bandejas, sampler",
+      "nota": "temas 2, 3, 4, 5, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Sidsel Endresen",
+      "instrumento": "voz",
+      "nota": "temas 8"
+    },
+    {
+      "musico": null,
+      "nombre": "TeeBee",
+      "instrumento": "sintetizador",
+      "nota": "temas 9"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm"
   ],
@@ -49,10 +91,16 @@
     "Electrónica bailable con trompeta. Molvær toca la trompeta con efectos sobre bases electrónicas bailables. Es uno de los discos que el banco elige para conocer a Nils Petter Molvær."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "61fb7a6d-c5e5-3645-9436-385429ea8505",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición b33af3ca-cc59-4bb1-905d-36bc26e4c6ae (2002)."
+    }
+  ]
 }

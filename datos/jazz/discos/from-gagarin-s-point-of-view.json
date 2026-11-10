@@ -35,12 +35,22 @@
   "sello": "ACT Music",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Dan Berglund",
+      "instrumento": "contrabajo, percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Magnus Öström",
+      "instrumento": "batería, percusión"
+    },
+    {
       "musico": "svensson",
       "nombre": "Esbjörn Svensson",
-      "instrumento": "piano"
+      "instrumento": "piano, teclados, percusión"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -48,10 +58,16 @@
     "El disco con el que el trío salió de Suecia. El trío de Svensson toca melodías claras y pegadizas, con un piano lírico y una base que viene del pop y del rock. Es uno de los discos que el banco elige para conocer a Esbjörn Svensson."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "4c098de5-eb52-3fdf-b118-46880bb26bf7",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 62923b51-1ac6-3622-8d28-b250f95932a6 (1999)."
+    }
+  ]
 }

@@ -37,10 +37,50 @@
     {
       "musico": "tigran",
       "nombre": "Tigran Hamasyan",
-      "instrumento": "piano"
+      "instrumento": "piano, teclados, sintetizador, efectos, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Arthur Hnatek",
+      "instrumento": "batería, electronic instruments"
+    },
+    {
+      "musico": null,
+      "nombre": "Sam Minaie",
+      "instrumento": "bajo eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Christopher Tordini",
+      "instrumento": "bajo",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Ben Wendel",
+      "instrumento": "saxo",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Nate Wood",
+      "instrumento": "batería",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Areni Agbabian",
+      "instrumento": "voz",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Gayanée Movsisyan",
+      "instrumento": "voz",
+      "nota": "temas 5"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -48,10 +88,16 @@
     "Piano en trío con melodías armenias, ritmos de metal y teclados electrónicos. Fue su primer disco para Nonesuch, con Sam Minaie en bajo y Arthur Hnatek en batería. Está entre los discos esenciales de Tigran Hamasyan."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "dbc35f5c-23d2-4d5f-ba73-88d66171585d",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 1a6851f1-5f4a-40b0-9787-07e8b5005d93 (2015-02-17)."
+    }
+  ]
 }

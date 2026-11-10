@@ -37,10 +37,179 @@
     {
       "musico": "sclarke",
       "nombre": "Stanley Clarke",
-      "instrumento": "contrabajo, bajo eléctrico"
+      "instrumento": "dirección, bajo eléctrico, voz, piano, bajo, chimes, gong"
+    },
+    {
+      "musico": null,
+      "nombre": "Al Aarons",
+      "instrumento": "vientos de metal"
+    },
+    {
+      "musico": null,
+      "nombre": "Marilyn Baker",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "Stuart Blumberg",
+      "instrumento": "vientos de metal"
+    },
+    {
+      "musico": null,
+      "nombre": "George Bohanon",
+      "instrumento": "vientos de metal"
+    },
+    {
+      "musico": null,
+      "nombre": "Gerry Brown",
+      "instrumento": "batería, handbell",
+      "nota": "temas 1, 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Thomas Buffum",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "David Campbell",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "Buddy Childers",
+      "instrumento": "vientos de metal"
+    },
+    {
+      "musico": null,
+      "nombre": "Rollice Dale",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "Robert Dubow",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "Robert Findley",
+      "instrumento": "vientos de metal"
+    },
+    {
+      "musico": null,
+      "nombre": "Ray Gomez",
+      "instrumento": "guitarra eléctrica",
+      "nota": "temas 1, 3, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Janice Gower",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "Gary Grant",
+      "instrumento": "vientos de metal"
+    },
+    {
+      "musico": null,
+      "nombre": "Karen Jones",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "Dennis Karmazyn",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "Gordon Marron",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "Lew McCreary",
+      "instrumento": "vientos de metal"
+    },
+    {
+      "musico": null,
+      "nombre": "Jack Nimitz",
+      "instrumento": "vientos de metal"
+    },
+    {
+      "musico": null,
+      "nombre": "William Peterson",
+      "instrumento": "vientos de metal"
+    },
+    {
+      "musico": null,
+      "nombre": "David Sancious",
+      "instrumento": "teclados, órgano, sintetizador, guitarra eléctrica",
+      "nota": "temas 1, 2, 3, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Dalton Smith",
+      "instrumento": "vientos de metal"
+    },
+    {
+      "musico": null,
+      "nombre": "Lya Stern",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "Ron Strauss",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "Marcia Van Dyke",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "John Wittenberg",
+      "instrumento": "cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Gadd",
+      "instrumento": "batería",
+      "nota": "temas 2, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Milt Holland",
+      "instrumento": "congas, percusión, triángulo",
+      "nota": "temas 3, 4"
+    },
+    {
+      "musico": "mclaughlin",
+      "nombre": "John McLaughlin",
+      "instrumento": "guitarra acústica",
+      "nota": "temas 4"
+    },
+    {
+      "musico": "cobham",
+      "nombre": "Billy Cobham",
+      "instrumento": "batería",
+      "nota": "temas 6"
+    },
+    {
+      "musico": null,
+      "nombre": "George Duke",
+      "instrumento": "teclados",
+      "nota": "temas 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Charles Johnson",
+      "instrumento": "guitarra acústica, guitarra eléctrica",
+      "nota": "temas 6"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "fusion"
   ],
@@ -48,10 +217,16 @@
     "El bajo eléctrico de Clarke al frente, con slap y velocidad, en una fusión con mucho rock. El riff del tema del título se volvió una de las piezas que casi todo bajista eléctrico aprende. Es el disco clave de Stanley Clarke en la etapa \"Fusión\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "54abe394-dfae-3f4b-9975-65e17b7c2b6f",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 35a436d6-1d2a-4ebd-ae4b-75f043d5b094 (1976)."
+    }
+  ]
 }

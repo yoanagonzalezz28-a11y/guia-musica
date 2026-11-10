@@ -39,9 +39,37 @@
       "musico": "mmw",
       "nombre": "Medeski, Martin & Wood",
       "instrumento": "grupo"
+    },
+    {
+      "musico": null,
+      "nombre": "DJ Logic",
+      "instrumento": "bandejas",
+      "nota": "temas 1, 3, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Martin",
+      "instrumento": "percusión, batería"
+    },
+    {
+      "musico": null,
+      "nombre": "John Medeski",
+      "instrumento": "teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Chris Wood",
+      "instrumento": "bajo",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Cannon",
+      "instrumento": "voz",
+      "nota": "temas 6"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "fusion"
   ],
@@ -54,7 +82,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 999ed160-b791-4dd8-96ec-0a8b4115a05f (1998)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Sugar Craft",

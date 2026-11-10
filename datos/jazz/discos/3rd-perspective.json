@@ -37,9 +37,33 @@
       "musico": "ufo",
       "nombre": "United Future Organization",
       "instrumento": "grupo"
+    },
+    {
+      "musico": null,
+      "nombre": "Chezeré",
+      "instrumento": "voz",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Raphael Sebbag",
+      "instrumento": "voz",
+      "nota": "temas 4, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Arthur H",
+      "instrumento": "voz",
+      "nota": "temas 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Skip McDonald",
+      "instrumento": "voz",
+      "nota": "temas 7"
     }
   ],
-  "personalNota": "Lista parcial.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "acid"
   ],
@@ -47,12 +71,18 @@
     "El tercer disco del trío, con más peso de la electrónica y de los ritmos brasileños. Muestra el paso del acid jazz al nu jazz de fines de los 90. Es una buena puerta a lo que vino después en Tokio."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "714b9c07-e7d7-33fa-87fd-a6bfd4513e49",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición d5f5f9dd-c5a9-47f9-9816-e429ecdf9391 (1996)."
+    }
+  ],
   "fuentes": [
     "wp-united-future-organization"
   ]

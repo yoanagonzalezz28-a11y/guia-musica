@@ -1,0 +1,68 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": true,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Oscar Alemán Buenos Aires – Paris 1928–1943"
+  },
+  "id": "buenos-aires-paris-1928-1943",
+  "titulo": "Buenos Aires – Paris 1928–1943",
+  "credito": "Oscar Alemán",
+  "lideres": [
+    "oscar-aleman"
+  ],
+  "grabacion": {
+    "desde": 1928,
+    "hasta": 1943,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1994,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "oscar-aleman",
+      "nombre": "Oscar Alemán",
+      "instrumento": "guitarra, voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "swing",
+    "manouche"
+  ],
+  "comentario": [
+    "Guitarra de swing con su grupo, entre el jazz de los años 30 y la música popular argentina. Reúne sus grabaciones de Buenos Aires y de París, donde tocó con Josephine Baker. Es el disco clave de Oscar Alemán en la etapa \"Swing\"."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "recopilacion": {
+    "desde": 1928,
+    "hasta": 1943,
+    "original": "Los temas salieron primero en discos de 78 rpm."
+  },
+  "respaldo": [
+    {
+      "fuente": "mb-oscar-aleman",
+      "acceso": "completa",
+      "aporta": "Recopilación de 1994 con grabaciones de 1928 a 1943."
+    }
+  ]
+}

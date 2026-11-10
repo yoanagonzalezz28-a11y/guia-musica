@@ -36,12 +36,32 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": "haynes",
+      "nombre": "Roy Haynes",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "hutcherson",
+      "nombre": "Bobby Hutcherson",
+      "instrumento": "vibráfono"
+    },
+    {
       "musico": "mclean",
       "nombre": "Jackie McLean",
       "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Grachan Moncur III",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Larry Ridley",
+      "instrumento": "contrabajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "free"
   ],
@@ -49,10 +69,16 @@
     "Un sonido abierto y oscuro, con vibráfono en lugar de piano. Bobby Hutcherson reemplaza al piano y deja más espacio para el saxo de McLean, que se acerca a la vanguardia. Es uno de los discos que el banco elige para conocer a Jackie McLean."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "07a5a1a8-6a14-39f6-ae74-5010f68c4635",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 6b210f4d-3437-4188-9848-b23d2686f36c (1964-10)."
+    }
+  ]
 }

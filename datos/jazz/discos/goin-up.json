@@ -36,12 +36,32 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": "chambers",
+      "nombre": "Paul Chambers",
+      "instrumento": "bajo, contrabajo"
+    },
+    {
       "musico": "hubbard",
       "nombre": "Freddie Hubbard",
       "instrumento": "trompeta"
+    },
+    {
+      "musico": "philly-joe-jones",
+      "nombre": "Philly Joe Jones",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "mobley",
+      "nombre": "Hank Mobley",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": "tyner",
+      "nombre": "McCoy Tyner",
+      "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -54,7 +74,13 @@
     "wikidata": null,
     "wikipedia": "Goin%27_Up"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición ac0ed5c8-a458-43d0-b42b-a72a6a17ad07 (1967)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Asiatic Raes - Remastered",

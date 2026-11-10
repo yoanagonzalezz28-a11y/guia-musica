@@ -36,9 +36,24 @@
       "musico": "gogo-penguin",
       "nombre": "GoGo Penguin",
       "instrumento": "piano trío"
+    },
+    {
+      "musico": null,
+      "nombre": "Nick Blacka",
+      "instrumento": "bajo eléctrico, contrabajo, sintetizador, bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Chris Illingworth",
+      "instrumento": "piano, sintetizador"
+    },
+    {
+      "musico": null,
+      "nombre": "Jon Scott",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -46,10 +61,16 @@
     "El trío de Manchester toca temas más lentos y melancólicos que antes. Fue el primer disco con Jon Scott en batería, en lugar de Rob Turner. Está entre los discos esenciales de GoGo Penguin."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "dc4ceb00-78d0-4310-9940-2d150555fcf1",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición ee42f54e-0e03-4538-866a-72302bd9951d (2023-04-14)."
+    }
+  ]
 }

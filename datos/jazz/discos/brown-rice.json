@@ -37,10 +37,57 @@
     {
       "musico": "cherry",
       "nombre": "Don Cherry",
-      "instrumento": "trompeta, corneta de bolsillo"
+      "instrumento": "trompeta, piano, piano eléctrico, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Frank Lowe",
+      "instrumento": "saxo",
+      "nota": "temas tracks 1, 3 and 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Ricky Cherry",
+      "instrumento": "piano, piano eléctrico",
+      "nota": "temas tracks 1, 3 and 4"
+    },
+    {
+      "musico": "haden",
+      "nombre": "Charlie Haden",
+      "instrumento": "bajo",
+      "nota": "temas tracks 1, 2 and 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Higgins",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Verna Gillis",
+      "instrumento": "voz",
+      "nota": "temas track 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Bunchie Fox",
+      "instrumento": "bongós",
+      "nota": "temas track 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Hakim Jamil",
+      "instrumento": "bajo",
+      "nota": "temas track 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Moki Cherry",
+      "instrumento": "tambura",
+      "nota": "temas track 2"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "free"
   ],
@@ -53,5 +100,11 @@
     "wikidata": null,
     "wikipedia": "Brown_Rice_(album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Brown Rice (album)\"."
+    }
+  ]
 }

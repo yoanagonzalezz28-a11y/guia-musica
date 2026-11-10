@@ -36,12 +36,62 @@
   "sello": "Atlantic",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Buck Clarke",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Donald Dean",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Keith Loving",
+      "instrumento": "guitarra"
+    },
+    {
       "musico": "mccann",
       "nombre": "Les McCann",
-      "instrumento": "piano, voz"
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Rowser",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Joel Dorn",
+      "instrumento": "voz",
+      "nota": "temas 1, 3, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Barnes",
+      "instrumento": "voz",
+      "nota": "temas 3, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Sister Charlotte",
+      "instrumento": "voz",
+      "nota": "temas 3, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Gene McDaniels",
+      "instrumento": "voz",
+      "nota": "temas 3, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Susan McDaniels",
+      "instrumento": "voz",
+      "nota": "temas 3, 6, 7"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "souljazz"
   ],
@@ -49,10 +99,16 @@
     "Piano y voz en soul jazz con contenido político. Llegó después del éxito de *Swiss Movement*, el disco en vivo con Eddie Harris que tenía \"Compared to What\". Está entre los discos esenciales de Les McCann."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "9496ad04-b934-31a8-8757-41e40d1c51db",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 2872fd53-dfb4-4783-8bc5-af09d3f04b10 (1972)."
+    }
+  ]
 }

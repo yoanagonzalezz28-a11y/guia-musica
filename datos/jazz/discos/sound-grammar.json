@@ -34,12 +34,22 @@
   "sello": "Sound Grammar",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Denardo Coleman",
+      "instrumento": "batería"
+    },
+    {
       "musico": "ornette",
       "nombre": "Ornette Coleman",
-      "instrumento": "saxo alto, trompeta, violín"
+      "instrumento": "saxo alto, trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Tony Falanga",
+      "instrumento": "bajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "free"
   ],
@@ -47,10 +57,16 @@
     "Grabado en vivo en Alemania con dos contrabajistas y su hijo Denardo en batería. Ganó el premio Pulitzer de música en 2007."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "76bf31a7-88de-3cec-923c-3080e2fda280",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Sound_Grammar"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 5cdfe1f4-b6ff-4dd5-80cf-fbfb710b87da (2006-09-12)."
+    }
+  ]
 }

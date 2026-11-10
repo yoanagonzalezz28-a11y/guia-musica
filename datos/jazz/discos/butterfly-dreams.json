@@ -34,12 +34,42 @@
   "sello": "Milestone",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "David Amaro",
+      "instrumento": "guitarra acústica, guitarra eléctrica"
+    },
+    {
+      "musico": "sclarke",
+      "nombre": "Stanley Clarke",
+      "instrumento": "bajo, bajo eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "George Duke",
+      "instrumento": "sintetizador, piano, clavinet, piano eléctrico"
+    },
+    {
+      "musico": "henderson",
+      "nombre": "Joe Henderson",
+      "instrumento": "flauta, saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Ernest Hood",
+      "instrumento": "cítara"
+    },
+    {
+      "musico": "airto",
+      "nombre": "Airto Moreira",
+      "instrumento": "percusión, batería"
+    },
+    {
       "musico": "flora",
       "nombre": "Flora Purim",
       "instrumento": "voz"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "brasil"
   ],
@@ -47,10 +77,16 @@
     "Su debut en Estados Unidos. Purim canta con Joe Henderson, Stanley Clarke y Airto Moreira en un disco entre el jazz eléctrico y la música brasileña. Es el disco clave de Flora Purim en la etapa \"Jazz brasileño\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "2cd50861-6052-3ca4-ae7f-041b38858985",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 66754605-0adc-428a-91cc-c834dee5e9b0 (1973)."
+    }
+  ]
 }

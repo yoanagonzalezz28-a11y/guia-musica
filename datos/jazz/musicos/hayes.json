@@ -15,7 +15,6 @@
     "saxo"
   ],
   "corrientes": [
-    "rioplat",
     "hoy"
   ],
   "regiones": [
@@ -25,7 +24,7 @@
   "resumen": "Saxofonista porteño con una larga trayectoria en la escena de Buenos Aires y varios discos a su nombre.",
   "epocas": [
     {
-      "titulo": "Jazz rioplatense",
+      "titulo": "Jazz de hoy",
       "desde": 2008,
       "hasta": 2019,
       "texto": "",

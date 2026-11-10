@@ -43,10 +43,42 @@
     {
       "musico": "ronc",
       "nombre": "Ron Carter",
-      "instrumento": "contrabajo"
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Hubert Laws",
+      "instrumento": "flauta"
+    },
+    {
+      "musico": null,
+      "nombre": "Roland Hanna",
+      "instrumento": "piano eléctrico, piano",
+      "nota": "temas tracks 1–3"
+    },
+    {
+      "musico": null,
+      "nombre": "Leon Pendarvis",
+      "instrumento": "piano eléctrico",
+      "nota": "temas track 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Jay Berliner",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": "cobham",
+      "nombre": "Billy Cobham",
+      "instrumento": "batería, field batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Ralph MacDonald",
+      "instrumento": "percusión"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "latino"
   ],
@@ -57,9 +89,15 @@
     "musicbrainz": "05f67354-f25c-3987-9f89-062445e95c29",
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Spanish_Blue_(album)"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Spanish Blue (album)\"."
+    }
+  ],
   "temas": [
     {
       "titulo": "El Noche Sol",

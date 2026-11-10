@@ -36,12 +36,138 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Alex Bailey",
+      "instrumento": "batería, percusión",
+      "nota": "temas 1, 2, 3, 4, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Alex Han",
+      "instrumento": "saxo alto",
+      "nota": "temas 1, 2, 3, 4, 6, 7, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Marquis Hill",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 3, 4, 6, 8"
+    },
+    {
       "musico": "marcus-miller",
       "nombre": "Marcus Miller",
-      "instrumento": "bajo eléctrico, producción"
+      "instrumento": "sintetizador, teclados, bajo, voz, órgano, clavinet, guitarra, saxo alto, wurlitzer piano eléctrico, clarinete bajo, bajo sin trastes, piano, percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Brett Williams",
+      "instrumento": "teclados, sintetizador, órgano, piano, piano eléctrico, teclados bajo",
+      "nota": "temas 1, 3, 4, 5, 6, 7, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Adam Agati",
+      "instrumento": "guitarra",
+      "nota": "temas 2, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Michael “Patches” Stewart",
+      "instrumento": "trompeta",
+      "nota": "temas 2, 5, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Selah Sue",
+      "instrumento": "voz",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Louis Cato",
+      "instrumento": "batería, voz",
+      "nota": "temas 3, 4, 6, 7, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Trombone Shorty",
+      "instrumento": "trombón",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Jonathan Butler",
+      "instrumento": "guitarra acústica, voz",
+      "nota": "temas 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Charles Haynes",
+      "instrumento": "batería",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Mitch Henry",
+      "instrumento": "teclados",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Kirk Whalum",
+      "instrumento": "flauta, saxo tenor",
+      "nota": "temas 5, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Cliff Barnes",
+      "instrumento": "piano",
+      "nota": "temas 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Brian Culbertson",
+      "instrumento": "trombón",
+      "nota": "temas 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Richie Gajate‐Garcia",
+      "instrumento": "percusión",
+      "nota": "temas 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Honey Larochelle",
+      "instrumento": "voz",
+      "nota": "temas 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Julian Miller",
+      "instrumento": "voz",
+      "nota": "temas 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Russell Gunn",
+      "instrumento": "trompeta",
+      "nota": "temas 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Caleb",
+      "instrumento": "vocoder",
+      "nota": "temas 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Take 6",
+      "instrumento": "voz",
+      "nota": "temas 9"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "fusion"
   ],
@@ -54,7 +180,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 6b74e70d-f7e8-4641-a1ef-a09a2799889e (2018-06-01)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Trip Trap",

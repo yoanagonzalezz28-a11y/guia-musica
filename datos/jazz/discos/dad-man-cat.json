@@ -36,12 +36,37 @@
   "sello": "Acid Jazz",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Scott Addison",
+      "instrumento": "voz, teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Ben Addison",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Simon Nelson-Smith",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Richard Searle",
+      "instrumento": "bajo eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Robin Lurie",
+      "instrumento": "percusión"
+    },
+    {
       "musico": "corduroy",
       "nombre": "Corduroy",
-      "instrumento": "grupo"
+      "instrumento": "producer"
     }
   ],
-  "personalNota": "Lista parcial.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "acid"
   ],
@@ -52,9 +77,15 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Dad_Man_Cat"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Dad Man Cat\"."
+    }
+  ],
   "fuentes": [
     "wp-corduroy-band"
   ]

@@ -41,12 +41,22 @@
   "sello": "Bethlehem",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "James E. Bond",
+      "instrumento": "bajo, contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Albert “Tootie” Heath",
+      "instrumento": "batería"
+    },
+    {
       "musico": "nina",
       "nombre": "Nina Simone",
       "instrumento": "piano, voz"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "souljazz"
   ],
@@ -59,7 +69,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 8f663ff6-b63f-4501-86ae-40b3cc41448b (1958-06-24)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Mood Indigo - 2013 Remastered Version",

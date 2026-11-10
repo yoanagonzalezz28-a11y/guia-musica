@@ -1,0 +1,67 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Leo Genovese y Mariano Otero New York Sessions, Vol. 1"
+  },
+  "id": "new-york-sessions-vol-1",
+  "titulo": "New York Sessions, Vol. 1",
+  "credito": "Leo Genovese y Mariano Otero",
+  "lideres": [
+    "genovese"
+  ],
+  "grabacion": {
+    "desde": 2025,
+    "hasta": 2025,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2025,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "genovese",
+      "nombre": "Leo Genovese",
+      "instrumento": "piano, teclados, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Piano y contrabajo a dúo, en un diálogo con mucha libertad. Lo grabaron en Nueva York con Mariano Otero y fue nominado al Gardel al mejor álbum de jazz. Es uno de los discos que el banco elige para conocer a Leo Genovese."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "tiempo-genovese-otero",
+      "acceso": "extracto",
+      "aporta": "Dúo de piano y contrabajo, 2025."
+    },
+    {
+      "fuente": "ln-gardel-2026",
+      "acceso": "extracto",
+      "aporta": "Nominado al Gardel 2026."
+    }
+  ]
+}

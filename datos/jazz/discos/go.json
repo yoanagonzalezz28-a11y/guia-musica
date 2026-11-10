@@ -36,12 +36,27 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": "sonny-clark",
+      "nombre": "Sonny Clark",
+      "instrumento": "piano"
+    },
+    {
       "musico": "dexter",
       "nombre": "Dexter Gordon",
       "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Higgins",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Butch Warren",
+      "instrumento": "contrabajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "bebop"
   ],
@@ -49,12 +64,18 @@
     "Su disco más querido, con Sonny Clark. Gordon toca el saxo tenor con Clark, Butch Warren y Billy Higgins, con un sonido grande y un fraseo que se toma su tiempo. Es el disco clave de Dexter Gordon en la etapa \"Bebop\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "2b77fa1f-384d-3056-9491-91cb64a96eae",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 6392969f-deba-4383-953a-3bf5920bb834 (1962)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Cheese Cake - Rudy Van Gelder Edition / Remastered 1999",

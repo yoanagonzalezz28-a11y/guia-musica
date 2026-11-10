@@ -39,9 +39,24 @@
       "musico": "gustavsen",
       "nombre": "Tord Gustavsen",
       "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Tore Brunborg",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Mats Eilertsen",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Jarle Vespestad",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "ecm"
   ],
@@ -52,9 +67,15 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Extended_Circle"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Extended Circle\"."
+    }
+  ],
   "temas": [
     {
       "titulo": "Right There",

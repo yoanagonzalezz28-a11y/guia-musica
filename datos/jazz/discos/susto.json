@@ -36,10 +36,119 @@
     {
       "musico": "kikuchi",
       "nombre": "Masabumi Kikuchi",
-      "instrumento": "piano"
+      "instrumento": "teclados, piano eléctrico Rhodes sintetizador",
+      "nota": "temas 2 solo, 3 solo, 4 solo"
+    },
+    {
+      "musico": null,
+      "nombre": "James Mason",
+      "instrumento": "guitarra eléctrica"
+    },
+    {
+      "musico": null,
+      "nombre": "Hassan Jenkins",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Richie Morales",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Aïyb Dieng",
+      "instrumento": "percusión, congas",
+      "nota": "temas 3, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Grossman",
+      "instrumento": "saxo soprano, saxo tenor",
+      "nota": "temas 1, 2, 4, 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Yahya Sediq",
+      "instrumento": "batería",
+      "nota": "temas 1, 3, 4"
+    },
+    {
+      "musico": "hino",
+      "nombre": "Terumasa Hino",
+      "instrumento": "bolivian flauta, corneta",
+      "nota": "temas 1, 2, 4 solo"
+    },
+    {
+      "musico": null,
+      "nombre": "Dave Liebman",
+      "instrumento": "saxo soprano, flauta alto, saxo tenor",
+      "nota": "temas 1, 4 solo, 2 solo, 4"
+    },
+    {
+      "musico": "airto",
+      "nombre": "Airto Moreira",
+      "instrumento": "percusión",
+      "nota": "temas 1, 2, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Marlon Graves",
+      "instrumento": "guitarra eléctrica",
+      "nota": "temas 1, 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Butch Campbell",
+      "instrumento": "guitarra eléctrica",
+      "nota": "temas 2, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Patterson",
+      "instrumento": "guitarra eléctrica",
+      "nota": "temas 3, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Barry Finnerty",
+      "instrumento": "guitarra eléctrica",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Alyrio Lima",
+      "instrumento": "percusión",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Ed Walsh",
+      "instrumento": "oberheim and sintetizador programación",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Sam Morrison",
+      "instrumento": "instruments",
+      "nota": "temas 1, 2, 3 solo"
+    },
+    {
+      "musico": null,
+      "nombre": "Ryoko Ishioka",
+      "instrumento": "cover"
+    },
+    {
+      "musico": null,
+      "nombre": "Jim McCurdy",
+      "instrumento": "recorded by"
+    },
+    {
+      "musico": null,
+      "nombre": "Yochihiro Suzuki",
+      "instrumento": "recorded by , mixed by"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "fusion"
   ],
@@ -50,7 +159,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Susto_(album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Susto (album)\"."
+    }
+  ]
 }

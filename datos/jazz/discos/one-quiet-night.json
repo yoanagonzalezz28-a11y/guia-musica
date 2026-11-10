@@ -38,10 +38,10 @@
     {
       "musico": "metheny",
       "nombre": "Pat Metheny",
-      "instrumento": "guitarra"
+      "instrumento": "baritone guitarra, recording"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "ecm"
   ],
@@ -52,9 +52,15 @@
     "musicbrainz": "fc2a8b24-7992-3c1a-9f4a-d86b959ba3f4",
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "One_Quiet_Night"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"One Quiet Night\"."
+    }
+  ],
   "temas": [
     {
       "titulo": "One Quiet Night",

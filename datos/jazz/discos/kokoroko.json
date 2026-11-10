@@ -39,9 +39,49 @@
       "musico": "kokoroko",
       "nombre": "Kokoroko",
       "instrumento": "grupo"
+    },
+    {
+      "musico": null,
+      "nombre": "Mutale Chashi",
+      "instrumento": "bajo eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Onome Edgeworth",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Yohan Kebede",
+      "instrumento": "teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Cassie Kinoshi",
+      "instrumento": "saxo alto, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Sheila Maurice‐Grey",
+      "instrumento": "trompeta, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Oscar Jerome",
+      "instrumento": "guitarra eléctrica"
+    },
+    {
+      "musico": null,
+      "nombre": "Ayo Salawu",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Richie Seivwright",
+      "instrumento": "trombón, voz"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -49,12 +89,18 @@
     "EP con \"Abusey Junction\", una balada de guitarra que se volvió muy escuchada. El grupo de Londres toca afrobeat con vientos y guitarra, en temas cortos y melódicos. En la ficha de Kokoroko es el disco que representa la etapa \"Jazz de hoy\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "36f13ce2-dd86-4075-a78e-7628b3ac4cda",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 008eafac-c70f-4c37-8f70-20d8fc8d6f27 (2019-03-08)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Adwa",

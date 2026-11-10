@@ -38,10 +38,28 @@
     {
       "musico": "andrew-hill",
       "nombre": "Andrew Hill",
-      "instrumento": "piano, composición"
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Vass",
+      "instrumento": "flauta, saxo soprano, saxo alto",
+      "nota": "temas track 5, tracks 1 & 3, tracks 4–6"
+    },
+    {
+      "musico": null,
+      "nombre": "Chris White",
+      "instrumento": "bajo",
+      "nota": "temas tracks 1 & 3–6"
+    },
+    {
+      "musico": null,
+      "nombre": "Leroy Williams",
+      "instrumento": "batería",
+      "nota": "temas tracks 1 & 3–6"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "free"
   ],
@@ -52,9 +70,15 @@
     "musicbrainz": "f374a3f6-ff1a-48b7-b2cc-6eef3fe46245",
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Divine_Revelation"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Divine Revelation\"."
+    }
+  ],
   "temas": [
     {
       "titulo": "Snake Hip Waltz",

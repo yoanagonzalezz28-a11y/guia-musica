@@ -36,12 +36,27 @@
   "sello": "Limelight",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Louis Hayes",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Harold Jones",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Sam Jones",
+      "instrumento": "bajo"
+    },
+    {
       "musico": "peterson",
       "nombre": "Oscar Peterson",
       "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "latino"
   ],
@@ -49,12 +64,18 @@
     "Piano con percusión latina, entre la bossa nova y el jazz afrocubano. Peterson casi siempre grababa en trío de swing, y este disco para Limelight es una rareza en su catálogo. Está entre los discos esenciales de Oscar Peterson."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "c4583578-f9c0-3464-96d4-1ea6eea6c73b",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 75105e67-f317-47c7-8f56-846d67474bdb (1966)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Mas Que Nada",

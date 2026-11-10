@@ -38,10 +38,23 @@
     {
       "musico": "bro",
       "nombre": "Jakob Bro",
-      "instrumento": "guitarra, composición"
+      "instrumento": "guitarra",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Arve Henriksen",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Jorge Rossy",
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 8"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm"
   ],
@@ -49,10 +62,16 @@
     "Guitarra, trompeta y batería, sin bajo, en temas lentos y abiertos. Junta a un danés, un noruego y un español: Bro, Arve Henriksen y Jorge Rossy, que fue baterista del trío de Brad Mehldau. Es uno de los discos que el banco elige para conocer a Jakob Bro."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "03f38587-9677-4044-94af-ee182da2e0cb",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 9168bb0d-1f5c-436c-ba74-38af5cf921ed (2021-02-12)."
+    }
+  ]
 }

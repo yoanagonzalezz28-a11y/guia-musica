@@ -34,12 +34,28 @@
   "sello": "ECM",
   "musicos": [
     {
+      "musico": "frisell",
+      "nombre": "Bill Frisell",
+      "instrumento": "guitarra eléctrica"
+    },
+    {
+      "musico": "holland",
+      "nombre": "Dave Holland",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "konitz",
+      "nombre": "Lee Konitz",
+      "instrumento": "saxo alto",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 8, 9"
+    },
+    {
       "musico": "wheeler",
       "nombre": "Kenny Wheeler",
-      "instrumento": "fliscorno, trompeta, composición"
+      "instrumento": "vientos de metal, trompeta, fliscorno"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm"
   ],
@@ -47,10 +63,16 @@
     "Trompeta, saxo, guitarra y contrabajo, sin batería: el ritmo queda flotando. Junta a Wheeler con Lee Konitz, Bill Frisell y Dave Holland, músicos de generaciones y escuelas distintas. Es uno de los discos que el banco elige para conocer a Kenny Wheeler."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "ae869ca0-0083-3353-a4a8-fde025e59f05",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición de6851a9-5c41-4616-9e52-cd3017cad811 (1997)."
+    }
+  ]
 }

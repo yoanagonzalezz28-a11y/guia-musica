@@ -36,12 +36,62 @@
   "sello": "Impulse!",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Jay Berliner",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Don Butterfield",
+      "instrumento": "tuba"
+    },
+    {
+      "musico": null,
+      "nombre": "Jaki Byard",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Rolf Ericson",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Dick Hafer",
+      "instrumento": "saxo tenor, flauta, oboe, saxo barítono"
+    },
+    {
+      "musico": null,
+      "nombre": "Quentin Jackson",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Charlie Mariano",
+      "instrumento": "saxo alto"
+    },
+    {
       "musico": "mingus",
       "nombre": "Charles Mingus",
-      "instrumento": "contrabajo, composición"
+      "instrumento": "contrabajo, piano, bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Jerome Richardson",
+      "instrumento": "flauta, saxo barítono, saxo soprano"
+    },
+    {
+      "musico": null,
+      "nombre": "Dannie Richmond",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Richard Williams",
+      "instrumento": "trompeta"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "modal"
   ],
@@ -57,7 +107,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición b5a96b06-e26d-4ed0-b858-71a0810d7a4c (1963)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Track A- Solo Dancer",

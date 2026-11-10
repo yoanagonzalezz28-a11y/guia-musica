@@ -36,12 +36,27 @@
   "sello": "Verve",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Jeff Ballard",
+      "instrumento": "percusión"
+    },
+    {
       "musico": "rosenwinkel",
       "nombre": "Kurt Rosenwinkel",
-      "instrumento": "guitarra, composición"
+      "instrumento": "guitarra, piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Ben Street",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Mark Turner",
+      "instrumento": "saxo tenor"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -49,10 +64,16 @@
     "El cuarteto con Mark Turner: un disco que marcó a toda una generación. Rosenwinkel toca la guitarra con Turner en saxo, Ben Street en contrabajo y Jeff Ballard en batería, en temas propios. Es el disco clave de Kurt Rosenwinkel en la etapa \"Jazz de hoy\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "78bebaaf-5e34-397b-9817-5aea19ee8d10",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 378706a2-7fbd-4065-884d-cf7c6e5205fe (2001-01-09)."
+    }
+  ]
 }

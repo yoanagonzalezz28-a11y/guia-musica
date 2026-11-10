@@ -36,12 +36,47 @@
   "sello": "Verve",
   "musicos": [
     {
+      "musico": "ronc",
+      "nombre": "Ron Carter",
+      "instrumento": "dirección"
+    },
+    {
+      "musico": null,
+      "nombre": "Jerry Dodgion",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": "haden",
+      "nombre": "Charlie Haden",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Higgins",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Alain Jean‐Marie",
+      "instrumento": "piano"
+    },
+    {
+      "musico": "mclean",
+      "nombre": "Jackie McLean",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Clark Terry",
+      "instrumento": "fliscorno, trompeta"
+    },
+    {
       "musico": "abbey",
       "nombre": "Abbey Lincoln",
-      "instrumento": "voz, composición"
+      "instrumento": "voz"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "neotrad"
   ],
@@ -49,10 +84,16 @@
     "Con Clark Terry y Jackie McLean: su regreso con fuerza en los 90. Lincoln canta con Terry, McLean y Alain Jean-Marie, en temas propios y estándares. Es el disco clave de Abbey Lincoln en la etapa \"Neotradicionalismo\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "09bd7690-3cdf-347c-bcad-c99a8fc70c28",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 8333311f-1c9a-4385-9e7a-361f72213865 (1990)."
+    }
+  ]
 }

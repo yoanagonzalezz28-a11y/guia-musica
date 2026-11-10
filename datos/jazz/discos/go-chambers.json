@@ -36,12 +36,40 @@
   "sello": "Vee-Jay",
   "musicos": [
     {
+      "musico": "adderley",
+      "nombre": "Cannonball Adderley",
+      "instrumento": "saxo alto"
+    },
+    {
       "musico": "chambers",
       "nombre": "Paul Chambers",
       "instrumento": "contrabajo"
+    },
+    {
+      "musico": "hubbard",
+      "nombre": "Freddie Hubbard",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 2, 3, 5, 6"
+    },
+    {
+      "musico": "philly-joe-jones",
+      "nombre": "Philly Joe Jones",
+      "instrumento": "batería",
+      "nota": "temas 1"
+    },
+    {
+      "musico": "wynton-kelly",
+      "nombre": "Wynton Kelly",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Cobb",
+      "instrumento": "batería",
+      "nota": "temas 2, 3, 4, 5, 6"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -49,10 +77,16 @@
     "Con Cannonball Adderley y Freddie Hubbard. Chambers toca el contrabajo con un grupo de lujo, en temas de hard bop con mucho swing. Está entre los discos esenciales de Paul Chambers."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "0e9cfc80-adbe-4680-b739-019337598880",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 26ceb7a9-8532-482b-a225-f2be1c909c1b (1959)."
+    }
+  ]
 }

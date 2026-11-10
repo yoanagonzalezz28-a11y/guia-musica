@@ -38,10 +38,50 @@
     {
       "musico": "terence",
       "nombre": "Terence Blanchard",
-      "instrumento": "trompeta, composición"
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Charles Altura",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Fabian Almazan",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "David Ginyard",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Oscar Seaton",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "David Balakrishnan",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Benjamin von Gutzeit",
+      "instrumento": "viola"
+    },
+    {
+      "musico": null,
+      "nombre": "Gabe Terraciano",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Malcolm Parson",
+      "instrumento": "violonchelo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "hoy"
   ],
@@ -52,7 +92,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Absence_(Terence_Blanchard_album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Absence (Terence Blanchard album)\"."
+    }
+  ]
 }

@@ -8,7 +8,7 @@
   "regiones": [
     "etiopia"
   ],
-  "compilacion": false,
+  "compilacion": true,
   "tipo": "estudio",
   "catalogo": null,
   "lugar": null,
@@ -25,8 +25,8 @@
     "mulatu"
   ],
   "grabacion": {
-    "desde": 2009,
-    "hasta": 2009,
+    "desde": 1965,
+    "hasta": 1975,
     "detalle": null
   },
   "edicion": {
@@ -54,5 +54,9 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "recopilacion": {
+    "desde": 1965,
+    "hasta": 1975
+  }
 }

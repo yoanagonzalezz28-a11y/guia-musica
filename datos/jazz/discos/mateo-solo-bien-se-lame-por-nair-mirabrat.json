@@ -21,7 +21,9 @@
   "id": "mateo-solo-bien-se-lame-por-nair-mirabrat",
   "titulo": "Mateo solo bien se lame por Nair Mirabrat",
   "credito": "Nair Mirabrat",
-  "lideres": [],
+  "lideres": [
+    "martin-ibarra"
+  ],
   "grabacion": {
     "desde": 2025,
     "hasta": 2025,
@@ -34,9 +36,9 @@
   "sello": null,
   "musicos": [
     {
-      "musico": null,
+      "musico": "martin-ibarra",
       "nombre": "Martín Ibarra",
-      "instrumento": "director del proyecto"
+      "instrumento": "director del proyecto, guitarra, voz, arreglos"
     },
     {
       "musico": "mateo",

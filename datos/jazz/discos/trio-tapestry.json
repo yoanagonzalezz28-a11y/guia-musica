@@ -39,6 +39,11 @@
       "musico": "lovano",
       "nombre": "Joe Lovano",
       "instrumento": "saxo tenor"
+    },
+    {
+      "musico": "marilyn-crispell",
+      "nombre": "Marilyn Crispell",
+      "instrumento": "piano"
     }
   ],
   "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",

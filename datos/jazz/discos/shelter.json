@@ -39,9 +39,21 @@
       "musico": "brand-new-heavies",
       "nombre": "The Brand New Heavies",
       "instrumento": "grupo"
+    },
+    {
+      "musico": null,
+      "nombre": "Simon Bartholomew",
+      "instrumento": "guitarra",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Siedah Garrett",
+      "instrumento": "voz",
+      "nota": "temas 1, 2, 4, 5, 6, 7, 8, 9, 10, 12, 13"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "acid"
   ],
@@ -49,10 +61,16 @@
     "Soul y funk con producción pulida, con la voz de Siedah Garrett al frente. Garrett había escrito \"Man in the Mirror\" para Michael Jackson, y acá reemplaza a N'Dea Davenport como cantante del grupo. En la ficha de The Brand New Heavies es el disco que representa la etapa \"Acid jazz\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "30bbaead-5209-3e29-b941-2b985ee9e7c1",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición a86eaa4f-3c5f-4619-abf9-fa1a75e3c271 (1997)."
+    }
+  ]
 }

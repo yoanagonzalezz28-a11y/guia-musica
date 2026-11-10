@@ -1,0 +1,62 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Hazel Scott Relaxed Piano Moods"
+  },
+  "id": "relaxed-piano-moods",
+  "titulo": "Relaxed Piano Moods",
+  "credito": "Hazel Scott",
+  "lideres": [
+    "hazel-scott"
+  ],
+  "grabacion": {
+    "desde": 1955,
+    "hasta": 1955,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1955,
+    "detalle": null
+  },
+  "sello": "Debut",
+  "musicos": [
+    {
+      "musico": "hazel-scott",
+      "nombre": "Hazel Scott",
+      "instrumento": "piano, voz"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "bebop"
+  ],
+  "comentario": [
+    "Piano en trío, con Charles Mingus en contrabajo y Max Roach en batería, en estándares tocados con un toque clásico y mucho swing. Salió por Debut, el sello de Mingus y Roach, y es su disco de jazz más recordado. Es el disco clave de Hazel Scott en la etapa \"Bebop\"."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-hazel-scott",
+      "acceso": "extracto",
+      "aporta": "Pianista de jazz y clásica; trío con Mingus y Roach."
+    }
+  ]
+}

@@ -32,9 +32,9 @@
     "Nueva York"
   ],
   "texto": [
-    "El jazz del Río de la Plata se define por sus cruces: el candombe uruguayo, el tango y el folclore del interior. Muchas de sus figuras hicieron carrera afuera. Gato Barbieri, de Rosario, pasó por el free jazz con Don Cherry y después llevó a Impulse! una banda de quenas, charangos y bombos.[^wp-barbieri][^wp-chapter-one]",
-    "Astor Piazzolla no fue un músico de jazz, pero su nuevo tango le debe mucho: el octeto de Gerry Mulligan le dio la idea de formar el suyo.[^wp-piazzolla] Dino Saluzzi, un salteño que había tocado con Barbieri, llevó el bandoneón y el folclore a ECM.[^wp-saluzzi]",
-    "Hoy la escena es muy activa en las dos orillas, y algunas figuras siguen trabajando entre Buenos Aires, Montevideo, Nueva York y España, como Guillermo Klein con Los Guachos.[^wp-klein] La historia del jazz en esta región también tiene una herida: el pianista brasileño Tenório Jr. fue asesinado por la dictadura en Buenos Aires en 1976.[^tiempo-tenorio]"
+    "El jazz rioplatense es una manera de tocar: el cruce del jazz con el candombe uruguayo, el tango y el folclore del interior. No todo el jazz que se hace en Uruguay y la Argentina es jazz rioplatense; el resto está en la región Río de la Plata, que reúne todo el jazz de los dos países.",
+    "Gato Barbieri, de Rosario, pasó por el free jazz con Don Cherry y después llevó a Impulse! una banda de quenas, charangos y bombos.[^wp-barbieri][^wp-chapter-one] Astor Piazzolla no fue un músico de jazz, pero su nuevo tango le debe mucho: el octeto de Gerry Mulligan le dio la idea de formar el suyo.[^wp-piazzolla] Dino Saluzzi, un salteño que había tocado con Barbieri, llevó el bandoneón y el folclore a ECM.[^wp-saluzzi]",
+    "En Montevideo, el Grupo del Plata de Manolo Guardia y, después, Opa, Rubén Rada y Eduardo Mateo pusieron los tambores del candombe en el centro. Esa línea sigue en grupos de hoy, de Guillermo Klein con Los Guachos a Juan Ibarra, Nair Mirabrat o Mateo Ottonello.[^wp-klein][^wp-opa]"
   ],
   "suena": [
     "El candombe y el tango como base rítmica.",
@@ -71,25 +71,20 @@
     "klein",
     "fattoruso",
     "rada",
-    "schifrin",
-    "jodos",
     "guardia",
-    "hayes",
     "iaies",
     "jacinto",
-    "levin",
-    "lopez-furst",
     "lopez-ruiz",
-    "malosetti",
     "mateo",
     "ofattoruso",
     "pipi-piazzolla",
     "plachta",
-    "ramiro-flores",
-    "restuccia",
-    "maslia",
     "ibarburu",
-    "urquiza"
+    "ottonello",
+    "martin-ibarra",
+    "chapital",
+    "genovese",
+    "ibarra"
   ],
   "musicosPendientes": [],
   "discosEsenciales": [

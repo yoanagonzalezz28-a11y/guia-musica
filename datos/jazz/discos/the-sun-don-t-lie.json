@@ -34,12 +34,174 @@
   "sello": "PRA",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Charles \"Poogie\" Bell",
+      "instrumento": "batería",
+      "nota": "temas 1, 7, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Dean Brown",
+      "instrumento": "guitarra",
+      "nota": "temas 1, 7"
+    },
+    {
       "musico": "marcus-miller",
       "nombre": "Marcus Miller",
-      "instrumento": "bajo eléctrico, producción"
+      "instrumento": "clarinete bajo, bajo eléctrico, guitarra, teclados, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Lenny White",
+      "instrumento": "percusión, batería",
+      "nota": "temas 1, 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Don Alias",
+      "instrumento": "percusión, congas",
+      "nota": "temas 2, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Jonathan Butler",
+      "instrumento": "guitarra",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Paulinho da Costa",
+      "instrumento": "percusión",
+      "nota": "temas 2, 4, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "David Sanborn",
+      "instrumento": "saxo alto",
+      "nota": "temas 2"
+    },
+    {
+      "musico": "shorter",
+      "nombre": "Wayne Shorter",
+      "instrumento": "saxo tenor, saxo soprano",
+      "nota": "temas 2, 11"
+    },
+    {
+      "musico": "miles",
+      "nombre": "Miles Davis",
+      "instrumento": "trompeta",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Sal Marquez",
+      "instrumento": "trompeta",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Vernon Reid",
+      "instrumento": "guitarra",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "WC",
+      "instrumento": "batería",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Andy Narell",
+      "instrumento": "batería",
+      "nota": "temas 4, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Sample",
+      "instrumento": "piano",
+      "nota": "temas 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Michael White",
+      "instrumento": "batería",
+      "nota": "temas 4, 10"
+    },
+    {
+      "musico": "kenny-garrett",
+      "nombre": "Kenny Garrett",
+      "instrumento": "saxo alto",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Jackson, Jr.",
+      "instrumento": "guitarra",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Everette Harp",
+      "instrumento": "saxo soprano, saxo alto",
+      "nota": "temas 7, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Michael “Patches” Stewart",
+      "instrumento": "trompeta",
+      "nota": "temas 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Thornton",
+      "instrumento": "percusión",
+      "nota": "temas 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Hiram Bullock",
+      "instrumento": "guitarra",
+      "nota": "temas 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Ferrone",
+      "instrumento": "batería",
+      "nota": "temas 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Omar Hakim",
+      "instrumento": "batería",
+      "nota": "temas 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Philippe Saisse",
+      "instrumento": "teclados",
+      "nota": "temas 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Kirk Whalum",
+      "instrumento": "saxo tenor",
+      "nota": "temas 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Christian Wicht",
+      "instrumento": "teclados",
+      "nota": "temas 10"
+    },
+    {
+      "musico": "tonyw",
+      "nombre": "Tony Williams",
+      "instrumento": "batería",
+      "nota": "temas 11"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "fusion"
   ],
@@ -47,10 +209,16 @@
     "Bajo eléctrico con slap y muchos invitados, en temas de funk. Incluye \"The King Is Gone\", dedicado a Miles Davis, que había muerto dos años antes. Es el disco clave de Marcus Miller en la etapa \"Fusión\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "b0ab34af-5a46-3287-a158-eb1c3938bccd",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 3685c027-abfb-4625-9f15-3a3186463b22 (1993)."
+    }
+  ]
 }

@@ -38,9 +38,19 @@
       "musico": "flanagan",
       "nombre": "Tommy Flanagan",
       "instrumento": "piano"
+    },
+    {
+      "musico": "haynes",
+      "nombre": "Roy Haynes",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Tommy Potter",
+      "instrumento": "bajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -48,10 +58,16 @@
     "Baladas en trío, tranquilo y elegante. Tommy Potter y Roy Haynes completan el trío, y salió por Moodsville, una serie de Prestige dedicada a discos lentos. Es el disco clave de Tommy Flanagan en la etapa \"Hard bop\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "12f9ed16-158a-4468-9c63-41d0a53a5e76",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición f85dc381-5edd-4793-8a34-11bc0df0e870 (1960)."
+    }
+  ]
 }

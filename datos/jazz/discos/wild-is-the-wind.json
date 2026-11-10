@@ -36,12 +36,42 @@
   "sello": "Philips",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Horace Ott",
+      "instrumento": "dirección",
+      "nota": "temas 1, 3, 5, 6, 7, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Lisle Atkinson",
+      "instrumento": "contrabajo, bajo eléctrico, percusión",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 8, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Bobby Hamilton",
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 8, 11"
+    },
+    {
       "musico": "nina",
       "nombre": "Nina Simone",
       "instrumento": "piano, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Rudy Stevenson",
+      "instrumento": "guitarra, flauta",
+      "nota": "temas 1, 2, 3, 4, 6, 7, 8, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Al Schackman",
+      "instrumento": "armónica",
+      "nota": "temas 2, 4, 8, 11"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "souljazz"
   ],
@@ -54,7 +84,13 @@
     "wikidata": null,
     "wikipedia": "Wild_Is_the_Wind_(album)"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 2492d3a0-620e-48e1-aa5c-396457a41718 (1966)."
+    }
+  ],
   "temas": [
     {
       "titulo": "I Love Your Lovin' Ways",

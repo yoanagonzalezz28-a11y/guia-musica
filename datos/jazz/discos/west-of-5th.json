@@ -36,12 +36,22 @@
   "sello": "Chiaroscuro",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Jimmy Cobb",
+      "instrumento": "batería"
+    },
+    {
       "musico": "hank-jones",
       "nombre": "Hank Jones",
       "instrumento": "piano"
+    },
+    {
+      "musico": "mcbride",
+      "nombre": "Christian McBride",
+      "instrumento": "contrabajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "bebop"
   ],
@@ -49,12 +59,18 @@
     "Grabado con casi 90 años: swing liviano y perfecto. Jones toca el piano con Christian McBride y Jimmy Cobb, en estándares. En la ficha de Hank Jones es el disco que representa la etapa \"Bebop\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "9ae204e0-e2be-4315-ac41-39449b2b7e66",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición c4f2bd76-76c0-40a9-85f1-78d213cfa930 (2006-10-24)."
+    }
+  ],
   "temas": [
     {
       "titulo": "On Green Dolphin Street",

@@ -36,12 +36,43 @@
   "sello": "Clef",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Marcel Bianchi",
+      "instrumento": "guitarra",
+      "nota": "temas 20"
+    },
+    {
+      "musico": null,
+      "nombre": "Pierre “Baro” Ferret",
+      "instrumento": "guitarra",
+      "nota": "temas 20"
+    },
+    {
+      "musico": "grappelli",
+      "nombre": "Stéphane Grappelli",
+      "instrumento": "violín",
+      "nota": "temas 20"
+    },
+    {
       "musico": "django",
       "nombre": "Django Reinhardt",
-      "instrumento": "guitarra"
+      "instrumento": "guitarra",
+      "nota": "temas 20"
+    },
+    {
+      "musico": null,
+      "nombre": "Louis Vola",
+      "instrumento": "contrabajo",
+      "nota": "temas 20"
+    },
+    {
+      "musico": null,
+      "nombre": "Django Reinhardt et son quintette",
+      "instrumento": "músico",
+      "nota": "temas 20"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "manouche"
   ],
@@ -49,10 +80,16 @@
     "Sesiones de 1953 en París: Django en guitarra eléctrica. Reinhardt toca la guitarra eléctrica con un grupo moderno, en temas de bebop. Está entre los discos esenciales de Django Reinhardt."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "530a7d0d-b69f-4303-9c4a-32b639f999f2",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 165c86bc-2079-4a36-a564-0cca004cddcb (1955-03-09)."
+    }
+  ]
 }

@@ -36,10 +36,35 @@
     {
       "musico": "lateef",
       "nombre": "Yusef Lateef",
-      "instrumento": "saxo tenor, flauta, oboe"
+      "instrumento": "saxo tenor, flauta, track 1, argol, intro track 1, scraper"
+    },
+    {
+      "musico": null,
+      "nombre": "Curtis Fuller",
+      "instrumento": "trombón, pandereta"
+    },
+    {
+      "musico": null,
+      "nombre": "Hugh Lawson",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Ernie Farrow",
+      "instrumento": "bajo, rabat"
+    },
+    {
+      "musico": null,
+      "nombre": "Louis Hayes",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Doug Watkins",
+      "instrumento": "finger cymbals, percusión"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "hard-bop"
   ],
@@ -50,7 +75,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Jazz_Mood"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Jazz Mood\"."
+    }
+  ]
 }

@@ -1,0 +1,64 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "vivo",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7k3ZFy847wuP70fSNF8ZWU",
+    "tituloEnSpotify": "At The Hickory House Vol.1 (Live)",
+    "via": "api-spotify"
+  },
+  "id": "at-the-hickory-house-vol-1",
+  "titulo": "At the Hickory House, Vol. 1",
+  "credito": "Jutta Hipp",
+  "lideres": [
+    "jutta-hipp"
+  ],
+  "grabacion": {
+    "desde": 1956,
+    "hasta": 1956,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1956,
+    "detalle": null
+  },
+  "sello": "Blue Note",
+  "musicos": [
+    {
+      "musico": "jutta-hipp",
+      "nombre": "Jutta Hipp",
+      "instrumento": "piano"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "cool"
+  ],
+  "comentario": [
+    "Piano en trío en vivo, con un swing liviano y un toque cercano al cool de Lennie Tristano. Se grabó en un club de Nueva York, poco después de que Hipp llegara desde Alemania. Es el disco clave de Jutta Hipp en la etapa \"Cool\"."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-jutta-hipp",
+      "acceso": "extracto",
+      "aporta": "Pionera del jazz alemán de posguerra, activa en Estados Unidos."
+    }
+  ]
+}

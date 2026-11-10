@@ -1,0 +1,63 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Diego Urcola y Paquito D'Rivera El Duelo"
+  },
+  "id": "el-duelo",
+  "titulo": "El Duelo",
+  "credito": "Diego Urcola y Paquito D'Rivera",
+  "lideres": [
+    "urcola"
+  ],
+  "grabacion": {
+    "desde": 2020,
+    "hasta": 2020,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2020,
+    "detalle": null
+  },
+  "sello": null,
+  "musicos": [
+    {
+      "musico": "urcola",
+      "nombre": "Diego Urcola",
+      "instrumento": "trompeta"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "latino",
+    "hoy"
+  ],
+  "comentario": [
+    "Trompeta y saxo en un diálogo constante, entre el jazz, la música cubana y la rioplatense. Urcola tocó durante años en la orquesta de Paquito D'Rivera, y acá los dos se reparten el protagonismo. Es uno de los discos que el banco elige para conocer a Diego Urcola."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "newvelle-urcola",
+      "acceso": "extracto",
+      "aporta": "El Duelo, 2020, con D'Rivera."
+    }
+  ]
+}

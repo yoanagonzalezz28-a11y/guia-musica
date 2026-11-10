@@ -37,9 +37,59 @@
       "musico": "mroberts",
       "nombre": "Marcus Roberts",
       "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Scotty Barnhart",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": "marsalis",
+      "nombre": "Wynton Marsalis",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Wycliffe Gordon",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Wessell Anderson",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Herbert Harris",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Todd Williams",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Chris Thomas",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Reginald Veal",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Maurice Carnes",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Herlin Riley",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "neotrad"
   ],
@@ -50,7 +100,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Deep_in_the_Shed"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Deep in the Shed\"."
+    }
+  ]
 }

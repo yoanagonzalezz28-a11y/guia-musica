@@ -36,12 +36,22 @@
   "sello": "Mack Avenue",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Dave King",
+      "instrumento": "batería"
+    },
+    {
       "musico": "lage",
       "nombre": "Julian Lage",
       "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Jorge Roeder",
+      "instrumento": "bajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -54,7 +64,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 1ef9b1d0-ec4f-49b4-ba95-ab3c228a6f94 (2019-02-22)."
+    }
+  ],
   "temas": [
     {
       "titulo": "In Heaven",

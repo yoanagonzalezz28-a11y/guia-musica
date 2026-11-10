@@ -39,9 +39,29 @@
       "musico": "mjq",
       "nombre": "Modern Jazz Quartet",
       "instrumento": "piano, vibráfono, contrabajo, batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Percy Heath",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "milt-jackson",
+      "nombre": "Milt Jackson",
+      "instrumento": "vibráfono"
+    },
+    {
+      "musico": null,
+      "nombre": "Connie Kay",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "John Lewis",
+      "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "cool"
   ],
@@ -49,10 +69,16 @@
     "La suite que da título está inspirada en la commedia dell'arte: jazz de cámara con fugas y blues. El MJQ toca temas con estructuras de música barroca, como fugas, mezcladas con blues. Es uno de los discos que el banco elige para conocer a Modern Jazz Quartet."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "59404ca7-e67f-3adc-8123-fc03b9777f15",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Fontessa"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 55023eda-4461-4dcd-9949-714f85b8adad (1956)."
+    }
+  ]
 }

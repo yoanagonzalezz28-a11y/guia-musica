@@ -38,10 +38,70 @@
     {
       "musico": "nala-sinephro",
       "nombre": "Nala Sinephro",
-      "instrumento": "arpa, sintetizadores"
+      "instrumento": "sintetizador, arpa, analog sintetizador"
+    },
+    {
+      "musico": null,
+      "nombre": "Lyle Barton",
+      "instrumento": "piano, teclados",
+      "nota": "temas 2, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Rudi Creswick",
+      "instrumento": "contrabajo",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Jake Long",
+      "instrumento": "batería",
+      "nota": "temas 2, 4, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "James Mollison",
+      "instrumento": "saxo",
+      "nota": "temas 2, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Shirley Tetteh",
+      "instrumento": "guitarra",
+      "nota": "temas 2, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Eddie Hick",
+      "instrumento": "batería",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Wonky Logic",
+      "instrumento": "bajo sintetizado",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Twm Dylan",
+      "instrumento": "contrabajo",
+      "nota": "temas 4"
+    },
+    {
+      "musico": "nubya",
+      "nombre": "Nubya Garcia",
+      "instrumento": "saxo",
+      "nota": "temas 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Ahnansé",
+      "instrumento": "saxo",
+      "nota": "temas 5, 8"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -49,12 +109,18 @@
     "Arpa, sintetizadores y saxo de Nubya Garcia: jazz ambiental de una calma enorme. Sinephro toca el arpa y los sintetizadores con Garcia y otros músicos, en piezas lentas que se encadenan. En la ficha de Nala Sinephro es el disco que representa la etapa \"Jazz de hoy\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "2458a981-bc0e-4359-8f3b-b53c25ed4830",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 031e01a2-e4d4-45f6-aa6e-1b1b458cfbea (2021-09-03)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Space 1",

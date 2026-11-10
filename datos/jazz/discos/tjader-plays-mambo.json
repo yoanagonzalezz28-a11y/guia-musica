@@ -36,12 +36,38 @@
   "sello": "Fantasy",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Carlos Duran",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Manuel Duran",
+      "instrumento": "teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Edgar Rosales",
+      "instrumento": "percusión"
+    },
+    {
       "musico": "tjader",
       "nombre": "Cal Tjader",
-      "instrumento": "vibráfono"
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Bayardo Velarde",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Luis Miranda",
+      "instrumento": "congas",
+      "nota": "temas 2, 5, 7, 10"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "latino"
   ],
@@ -49,10 +75,16 @@
     "Su primer disco latino: el vibráfono del cool se pasa al mambo. Tjader toca el vibráfono con percusión latina, en temas de mambo. Es uno de los discos que el banco elige para conocer a Cal Tjader."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "53e0d44f-f676-3034-9624-b2e80999a5b9",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición fce2db89-b474-471b-9bd9-ab16158066b9 (1956)."
+    }
+  ]
 }

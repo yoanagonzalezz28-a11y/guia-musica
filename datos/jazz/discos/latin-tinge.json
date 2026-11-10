@@ -36,12 +36,22 @@
   "sello": "HighNote",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Ray Mantilla",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Cucho Martinez",
+      "instrumento": "bajo"
+    },
+    {
       "musico": "walton",
       "nombre": "Cedar Walton",
-      "instrumento": "piano, composición"
+      "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "latino"
   ],
@@ -54,7 +64,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 2171d2ab-6352-4b77-947e-3a095b3af4a1 (2002)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Brazil",

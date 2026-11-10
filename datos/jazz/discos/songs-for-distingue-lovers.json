@@ -35,12 +35,55 @@
   "sello": "Verve",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Harry “Sweets” Edison",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Barney Kessel",
+      "instrumento": "guitarra, guitarra eléctrica"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Mondragon",
+      "instrumento": "contrabajo",
+      "nota": "temas 1, 3, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Rowles",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Alvin Stoller",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "webster",
+      "nombre": "Ben Webster",
+      "instrumento": "saxo tenor"
+    },
+    {
       "musico": "holiday",
       "nombre": "Billie Holiday",
       "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Red Mitchell",
+      "instrumento": "contrabajo",
+      "nota": "temas 2, 5, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Larry Bunker",
+      "instrumento": "batería",
+      "nota": "temas 4"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "swing"
   ],
@@ -48,10 +91,16 @@
     "Estándares en un clima elegante y relajado, con Ben Webster, Harry Edison, Jimmy Rowles y Barney Kessel. Es de sus últimos años, con la voz más gastada pero muy expresiva. Es uno de los discos que el banco elige para conocer a Billie Holiday."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "16696277-f28c-3333-8c15-455a3e1fb898",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Songs_for_Distingu%C3%A9_Lovers"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 0f90a307-37f2-4a77-a31b-1bbb2784b084 (1958)."
+    }
+  ]
 }

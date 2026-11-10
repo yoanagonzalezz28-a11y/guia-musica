@@ -36,12 +36,107 @@
   "sello": "Perception",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Juini Booth",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Stacey Edwards",
+      "instrumento": "conga, percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "James Flores",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Art Gore",
+      "instrumento": "batería, piano eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Abdul Hakim",
+      "instrumento": "bongós, percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Armen Halburian",
+      "instrumento": "bells, conga, percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Diedre Johnson",
+      "instrumento": "violonchelo"
+    },
+    {
+      "musico": null,
+      "nombre": "Howard King",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Poppy LaBoy",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Cedric Lawson",
+      "instrumento": "piano eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Charles Magee",
+      "instrumento": "electric trompeta, trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Dennis Mourouse",
+      "instrumento": "electric saxo, saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Umar Abdul Muizz",
+      "instrumento": "conga, percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Don Pate",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Abdul Sahid",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "sanders",
+      "nombre": "Pharoah Sanders",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Jumma Santos",
+      "instrumento": "conga, cencerro, hi-hat, percusión, pandereta, tom-tom, whistling"
+    },
+    {
+      "musico": null,
+      "nombre": "Danny Toan",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "James Blood Ulmer",
+      "instrumento": "guitarra"
+    },
+    {
       "musico": "larry-young",
       "nombre": "Larry Young",
-      "instrumento": "órgano"
+      "instrumento": "bongós, teclados, órgano, percusión, remixing, voz"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "fusion"
   ],
@@ -52,7 +147,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Lawrence_of_Newark"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Lawrence of Newark\"."
+    }
+  ]
 }

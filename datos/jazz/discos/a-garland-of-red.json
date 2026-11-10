@@ -35,12 +35,22 @@
   "sello": "Prestige",
   "musicos": [
     {
+      "musico": "chambers",
+      "nombre": "Paul Chambers",
+      "instrumento": "contrabajo"
+    },
+    {
       "musico": "garland",
       "nombre": "Red Garland",
       "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Art Taylor",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -48,10 +58,16 @@
     "Su primer disco como líder, en trío. El piano de Garland tiene un toque liviano y un uso de acordes en bloque que después se volvió marca del quinteto de Miles Davis. Es uno de los discos que el banco elige para conocer a Red Garland."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "b7e49639-b3fa-309a-92f5-1db5c333f7b8",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 6be29719-b310-4d1c-9c1d-dfd6c16fe9c2 (1956)."
+    }
+  ]
 }

@@ -38,10 +38,95 @@
     {
       "musico": "akinmusire",
       "nombre": "Ambrose Akinmusire",
-      "instrumento": "trompeta, composición"
+      "instrumento": "trompeta, percusión, teclados",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Sam Harris",
+      "instrumento": "piano, Mellotron",
+      "nota": "temas 1, 2, 3, 4, 5, 7, 8, 9, 10, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Charles Altura",
+      "instrumento": "guitarra",
+      "nota": "temas 2, 4, 5, 8, 9, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Justin Brown",
+      "instrumento": "batería",
+      "nota": "temas 2, 3, 4, 5, 7, 8, 9, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Harish Raghavan",
+      "instrumento": "bajo",
+      "nota": "temas 2, 4, 5, 6, 7, 8, 9, 11, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Walter Smith III",
+      "instrumento": "saxo tenor",
+      "nota": "temas 2, 5, 7, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Kallie Ciechomski",
+      "instrumento": "viola",
+      "nota": "temas 3, 6, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Maria Im",
+      "instrumento": "violín",
+      "nota": "temas 3, 6, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Maria Jeffers",
+      "instrumento": "violonchelo",
+      "nota": "temas 3, 6, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Brooke Quiggins Saulnier",
+      "instrumento": "violín",
+      "nota": "temas 3, 6, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Becca Stevens",
+      "instrumento": "voz",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Elena Pinderhughes",
+      "instrumento": "flauta",
+      "nota": "temas 6, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Theo Bleckmann",
+      "instrumento": "efectos, voz",
+      "nota": "temas 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Cold Specks",
+      "instrumento": "voz",
+      "nota": "temas 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Muna Blake",
+      "instrumento": "voz",
+      "nota": "temas 10"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -54,7 +139,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 7c088418-e3bd-41c2-a7bd-5e6331bb1a47 (2014)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Marie Christie",

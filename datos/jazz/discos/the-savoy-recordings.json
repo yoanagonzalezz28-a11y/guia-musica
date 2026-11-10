@@ -8,7 +8,7 @@
   "regiones": [
     "estados-unidos"
   ],
-  "compilacion": false,
+  "compilacion": true,
   "tipo": "estudio",
   "catalogo": null,
   "lugar": null,
@@ -23,8 +23,8 @@
     "parker"
   ],
   "grabacion": {
-    "desde": 1945,
-    "hasta": 1945,
+    "desde": 1944,
+    "hasta": 1948,
     "detalle": null
   },
   "edicion": {
@@ -34,12 +34,157 @@
   "sello": "Savoy",
   "musicos": [
     {
+      "musico": "miles",
+      "nombre": "Miles Davis",
+      "instrumento": "trompeta",
+      "nota": "temas 1-2, 1-7, 1-8, 1-17, 1-18, 2-3, 2-6, 2-7, 2-8, 2-9, 2-10, 2-11, 2-13, 2-14, 2-15, 2-17"
+    },
+    {
+      "musico": "gillespie",
+      "nombre": "Dizzy Gillespie",
+      "instrumento": "piano",
+      "nota": "temas 1-2"
+    },
+    {
       "musico": "parker",
       "nombre": "Charlie Parker",
-      "instrumento": "saxo alto"
+      "instrumento": "saxo alto",
+      "nota": "temas 1-2, 1-7, 1-8, 1-10, 1-15, 1-16, 1-17, 1-18, 2-2, 2-3, 2-6, 2-7, 2-8, 2-9, 2-10, 2-11, 2-13, 2-14, 2-15, 2-17"
+    },
+    {
+      "musico": "roach",
+      "nombre": "Max Roach",
+      "instrumento": "batería",
+      "nota": "temas 1-2, 1-17, 1-18, 2-3, 2-6, 2-7, 2-8, 2-9, 2-10, 2-11, 2-13, 2-14, 2-15, 2-17"
+    },
+    {
+      "musico": null,
+      "nombre": "Curley Russell",
+      "instrumento": "contrabajo",
+      "nota": "temas 1-2, 2-15, 2-17"
+    },
+    {
+      "musico": null,
+      "nombre": "Arvin Garrison",
+      "instrumento": "guitarra",
+      "nota": "temas 1-7, 1-8"
+    },
+    {
+      "musico": null,
+      "nombre": "Dodo Marmarosa",
+      "instrumento": "piano",
+      "nota": "temas 1-7, 1-8"
+    },
+    {
+      "musico": null,
+      "nombre": "Vic McMillan",
+      "instrumento": "contrabajo",
+      "nota": "temas 1-7, 1-8"
+    },
+    {
+      "musico": null,
+      "nombre": "Roy Porter",
+      "instrumento": "batería",
+      "nota": "temas 1-7, 1-8, 1-10"
+    },
+    {
+      "musico": null,
+      "nombre": "Lucky Thompson",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1-7, 1-8"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Bunn",
+      "instrumento": "piano",
+      "nota": "temas 1-10"
+    },
+    {
+      "musico": null,
+      "nombre": "Bob Kesterson",
+      "instrumento": "contrabajo",
+      "nota": "temas 1-10"
+    },
+    {
+      "musico": null,
+      "nombre": "Howard McGhee",
+      "instrumento": "trompeta",
+      "nota": "temas 1-10"
+    },
+    {
+      "musico": null,
+      "nombre": "Red Callender",
+      "instrumento": "contrabajo",
+      "nota": "temas 1-15, 1-16"
+    },
+    {
+      "musico": "garner",
+      "nombre": "Erroll Garner",
+      "instrumento": "piano",
+      "nota": "temas 1-15, 1-16"
+    },
+    {
+      "musico": null,
+      "nombre": "‘Doc’ West",
+      "instrumento": "batería",
+      "nota": "temas 1-15, 1-16"
+    },
+    {
+      "musico": null,
+      "nombre": "Tommy Potter",
+      "instrumento": "contrabajo",
+      "nota": "temas 1-17, 1-18, 2-6, 2-7, 2-8, 2-9, 2-10, 2-11, 2-13, 2-14"
+    },
+    {
+      "musico": "powell",
+      "nombre": "Bud Powell",
+      "instrumento": "piano",
+      "nota": "temas 1-17, 1-18"
+    },
+    {
+      "musico": null,
+      "nombre": "Nelson Boyd",
+      "instrumento": "contrabajo",
+      "nota": "temas 2-3"
+    },
+    {
+      "musico": null,
+      "nombre": "John Lewis",
+      "instrumento": "piano",
+      "nota": "temas 2-3, 2-15, 2-17"
+    },
+    {
+      "musico": null,
+      "nombre": "Duke Jordan",
+      "instrumento": "piano",
+      "nota": "temas 2-6, 2-7, 2-8, 2-9, 2-10, 2-11, 2-13, 2-14"
+    },
+    {
+      "musico": null,
+      "nombre": "Charlie Parker’s Ree Boppers",
+      "instrumento": "orquesta",
+      "nota": "temas 1-2"
+    },
+    {
+      "musico": null,
+      "nombre": "Charlie Parker Quartet",
+      "instrumento": "orquesta",
+      "nota": "temas 1-15"
+    },
+    {
+      "musico": null,
+      "nombre": "Charlie Parker All Stars",
+      "instrumento": "orquesta",
+      "nota": "temas 1-17, 1-18"
+    },
+    {
+      "musico": null,
+      "nombre": "Charlie Parker Quintet",
+      "instrumento": "orquesta",
+      "nota": "temas 2-6, 2-8, 2-11, 2-13"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "bebop"
   ],
@@ -51,10 +196,21 @@
     "Son grabaciones cortas, de tres minutos, pensadas para discos de 78 rpm. Ahí está el bebop en estado puro: tempos vertiginosos y melodías que salen de los acordes de estándares."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "978dcfa4-9b25-44fb-8c5e-60d836d61c09",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición bd887a1d-8baa-4c3a-9833-d7cd3bee09ff (2006)."
+    }
+  ],
+  "recopilacion": {
+    "desde": 1944,
+    "hasta": 1948,
+    "original": "Los temas salieron primero en discos de 78 rpm."
+  }
 }

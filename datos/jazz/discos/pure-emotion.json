@@ -38,9 +38,124 @@
       "musico": "ofarrill",
       "nombre": "Chico O'Farrill",
       "instrumento": "arreglos, composición, trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Chico O’Farrill",
+      "instrumento": "dirección"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Berrios",
+      "instrumento": "batería, percusión, quinto"
+    },
+    {
+      "musico": null,
+      "nombre": "Rolando Briceño",
+      "instrumento": "saxo alto, clarinete, flauta"
+    },
+    {
+      "musico": null,
+      "nombre": "Pablo Calogero",
+      "instrumento": "saxo barítono"
+    },
+    {
+      "musico": null,
+      "nombre": "Gerald Chamberlain",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Dan Collette",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Robin Eubanks",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Bob Franceschini",
+      "instrumento": "clarinete, flauta, saxo soprano, saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Andy González",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Jerry González",
+      "instrumento": "congas"
+    },
+    {
+      "musico": null,
+      "nombre": "Lenny Hambro",
+      "instrumento": "saxo alto, clarinete, flauta"
+    },
+    {
+      "musico": null,
+      "nombre": "Earl McIntyre",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Michael Philip Mossman",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Sharon Moe",
+      "instrumento": "corno"
+    },
+    {
+      "musico": null,
+      "nombre": "Elisabeth Monder",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Arturo O’Farrill",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Manny Oquendo",
+      "instrumento": "bongós, tubular bells"
+    },
+    {
+      "musico": null,
+      "nombre": "Tim Ouimette",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Victor Paz",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Mario Rivera",
+      "instrumento": "clarinete, flauta, saxo soprano, saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Jeffrey Scott",
+      "instrumento": "corno"
+    },
+    {
+      "musico": null,
+      "nombre": "Jim Seeley",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": "papo-vazquez",
+      "nombre": "Papo Vázquez",
+      "instrumento": "trombón"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "latino"
   ],
@@ -48,10 +163,16 @@
     "Una big band en Nueva York, con arreglos de jazz afrocubano de una enorme riqueza. O'Farrill había escrito para Machito y Dizzy Gillespie en los 50, y después de años lejos de los discos volvió con este. Es el disco clave de Chico O'Farrill en la etapa \"Jazz latino\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "fa1e6c56-6ebe-45f6-816c-6def9a540740",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición b5edfa72-fed4-4b53-ad6b-aee35d627bb5 (1995-08-15)."
+    }
+  ]
 }

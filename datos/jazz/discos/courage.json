@@ -37,10 +37,16 @@
     {
       "musico": "milton",
       "nombre": "Milton Nascimento",
-      "instrumento": "voz, guitarra, composición"
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Anamaria Valle",
+      "instrumento": "voz",
+      "nota": "temas 3"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "brasil"
   ],
@@ -48,10 +54,16 @@
     "Su primer disco en Estados Unidos, con arreglos de Eumir Deodato. Nascimento canta en inglés y en portugués canciones propias con arreglos de Deodato para orquesta. Es el disco clave de Milton Nascimento en la etapa \"Jazz brasileño\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "42679f5e-5f9e-3732-beea-a3cfde40bf93",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición a9a864bb-e4b5-3faf-b7ed-f26640252d5e (1968-12)."
+    }
+  ]
 }

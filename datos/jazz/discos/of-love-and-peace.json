@@ -36,12 +36,37 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "James Spaulding",
+      "instrumento": "saxo alto, flauta"
+    },
+    {
       "musico": "larry-young",
       "nombre": "Larry Young",
       "instrumento": "órgano"
+    },
+    {
+      "musico": null,
+      "nombre": "Eddie Gale",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Wilson Moorman III",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Herbert Morgan",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Jerry Thomas",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "free"
   ],
@@ -49,10 +74,16 @@
     "Más libre y percusivo. Young toca el órgano con un grupo de vientos y dos baterías, en temas libres. Es uno de los discos que el banco elige para conocer a Larry Young."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "850fa466-0a71-3f97-9cc3-cd6347b071d9",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición f9e7f8fd-ba7e-4985-a6da-f9ff44a5b02d (1966-07-28)."
+    }
+  ]
 }

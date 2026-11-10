@@ -34,12 +34,35 @@
   "sello": "ECM",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Stefano Bollani",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Rosario Bonaccorso",
+      "instrumento": "contrabajo",
+      "nota": "temas 1, 3, 5, 7, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Roberto Gatto",
+      "instrumento": "batería",
+      "nota": "temas 1, 3, 5, 7, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Gianluca Petrella",
+      "instrumento": "trombón",
+      "nota": "temas 1, 3, 5, 6, 7, 8, 9"
+    },
+    {
       "musico": "rava",
       "nombre": "Enrico Rava",
-      "instrumento": "trompeta, fliscorno"
+      "instrumento": "trompeta"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm"
   ],
@@ -47,10 +70,16 @@
     "Con Stefano Bollani: melodía italiana y swing libre. Rava toca la trompeta con un sonido suave y melódico, con el piano de Bollani. Está entre los discos esenciales de Enrico Rava."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "aeed9acf-7c29-3d8c-89f2-69b0eb1585b3",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 4743841e-5079-4795-836e-7514d7135396 (2004)."
+    }
+  ]
 }

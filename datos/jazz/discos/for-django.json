@@ -36,12 +36,27 @@
   "sello": "Pacific Jazz",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Colin Bailey",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Jim Hughart",
+      "instrumento": "bajo"
+    },
+    {
       "musico": "pass",
       "nombre": "Joe Pass",
       "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "John Pisano",
+      "instrumento": "guitarra"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "swing"
   ],
@@ -49,10 +64,16 @@
     "Guitarra en cuarteto, con temas asociados a Django y un swing limpio y elegante. Pass había vuelto a la escena pocos años antes, después de un largo tratamiento por adicción. En la ficha de Joe Pass es el disco que representa la etapa \"Swing\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "80abeaef-6c4f-45c6-abe7-0029b33dd2e1",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 0649e11c-8ac5-4718-bf04-78c98fc194e1 (1964)."
+    }
+  ]
 }

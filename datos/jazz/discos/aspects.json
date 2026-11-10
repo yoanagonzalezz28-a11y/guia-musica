@@ -38,10 +38,75 @@
     {
       "musico": "benny-carter",
       "nombre": "Benny Carter",
-      "instrumento": "saxo alto, trompeta, arreglos"
+      "instrumento": "saxo alto, arreglos"
+    },
+    {
+      "musico": null,
+      "nombre": "Pete Candoli, Conrad Gozzo, Uan Rasey, Shorty Sherock",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Herbie Harper, Tommy Pederson, George Roberts",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Buddy Collette, Chuck Gentry, Justin Gordon, Bill Green",
+      "instrumento": "saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Arnold Ross",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Larry Bunker",
+      "instrumento": "vibráfono"
+    },
+    {
+      "musico": null,
+      "nombre": "Bobby Gibbons",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Comfort",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Shelly Manne",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Gordon, Al Porcino, Ray Triscari, Stu Williamson",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Russ Brown, Tommy Pederson, Frank Rosolino",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Buddy Collette, Jewell Grant, Bill Green, Plas Johnson",
+      "instrumento": "saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Gerald Wiggins",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Barney Kessel",
+      "instrumento": "guitarra"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "swing"
   ],
@@ -52,7 +117,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Aspects_(Benny_Carter_album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Aspects (Benny Carter album)\"."
+    }
+  ]
 }

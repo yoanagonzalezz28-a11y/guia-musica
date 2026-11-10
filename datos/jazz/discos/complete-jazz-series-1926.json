@@ -153,5 +153,10 @@
       "duracion": 199
     }
   ],
-  "temasFuente": "Spotify"
+  "temasFuente": "Spotify",
+  "recopilacion": {
+    "desde": 1926,
+    "hasta": 1926,
+    "original": "Los temas salieron primero en discos de 78 rpm."
+  }
 }

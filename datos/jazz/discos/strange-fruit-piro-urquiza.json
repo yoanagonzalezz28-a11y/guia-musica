@@ -20,7 +20,8 @@
   "titulo": "Strange Fruit",
   "credito": "Ligia Piro y Juan Cruz de Urquiza",
   "lideres": [
-    "urquiza"
+    "urquiza",
+    "ligia-piro"
   ],
   "grabacion": {
     "desde": 2010,
@@ -34,7 +35,7 @@
   "sello": "Gato Pop",
   "musicos": [
     {
-      "musico": null,
+      "musico": "ligia-piro",
       "nombre": "Ligia Piro",
       "instrumento": "voz"
     },
@@ -46,7 +47,7 @@
   ],
   "personalNota": "Lista parcial.",
   "corrientes": [
-    "rioplat"
+    "hoy"
   ],
   "comentario": [
     "Un disco de canciones del repertorio de Billie Holiday con la cantante Ligia Piro. La trompeta de Urquiza acompaña y responde a la voz. Une la escena porteña con la tradición del jazz vocal."

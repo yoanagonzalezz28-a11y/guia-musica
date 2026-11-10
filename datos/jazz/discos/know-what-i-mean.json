@@ -39,9 +39,24 @@
       "musico": "adderley",
       "nombre": "Cannonball Adderley",
       "instrumento": "saxo alto"
+    },
+    {
+      "musico": "evans",
+      "nombre": "Bill Evans",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Percy Heath",
+      "instrumento": "contrabajo, bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Connie Kay",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -54,7 +69,13 @@
     "wikidata": null,
     "wikipedia": "Know_What_I_Mean%3F"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 65f70482-0511-44c6-bde2-d65c1e64ad23 (1961)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Waltz For Debby",

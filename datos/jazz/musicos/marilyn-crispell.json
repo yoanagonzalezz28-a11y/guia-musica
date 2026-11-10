@@ -1,0 +1,50 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "marilyn-crispell",
+  "nombre": "Marilyn Crispell",
+  "nacimiento": {
+    "anio": 1947,
+    "lugar": "Filadelfia"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano",
+    "composición"
+  ],
+  "corrientes": [
+    "free",
+    "ecm"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Pianista y compositora que pasó del free más intenso, junto a Anthony Braxton, a un lirismo lento en ECM.",
+  "epocas": [
+    {
+      "titulo": "ECM y jazz europeo",
+      "desde": 1997,
+      "hasta": 2019,
+      "texto": "",
+      "discoClave": {
+        "disco": "nothing-ever-was-anyway",
+        "explicacion": "Su trío con Gary Peacock y Paul Motian."
+      },
+      "discos": [
+        "amaryllis-crispell"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-marilyn-crispell"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "nothing-ever-was-anyway",
+    "amaryllis-crispell"
+  ]
+}

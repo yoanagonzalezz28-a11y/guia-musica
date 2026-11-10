@@ -8,7 +8,7 @@
   "regiones": [
     "estados-unidos"
   ],
-  "compilacion": true,
+  "compilacion": false,
   "tipo": "estudio",
   "catalogo": null,
   "lugar": null,

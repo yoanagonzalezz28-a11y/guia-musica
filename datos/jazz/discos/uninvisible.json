@@ -39,9 +39,96 @@
       "musico": "mmw",
       "nombre": "Medeski, Martin & Wood",
       "instrumento": "grupo"
+    },
+    {
+      "musico": null,
+      "nombre": "John Medeski",
+      "instrumento": "teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Stuart Bogie",
+      "instrumento": "clarinete, saxo tenor",
+      "nota": "temas 1, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Michael Herbst",
+      "instrumento": "saxo barítono, clarinete bajo",
+      "nota": "temas 1, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Aaron Johnson",
+      "instrumento": "trombón",
+      "nota": "temas 1, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Martin",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Jordan McLean",
+      "instrumento": "fliscorno, trompeta",
+      "nota": "temas 1, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Todd Simon",
+      "instrumento": "fliscorno, trompeta",
+      "nota": "temas 1, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Chris Wood",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "DJ Olive",
+      "instrumento": "bandejas",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Scotty Hard",
+      "instrumento": "batería machine, guitarra, bandejas",
+      "nota": "temas 3, 5, 6, 12, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Col. Bruce Hampton",
+      "instrumento": "voz",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Danny Blume",
+      "instrumento": "baritone guitarra, guitarra",
+      "nota": "temas 4, 6, 10, 14"
+    },
+    {
+      "musico": null,
+      "nombre": "P-Love",
+      "instrumento": "bandejas",
+      "nota": "temas 4, 6, 7, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Eddie Bobé",
+      "instrumento": "batá batería, campana, congas, shekere",
+      "nota": "temas 5, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Brad Roberts",
+      "instrumento": "voz",
+      "nota": "temas 8"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "fusion"
   ],
@@ -49,10 +136,16 @@
     "El trío toca funk con raperos y vientos, más cerca del hip hop que en sus discos anteriores. Sigue la línea de *Combustication*, con más invitados y más trabajo de estudio. Está entre los discos esenciales de Medeski, Martin & Wood."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "735ac057-0af5-32d5-ad3f-2f5e7c91ade0",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 933fe97b-1791-4a3a-a480-c6f406680dff (2002-04-09)."
+    }
+  ]
 }

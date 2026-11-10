@@ -36,12 +36,47 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": "chambers",
+      "nombre": "Paul Chambers",
+      "instrumento": "bajo",
+      "nota": "temas 1, 2, 3, 4, 5"
+    },
+    {
+      "musico": "green",
+      "nombre": "Grant Green",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": "philly-joe-jones",
+      "nombre": "Philly Joe Jones",
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 3, 4, 5"
+    },
+    {
       "musico": "quebec",
       "nombre": "Ike Quebec",
       "instrumento": "saxo tenor"
+    },
+    {
+      "musico": "sonny-clark",
+      "nombre": "Sonny Clark",
+      "instrumento": "piano",
+      "nota": "temas 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Louis Hayes",
+      "instrumento": "batería",
+      "nota": "temas 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Sam Jones",
+      "instrumento": "bajo",
+      "nota": "temas 6"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -49,12 +84,18 @@
     "Con Grant Green y Paul Chambers: baladas susurradas. El tenor de Quebec, con un sonido grueso y lleno de aire, toca baladas y blues lentos sobre la guitarra de Green. En la ficha de Ike Quebec es el disco que representa la etapa \"Hard bop\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "30c773e2-c556-3feb-ae06-da8efaa1f4de",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Blue_%26_Sentimental"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 2606f5b2-f19b-41d3-a847-a286d1abdad2 (1962)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Blue And Sentimental - Remastered 2007/Rudy Van Gelder Edition",

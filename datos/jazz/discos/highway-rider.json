@@ -39,9 +39,49 @@
       "musico": "mehldau",
       "nombre": "Brad Mehldau",
       "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Brad Mehldau&nbsp;– Piano",
+      "instrumento": "1–5, 7; disc 2, 1–6, 8), pump órgano, yamaha cs-80 polyphonic analog sintetizador, orchestral bells, palmas",
+      "nota": "temas Disc 1, 2; Disc 2, 3, 4, 7; Disc 2, 1, 8, Disc 2, 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Jeff Ballard&nbsp;– Percussion",
+      "instrumento": "1, 5; disc 2, 2), snare brush, batería ; palmas",
+      "nota": "temas Disc 1, 2, 7; Disc 2, 1, 4, 6, 8, Disc 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Joshua Redman&nbsp;– Soprano Saxophone",
+      "instrumento": "1, 5; disc 2, 2, 8), saxo tenor, palmas",
+      "nota": "temas Disc 1, 2, 7; Disc 2, 1, 3, 5, Disc 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Larry Grenadier&nbsp;– Bass",
+      "instrumento": "2, 4, 7; disc 2, 1, 3, 4, 6, 8), palmas",
+      "nota": "temas Disc 2, 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Matt Chamberlain&nbsp;– drums",
+      "instrumento": "2, 4, 5, 7, 8; disc 2, 2, 3), palmas",
+      "nota": "temas Disc 2, 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Orchestra, Dan Coleman, Conductor",
+      "instrumento": "1, 2, 6, 7; disc 2, 1, 7, 8)"
+    },
+    {
+      "musico": null,
+      "nombre": "The Fleurettes&nbsp;– Vocals",
+      "instrumento": "5)"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "hoy"
   ],
@@ -52,9 +92,15 @@
     "musicbrainz": "48db9168-0a3d-4e2b-af39-f9d269a75b54",
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Highway_Rider"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Highway Rider\"."
+    }
+  ],
   "temas": [
     {
       "titulo": "John Boy",

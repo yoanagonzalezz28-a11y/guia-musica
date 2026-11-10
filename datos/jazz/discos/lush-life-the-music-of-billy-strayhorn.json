@@ -38,9 +38,33 @@
       "musico": "henderson",
       "nombre": "Joe Henderson",
       "instrumento": "saxo tenor"
+    },
+    {
+      "musico": "mcbride",
+      "nombre": "Christian McBride",
+      "instrumento": "bajo",
+      "nota": "temas 1, 2, 3, 4, 6, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Gregory Hutchinson",
+      "instrumento": "batería",
+      "nota": "temas 2, 3, 4, 6, 7, 9"
+    },
+    {
+      "musico": "marsalis",
+      "nombre": "Wynton Marsalis",
+      "instrumento": "trompeta",
+      "nota": "temas 2, 6, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Stephen Scott",
+      "instrumento": "piano",
+      "nota": "temas 2, 3, 5, 6, 8, 9"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "neotrad"
   ],
@@ -48,10 +72,16 @@
     "Homenaje a Strayhorn que lo devolvió a la fama: tenor maduro, en dúos y grupos chicos. Henderson toca el saxo tenor con Wynton Marsalis, Stephen Scott, Christian McBride y Gregory Hutchinson en temas de Strayhorn. En la ficha de Joe Henderson es el disco que representa la etapa \"Neotradicionalismo\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "fa9cea4c-220e-3eeb-a649-f8d359b7a160",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Lush_Life:_The_Music_of_Billy_Strayhorn"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 1fc5b078-ab0f-450b-91a1-e70b54b27c43 (1992-02-18)."
+    }
+  ]
 }

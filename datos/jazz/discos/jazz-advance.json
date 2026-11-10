@@ -36,12 +36,30 @@
   "sello": "Transition",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Denis Charles",
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 3, 4, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Buell Neidlinger",
+      "instrumento": "contrabajo",
+      "nota": "temas 1, 2, 3, 4, 6"
+    },
+    {
       "musico": "taylor",
       "nombre": "Cecil Taylor",
       "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Lacy",
+      "instrumento": "saxo soprano",
+      "nota": "temas 2, 4"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "free"
   ],
@@ -49,10 +67,16 @@
     "Su debut: Monk y Ellington ya transformados. Taylor toca el piano con Steve Lacy en saxo soprano, en temas propios y de otros compositores. Está entre los discos esenciales de Cecil Taylor."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "7d93f21b-b8d5-3046-9426-e56abb96f354",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición e5357b9f-ce4a-4b03-baa5-7eed099eb34f (1957)."
+    }
+  ]
 }

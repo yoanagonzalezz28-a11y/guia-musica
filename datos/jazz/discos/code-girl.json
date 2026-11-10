@@ -1,0 +1,89 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5PgtI7zGbJZeQrFMeF0ARb",
+    "tituloEnSpotify": "Code Girl",
+    "via": "api-spotify"
+  },
+  "id": "code-girl",
+  "titulo": "Code Girl",
+  "credito": "Mary Halvorson",
+  "lideres": [
+    "mary-halvorson"
+  ],
+  "grabacion": {
+    "desde": 2018,
+    "hasta": 2018,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2018,
+    "detalle": null
+  },
+  "sello": "Firehouse 12",
+  "musicos": [
+    {
+      "musico": "akinmusire",
+      "nombre": "Ambrose Akinmusire",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Michael Formanek",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": "mary-halvorson",
+      "nombre": "Mary Halvorson",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Tomas Fujiwara",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Amirtha Kidambi",
+      "instrumento": "voz"
+    }
+  ],
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Canciones con letras de Halvorson, cantadas por Amirtha Kidambi, con guitarra, trompeta, bajo y batería. Es su primer disco de canciones, con Ambrose Akinmusire en trompeta. Es uno de los discos que el banco elige para conocer a Mary Halvorson."
+  ],
+  "ids": {
+    "musicbrainz": "4fab8e74-c4bf-4ff0-8a9e-b6d8be3333fe",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-mary-halvorson-pend",
+      "acceso": "extracto",
+      "aporta": "Discografía."
+    },
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición f5982c25-15d6-46ec-b1d2-71a6f9ae69b4 (2018-03-30)."
+    }
+  ]
+}

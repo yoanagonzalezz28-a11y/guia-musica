@@ -34,12 +34,27 @@
   "sello": "Atlantic",
   "musicos": [
     {
+      "musico": "dejohnette",
+      "nombre": "Jack DeJohnette",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "jarrett",
+      "nombre": "Keith Jarrett",
+      "instrumento": "piano"
+    },
+    {
       "musico": "lloyd",
       "nombre": "Charles Lloyd",
-      "instrumento": "saxo tenor, flauta"
+      "instrumento": "flauta, saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Cecil McBee",
+      "instrumento": "bajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "modal"
   ],
@@ -47,10 +62,16 @@
     "En vivo en Monterey con Keith Jarrett y Jack DeJohnette: uno de los primeros discos de jazz que vendió un millón. Lloyd toca el saxo tenor y la flauta con Jarrett, Cecil McBee y DeJohnette, con un sonido abierto y cálido. En la ficha de Charles Lloyd es el disco que representa la etapa \"Jazz modal\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "87391912-d884-4521-8c5d-576d054ff03e",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Forest_Flower"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 55250094-1a15-4bd8-b709-e83b1bcaa8e0 (1967)."
+    }
+  ]
 }

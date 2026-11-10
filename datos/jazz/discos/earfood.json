@@ -36,12 +36,32 @@
   "sello": "EmArcy",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Gerald Clayton",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Montez Coleman",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Danton Boller",
+      "instrumento": "contrabajo"
+    },
+    {
       "musico": "hargrove",
       "nombre": "Roy Hargrove",
-      "instrumento": "trompeta, fliscorno"
+      "instrumento": "vientos de metal"
+    },
+    {
+      "musico": null,
+      "nombre": "Justin Robinson",
+      "instrumento": "vientos de madera"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "neotrad"
   ],
@@ -49,10 +69,16 @@
     "Trompeta y fliscorno con su quinteto, en temas con mucho swing y baladas. Después de años con su grupo de funk RH Factor, Hargrove vuelve al quinteto acústico. Completa la discografía de Roy Hargrove dentro de Neotradicionalismo."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "c8f17afd-64f1-3d38-8984-49004538e973",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 42d0e24a-ae47-4fc5-bc3f-bdc1a29c5856 (2008)."
+    }
+  ]
 }

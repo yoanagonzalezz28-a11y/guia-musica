@@ -38,10 +38,15 @@
     {
       "musico": "guiliana",
       "nombre": "Mark Guiliana",
-      "instrumento": "batería"
+      "instrumento": "electronic instruments, percusión"
+    },
+    {
+      "musico": "mehldau",
+      "nombre": "Brad Mehldau",
+      "instrumento": "piano, sintetizador, voz"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -54,7 +59,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 8bb3d6ca-8d99-42f9-8445-9f2c0922a71f (2014-02-21)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Taming the Dragon",

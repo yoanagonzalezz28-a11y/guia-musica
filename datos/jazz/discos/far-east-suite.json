@@ -36,12 +36,97 @@
   "sello": "RCA Victor",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "William “Cat” Anderson",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 2, 3, 5, 6, 7, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Lawrence Brown",
+      "instrumento": "trombón",
+      "nota": "temas 1, 2, 3, 5, 6, 7, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Harry Carney",
+      "instrumento": "cañas, saxo barítono",
+      "nota": "temas 1, 2, 3, 5, 6, 7, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Chuck Connors",
+      "instrumento": "trombón",
+      "nota": "temas 1, 2, 3, 5, 6, 7, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Buster Cooper",
+      "instrumento": "trombón",
+      "nota": "temas 1, 2, 3, 5, 6, 7, 8, 9"
+    },
+    {
       "musico": "ellington",
       "nombre": "Duke Ellington",
-      "instrumento": "piano, composición, dirección"
+      "instrumento": "piano",
+      "nota": "temas 1, 2, 3, 5, 6, 7, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Mercer Ellington",
+      "instrumento": "trompeta, vientos de metal",
+      "nota": "temas 1, 2, 3, 5, 6, 7, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Hamilton",
+      "instrumento": "cañas",
+      "nota": "temas 1, 2, 3, 5, 6, 7, 8, 9"
+    },
+    {
+      "musico": "hodges",
+      "nombre": "Johnny Hodges",
+      "instrumento": "saxo alto",
+      "nota": "temas 1, 2, 3, 5, 6, 7, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Herbie Jones",
+      "instrumento": "trompeta, vientos de metal",
+      "nota": "temas 1, 2, 3, 5, 6, 7, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Rufus Jones",
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 3, 5, 6, 7, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "John Lamb",
+      "instrumento": "contrabajo",
+      "nota": "temas 1, 2, 3, 5, 6, 7, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Russell Procope",
+      "instrumento": "cañas",
+      "nota": "temas 1, 2, 3, 5, 6, 7, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Cootie Williams",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 2, 3, 5, 6, 7, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Gonsalves",
+      "instrumento": "saxo tenor, cañas",
+      "nota": "temas 2, 3, 5, 6, 7, 8, 9"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "swing"
   ],
@@ -49,10 +134,16 @@
     "Escrita con Billy Strayhorn tras una gira por Asia: colores y escalas de Oriente en su orquesta. Ellington y Strayhorn escriben piezas inspiradas en lugares del viaje, y \"Isfahan\" muestra el sonido dulce de Johnny Hodges. Es el disco clave de Duke Ellington en la etapa \"Suites con Strayhorn\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "c5176862-2fc7-4410-ba2b-46a6c440ede3",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Far_East_Suite"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 218e9378-8a84-4acb-b786-0b8661c4b8fc (1967)."
+    }
+  ]
 }

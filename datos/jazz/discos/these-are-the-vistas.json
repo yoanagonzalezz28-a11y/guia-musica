@@ -39,9 +39,27 @@
       "musico": "bad-plus",
       "nombre": "The Bad Plus",
       "instrumento": "grupo"
+    },
+    {
+      "musico": null,
+      "nombre": "Reid Anderson",
+      "instrumento": "bajo",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 8, 9, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Ethan Iverson",
+      "instrumento": "piano",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 8, 9, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Dave King",
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 8, 9, 10"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -49,12 +67,18 @@
     "Con \"Smells Like Teen Spirit\": el disco que los hizo famosos. El trío toca temas propios y versiones de Nirvana y Aphex Twin con mucha potencia. En la ficha de The Bad Plus es el disco que representa la etapa \"Jazz de hoy\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "a3ce07b4-fb8d-3413-ad8d-de15977cc5e2",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición be39e6bb-7e23-4fb1-bb92-83aa2ff64b52 (2003)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Big Eater",

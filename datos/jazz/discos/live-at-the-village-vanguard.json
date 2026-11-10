@@ -36,12 +36,32 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Roberto Vizcaino Guillot",
+      "instrumento": "batá batería, congas"
+    },
+    {
+      "musico": null,
+      "nombre": "Francisco Rubio Pampin",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Raúl Píñeda Roque",
+      "instrumento": "batería"
+    },
+    {
       "musico": "chucho",
       "nombre": "Chucho Valdés",
-      "instrumento": "piano, composición"
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Mayra Caridad Valdés",
+      "instrumento": "voz"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "latino"
   ],
@@ -54,7 +74,13 @@
     "wikidata": null,
     "wikipedia": "Chucho_Vald%C3%A9s"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Live at the Village Vanguard (Chucho Valdés album)\"."
+    }
+  ],
   "temas": [
     {
       "titulo": "Golondrinas",

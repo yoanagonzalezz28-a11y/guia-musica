@@ -26,7 +26,9 @@
   "id": "fotografia-silenciosa",
   "titulo": "Fotografía silenciosa",
   "credito": "Juan Pablo Chapital",
-  "lideres": [],
+  "lideres": [
+    "chapital"
+  ],
   "grabacion": {
     "desde": 2010,
     "hasta": 2010,
@@ -39,14 +41,14 @@
   "sello": null,
   "musicos": [
     {
-      "musico": null,
+      "musico": "chapital",
       "nombre": "Juan Pablo Chapital",
-      "instrumento": "líder"
+      "instrumento": "líder, guitarra, composición"
     }
   ],
   "personalNota": "Lista parcial: sale de los créditos de Spotify.",
   "corrientes": [
-    "rioplat"
+    "hoy"
   ],
   "comentario": [
     "Disco de Juan Pablo Chapital con nueve temas propios. Los títulos dejan ver sus referencias: \"Espárragos para Miles\" mira a Miles Davis y \"Tipo Caimmy\", a la canción brasileña. Chapital también aparece como invitado de Nicolás Ibarburu, y este disco ayuda a entender ese círculo de músicos de los dos lados del río."

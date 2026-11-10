@@ -39,9 +39,19 @@
       "musico": "mother-earth",
       "nombre": "Mother Earth",
       "instrumento": "grupo"
+    },
+    {
+      "musico": null,
+      "nombre": "Neil Corcoran",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Chris White",
+      "instrumento": "percusión"
     }
   ],
-  "personalNota": "Lista parcial.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "acid"
   ],
@@ -49,12 +59,18 @@
     "El primer disco de Mother Earth, con Shauna Green en la voz y el órgano Hammond de Bryn Barklam al frente. Suena a soul y rock de fines de los 60 pasados por el filtro de la pista de baile londinense. Es uno de los discos que definieron el sello Acid Jazz."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "aed209fb-e141-377b-82a3-920fd36e6be2",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 199d50e5-2712-47da-b7b9-9cb849423535 (1992)."
+    }
+  ],
   "fuentes": [
     "wp-mother-earth-band"
   ]

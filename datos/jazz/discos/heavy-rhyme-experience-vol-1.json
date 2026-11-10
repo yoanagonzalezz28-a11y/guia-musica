@@ -39,9 +39,39 @@
       "musico": "brand-new-heavies",
       "nombre": "The Brand New Heavies",
       "instrumento": "grupo"
+    },
+    {
+      "musico": null,
+      "nombre": "Simon Bartholomew",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Andrew Levy",
+      "instrumento": "bajo eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Jan Kincaid",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Daley",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Mike Smith",
+      "instrumento": "saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Martin Shaw",
+      "instrumento": "trompeta"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "acid"
   ],
@@ -52,7 +82,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Heavy_Rhyme_Experience,_Vol._1"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Heavy Rhyme Experience, Vol. 1\"."
+    }
+  ]
 }

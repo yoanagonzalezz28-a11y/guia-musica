@@ -44,9 +44,19 @@
       "musico": "flanagan",
       "nombre": "Tommy Flanagan",
       "instrumento": "piano"
+    },
+    {
+      "musico": "elvin",
+      "nombre": "Elvin Jones",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Wilbur Little",
+      "instrumento": "contrabajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "bebop"
   ],
@@ -59,7 +69,13 @@
     "wikidata": null,
     "wikipedia": "Overseas_(album)"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 81fe89b3-6bba-423e-bf8f-9e4497b5739f (1958)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Relaxin' At Camarillo",

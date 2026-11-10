@@ -37,9 +37,24 @@
       "musico": "gogo-penguin",
       "nombre": "GoGo Penguin",
       "instrumento": "piano trío"
+    },
+    {
+      "musico": null,
+      "nombre": "Nick Blacka",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Chris Illingworth",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Rob Turner",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -47,12 +62,18 @@
     "El disco que los hizo conocidos: piano trío con lógica de drum and bass. El trío de Manchester toca temas con patrones repetidos y ritmos de la electrónica. En la ficha de GoGo Penguin es el disco que representa la etapa \"Jazz de hoy\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "94bf751a-ca33-4e01-96b3-d5d70b4893cf",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 6a23a69e-4b0e-4b83-9732-0f083d512437 (2014-03-17)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Murmuration",

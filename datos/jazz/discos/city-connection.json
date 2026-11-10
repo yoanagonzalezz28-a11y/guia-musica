@@ -38,9 +38,36 @@
       "musico": "hino",
       "nombre": "Terumasa Hino",
       "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "日野皓正",
+      "instrumento": "corneta, fliscorno, palmas"
+    },
+    {
+      "musico": null,
+      "nombre": "Harry Whitaker",
+      "instrumento": "dirección",
+      "nota": "temas 1, 4, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Anthony Jackson",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Howard King",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Leon Pendarvis",
+      "instrumento": "dirección",
+      "nota": "temas 2, 3, 5, 7"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -48,10 +75,16 @@
     "Trompeta sobre una base de fusión, con teclados y bajo eléctrico. Hino era una figura del jazz japonés y se había mudado a Nueva York a mediados de los 70; el disco se grabó allá. Es el disco clave de Terumasa Hino en la etapa \"Jazz del mundo\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "60da9ee3-6bdf-4fb1-9da9-80f58d7a8be2",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 39108f91-466b-4edf-b243-a86497112c18 (1979)."
+    }
+  ]
 }

@@ -39,9 +39,29 @@
       "musico": "burrell",
       "nombre": "Kenny Burrell",
       "instrumento": "guitarra"
+    },
+    {
+      "musico": "chambers",
+      "nombre": "Paul Chambers",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Cobb",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "coltrane",
+      "nombre": "John Coltrane",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": "flanagan",
+      "nombre": "Tommy Flanagan",
+      "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -54,7 +74,13 @@
     "wikidata": null,
     "wikipedia": "Kenny_Burrell_%26_John_Coltrane"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 6437a18d-9af8-49ea-85de-66c88778d1cd (1963)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Freight Trane",

@@ -35,12 +35,100 @@
   "sello": "Atlantic",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "William S. Fischer",
+      "instrumento": "dirección",
+      "nota": "temas 1, 2, 4, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Willie Bobo",
+      "instrumento": "timbales",
+      "nota": "temas 1, 3, 5"
+    },
+    {
+      "musico": "ronc",
+      "nombre": "Ron Carter",
+      "instrumento": "cuerdas",
+      "nota": "temas 1, 2, 4, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Selwart Clarke",
+      "instrumento": "cuerdas",
+      "nota": "temas 1, 2, 4, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Winston Collymore",
+      "instrumento": "cuerdas",
+      "nota": "temas 1, 2, 4, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Noel DaCosta",
+      "instrumento": "cuerdas",
+      "nota": "temas 1, 2, 4, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Donald Dean",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Richard Elias",
+      "instrumento": "cuerdas",
+      "nota": "temas 1, 2, 4, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Emanuel Green",
+      "instrumento": "cuerdas",
+      "nota": "temas 1, 2, 4, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Theodore Israel",
+      "instrumento": "cuerdas",
+      "nota": "temas 1, 2, 4, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Warren Laffredo",
+      "instrumento": "cuerdas",
+      "nota": "temas 1, 2, 4, 6"
+    },
+    {
       "musico": "mccann",
       "nombre": "Les McCann",
-      "instrumento": "piano, voz"
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Kermit Moore",
+      "instrumento": "cuerdas",
+      "nota": "temas 1, 2, 4, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Victor Pantoja",
+      "instrumento": "congas",
+      "nota": "temas 1, 3, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Harvey Shapiro",
+      "instrumento": "cuerdas",
+      "nota": "temas 1, 2, 4, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Leroy Vinnegar",
+      "instrumento": "bajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "souljazz"
   ],
@@ -48,10 +136,16 @@
     "Piano gospel con arreglos más amplios que en sus discos en trío. McCann toca el piano con cuerdas y vientos, en un soul jazz más amplio. Está entre los discos esenciales de Les McCann."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "0c8f917a-0c27-432d-a710-669c46be261b",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición deec603f-bb01-4094-b538-25e5fe62ed86 (1969)."
+    }
+  ]
 }

@@ -39,9 +39,79 @@
       "musico": "makhathini",
       "nombre": "Nduduzo Makhathini",
       "instrumento": "piano, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Gontse Makhene",
+      "instrumento": "percusión, voz",
+      "nota": "temas 1, 3, 4, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Logan Richardson",
+      "instrumento": "saxo alto",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 8, 9, 10, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Ayanda Sikade",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Linda Sikhakhane",
+      "instrumento": "saxo tenor, voz",
+      "nota": "temas 1, 2, 4, 5, 6, 7, 8, 9, 10, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Ndabo Zulu",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 2, 3, 4, 6, 8, 9, 10, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Zwelakhe-Duma Bell le Pere",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Omagugu Makhathini",
+      "instrumento": "voz",
+      "nota": "temas 1, 3, 8, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Moyo Makhathini",
+      "instrumento": "voz",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Nailah Makhathini",
+      "instrumento": "voz",
+      "nota": "temas 3, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Thingo Makhathini",
+      "instrumento": "voz",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Msaki",
+      "instrumento": "voz",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "MXO",
+      "instrumento": "voz",
+      "nota": "temas 11"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -49,10 +119,16 @@
     "Su debut en Blue Note. Makhathini toca el piano con un grupo sudafricano, en temas largos de jazz espiritual. En la ficha de Nduduzo Makhathini es el disco que representa la etapa \"Jazz de hoy\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "1b5807c9-ad55-4fc1-abae-62269ba92b2d",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 5096126c-961b-4c78-a89f-66721154b349 (2020-04-03)."
+    }
+  ]
 }

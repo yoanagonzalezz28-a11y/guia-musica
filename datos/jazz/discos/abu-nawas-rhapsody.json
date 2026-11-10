@@ -36,12 +36,27 @@
   "sello": "Jazzland",
   "musicos": [
     {
+      "musico": "guiliana",
+      "nombre": "Mark Guiliana",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": "tigran",
+      "nombre": "Tigran Hamasyan",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Chris Jennings",
+      "instrumento": "contrabajo"
+    },
+    {
       "musico": "youssef",
       "nombre": "Dhafer Youssef",
       "instrumento": "oud, voz"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -49,10 +64,16 @@
     "El oud y la voz muy aguda de Youssef se mezclan con el piano de Tigran Hamasyan y una batería de jazz. Youssef es tunecino, y el título homenajea a Abu Nawas, un poeta árabe del siglo VIII famoso por sus versos sobre el vino. Es el disco clave de Dhafer Youssef en la etapa \"Jazz del mundo\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "57eb7a94-efc4-4ff1-8b48-e85f60fb2efc",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 0015a392-cc5f-46e6-aae9-e85e33f84311 (2010-03-01)."
+    }
+  ]
 }

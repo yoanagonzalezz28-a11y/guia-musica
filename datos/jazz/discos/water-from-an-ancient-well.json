@@ -37,10 +37,40 @@
     {
       "musico": "ibrahim",
       "nombre": "Abdullah Ibrahim",
-      "instrumento": "piano, composición"
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Carlos Ward",
+      "instrumento": "flauta alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Ricky Ford",
+      "instrumento": "tenor sax"
+    },
+    {
+      "musico": null,
+      "nombre": "Charles Davis",
+      "instrumento": "baritone sax"
+    },
+    {
+      "musico": null,
+      "nombre": "David Williams",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Ben Riley",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Dick Griffin",
+      "instrumento": "trombón"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "mundo"
   ],
@@ -51,7 +81,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Water_from_an_Ancient_Well"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Water from an Ancient Well\"."
+    }
+  ]
 }

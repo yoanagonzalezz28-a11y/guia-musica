@@ -36,12 +36,151 @@
   "sello": "Tico",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Robert Ascher",
+      "instrumento": "trombón",
+      "nota": "temas 7, 9, 11, 14, 16, 17"
+    },
+    {
+      "musico": null,
+      "nombre": "Willie Bobo",
+      "instrumento": "bongós, güiro, timbales",
+      "nota": "temas 7, 9, 11, 14, 16, 17"
+    },
+    {
+      "musico": null,
+      "nombre": "Candido",
+      "instrumento": "congas",
+      "nota": "temas 7, 9, 11, 14, 16, 17"
+    },
+    {
+      "musico": null,
+      "nombre": "Allen Fields",
+      "instrumento": "saxo alto",
+      "nota": "temas 7, 9, 11, 14, 16, 17"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Frisaura",
+      "instrumento": "trompeta",
+      "nota": "temas 7, 9, 11, 14, 16, 17"
+    },
+    {
+      "musico": null,
+      "nombre": "Alvin Gellers",
+      "instrumento": "piano",
+      "nota": "temas 7, 9, 11, 14, 16, 17"
+    },
+    {
+      "musico": null,
+      "nombre": "Marty Holmes",
+      "instrumento": "saxo tenor",
+      "nota": "temas 7, 9, 11, 14, 16, 17"
+    },
+    {
+      "musico": null,
+      "nombre": "Dave Kurtzer",
+      "instrumento": "saxo barítono",
+      "nota": "temas 7, 9, 11, 14, 16, 17"
+    },
+    {
+      "musico": null,
+      "nombre": "Frank LoPinto",
+      "instrumento": "trompeta",
+      "nota": "temas 7, 9, 11, 14, 16, 17"
+    },
+    {
+      "musico": null,
+      "nombre": "Andres Meringuito",
+      "instrumento": "trompeta",
+      "nota": "temas 7, 14"
+    },
+    {
       "musico": "puente",
       "nombre": "Tito Puente",
-      "instrumento": "timbales, vibráfono"
+      "instrumento": "timbales, vibráfono",
+      "nota": "temas 7, 9, 11, 14, 16, 17"
+    },
+    {
+      "musico": null,
+      "nombre": "Bobby Rodriguez",
+      "instrumento": "contrabajo",
+      "nota": "temas 7, 9, 11, 14, 16, 17"
+    },
+    {
+      "musico": null,
+      "nombre": "Johnny Rodriguez",
+      "instrumento": "congas, bongós",
+      "nota": "temas 7, 9, 14, 16, 17"
+    },
+    {
+      "musico": null,
+      "nombre": "Santo Russo",
+      "instrumento": "trombón",
+      "nota": "temas 7, 9, 11, 14, 16, 17"
+    },
+    {
+      "musico": null,
+      "nombre": "Jerry Sanfino",
+      "instrumento": "saxo alto, flauta",
+      "nota": "temas 7, 11, 14"
+    },
+    {
+      "musico": "mongo",
+      "nombre": "Mongo Santamaría",
+      "instrumento": "congas",
+      "nota": "temas 7, 9, 11, 14, 16, 17"
+    },
+    {
+      "musico": null,
+      "nombre": "El Viejo Macucho",
+      "instrumento": "voz",
+      "nota": "temas 7, 9, 14, 16, 17"
+    },
+    {
+      "musico": null,
+      "nombre": "Gene Repetti",
+      "instrumento": "trompeta",
+      "nota": "temas 9, 11, 16, 17"
+    },
+    {
+      "musico": null,
+      "nombre": "Sam Scavone",
+      "instrumento": "trompeta",
+      "nota": "temas 9, 16, 17"
+    },
+    {
+      "musico": null,
+      "nombre": "Carlos “Patato” Valdés",
+      "instrumento": "congas",
+      "nota": "temas 9, 11, 16, 17"
+    },
+    {
+      "musico": null,
+      "nombre": "Bernie Glow",
+      "instrumento": "trompeta",
+      "nota": "temas 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Madera",
+      "instrumento": "saxo",
+      "nota": "temas 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Vahey \"Tak\" Takvorian",
+      "instrumento": "trombón",
+      "nota": "temas 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Eddie Caine",
+      "instrumento": "saxo",
+      "nota": "temas 16, 17"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "latino"
   ],
@@ -49,10 +188,16 @@
     "El cha-cha-chá que después popularizó Santana. Puente toca timbales con su orquesta, en un cha-cha-chá con flauta y vientos. Está entre los discos esenciales de Tito Puente."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "d8401d18-a62e-4d7d-8ca0-bd07cf52838b",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 8ecfd048-857f-41f4-a866-007beb8afd55 (1994)."
+    }
+  ]
 }

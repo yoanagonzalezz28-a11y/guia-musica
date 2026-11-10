@@ -36,12 +36,66 @@
   "sello": "Heads Up",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Otis Brown III",
+      "instrumento": "batería, voz",
+      "nota": "temas 1, 2, 4, 5, 7, 9, 10, 11"
+    },
+    {
+      "musico": "genovese",
+      "nombre": "Leo Genovese",
+      "instrumento": "piano, wurlitzer piano eléctrico, piano eléctrico Rhodes",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Jamey Haddad",
+      "instrumento": "bongós, caxixi, crotales, platillos, shakers, triángulo, djembé, percusión, surdo",
+      "nota": "temas 1, 2, 4, 10"
+    },
+    {
       "musico": "esperanza",
       "nombre": "Esperanza Spalding",
-      "instrumento": "contrabajo, voz, composición"
+      "instrumento": "contrabajo, voz, contrabajo guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Gretchen Parlato",
+      "instrumento": "voz",
+      "nota": "temas 1, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Horacio ‘El Negro’ Hernández",
+      "instrumento": "batería",
+      "nota": "temas 4, 6, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Theresa Perez",
+      "instrumento": "voz",
+      "nota": "temas 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Donald Harrison",
+      "instrumento": "saxo alto",
+      "nota": "temas 6, 11"
+    },
+    {
+      "musico": "akinmusire",
+      "nombre": "Ambrose Akinmusire",
+      "instrumento": "trompeta",
+      "nota": "temas 8, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Niño Josele",
+      "instrumento": "guitarra",
+      "nota": "temas 12"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -54,7 +108,13 @@
     "wikidata": null,
     "wikipedia": "Esperanza_(album)"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición dcf0e814-fd59-4e20-8c5e-98f041faaf4a (2008-01-01)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Ponta De Areia",

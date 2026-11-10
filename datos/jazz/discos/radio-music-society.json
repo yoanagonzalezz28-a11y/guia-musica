@@ -35,12 +35,372 @@
   "sello": "Heads Up",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Thara Memory",
+      "instrumento": "dirección",
+      "nota": "temas 1, 7, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Darren Barrett",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 2, 3, 9, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Daniel Blake",
+      "instrumento": "saxo, saxo tenor, flauta, saxo soprano, saxo alto, saxo barítono",
+      "nota": "temas 1, 2, 3, 8, 9, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Stan Bock",
+      "instrumento": "trombón",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Kiran Bosley",
+      "instrumento": "trompeta",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Dan Brewster",
+      "instrumento": "trombón",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Renato Caranto",
+      "instrumento": "saxo alto",
+      "nota": "temas 1"
+    },
+    {
+      "musico": "carrington",
+      "nombre": "Terri Lyne Carrington",
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 3, 5, 9, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Jeff Galindo",
+      "instrumento": "trombón",
+      "nota": "temas 1, 3, 8, 10, 12"
+    },
+    {
+      "musico": "genovese",
+      "nombre": "Leo Genovese",
+      "instrumento": "piano, piano eléctrico Rhodes, teclados, guembri",
+      "nota": "temas 1, 2, 3, 6, 8, 9, 10, 11, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Nicole Glover",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Jamey Haddad",
+      "instrumento": "percusión",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Stanley Mathabane",
+      "instrumento": "saxo alto, saxo tenor",
+      "nota": "temas 1, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Benjamin G. McDonald",
+      "instrumento": "trompeta",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Jeff Rathbone",
+      "instrumento": "saxo barítono",
+      "nota": "temas 1, 7, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Benjamin Seacrist",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 11"
+    },
+    {
       "musico": "esperanza",
       "nombre": "Esperanza Spalding",
-      "instrumento": "contrabajo, voz, composición"
+      "instrumento": "bajo eléctrico, voz, contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Jerry Stalnaker",
+      "instrumento": "trombón bajo",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Kyle Zimmerman",
+      "instrumento": "saxo alto",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Justin Brown",
+      "instrumento": "voz",
+      "nota": "temas 1, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Alan Hampton",
+      "instrumento": "voz",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Gretchen Parlato",
+      "instrumento": "voz",
+      "nota": "temas 1, 6, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Becca Stevens",
+      "instrumento": "voz",
+      "nota": "temas 1, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Chris Turner",
+      "instrumento": "voz",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Jef Lee Johnson",
+      "instrumento": "guitarra",
+      "nota": "temas 2, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Olivia de Prato",
+      "instrumento": "violín",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Jody Redhage",
+      "instrumento": "violonchelo",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "James Weidman",
+      "instrumento": "órgano",
+      "nota": "temas 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Ray Angry",
+      "instrumento": "órgano",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Raydar Ellis",
+      "instrumento": "voz sintetizador, voz",
+      "nota": "temas 5, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Corey King",
+      "instrumento": "trombón",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Lionel Loueke",
+      "instrumento": "guitarra, voz",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Tivon Pennicott",
+      "instrumento": "saxo tenor",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Ingmar Thomas",
+      "instrumento": "trompeta",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Algebra Blessett",
+      "instrumento": "voz",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Savannah Children’s Choir",
+      "instrumento": "voz",
+      "nota": "temas 5"
+    },
+    {
+      "musico": "lovano",
+      "nombre": "Joe Lovano",
+      "instrumento": "saxo tenor",
+      "nota": "temas 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Lyndon Rochelle",
+      "instrumento": "batería",
+      "nota": "temas 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Ricardo Vogt",
+      "instrumento": "guitarra",
+      "nota": "temas 6, 8, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Kama Bell",
+      "instrumento": "clarinete, saxo alto",
+      "nota": "temas 7, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "John Carey",
+      "instrumento": "saxo alto",
+      "nota": "temas 7, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Noah Conrad",
+      "instrumento": "trompeta",
+      "nota": "temas 7, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Ian Garner",
+      "instrumento": "trombón",
+      "nota": "temas 7, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Hart",
+      "instrumento": "batería",
+      "nota": "temas 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Noah Hocker",
+      "instrumento": "trompeta",
+      "nota": "temas 7, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Javier Nero",
+      "instrumento": "trombón",
+      "nota": "temas 7, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Andrew Olson",
+      "instrumento": "saxo alto",
+      "nota": "temas 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Tree Palmedo",
+      "instrumento": "trompeta",
+      "nota": "temas 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Aaron Reihs",
+      "instrumento": "saxo tenor",
+      "nota": "temas 7, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Janice Scroggins",
+      "instrumento": "piano",
+      "nota": "temas 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Matt Warming",
+      "instrumento": "trombón",
+      "nota": "temas 7"
+    },
+    {
+      "musico": "dejohnette",
+      "nombre": "Jack DeJohnette",
+      "instrumento": "batería",
+      "nota": "temas 8, 10, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Lalah Hathaway",
+      "instrumento": "voz",
+      "nota": "temas 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Leni Stern",
+      "instrumento": "voz",
+      "nota": "temas 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Hayden Conrad",
+      "instrumento": "saxo tenor",
+      "nota": "temas 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Anthony Diamond",
+      "instrumento": "saxo",
+      "nota": "temas 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Q‐Tip",
+      "instrumento": "glockenspiel, voz",
+      "nota": "temas 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Sam Seacrist",
+      "instrumento": "saxo alto",
+      "nota": "temas 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Ashton Summers",
+      "instrumento": "trombón",
+      "nota": "temas 11"
+    },
+    {
+      "musico": "hekselman",
+      "nombre": "Gilad Hekselman",
+      "instrumento": "guitarra",
+      "nota": "temas 12"
+    },
+    {
+      "musico": null,
+      "nombre": "American Music Program",
+      "instrumento": "músico",
+      "nota": "temas 1, 7, 11"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -48,10 +408,16 @@
     "El lado soul y funk; Grammy al mejor disco vocal de jazz. Spalding canta y toca el bajo con una big band y músicos invitados, en canciones de soul y jazz. Está entre los discos esenciales de Esperanza Spalding."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "8c6c15ff-cfae-4e40-9ba2-7fb4d343bc36",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 747c6031-1aeb-48e5-b4cb-8ee01b97c2cf (2012-03-20)."
+    }
+  ]
 }

@@ -36,12 +36,17 @@
   "sello": "Everest",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Milt Hinton",
+      "instrumento": "contrabajo"
+    },
+    {
       "musico": "jo-jones",
       "nombre": "Jo Jones",
-      "instrumento": "batería"
+      "instrumento": "percusión"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "swing"
   ],
@@ -49,12 +54,18 @@
     "Batería y contrabajo a dúo, con solos y mucho swing. Jones fue el baterista de la orquesta de Count Basie, y acá suena solo con el contrabajo de Milt Hinton. Es uno de los discos que el banco elige para conocer a Jo Jones."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "7235cb4e-43e2-4d26-9d64-c23b5a136226",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 901754a1-eac3-4857-8fb8-ded40ed50f62 (1960)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Tam",

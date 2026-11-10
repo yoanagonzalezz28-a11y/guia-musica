@@ -41,12 +41,70 @@
   "sello": "Verve",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Russell Garcia",
+      "instrumento": "dirección"
+    },
+    {
+      "musico": null,
+      "nombre": "Victor Arno",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Frank Beach",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Buddy Childers",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Vincent DeRosa",
+      "instrumento": "corno"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Mondragon",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Tony Rizzi",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Smith",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Alvin Stoller",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "armstrong",
+      "nombre": "Louis Armstrong",
+      "instrumento": "trompeta, voz",
+      "nota": "temas 1-2, 1-5, 1-7, 2-1, 2-2, 2-3, 2-4, 2-5, 2-6, 2-7, 2-8"
+    },
+    {
       "musico": "fitzgerald",
       "nombre": "Ella Fitzgerald",
-      "instrumento": "voz"
+      "instrumento": "voz",
+      "nota": "temas 1-2, 1-3, 1-4, 1-5, 1-6, 1-7, 2-1, 2-2, 2-4, 2-5"
+    },
+    {
+      "musico": null,
+      "nombre": "Russ Garcia & His Orchestra",
+      "instrumento": "orquesta",
+      "nota": "temas 1-2"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "swing"
   ],
@@ -59,7 +117,13 @@
     "wikidata": null,
     "wikipedia": "Porgy_and_Bess_(Ella_Fitzgerald_and_Louis_Armstrong_album)"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición ddba4270-db92-4d4b-b355-97d53fda5d6e (1957-08)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Porgy And Bess: Overture",

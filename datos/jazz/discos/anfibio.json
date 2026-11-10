@@ -46,11 +46,6 @@
       "instrumento": "guitarra y voz"
     },
     {
-      "musico": null,
-      "nombre": "Luis Alberto Spinetta",
-      "instrumento": "invitado"
-    },
-    {
       "musico": "fattoruso",
       "nombre": "Hugo Fattoruso",
       "instrumento": "invitado"
@@ -63,6 +58,11 @@
     {
       "musico": "jacinto",
       "nombre": "Hernán Jacinto",
+      "instrumento": "invitado"
+    },
+    {
+      "musico": null,
+      "nombre": "Luis Alberto Spinetta",
       "instrumento": "invitado"
     },
     {
@@ -88,7 +88,7 @@
   ],
   "personalNota": "Lista parcial: sale de los créditos de Spotify.",
   "corrientes": [
-    "rioplat"
+    "hoy"
   ],
   "comentario": [
     "Este disco solista reúne a invitados de los dos lados del río: Luis Alberto Spinetta, Hugo Fattoruso, Javier Malosetti, Hernán Jacinto y Julieta Rada, entre otros. Hay canciones, temas instrumentales y una versión de \"Cissy Strut\", de The Meters. Muestra a un guitarrista que viene de acompañar a todos y acá arma su propio mundo, entre el rock, el funk y el candombe."

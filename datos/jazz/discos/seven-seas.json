@@ -36,12 +36,54 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Björn Bohlin",
+      "instrumento": "corno inglés"
+    },
+    {
       "musico": "avishai",
       "nombre": "Avishai Cohen",
-      "instrumento": "contrabajo, voz"
+      "instrumento": "piano, bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "איתמר דוארי",
+      "instrumento": "percusión, voz, cuerdas"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Greene",
+      "instrumento": "saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Lars Nilsson",
+      "instrumento": "fliscorno"
+    },
+    {
+      "musico": null,
+      "nombre": "Björn Samuelsson",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Karen Malka",
+      "instrumento": "voz"
+    },
+    {
+      "musico": "maestro",
+      "nombre": "Shai Maestro",
+      "instrumento": "piano",
+      "nota": "temas 2, 3, 4, 5, 6, 7, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Jenny Nilsson",
+      "instrumento": "voz",
+      "nota": "temas 2"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -54,7 +96,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 6e69552d-9daa-44e6-9cff-c444be9444e0 (2010-12-08)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Dreaming",

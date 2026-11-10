@@ -38,10 +38,52 @@
     {
       "musico": "di-meola",
       "nombre": "Al Di Meola",
-      "instrumento": "guitarra"
+      "instrumento": "guitarra eléctrica, guitarra acústica, castañuelas, maracas, sintetizador, timbales, percusión, piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Gadd",
+      "instrumento": "batería",
+      "nota": "temas 1, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Jan Hammer",
+      "instrumento": "teclados, piano eléctrico, Minimoog",
+      "nota": "temas 1, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Anthony Jackson",
+      "instrumento": "bajo eléctrico",
+      "nota": "temas 1, 2, 4, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "James Mingo Lewis",
+      "instrumento": "congas, órgano, percusión, sintetizador, cencerro, timbales",
+      "nota": "temas 1, 2, 4, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Barry Miles",
+      "instrumento": "piano eléctrico, piano, Minimoog",
+      "nota": "temas 2, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Lenny White",
+      "instrumento": "percusión",
+      "nota": "temas 2, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Paco de Lucía",
+      "instrumento": "guitarra acústica",
+      "nota": "temas 3"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "fusion"
   ],
@@ -54,7 +96,13 @@
     "wikidata": null,
     "wikipedia": "Elegant_Gypsy"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición b4c9ebad-c327-48ce-9a33-34ee08b34627 (1977)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Flight Over Rio",

@@ -36,12 +36,32 @@
   "sello": "Contemporary",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "James E. Bond",
+      "instrumento": "contrabajo, bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Frank Butler",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Pete Jolly",
+      "instrumento": "piano"
+    },
+    {
       "musico": "pepper",
       "nombre": "Art Pepper",
       "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Jack Sheldon",
+      "instrumento": "trompeta"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "cool"
   ],
@@ -49,10 +69,16 @@
     "Quinteto con Jack Sheldon: hard bop de la costa oeste. Pepper toca el saxo alto con Sheldon en trompeta, en temas de hard bop. Es uno de los discos que el banco elige para conocer a Art Pepper."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "1d8e1217-a994-3366-bb6c-ccfaddbf4541",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 21755ee4-a0b2-4581-8500-426d49c92bf2 (1960-10-24)."
+    }
+  ]
 }

@@ -36,12 +36,23 @@
   "sello": "ECM",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Jan Hammer",
+      "instrumento": "sintetizador, órgano, piano, órgano Hammond"
+    },
+    {
       "musico": "abercrombie",
       "nombre": "John Abercrombie",
-      "instrumento": "guitarra"
+      "instrumento": "guitarra eléctrica, guitarra acústica"
+    },
+    {
+      "musico": "dejohnette",
+      "nombre": "Jack DeJohnette",
+      "instrumento": "batería",
+      "nota": "temas 1, 3, 4, 6"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm"
   ],
@@ -49,10 +60,16 @@
     "Con Jan Hammer y Jack DeJohnette: fusión rápida y oscura. Abercrombie toca la guitarra con Hammer en órgano y teclados y DeJohnette en batería. Es el disco clave de John Abercrombie en la etapa \"ECM y jazz europeo\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "e679bd5a-0622-35cd-9319-a9b43200f33e",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 0ab8c386-098f-4c4d-9a60-1000f7ab315d (1975)."
+    }
+  ]
 }

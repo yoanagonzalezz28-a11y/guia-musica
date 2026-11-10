@@ -36,12 +36,44 @@
   "sello": "CTI",
   "musicos": [
     {
+      "musico": "ronc",
+      "nombre": "Ron Carter",
+      "instrumento": "contrabajo, bajo"
+    },
+    {
+      "musico": "hancock",
+      "nombre": "Herbie Hancock",
+      "instrumento": "piano"
+    },
+    {
+      "musico": "henderson",
+      "nombre": "Joe Henderson",
+      "instrumento": "saxo"
+    },
+    {
       "musico": "hubbard",
       "nombre": "Freddie Hubbard",
       "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Lenny White",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Bob Bushnell",
+      "instrumento": "bajo",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Ed Shaughnessy",
+      "instrumento": "percusión",
+      "nota": "temas 1"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -49,12 +81,18 @@
     "Groove eléctrico, al borde del jazz funk. Hubbard toca la trompeta con Joe Henderson, Herbie Hancock, Ron Carter y Lenny White, en temas largos con groove. Es uno de los discos que el banco elige para conocer a Freddie Hubbard."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "2c39394e-b9e4-352b-b339-8e61df67479e",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 4db6cbfc-a5c7-476b-a146-b1ec30c64107 (1970)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Red Clay",

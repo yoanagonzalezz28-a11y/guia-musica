@@ -36,12 +36,37 @@
   "sello": "Verve",
   "musicos": [
     {
+      "musico": "fitzgerald",
+      "nombre": "Ella Fitzgerald",
+      "instrumento": "voz"
+    },
+    {
       "musico": "armstrong",
       "nombre": "Louis Armstrong",
-      "instrumento": "trompeta, voz"
+      "instrumento": "voz, trompeta"
+    },
+    {
+      "musico": "peterson",
+      "nombre": "Oscar Peterson",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Herb Ellis",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Ray Brown",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": "buddy-rich",
+      "nombre": "Buddy Rich",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "swing"
   ],
@@ -54,7 +79,13 @@
     "wikidata": null,
     "wikipedia": "Ella_and_Louis"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Ella and Louis\"."
+    }
+  ],
   "temas": [
     {
       "titulo": "Can't We Be Friends?",

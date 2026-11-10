@@ -36,12 +36,27 @@
   "sello": "Gramavision",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Don Grolnick",
+      "instrumento": "teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Omar Hakim",
+      "instrumento": "batería, percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Darryl Jones",
+      "instrumento": "bajo"
+    },
+    {
       "musico": "scofield",
       "nombre": "John Scofield",
       "instrumento": "guitarra"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "fusion"
   ],
@@ -49,10 +64,16 @@
     "Funk y blues eléctrico, con Don Grolnick, Omar Hakim y Darryl Jones. Scofield venía de tocar con Miles Davis, y Darryl Jones después fue el bajista de los Rolling Stones. Es el disco clave de John Scofield en la etapa \"Fusión\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "9edd09c5-c7e2-31ec-b58c-f3d003e5e037",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 56275daf-d4e1-41ad-969f-f7350e791151 (1986)."
+    }
+  ]
 }

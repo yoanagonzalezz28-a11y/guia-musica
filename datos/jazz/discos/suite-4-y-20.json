@@ -34,12 +34,34 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Julio Barreto",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Felipe Cabrera",
+      "instrumento": "bajo eléctrico",
+      "nota": "temas 1, 4, 5, 6, 9, 10, 11, 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Reynaldo Melian",
+      "instrumento": "trompeta"
+    },
+    {
       "musico": "rubalcaba",
       "nombre": "Gonzalo Rubalcaba",
       "instrumento": "piano"
+    },
+    {
+      "musico": "haden",
+      "nombre": "Charlie Haden",
+      "instrumento": "contrabajo",
+      "nota": "temas 2, 3, 7, 8, 12"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "latino"
   ],
@@ -47,10 +69,16 @@
     "Piano con grupo, en boleros cubanos, estándares y temas propios. Charlie Haden toca el contrabajo en varios temas, y la trompeta es la de Reynaldo Melián, de su grupo cubano. Está entre los discos esenciales de Gonzalo Rubalcaba."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "168ab8ee-e562-46f0-8f70-2b949e8f1b0c",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 3a8ca654-ef33-4034-9ea5-6a4908c2b3c5 (1992)."
+    }
+  ]
 }

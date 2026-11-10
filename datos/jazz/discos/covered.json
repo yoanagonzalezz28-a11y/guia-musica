@@ -36,12 +36,37 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Vicente Archer",
+      "instrumento": "contrabajo",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"
+    },
+    {
       "musico": "glasper",
       "nombre": "Robert Glasper",
-      "instrumento": "piano, teclados"
+      "instrumento": "piano",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Damion Reid",
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Musiq Soulchild",
+      "instrumento": "voz",
+      "nota": "temas 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Harry Belafonte",
+      "instrumento": "voz",
+      "nota": "temas 11"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -49,12 +74,18 @@
     "Versiones de Radiohead, Joni Mitchell y Kendrick Lamar en trío. Glasper toca en trío canciones de pop, soul y hip hop, con un piano muy suave y una batería de groove. Está entre los discos esenciales de Robert Glasper."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "7f9777e8-20a8-4662-a642-c2d0e6820b2c",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición e15ab4de-8b34-4d0c-ace3-983d2e24c711 (2015-06-10)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Intro - Live At Capitol Studios / 2014",

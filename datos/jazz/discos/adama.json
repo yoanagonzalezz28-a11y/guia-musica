@@ -36,12 +36,78 @@
   "sello": "Stretch",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Jeff Ballard",
+      "instrumento": "batería, percusión",
+      "nota": "temas 1, 2, 4, 5, 6, 7, 8, 9, 12"
+    },
+    {
       "musico": "avishai",
       "nombre": "Avishai Cohen",
-      "instrumento": "contrabajo, voz"
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Davis",
+      "instrumento": "trombón",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 8, 9, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Jason Lindner",
+      "instrumento": "piano",
+      "nota": "temas 1, 2, 4, 5, 6, 7, 8, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Wilson",
+      "instrumento": "saxo soprano",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 8, 9, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "עמוס הופמן",
+      "instrumento": "oud, guitarra",
+      "nota": "temas 2, 4, 5, 8, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Jorge Rossy",
+      "instrumento": "batería",
+      "nota": "temas 10, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Don Alias",
+      "instrumento": "congas",
+      "nota": "temas 11"
+    },
+    {
+      "musico": "corea",
+      "nombre": "Chick Corea",
+      "instrumento": "piano eléctrico Rhodes",
+      "nota": "temas 11"
+    },
+    {
+      "musico": "mehldau",
+      "nombre": "Brad Mehldau",
+      "instrumento": "piano",
+      "nota": "temas 11"
+    },
+    {
+      "musico": "danilo-perez",
+      "nombre": "Danilo Pérez",
+      "instrumento": "piano",
+      "nota": "temas 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Claudia Acuña",
+      "instrumento": "voz",
+      "nota": "temas 12"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -52,10 +118,16 @@
     "Lo editó Stretch Records, el sello de Chick Corea."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "f615454e-c404-3d37-8c48-8bbc77c9a645",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición b9fc98de-d771-444f-9256-99c22f758994 (1998-03-17)."
+    }
+  ]
 }

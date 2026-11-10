@@ -1,0 +1,51 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "genovese",
+  "nombre": "Leo Genovese",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "piano",
+    "teclados",
+    "composición"
+  ],
+  "corrientes": [
+    "hoy",
+    "rioplat"
+  ],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "spotify": null,
+  "resumen": "Pianista y compositor argentino radicado en Estados Unidos, entre el jazz libre y el folclore; también tocó con The Mars Volta.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2022,
+      "hasta": 2025,
+      "texto": "",
+      "discoClave": {
+        "disco": "ritual-genovese",
+        "explicacion": "Jazz libre con la voz de Nadia Larcher y el folclore de fondo."
+      },
+      "discos": [
+        "new-york-sessions-vol-1"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-leo-genovese"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "ritual-genovese",
+    "new-york-sessions-vol-1"
+  ]
+}

@@ -39,9 +39,64 @@
       "musico": "milt-jackson",
       "nombre": "Milt Jackson",
       "instrumento": "vibráfono"
+    },
+    {
+      "musico": "monk",
+      "nombre": "Thelonious Monk",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "John Simmons",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Shadow Wilson",
+      "instrumento": "drummer"
+    },
+    {
+      "musico": null,
+      "nombre": "Kenny Hagood",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Sahib Shihab",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Al McKibbon",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": "blakey",
+      "nombre": "Art Blakey",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "donaldson",
+      "nombre": "Lou Donaldson",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "John Lewis",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Percy Heath",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": "clarke",
+      "nombre": "Kenny Clarke",
+      "instrumento": "drummer"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "bebop"
   ],
@@ -52,9 +107,15 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Milt_Jackson_and_the_Thelonious_Monk_Quintet"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Milt Jackson and the Thelonious Monk Quintet\"."
+    }
+  ],
   "temas": [
     {
       "titulo": "Tahiti",

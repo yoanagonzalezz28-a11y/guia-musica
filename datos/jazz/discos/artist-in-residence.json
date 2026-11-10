@@ -36,12 +36,60 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Tarus Mateen",
+      "instrumento": "bajo",
+      "nota": "temas 1, 2, 3, 4, 8, 9"
+    },
+    {
       "musico": "moran",
       "nombre": "Jason Moran",
       "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Marvin Sewell",
+      "instrumento": "guitarra",
+      "nota": "temas 1, 2, 3, 4, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Nasheet Waits",
+      "instrumento": "percusión",
+      "nota": "temas 1, 2, 3, 4, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Adrian Piper",
+      "instrumento": "voz",
+      "nota": "temas 1, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Alicia Hall Moran",
+      "instrumento": "voz",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Joan Jonas",
+      "instrumento": "percusión",
+      "nota": "temas 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Ralph Alessi",
+      "instrumento": "trompeta",
+      "nota": "temas 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Abdou M’Boup",
+      "instrumento": "percusión",
+      "nota": "temas 8"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -49,10 +97,16 @@
     "Piano y trío, con grabaciones de voces y sonidos de la calle mezclados en la música. Las piezas nacieron como encargos de museos y centros de arte estadounidenses, y varias dialogan con obras de artistas visuales. Está entre los discos esenciales de Jason Moran."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "b2380452-457c-321e-b77e-f1bedfb3d209",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 2c626844-1ed1-4e52-b966-a0463f291822 (2006-09-12)."
+    }
+  ]
 }

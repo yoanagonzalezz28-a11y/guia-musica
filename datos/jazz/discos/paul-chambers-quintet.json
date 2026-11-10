@@ -36,12 +36,34 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": "byrd",
+      "nombre": "Donald Byrd",
+      "instrumento": "trompeta",
+      "nota": "temas 1, 2, 3, 5, 6"
+    },
+    {
       "musico": "chambers",
       "nombre": "Paul Chambers",
-      "instrumento": "contrabajo"
+      "instrumento": "bajo"
+    },
+    {
+      "musico": "flanagan",
+      "nombre": "Tommy Flanagan",
+      "instrumento": "piano"
+    },
+    {
+      "musico": "elvin",
+      "nombre": "Elvin Jones",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Clifford Jordan",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1, 2, 3, 5, 6"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -49,12 +71,18 @@
     "Con Donald Byrd y Clifford Jordan. Chambers toca el contrabajo con un swing firme y también con el arco, con Tommy Flanagan en piano y Elvin Jones en batería. Es uno de los discos que el banco elige para conocer a Paul Chambers."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "ba04a054-0167-3e67-b7d4-f47b658f1928",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición cd3df116-7a29-47d7-94de-5eca2876a9b1 (1957-05-19)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Minor Run Down",

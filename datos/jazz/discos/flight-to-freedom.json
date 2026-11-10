@@ -38,10 +38,83 @@
     {
       "musico": "sandoval",
       "nombre": "Arturo Sandoval",
-      "instrumento": "trompeta"
+      "instrumento": "trompeta, voz, cencerro, timbales, fliscorno, sintetizadores, percusión",
+      "nota": "temas 1–3, 5, 6, 8–10, 3, 4, 7, 10, 8, 9"
+    },
+    {
+      "musico": "corea",
+      "nombre": "Chick Corea",
+      "instrumento": "piano",
+      "nota": "temas 1, 2, 5"
+    },
+    {
+      "musico": "danilo-perez",
+      "nombre": "Danilo Pérez",
+      "instrumento": "sintetizadores",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Richard Eddy",
+      "instrumento": "sintetizadores",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Michael Orta",
+      "instrumento": "piano, sintetizadores",
+      "nota": "temas 3, 4, 6–8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Rene Luis Toledo",
+      "instrumento": "guitarras, coros, guitarra acústica",
+      "nota": "temas 3, 4, 6, 8, 7, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Anthony Jackson",
+      "instrumento": "bajo",
+      "nota": "temas 1, 2, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Nicky Orta",
+      "instrumento": "bajo",
+      "nota": "temas 3, 4, 6–10"
+    },
+    {
+      "musico": null,
+      "nombre": "Dave Weckl",
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 5, 7, 8, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Orlando Hernandez",
+      "instrumento": "batería, coros",
+      "nota": "temas 3, 4, 6, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Juanito \"Long John\" Oliva",
+      "instrumento": "percusión",
+      "nota": "temas 1–9"
+    },
+    {
+      "musico": null,
+      "nombre": "Telmo \"Portinho\" Porto",
+      "instrumento": "percusión",
+      "nota": "temas 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Ed Calle",
+      "instrumento": "saxo, saxo tenor, ewi, coros, flauta",
+      "nota": "temas 1, 2, 6, 8, 3, 9, 10, 4, 5"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "latino"
   ],
@@ -52,7 +125,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Flight_to_Freedom"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Flight to Freedom\"."
+    }
+  ]
 }

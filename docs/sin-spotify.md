@@ -2,9 +2,10 @@
 
 Actualizado el 2026-11-10 con `npm run spotify` (búsqueda en la API de Spotify).
 
-- **Encontrados y aplicados con la API:** 554.
+- **Encontrados y aplicados con la API:** 569.
 - **Dudosos, para revisar:** 54 (24 alta, 30 media, 0 baja). No se aplicaron.
 - **Sin aparecer:** 194 (75 alta, 117 media, 2 baja).
+- **Todavía sin buscar:** 31. Spotify limitó las consultas; hay que volver a correr `npm run spotify` después del 11/11/2026, 10:24:09.
 
 Cómo se buscó: por artista y título, con variantes (sin subtítulo, sin "Vol.", con el título original, sin los agregados de reedición o edición ampliada) y con el nombre del líder cuando el crédito es de un grupo. Un resultado se acepta solo si coincide el artista y el título es el mismo disco; entre varias ediciones se prefiere la del año original y, si no, la remasterizada más completa.
 
@@ -256,7 +257,7 @@ Para aprobar uno, alcanza con decir cuál. El motivo explica por qué no se apli
 | Prog | The Bad Plus | 2007 | Media | esencial de The Bad Plus |
 | Sky Blue | Maria Schneider | 2007 | Media | esencial de Maria Schneider |
 | Cultural Survival | David Sánchez | 2008 | Media | esencial de David Sánchez |
-| Strange Fruit | Ligia Piro y Juan Cruz de Urquiza | 2010 | Media | esencial de Juan Cruz de Urquiza |
+| Strange Fruit | Ligia Piro y Juan Cruz de Urquiza | 2010 | Media | esencial de Ligia Piro |
 | For the Blue Notes | Louis Moholo-Moholo | 2014 | Media | esencial de Louis Moholo-Moholo |
 | Lisãn Al Tarab | Tarek Yamani | 2014 | Media | esencial de Tarek Yamani |
 | Hommage à Eberhard Weber | Eberhard Weber | 2015 | Media | esencial de Eberhard Weber |
@@ -269,3 +270,39 @@ Para aprobar uno, alcanza con decir cuál. El motivo explica por qué no se apli
 | Kappa Ondo | Satoko Fujii | 2026 | Media | esencial de Satoko Fujii |
 | Cookin' | Miles Davis | 1957 | Baja | discografía de Hard bop |
 | Freedom Suite | Sonny Rollins | 1958 | Baja | discografía de Hard bop |
+
+## Todavía sin buscar
+
+| Título | Artista | Año | Importancia | Por qué está |
+|---|---|---|---|---|
+| Relaxed Piano Moods | Hazel Scott | 1955 | Alta | disco clave de Hazel Scott |
+| Melba Liston and Her 'Bones | Melba Liston | 1958 | Alta | disco clave de Melba Liston |
+| The Newest Sound Around | Jeanne Lee y Ran Blake | 1962 | Alta | disco clave de Jeanne Lee |
+| Feminina | Joyce | 1980 | Alta | disco clave de Joyce Moreno |
+| The Audience with Betty Carter | Betty Carter | 1980 | Alta | disco clave de Betty Carter |
+| Somewhere Called Home | Norma Winstone | 1987 | Alta | disco clave de Norma Winstone |
+| Twenty One | Geri Allen | 1994 | Alta | disco clave de Geri Allen |
+| Nothing Ever Was, Anyway: Music of Annette Peacock | Marilyn Crispell | 1997 | Alta | disco clave de Marilyn Crispell |
+| Soundances | Diego Urcola | 2003 | Alta | disco clave de Diego Urcola |
+| Somewhere Different | Brandee Younger | 2021 | Alta | disco clave de Brandee Younger |
+| Ritual | Leo Genovese | 2022 | Alta | disco clave de Leo Genovese |
+| Los trabajos y las noches | Roxana Amed | 2023 | Alta | disco clave de Roxana Amed |
+| Phoenix | Lakecia Benjamin | 2023 | Alta | disco clave de Lakecia Benjamin |
+| Móvil | Juan Pablo Chapital | 2024 | Alta | disco clave de Juan Pablo Chapital |
+| Volumen 2 | Ligia Piro | 2024 | Alta | disco clave de Ligia Piro |
+| Jutta Hipp with Zoot Sims | Jutta Hipp | 1956 | Media | esencial de Jutta Hipp |
+| Hip Harp | Dorothy Ashby | 1958 | Media | esencial de Dorothy Ashby |
+| Uhuru Afrika | Randy Weston | 1960 | Media | esencial de Melba Liston |
+| Ray Charles and Betty Carter | Ray Charles y Betty Carter | 1961 | Media | esencial de Betty Carter |
+| The Rubáiyát of Dorothy Ashby | Dorothy Ashby | 1970 | Media | esencial de Dorothy Ashby |
+| The Great American Songbook | Carmen McRae | 1972 | Media | esencial de Carmen McRae |
+| Look What I Got! | Betty Carter | 1988 | Media | esencial de Betty Carter |
+| The Nurturer | Geri Allen | 1991 | Media | esencial de Geri Allen |
+| Viva | Diego Urcola | 2006 | Media | esencial de Diego Urcola |
+| El Duelo | Diego Urcola y Paquito D'Rivera | 2020 | Media | esencial de Diego Urcola |
+| Pursuance: The Coltranes | Lakecia Benjamin | 2020 | Media | esencial de Lakecia Benjamin |
+| Unánime | Roxana Amed | 2022 | Media | esencial de Roxana Amed |
+| The Glass Hours | Linda May Han Oh | 2023 | Media | esencial de Linda May Han Oh |
+| New York Sessions, Vol. 1 | Leo Genovese y Mariano Otero | 2025 | Media | esencial de Leo Genovese |
+| Escalectric | Escalandrum | 2023 | Baja | discografía de Jazz de hoy |
+| Gardel | Hernán Jacinto | 2024 | Baja | discografía de Jazz rioplatense |

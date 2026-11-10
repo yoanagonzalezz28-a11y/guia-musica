@@ -35,12 +35,27 @@
   "sello": "Philips",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Lisle Atkinson",
+      "instrumento": "contrabajo, percusión, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Bobby Hamilton",
+      "instrumento": "batería, percusión, voz"
+    },
+    {
       "musico": "nina",
       "nombre": "Nina Simone",
       "instrumento": "piano, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Rudy Stevenson",
+      "instrumento": "guitarra, flauta, voz"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "souljazz"
   ],
@@ -48,10 +63,16 @@
     "Incluye \"Mississippi Goddam\", su respuesta furiosa a la violencia racial. Simone canta y toca el piano en vivo, en temas de protesta y canciones de amor. Es uno de los discos que el banco elige para conocer a Nina Simone."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "66aa932d-437a-31cc-9f02-3139b5129728",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Nina_Simone_in_Concert"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición f173debd-825a-3db6-84a0-58e08e3e603d (1964)."
+    }
+  ]
 }

@@ -37,9 +37,45 @@
       "musico": "mroberts",
       "nombre": "Marcus Roberts",
       "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Todd Williams",
+      "instrumento": "clarinete, saxo tenor",
+      "nota": "temas 6, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Scotty Barnhart",
+      "instrumento": "trompeta",
+      "nota": "temas 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Ellis Marsalis",
+      "instrumento": "piano",
+      "nota": "temas 8, 17"
+    },
+    {
+      "musico": "payton",
+      "nombre": "Nicholas Payton",
+      "instrumento": "trompeta",
+      "nota": "temas 11"
+    },
+    {
+      "musico": "marsalis",
+      "nombre": "Wynton Marsalis",
+      "instrumento": "trompeta",
+      "nota": "temas 15"
+    },
+    {
+      "musico": null,
+      "nombre": "Ron Westray",
+      "instrumento": "trombón",
+      "nota": "temas 16"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "neotrad"
   ],
@@ -47,10 +83,16 @@
     "Roberts toca solo y a dúo, en un recorrido por la historia del piano de jazz, del stride al moderno. Uno de sus compañeros de dúo es Ellis Marsalis, padre de Wynton y maestro de toda una generación en Nueva Orleans. Es uno de los discos que el banco elige para conocer a Marcus Roberts."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "1ffc721a-1a15-3dc1-baeb-a2ae2ee8a8b8",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 732c3b4d-a955-443c-b6e3-b52704e49662 (1992)."
+    }
+  ]
 }

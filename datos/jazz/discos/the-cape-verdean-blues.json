@@ -36,12 +36,38 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Bob Cranshaw",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "henderson",
+      "nombre": "Joe Henderson",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Roger Humphries",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Woody Shaw",
+      "instrumento": "trompeta"
+    },
+    {
       "musico": "silver",
       "nombre": "Horace Silver",
-      "instrumento": "piano, composición"
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "J.J. Johnson",
+      "instrumento": "trombón",
+      "nota": "temas 4, 5, 6"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -49,12 +75,18 @@
     "Con Joe Henderson y J. J. Johnson: ritmos de Cabo Verde, la tierra de su padre."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "8f2fbfc2-00b2-4b21-87d4-456e0350c8e6",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 06401339-315f-4752-a0f7-ffb686a03dae (1965-12)."
+    }
+  ],
   "temas": [
     {
       "titulo": "The Cape Verdean Blues - Rudy Van Gelder Edition / 2003 Remastered",

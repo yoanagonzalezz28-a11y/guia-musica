@@ -36,12 +36,44 @@
   "sello": "Atlantic",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Billy Bauer",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": "clarke",
+      "nombre": "Kenny Clarke",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "konitz",
+      "nombre": "Lee Konitz",
+      "instrumento": "saxo alto"
+    },
+    {
       "musico": "marsh",
       "nombre": "Warne Marsh",
       "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Oscar Pettiford",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Sal Mosca",
+      "instrumento": "piano",
+      "nota": "temas 2, 4, 6, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Ronnie Ball",
+      "instrumento": "piano",
+      "nota": "temas 7"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "cool"
   ],
@@ -49,10 +81,16 @@
     "Dos saxos tristanianos en contrapunto. Konitz y Marsh tocan saxo alto y tenor en líneas que se cruzan, con un swing suave. Es uno de los discos que el banco elige para conocer a Warne Marsh."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "bdd1200f-ab65-4a93-ad79-725409a9a1bc",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Lee_Konitz_with_Warne_Marsh"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 631a7f25-31bd-4dbd-9428-0ffef8258960 (1955)."
+    }
+  ]
 }

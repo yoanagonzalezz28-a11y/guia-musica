@@ -36,12 +36,32 @@
   "sello": "Jazzland",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Coleridge Goode",
+      "instrumento": "contrabajo"
+    },
+    {
       "musico": "harriott",
       "nombre": "Joe Harriott",
       "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Shake Keane",
+      "instrumento": "fliscorno, trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Phil Seamen",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Pat Smythe",
+      "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "free"
   ],
@@ -49,10 +69,16 @@
     "Grabado en Londres antes de que se conociera a Ornette: improvisación libre muy temprana. El quinteto de Harriott toca sin un ritmo ni acordes fijos, con improvisaciones en las que todos responden a todos. En la ficha de Joe Harriott es el disco que representa la etapa \"Free Form\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "9d6f9ad8-c7b9-4747-8dd1-8ad977fe8a56",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Free_Form_(Joe_Harriott_album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición edf0f4a8-ff67-4467-ab40-36cbcef3a79e (1961)."
+    }
+  ]
 }

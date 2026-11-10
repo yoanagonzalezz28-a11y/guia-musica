@@ -38,10 +38,20 @@
     {
       "musico": "ellington",
       "nombre": "Duke Ellington",
-      "instrumento": "piano, composición, dirección"
+      "instrumento": "piano"
+    },
+    {
+      "musico": "mingus",
+      "nombre": "Charles Mingus",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "roach",
+      "nombre": "Max Roach",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -53,10 +63,16 @@
     "Importa porque muestra a Ellington lejos de su orquesta, demostrando que su piano podía estar a la altura del jazz más moderno."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "1c18538e-e9be-3449-8be1-f3cdc7b493e0",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Money_Jungle"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 6a3d8dfe-bc72-4010-861e-a3f51723a4b7 (1962)."
+    }
+  ]
 }

@@ -38,10 +38,87 @@
     {
       "musico": "yussef-dayes",
       "nombre": "Yussef Dayes",
-      "instrumento": "batería"
+      "instrumento": "batería, percusión, sintetizador, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Tom Misch",
+      "instrumento": "sintetizador, voz, guitarra, bajo, piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Tobie Tripp",
+      "instrumento": "cuerdas",
+      "nota": "temas 1, 2, 3, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Kaidi Akinnibi",
+      "instrumento": "saxo",
+      "nota": "temas 2, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Miles James",
+      "instrumento": "Moog, guitarra",
+      "nota": "temas 2, 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Tom Driessler",
+      "instrumento": "bajo",
+      "nota": "temas 3, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Freddie Gibbs",
+      "instrumento": "voz",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Jordan Rakei",
+      "instrumento": "voz",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Rocco Palladino",
+      "instrumento": "bajo",
+      "nota": "temas 4, 5, 7, 10, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Joel Culpepper",
+      "instrumento": "voz",
+      "nota": "temas 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Vula",
+      "instrumento": "voz",
+      "nota": "temas 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Dave Dayes",
+      "instrumento": "voz",
+      "nota": "temas 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Kareem Dayes",
+      "instrumento": "voz",
+      "nota": "temas 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Peter Misch",
+      "instrumento": "voz",
+      "nota": "temas 11"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -54,7 +131,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 76f29f20-3245-4fc9-8b6e-f364fa6f0652 (2020-04-24)."
+    }
+  ],
   "temas": [
     {
       "titulo": "What Kinda Music",

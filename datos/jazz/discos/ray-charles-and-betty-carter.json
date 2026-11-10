@@ -1,0 +1,109 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Ray Charles y Betty Carter Ray Charles and Betty Carter"
+  },
+  "id": "ray-charles-and-betty-carter",
+  "titulo": "Ray Charles and Betty Carter",
+  "credito": "Ray Charles y Betty Carter",
+  "lideres": [
+    "betty-carter"
+  ],
+  "grabacion": {
+    "desde": 1961,
+    "hasta": 1961,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1961,
+    "detalle": null
+  },
+  "sello": "ABC-Paramount",
+  "musicos": [
+    {
+      "musico": null,
+      "nombre": "Marty Paich",
+      "instrumento": "dirección"
+    },
+    {
+      "musico": "betty-carter",
+      "nombre": "Betty Carter",
+      "instrumento": "voz",
+      "nota": "temas 1, 7"
+    },
+    {
+      "musico": "hubbard",
+      "nombre": "Freddie Hubbard",
+      "instrumento": "fliscorno, trompeta",
+      "nota": "temas 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Rudolph Johnson",
+      "instrumento": "saxo tenor",
+      "nota": "temas 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Jeff Pevar",
+      "instrumento": "guitarra",
+      "nota": "temas 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Kevin Turner",
+      "instrumento": "guitarra",
+      "nota": "temas 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Ray Charles",
+      "instrumento": "voz",
+      "nota": "temas 7"
+    },
+    {
+      "musico": null,
+      "nombre": "The Raeletts",
+      "instrumento": "voz",
+      "nota": "temas 7"
+    }
+  ],
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Duetos de baladas entre la voz ronca de Ray Charles y la de Betty Carter, sobre una orquesta con cuerdas. Su versión de \"Baby, It's Cold Outside\" se volvió la más conocida de ese tema. Es uno de los discos que el banco elige para conocer a Betty Carter."
+  ],
+  "ids": {
+    "musicbrainz": "ab1edb5e-fae3-37af-9d05-08341bb1d0f0",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-betty-carter",
+      "acceso": "extracto",
+      "aporta": "Duetos con Ray Charles."
+    },
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 6b6e4115-fcfb-4e86-a8e1-aa417f213028 (1961-08)."
+    }
+  ]
+}

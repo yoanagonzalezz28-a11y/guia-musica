@@ -38,10 +38,80 @@
     {
       "musico": "esperanza",
       "nombre": "Esperanza Spalding",
-      "instrumento": "contrabajo, voz, composición"
+      "instrumento": "bajo, piano, voz, producing"
+    },
+    {
+      "musico": null,
+      "nombre": "Aaron Burnett",
+      "instrumento": "saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Ganavya Doraiswamy",
+      "instrumento": "voz"
+    },
+    {
+      "musico": "genovese",
+      "nombre": "Leo Genovese",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "James Greeley",
+      "instrumento": "eagle-bone silbato"
+    },
+    {
+      "musico": null,
+      "nombre": "Lamont Hamilton",
+      "instrumento": "campana"
+    },
+    {
+      "musico": null,
+      "nombre": "Corey King",
+      "instrumento": "voz, producing"
+    },
+    {
+      "musico": null,
+      "nombre": "Francisco Mela",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Phoelix",
+      "instrumento": "piano, sintetizador, voz, xilófono, producing"
+    },
+    {
+      "musico": null,
+      "nombre": "Chris Sholar",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": "shorter",
+      "nombre": "Wayne Shorter",
+      "instrumento": "saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Matthew Stevens",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Thrive Choir",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Justin Tyson",
+      "instrumento": "batería, percusión, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Turre",
+      "instrumento": "conch shell"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "hoy"
   ],
@@ -52,9 +122,15 @@
     "musicbrainz": "5d008e4d-3ab9-450e-a534-995972fe5700",
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Songwrights_Apothecary_Lab"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Songwrights Apothecary Lab\"."
+    }
+  ],
   "temas": [
     {
       "titulo": "Formwela 1",

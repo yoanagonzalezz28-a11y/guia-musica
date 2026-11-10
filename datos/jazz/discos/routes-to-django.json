@@ -35,9 +35,45 @@
       "musico": "lagrene",
       "nombre": "Biréli Lagrène",
       "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Gaïti Lagrène",
+      "instrumento": "guitarra",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Ján Jankeje",
+      "instrumento": "bajo",
+      "nota": "temas 2, 3, 4, 5, 6, 7, 9, 10, 11, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Tschirglo Loeffler",
+      "instrumento": "guitarra",
+      "nota": "temas 2, 3, 4, 5, 6, 7, 9, 10, 11, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Jörg Reiter",
+      "instrumento": "piano",
+      "nota": "temas 2, 12"
+    },
+    {
+      "musico": null,
+      "nombre": "Wolfgang Lackerschmid",
+      "instrumento": "vibráfono",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Bernd Marquart",
+      "instrumento": "trompeta",
+      "nota": "temas 6"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "manouche"
   ],
@@ -45,10 +81,16 @@
     "Su debut a los 13 años: Django reencarnado. Lagrène toca la guitarra a una velocidad enorme, con un repertorio de Django. Es el disco clave de Biréli Lagrène en la etapa \"Jazz manouche\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "0a6daa84-8421-3163-ba57-62d74f68fddb",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 12068bd0-1317-47f3-bf69-f5d6ab0c2444 (1980)."
+    }
+  ]
 }

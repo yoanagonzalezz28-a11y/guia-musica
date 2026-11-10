@@ -39,9 +39,29 @@
       "musico": "byrd",
       "nombre": "Donald Byrd",
       "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Lex Humphries",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "mclean",
+      "nombre": "Jackie McLean",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Duke Pearson",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Doug Watkins",
+      "instrumento": "contrabajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -49,10 +69,16 @@
     "Groove de gospel y blues: Byrd antes de la fusión. Byrd toca la trompeta con Jackie McLean y Duke Pearson, en temas con aire de iglesia y blues. Está entre los discos esenciales de Donald Byrd."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "b000aeff-fc7b-3acc-bf23-4ac8dabd11d0",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Fuego_(Donald_Byrd_album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 5afda4a0-eaed-4e5b-bb0b-42940faf3faa (1960)."
+    }
+  ]
 }

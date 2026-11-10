@@ -37,9 +37,29 @@
       "musico": "ayler",
       "nombre": "Albert Ayler",
       "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Donald Ayler",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Sunny Murray",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Charles Tyler",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Lewis Worrell",
+      "instrumento": "contrabajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "free"
   ],
@@ -47,10 +67,16 @@
     "Una sola pieza en vivo: himnos de banda militar y caos libre. Ayler toca melodías que parecen marchas o canciones infantiles y después las rompe en gritos del saxo. Está entre los discos esenciales de Albert Ayler."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "e032346e-f692-340c-a869-1694de6988fb",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición e2c8d6af-d635-4d8a-8bb5-37accd41ad8f (1965)."
+    }
+  ]
 }

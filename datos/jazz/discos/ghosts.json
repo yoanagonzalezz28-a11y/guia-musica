@@ -39,9 +39,24 @@
       "musico": "ayler",
       "nombre": "Albert Ayler",
       "instrumento": "saxo tenor"
+    },
+    {
+      "musico": "cherry",
+      "nombre": "Don Cherry",
+      "instrumento": "corneta"
+    },
+    {
+      "musico": null,
+      "nombre": "Sunny Murray",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Gary Peacock",
+      "instrumento": "bajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "free"
   ],
@@ -54,7 +69,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 5105551e-222c-4aed-a34e-8cd5cf27edd4 (1964)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Ghosts",

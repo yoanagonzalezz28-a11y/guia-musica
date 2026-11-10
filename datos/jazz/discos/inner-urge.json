@@ -35,12 +35,27 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Bob Cranshaw",
+      "instrumento": "contrabajo"
+    },
+    {
       "musico": "henderson",
       "nombre": "Joe Henderson",
       "instrumento": "saxo tenor"
+    },
+    {
+      "musico": "elvin",
+      "nombre": "Elvin Jones",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "tyner",
+      "nombre": "McCoy Tyner",
+      "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "modal"
   ],
@@ -48,10 +63,16 @@
     "Saxo tenor con frases que se retuercen, sobre una base de McCoy Tyner, Bob Cranshaw y Elvin Jones. Henderson graba con Tyner y Jones, la base del cuarteto de Coltrane, pero con un sonido completamente suyo. Es el disco clave de Joe Henderson en la etapa \"Jazz modal\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "18d50118-4c14-3b97-88e4-2bcafff3140c",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Inner_Urge"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 5d4ecdb1-bd69-410e-8df2-34b581e32f02 (1965)."
+    }
+  ]
 }

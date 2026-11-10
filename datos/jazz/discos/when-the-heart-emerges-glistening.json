@@ -38,10 +38,30 @@
     {
       "musico": "akinmusire",
       "nombre": "Ambrose Akinmusire",
-      "instrumento": "trompeta, composición"
+      "instrumento": "celesta, trompeta, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Justin Brown",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Gerald Clayton",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Harish Raghavan",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Walter Smith III",
+      "instrumento": "saxo tenor"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -54,7 +74,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición c42491bf-3d3b-448a-9ed7-73176717991d (2011)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Confessions To My Unborn Daughter",

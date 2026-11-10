@@ -36,12 +36,24 @@
   "sello": "Everest",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Ray Bryant",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Tommy Bryant",
+      "instrumento": "bajo",
+      "nota": "temas 1, 2, 3, 5, 6, 7, 8, 9, 11, 12"
+    },
+    {
       "musico": "jo-jones",
       "nombre": "Jo Jones",
-      "instrumento": "batería"
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "swing"
   ],
@@ -49,10 +61,16 @@
     "Batería con platillos suaves y escobillas, en un trío de swing liviano. Lo completan los hermanos Ray Bryant en piano y Tommy Bryant en contrabajo. Está entre los discos esenciales de Jo Jones."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "5f8daf4d-7b72-4c6d-9121-77130c1a2196",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 47fb8eef-585f-4f35-a633-0aba6690e2e8 (1989)."
+    }
+  ]
 }

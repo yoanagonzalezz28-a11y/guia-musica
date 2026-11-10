@@ -34,12 +34,22 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Palle Danielsson",
+      "instrumento": "contrabajo"
+    },
+    {
       "musico": "petrucciani",
       "nombre": "Michel Petrucciani",
       "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Eliot Zigmund",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -47,10 +57,16 @@
     "Trío con Palle Danielsson y Eliot Zigmund. Petrucciani toca el piano en trío con un toque potente y una velocidad enorme. En la ficha de Michel Petrucciani es el disco que representa la etapa \"Jazz de hoy\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "d113b6e3-7dde-3760-bd40-706763cf0bfa",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 2e78b68a-8922-4ac6-adad-0b7894263a58 (1986)."
+    }
+  ]
 }

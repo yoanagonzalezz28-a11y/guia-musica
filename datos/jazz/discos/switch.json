@@ -36,12 +36,27 @@
   "sello": "Okeh",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Erland Dahlen",
+      "instrumento": "percusión, batería, campana, batería machine, xilófono, baritone guitarra, guitarra eléctrica"
+    },
+    {
       "musico": "molvaer",
       "nombre": "Nils Petter Molvær",
-      "instrumento": "trompeta, producción"
+      "instrumento": "sintetizador, trompeta, guitarra acústica"
+    },
+    {
+      "musico": null,
+      "nombre": "Morten Qvenild",
+      "instrumento": "electronic instruments, piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Geir Sundstøl",
+      "instrumento": "guitarra, resonator guitarra, pedal steel, marxophone, armónica, bajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm"
   ],
@@ -49,10 +64,16 @@
     "Trompeta con electrónica y pedal steel, en temas lentos. El pedal steel, típico del country, le da a la trompeta un fondo de paisaje amplio. Está entre los discos esenciales de Nils Petter Molvær."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "a5393607-4512-4d63-a269-c286f46109a0",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 003fe5dc-79ce-4402-b350-f17614dc8678 (2014-03-28)."
+    }
+  ]
 }

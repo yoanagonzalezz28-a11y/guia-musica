@@ -38,10 +38,90 @@
     {
       "musico": "basie",
       "nombre": "Count Basie",
-      "instrumento": "piano, dirección"
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Henry Coker",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Wendell Culley",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Frank Foster",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Charlie Fowlkes",
+      "instrumento": "saxo barítono"
+    },
+    {
+      "musico": null,
+      "nombre": "Bill Graham",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Freddie Green",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Bill Hughes",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Eddie Jones",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Reunald Jones",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Thad Jones",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Newman",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Sonny Payne",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Benny Powell",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Marshall Royal",
+      "instrumento": "clarinete, saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Frank Wess",
+      "instrumento": "flauta, saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Williams",
+      "instrumento": "voz"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "swing"
   ],
@@ -49,12 +129,18 @@
     "Blues cantados con una voz grave y potente, con la orquesta respondiendo con riffs cortos. \"Every Day I Have the Blues\" se volvió el tema emblema de Williams y de la orquesta de Basie de los 50. En la ficha de Count Basie es el disco que representa la etapa \"Swing\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "b041e0f2-3fc4-3adc-9aeb-ef4d7b096a30",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 532e66fc-6159-4a3e-8262-3543d0f459d7 (1993)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Every Day I Have The Blues",

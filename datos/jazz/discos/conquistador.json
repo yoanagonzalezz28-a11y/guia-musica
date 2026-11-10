@@ -35,12 +35,37 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Andrew Cyrille",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Bill Dixon",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Henry Grimes",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Lyons",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Alan Silva",
+      "instrumento": "bajo"
+    },
+    {
       "musico": "taylor",
       "nombre": "Cecil Taylor",
       "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "free"
   ],
@@ -48,10 +73,16 @@
     "Con Bill Dixon: dos piezas largas, densas y torrenciales. Taylor toca con un sexteto en el que la trompeta de Dixon y el piano se cruzan en torrentes de notas. Está entre los discos esenciales de Cecil Taylor."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "429e5e67-da73-3194-8153-e531b82f85da",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Conquistador!"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 97284445-2b6c-4e7e-9b8c-a47a6edbc6ca (1967)."
+    }
+  ]
 }

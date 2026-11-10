@@ -37,9 +37,45 @@
       "musico": "aeoc",
       "nombre": "Art Ensemble of Chicago",
       "instrumento": "colectivo"
+    },
+    {
+      "musico": null,
+      "nombre": "Fontella Bass",
+      "instrumento": "piano, voz",
+      "nota": "temas 1, 2, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Lester Bowie",
+      "instrumento": "vientos de metal, percusión",
+      "nota": "temas 1, 2, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Malachi Favors",
+      "instrumento": "bajo, percusión",
+      "nota": "temas 1, 2, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Joseph Jarman",
+      "instrumento": "vientos de madera, vientos",
+      "nota": "temas 1, 2, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Roscoe Mitchell",
+      "instrumento": "vientos de madera",
+      "nota": "temas 1, 2, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Famoudou Don Moye",
+      "instrumento": "percusión",
+      "nota": "temas 1, 2, 6"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "free"
   ],
@@ -47,10 +83,16 @@
     "Free jazz con un groove de soul, con la voz de Fontella Bass. Es la música de una película francesa, y Bass, esposa de Lester Bowie, ya tenía un éxito de soul con \"Rescue Me\". Es uno de los discos que el banco elige para conocer a Art Ensemble of Chicago."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "0207ab9d-fe11-3884-8bd2-2aed7731efc9",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición dd60ad7a-f0a7-4fc9-a65a-1af19138862d (1970)."
+    }
+  ]
 }

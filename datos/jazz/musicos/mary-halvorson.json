@@ -1,0 +1,52 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "mary-halvorson",
+  "nombre": "Mary Halvorson",
+  "nacimiento": {
+    "anio": 1980,
+    "lugar": "Brookline"
+  },
+  "muerte": null,
+  "instrumentos": [
+    "guitarra",
+    "composición"
+  ],
+  "corrientes": [
+    "hoy",
+    "free"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": "https://open.spotify.com/artist/5tCfZ8dYbzaq6auQeSAsRl",
+  "resumen": "Guitarrista y compositora de Nueva York, de sonido inconfundible, con notas que se doblan y se deforman.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2018,
+      "hasta": 2024,
+      "texto": "",
+      "discoClave": {
+        "disco": "amaryllis-halvorson",
+        "explicacion": "Su sexteto, en su primer disco para Nonesuch."
+      },
+      "discos": [
+        "code-girl",
+        "cloudward"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-mary-halvorson-pend"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "amaryllis-halvorson",
+    "code-girl",
+    "cloudward"
+  ]
+}

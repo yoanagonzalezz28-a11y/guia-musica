@@ -36,12 +36,62 @@
   "sello": "Shout! Factory",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Mickey Hart",
+      "instrumento": "percusión, voz"
+    },
+    {
       "musico": "zakir",
       "nombre": "Zakir Hussain",
-      "instrumento": "tabla"
+      "instrumento": "percusión, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Giovanni Hidalgo",
+      "instrumento": "latin percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Sikiru Adepoju",
+      "instrumento": "talking batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Babatunde Olatunji",
+      "instrumento": "voz on \"baba\""
+    },
+    {
+      "musico": null,
+      "nombre": "Taufiq Qureshi",
+      "instrumento": "percusión, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Niladari Kumar",
+      "instrumento": "sitar"
+    },
+    {
+      "musico": null,
+      "nombre": "Digital production",
+      "instrumento": "jonah sharp, graham shrimpton"
+    },
+    {
+      "musico": null,
+      "nombre": "Dilshad Khan",
+      "instrumento": "sarangi"
+    },
+    {
+      "musico": null,
+      "nombre": "Pro Tools engineers",
+      "instrumento": "richard fisher, john paul mclean, robert gateley"
+    },
+    {
+      "musico": null,
+      "nombre": "Mixing",
+      "instrumento": "tom flye, mickey hart, zakir hussain"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "mundo"
   ],
@@ -52,7 +102,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Global_Drum_Project"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Global Drum Project\"."
+    }
+  ]
 }

@@ -37,10 +37,40 @@
     {
       "musico": "sclarke",
       "nombre": "Stanley Clarke",
-      "instrumento": "contrabajo, bajo eléctrico"
+      "instrumento": "bajo eléctrico, contrabajo, guitarra, piano, voz, producer"
+    },
+    {
+      "musico": null,
+      "nombre": "Jan Hammer",
+      "instrumento": "teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Bill Connors",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": "tonyw",
+      "nombre": "Tony Williams",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "airto",
+      "nombre": "Airto Moreira",
+      "instrumento": "percusión on \"life suite\""
+    },
+    {
+      "musico": null,
+      "nombre": "David Taylor",
+      "instrumento": "trombón, brasses"
+    },
+    {
+      "musico": null,
+      "nombre": "Michael Gibbs",
+      "instrumento": "string & vientos de metal arrangement"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "fusion"
   ],
@@ -51,7 +81,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Stanley_Clarke_(album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Stanley Clarke (album)\"."
+    }
+  ]
 }

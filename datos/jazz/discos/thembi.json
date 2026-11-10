@@ -35,12 +35,70 @@
   "sello": "Impulse!",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Clifford Jarvis",
+      "instrumento": "percusión, batería, maracas, campana",
+      "nota": "temas 1, 2, 3, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Cecil McBee",
+      "instrumento": "percusión, finger cymbals, bajo, efectos"
+    },
+    {
       "musico": "sanders",
       "nombre": "Pharoah Sanders",
-      "instrumento": "saxo tenor"
+      "instrumento": "percusión, campana, saxo soprano, saxo tenor, koto, maracas, flauta alto, balafon, fife"
+    },
+    {
+      "musico": null,
+      "nombre": "Lonnie Liston Smith",
+      "instrumento": "percusión, claves, piano, piano eléctrico, platillos, balafon"
+    },
+    {
+      "musico": null,
+      "nombre": "Michael White",
+      "instrumento": "percusión, violín, voz",
+      "nota": "temas 1, 2, 3, 4"
+    },
+    {
+      "musico": null,
+      "nombre": "James Jordan",
+      "instrumento": "platillos",
+      "nota": "temas 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Nat Bettis",
+      "instrumento": "percusión",
+      "nota": "temas 5, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Chief Bey",
+      "instrumento": "percusión",
+      "nota": "temas 5, 6"
+    },
+    {
+      "musico": "haynes",
+      "nombre": "Roy Haynes",
+      "instrumento": "batería",
+      "nota": "temas 5, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Majid Shabazz",
+      "instrumento": "percusión",
+      "nota": "temas 5, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Anthony Wiles",
+      "instrumento": "percusión",
+      "nota": "temas 5, 6"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "free"
   ],
@@ -48,10 +106,16 @@
     "Saxos y percusión, con Lonnie Liston Smith en piano eléctrico, en temas más melódicos que los de su free de los 60. El título es el nombre de su esposa de entonces, y el disco abre con \"Astral Traveling\", de Smith. Es uno de los discos que el banco elige para conocer a Pharoah Sanders."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "8bd24a5d-b8cb-3610-815f-ac81d95d9fc6",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Thembi"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 95ff4ba8-0bbd-3adc-a22d-b00cfa1afce0 (1971)."
+    }
+  ]
 }

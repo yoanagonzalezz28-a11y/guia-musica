@@ -36,12 +36,17 @@
   "sello": "Atlantic",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Philip Catherine",
+      "instrumento": "guitarra"
+    },
+    {
       "musico": "coryell",
       "nombre": "Larry Coryell",
       "instrumento": "guitarra"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "fusion"
   ],
@@ -49,10 +54,16 @@
     "Dos guitarras acústicas a dúo, en temas lentos y rápidos. Philip Catherine es belga, y el dúo con Coryell giró por Europa a fines de los 70. Es uno de los discos que el banco elige para conocer a Larry Coryell."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "36cf8da4-b0f7-3f81-b6b8-68848aefd648",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición bfd732a3-79ae-4a49-b0bf-331e931b5170 (1977)."
+    }
+  ]
 }

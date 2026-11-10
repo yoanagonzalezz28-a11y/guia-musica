@@ -36,12 +36,34 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Vicente Archer",
+      "instrumento": "bajo"
+    },
+    {
       "musico": "glasper",
       "nombre": "Robert Glasper",
-      "instrumento": "piano, teclados"
+      "instrumento": "piano, piano eléctrico Rhodes"
+    },
+    {
+      "musico": null,
+      "nombre": "Damion Reid",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Mark Turner",
+      "instrumento": "saxo tenor",
+      "nota": "temas 2, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Bilal",
+      "instrumento": "voz",
+      "nota": "temas 7, 10"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -49,12 +71,18 @@
     "Su debut en Blue Note: piano trío con ritmos de hip hop. Glasper toca en trío con un piano que viene del jazz moderno y una batería que piensa como en el hip hop. Es el disco clave de Robert Glasper en la etapa \"Jazz de hoy\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "288bb6c5-17ca-3322-9713-0d0865660fc0",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición a55229ce-b94c-47ea-8566-0db7d57e5bb6 (2005)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Rise And Shine",

@@ -36,12 +36,27 @@
   "sello": "Verve",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Ray Brown",
+      "instrumento": "bajo, contrabajo"
+    },
+    {
+      "musico": "peterson",
+      "nombre": "Oscar Peterson",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Ed Thigpen",
+      "instrumento": "batería"
+    },
+    {
       "musico": "webster",
       "nombre": "Ben Webster",
       "instrumento": "saxo tenor"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "swing"
   ],
@@ -54,7 +69,13 @@
     "wikidata": null,
     "wikipedia": "Ben_Webster_Meets_Oscar_Peterson"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 23e90f48-e2e4-4e83-a86c-f86f98265e88 (1959)."
+    }
+  ],
   "temas": [
     {
       "titulo": "The Touch Of Your Lips",

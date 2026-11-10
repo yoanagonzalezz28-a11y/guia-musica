@@ -185,5 +185,9 @@
       "duracion": 196
     }
   ],
-  "temasFuente": "Spotify"
+  "temasFuente": "Spotify",
+  "recopilacion": {
+    "desde": 1949,
+    "hasta": 1950
+  }
 }

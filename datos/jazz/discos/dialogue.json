@@ -36,12 +36,37 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Joe Chambers",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Richard Davis",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": "andrew-hill",
+      "nombre": "Andrew Hill",
+      "instrumento": "piano"
+    },
+    {
+      "musico": "hubbard",
+      "nombre": "Freddie Hubbard",
+      "instrumento": "trompeta"
+    },
+    {
       "musico": "hutcherson",
       "nombre": "Bobby Hutcherson",
-      "instrumento": "vibráfono"
+      "instrumento": "vibráfono, marimba"
+    },
+    {
+      "musico": "rivers",
+      "nombre": "Sam Rivers",
+      "instrumento": "saxo tenor, flauta, clarinete bajo, saxo soprano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "modal"
   ],
@@ -49,10 +74,16 @@
     "Con Freddie Hubbard, Sam Rivers y Andrew Hill. Hutcherson toca el vibráfono en temas de Hill y Chambers, entre el hard bop y la vanguardia. Es el disco clave de Bobby Hutcherson en la etapa \"Jazz modal\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "b2a7bc76-eafa-3bcc-972d-6228ea6e2109",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición d1cb8f6f-9f7d-43ba-a42f-af0efe129eaa (1965)."
+    }
+  ]
 }

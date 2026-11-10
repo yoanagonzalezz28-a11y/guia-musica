@@ -35,12 +35,29 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Al Harewood",
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Milt Hinton",
+      "instrumento": "contrabajo"
+    },
+    {
       "musico": "quebec",
       "nombre": "Ike Quebec",
       "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Freddie Roach",
+      "instrumento": "órgano",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "souljazz"
   ],
@@ -48,10 +65,16 @@
     "El saxo tenor de Quebec, de sonido grueso, con el órgano de Freddie Roach que le da un clima de iglesia. Quebec había trabajado buscando talentos para Blue Note en los 50, y este disco marcó su vuelta como líder. Es uno de los discos que el banco elige para conocer a Ike Quebec."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "8135b06f-efb5-3d1e-9c1c-bfd8d41a9e92",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición d9b5cfa4-f616-4766-82b5-493129f46626 (1962)."
+    }
+  ]
 }

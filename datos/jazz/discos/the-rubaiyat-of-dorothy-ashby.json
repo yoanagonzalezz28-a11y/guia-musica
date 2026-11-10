@@ -1,0 +1,109 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Dorothy Ashby The Rubáiyát of Dorothy Ashby"
+  },
+  "id": "the-rubaiyat-of-dorothy-ashby",
+  "titulo": "The Rubáiyát of Dorothy Ashby",
+  "credito": "Dorothy Ashby",
+  "lideres": [
+    "dorothy-ashby"
+  ],
+  "grabacion": {
+    "desde": 1970,
+    "hasta": 1970,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1970,
+    "detalle": null
+  },
+  "sello": "Cadet",
+  "musicos": [
+    {
+      "musico": null,
+      "nombre": "Richard Evans",
+      "instrumento": "dirección"
+    },
+    {
+      "musico": "dorothy-ashby",
+      "nombre": "Dorothy Ashby",
+      "instrumento": "arpa, voz, koto, piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Lenard S. Druss",
+      "instrumento": "flauta, oboe, flauta baja, flautín",
+      "nota": "temas 1, 2, 3, 4, 5, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Stu Katz",
+      "instrumento": "vibráfono",
+      "nota": "temas 1, 3, 5, 6, 8, 9, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Ed Green",
+      "instrumento": "violín",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Fred Katz",
+      "instrumento": "mbira",
+      "nota": "temas 2, 3, 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Cash McCall",
+      "instrumento": "guitarra",
+      "nota": "temas 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Cliff Davis",
+      "instrumento": "saxo alto",
+      "nota": "temas 10"
+    }
+  ],
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
+  "corrientes": [
+    "souljazz",
+    "mundo"
+  ],
+  "comentario": [
+    "Arpa, koto y voz en canciones inspiradas en los versos de Omar Jayam. Ashby suma instrumentos de Asia y Medio Oriente a su soul jazz, mucho antes de que se hablara de músicas del mundo. Es uno de los discos que el banco elige para conocer a Dorothy Ashby."
+  ],
+  "ids": {
+    "musicbrainz": "9aed5dc5-8899-3f05-a942-57f76fe9e422",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-dorothy-ashby",
+      "acceso": "extracto",
+      "aporta": "Discografía en Cadet."
+    },
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición aaf9fb64-16a8-3de0-9c72-66abe381ae29 (1970)."
+    }
+  ]
+}

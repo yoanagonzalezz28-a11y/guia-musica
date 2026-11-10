@@ -16,17 +16,16 @@
     "composición"
   ],
   "corrientes": [
-    "rioplat",
     "hoy"
   ],
   "regiones": [
     "rio-de-la-plata"
   ],
   "spotify": "https://open.spotify.com/artist/4OKAcxJYd2tWC4D2E2Qp75",
-  "resumen": "Saxofonista y compositor argentino que dirige un octeto.",
+  "resumen": "Saxofonista tenor y compositor uruguayo, formado en el Conservatorio del Liceu de Barcelona. Dirige un octeto con temas propios y enseña en el Conservatorio Sur de Montevideo.",
   "epocas": [
     {
-      "titulo": "Jazz rioplatense",
+      "titulo": "Jazz de hoy",
       "desde": 2014,
       "hasta": 2019,
       "texto": "",
@@ -39,7 +38,11 @@
       ]
     }
   ],
-  "fuentes": [],
+  "fuentes": [
+    "timeout-levin",
+    "cyc-levin",
+    "velvet-levin"
+  ],
   "respaldo": [],
   "discosEsenciales": [
     "arbol",

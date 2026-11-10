@@ -36,12 +36,27 @@
   "sello": "Ropeadope",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Tommy Crane",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "David Ginyard",
+      "instrumento": "bajo"
+    },
+    {
       "musico": "parks",
       "nombre": "Aaron Parks",
-      "instrumento": "piano"
+      "instrumento": "piano, teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Greg Tuohey",
+      "instrumento": "guitarra"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -54,7 +69,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 6f6564e9-f9f6-43d6-a5cc-63d2580c51e6 (2018-10-19)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Kid",

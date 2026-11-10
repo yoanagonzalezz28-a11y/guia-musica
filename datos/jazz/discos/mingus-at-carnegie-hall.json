@@ -35,12 +35,52 @@
   "sello": "Atlantic",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "George Adams",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Hamiet Bluiett",
+      "instrumento": "saxo barítono"
+    },
+    {
+      "musico": null,
+      "nombre": "Jon Faddis",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "John Handy",
+      "instrumento": "saxo tenor, saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Rahsaan Roland Kirk",
+      "instrumento": "saxo, saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Charles McPherson",
+      "instrumento": "saxo alto"
+    },
+    {
       "musico": "mingus",
       "nombre": "Charles Mingus",
-      "instrumento": "contrabajo, composición"
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Don Pullen",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Dannie Richmond",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -48,10 +88,16 @@
     "Un concierto de 1974 con largas jams sobre \"C Jam Blues\" y \"Perdido\", con George Adams y Hamiet Bluiett. Mingus toca con un grupo grande en vivo, con solos largos y mucho humor. Completa la discografía de Charles Mingus dentro de Hard bop."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "cb739544-1a04-3e78-9c80-34354be465ee",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición c5727fdb-d3f2-413d-a22d-3cf6fde84f23 (1974)."
+    }
+  ]
 }

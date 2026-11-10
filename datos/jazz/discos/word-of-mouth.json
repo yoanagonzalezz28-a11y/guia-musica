@@ -36,12 +36,62 @@
   "sello": "Warner Bros.",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Don Alias",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": "brecker",
+      "nombre": "Michael Brecker",
+      "instrumento": "saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Chuck Findley",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": "hancock",
+      "nombre": "Herbie Hancock",
+      "instrumento": "teclados, piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Howard Johnson",
+      "instrumento": "tuba"
+    },
+    {
+      "musico": null,
+      "nombre": "Othello Molineaux",
+      "instrumento": "steel pan"
+    },
+    {
       "musico": "jaco",
       "nombre": "Jaco Pastorius",
-      "instrumento": "bajo eléctrico"
+      "instrumento": "bajo eléctrico, bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Tom Scott",
+      "instrumento": "saxo"
+    },
+    {
+      "musico": "shorter",
+      "nombre": "Wayne Shorter",
+      "instrumento": "saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Toots Thielemans",
+      "instrumento": "armónica"
+    },
+    {
+      "musico": null,
+      "nombre": "Robert Thomas, Jr.",
+      "instrumento": "percusión"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "fusion"
   ],
@@ -49,10 +99,16 @@
     "Big band con armónica de Toots Thielemans: su obra más ambiciosa como compositor. Jaco toca el bajo con una orquesta y Thielemans en armónica, en temas propios. Está entre los discos esenciales de Jaco Pastorius."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "c7d8088c-1b62-35b8-a3d9-3e46b2b56b0d",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Word_of_Mouth_(Jaco_Pastorius_album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 9bf937d2-2a5f-47e4-9b7d-532dac31019f (1981)."
+    }
+  ]
 }

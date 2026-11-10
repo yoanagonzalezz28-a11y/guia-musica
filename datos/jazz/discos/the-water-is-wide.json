@@ -35,12 +35,38 @@
   "sello": "ECM",
   "musicos": [
     {
+      "musico": "abercrombie",
+      "nombre": "John Abercrombie",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Larry Grenadier",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Billy Higgins",
+      "instrumento": "batería"
+    },
+    {
       "musico": "lloyd",
       "nombre": "Charles Lloyd",
-      "instrumento": "saxo tenor, flauta"
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": "mehldau",
+      "nombre": "Brad Mehldau",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Darek \"Oles\" Oleszkiewicz",
+      "instrumento": "contrabajo",
+      "nota": "temas 12"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm"
   ],
@@ -48,10 +74,16 @@
     "Saxo y flauta en baladas y canciones tradicionales. Tocan Brad Mehldau, John Abercrombie, Larry Grenadier y Billy Higgins, en una de las últimas sesiones de Higgins. Está entre los discos esenciales de Charles Lloyd."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "28d388a6-3dfa-3693-a12e-76322b2f7e4d",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 3a081fe5-4d52-47c1-b176-86052fbf28f3 (2000-09-04)."
+    }
+  ]
 }

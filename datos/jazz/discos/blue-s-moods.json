@@ -36,12 +36,27 @@
   "sello": "Riverside",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Roy Brooks",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Sam Jones",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": "wynton-kelly",
+      "nombre": "Wynton Kelly",
+      "instrumento": "piano"
+    },
+    {
       "musico": "blue-mitchell",
       "nombre": "Blue Mitchell",
       "instrumento": "trompeta"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -49,12 +64,18 @@
     "Trompeta clara y sin apuro, en baladas y blues medios. Mitchell tocaba en el quinteto de Horace Silver, y acá graba en cuarteto con Wynton Kelly en el piano. En la ficha de Blue Mitchell es el disco que representa la etapa \"Hard bop\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "29d3b312-ae11-302c-ab1f-d8ea00faa10e",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Blue%27s_Moods"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 9cb424b0-9911-4edc-b46b-b9aec6c60e5b (1960-11)."
+    }
+  ],
   "temas": [
     {
       "titulo": "I'll Close My Eyes - Remastered 2024",

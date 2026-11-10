@@ -36,12 +36,37 @@
   "sello": "Riverside",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "David Baker",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": "dolphy",
+      "nombre": "Eric Dolphy",
+      "instrumento": "saxo alto, clarinete bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Don Ellis",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Hunt",
+      "instrumento": "batería"
+    },
+    {
       "musico": "george-russell",
       "nombre": "George Russell",
-      "instrumento": "composición, piano, teoría"
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Swallow",
+      "instrumento": "bajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "modal"
   ],
@@ -49,10 +74,16 @@
     "Un sexteto con arreglos angulosos, con Eric Dolphy en saxo alto y clarinete bajo. Russell había escrito un libro de teoría que influyó en el jazz modal, el *Lydian Chromatic Concept*, y acá \"'Round Midnight\", de Monk, suena totalmente nuevo. Es el disco clave de George Russell en la etapa \"Jazz modal\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "f5c6ce8f-945d-3710-b10c-6e1b9f23e18f",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición f0c28b8d-6d3b-476f-a5c1-e5f129d0e597 (1961)."
+    }
+  ]
 }

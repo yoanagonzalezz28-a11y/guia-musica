@@ -1,0 +1,49 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "id": "brandee-younger",
+  "nombre": "Brandee Younger",
+  "nacimiento": {
+    "anio": null,
+    "lugar": null
+  },
+  "muerte": null,
+  "instrumentos": [
+    "arpa",
+    "composición"
+  ],
+  "corrientes": [
+    "hoy"
+  ],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "spotify": null,
+  "resumen": "Arpista y compositora de Nueva York que continúa la línea de Alice Coltrane y Dorothy Ashby.",
+  "epocas": [
+    {
+      "titulo": "Jazz de hoy",
+      "desde": 2021,
+      "hasta": 2023,
+      "texto": "",
+      "discoClave": {
+        "disco": "somewhere-different",
+        "explicacion": "Su debut en Impulse!."
+      },
+      "discos": [
+        "brand-new-life"
+      ]
+    }
+  ],
+  "fuentes": [
+    "wp-brandee-younger"
+  ],
+  "respaldo": [],
+  "discosEsenciales": [
+    "somewhere-different",
+    "brand-new-life"
+  ]
+}

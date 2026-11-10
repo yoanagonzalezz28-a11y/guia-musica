@@ -38,10 +38,25 @@
     {
       "musico": "dejohnette",
       "nombre": "Jack DeJohnette",
-      "instrumento": "batería, piano"
+      "instrumento": "batería, piano, melódica"
+    },
+    {
+      "musico": null,
+      "nombre": "David Murray",
+      "instrumento": "saxo tenor, clarinete bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Arthur Blythe",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Peter \"Slip\" Warren",
+      "instrumento": "bajo, violonchelo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "ecm"
   ],
@@ -52,7 +67,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Special_Edition_(Jack_DeJohnette_album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Special Edition (Jack DeJohnette album)\"."
+    }
+  ]
 }

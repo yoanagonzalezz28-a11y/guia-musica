@@ -1,0 +1,118 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5f4X6JHWWACcVWstI7KQUD",
+    "tituloEnSpotify": "Amaryllis",
+    "via": "api-spotify"
+  },
+  "id": "amaryllis-halvorson",
+  "titulo": "Amaryllis",
+  "credito": "Mary Halvorson",
+  "lideres": [
+    "mary-halvorson"
+  ],
+  "grabacion": {
+    "desde": 2022,
+    "hasta": 2022,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2022,
+    "detalle": null
+  },
+  "sello": "Nonesuch",
+  "musicos": [
+    {
+      "musico": null,
+      "nombre": "Patricia Brennan",
+      "instrumento": "vibráfono"
+    },
+    {
+      "musico": null,
+      "nombre": "Nick Dunston",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Jacob Garchik",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": "mary-halvorson",
+      "nombre": "Mary Halvorson",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Adam O’Farrill",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Tomas Fujiwara",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Maya Bennardo",
+      "instrumento": "violín",
+      "nota": "temas 4, 5, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Tyler J. Borden",
+      "instrumento": "violonchelo",
+      "nota": "temas 4, 5, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Victor Lowrie",
+      "instrumento": "viola",
+      "nota": "temas 4, 5, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Olivia de Prato",
+      "instrumento": "violín",
+      "nota": "temas 4, 5, 6"
+    }
+  ],
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "La guitarra de Halvorson, con sus notas dobladas y su sonido inconfundible, al frente de un sexteto con vientos. Salió junto a *Belladonna*, un disco con cuarteto de cuerdas, y fueron los primeros para Nonesuch. Es el disco clave de Mary Halvorson en la etapa \"Jazz de hoy\"."
+  ],
+  "ids": {
+    "musicbrainz": "3644ea24-17c4-43e0-a8ef-d4c5ea862b23",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-mary-halvorson-pend",
+      "acceso": "extracto",
+      "aporta": "Discografía."
+    },
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 3de6ad7e-23f8-41e2-9e29-4c58718b7afc (2022-05-13)."
+    }
+  ]
+}

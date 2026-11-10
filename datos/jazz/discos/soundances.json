@@ -1,0 +1,68 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "rio-de-la-plata"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Diego Urcola Soundances"
+  },
+  "id": "soundances",
+  "titulo": "Soundances",
+  "credito": "Diego Urcola",
+  "lideres": [
+    "urcola"
+  ],
+  "grabacion": {
+    "desde": 2003,
+    "hasta": 2003,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2003,
+    "detalle": null
+  },
+  "sello": "Sunnyside",
+  "musicos": [
+    {
+      "musico": "urcola",
+      "nombre": "Diego Urcola",
+      "instrumento": "trompeta"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy",
+    "latino"
+  ],
+  "comentario": [
+    "Trompeta con un grupo de jazz latino, en temas propios con ritmos sudamericanos. Fue su segundo disco como líder y recibió nominaciones al Grammy y al Grammy Latino. Es el disco clave de Diego Urcola en la etapa \"Jazz de hoy\"."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "miller-urcola",
+      "acceso": "extracto",
+      "aporta": "Segundo disco, Sunnyside, 2003."
+    },
+    {
+      "fuente": "newvelle-urcola",
+      "acceso": "extracto",
+      "aporta": "Nominaciones."
+    }
+  ]
+}

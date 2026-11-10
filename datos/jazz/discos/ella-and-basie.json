@@ -36,12 +36,82 @@
   "sello": "Verve",
   "musicos": [
     {
+      "musico": "basie",
+      "nombre": "Count Basie",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Buddy Catlett",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Sonny Cohn",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Henry Coker",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Eric Dixon",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Frank Foster",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Charlie Fowlkes",
+      "instrumento": "saxo barítono"
+    },
+    {
+      "musico": null,
+      "nombre": "Freddie Green",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Urbie Green",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Grover Mitchell",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Sonny Payne",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Benny Powell",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Marshall Royal",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Frank Wess",
+      "instrumento": "flauta"
+    },
+    {
       "musico": "fitzgerald",
       "nombre": "Ella Fitzgerald",
       "instrumento": "voz"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "swing"
   ],
@@ -49,12 +119,18 @@
     "Fitzgerald canta con la orquesta de Count Basie, con un swing muy preciso y los vientos empujando cada estribillo. Los arreglos son de un joven Quincy Jones, que años después produjo a Michael Jackson. Es uno de los discos que el banco elige para conocer a Ella Fitzgerald."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "bdfc8417-0478-3060-a31e-d22744364ec1",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Ella_and_Basie!"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición e820ae5e-32e7-4361-9e92-6bed58b03f7b (1963-09)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Honeysuckle Rose",

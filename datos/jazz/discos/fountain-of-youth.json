@@ -36,12 +36,27 @@
   "sello": "Dreyfus",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Martin Bejerano",
+      "instrumento": "piano"
+    },
+    {
       "musico": "haynes",
       "nombre": "Roy Haynes",
       "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Marcus Strickland",
+      "instrumento": "saxo soprano, clarinete bajo, saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "John Sullivan",
+      "instrumento": "contrabajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -49,10 +64,16 @@
     "Con casi 80 años, en vivo en Birdland. Haynes toca la batería con un grupo joven, con la misma energía de sus años con Parker y Monk. Es el disco clave de Roy Haynes en la etapa \"Jazz de hoy\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "b6543c87-7756-4798-afe1-d5f0ce2da6dd",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 1322572b-2553-4be1-883b-b1c41440e494 (2004)."
+    }
+  ]
 }

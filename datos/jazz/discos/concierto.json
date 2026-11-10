@@ -36,12 +36,43 @@
   "sello": "CTI",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Don Sebesky",
+      "instrumento": "dirección",
+      "nota": "temas 1"
+    },
+    {
+      "musico": "baker",
+      "nombre": "Chet Baker",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": "ronc",
+      "nombre": "Ron Carter",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": "desmond",
+      "nombre": "Paul Desmond",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Gadd",
+      "instrumento": "batería"
+    },
+    {
       "musico": "jim-hall",
       "nombre": "Jim Hall",
       "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "“Sir” Roland Hanna",
+      "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "cool"
   ],
@@ -49,12 +80,18 @@
     "Con Chet Baker y Paul Desmond: el Concierto de Aranjuez en clave de jazz. Hall, Baker y Desmond tocan con Roland Hanna, Ron Carter y Steve Gadd en un arreglo de Don Sebesky de la obra de Rodrigo. Está entre los discos esenciales de Jim Hall."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "a3e83453-d0ba-3cc9-8f9f-54a33a60a299",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Concierto_(Jim_Hall_album)"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 48f52928-310c-42e5-9544-7157e73217ae (1975)."
+    }
+  ],
   "temas": [
     {
       "titulo": "You'd Be So Nice To Come Home To",

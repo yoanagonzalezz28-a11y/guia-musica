@@ -1,0 +1,79 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2bHMUQk6qnvvFkzzu3c3nq",
+    "tituloEnSpotify": "Amaryllis",
+    "via": "api-spotify"
+  },
+  "id": "amaryllis-crispell",
+  "titulo": "Amaryllis",
+  "credito": "Marilyn Crispell",
+  "lideres": [
+    "marilyn-crispell"
+  ],
+  "grabacion": {
+    "desde": 2001,
+    "hasta": 2001,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2001,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "marilyn-crispell",
+      "nombre": "Marilyn Crispell",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Gary Peacock",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": "motian",
+      "nombre": "Paul Motian",
+      "instrumento": "batería"
+    }
+  ],
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
+  "corrientes": [
+    "ecm"
+  ],
+  "comentario": [
+    "El mismo trío con Gary Peacock y Paul Motian, ahora en temas propios de los tres. La música es lírica y abierta, entre la composición y la improvisación libre. Es uno de los discos que el banco elige para conocer a Marilyn Crispell."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": "Amaryllis_(Marilyn_Crispell_album)"
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-marilyn-crispell",
+      "acceso": "extracto",
+      "aporta": "Discografía en ECM."
+    },
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Amaryllis (Marilyn Crispell album)\"."
+    }
+  ]
+}

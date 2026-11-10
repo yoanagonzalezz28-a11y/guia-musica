@@ -38,10 +38,65 @@
     {
       "musico": "moacir",
       "nombre": "Moacir Santos",
-      "instrumento": "saxo, composición, arreglos"
+      "instrumento": "saxo alto, saxo barítono, dirección, arreglos"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Huffsteter",
+      "instrumento": "trompeta, fliscorno"
+    },
+    {
+      "musico": null,
+      "nombre": "Benny Powell",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Morris Repass",
+      "instrumento": "trombón bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Sidney Muldrow",
+      "instrumento": "corno"
+    },
+    {
+      "musico": null,
+      "nombre": "Ray Pizzi",
+      "instrumento": "fagot, saxo alto, saxo tenor, flauta, flautín"
+    },
+    {
+      "musico": null,
+      "nombre": "Jerome Richardson",
+      "instrumento": "saxo soprano, saxo alto, saxo tenor, saxo barítono, flauta, flauta alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Mark Levine",
+      "instrumento": "piano, piano eléctrico, arreglos"
+    },
+    {
+      "musico": null,
+      "nombre": "Lee Ritenour",
+      "instrumento": "guitarra, guitarra eléctrica"
+    },
+    {
+      "musico": null,
+      "nombre": "John Heard",
+      "instrumento": "bajo, bajo eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Harvey Mason",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Mayuto Correa, Carmelo Garcia",
+      "instrumento": "conga, percusión"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "brasil"
   ],
@@ -52,7 +107,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Saudade_(Moacir_Santos_album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Saudade (Moacir Santos album)\"."
+    }
+  ]
 }

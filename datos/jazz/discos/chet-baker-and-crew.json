@@ -39,9 +39,35 @@
       "musico": "baker",
       "nombre": "Chet Baker",
       "instrumento": "trompeta, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "James E. Bond",
+      "instrumento": "bajo, contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Peter Littman",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Bill Loughborough",
+      "instrumento": "timbales sinfónicos",
+      "nota": "temas 1, 2, 3, 4, 5, 6, 7, 8, 9, 12"
+    },
+    {
+      "musico": "timmons",
+      "nombre": "Bobby Timmons",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Phil Urso",
+      "instrumento": "saxo tenor"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "cool"
   ],
@@ -49,12 +75,18 @@
     "Sexteto de la costa oeste con Phil Urso: un Chet más enérgico de lo habitual. Baker toca con un sexteto que suena más compacto y enérgico que en sus discos de baladas. Es el disco clave de Chet Baker en la etapa \"Cool\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "dde96c0e-4af1-44d8-b3c9-fcd09239bf31",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición dc6e4fdb-7664-48e7-8656-ce5df226fd4c (1993)."
+    }
+  ],
   "temas": [
     {
       "titulo": "To Mickey's Memory",

@@ -13,7 +13,7 @@
   "regiones": [
     "rio-de-la-plata"
   ],
-  "compilacion": false,
+  "compilacion": true,
   "tipo": "estudio",
   "catalogo": null,
   "lugar": null,
@@ -30,8 +30,8 @@
     "restuccia"
   ],
   "grabacion": {
-    "desde": 2015,
-    "hasta": 2015,
+    "desde": 2008,
+    "hasta": 2011,
     "detalle": null
   },
   "edicion": {
@@ -48,7 +48,7 @@
   ],
   "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
   "corrientes": [
-    "rioplat"
+    "hoy"
   ],
   "comentario": [
     "Recopilación de sus grabaciones de 2008 a 2011. Restuccia toca la guitarra en piezas instrumentales, con melodías cuidadas. Está entre los discos esenciales de Pedro Restuccia."
@@ -134,5 +134,9 @@
       "duracion": 272
     }
   ],
-  "temasFuente": "Spotify"
+  "temasFuente": "Spotify",
+  "recopilacion": {
+    "desde": 2008,
+    "hasta": 2011
+  }
 }

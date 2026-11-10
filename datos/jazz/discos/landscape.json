@@ -39,9 +39,19 @@
       "musico": "barron",
       "nombre": "Kenny Barron",
       "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Cecil McBee",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Al Foster",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "hard-bop"
   ],
@@ -52,9 +62,15 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Landscape_(Kenny_Barron_album)"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Landscape (Kenny Barron album)\"."
+    }
+  ],
   "temas": [
     {
       "titulo": "Hush-a-Bye",

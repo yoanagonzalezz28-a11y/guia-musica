@@ -39,9 +39,74 @@
       "musico": "fletcher-henderson",
       "nombre": "Fletcher Henderson",
       "instrumento": "piano, arreglos, dirección"
+    },
+    {
+      "musico": null,
+      "nombre": "Elmer Chambers, Howard Scott, Rex Stewart",
+      "instrumento": "corneta"
+    },
+    {
+      "musico": null,
+      "nombre": "Jerry Blake",
+      "instrumento": "alto clarinete"
+    },
+    {
+      "musico": "hawkins",
+      "nombre": "Coleman Hawkins",
+      "instrumento": "saxo alto, saxo tenor, bajo saxo, clarinete"
+    },
+    {
+      "musico": null,
+      "nombre": "Don Pasqual",
+      "instrumento": "saxo alto, saxo barítono"
+    },
+    {
+      "musico": null,
+      "nombre": "Don Redman",
+      "instrumento": "saxo alto, clarinete, oboe"
+    },
+    {
+      "musico": null,
+      "nombre": "Edgar Sampson",
+      "instrumento": "saxo alto, violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Chu Berry, Ben Webster, Elmer Williams",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "June Cole, Ralph Escudero, John Kirby, Del Thomas",
+      "instrumento": "tuba"
+    },
+    {
+      "musico": null,
+      "nombre": "Fletcher Henderson, Horace Henderson, Fats Waller",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Charlie Dixon, Clarence Holiday",
+      "instrumento": "banjo"
+    },
+    {
+      "musico": null,
+      "nombre": "Bernard Addison, Bob Lessey, Lawrence Lucie, Freddie White",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Israel Crosby, Elmer James, John Kirby",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Sid Catlett, Walter Johnson, Kaiser Marshall, Pete Suggs",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "swing"
   ],
@@ -52,7 +117,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "A_Study_in_Frustration:_The_Fletcher_Henderson_Story"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"A Study in Frustration: The Fletcher Henderson Story\"."
+    }
+  ]
 }

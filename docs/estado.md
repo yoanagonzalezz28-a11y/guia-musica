@@ -18,16 +18,18 @@ Las credenciales están en `.env` (`SPOTIFY_CLIENT_ID` y `SPOTIFY_CLIENT_SECRET`
 |---|---|
 | Épocas (corrientes) | 18 |
 | Regiones | 14 |
-| Músicos y grupos | 371 (213 con cinco discos esenciales o más; 234 con link de artista en Spotify) |
-| Discos | 1558 |
-| Discos con link exacto de Spotify | 1310 |
+| Músicos y grupos | 399 (254 con link de artista en Spotify) |
+| Discos | 1606 (41 recopilaciones) |
+| Discos con link exacto de Spotify | 1325 |
 | Discos con lista de temas | 514 |
 | Reseñas extensas | 19 |
 | Redescubrimientos | 18 |
 | Comparaciones | 3: bebop y hard bop, cool y hard bop, modal y free |
 | Podcasts | 8 programas, 53 episodios, todos con link exacto de Spotify |
 | Fichas audiovisuales | 45 (películas, documentales, series, conciertos y videos de canales oficiales) |
-| Fuentes registradas | 647 |
+| Fuentes registradas | 719 |
+| Discos con personal completo | 1189 (476 dicen en qué temas toca cada músico) |
+| Mujeres con ficha | 49 de 379 músicos individuales (12,9 %) |
 
 **Origen de los links exactos de Spotify** (cuenta del 8/11, antes de los 329 de la API del 10/11):
 - 447 de los CSV de Yoana;
@@ -50,6 +52,14 @@ Las credenciales están en `.env` (`SPOTIFY_CLIENT_ID` y `SPOTIFY_CLIENT_SECRET`
 - **Ids estables:** si un id publicado desaparece sin estar en `datos/renombres.json`, la construcción se frena. Las marcas de un id renombrado se mudan solas al nuevo, y la dirección vieja redirige. Ya hay registrados cuatro renombres y cuatro fichas retiradas.
 - **Formato de las marcas:** al convertir una versión vieja o mudar un id, la copia original queda como respaldo en el navegador. Los datos ilegibles o de una versión más nueva nunca se pisan. Detalle en [modelo-de-datos.md](modelo-de-datos.md).
 - **Pruebas:** las de Playwright con Edge (43 generales, 18 de diseño y 31 de marcas) se corren a mano en local y **no están en el repositorio**. La publicación en GitHub Pages solo corre `npm run construir`, que frena ante errores en los datos, pero no espera a las pruebas del navegador.
+
+### Cambios del 10/11/2026
+
+- **Personal:** se completó con los créditos de MusicBrainz (808 discos) y la sección de personal de Wikipedia (189). Las coincidencias de MusicBrainz con un año que no cuadra se aceptaron solo si eran un álbum común con el líder en la lista; se descartaron 41.
+- **Recopilaciones:** 39 discos, cada uno con el rango de años que abarca y, cuando se sabe, dónde salieron primero las grabaciones (campo `recopilacion`).
+- **Jazz rioplatense y Río de la Plata:** la época es el estilo (jazz con candombe, tango o folclore) y la región es el lugar (todo el jazz de Uruguay y la Argentina). 38 discos sin esas raíces pasaron a otras épocas y siguen en la región. La escena actual va solo en la región y se armó con premios Gardel 2023-2026, Graffiti 2025, el Festival de Punta del Este 2025-2026, el del Sodre y Jazz a la Calle.
+- **Mujeres:** 20 fichas nuevas, de Lil Hardin Armstrong a Brandee Younger, y Roxana Amed y Ligia Piro en el Río de la Plata.
+- **Carteles provisorios:** no queda ninguno visible. Los datos de borrador siguen en los JSON.
 
 ## Decisiones de diseño
 
@@ -94,7 +104,10 @@ La carpeta está en `.gitignore`: **nada de esto se sube a GitHub ni se publica.
    - Quedan unas 174 con una repetición más leve entre la primera y la segunda frase. Algunas todavía repiten, como *We Three* o *Plenty, Plenty Soul*, y otras están bien.
    - Estas 12 tienen dos frases porque falta un dato particular seguro: *Son dos*, *El jardín de Ordóñez*, *Turista*, *Cajita de música*, *La cocina magnética*, *Gonzalo Levin Octeto*, *Into Forever*, *Characters*, *Everyday, Everynight*, *Ravensburg*, *Downhill from Here* y *Live in Montreux 1987*.
 4. **Ampliar los datos sin cotejar con Gioia:** quedan 3 épocas sin cotejar (de 18), y la mayoría de los discos y músicos tiene una sola fuente.
-5. **Más datos por disco:** el personal completo y el número de catálogo faltan en muchos discos.
+5. **Más datos por disco:** quedan 417 discos con el personal incompleto (153 de importancia alta; la lista sale con `npm run auditar`). El número de catálogo sigue faltando en muchos.
+   - Spotify: hay discos nuevos sin buscar; la API limitó hasta el **11/11/2026 a las 10:24**. Después, `npm run spotify`.
+   - Mujeres: siguen sin ninguna Jazz latino, Jazz manouche, Jazz modal y Acid jazz.
+   - Popo Romano no tiene discos cargados (MusicBrainz solo registra *Susurro montevideano*, de 2009, sin datos para reseñarlo). *Éthiopiques, Vol. 21* no figura como recopilación porque no se sabe qué años abarca.
 6. **Pendientes de contenido opcionales:** más reseñas extensas, más comparaciones si ayudan y nuevas regiones o épocas, por ejemplo spiritual jazz o third stream, que se propusieron pero no se agregaron.
 7. **Otros géneros:** música clásica y post-rock están previstos en la portada pero sin contenido.
 8. **Más adelante:** evaluar cuentas con sincronización automática de las marcas. Por ahora no.

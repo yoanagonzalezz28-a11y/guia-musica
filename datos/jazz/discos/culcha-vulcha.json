@@ -39,9 +39,118 @@
       "musico": "snarky-puppy",
       "nombre": "Snarky Puppy",
       "instrumento": "grupo"
+    },
+    {
+      "musico": null,
+      "nombre": "Zach Brock",
+      "instrumento": "violín",
+      "nota": "temas 1, 2, 3, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Chris Bullock",
+      "instrumento": "flauta, saxo tenor, flauta alto, clarinete bajo, teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Cory Henry",
+      "instrumento": "órgano, Mellotron, clavinet, sintetizador, Moog",
+      "nota": "temas 1, 4, 6, 7, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Jay Jennings",
+      "instrumento": "trompeta, fliscorno",
+      "nota": "temas 1, 2, 4, 6, 7, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Bob Lanzetti",
+      "instrumento": "guitarra eléctrica, guitarra",
+      "nota": "temas 1, 3, 4, 5, 6, 7, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Bill Laurance",
+      "instrumento": "piano eléctrico Rhodes, piano, sintetizador, clavinet, Moog"
+    },
+    {
+      "musico": null,
+      "nombre": "Michael League",
+      "instrumento": "bajo sintetizado, bajo eléctrico, Moog, guitarra clásica, guitarra eléctrica, Mellotron, bajo, ukulele, baritone guitarra, palmas, sintetizador"
+    },
+    {
+      "musico": null,
+      "nombre": "Mark Lettieri",
+      "instrumento": "baritone guitarra, guitarra, guitarra eléctrica",
+      "nota": "temas 1, 3, 4, 5, 6, 7, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Mike Maher",
+      "instrumento": "trompeta, fliscorno, voz",
+      "nota": "temas 1, 2, 3, 4, 6, 7, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "小川慶太",
+      "instrumento": "kanjira, repinique, timbales, caixa, congas, talking batería, palmas, mbira",
+      "nota": "temas 1, 2, 6, 7, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Bob Reynolds",
+      "instrumento": "saxo tenor",
+      "nota": "temas 1, 2, 4, 6, 7, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Robert Searight",
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 3, 4, 5, 7, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Bobby Sparks",
+      "instrumento": "clavinet, Minimoog, Moog",
+      "nota": "temas 1, 4, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Justin Stanton",
+      "instrumento": "piano, piano eléctrico Rhodes, analog sintetizador, sintetizador, Moog"
+    },
+    {
+      "musico": null,
+      "nombre": "Jason “JT” Thomas",
+      "instrumento": "batería",
+      "nota": "temas 1, 6, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Nate Werth",
+      "instrumento": "batería, tom-tom, caixa, chimes, cencerro, pandereta, congas, percusión, caxixi, angklung, platillos, palmas, shakers"
+    },
+    {
+      "musico": null,
+      "nombre": "Marcelo Woloski",
+      "instrumento": "djembé, shakers, caixa, surdo, triángulo, angklung, cencerro, daf, bombo legüero, efectos, palmas, maracas, mbira, percusión",
+      "nota": "temas 1, 2, 6, 7, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Larnell Lewis",
+      "instrumento": "batería",
+      "nota": "temas 2, 3, 4, 5, 6, 7, 8, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Chris McQueen",
+      "instrumento": "guitarra",
+      "nota": "temas 6"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "fusion"
   ],
@@ -49,12 +158,18 @@
     "Su primer disco de estudio sin público: ganó un Grammy. El colectivo de Michael League toca con muchos teclados, vientos y percusión, en temas con influencias de músicas de todo el mundo. Está entre los discos esenciales de Snarky Puppy."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "12cdbbdf-4a3f-4dd2-be38-a072403132ee",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 3bb4ccc3-9211-4379-8b1e-fb2bbadc8a7f (2016-04)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Tarova",

@@ -35,12 +35,22 @@
   "sello": "Prestige",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Mitch Fine",
+      "instrumento": "batería"
+    },
+    {
       "musico": "martino",
       "nombre": "Pat Martino",
       "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Trudy Pitts",
+      "instrumento": "órgano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "souljazz"
   ],
@@ -48,10 +58,16 @@
     "Martino toca la guitarra con una velocidad enorme, en un trío de órgano con un groove muy bluesero. Fue su debut como líder, con poco más de veinte años, después de tocar en grupos de órgano como el de Jack McDuff. En la ficha de Pat Martino es el disco que representa la etapa \"Soul jazz\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "80e455a2-e05f-3699-8446-bde5a943c271",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición e2437317-b37c-4c49-b428-b47a9f6ed1dc (1967)."
+    }
+  ]
 }

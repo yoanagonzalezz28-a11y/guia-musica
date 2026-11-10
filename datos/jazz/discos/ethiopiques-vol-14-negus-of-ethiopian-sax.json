@@ -8,7 +8,7 @@
   "regiones": [
     "etiopia"
   ],
-  "compilacion": false,
+  "compilacion": true,
   "tipo": "estudio",
   "catalogo": null,
   "lugar": null,
@@ -54,5 +54,8 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [],
+  "recopilacion": {
+    "anios": "de los años 70"
+  }
 }

@@ -34,12 +34,33 @@
   "sello": "Prestige",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Tyrone Brown",
+      "instrumento": "contrabajo",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Eddie Green",
+      "instrumento": "piano"
+    },
+    {
       "musico": "martino",
       "nombre": "Pat Martino",
       "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Lenny McBrowne",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Ben Tucker",
+      "instrumento": "pandereta, contrabajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -47,10 +68,16 @@
     "La guitarra de Martino, muy veloz, en temas que se inspiran en la música india. Es de 1968, cuando muchos músicos de jazz miraban hacia la India, y Martino lo hace sin dejar el cuarteto de guitarra tradicional. Es uno de los discos que el banco elige para conocer a Pat Martino."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "bf7afd1f-4fa8-394d-8450-d6a208ffa301",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición dcaba69e-914f-44bb-86ca-2ede710f32dd (1968)."
+    }
+  ]
 }

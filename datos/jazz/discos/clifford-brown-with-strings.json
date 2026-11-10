@@ -39,9 +39,34 @@
       "musico": "brown",
       "nombre": "Clifford Brown",
       "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Richie Powell",
+      "instrumento": "piano"
+    },
+    {
+      "musico": "roach",
+      "nombre": "Max Roach",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "George Morrow",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Barry Galbraith",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Neal Hefti",
+      "instrumento": "arreglos, dirección"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "hard-bop"
   ],
@@ -54,5 +79,11 @@
     "wikidata": null,
     "wikipedia": "Clifford_Brown_with_Strings"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Clifford Brown with Strings\"."
+    }
+  ]
 }

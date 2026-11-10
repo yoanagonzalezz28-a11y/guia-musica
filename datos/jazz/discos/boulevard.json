@@ -36,10 +36,35 @@
     {
       "musico": "st-germain",
       "nombre": "St Germain",
-      "instrumento": "producción, teclados"
+      "instrumento": "teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Alexandre Destrez",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Pascal Ohsé",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Édouard Labor",
+      "instrumento": "saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Malik",
+      "instrumento": "flauta"
+    },
+    {
+      "musico": null,
+      "nombre": "Miguel \"Punta\" Rios",
+      "instrumento": "percusión"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "acid"
   ],
@@ -50,7 +75,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Boulevard_(St_Germain_album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Boulevard (St Germain album)\"."
+    }
+  ]
 }

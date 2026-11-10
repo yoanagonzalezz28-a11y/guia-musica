@@ -33,12 +33,59 @@
   "sello": "A&M",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Omar Hakim",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Darryl Jones",
+      "instrumento": "bajo eléctrico"
+    },
+    {
       "musico": "kirkland",
       "nombre": "Kenny Kirkland",
-      "instrumento": "piano, teclados"
+      "instrumento": "teclados"
+    },
+    {
+      "musico": "branford",
+      "nombre": "Branford Marsalis",
+      "instrumento": "saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Sting",
+      "instrumento": "guitarra, voz, contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Dolette McDonald",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Janice Pendarvis",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Frank Opolko",
+      "instrumento": "trombón",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Eddy Grant",
+      "instrumento": "congas",
+      "nota": "temas 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Danny Quatrochi",
+      "instrumento": "synclavier"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "neotrad"
   ],
@@ -46,10 +93,16 @@
     "Sting canta pop con un grupo de músicos de jazz: Kirkland en teclados, Branford Marsalis en saxo y Omar Hakim en batería. Fue el primer disco solista de Sting después de The Police, y llevó a esos músicos a un público masivo. Está entre los discos esenciales de Kenny Kirkland."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "93ef0ae1-0735-3699-b450-d79bdcb3d0b8",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 52809f2d-3c0a-41c0-8149-ef5a28800ed2 (1985)."
+    }
+  ]
 }

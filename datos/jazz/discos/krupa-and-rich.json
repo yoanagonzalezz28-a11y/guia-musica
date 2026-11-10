@@ -36,12 +36,55 @@
   "sello": "Clef",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Ray Brown",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Roy Eldridge",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Herb Ellis",
+      "instrumento": "guitarra",
+      "nota": "temas 1, 2, 3, 4"
+    },
+    {
+      "musico": "gillespie",
+      "nombre": "Dizzy Gillespie",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Illinois Jacquet",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": "peterson",
+      "nombre": "Oscar Peterson",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Flip Phillips",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": "buddy-rich",
+      "nombre": "Buddy Rich",
+      "instrumento": "batería",
+      "nota": "temas 1, 2"
+    },
+    {
       "musico": "krupa",
       "nombre": "Gene Krupa",
-      "instrumento": "batería"
+      "instrumento": "batería",
+      "nota": "temas 2, 3"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "swing"
   ],
@@ -49,10 +92,16 @@
     "Duelo de baterías con Buddy Rich. Krupa y Rich tocan la batería en un mismo grupo, con solos y duelos. Está entre los discos esenciales de Gene Krupa."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "0ed47a80-1525-33f0-adc8-4d2916828a47",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición bc97807d-0cdc-4857-8e61-e1c78c262762 (1956)."
+    }
+  ]
 }

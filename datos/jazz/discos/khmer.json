@@ -39,12 +39,41 @@
   "sello": "ECM",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Eivind Aarset",
+      "instrumento": "sampler, guitarra, talkbox"
+    },
+    {
+      "musico": null,
+      "nombre": "Rune Arnesen",
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 3, 5, 7"
+    },
+    {
       "musico": "molvaer",
       "nombre": "Nils Petter Molvær",
-      "instrumento": "trompeta y producción"
+      "instrumento": "percusión, trompeta, sampler, bajo, guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Morten Mølster",
+      "instrumento": "guitarra",
+      "nota": "temas 2, 4, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Roger Ludvigsen",
+      "instrumento": "guitarra acústica",
+      "nota": "temas 6, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Ulf Holand",
+      "instrumento": "sampler",
+      "nota": "temas 2, 3, 4, 7"
     }
   ],
-  "personalNota": "Lista parcial.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo",
     "ecm"
@@ -68,6 +97,11 @@
       "fuente": "wp-molvaer",
       "acceso": "completa",
       "aporta": "Lo considera pionero del future jazz y destaca este disco como su mayor éxito."
+    },
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 3bb99be9-7bc5-402b-9708-6f05d43f5fdf (1997)."
     }
   ],
   "temas": [

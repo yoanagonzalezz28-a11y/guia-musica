@@ -39,9 +39,85 @@
       "musico": "femi-kuti",
       "nombre": "Femi Kuti",
       "instrumento": "saxo, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Oluwaseun Ajayi",
+      "instrumento": "teclados, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Imeh Akpan",
+      "instrumento": "shakers"
+    },
+    {
+      "musico": null,
+      "nombre": "Ayodele Alaba",
+      "instrumento": "batería, percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Babatunde Ankara",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Opeyemi Awomolo",
+      "instrumento": "guitarra, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Mathew Fanibe",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Gbenga Ogundeji",
+      "instrumento": "trompeta, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Ayoola Oladeji",
+      "instrumento": "saxo barítono"
+    },
+    {
+      "musico": null,
+      "nombre": "Segun Olatunjoye",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Benjamin Olubunmi",
+      "instrumento": "bajo eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Oluwadayo Sowunmi",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Omolola Adigun",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Anthonia Bernards",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Onome Udi",
+      "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Made Kuti",
+      "instrumento": "saxo tenor",
+      "nota": "temas 9"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -49,7 +125,7 @@
     "Afrobeat con su banda, con canciones más cortas y directas. Salió en abril de 2025 en el sello Partisan. Es uno de los discos que el banco elige para conocer a Femi Kuti."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "01669840-6ae1-44af-b107-0519d0b3cce6",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
@@ -64,6 +140,11 @@
       "fuente": "afrocritik-femi",
       "acceso": "extracto",
       "aporta": "Reseña de 2025."
+    },
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 75920b29-58c8-4eb4-b6dc-09277efe1489 (2025-05-16)."
     }
   ]
 }

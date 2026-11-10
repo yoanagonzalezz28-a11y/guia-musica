@@ -36,12 +36,32 @@
   "sello": "Bethlehem",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Christy Febbo",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Howard McGhee",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Ralph Sharon",
+      "instrumento": "piano"
+    },
+    {
       "musico": "hartman",
       "nombre": "Johnny Hartman",
       "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Jay Cave",
+      "instrumento": "músico"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "cool"
   ],
@@ -49,10 +69,16 @@
     "Con Howard McGhee: su primer disco. Hartman canta con McGhee en trompeta y un grupo pequeño, en baladas. Es el disco clave de Johnny Hartman en la etapa \"Cool\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "846f2d2d-c3d4-3bda-b315-8338b7b7ef1d",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 88332987-68ed-4f34-937c-6ce6ee972b2e (1997)."
+    }
+  ]
 }

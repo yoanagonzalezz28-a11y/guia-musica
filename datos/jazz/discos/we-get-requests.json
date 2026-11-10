@@ -36,12 +36,22 @@
   "sello": "Verve",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Ray Brown",
+      "instrumento": "contrabajo"
+    },
+    {
       "musico": "peterson",
       "nombre": "Oscar Peterson",
       "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Ed Thigpen",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "bebop"
   ],
@@ -49,12 +59,18 @@
     "Estándares y bossas tocados con una claridad perfecta, con Ray Brown y Ed Thigpen. Incluye \"Corcovado\" y \"The Girl from Ipanema\", en plena moda de la bossa nova. Está entre los discos esenciales de Oscar Peterson."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "63c29e2d-69d4-3b99-9658-9e2dcb20fa6c",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "We_Get_Requests"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 597e439c-5f37-4c48-a4d9-c991afbbec5e (1964)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Quiet Nights Of Quiet Stars (Corcovado)",

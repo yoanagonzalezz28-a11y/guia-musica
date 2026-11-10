@@ -36,12 +36,38 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": "ronc",
+      "nombre": "Ron Carter",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Chambers",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "hancock",
+      "nombre": "Herbie Hancock",
+      "instrumento": "piano"
+    },
+    {
+      "musico": "hubbard",
+      "nombre": "Freddie Hubbard",
+      "instrumento": "trompeta"
+    },
+    {
       "musico": "hutcherson",
       "nombre": "Bobby Hutcherson",
-      "instrumento": "vibráfono"
+      "instrumento": "vibráfono, marimba"
+    },
+    {
+      "musico": null,
+      "nombre": "James Spaulding",
+      "instrumento": "saxo alto, flauta",
+      "nota": "temas 1, 3, 4, 5, 6, 7, 8"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "modal"
   ],
@@ -49,10 +75,16 @@
     "Un lado más tradicional y otro libre: los dos caminos de los 60. Hutcherson toca el vibráfono con un grupo que incluye a Freddie Hubbard, Herbie Hancock y Joe Chambers. Está entre los discos esenciales de Bobby Hutcherson."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "a84fe073-20e0-3f3e-b1d8-d641c1c6aac6",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición f4664f3a-30a4-4546-a54a-68fd89624592 (1965)."
+    }
+  ]
 }

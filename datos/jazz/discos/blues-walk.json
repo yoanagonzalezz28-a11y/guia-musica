@@ -36,12 +36,32 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Dave Bailey",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "barretto",
+      "nombre": "Ray Barretto",
+      "instrumento": "congas"
+    },
+    {
       "musico": "donaldson",
       "nombre": "Lou Donaldson",
       "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Herman Foster",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "John \"Peck\" Morrison",
+      "instrumento": "contrabajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "souljazz"
   ],
@@ -54,7 +74,13 @@
     "wikidata": null,
     "wikipedia": "Blues_Walk"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición c0600ea4-822e-4b89-af49-d577fb099af9 (1958-07-28)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Blues Walk",

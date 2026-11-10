@@ -34,12 +34,32 @@
   "sello": "ECM",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Román Díaz",
+      "instrumento": "percusión, voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Marcus Gilmore",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Robert Hurst",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Thomas Morgan",
+      "instrumento": "contrabajo"
+    },
+    {
       "musico": "virelles",
       "nombre": "David Virelles",
       "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm",
     "hoy"
@@ -48,7 +68,7 @@
     "Piano con dos contrabajos, batería y el biankomeko, los tambores de la sociedad abakuá. Fue su debut en ECM, con Thomas Morgan y Robert Hurst en los contrabajos y Marcus Gilmore en batería. Es el disco clave de David Virelles en la etapa \"Jazz de hoy\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "d57a37d3-59ad-48f7-a664-e5f946c7eb0d",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
@@ -58,6 +78,11 @@
       "fuente": "mb-david-virelles",
       "acceso": "extracto",
       "aporta": "ECM, 10 de octubre de 2014."
+    },
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 4a7a898c-0a80-4ede-8c1e-44b94754ea1a (2014-10-10)."
     }
   ]
 }

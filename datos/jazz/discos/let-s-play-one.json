@@ -36,12 +36,169 @@
   "sello": "Nagel Heyer Records",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Addison Farmer",
+      "instrumento": "contrabajo",
+      "nota": "temas 1, 4, 10, 18"
+    },
+    {
+      "musico": null,
+      "nombre": "Art Farmer",
+      "instrumento": "trompeta, fliscorno",
+      "nota": "temas 1, 2, 4, 5, 7, 10, 18, 20, 25"
+    },
+    {
+      "musico": null,
+      "nombre": "Curtis Fuller",
+      "instrumento": "trombón",
+      "nota": "temas 1, 4, 10, 18"
+    },
+    {
       "musico": "golson",
       "nombre": "Benny Golson",
-      "instrumento": "saxo tenor, composición"
+      "instrumento": "saxo tenor",
+      "nota": "temas 1, 2, 4, 5, 7, 9, 10, 11, 13, 17, 18, 19, 20, 22, 23, 25"
+    },
+    {
+      "musico": null,
+      "nombre": "Lex Humphries",
+      "instrumento": "batería",
+      "nota": "temas 1, 4, 10, 18"
+    },
+    {
+      "musico": "tyner",
+      "nombre": "McCoy Tyner",
+      "instrumento": "piano",
+      "nota": "temas 1, 4, 10, 18"
+    },
+    {
+      "musico": null,
+      "nombre": "Herbie Lewis",
+      "instrumento": "contrabajo",
+      "nota": "temas 2, 5, 7, 20, 25"
+    },
+    {
+      "musico": null,
+      "nombre": "Harold Mabern",
+      "instrumento": "piano",
+      "nota": "temas 2, 5, 7, 20, 25"
+    },
+    {
+      "musico": null,
+      "nombre": "Roy McCurdy",
+      "instrumento": "batería",
+      "nota": "temas 2, 5, 7, 20, 25"
+    },
+    {
+      "musico": null,
+      "nombre": "Grachan Moncur III",
+      "instrumento": "trombón",
+      "nota": "temas 2, 5, 7, 20, 25"
+    },
+    {
+      "musico": null,
+      "nombre": "Ray Bryant",
+      "instrumento": "piano",
+      "nota": "temas 9, 11, 13, 17"
+    },
+    {
+      "musico": null,
+      "nombre": "Percy Heath",
+      "instrumento": "contrabajo",
+      "nota": "temas 9, 11, 13, 17"
+    },
+    {
+      "musico": "philly-joe-jones",
+      "nombre": "Philly Joe Jones",
+      "instrumento": "batería",
+      "nota": "temas 9, 11, 13, 17"
+    },
+    {
+      "musico": "morgan",
+      "nombre": "Lee Morgan",
+      "instrumento": "trompeta",
+      "nota": "temas 9, 11, 13, 17"
+    },
+    {
+      "musico": "chambers",
+      "nombre": "Paul Chambers",
+      "instrumento": "contrabajo",
+      "nota": "temas 19"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Cobb",
+      "instrumento": "batería",
+      "nota": "temas 19"
+    },
+    {
+      "musico": "wynton-kelly",
+      "nombre": "Wynton Kelly",
+      "instrumento": "piano",
+      "nota": "temas 19"
+    },
+    {
+      "musico": "ronc",
+      "nombre": "Ron Carter",
+      "instrumento": "contrabajo",
+      "nota": "temas 22"
+    },
+    {
+      "musico": "flanagan",
+      "nombre": "Tommy Flanagan",
+      "instrumento": "piano",
+      "nota": "temas 22"
+    },
+    {
+      "musico": null,
+      "nombre": "Art Taylor",
+      "instrumento": "batería",
+      "nota": "temas 22"
+    },
+    {
+      "musico": null,
+      "nombre": "Bill Elton",
+      "instrumento": "trombón",
+      "nota": "temas 23"
+    },
+    {
+      "musico": null,
+      "nombre": "Albert “Tootie” Heath",
+      "instrumento": "batería",
+      "nota": "temas 23"
+    },
+    {
+      "musico": null,
+      "nombre": "Hal McKusick",
+      "instrumento": "saxo alto",
+      "nota": "temas 23"
+    },
+    {
+      "musico": null,
+      "nombre": "Willie Ruff",
+      "instrumento": "corno",
+      "nota": "temas 23"
+    },
+    {
+      "musico": null,
+      "nombre": "Sol Schlinger",
+      "instrumento": "saxo barítono",
+      "nota": "temas 23"
+    },
+    {
+      "musico": null,
+      "nombre": "Nick Travis",
+      "instrumento": "trompeta",
+      "nota": "temas 23"
+    },
+    {
+      "musico": null,
+      "nombre": "Tommy Williams",
+      "instrumento": "contrabajo",
+      "nota": "temas 23"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hard-bop"
   ],
@@ -54,7 +211,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 1215c0ad-54b2-4444-8c81-ba75710ef1ef (2018-09-17)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Easy Living",

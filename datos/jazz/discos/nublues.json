@@ -35,12 +35,38 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Jeremy Corren",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Jeremy Dutton",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Kanoa Mendenhall",
+      "instrumento": "bajo"
+    },
+    {
       "musico": "joel-ross",
       "nombre": "Joel Ross",
       "instrumento": "vibráfono"
+    },
+    {
+      "musico": "wilkins",
+      "nombre": "Immanuel Wilkins",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Gabrielle Garo",
+      "instrumento": "flauta",
+      "nota": "temas 4"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -48,10 +74,16 @@
     "Blues tocado como algo nuevo. Ross toca el vibráfono con su grupo en temas propios que toman el blues como punto de partida. Es el disco clave de Joel Ross en la etapa \"Jazz de hoy\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "80bf36ec-d228-4bc3-8550-d523471024f6",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 92f5c4e0-4efe-429d-b951-ebcbf2f57395 (2024-02-09)."
+    }
+  ]
 }

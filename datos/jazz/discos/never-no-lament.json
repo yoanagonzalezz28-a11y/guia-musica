@@ -90,17 +90,12 @@
     {
       "musico": "tizol",
       "nombre": "Juan Tizol",
-      "instrumento": "trombón a válvulas"
+      "instrumento": "trombón a válvulas, trombón"
     },
     {
       "musico": null,
       "nombre": "Ivie Anderson",
       "instrumento": "voz"
-    },
-    {
-      "musico": "tizol",
-      "nombre": "Juan Tizol",
-      "instrumento": "trombón"
     }
   ],
   "personalNota": "Lista parcial.",
@@ -122,5 +117,9 @@
       "acceso": "completa",
       "aporta": "Ted Gioia: \"this was Ellington's best band—in my opinion, and according to many other knowledgeable listeners\". Considera a Webster el mejor tenor que pasó por la banda."
     }
-  ]
+  ],
+  "recopilacion": {
+    "desde": 1940,
+    "hasta": 1942
+  }
 }

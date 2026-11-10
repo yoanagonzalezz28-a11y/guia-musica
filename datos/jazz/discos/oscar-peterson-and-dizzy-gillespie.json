@@ -36,12 +36,17 @@
   "sello": "Pablo",
   "musicos": [
     {
+      "musico": "gillespie",
+      "nombre": "Dizzy Gillespie",
+      "instrumento": "trompeta"
+    },
+    {
       "musico": "peterson",
       "nombre": "Oscar Peterson",
       "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "bebop"
   ],
@@ -49,12 +54,18 @@
     "Dúo de piano y trompeta, sin red: dos virtuosos que se escuchan y se desafían. Peterson y Gillespie tocan a dúo con mucho virtuosismo y humor. Es uno de los discos que el banco elige para conocer a Oscar Peterson."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "24d442d8-71c8-3bf6-9193-df95a3fd3a8e",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición fb983859-ecb7-3c31-ad81-99d82d319751 (1987-07-05)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Caravan",

@@ -38,10 +38,45 @@
     {
       "musico": "blade",
       "nombre": "Brian Blade",
-      "instrumento": "batería, composición"
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Melvin Butler",
+      "instrumento": "saxo soprano, saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Jon Cowherd",
+      "instrumento": "piano eléctrico, piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Dave Easley",
+      "instrumento": "pedal steel"
+    },
+    {
+      "musico": null,
+      "nombre": "Daniel Lanois",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Jeff Parker",
+      "instrumento": "guitarra acústica, guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Christopher Thomas",
+      "instrumento": "contrabajo guitarra, bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Myron Walden",
+      "instrumento": "saxo alto"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -49,10 +84,16 @@
     "Su debut: jazz con gospel y canción. Blade escribe temas que parecen himnos, con guitarras, saxos y una batería que toca casi como un cantante. En la ficha de Brian Blade es el disco que representa la etapa \"Jazz de hoy\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "20765029-3ac1-3dae-bc61-76eefcf58e32",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 724df581-74c0-45ca-bee4-b8becf26643b (1998)."
+    }
+  ]
 }

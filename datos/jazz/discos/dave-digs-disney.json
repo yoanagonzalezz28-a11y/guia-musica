@@ -36,12 +36,27 @@
   "sello": "Columbia",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Norman Bates",
+      "instrumento": "bajo"
+    },
+    {
       "musico": "brubeck",
       "nombre": "Dave Brubeck",
-      "instrumento": "piano, composición"
+      "instrumento": "piano"
+    },
+    {
+      "musico": "desmond",
+      "nombre": "Paul Desmond",
+      "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Morello",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "cool"
   ],
@@ -49,12 +64,18 @@
     "Canciones de Disney con Paul Desmond: \"Someday My Prince Will Come\". El cuarteto de Brubeck toca canciones de películas de Disney, y el alto de Desmond suena especialmente melódico. Es uno de los discos que el banco elige para conocer a Dave Brubeck."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "fd55886b-1e0e-391a-b7a1-4c5c2cfa67ce",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Dave_Digs_Disney"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición fc4d5a37-4221-3dff-84a0-2ac6e10aa373 (1957)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Alice in Wonderland - Mono Version",

@@ -36,12 +36,79 @@
   "sello": "Verve",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Claus Ogerman",
+      "instrumento": "dirección",
+      "nota": "temas 1, 2, 3, 4, 5, 7, 8"
+    },
+    {
+      "musico": "barretto",
+      "nombre": "Ray Barretto",
+      "instrumento": "congas",
+      "nota": "temas 1, 5, 7"
+    },
+    {
+      "musico": "ronc",
+      "nombre": "Ron Carter",
+      "instrumento": "contrabajo, bajo",
+      "nota": "temas 1, 2, 3, 4, 5, 7, 8"
+    },
+    {
       "musico": "wes",
       "nombre": "Wes Montgomery",
-      "instrumento": "guitarra"
+      "instrumento": "guitarra, guitarra eléctrica",
+      "nota": "temas 1, 2, 3, 4, 5, 7, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Grady Tate",
+      "instrumento": "batería",
+      "nota": "temas 1, 2, 3, 4, 5, 7, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "George Devens",
+      "instrumento": "vibráfono",
+      "nota": "temas 2, 4, 7, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Paul Gershman",
+      "instrumento": "violín",
+      "nota": "temas 2, 3, 4, 5, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Emanuel Green",
+      "instrumento": "violín",
+      "nota": "temas 2, 3, 4, 5, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Harry Lookofsky",
+      "instrumento": "violín",
+      "nota": "temas 2, 3, 4, 5, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Charles McCracken",
+      "instrumento": "violonchelo",
+      "nota": "temas 2, 3, 4, 5, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Gene Orloff",
+      "instrumento": "violín",
+      "nota": "temas 2, 4, 5, 7, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "George Ricci",
+      "instrumento": "violonchelo",
+      "nota": "temas 2, 3, 4, 5, 8"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "souljazz"
   ],
@@ -54,7 +121,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición c6ba1362-08d7-4db0-81b9-7b1b4de2cea4 (1966)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Tequila",

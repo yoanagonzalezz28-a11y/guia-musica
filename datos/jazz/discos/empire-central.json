@@ -39,9 +39,87 @@
       "musico": "snarky-puppy",
       "nombre": "Snarky Puppy",
       "instrumento": "grupo"
+    },
+    {
+      "musico": null,
+      "nombre": "Michael League –&nbsp;electric bass",
+      "instrumento": "10, 12, 16), Minimoog model d bajo",
+      "nota": "temas 1, 11"
+    },
+    {
+      "musico": null,
+      "nombre": "Bob Lanzetti",
+      "instrumento": "guitarra eléctrica"
+    },
+    {
+      "musico": null,
+      "nombre": "Mark Lettieri",
+      "instrumento": "guitarra eléctrica, baritone guitarra",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Chris McQueen",
+      "instrumento": "guitarra eléctrica"
+    },
+    {
+      "musico": null,
+      "nombre": "Justin Stanton",
+      "instrumento": "wurlitzer/prophet 10/Minimoog model d, trompeta, piano eléctrico Rhodes mark 8, yamaha cp70",
+      "nota": "temas 1, 2, 4, 8, 10, 12, 14, 16, 7, 3, 11, 13, 5, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Bobby Sparks",
+      "instrumento": "hammond b3 órgano, arp string ensemble, Minimoog model d, hohner d6 clavinet"
+    },
+    {
+      "musico": null,
+      "nombre": "Shaun Martin",
+      "instrumento": "talkbox, vocoder, Moog little phatty, korg kronos, Mellotron, piano eléctrico Rhodes mark 8, hammond b3 órgano",
+      "nota": "temas 2, 5, 7, 9, 16, 1, 6, 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Bill Laurance",
+      "instrumento": "piano eléctrico Rhodes mark 8/yamaha cp70/Minimoog model d, Mellotron, prophet 10, hohner d6 clavinet, expressive osmose",
+      "nota": "temas 2, 5, 7, 10, 12, 14, 16, 6, 11, 1, 13, 15"
+    },
+    {
+      "musico": null,
+      "nombre": "Bernard Wright",
+      "instrumento": "wurlitzer/prophet 10/Minimoog model d",
+      "nota": "temas 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Mike \"Maz\" Maher –&nbsp;trumpet",
+      "instrumento": "fliscorno"
+    },
+    {
+      "musico": null,
+      "nombre": "Jay Jennings",
+      "instrumento": "trompeta, fliscorno"
+    },
+    {
+      "musico": null,
+      "nombre": "Chris Bullock",
+      "instrumento": "saxo tenor, clarinete bajo, flauta, flautín, saxo soprano",
+      "nota": "temas 4, 10, 16, 3, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Bob Reynolds",
+      "instrumento": "saxo tenor, saxo soprano"
+    },
+    {
+      "musico": null,
+      "nombre": "Larnell Lewis –&nbsp;drum set",
+      "instrumento": "finger cymbals",
+      "nota": "temas 4"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "fusion"
   ],
@@ -52,7 +130,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Empire_Central"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Empire Central\"."
+    }
+  ]
 }

@@ -36,12 +36,22 @@
   "sello": "ECM",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Charles Brackeen",
+      "instrumento": "saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Jean-François Jenny-Clark",
+      "instrumento": "bajo"
+    },
+    {
       "musico": "motian",
       "nombre": "Paul Motian",
-      "instrumento": "batería, composición"
+      "instrumento": "percusión"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm"
   ],
@@ -49,10 +59,16 @@
     "Trío con Charles Brackeen y J. F. Jenny-Clark."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "2c34c840-78b0-463d-a6ce-efd319539368",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 19afc192-5fa9-4643-924c-30a568c3c377 (1979)."
+    }
+  ]
 }

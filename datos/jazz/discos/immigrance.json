@@ -39,9 +39,104 @@
       "musico": "snarky-puppy",
       "nombre": "Snarky Puppy",
       "instrumento": "grupo"
+    },
+    {
+      "musico": null,
+      "nombre": "Michael League",
+      "instrumento": "bajo eléctrico, oud"
+    },
+    {
+      "musico": null,
+      "nombre": "Jay Jennings",
+      "instrumento": "trompeta, fliscorno"
+    },
+    {
+      "musico": null,
+      "nombre": "Mike Maher",
+      "instrumento": "trompeta, fliscorno"
+    },
+    {
+      "musico": null,
+      "nombre": "Chris Bullock",
+      "instrumento": "tenor and soprano saxos, clarinete bajo, flauta, flauta alto, bansuri, metal pife"
+    },
+    {
+      "musico": null,
+      "nombre": "Bob Reynolds",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Zach Brock",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Bill Laurance",
+      "instrumento": "piano, piano eléctrico Rhodes, teclados, sintetizadores"
+    },
+    {
+      "musico": null,
+      "nombre": "Shaun Martin",
+      "instrumento": "Minimoog, clavinet, teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Bobby Sparks",
+      "instrumento": "hammond b3 órgano, clavinet, Minimoog, teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Justin Stanton",
+      "instrumento": "piano eléctrico Rhodes, prophet 6, teclados, trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Bob Lanzetti",
+      "instrumento": "guitarras"
+    },
+    {
+      "musico": null,
+      "nombre": "Mark Lettieri",
+      "instrumento": "guitarras"
+    },
+    {
+      "musico": null,
+      "nombre": "Chris McQueen",
+      "instrumento": "guitarras"
+    },
+    {
+      "musico": null,
+      "nombre": "Larnell Lewis",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "– drums",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Jamison Ross",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Jason Thomas",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Marcelo Woloski",
+      "instrumento": "batería, percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Nate Werth",
+      "instrumento": "percusión"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "fusion"
   ],
@@ -52,9 +147,15 @@
     "musicbrainz": "60387ef7-de1e-467e-9162-7dafd10073f1",
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Immigrance"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Immigrance\"."
+    }
+  ],
   "temas": [
     {
       "titulo": "Chonks",

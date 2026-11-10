@@ -33,12 +33,50 @@
   "sello": "Columbia",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Alex Acuña",
+      "instrumento": "percusión, congas"
+    },
+    {
+      "musico": "jaco",
+      "nombre": "Jaco Pastorius",
+      "instrumento": "bajo eléctrico"
+    },
+    {
+      "musico": "shorter",
+      "nombre": "Wayne Shorter",
+      "instrumento": "saxo soprano, saxo tenor, Lyricon"
+    },
+    {
+      "musico": null,
+      "nombre": "Chester Thompson",
+      "instrumento": "batería"
+    },
+    {
       "musico": "zawinul",
       "nombre": "Joe Zawinul",
-      "instrumento": "teclados, composición"
+      "instrumento": "piano, piano eléctrico Rhodes, analog sintetizador, sintetizador"
+    },
+    {
+      "musico": null,
+      "nombre": "Don Alias",
+      "instrumento": "congas, percusión",
+      "nota": "temas 1, 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Alphonso Johnson",
+      "instrumento": "bajo eléctrico",
+      "nota": "temas 1, 3, 4, 5, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Narada Michael Walden",
+      "instrumento": "batería",
+      "nota": "temas 1, 2"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "fusion"
   ],
@@ -46,10 +84,16 @@
     "Weather Report con ritmos africanos y la llegada de Jaco Pastorius. El bajo eléctrico de Pastorius, con su sonido cantado, se suma en dos temas al grupo de Zawinul y Shorter. Está entre los discos esenciales de Joe Zawinul."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "7db657be-44b2-38ea-9296-663c5446096d",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Black_Market_(album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 7a7ac5ec-f4f8-4394-996a-2e898f22809d (1976)."
+    }
+  ]
 }

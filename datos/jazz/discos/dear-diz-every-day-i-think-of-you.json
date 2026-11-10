@@ -36,12 +36,121 @@
   "sello": "Concord",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Shelly Berg",
+      "instrumento": "piano",
+      "nota": "temas 1"
+    },
+    {
+      "musico": null,
+      "nombre": "Zane Musa",
+      "instrumento": "saxo alto",
+      "nota": "temas 1"
+    },
+    {
+      "musico": "burton",
+      "nombre": "Gary Burton",
+      "instrumento": "vibráfono",
+      "nota": "temas 2"
+    },
+    {
+      "musico": null,
+      "nombre": "Bob Mintzer",
+      "instrumento": "saxo tenor",
+      "nota": "temas 2, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Joey DeFrancesco",
+      "instrumento": "órgano Hammond",
+      "nota": "temas 3, 4, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Plas Johnson",
+      "instrumento": "saxo tenor",
+      "nota": "temas 4"
+    },
+    {
+      "musico": null,
+      "nombre": "Bob Sheppard",
+      "instrumento": "saxo tenor",
+      "nota": "temas 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Eddie Daniels",
+      "instrumento": "clarinete",
+      "nota": "temas 6"
+    },
+    {
+      "musico": null,
+      "nombre": "Trevor Handy",
+      "instrumento": "violonchelo",
+      "nota": "temas 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Roland Kato",
+      "instrumento": "viola",
+      "nota": "temas 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Ralph Morrison",
+      "instrumento": "violín",
+      "nota": "temas 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Sara Parkins",
+      "instrumento": "violín",
+      "nota": "temas 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Wally Minko",
+      "instrumento": "piano",
+      "nota": "temas 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Manolo Gimenez",
+      "instrumento": "voz",
+      "nota": "temas 8"
+    },
+    {
+      "musico": null,
+      "nombre": "Dan Higgins",
+      "instrumento": "saxo alto",
+      "nota": "temas 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Andy Martin",
+      "instrumento": "trombón",
+      "nota": "temas 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Ed Calle",
+      "instrumento": "saxo tenor",
+      "nota": "temas 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Bob McChesney",
+      "instrumento": "trombón",
+      "nota": "temas 10"
+    },
+    {
       "musico": "sandoval",
       "nombre": "Arturo Sandoval",
-      "instrumento": "trompeta"
+      "instrumento": "voz",
+      "nota": "temas 11"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "latino"
   ],
@@ -49,10 +158,16 @@
     "Homenaje a Dizzy Gillespie, su mentor. Sandoval toca temas asociados a Gillespie con una big band y su trompeta de registro altísimo. Está entre los discos esenciales de Arturo Sandoval."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "56980ccd-9ef9-4d13-b00a-9c470513e53f",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 398c659f-2bcb-425e-9a32-357feb29542d (2012-05-08)."
+    }
+  ]
 }

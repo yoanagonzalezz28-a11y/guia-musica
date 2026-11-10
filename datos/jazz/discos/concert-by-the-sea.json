@@ -36,12 +36,22 @@
   "sello": "Columbia",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Denzil Best",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Eddie Calhoun",
+      "instrumento": "contrabajo"
+    },
+    {
       "musico": "garner",
       "nombre": "Erroll Garner",
-      "instrumento": "piano, composición"
+      "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "swing"
   ],
@@ -49,10 +59,16 @@
     "En vivo en Carmel: uno de los discos de jazz más vendidos de los 50. Garner toca el piano con introducciones largas e impredecibles y un swing alegre, en vivo frente a un público entusiasta. Es el disco clave de Erroll Garner en la etapa \"Swing\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "72641bf6-4da9-3cbc-8a11-2e4f03b571ec",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": "Concert_by_the_Sea"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición ab23f9ba-865c-3324-916c-c3414b9faa6b (1956)."
+    }
+  ]
 }

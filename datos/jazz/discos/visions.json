@@ -37,9 +37,29 @@
       "musico": "aldana",
       "nombre": "Melissa Aldana",
       "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Sam Harris",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Pablo Menares",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Tommy Crane",
+      "instrumento": "batería"
+    },
+    {
+      "musico": "joel-ross",
+      "nombre": "Joel Ross",
+      "instrumento": "vibráfono"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "hoy"
   ],
@@ -50,7 +70,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Visions_(Melissa_Aldana_album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Visions (Melissa Aldana album)\"."
+    }
+  ]
 }

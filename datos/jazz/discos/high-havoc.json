@@ -39,9 +39,54 @@
       "musico": "corduroy",
       "nombre": "Corduroy",
       "instrumento": "grupo"
+    },
+    {
+      "musico": null,
+      "nombre": "Ben Addison",
+      "instrumento": "voz, batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Scott Addison",
+      "instrumento": "voz, teclados, guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Simon Nelson-Smith",
+      "instrumento": "guitarras"
+    },
+    {
+      "musico": null,
+      "nombre": "Richard Searle",
+      "instrumento": "bajo eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Roger Beaujolais",
+      "instrumento": "vibráfono on \"something in my eye\""
+    },
+    {
+      "musico": null,
+      "nombre": "Sherine Abeyratne",
+      "instrumento": "voz on \"something in my eye\""
+    },
+    {
+      "musico": null,
+      "nombre": "Michael Smith",
+      "instrumento": "saxo, flauta"
+    },
+    {
+      "musico": null,
+      "nombre": "Sid Gould",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Dennis Rollins",
+      "instrumento": "trombón"
     }
   ],
-  "personalNota": "Lista parcial.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "acid"
   ],
@@ -52,9 +97,15 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "High_Havoc"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"High Havoc\"."
+    }
+  ],
   "fuentes": [
     "wp-corduroy-band"
   ]

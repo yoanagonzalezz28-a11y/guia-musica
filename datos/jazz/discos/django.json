@@ -39,9 +39,29 @@
       "musico": "mjq",
       "nombre": "Modern Jazz Quartet",
       "instrumento": "piano, vibráfono, contrabajo, batería"
+    },
+    {
+      "musico": "clarke",
+      "nombre": "Kenny Clarke",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Percy Heath",
+      "instrumento": "contrabajo, bajo"
+    },
+    {
+      "musico": "milt-jackson",
+      "nombre": "Milt Jackson",
+      "instrumento": "vibráfono"
+    },
+    {
+      "musico": null,
+      "nombre": "John Lewis",
+      "instrumento": "piano"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "cool"
   ],
@@ -49,10 +69,16 @@
     "El tema de John Lewis en homenaje a Django Reinhardt. El MJQ toca con vibráfono, piano, contrabajo y batería, con una elegancia de música de cámara. En la ficha de Modern Jazz Quartet es el disco que representa la etapa \"Cool\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "d3de7711-5732-34ee-a8aa-86322396628e",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 4e7cc473-d705-3b58-9d92-119b5861ab41 (1956)."
+    }
+  ]
 }

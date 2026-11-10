@@ -39,9 +39,34 @@
       "musico": "ezra-collective",
       "nombre": "Ezra Collective",
       "instrumento": "grupo"
+    },
+    {
+      "musico": null,
+      "nombre": "Joe Armon‐Jones",
+      "instrumento": "teclados"
+    },
+    {
+      "musico": null,
+      "nombre": "Dylan Jones",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Femi Koleoso",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "TJ Koleoso",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "James Mollison",
+      "instrumento": "saxo tenor"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -49,10 +74,16 @@
     "Su debut: groove alegre y vientos fuertes. El grupo de Londres toca afrobeat y jazz con vientos, en temas alegres. En la ficha de Ezra Collective es el disco que representa la etapa \"Jazz de hoy\"."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "ae34420e-0bda-4e3f-a854-d17e0cee3711",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición f9ae9529-d43b-4a05-b9ec-0160b6b88180 (2019-04-26)."
+    }
+  ]
 }

@@ -35,12 +35,33 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Daryl Johns",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Kweku Sumbry",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Micah Thomas",
+      "instrumento": "piano, Mellotron"
+    },
+    {
       "musico": "wilkins",
       "nombre": "Immanuel Wilkins",
       "instrumento": "saxo alto"
+    },
+    {
+      "musico": null,
+      "nombre": "Elena Pinderhughes",
+      "instrumento": "flauta",
+      "nota": "temas 5, 6"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -48,10 +69,16 @@
     "Una suite en siete movimientos que termina en libertad total. Wilkins toca el saxo alto con su cuarteto y el grupo de percusión Farafina Kan en un tema, en una suite larga. Es uno de los discos que el banco elige para conocer a Immanuel Wilkins."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "cbc2535e-b19b-414f-b2ea-6df9c940155f",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición bfb451e7-d551-4753-b5db-20b84666a68e (2022-01-28)."
+    }
+  ]
 }

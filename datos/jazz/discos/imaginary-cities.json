@@ -36,12 +36,62 @@
   "sello": "ECM",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Scott Colley",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Dave Eggar",
+      "instrumento": "violonchelo"
+    },
+    {
+      "musico": null,
+      "nombre": "Fima Ephron",
+      "instrumento": "bajo eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Mark Feldman",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Joyce Hammann",
+      "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Lois Martin",
+      "instrumento": "viola"
+    },
+    {
+      "musico": null,
+      "nombre": "Steve Nelson",
+      "instrumento": "vibráfono, marimba"
+    },
+    {
       "musico": "potter",
       "nombre": "Chris Potter",
-      "instrumento": "saxo tenor, composición"
+      "instrumento": "saxo tenor, saxo soprano, clarinete bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Adam Rogers",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": "taborn",
+      "nombre": "Craig Taborn",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Nate Smith",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "ecm"
   ],
@@ -54,7 +104,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición b9c46f25-ada1-4745-a32d-ad9bb8e89b18 (2015-01-13)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Lament",

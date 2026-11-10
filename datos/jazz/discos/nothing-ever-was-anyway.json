@@ -1,0 +1,84 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Marilyn Crispell Nothing Ever Was, Anyway: Music of Annette Peacock"
+  },
+  "id": "nothing-ever-was-anyway",
+  "titulo": "Nothing Ever Was, Anyway: Music of Annette Peacock",
+  "credito": "Marilyn Crispell",
+  "lideres": [
+    "marilyn-crispell"
+  ],
+  "grabacion": {
+    "desde": 1997,
+    "hasta": 1997,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1997,
+    "detalle": null
+  },
+  "sello": "ECM",
+  "musicos": [
+    {
+      "musico": "marilyn-crispell",
+      "nombre": "Marilyn Crispell",
+      "instrumento": "piano"
+    },
+    {
+      "musico": "motian",
+      "nombre": "Paul Motian",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Gary Peacock",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Annette Peacock",
+      "instrumento": "voz",
+      "nota": "temas 1-6"
+    }
+  ],
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
+  "corrientes": [
+    "ecm",
+    "free"
+  ],
+  "comentario": [
+    "Piano en trío, lento y con mucho espacio, sobre canciones de Annette Peacock. Crispell venía del free más intenso, y acá toca con Gary Peacock y Paul Motian con una calma nueva. Es el disco clave de Marilyn Crispell en la etapa \"ECM y jazz europeo\"."
+  ],
+  "ids": {
+    "musicbrainz": "c2970393-8f59-35f0-8af2-c81640ebb827",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-marilyn-crispell",
+      "acceso": "extracto",
+      "aporta": "Pianista y compositora."
+    },
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 83c1e970-567d-4ba2-9c0a-0ee1c0c70ac5 (1997)."
+    }
+  ]
+}

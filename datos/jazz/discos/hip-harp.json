@@ -1,0 +1,82 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Dorothy Ashby Hip Harp"
+  },
+  "id": "hip-harp",
+  "titulo": "Hip Harp",
+  "credito": "Dorothy Ashby",
+  "lideres": [
+    "dorothy-ashby"
+  ],
+  "grabacion": {
+    "desde": 1958,
+    "hasta": 1958,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 1958,
+    "detalle": null
+  },
+  "sello": "Prestige",
+  "musicos": [
+    {
+      "musico": "dorothy-ashby",
+      "nombre": "Dorothy Ashby",
+      "instrumento": "arpa"
+    },
+    {
+      "musico": null,
+      "nombre": "Art Taylor",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Frank Wess",
+      "instrumento": "flauta"
+    },
+    {
+      "musico": null,
+      "nombre": "Herman Wright",
+      "instrumento": "contrabajo, bajo"
+    }
+  ],
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
+  "corrientes": [
+    "hard-bop"
+  ],
+  "comentario": [
+    "Arpa de jazz con la flauta de Frank Wess, en un hard bop liviano y de mucho swing. Ashby fue la primera en tocar el arpa como un instrumento de improvisación en el jazz moderno. Es uno de los discos que el banco elige para conocer a Dorothy Ashby."
+  ],
+  "ids": {
+    "musicbrainz": "ada63514-a91e-36f1-8ebd-017a04b73f2c",
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-dorothy-ashby",
+      "acceso": "extracto",
+      "aporta": "El arpa como instrumento de improvisación."
+    },
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición b8811393-65b2-4a30-bd81-fb8cdbcae21a (1958)."
+    }
+  ]
+}

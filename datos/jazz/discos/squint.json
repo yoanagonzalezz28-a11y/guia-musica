@@ -36,12 +36,22 @@
   "sello": "Blue Note",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Dave King",
+      "instrumento": "batería"
+    },
+    {
       "musico": "lage",
       "nombre": "Julian Lage",
       "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Jorge Roeder",
+      "instrumento": "bajo"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "hoy"
   ],
@@ -54,7 +64,13 @@
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 0e2d8d50-b2aa-4268-9d9a-eaf04b56c1bf (2021-06-11)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Etude",

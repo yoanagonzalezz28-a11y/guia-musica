@@ -34,12 +34,39 @@
   "sello": "Verve",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Avi Bortnick",
+      "instrumento": "guitarra eléctrica, sampler, guitarra acústica"
+    },
+    {
+      "musico": null,
+      "nombre": "Adam Deitch",
+      "instrumento": "batería, voz, percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "John Medeski",
+      "instrumento": "clavinet, órgano Hammond, Mellotron",
+      "nota": "temas 1, 2, 5, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Jesse Murphy",
+      "instrumento": "bajo"
+    },
+    {
       "musico": "scofield",
       "nombre": "John Scofield",
-      "instrumento": "guitarra"
+      "instrumento": "guitarra eléctrica"
+    },
+    {
+      "musico": null,
+      "nombre": "Karl Denson",
+      "instrumento": "flauta, saxo",
+      "nota": "temas 2, 9"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "fusion"
   ],
@@ -47,10 +74,16 @@
     "Scofield toca funk con un grupo que suma samples y electrónica, con su guitarra sucia y bluesera encima. Marca su giro hacia el jam y el funk de club, con Avi Bortnick en guitarra rítmica y samples. Está entre los discos esenciales de John Scofield."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "6f24410d-370c-303a-8671-667efbd1df92",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición e8ad7227-89fa-45fc-9c4d-2321ace49a17 (2002-01-29)."
+    }
+  ]
 }

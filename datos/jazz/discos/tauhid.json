@@ -36,12 +36,37 @@
   "sello": "Impulse!",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Nat Bettis",
+      "instrumento": "percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Roger Blank",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Dave Burrell",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Henry Grimes",
+      "instrumento": "bajo"
+    },
+    {
       "musico": "sanders",
       "nombre": "Pharoah Sanders",
-      "instrumento": "saxo tenor"
+      "instrumento": "saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Sonny Sharrock",
+      "instrumento": "guitarra"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "free"
   ],
@@ -54,7 +79,13 @@
     "wikidata": null,
     "wikipedia": "Tauhid_(album)"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición ec411233-9493-33fe-a04c-e4d30bdf35c9 (1967)."
+    }
+  ],
   "temas": [
     {
       "titulo": "Upper Egypt & Lower Egypt - Medley",

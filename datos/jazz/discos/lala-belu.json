@@ -36,12 +36,22 @@
   "sello": "Awesome Tapes from Africa",
   "musicos": [
     {
+      "musico": null,
+      "nombre": "Tony Buck",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Mike Majkowski",
+      "instrumento": "contrabajo"
+    },
+    {
       "musico": "hailu",
       "nombre": "Hailu Mergia",
-      "instrumento": "teclados, acordeón"
+      "instrumento": "teclados, acordeón, melódica"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "mundo"
   ],
@@ -49,10 +59,16 @@
     "Teclados y acordeón en trío, en temas etíopes con un sonido renovado. Fue su primer disco nuevo en más de veinte años. Es uno de los discos que el banco elige para conocer a Hailu Mergia."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "472ec5ab-c679-430b-9d7f-a6685ac20d77",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 4791710a-7ca4-4070-83bd-26feef32fbb0 (2018-02-23)."
+    }
+  ]
 }

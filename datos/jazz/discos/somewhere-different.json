@@ -1,0 +1,62 @@
+{
+  "revision": {
+    "estado": "borrador",
+    "gioia": "pendiente"
+  },
+  "verificacion": "sin-verificar",
+  "discrepancias": [],
+  "regiones": [
+    "estados-unidos"
+  ],
+  "compilacion": false,
+  "tipo": "estudio",
+  "catalogo": null,
+  "lugar": null,
+  "spotify": {
+    "estado": "busqueda",
+    "consulta": "Brandee Younger Somewhere Different"
+  },
+  "id": "somewhere-different",
+  "titulo": "Somewhere Different",
+  "credito": "Brandee Younger",
+  "lideres": [
+    "brandee-younger"
+  ],
+  "grabacion": {
+    "desde": 2021,
+    "hasta": 2021,
+    "detalle": null
+  },
+  "edicion": {
+    "anio": 2021,
+    "detalle": null
+  },
+  "sello": "Impulse!",
+  "musicos": [
+    {
+      "musico": "brandee-younger",
+      "nombre": "Brandee Younger",
+      "instrumento": "arpa, composición"
+    }
+  ],
+  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "corrientes": [
+    "hoy"
+  ],
+  "comentario": [
+    "Arpa con un grupo de jazz y soul, en temas propios cálidos y de mucho groove. Fue su debut en Impulse!, el sello de Alice Coltrane, una de sus grandes influencias. Es el disco clave de Brandee Younger en la etapa \"Jazz de hoy\"."
+  ],
+  "ids": {
+    "musicbrainz": null,
+    "discogsMaster": null,
+    "wikidata": null,
+    "wikipedia": null
+  },
+  "respaldo": [
+    {
+      "fuente": "wp-brandee-younger",
+      "acceso": "extracto",
+      "aporta": "Arpista y compositora."
+    }
+  ]
+}

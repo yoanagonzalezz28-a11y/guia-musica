@@ -38,10 +38,43 @@
     {
       "musico": "coryell",
       "nombre": "Larry Coryell",
-      "instrumento": "guitarra"
+      "instrumento": "piano, guitarra, piano eléctrico"
+    },
+    {
+      "musico": null,
+      "nombre": "Mike Mandel",
+      "instrumento": "órgano, piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Jim Pepper",
+      "instrumento": "flauta"
+    },
+    {
+      "musico": null,
+      "nombre": "Bernard “Pretty” Purdie",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Chuck Rainey",
+      "instrumento": "bajo",
+      "nota": "temas 1, 4, 5, 6"
+    },
+    {
+      "musico": "ronc",
+      "nombre": "Ron Carter",
+      "instrumento": "bajo",
+      "nota": "temas 2, 7"
+    },
+    {
+      "musico": null,
+      "nombre": "Albert Stinson",
+      "instrumento": "bajo",
+      "nota": "temas 3, 5"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según los créditos de MusicBrainz, con los temas en que toca cada músico cuando no toca en todos.",
   "corrientes": [
     "fusion"
   ],
@@ -49,10 +82,16 @@
     "Coryell toca la guitarra con distorsión y frases de rock, en un jazz que anticipa la fusión. Es de 1969, el mismo año de *In a Silent Way*, cuando el cruce entre jazz y rock todavía estaba empezando. Está entre los discos esenciales de Larry Coryell."
   ],
   "ids": {
-    "musicbrainz": null,
+    "musicbrainz": "b4a987e7-3515-3dc2-a178-74a9cc027024",
     "discogsMaster": null,
     "wikidata": null,
     "wikipedia": null
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "mb-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la edición 102ce20f-c609-4208-94f8-e561d3ec472d (1969)."
+    }
+  ]
 }
