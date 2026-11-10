@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Bix Beiderbecke and the Wolverines Bix Beiderbecke"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5QsdLXsVPrif1i2x5btY8u",
+    "tituloEnSpotify": "Bix Beiderbecke and the Wolverines 1924-1925 (feat. Sioux City Six and Rhythm Jugglers)",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "bix-beiderbecke-and-the-wolverines",
   "titulo": "Bix Beiderbecke and the Wolverines",

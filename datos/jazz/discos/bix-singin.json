@@ -15,8 +15,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Bix Beiderbecke Singin' the Blues"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4aEFtKgSKCYlG9DzE58sue",
+    "tituloEnSpotify": "Singin' The Blues",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "bix-singin",
   "titulo": "Singin' the Blues",

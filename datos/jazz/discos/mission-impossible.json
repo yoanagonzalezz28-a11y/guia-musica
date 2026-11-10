@@ -14,8 +14,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Mission: Impossible Lalo Schifrin"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1hlJHhw9dE9azNR1Oc408P",
+    "tituloEnSpotify": "Mission Impossible Main Theme (From ''Mission Impossible'') [Piano Version]",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "mission-impossible",
   "titulo": "Mission: Impossible",

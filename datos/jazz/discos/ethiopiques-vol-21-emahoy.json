@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Éthiopiques, Vol. 21: Emahoy Emahoy Tsegué-Maryam Guèbrou"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4OYhJgrDTR74Yo4SE8Exdk",
+    "via": "manual-yoana"
   },
   "id": "ethiopiques-vol-21-emahoy",
   "titulo": "Éthiopiques, Vol. 21: Emahoy",

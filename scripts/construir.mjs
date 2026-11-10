@@ -156,7 +156,10 @@ const actividadDe = id => g.regiones.flatMap(r => (r.escenaActual || []).filter(
 const enlaceMusico = (ctx, id) => { const m = g.por.musico.get(id); return `<a href="${ctx.a(URL.musico(id))}">${esc(m.nombre)}</a>`; };
 const enlaceCorriente = (ctx, id) => { const c = g.por.corriente.get(id); return `<a href="${ctx.a(URL.corriente(id))}">${esc(c.nombre)}</a>`; };
 const enlaceRegion = (ctx, id) => { const r = g.por.region.get(id); return `<a href="${ctx.a(URL.region(id))}">${esc(r.nombre)}</a>`; };
-const enlaceSpotify = d => d.spotify.estado === 'verificado'
+// "fuera": el disco no está en Spotify por decisión del artista; el botón lleva a la alternativa oficial.
+const enlaceSpotify = d => d.spotify.estado === 'fuera'
+  ? { url: d.spotify.alternativas[0].url, texto: d.spotify.alternativas[0].texto, verificado: true, fuera: true }
+  : d.spotify.estado === 'verificado'
   ? { url: d.spotify.url, texto: 'Escuchar en Spotify', verificado: true }
   : { url: `https://open.spotify.com/search/${encodeURIComponent(d.spotify.consulta)}/albums`, texto: 'Buscar en Spotify', verificado: false };
 
@@ -557,7 +560,7 @@ const construir = {
       <div class="contratapa-grilla">
         <div class="notas-tapa lectura">${d.compilacion ? `<p class="nota-datos">${textoRecopilacion(ctx, d)}</p>` : ''}${notas}
           <p><a class="boton" href="${esc(sp.url)}" rel="noopener">${sp.texto}</a></p>
-          ${sp.verificado ? (d.spotify.tituloEnSpotify && d.spotify.tituloEnSpotify !== d.titulo ? `<p class="ayuda">En Spotify figura como "${esc(d.spotify.tituloEnSpotify)}".</p>` : '') : '<p class="ayuda">Todavía no confirmamos un álbum exacto en Spotify, así que este link abre una búsqueda.</p>'}
+          ${sp.fuera ? `<p class="ayuda">${esc(d.spotify.motivo)}${d.spotify.alternativas.slice(1).map(a => ` <a href="${esc(a.url)}" rel="noopener">${esc(a.texto)}</a>.`).join('')}</p>` : sp.verificado ? (d.spotify.tituloEnSpotify && d.spotify.tituloEnSpotify !== d.titulo ? `<p class="ayuda">En Spotify figura como "${esc(d.spotify.tituloEnSpotify)}".</p>` : '') : '<p class="ayuda">Todavía no confirmamos un álbum exacto en Spotify, así que este link abre una búsqueda.</p>'}
         </div>
         <div class="columna-datos">
           <section class="marcas-disco" data-marca="disco:${d.id}" data-marca-titulo="${esc(d.titulo)}" aria-label="Tus marcas">

@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Kid Ory's Creole Jazz Band 1944–45 Kid Ory"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4mIYnZMmGaz0WtxkMv25mm",
+    "tituloEnSpotify": "Kid Ory's Creole Jazz Band 1944/45",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "kid-ory-s-creole-jazz-band-1944-45",
   "titulo": "Kid Ory's Creole Jazz Band 1944–45",

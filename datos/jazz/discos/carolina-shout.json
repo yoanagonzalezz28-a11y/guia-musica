@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Carolina Shout James P. Johnson"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/29hp0RvVAnivvxBBO8IhCk",
+    "tituloEnSpotify": "Carolina Shout",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "carolina-shout",
   "titulo": "Carolina Shout",

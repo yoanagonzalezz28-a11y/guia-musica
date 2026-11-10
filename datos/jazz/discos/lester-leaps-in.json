@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Lester Leaps In Lester Young"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1LtIvwJX12tEex2JTHrbX9",
+    "tituloEnSpotify": "Lester Leaps In",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "lester-leaps-in",
   "titulo": "Lester Leaps In",

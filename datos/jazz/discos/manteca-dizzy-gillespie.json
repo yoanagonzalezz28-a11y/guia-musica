@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Manteca (Dizzy Gillespie) Chano Pozo"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/51BNm1udeJR0Qiky9fXkKG",
+    "tituloEnSpotify": "Manteca (Remastered)",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "manteca-dizzy-gillespie",
   "titulo": "Manteca (Dizzy Gillespie)",

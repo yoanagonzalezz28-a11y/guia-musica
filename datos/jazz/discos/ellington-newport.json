@@ -15,8 +15,11 @@
   "catalogo": null,
   "lugar": "Festival de Newport, Rhode Island",
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Ellington at Newport 1956"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0t41BkcZayaAsa0FdRelfz",
+    "tituloEnSpotify": "Ellington at Newport 1956 (Complete)",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "ellington-newport",
   "titulo": "Ellington at Newport",

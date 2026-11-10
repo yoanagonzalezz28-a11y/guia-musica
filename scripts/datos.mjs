@@ -189,7 +189,9 @@ export function validar(g, fuentes) {
       if (!/^https:\/\/open\.spotify\.com\/album\/[A-Za-z0-9]{22}$/.test(x.spotify.url || '')) err(d, 'link de Spotify con formato inválido');
     } else if (x.spotify.estado === 'busqueda') {
       if (!x.spotify.consulta) aviso(d, 'la búsqueda de Spotify necesita una consulta');
-    } else aviso(d, 'spotify.estado debe ser "verificado" o "busqueda"');
+    } else if (x.spotify.estado === 'fuera') {
+      if (!x.spotify.motivo || !(x.spotify.alternativas || []).length || x.spotify.alternativas.some(l => !/^https:\/\/\S+$/.test(l.url))) err(d, 'un disco fuera de Spotify necesita motivo y links alternativos válidos');
+    } else aviso(d, 'spotify.estado debe ser "verificado", "busqueda" o "fuera"');
   }
 
   for (const m of g.musicos) {

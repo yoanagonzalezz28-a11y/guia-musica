@@ -91,36 +91,56 @@ function titulosDe(d) {
   return [...t].filter(Boolean);
 }
 
-// Seguro: coincide el artista y el título es el mismo. Dudoso: título parecido, simple, o grabación anterior a 1950
-// cuya edición en Spotify puede ser otra recopilación. Entre varias ediciones: la del año original, si no la remasterizada más completa.
+// Criterio (desde el 10/11/2026): si el artista coincide y el título es muy parecido, se aplica.
+// "Muy parecido" ignora subtítulos, "Remastered", "Deluxe", "Vol.", tildes, mayúsculas y el orden de las palabras.
+// Se aceptan reediciones y versiones ampliadas. Un simple solo vale si el disco del banco es anterior a 1950
+// (en esa época cada "disco" del banco suele ser un tema de 78 rpm); si no, es el tema del título y no el álbum.
+const palabras = s => new Set(base(sinSubtitulo(s)).split(' ').filter(w => w && w !== 'vol' && w !== 'volume'));
+function parecidos(a, b) {
+  const A = palabras(a), B = palabras(b);
+  if (!A.size || !B.size) return false;
+  // Si los números no coinciden (Vol. 1 y Vol. 2, Jazz batá y Jazz batá 2), es otro disco.
+  const nums = X => [...X].filter(w => /^d+$/.test(w)).sort().join(' ');
+  if (nums(A) !== nums(B)) return false;
+  const comunes = [...A].filter(w => B.has(w)).length;
+  return comunes / Math.min(A.size, B.size) >= 0.8 && comunes / Math.max(A.size, B.size) >= 0.5;
+}
+const mismoArtista = (x, y) => x === y || (x.length > 3 && y.length > 3 && (x.includes(y) || y.includes(x))) ||
+  (() => { const A = new Set(x.split(' ')), B = new Set(y.split(' ')); const c = [...A].filter(w => w.length > 2 && B.has(w)).length; return c >= 2 || (c === 1 && Math.min(A.size, B.size) === 1); })();
 function evaluar(d, items) {
   const artistas = artistasDe(d).map(artistaBase).filter(Boolean);
-  const titulos = titulosDe(d).map(base).filter(Boolean);
+  const titulos = titulosDe(d).filter(Boolean);
   const anio = d.edicion.anio;
   const candidatos = [];
   for (const a of items) {
     if (!a) continue;
-    const arts = a.artists.map(x => artistaBase(x.name));
-    if (!arts.some(x => artistas.some(y => x === y || (x.length > 3 && y.length > 3 && (x.includes(y) || y.includes(x)))))) continue;
-    const t = base(a.name);
-    const exacto = titulos.includes(t);
-    const parecido = !exacto && titulos.some(y => y.length >= 4 && (t.startsWith(y) || y.startsWith(t)) && Math.min(t.length, y.length) / Math.max(t.length, y.length) > 0.5);
-    if (!exacto && !parecido) continue;
+    if (!a.artists.map(x => artistaBase(x.name)).some(x => artistas.some(y => mismoArtista(x, y)))) continue;
+    const exacto = titulos.map(base).includes(base(a.name));
+    if (!exacto && !titulos.some(t => parecidos(t, a.name))) continue;
+    if (a.album_type === 'single' && a.total_tracks < 4 && anio >= 1950) continue;
     const anioA = +String(a.release_date).slice(0, 4);
-    const motivo = !exacto ? 'el título no es exactamente el mismo'
-      : anio < 1950 && Math.abs(anioA - anio) > 5 ? `grabación de ${anio}; la edición de Spotify es de ${anioA} y puede ser otra recopilación`
-        : a.album_type === 'single' ? 'en Spotify figura como simple' : null;
-    candidatos.push({ url: `https://open.spotify.com/album/${a.id}`, titulo: a.name, artistas: a.artists.map(x => x.name).join(', '), anio: anioA, pistas: a.total_tracks, motivo, remaster: /remaster/i.test(a.name) });
+    candidatos.push({ url: `https://open.spotify.com/album/${a.id}`, titulo: a.name, artistas: a.artists.map(x => x.name).join(', '), anio: anioA, pistas: a.total_tracks, exacto, remaster: /remaster/i.test(a.name) });
   }
   if (!candidatos.length) return null;
-  candidatos.sort((x, y) => (!!x.motivo - !!y.motivo) || ((y.anio === anio) - (x.anio === anio)) || (y.remaster - x.remaster) || (y.pistas - x.pistas));
-  const { remaster, ...c } = candidatos[0];
-  return { estado: c.motivo ? 'dudoso' : 'seguro', ...c };
+  candidatos.sort((x, y) => (y.exacto - x.exacto) || ((y.anio === anio) - (x.anio === anio)) || (y.remaster - x.remaster) || (y.pistas - x.pistas));
+  const { remaster, exacto, ...c } = candidatos[0];
+  return { estado: exacto && (c.anio === anio || anio >= 1950) ? 'seguro' : 'similitud', ...c, criterio: 2 };
 }
+
+// Los dudosos de la primera vuelta ya tienen su candidato: se vuelven a juzgar con el criterio nuevo sin consultar la API.
+for (const [id, r] of Object.entries(res)) {
+  if (r.estado !== 'dudoso') continue;
+  const d = fs.existsSync(`${J}/discos/${id}.json`) ? leer(`${J}/discos/${id}.json`) : null;
+  if (!d) continue;
+  const simple = /simple/.test(r.motivo || '');
+  res[id] = simple && d.edicion.anio >= 1950 ? { estado: 'no', revisar: true } : { ...r, estado: 'similitud', criterio: 2 };
+}
+// Los que no aparecieron con el criterio viejo se vuelven a buscar una vez con el nuevo.
+for (const [id, r] of Object.entries(res)) if (r.estado === 'no' && r.criterio !== 2) delete res[id];
 
 // ---------- Búsqueda ----------
 const discos = () => fs.readdirSync(`${J}/discos`).map(f => leer(`${J}/discos/${f}`));
-const porBuscar = discos().filter(d => d.spotify.estado !== 'verificado' && !res[d.id]);
+const porBuscar = discos().filter(d => !['verificado', 'fuera'].includes(d.spotify.estado) && !res[d.id]);
 console.log(`${Object.keys(res).length} discos ya buscados; quedan ${porBuscar.length}.`);
 let n = 0, limitado = null;
 try {
@@ -134,11 +154,11 @@ try {
       const items = await buscar(q);
       if (items === null) { fallo = true; break; }
       const r = evaluar(d, items);
-      if (r && (!mejor || (mejor.estado === 'dudoso' && r.estado === 'seguro'))) mejor = r;
+      if (r && (!mejor || (mejor.estado === 'similitud' && r.estado === 'seguro'))) mejor = r;
       if (mejor?.estado === 'seguro') break;
     }
     if (fallo && !mejor) continue; // sin respuesta: queda para la próxima vuelta
-    res[d.id] = mejor || { estado: 'no' };
+    res[d.id] = mejor || { estado: 'no', criterio: 2 };
     if (++n % 25 === 0) { guardar(); console.log(`${n} de ${porBuscar.length}`); }
   }
 } catch (e) {
@@ -148,14 +168,16 @@ try {
 guardar();
 
 // ---------- Aplicar y escribir la lista ----------
-let aplicados = 0; const dudosos = [], sin = [], pendientes = [];
+let aplicados = 0; const dudosos = [], sin = [], pendientes = [], similitud = [];
 for (const d of discos()) {
-  if (d.spotify.estado === 'verificado') continue;
+  if (['verificado', 'fuera'].includes(d.spotify.estado)) continue;
   const r = res[d.id];
   const x = { d, importancia: importanciaDe(d), motivo: esencial.get(d.id) || clave.get(d.id) || cinco.get(d.id) || (d.corrientes[0] ? `discografía de ${nombreC[d.corrientes[0]]}` : ''), r };
-  if (r?.estado === 'seguro') {
-    d.spotify = { estado: 'verificado', url: r.url, tituloEnSpotify: r.titulo, via: 'api-spotify' };
+  if (r?.estado === 'seguro' || r?.estado === 'similitud') {
+    // "porSimilitud" queda solo en los datos: el sitio no lo muestra.
+    d.spotify = { estado: 'verificado', url: r.url, tituloEnSpotify: r.titulo, via: 'api-spotify', ...(r.estado === 'similitud' ? { porSimilitud: true } : {}) };
     fs.writeFileSync(`${J}/discos/${d.id}.json`, JSON.stringify(d, null, 2) + '\n'); aplicados++;
+    if (r.estado === 'similitud') similitud.push(x);
   } else if (r?.estado === 'dudoso') dudosos.push(x);
   else if (r?.estado === 'no') sin.push(x);
   else pendientes.push(x);
@@ -167,17 +189,30 @@ const resumen = l => `${l.length} (${cuenta(l, 'Alta')} alta, ${cuenta(l, 'Media
 const limpio = s => String(s).replace(/\|/g, '/');
 const fila = x => `| ${limpio(x.d.titulo)} | ${limpio(x.d.credito)} | ${x.d.edicion.anio} | ${x.importancia} | ${x.motivo} |`;
 const totalApi = discos().filter(d => d.spotify.via === 'api-spotify').length;
+const totalSimilitud = discos().filter(d => d.spotify.porSimilitud).length;
+// Muestra para revisar: uno de cada tantos, para que entren unos veinte.
+const todosSimilitud = discos().filter(d => d.spotify.porSimilitud).sort((a, b) => a.edicion.anio - b.edicion.anio);
+const paso = Math.max(1, Math.ceil(todosSimilitud.length / 20));
+const muestra = todosSimilitud.filter((_, i) => i % paso === 0);
 fs.writeFileSync(DOC, `# Discos sin link exacto de Spotify
 
 Actualizado el ${new Date().toISOString().slice(0, 10)} con \`npm run spotify\` (búsqueda en la API de Spotify).
 
-- **Encontrados y aplicados con la API:** ${totalApi}.
+- **Encontrados y aplicados con la API:** ${totalApi}, de los cuales ${totalSimilitud} se aplicaron por similitud.
 - **Dudosos, para revisar:** ${resumen(dudosos)}. No se aplicaron.
 - **Sin aparecer:** ${resumen(sin)}.${pendientes.length ? `\n- **Todavía sin buscar:** ${pendientes.length}. Spotify limitó las consultas; hay que volver a correr \`npm run spotify\`${limitado ? ` después del ${limitado}` : ''}.` : ''}
 
-Cómo se buscó: por artista y título, con variantes (sin subtítulo, sin "Vol.", con el título original, sin los agregados de reedición o edición ampliada) y con el nombre del líder cuando el crédito es de un grupo. Un resultado se acepta solo si coincide el artista y el título es el mismo disco; entre varias ediciones se prefiere la del año original y, si no, la remasterizada más completa.
+Cómo se buscó: por artista y título, con variantes (sin subtítulo, sin "Vol.", con el título original, sin los agregados de reedición o edición ampliada) y con el nombre del líder cuando el crédito es de un grupo. Desde el 10/11/2026 se aplica directo si coincide el artista y el título es muy parecido (sin importar subtítulos, "Remastered", "Deluxe", "Vol.", tildes, mayúsculas ni el orden de las palabras), incluidas las reediciones y versiones ampliadas. Esos casos quedan marcados en los datos como \`porSimilitud\`; el sitio no lo muestra. Un simple solo se acepta si el disco del banco es anterior a 1950.
 
 Importancia: **alta**, disco para empezar una época o disco clave de una etapa de un músico; **media**, entre los esenciales de un músico; **baja**, completa la discografía.
+
+## Aplicados por similitud: muestra para revisar
+
+Son ${totalSimilitud}. Esta es una muestra de ${muestra.length}, repartida por épocas. Si alguno está mal, alcanza con decir cuál.
+
+| Título en el banco | Artista | Año | Quedó en Spotify como |
+|---|---|---|---|
+${muestra.map(d => `| ${limpio(d.titulo)} | ${limpio(d.credito)} | ${d.edicion.anio} | [${limpio(d.spotify.tituloEnSpotify)}](${d.spotify.url}) |`).join('\n')}
 
 ## Dudosos: revisar el link candidato
 

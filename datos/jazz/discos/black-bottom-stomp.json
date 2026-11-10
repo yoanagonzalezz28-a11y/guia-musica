@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Black Bottom Stomp Jelly Roll Morton"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1IwGyAJu5sLWH7FgRffOOL",
+    "tituloEnSpotify": "Black Bottom Stomp",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "black-bottom-stomp",
   "titulo": "Black Bottom Stomp",

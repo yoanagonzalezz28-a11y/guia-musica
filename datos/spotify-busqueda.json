@@ -38,11 +38,6 @@
   "importancia": "Media",
   "consultas": 1
  },
- "3rd-perspective": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
- },
  "52nd-street-themes": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/2JVMFtlPtdyXOtei4K16pJ",
@@ -56,16 +51,6 @@
   "importancia": "Media",
   "consultas": 1
  },
- "8-bitar-johansson": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
- },
- "944-columbus": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
- },
  "a-go-go": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/08JMKtDS0StcwDUgdxKIw3",
@@ -78,11 +63,6 @@
   "remaster": false,
   "importancia": "Media",
   "consultas": 1
- },
- "a-joyful-noise-unto-the-creator": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
  },
  "a-musica-livre-de-hermeto-pascoal": {
   "estado": "seguro",
@@ -111,7 +91,7 @@
   "consultas": 1
  },
  "a-new-sound-a-new-star": {
-  "estado": "dudoso",
+  "estado": "similitud",
   "url": "https://open.spotify.com/album/02cUX7Udkis3DhxbfgpBHD",
   "titulo": "A New Sound - A New Star, Vol. 1",
   "artistas": "Jimmy Smith",
@@ -121,7 +101,8 @@
   "motivo": "el título no es exactamente el mismo",
   "remaster": false,
   "importancia": "Media",
-  "consultas": 2
+  "consultas": 2,
+  "criterio": 2
  },
  "a-place-in-time": {
   "estado": "seguro",
@@ -147,11 +128,6 @@
   "motivo": null,
   "remaster": false,
   "importancia": "Media",
-  "consultas": 2
- },
- "a-study-in-dameronia": {
-  "estado": "no",
-  "importancia": "Alta",
   "consultas": 2
  },
  "a-study-in-frustration": {
@@ -193,11 +169,6 @@
   "importancia": "Media",
   "consultas": 3
  },
- "a-tisket-a-tasket": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
- },
  "abbey-is-blue": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/0iB0NXkmIxevlpf2v2OWug",
@@ -210,11 +181,6 @@
   "remaster": false,
   "importancia": "Media",
   "consultas": 1
- },
- "abbey-sings-abbey": {
-  "estado": "no",
-  "importancia": "Alta",
-  "consultas": 2
  },
  "absence": {
   "estado": "seguro",
@@ -241,19 +207,6 @@
   "remaster": false,
   "importancia": "Media",
   "consultas": 1
- },
- "absolute-zero": {
-  "estado": "dudoso",
-  "url": "https://open.spotify.com/album/5vAzQd9UFg9BYfALSAuiK1",
-  "titulo": "Absolute Zero",
-  "artistas": "Moses Boyd",
-  "anio": 2017,
-  "pistas": 4,
-  "tipo": "single",
-  "motivo": "en Spotify figura como simple",
-  "remaster": false,
-  "importancia": "Media",
-  "consultas": 2
  },
  "abstract": {
   "estado": "seguro",
@@ -307,11 +260,6 @@
   "importancia": "Alta",
   "consultas": 1
  },
- "acoustic-moments": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
- },
  "adama": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/4ULARiATgVtmcRoqOv3Kpe",
@@ -351,11 +299,6 @@
   "importancia": "Alta",
   "consultas": 1
  },
- "africadeus": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
- },
  "african-piano": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/0wVkwyXwehVFZRv87c1DoE",
@@ -369,11 +312,6 @@
   "importancia": "Media",
   "consultas": 1
  },
- "afro-american-sketches": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
- },
  "afro-caribbean-mixtape": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/5AEdjCWVy16ZX8eo2Cwy6L",
@@ -386,24 +324,6 @@
   "remaster": false,
   "importancia": "Media",
   "consultas": 1
- },
- "afro-cuban-jazz-moods": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
- },
- "afro-cuban-jazz-suite": {
-  "estado": "dudoso",
-  "url": "https://open.spotify.com/album/2CMOaUtQPVikA79EpOHv73",
-  "titulo": "Afro-Cuban Jazz Suite",
-  "artistas": "Machito Orchestra",
-  "anio": 1951,
-  "pistas": 6,
-  "tipo": "single",
-  "motivo": "en Spotify figura como simple",
-  "remaster": false,
-  "importancia": "Media",
-  "consultas": 4
  },
  "afro-jaws": {
   "estado": "seguro",
@@ -457,18 +377,8 @@
   "importancia": "Media",
   "consultas": 1
  },
- "aguia-nao-come-mosca": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
- },
- "ahmad-jamal-at-the-blackhawk": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
- },
  "ain-t-misbehavin-the-best-of-fats-waller": {
-  "estado": "dudoso",
+  "estado": "similitud",
   "url": "https://open.spotify.com/album/5RYNGRkTsWggVORQEK296D",
   "titulo": "Ain't Misbehavin'",
   "artistas": "Fats Waller and His Orchestra",
@@ -478,10 +388,11 @@
   "motivo": "grabación de 1943; la edición de Spotify es de 2017 y puede ser otra recopilación",
   "remaster": false,
   "importancia": "Media",
-  "consultas": 4
+  "consultas": 4,
+  "criterio": 2
  },
  "ain-t-misbehavin": {
-  "estado": "dudoso",
+  "estado": "similitud",
   "url": "https://open.spotify.com/album/1y1wNvEbScPOdpuhZZx7gQ",
   "titulo": "Ain't Misbehavin'",
   "artistas": "Fats Waller",
@@ -491,12 +402,8 @@
   "motivo": "en Spotify figura como simple",
   "remaster": false,
   "importancia": "Alta",
-  "consultas": 2
- },
- "air-above-mountains": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
+  "consultas": 2,
+  "criterio": 2
  },
  "album-album": {
   "estado": "seguro",
@@ -654,11 +561,6 @@
   "importancia": "Media",
   "consultas": 1
  },
- "art-of-trio-3": {
-  "estado": "no",
-  "importancia": "Alta",
-  "consultas": 4
- },
  "art-pepper-eleven": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/40ZjxKQt07URZv51dqacUr",
@@ -684,11 +586,6 @@
   "remaster": false,
   "importancia": "Media",
   "consultas": 1
- },
- "as-serenity-approaches": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
  },
  "ascension": {
   "estado": "seguro",
@@ -742,32 +639,6 @@
   "importancia": "Media",
   "consultas": 2
  },
- "at-the-five-spot-vol-1": {
-  "estado": "dudoso",
-  "url": "https://open.spotify.com/album/1CwWqZ21WMLbOLPd9QsTCW",
-  "titulo": "At the Five Spot, Vol. 2 [Rudy Van Gelder Remaster]",
-  "artistas": "Eric Dolphy",
-  "anio": 1963,
-  "pistas": 4,
-  "tipo": "album",
-  "motivo": "el título no es exactamente el mismo",
-  "remaster": true,
-  "importancia": "Media",
-  "consultas": 4
- },
- "at-the-golden-circle-stockholm-vol-1": {
-  "estado": "dudoso",
-  "url": "https://open.spotify.com/album/48SGjYTh92QLwPHngKf3Bs",
-  "titulo": "At The \"Golden Circle\" Stockholm Vol. 2 (The Rudy Van Gelder Edition)",
-  "artistas": "Ornette Coleman Trio",
-  "anio": 1966,
-  "pistas": 7,
-  "tipo": "album",
-  "motivo": "el título no es exactamente el mismo",
-  "remaster": false,
-  "importancia": "Alta",
-  "consultas": 4
- },
  "at-the-pershing-but-not-for-me": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/4kbD6uvXwMkSxag25Sv8RX",
@@ -780,24 +651,6 @@
   "remaster": true,
   "importancia": "Alta",
   "consultas": 1
- },
- "at-the-point-vol-2": {
-  "estado": "dudoso",
-  "url": "https://open.spotify.com/album/7wo0qrBT6ag1PxrIyFfaNd",
-  "titulo": "At the Point V. Two",
-  "artistas": "Papo Vazquez",
-  "anio": 2000,
-  "pistas": 6,
-  "tipo": "album",
-  "motivo": "el título no es exactamente el mismo",
-  "remaster": false,
-  "importancia": "Media",
-  "consultas": 4
- },
- "atma": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
  },
  "azucar-pa-ti": {
   "estado": "seguro",
@@ -850,11 +703,6 @@
   "remaster": false,
   "importancia": "Alta",
   "consultas": 1
- },
- "ballet-etudes-the-music-of-komeda": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
  },
  "bar-talk": {
   "estado": "seguro",
@@ -934,11 +782,6 @@
   "importancia": "Media",
   "consultas": 1
  },
- "bebo-de-cuba": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
- },
  "bebo-rides-again": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/0k4NZSAhdnjrsoJOB0gwLN",
@@ -964,19 +807,6 @@
   "remaster": false,
   "importancia": "Media",
   "consultas": 1
- },
- "bells": {
-  "estado": "dudoso",
-  "url": "https://open.spotify.com/album/6DeMZOhFkZQcAeIeXtZ1k4",
-  "titulo": "Bells",
-  "artistas": "Albert Ayler",
-  "anio": 2005,
-  "pistas": 1,
-  "tipo": "single",
-  "motivo": "en Spotify figura como simple",
-  "remaster": false,
-  "importancia": "Media",
-  "consultas": 2
  },
  "benny-goodman-sextet": {
   "estado": "seguro",
@@ -1004,13 +834,8 @@
   "importancia": "Media",
   "consultas": 1
  },
- "birds-of-fire": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
- },
  "bix-beiderbecke-and-the-wolverines": {
-  "estado": "dudoso",
+  "estado": "similitud",
   "url": "https://open.spotify.com/album/5QsdLXsVPrif1i2x5btY8u",
   "titulo": "Bix Beiderbecke and the Wolverines 1924-1925 (feat. Sioux City Six and Rhythm Jugglers)",
   "artistas": "Bix Beiderbecke, The Wolverines",
@@ -1020,10 +845,11 @@
   "motivo": "el título no es exactamente el mismo",
   "remaster": false,
   "importancia": "Media",
-  "consultas": 2
+  "consultas": 2,
+  "criterio": 2
  },
  "bix-beiderbecke-vol-1-singin-the-blues": {
-  "estado": "dudoso",
+  "estado": "similitud",
   "url": "https://open.spotify.com/album/5fbyrOkch1VqWrAoAZ7YXC",
   "titulo": "The Bix Beiderbecke Story, Vol. 1",
   "artistas": "Bix Beiderbecke and His Gang",
@@ -1033,10 +859,11 @@
   "motivo": "el título no es exactamente el mismo",
   "remaster": false,
   "importancia": "Alta",
-  "consultas": 8
+  "consultas": 8,
+  "criterio": 2
  },
  "bix-singin": {
-  "estado": "dudoso",
+  "estado": "similitud",
   "url": "https://open.spotify.com/album/4aEFtKgSKCYlG9DzE58sue",
   "titulo": "Singin' The Blues",
   "artistas": "Bix Beiderbecke and His Gang",
@@ -1046,10 +873,11 @@
   "motivo": "grabación de 1927; la edición de Spotify es de 2016 y puede ser otra recopilación",
   "remaster": false,
   "importancia": "Alta",
-  "consultas": 4
+  "consultas": 4,
+  "criterio": 2
  },
  "black-bottom-stomp": {
-  "estado": "dudoso",
+  "estado": "similitud",
   "url": "https://open.spotify.com/album/1IwGyAJu5sLWH7FgRffOOL",
   "titulo": "Black Bottom Stomp",
   "artistas": "Jelly Roll Morton",
@@ -1059,25 +887,8 @@
   "motivo": "en Spotify figura como simple",
   "remaster": false,
   "importancia": "Media",
-  "consultas": 2
- },
- "black-byrd": {
-  "estado": "dudoso",
-  "url": "https://open.spotify.com/album/0tcRH6QgOx1ki56vL1FEXl",
-  "titulo": "Black Byrd (Live)",
-  "artistas": "Donald Byrd",
-  "anio": 2013,
-  "pistas": 1,
-  "tipo": "single",
-  "motivo": "en Spotify figura como simple",
-  "remaster": false,
-  "importancia": "Alta",
-  "consultas": 2
- },
- "black-christ-of-the-andes": {
-  "estado": "no",
-  "importancia": "Alta",
-  "consultas": 2
+  "consultas": 2,
+  "criterio": 2
  },
  "black-fire": {
   "estado": "seguro",
@@ -1091,11 +902,6 @@
   "remaster": false,
   "importancia": "Media",
   "consultas": 1
- },
- "black-hope": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
  },
  "black-orpheus": {
   "estado": "seguro",
@@ -1123,11 +929,6 @@
   "importancia": "Media",
   "consultas": 1
  },
- "blow-up": {
-  "estado": "no",
-  "importancia": "Alta",
-  "consultas": 2
- },
  "blue-camel": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/4Qxx712hAyTvTsl1EsWeRj",
@@ -1153,16 +954,6 @@
   "remaster": true,
   "importancia": "Media",
   "consultas": 1
- },
- "blue-hodge": {
-  "estado": "no",
-  "importancia": "Alta",
-  "consultas": 2
- },
- "blue-notes-for-mongezi": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
  },
  "blues-blood": {
   "estado": "seguro",
@@ -1191,7 +982,7 @@
   "consultas": 1
  },
  "body-and-soul": {
-  "estado": "dudoso",
+  "estado": "similitud",
   "url": "https://open.spotify.com/album/0v5lzXVkY80mzqip0n8SGY",
   "titulo": "Body and Soul",
   "artistas": "Coleman Hawkins Quintet",
@@ -1201,7 +992,8 @@
   "motivo": "grabación de 1939; la edición de Spotify es de 2016 y puede ser otra recopilación",
   "remaster": false,
   "importancia": "Alta",
-  "consultas": 2
+  "consultas": 2,
+  "criterio": 2
  },
  "bohemia-after-dark": {
   "estado": "seguro",
@@ -1254,11 +1046,6 @@
   "remaster": false,
   "importancia": "Media",
   "consultas": 1
- },
- "bra-louis-bra-tebs": {
-  "estado": "no",
-  "importancia": "Alta",
-  "consultas": 4
  },
  "brazilian-romance": {
   "estado": "seguro",
@@ -1352,7 +1139,7 @@
   "consultas": 1
  },
  "brotherhood-of-breath": {
-  "estado": "dudoso",
+  "estado": "similitud",
   "url": "https://open.spotify.com/album/49znbADq4a014tktooz2WM",
   "titulo": "Brotherhood",
   "artistas": "Chris McGregor's Brotherhood Of Breath",
@@ -1362,7 +1149,8 @@
   "motivo": "el título no es exactamente el mismo",
   "remaster": false,
   "importancia": "Alta",
-  "consultas": 2
+  "consultas": 2,
+  "criterio": 2
  },
  "bullitt": {
   "estado": "seguro",
@@ -1376,16 +1164,6 @@
   "remaster": false,
   "importancia": "Media",
   "consultas": 1
- },
- "bush-dance": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
- },
- "butterfly-dreams": {
-  "estado": "no",
-  "importancia": "Alta",
-  "consultas": 2
  },
  "candombe-grupo-del-plata": {
   "estado": "seguro",
@@ -1414,7 +1192,7 @@
   "consultas": 1
  },
  "caravan": {
-  "estado": "dudoso",
+  "estado": "similitud",
   "url": "https://open.spotify.com/album/78TuYEUUuXtSfzD8RIcbmT",
   "titulo": "Caravan (Remastered)",
   "artistas": "Duke Ellington",
@@ -1424,10 +1202,11 @@
   "motivo": "grabación de 1937; la edición de Spotify es de 2022 y puede ser otra recopilación",
   "remaster": true,
   "importancia": "Media",
-  "consultas": 2
+  "consultas": 2,
+  "criterio": 2
  },
  "carolina-shout": {
-  "estado": "dudoso",
+  "estado": "similitud",
   "url": "https://open.spotify.com/album/29hp0RvVAnivvxBBO8IhCk",
   "titulo": "Carolina Shout",
   "artistas": "James P. Johnson",
@@ -1437,7 +1216,8 @@
   "motivo": "grabación de 1921; la edición de Spotify es de 2005 y puede ser otra recopilación",
   "remaster": false,
   "importancia": "Alta",
-  "consultas": 2
+  "consultas": 2,
+  "criterio": 2
  },
  "casino": {
   "estado": "seguro",
@@ -1582,11 +1362,6 @@
   "importancia": "Baja",
   "consultas": 1
  },
- "choros-and-alegria": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
- },
  "citizen-tain": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/1sUtig0EdQITJyEAPzgr3D",
@@ -1612,21 +1387,6 @@
   "remaster": false,
   "importancia": "Media",
   "consultas": 1
- },
- "clouds-in-my-head": {
-  "estado": "no",
-  "importancia": "Alta",
-  "consultas": 2
- },
- "codona": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
- },
- "coisas": {
-  "estado": "no",
-  "importancia": "Alta",
-  "consultas": 2
  },
  "components": {
   "estado": "seguro",
@@ -1654,11 +1414,6 @@
   "importancia": "Alta",
   "consultas": 1
  },
- "concert-in-the-garden": {
-  "estado": "no",
-  "importancia": "Alta",
-  "consultas": 2
- },
  "conference-of-the-birds": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/5P0yqYv3GZWsvmIgZNmxAX",
@@ -1671,11 +1426,6 @@
   "remaster": false,
   "importancia": "Alta",
   "consultas": 1
- },
- "confirmation": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
  },
  "consciousness": {
   "estado": "seguro",
@@ -1703,11 +1453,6 @@
   "importancia": "Media",
   "consultas": 1
  },
- "cookin": {
-  "estado": "no",
-  "importancia": "Baja",
-  "consultas": 2
- },
  "coral": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/4Yd9KUMJGVjOth6WEHc0EM",
@@ -1734,21 +1479,6 @@
   "importancia": "Media",
   "consultas": 1
  },
- "country-cooking": {
-  "estado": "no",
-  "importancia": "Alta",
-  "consultas": 2
- },
- "crazy-and-mixed-up": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
- },
- "cubana-be-cubana-bop": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
- },
  "cuerpo-y-alma": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/5LigBf2htSs8LEH14NyNlc",
@@ -1762,11 +1492,6 @@
   "importancia": "Media",
   "consultas": 1
  },
- "cultural-survival": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
- },
  "dad-man-cat": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/3jKJyvl0TGB6uLPlCoUClR",
@@ -1779,19 +1504,6 @@
   "remaster": false,
   "importancia": "Alta",
   "consultas": 1
- },
- "danca-das-cabecas": {
-  "estado": "dudoso",
-  "url": "https://open.spotify.com/album/0m4IfvtQuzC1tRFHYuzXuI",
-  "titulo": "Dança Das Cabeças",
-  "artistas": "Egberto Gismonti",
-  "anio": 1977,
-  "pistas": 2,
-  "tipo": "single",
-  "motivo": "en Spotify figura como simple",
-  "remaster": false,
-  "importancia": "Alta",
-  "consultas": 2
  },
  "dance-no-one-s-watching": {
   "estado": "seguro",
@@ -1858,16 +1570,6 @@
   "importancia": "Media",
   "consultas": 1
  },
- "data-lords": {
-  "estado": "no",
-  "importancia": "Alta",
-  "consultas": 3
- },
- "daydream": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
- },
  "daylight-ghosts": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/4WMd6CHBI1xqYjD8svvoES",
@@ -1893,11 +1595,6 @@
   "remaster": false,
   "importancia": "Media",
   "consultas": 1
- },
- "deep-in-the-shed": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
  },
  "deep-song": {
   "estado": "seguro",
@@ -1938,11 +1635,6 @@
   "importancia": "Media",
   "consultas": 1
  },
- "developing-an-american-orchestra-1923-1937": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
- },
  "dial-s-for-sonny": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/7xd0RVxMTA86eXK5OAScEa",
@@ -1981,11 +1673,6 @@
   "remaster": false,
   "importancia": "Media",
   "consultas": 1
- },
- "diamond-land": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
  },
  "diary": {
   "estado": "seguro",
@@ -2052,11 +1739,6 @@
   "importancia": "Alta",
   "consultas": 1
  },
- "dizzy-gillespie-and-his-big-band-in-concert": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
- },
  "django": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/0JrqNgHqIWKu2UfOoSUeXQ",
@@ -2069,11 +1751,6 @@
   "remaster": true,
   "importancia": "Alta",
   "consultas": 1
- },
- "drum-boogie": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
  },
  "drums-around-the-world": {
   "estado": "seguro",
@@ -2166,11 +1843,6 @@
   "importancia": "Media",
   "consultas": 1
  },
- "east": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
- },
  "easy-living": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/7pbof6U2aYE9AD3WRwLTrw",
@@ -2262,13 +1934,8 @@
   "importancia": "Media",
   "consultas": 2
  },
- "ella-in-berlin-mack-the-knife": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 4
- },
  "ellington-newport": {
-  "estado": "dudoso",
+  "estado": "similitud",
   "url": "https://open.spotify.com/album/0t41BkcZayaAsa0FdRelfz",
   "titulo": "Ellington at Newport 1956 (Complete)",
   "artistas": "Duke Ellington",
@@ -2278,7 +1945,8 @@
   "motivo": "el título no es exactamente el mismo",
   "remaster": false,
   "importancia": "Alta",
-  "consultas": 4
+  "consultas": 4,
+  "criterio": 2
  },
  "empire-central": {
   "estado": "seguro",
@@ -2292,16 +1960,6 @@
   "remaster": false,
   "importancia": "Media",
   "consultas": 1
- },
- "empty-bed-blues": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
- },
- "entre-amis-debarre": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 4
  },
  "essential-bessie": {
   "estado": "seguro",
@@ -2342,18 +2000,8 @@
   "importancia": "Alta",
   "consultas": 1
  },
- "ethiopiques-vol-21-emahoy": {
-  "estado": "no",
-  "importancia": "Alta",
-  "consultas": 8
- },
- "ethiopiques-vol-4-ethio-jazz-and-musique-instrumen": {
-  "estado": "no",
-  "importancia": "Alta",
-  "consultas": 8
- },
  "ethiopiques-vol-7-ere-mela-mela": {
-  "estado": "dudoso",
+  "estado": "similitud",
   "url": "https://open.spotify.com/album/0SCNMJwzqp2yEji1HJkGbn",
   "titulo": "Ethiopiques, Vol. 7: Erè mèla mèla 1975-1978",
   "artistas": "Mahmoud Ahmed",
@@ -2363,15 +2011,11 @@
   "motivo": "el título no es exactamente el mismo",
   "remaster": false,
   "importancia": "Alta",
-  "consultas": 8
- },
- "evanescence": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
+  "consultas": 8,
+  "criterio": 2
  },
  "everybody-knows-johnny-hodges": {
-  "estado": "dudoso",
+  "estado": "similitud",
   "url": "https://open.spotify.com/album/6kKpF48UR3DWYHLwbfvZ3C",
   "titulo": "Everybody Knows",
   "artistas": "Johnny Hodges",
@@ -2381,7 +2025,8 @@
   "motivo": "el título no es exactamente el mismo",
   "remaster": false,
   "importancia": "Media",
-  "consultas": 2
+  "consultas": 2,
+  "criterio": 2
  },
  "everyday-everynight": {
   "estado": "seguro",
@@ -2409,11 +2054,6 @@
   "importancia": "Alta",
   "consultas": 1
  },
- "exit": {
-  "estado": "no",
-  "importancia": "Alta",
-  "consultas": 2
- },
  "exodus-to-jazz": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/4X6bhFvpNfBG2v6DTBA7lL",
@@ -2426,19 +2066,6 @@
   "remaster": false,
   "importancia": "Alta",
   "consultas": 1
- },
- "expensive-shit": {
-  "estado": "dudoso",
-  "url": "https://open.spotify.com/album/5QtXhQE2WvVLz60sYwafQH",
-  "titulo": "Expensive Shit",
-  "artistas": "Fela Kuti",
-  "anio": 1975,
-  "pistas": 2,
-  "tipo": "single",
-  "motivo": "en Spotify figura como simple",
-  "remaster": false,
-  "importancia": "Media",
-  "consultas": 2
  },
  "ezz-thetics": {
   "estado": "seguro",
@@ -2478,16 +2105,6 @@
   "remaster": true,
   "importancia": "Alta",
   "consultas": 1
- },
- "fats-waller-and-his-rhythm": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
- },
- "filming": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
  },
  "fingers": {
   "estado": "seguro",
@@ -2553,11 +2170,6 @@
   "remaster": false,
   "importancia": "Alta",
   "consultas": 1
- },
- "folk-s-songs": {
-  "estado": "no",
-  "importancia": "Alta",
-  "consultas": 2
  },
  "fontainebleau": {
   "estado": "seguro",
@@ -2637,16 +2249,6 @@
   "importancia": "Alta",
   "consultas": 1
  },
- "for-the-blue-notes": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
- },
- "forest-flower": {
-  "estado": "no",
-  "importancia": "Alta",
-  "consultas": 2
- },
  "fountain-of-youth": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/6lQpjU8lOuvMMMOL2CDhOo",
@@ -2698,16 +2300,6 @@
   "remaster": true,
   "importancia": "Alta",
   "consultas": 1
- },
- "free": {
-  "estado": "no",
-  "importancia": "Alta",
-  "consultas": 2
- },
- "freedom-suite": {
-  "estado": "no",
-  "importancia": "Baja",
-  "consultas": 2
  },
  "friday-night-in-san-francisco": {
   "estado": "seguro",
@@ -2761,11 +2353,6 @@
   "importancia": "Media",
   "consultas": 1
  },
- "full-view": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
- },
  "further-definitions": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k",
@@ -2778,11 +2365,6 @@
   "remaster": false,
   "importancia": "Alta",
   "consultas": 1
- },
- "fusion-urbaniak": {
-  "estado": "no",
-  "importancia": "Alta",
-  "consultas": 2
  },
  "gefion": {
   "estado": "seguro",
@@ -2993,7 +2575,7 @@
   "consultas": 2
  },
  "hailu-mergia-and-his-classical-instrument": {
-  "estado": "dudoso",
+  "estado": "similitud",
   "url": "https://open.spotify.com/album/1wqrY1fT3Mwtxfm0wP1dNZ",
   "titulo": "Hailu Mergia & His Classical Instrument: Shemonmuanaye",
   "artistas": "Hailu Mergia",
@@ -3003,12 +2585,8 @@
   "motivo": "el título no es exactamente el mismo",
   "remaster": false,
   "importancia": "Media",
-  "consultas": 2
- },
- "handful-of-keys": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
+  "consultas": 2,
+  "criterio": 2
  },
  "hang-on-ramsey": {
   "estado": "seguro",
@@ -3022,21 +2600,6 @@
   "remaster": false,
   "importancia": "Media",
   "consultas": 1
- },
- "hard-groove": {
-  "estado": "no",
-  "importancia": "Alta",
-  "consultas": 2
- },
- "harlem-river-drive": {
-  "estado": "no",
-  "importancia": "Alta",
-  "consultas": 2
- },
- "heart-of-a-legend": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
  },
  "heavy-metal-be-bop": {
   "estado": "seguro",
@@ -3207,11 +2770,6 @@
   "importancia": "Alta",
   "consultas": 1
  },
- "hommage-a-eberhard-weber": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
- },
  "hope": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/6jUtNfFM8Dx50KTaQFwKtj",
@@ -3224,11 +2782,6 @@
   "remaster": false,
   "importancia": "Media",
   "consultas": 1
- },
- "hungaria-lafertin": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
  },
  "hyperborean": {
   "estado": "seguro",
@@ -3281,16 +2834,6 @@
   "remaster": false,
   "importancia": "Alta",
   "consultas": 1
- },
- "in-pursuit-of-the-13th-note": {
-  "estado": "no",
-  "importancia": "Alta",
-  "consultas": 2
- },
- "in-the-townships": {
-  "estado": "no",
-  "importancia": "Alta",
-  "consultas": 2
  },
  "in-these-times": {
   "estado": "seguro",
@@ -3383,11 +2926,6 @@
   "importancia": "Alta",
   "consultas": 1
  },
- "introducing-hedzoleh-soundz": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
- },
  "introducing-kenny-burrell": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/51ZsVptIqiD1Pswc7OkfcD",
@@ -3400,16 +2938,6 @@
   "remaster": false,
   "importancia": "Alta",
   "consultas": 1
- },
- "introducing-the-eleventh-house": {
-  "estado": "no",
-  "importancia": "Media",
-  "consultas": 2
- },
- "introductions-in-the-dark": {
-  "estado": "no",
-  "importancia": "Alta",
-  "consultas": 2
  },
  "invitation-to-openness": {
   "estado": "seguro",
@@ -3541,19 +3069,6 @@
   "importancia": "Baja",
   "consultas": 1
  },
- "jazz-bata": {
-  "estado": "dudoso",
-  "url": "https://open.spotify.com/album/61S5vhnbwGfK27QfnwNqrQ",
-  "titulo": "Jazz Batá 2",
-  "artistas": "Chucho Valdés",
-  "anio": 2018,
-  "pistas": 8,
-  "tipo": "album",
-  "motivo": "el título no es exactamente el mismo",
-  "remaster": false,
-  "importancia": "Alta",
-  "consultas": 2
- },
  "jazz-giant-carter": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/5ZXQ2OoNlgRZt25UhSytSS",
@@ -3620,7 +3135,7 @@
   "consultas": 1
  },
  "jazz-moods": {
-  "estado": "dudoso",
+  "estado": "similitud",
   "url": "https://open.spotify.com/album/5XHKaEAfKpV1xc0X3beu5x",
   "titulo": "Jazz Mood (Remastered 2025)",
   "artistas": "Yusef Lateef",
@@ -3630,7 +3145,8 @@
   "motivo": "el título no es exactamente el mismo",
   "remaster": true,
   "importancia": "Alta",
-  "consultas": 2
+  "consultas": 2,
+  "criterio": 2
  },
  "a-long-way-to-the-beginning": {
   "estado": "seguro",
@@ -3650,9 +3166,6 @@
   "pistas": 14,
   "motivo": null
  },
- "after-the-storm": {
-  "estado": "no"
- },
  "arco-ibarra": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/7GmWCkTafVVLKHEzdZj0yV",
@@ -3662,9 +3175,6 @@
   "pistas": 7,
   "motivo": null
  },
- "aspiration": {
-  "estado": "no"
- },
  "claroscuro": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/77czVFWB1Hv7Iq0TkgqnfL",
@@ -3673,9 +3183,6 @@
   "anio": 2012,
   "pistas": 11,
   "motivo": null
- },
- "creative-inspirations": {
-  "estado": "no"
  },
  "cuba-now-danzon": {
   "estado": "seguro",
@@ -3704,9 +3211,6 @@
   "pistas": 9,
   "motivo": null
  },
- "fight-to-win": {
-  "estado": "no"
- },
  "gnosis": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/0GAKlp2nssdLxHXwS2KHho",
@@ -3724,9 +3228,6 @@
   "anio": 2012,
   "pistas": 11,
   "motivo": null
- },
- "hazuki": {
-  "estado": "no"
  },
  "introducin": {
   "estado": "seguro",
@@ -3773,23 +3274,15 @@
   "pistas": 14,
   "motivo": null
  },
- "jealousy": {
-  "estado": "dudoso",
-  "url": "https://open.spotify.com/album/6WdQGYG28dXvviAqLwi4nK",
-  "titulo": "Jealousy",
-  "artistas": "Tony Allen, Afrika 70",
-  "anio": 1976,
-  "pistas": 2,
-  "motivo": "en Spotify figura como simple"
- },
  "jelly-roll-morton-piano-solos": {
-  "estado": "dudoso",
+  "estado": "similitud",
   "url": "https://open.spotify.com/album/02sK2KfSHwT6SnofA29Jyb",
   "titulo": "Jelly Roll Morton: Finger Buster",
   "artistas": "Jelly Roll Morton, Ferio Saxophone Quartet",
   "anio": 2026,
   "pistas": 1,
-  "motivo": "el título no es exactamente el mismo"
+  "motivo": "el título no es exactamente el mismo",
+  "criterio": 2
  },
  "jo-jones-trio": {
   "estado": "seguro",
@@ -3808,9 +3301,6 @@
   "anio": 1973,
   "pistas": 10,
   "motivo": null
- },
- "johnny-hodges-and-the-ellington-men": {
-  "estado": "no"
  },
  "journey-through-life": {
   "estado": "seguro",
@@ -3838,9 +3328,6 @@
   "anio": 2017,
   "pistas": 15,
   "motivo": null
- },
- "journey-to-the-urge-within": {
-  "estado": "no"
  },
  "judgment": {
   "estado": "seguro",
@@ -3878,12 +3365,6 @@
   "pistas": 11,
   "motivo": null
  },
- "kansas-city-suite": {
-  "estado": "no"
- },
- "kappa-ondo": {
-  "estado": "no"
- },
  "kelly-at-midnite": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/5IIIKYZlgA6xJoUiIQQgJn",
@@ -3892,9 +3373,6 @@
   "anio": 1960,
   "pistas": 5,
   "motivo": null
- },
- "kenny-clarke-francy-boland-big-band-jazz-is-univer": {
-  "estado": "no"
  },
  "kenny-kirkland": {
   "estado": "seguro",
@@ -3924,13 +3402,14 @@
   "motivo": null
  },
  "kid-ory-s-creole-jazz-band-1944-45": {
-  "estado": "dudoso",
+  "estado": "similitud",
   "url": "https://open.spotify.com/album/4mIYnZMmGaz0WtxkMv25mm",
   "titulo": "Kid Ory's Creole Jazz Band 1944/45",
   "artistas": "Kid Ory's Creole Jazz Band",
   "anio": 1957,
   "pistas": 16,
-  "motivo": "grabación de 1945; la edición de Spotify es de 1957 y puede ser otra recopilación"
+  "motivo": "grabación de 1945; la edición de Spotify es de 1957 y puede ser otra recopilación",
+  "criterio": 2
  },
  "kind-of-porgy-and-bess": {
   "estado": "seguro",
@@ -3951,13 +3430,14 @@
   "motivo": null
  },
  "king-oliver-and-his-dixie-syncopators": {
-  "estado": "dudoso",
+  "estado": "similitud",
   "url": "https://open.spotify.com/album/2E98LejB0mrTw6uIx88Tgl",
   "titulo": "King Oliver & His Dixie Syncopators 1926",
   "artistas": "King Oliver",
   "anio": 2000,
   "pistas": 15,
-  "motivo": "el título no es exactamente el mismo"
+  "motivo": "el título no es exactamente el mismo",
+  "criterio": 2
  },
  "klook-s-clique": {
   "estado": "seguro",
@@ -4040,9 +3520,6 @@
   "pistas": 10,
   "motivo": null
  },
- "last-date": {
-  "estado": "no"
- },
  "later-that-evening": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/5ENSvLDqnte8Str1DpHaBI",
@@ -4115,20 +3592,15 @@
   "pistas": 6,
   "motivo": null
  },
- "les-mccann-plays-the-truth": {
-  "estado": "no"
- },
- "les-stances-a-sophie": {
-  "estado": "no"
- },
  "lester-leaps-in": {
-  "estado": "dudoso",
+  "estado": "similitud",
   "url": "https://open.spotify.com/album/1LtIvwJX12tEex2JTHrbX9",
   "titulo": "Lester Leaps In",
   "artistas": "Lester Young",
   "anio": 1968,
   "pistas": 13,
-  "motivo": "grabación de 1939; la edición de Spotify es de 1968 y puede ser otra recopilación"
+  "motivo": "grabación de 1939; la edición de Spotify es de 1968 y puede ser otra recopilación",
+  "criterio": 2
  },
  "lester-oscar": {
   "estado": "seguro",
@@ -4138,9 +3610,6 @@
   "anio": 1997,
   "pistas": 14,
   "motivo": null
- },
- "letieres-leite-orkestra-rumpilezz": {
-  "estado": "no"
  },
  "leucocyte": {
   "estado": "seguro",
@@ -4178,9 +3647,6 @@
   "pistas": 12,
   "motivo": null
  },
- "like-minds": {
-  "estado": "no"
- },
  "liquid-spirit": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/2o86ajLsjwh2FWTdD9vmjj",
@@ -4190,9 +3656,6 @@
   "pistas": 16,
   "motivo": null
  },
- "lisan-al-tarab": {
-  "estado": "no"
- },
  "listening-to-the-ground": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/4npT1fllB8BhSdiQWmg35M",
@@ -4201,9 +3664,6 @@
   "anio": 2015,
   "pistas": 16,
   "motivo": null
- },
- "litania": {
-  "estado": "no"
  },
  "live-at-belleville": {
   "estado": "seguro",
@@ -4232,24 +3692,6 @@
   "pistas": 13,
   "motivo": null
  },
- "live-at-the-lighthouse": {
-  "estado": "no"
- },
- "live-at-the-misty": {
-  "estado": "no"
- },
- "live-at-the-north-sea-jazz-festival-92": {
-  "estado": "no"
- },
- "live-martino": {
-  "estado": "no"
- },
- "live": {
-  "estado": "no"
- },
- "livery-stable-blues": {
-  "estado": "no"
- },
  "living-legend": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/2SfZ45KeX2XJSA0xc4VQvI",
@@ -4258,9 +3700,6 @@
   "anio": 1976,
   "pistas": 7,
   "motivo": null
- },
- "lola": {
-  "estado": "no"
  },
  "long-yellow-road": {
   "estado": "seguro",
@@ -4325,12 +3764,6 @@
   "pistas": 14,
   "motivo": null
  },
- "m2": {
-  "estado": "no"
- },
- "machito-and-his-afro-cubans-ritmo-caliente": {
-  "estado": "no"
- },
  "maestro": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/79mk6M2T4akxGdPwK8X4tq",
@@ -4339,9 +3772,6 @@
   "anio": 1972,
   "pistas": 9,
   "motivo": null
- },
- "magic-time-opa": {
-  "estado": "no"
  },
  "making-music": {
   "estado": "seguro",
@@ -4361,9 +3791,6 @@
   "pistas": 9,
   "motivo": null
  },
- "malcolm-x-banda-sonora": {
-  "estado": "no"
- },
  "mambo-diablo": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/1RJMeWrkh0kfcRDojS5rdL",
@@ -4382,23 +3809,15 @@
   "pistas": 13,
   "motivo": null
  },
- "mannenberg": {
-  "estado": "dudoso",
-  "url": "https://open.spotify.com/album/0BBfO1njZnJy7gDaTuSPqh",
-  "titulo": "Mannenberg",
-  "artistas": "Dollar Brand",
-  "anio": 2026,
-  "pistas": 1,
-  "motivo": "en Spotify figura como simple"
- },
  "manteca-dizzy-gillespie": {
-  "estado": "dudoso",
+  "estado": "similitud",
   "url": "https://open.spotify.com/album/51BNm1udeJR0Qiky9fXkKG",
   "titulo": "Manteca (Remastered)",
   "artistas": "Chano Pozo",
   "anio": 2022,
   "pistas": 4,
-  "motivo": "grabación de 1947; la edición de Spotify es de 2022 y puede ser otra recopilación"
+  "motivo": "grabación de 1947; la edición de Spotify es de 2022 y puede ser otra recopilación",
+  "criterio": 2
  },
  "mare-nostrum": {
   "estado": "seguro",
@@ -4436,12 +3855,6 @@
   "pistas": 13,
   "motivo": null
  },
- "may-dance": {
-  "estado": "no"
- },
- "mboko": {
-  "estado": "no"
- },
  "meet-the-jazztet": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/1rzC0pCbAfgH4RnYuP2CdB",
@@ -4450,12 +3863,6 @@
   "anio": 1990,
   "pistas": 10,
   "motivo": null
- },
- "mellow-dream": {
-  "estado": "no"
- },
- "memoires-debarre-schmitt": {
-  "estado": "no"
  },
  "mercy-mercy": {
   "estado": "seguro",
@@ -4474,18 +3881,6 @@
   "anio": 1987,
   "pistas": 7,
   "motivo": null
- },
- "midnight-rain": {
-  "estado": "no"
- },
- "midnight-sugar": {
-  "estado": "dudoso",
-  "url": "https://open.spotify.com/album/0H4RNeTHu5U9dtkwuh0uYQ",
-  "titulo": "Midnight Sugar",
-  "artistas": "Tsuyoshi Yamamoto",
-  "anio": 2023,
-  "pistas": 1,
-  "motivo": "en Spotify figura como simple"
  },
  "mingus-mingus-mingus-mingus-mingus": {
   "estado": "seguro",
@@ -4533,13 +3928,14 @@
   "motivo": null
  },
  "mission-impossible": {
-  "estado": "dudoso",
+  "estado": "similitud",
   "url": "https://open.spotify.com/album/1hlJHhw9dE9azNR1Oc408P",
   "titulo": "Mission Impossible Main Theme (From ''Mission Impossible'') [Piano Version]",
   "artistas": "Lalo Schifrin, Piano Geek",
   "anio": 2023,
   "pistas": 1,
-  "motivo": "el título no es exactamente el mismo"
+  "motivo": "el título no es exactamente el mismo",
+  "criterio": 2
  },
  "misterios": {
   "estado": "seguro",
@@ -4549,21 +3945,6 @@
   "anio": 1994,
   "pistas": 10,
   "motivo": null
- },
- "misty-yamamoto": {
-  "estado": "no"
- },
- "misty": {
-  "estado": "dudoso",
-  "url": "https://open.spotify.com/album/0XWRkU6vILBfwXgwBeZQcI",
-  "titulo": "Misty (Live On The Ed Sullivan Show, March 26, 1961)",
-  "artistas": "Erroll Garner",
-  "anio": 2021,
-  "pistas": 1,
-  "motivo": "en Spotify figura como simple"
- },
- "moa-anbessa": {
-  "estado": "no"
  },
  "moacir-de-todos-os-santos": {
   "estado": "seguro",
@@ -4646,9 +4027,6 @@
   "pistas": 13,
   "motivo": null
  },
- "montevideo": {
-  "estado": "no"
- },
  "montreux-jazz-festival": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/1EpAQVcgOZccz2LpuCuAW4",
@@ -4667,9 +4045,6 @@
   "pistas": 11,
   "motivo": null
  },
- "moonstone": {
-  "estado": "no"
- },
  "more-blues-and-the-abstract-truth": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/7JwMXybUj32mNprsCicxnY",
@@ -4678,9 +4053,6 @@
   "anio": 1964,
   "pistas": 8,
   "motivo": null
- },
- "motherland": {
-  "estado": "no"
  },
  "motion": {
   "estado": "seguro",
@@ -4727,12 +4099,6 @@
   "pistas": 15,
   "motivo": null
  },
- "music-for-romance": {
-  "estado": "no"
- },
- "muskrat-ramble-louis-armstrong-hot-five": {
-  "estado": "no"
- },
  "my-favorite-things": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/64FbRIZTckwlBGNkTSRztJ",
@@ -4768,9 +4134,6 @@
   "anio": 1975,
   "pistas": 10,
   "motivo": null
- },
- "natural-feelings": {
-  "estado": "no"
  },
  "ne-plus-ultra": {
   "estado": "seguro",
@@ -4817,15 +4180,6 @@
   "pistas": 5,
   "motivo": null
  },
- "newborn-light": {
-  "estado": "no"
- },
- "no-sound-is-too-taboo": {
-  "estado": "no"
- },
- "nobody-knows-you-when-you-re-down-and-out": {
-  "estado": "no"
- },
  "not-two-not-one": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/36lH3cM28e57YPl6ZLzKdL",
@@ -4845,13 +4199,14 @@
   "motivo": null
  },
  "nuages": {
-  "estado": "dudoso",
+  "estado": "similitud",
   "url": "https://open.spotify.com/album/6VNknNIbmdzuIrtApjCYy7",
   "titulo": "Nuages (Remastered 2020)",
   "artistas": "Django Reinhardt, Stéphane Grappelli",
   "anio": 2021,
   "pistas": 18,
-  "motivo": "grabación de 1940; la edición de Spotify es de 2021 y puede ser otra recopilación"
+  "motivo": "grabación de 1940; la edición de Spotify es de 2021 y puede ser otra recopilación",
+  "criterio": 2
  },
  "nubya-s-5ive": {
   "estado": "seguro",
@@ -4952,9 +4307,6 @@
   "pistas": 7,
   "motivo": null
  },
- "open-your-eyes-you-can-fly": {
-  "estado": "no"
- },
  "opposite-people": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/5g1H9vcLJG8tYnXDzaWltt",
@@ -4964,15 +4316,6 @@
   "pistas": 2,
   "motivo": null
  },
- "organ-grinder-swing": {
-  "estado": "dudoso",
-  "url": "https://open.spotify.com/album/2Sa91kjewb7uXdsMqcaztf",
-  "titulo": "Organ Grinder Swing (Live)",
-  "artistas": "Jimmy Smith",
-  "anio": 2023,
-  "pistas": 1,
-  "motivo": "en Spotify figura como simple"
- },
  "os-afro-sambas": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/4zyGU4SFL8DEE9Ee9yAjnk",
@@ -4981,9 +4324,6 @@
   "anio": 2008,
   "pistas": 11,
   "motivo": null
- },
- "ouro-negro": {
-  "estado": "no"
  },
  "out-of-here": {
   "estado": "seguro",
@@ -5011,9 +4351,6 @@
   "anio": 1960,
   "pistas": 7,
   "motivo": null
- },
- "outubro": {
-  "estado": "no"
  },
  "outward-bound": {
   "estado": "seguro",
@@ -5060,12 +4397,6 @@
   "pistas": 2,
   "motivo": null
  },
- "paquito-blowin": {
-  "estado": "no"
- },
- "paquito-d-rivera-presents-why-not": {
-  "estado": "no"
- },
  "paris-encounter": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/5vX8esLwkvzFiDWdUyAHTY",
@@ -5102,9 +4433,6 @@
   "pistas": 9,
   "motivo": null
  },
- "people-in-sorrow": {
-  "estado": "no"
- },
  "people-time": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/4OlI4YCwXMErm7HB1L6nmD",
@@ -5124,13 +4452,14 @@
   "motivo": null
  },
  "perdido": {
-  "estado": "dudoso",
+  "estado": "similitud",
   "url": "https://open.spotify.com/album/4TrSrlwl6jdYVsW8vdgxrS",
   "titulo": "Perdido (1940s Radio Hour Version)",
   "artistas": "Duke Ellington",
   "anio": 2020,
   "pistas": 1,
-  "motivo": "grabación de 1942; la edición de Spotify es de 2020 y puede ser otra recopilación"
+  "motivo": "grabación de 1942; la edición de Spotify es de 2020 y puede ser otra recopilación",
+  "criterio": 2
  },
  "petite-fleur": {
   "estado": "seguro",
@@ -5167,9 +4496,6 @@
   "anio": 2011,
   "pistas": 10,
   "motivo": null
- },
- "pilgrimage": {
-  "estado": "no"
  },
  "pithecanthropus-erectus": {
   "estado": "seguro",
@@ -5270,21 +4596,6 @@
   "pistas": 19,
   "motivo": null
  },
- "prime-source": {
-  "estado": "no"
- },
- "prog": {
-  "estado": "no"
- },
- "progress": {
-  "estado": "dudoso",
-  "url": "https://open.spotify.com/album/7Hf1Ld9juE4uj2ji3pMz4E",
-  "titulo": "PROGRESS (2020 Remastered Version)",
-  "artistas": "Tony Allen, Afrika 70",
-  "anio": 1977,
-  "pistas": 2,
-  "motivo": "en Spotify figura como simple"
- },
  "promenade-with-duke": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/0BGAUeMqPNNKG5jIN9DEWl",
@@ -5293,15 +4604,6 @@
   "anio": 1993,
   "pistas": 9,
   "motivo": null
- },
- "pure-emotion": {
-  "estado": "no"
- },
- "purple": {
-  "estado": "no"
- },
- "puttin-it-together": {
-  "estado": "no"
  },
  "pyramid": {
   "estado": "seguro",
@@ -5320,9 +4622,6 @@
   "anio": 1965,
   "pistas": 5,
   "motivo": null
- },
- "quiet-kenny": {
-  "estado": "no"
  },
  "rada": {
   "estado": "seguro",
@@ -5369,9 +4668,6 @@
   "pistas": 19,
   "motivo": null
  },
- "remember-shakti": {
-  "estado": "no"
- },
  "requiem": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/29i9en5qeHoAT0RJe5oI7M",
@@ -5389,12 +4685,6 @@
   "anio": 1993,
   "pistas": 6,
   "motivo": null
- },
- "round-about-midnight-at-the-cafe-bohemia": {
-  "estado": "no"
- },
- "routes-to-django": {
-  "estado": "no"
  },
  "rush-hour": {
   "estado": "seguro",
@@ -5431,9 +4721,6 @@
   "anio": 1990,
   "pistas": 16,
   "motivo": null
- },
- "sahara": {
-  "estado": "no"
  },
  "san-francisco": {
   "estado": "seguro",
@@ -5525,9 +4812,6 @@
   "pistas": 10,
   "motivo": null
  },
- "seeds-on-the-ground": {
-  "estado": "no"
- },
  "serenity": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/39tOPTArYE0OWaZkx0IYIO",
@@ -5554,9 +4838,6 @@
   "anio": 2021,
   "pistas": 7,
   "motivo": null
- },
- "shakti": {
-  "estado": "no"
  },
  "shelter": {
   "estado": "seguro",
@@ -5611,9 +4892,6 @@
   "anio": 1960,
   "pistas": 5,
   "motivo": null
- },
- "sky-blue": {
-  "estado": "no"
  },
  "sky-dancers": {
   "estado": "seguro",
@@ -5714,15 +4992,6 @@
   "pistas": 12,
   "motivo": null
  },
- "sorrow-tears-and-blood": {
-  "estado": "dudoso",
-  "url": "https://open.spotify.com/album/1ubWbhN4W42DKiFvssxtGn",
-  "titulo": "Sorrow Tears and Blood",
-  "artistas": "Fela Kuti",
-  "anio": 1977,
-  "pistas": 2,
-  "motivo": "en Spotify figura como simple"
- },
  "soul-junction": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/71Yte5zLG8hFGxd4QrpF4m",
@@ -5741,9 +5010,6 @@
   "pistas": 13,
   "motivo": null
  },
- "soul-samba": {
-  "estado": "no"
- },
  "soul-time": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/5EmLMO0WIkwvVO97zjnRWf",
@@ -5761,9 +5027,6 @@
   "anio": 1958,
   "pistas": 5,
   "motivo": null
- },
- "sound-grammar": {
-  "estado": "no"
  },
  "sounds-of-space": {
   "estado": "seguro",
@@ -5791,9 +5054,6 @@
   "anio": 2021,
   "pistas": 9,
   "motivo": null
- },
- "southern-horizons": {
-  "estado": "no"
  },
  "space-is-the-place": {
   "estado": "seguro",
@@ -5867,20 +5127,15 @@
   "pistas": 8,
   "motivo": null
  },
- "spirits-rejoice": {
-  "estado": "no"
- },
  "st-louis-blues": {
-  "estado": "dudoso",
+  "estado": "similitud",
   "url": "https://open.spotify.com/album/2imBr4InkA9nuHICPuJt0B",
   "titulo": "St. Louis Blues (Remastered 2026 in Super Stereo by Good Gold Records)",
   "artistas": "Bessie Smith, Louis Armstrong, Fred Longshaw",
   "anio": 1925,
   "pistas": 1,
-  "motivo": "en Spotify figura como simple"
- },
- "standard-time-vol-1": {
-  "estado": "no"
+  "motivo": "en Spotify figura como simple",
+  "criterio": 2
  },
  "standards": {
   "estado": "seguro",
@@ -5900,12 +5155,6 @@
   "pistas": 10,
   "motivo": null
  },
- "star-seeding": {
-  "estado": "no"
- },
- "steal-away": {
-  "estado": "no"
- },
  "still-warm": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/72xoDNwXA0fSHKJYdpDS63",
@@ -5916,13 +5165,14 @@
   "motivo": null
  },
  "stompin-at-the-savoy": {
-  "estado": "dudoso",
+  "estado": "similitud",
   "url": "https://open.spotify.com/album/1vvXsHZXPQyMafzrCSIJug",
   "titulo": "Stompin' At The Savoy",
   "artistas": "Chick Webb",
   "anio": 2000,
   "pistas": 15,
-  "motivo": "grabación de 1934; la edición de Spotify es de 2000 y puede ser otra recopilación"
+  "motivo": "grabación de 1934; la edición de Spotify es de 2000 y puede ser otra recopilación",
+  "criterio": 2
  },
  "stoned-soul-picnic": {
   "estado": "seguro",
@@ -5951,15 +5201,6 @@
   "pistas": 10,
   "motivo": null
  },
- "stories-to-tell": {
-  "estado": "no"
- },
- "strange-fruit-piro-urquiza": {
-  "estado": "no"
- },
- "strange-fruit": {
-  "estado": "no"
- },
  "strange-place-for-snow": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/5xvQ646C8U6qWqfmtxb48K",
@@ -5978,20 +5219,15 @@
   "pistas": 19,
   "motivo": null
  },
- "suite-4-y-20": {
-  "estado": "no"
- },
  "summertime": {
-  "estado": "dudoso",
+  "estado": "similitud",
   "url": "https://open.spotify.com/album/35RRHXba4wlxt5zEDIz1nm",
   "titulo": "Summertime",
   "artistas": "Sidney Bechet",
   "anio": 1998,
   "pistas": 16,
-  "motivo": "grabación de 1939; la edición de Spotify es de 1998 y puede ser otra recopilación"
- },
- "summit-reunion-cumbre": {
-  "estado": "no"
+  "motivo": "grabación de 1939; la edición de Spotify es de 1998 y puede ser otra recopilación",
+  "criterio": 2
  },
  "sunrise": {
   "estado": "seguro",
@@ -6001,9 +5237,6 @@
   "anio": 2012,
   "pistas": 10,
   "motivo": null
- },
- "super-afro-soul": {
-  "estado": "no"
  },
  "supernova": {
   "estado": "seguro",
@@ -6031,12 +5264,6 @@
   "anio": 2015,
   "pistas": 12,
   "motivo": null
- },
- "susto": {
-  "estado": "no"
- },
- "swing-guitars-lafertin": {
-  "estado": "no"
  },
  "swing-swang-swingin": {
   "estado": "seguro",
@@ -6155,12 +5382,6 @@
   "pistas": 13,
   "motivo": null
  },
- "taro-s-mood": {
-  "estado": "no"
- },
- "techno-bush": {
-  "estado": "no"
- },
  "telefunken-blues": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/7ut3jTgFo6oaRoGCRcIp5a",
@@ -6188,12 +5409,6 @@
   "pistas": 20,
   "motivo": null
  },
- "the-antidote": {
-  "estado": "no"
- },
- "the-art-tatum-ben-webster-quartet": {
-  "estado": "no"
- },
  "the-bandwagon": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/5XxvFw1K9lYu78ipjF8gpG",
@@ -6203,44 +5418,35 @@
   "pistas": 10,
   "motivo": null
  },
- "the-blessing": {
-  "estado": "no"
- },
- "the-boss-is-back": {
-  "estado": "no"
- },
  "the-commodore-master-takes": {
-  "estado": "dudoso",
+  "estado": "similitud",
   "url": "https://open.spotify.com/album/5d3JWzcqbCvraAhJt41SBJ",
   "titulo": "The Commodore Master Takes",
   "artistas": "Billie Holiday",
   "anio": 2000,
   "pistas": 16,
-  "motivo": "grabación de 1944; la edición de Spotify es de 2000 y puede ser otra recopilación"
- },
- "the-complete-1923-okeh-sessions": {
-  "estado": "no"
+  "motivo": "grabación de 1944; la edición de Spotify es de 2000 y puede ser otra recopilación",
+  "criterio": 2
  },
  "the-complete-capitol-recordings": {
-  "estado": "dudoso",
+  "estado": "similitud",
   "url": "https://open.spotify.com/album/0Qp4pPAZ6EP9aMyFenfXpu",
   "titulo": "The Complete Capitol Recordings Of Art Tatum",
   "artistas": "Art Tatum",
   "anio": 1997,
   "pistas": 29,
-  "motivo": "el título no es exactamente el mismo"
+  "motivo": "el título no es exactamente el mismo",
+  "criterio": 2
  },
  "the-complete-recordings-vol-1": {
-  "estado": "dudoso",
+  "estado": "similitud",
   "url": "https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7",
   "titulo": "The Complete Recordings, Vol. 1",
   "artistas": "Bessie Smith",
   "anio": 1991,
   "pistas": 38,
-  "motivo": "grabación de 1923; la edición de Spotify es de 1991 y puede ser otra recopilación"
- },
- "the-complete-victor-recordings": {
-  "estado": "no"
+  "motivo": "grabación de 1923; la edición de Spotify es de 1991 y puede ser otra recopilación",
+  "criterio": 2
  },
  "the-door": {
   "estado": "seguro",
@@ -6279,13 +5485,14 @@
   "motivo": null
  },
  "the-fabulous-fats-navarro": {
-  "estado": "dudoso",
+  "estado": "similitud",
   "url": "https://open.spotify.com/album/49ndEhVKQ8Bq9e5mbcMeDN",
   "titulo": "The Fabulous Fats Navarro [Vol. 1 (Expanded Edition)]",
   "artistas": "Fats Navarro",
   "anio": 1957,
   "pistas": 11,
-  "motivo": "grabación de 1949; la edición de Spotify es de 1957 y puede ser otra recopilación"
+  "motivo": "grabación de 1949; la edición de Spotify es de 1957 y puede ser otra recopilación",
+  "criterio": 2
  },
  "the-genius-of-bud-powell": {
   "estado": "seguro",
@@ -6295,9 +5502,6 @@
   "anio": 1956,
   "pistas": 12,
   "motivo": null
- },
- "the-gil-evans-orchestra-plays-the-music-of-jimi-he": {
-  "estado": "no"
  },
  "the-good-feeling": {
   "estado": "seguro",
@@ -6317,9 +5521,6 @@
   "pistas": 17,
   "motivo": null
  },
- "the-great-jazz-trio-at-the-village-vanguard": {
-  "estado": "no"
- },
  "the-ground": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/3rpF9hVBypQJLBf8fu5Vfu",
@@ -6337,9 +5538,6 @@
   "anio": 2000,
   "pistas": 4,
   "motivo": null
- },
- "the-hawk-flies-high": {
-  "estado": "no"
  },
  "the-heliocentric-worlds-of-sun-ra-vol-1": {
   "estado": "seguro",
@@ -6404,12 +5602,6 @@
   "pistas": 7,
   "motivo": null
  },
- "the-johnny-dodds-washboard-band": {
-  "estado": "no"
- },
- "the-kansas-city-sessions": {
-  "estado": "no"
- },
  "the-magic-touch": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/1VAiOjsUqYdgxKVzKgGMnn",
@@ -6418,9 +5610,6 @@
   "anio": 2000,
   "pistas": 10,
   "motivo": null
- },
- "the-mosaic-project": {
-  "estado": "no"
  },
  "the-music-of-ahmed-abdul-malik": {
   "estado": "seguro",
@@ -6439,9 +5628,6 @@
   "anio": 1961,
   "pistas": 36,
   "motivo": null
- },
- "the-new-tristano": {
-  "estado": "no"
  },
  "the-next-step": {
   "estado": "seguro",
@@ -6471,13 +5657,14 @@
   "motivo": null
  },
  "the-original-james-p-johnson": {
-  "estado": "dudoso",
+  "estado": "similitud",
   "url": "https://open.spotify.com/album/6C3LyP71eXcUSob3k9QiRq",
   "titulo": "The Original James P. Johnson: 1942-1945, Piano Solos",
   "artistas": "James P. Johnson",
   "anio": 1996,
   "pistas": 20,
-  "motivo": "el título no es exactamente el mismo"
+  "motivo": "el título no es exactamente el mismo",
+  "criterio": 2
  },
  "the-outer-view": {
   "estado": "seguro",
@@ -6488,9 +5675,6 @@
   "pistas": 7,
   "motivo": null
  },
- "the-plot-thickens": {
-  "estado": "no"
- },
  "the-promise-of-a-future": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/21YlyIf7r7nQGypMvogt2D",
@@ -6499,9 +5683,6 @@
   "anio": 1968,
   "pistas": 9,
   "motivo": null
- },
- "the-quiet-revolution": {
-  "estado": "no"
  },
  "the-real-mccoy": {
   "estado": "seguro",
@@ -6520,12 +5701,6 @@
   "anio": 2005,
   "pistas": 14,
   "motivo": null
- },
- "the-savoy-recordings": {
-  "estado": "no"
- },
- "the-scene-changes": {
-  "estado": "no"
  },
  "the-secret-between-the-shadow-and-the-soul": {
   "estado": "seguro",
@@ -6554,12 +5729,6 @@
   "pistas": 10,
   "motivo": null
  },
- "the-standard-bearer": {
-  "estado": "no"
- },
- "the-sun-don-t-lie": {
-  "estado": "no"
- },
  "the-survivors-suite": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/4Xwp8TJPxLHZJdrRo26UmI",
@@ -6577,12 +5746,6 @@
   "anio": 1957,
   "pistas": 18,
   "motivo": null
- },
- "the-tatum-group-masterpieces": {
-  "estado": "no"
- },
- "the-tatum-solo-masterpieces": {
-  "estado": "no"
  },
  "the-thing-to-do": {
   "estado": "seguro",
@@ -6602,9 +5765,6 @@
   "pistas": 4,
   "motivo": null
  },
- "the-thompson-fields": {
-  "estado": "no"
- },
  "the-trio": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/31czU5yMio8zWSfsgVRek5",
@@ -6613,9 +5773,6 @@
   "anio": 1973,
   "pistas": 5,
   "motivo": null
- },
- "the-ultimate-elvin-jones": {
-  "estado": "no"
  },
  "the-window": {
   "estado": "seguro",
@@ -6654,13 +5811,14 @@
   "motivo": null
  },
  "tiger-rag": {
-  "estado": "dudoso",
+  "estado": "similitud",
   "url": "https://open.spotify.com/album/11FFfMAIdvvE2wzY4GEir3",
   "titulo": "Tiger Rag (Century Edition)",
   "artistas": "Original Dixieland Jass Band, Tiger Dixie Band",
   "anio": 2017,
   "pistas": 3,
-  "motivo": "grabación de 1918; la edición de Spotify es de 2017 y puede ser otra recopilación"
+  "motivo": "grabación de 1918; la edición de Spotify es de 2017 y puede ser otra recopilación",
+  "criterio": 2
  },
  "timba-a-la-americana": {
   "estado": "seguro",
@@ -6697,9 +5855,6 @@
   "anio": 1975,
   "pistas": 6,
   "motivo": null
- },
- "timelessness": {
-  "estado": "no"
  },
  "tjader-plays-mambo": {
   "estado": "seguro",
@@ -6773,9 +5928,6 @@
   "pistas": 12,
   "motivo": null
  },
- "trio-fattoruso": {
-  "estado": "no"
- },
  "trio-jeepy": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/5vVVIxHiBw1LYpbWe4dRqJ",
@@ -6803,9 +5955,6 @@
   "pistas": 11,
   "motivo": null
  },
- "trust-in-the-lifeforce-of-the-deep-mystery": {
-  "estado": "no"
- },
  "tumbaito": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/644y6xjpPdopoGp6w9U0hV",
@@ -6814,12 +5963,6 @@
   "anio": 1986,
   "pistas": 6,
   "motivo": null
- },
- "turiya-sings": {
-  "estado": "no"
- },
- "turn-it-over": {
-  "estado": "no"
  },
  "twin-house": {
   "estado": "seguro",
@@ -6830,17 +5973,15 @@
   "pistas": 8,
   "motivo": null
  },
- "two-blocks-from-the-edge": {
-  "estado": "no"
- },
  "uberjam": {
-  "estado": "dudoso",
+  "estado": "similitud",
   "url": "https://open.spotify.com/album/1OcpuDwolFmh9HOjLSGxhR",
   "titulo": "Überjam Deux",
   "artistas": "John Scofield",
   "anio": 2013,
   "pistas": 11,
-  "motivo": "el título no es exactamente el mismo"
+  "motivo": "el título no es exactamente el mismo",
+  "criterio": 2
  },
  "uma-elmo": {
   "estado": "seguro",
@@ -6850,12 +5991,6 @@
   "anio": 2021,
   "pistas": 9,
   "motivo": null
- },
- "underground-pine": {
-  "estado": "no"
- },
- "underground": {
-  "estado": "no"
  },
  "unforgettable": {
   "estado": "seguro",
@@ -6875,9 +6010,6 @@
   "pistas": 14,
   "motivo": null
  },
- "united-future-organization-1993": {
-  "estado": "no"
- },
  "unomkhubulwane": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/282PG9yezvXZUVMimjWkXw",
@@ -6896,18 +6028,6 @@
   "pistas": 10,
   "motivo": null
  },
- "urbaniak": {
-  "estado": "no"
- },
- "urszula": {
-  "estado": "dudoso",
-  "url": "https://open.spotify.com/album/0214t7loSZQ6OXgIV3yI60",
-  "titulo": "Urszula 3 (2011 Remastered)",
-  "artistas": "Urszula, Budka Suflera",
-  "anio": 2011,
-  "pistas": 8,
-  "motivo": "el título no es exactamente el mismo"
- },
  "urubu": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/5zRf7wDoQG2sXrX121AzSj",
@@ -6916,9 +6036,6 @@
   "anio": 1976,
   "pistas": 8,
   "motivo": null
- },
- "verses": {
-  "estado": "no"
  },
  "very-urgent": {
   "estado": "seguro",
@@ -6937,9 +6054,6 @@
   "anio": 2005,
   "pistas": 9,
   "motivo": null
- },
- "vigilia-urquiza": {
-  "estado": "no"
  },
  "village-vanguard": {
   "estado": "seguro",
@@ -6977,15 +6091,6 @@
   "pistas": 5,
   "motivo": null
  },
- "virtuoso-2": {
-  "estado": "dudoso",
-  "url": "https://open.spotify.com/album/7K2jR7Mn7zDmEYLKMTb7Fu",
-  "titulo": "Virtuoso (Remastered 2025)",
-  "artistas": "Joe Pass",
-  "anio": 1974,
-  "pistas": 12,
-  "motivo": "el título no es exactamente el mismo"
- },
  "visions": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/2JXP0VVOjCFDvZ9bPVHcEt",
@@ -7021,9 +6126,6 @@
   "anio": 2010,
   "pistas": 12,
   "motivo": null
- },
- "we-re-new-again": {
-  "estado": "no"
  },
  "weather-report": {
   "estado": "seguro",
@@ -7061,9 +6163,6 @@
   "pistas": 7,
   "motivo": null
  },
- "who-s-to-know": {
-  "estado": "no"
- },
  "wild-dance": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/1cL3EdUYCcxMpamsLyxMqf",
@@ -7074,13 +6173,14 @@
   "motivo": null
  },
  "wild-man-blues-louis-armstrong": {
-  "estado": "dudoso",
+  "estado": "similitud",
   "url": "https://open.spotify.com/album/00i9T4SXDqA4sNLJ5XIKrM",
   "titulo": "Wild Man Blues",
   "artistas": "Johnny Dodds",
   "anio": 2016,
   "pistas": 18,
-  "motivo": "grabación de 1927; la edición de Spotify es de 2016 y puede ser otra recopilación"
+  "motivo": "grabación de 1927; la edición de Spotify es de 2016 y puede ser otra recopilación",
+  "criterio": 2
  },
  "winobranie": {
   "estado": "seguro",
@@ -7090,9 +6190,6 @@
   "anio": 1973,
   "pistas": 5,
   "motivo": null
- },
- "winter-moon": {
-  "estado": "no"
  },
  "witchi-tai-to": {
   "estado": "seguro",
@@ -7183,9 +6280,6 @@
   "anio": 1971,
   "pistas": 5,
   "motivo": null
- },
- "zila-sounds": {
-  "estado": "no"
  },
  "zombie": {
   "estado": "seguro",

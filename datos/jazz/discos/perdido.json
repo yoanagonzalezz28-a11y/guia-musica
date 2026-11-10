@@ -14,8 +14,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Perdido Duke Ellington"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4TrSrlwl6jdYVsW8vdgxrS",
+    "tituloEnSpotify": "Perdido (1940s Radio Hour Version)",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "perdido",
   "titulo": "Perdido",

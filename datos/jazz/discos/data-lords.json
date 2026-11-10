@@ -10,8 +10,22 @@
   "catalogo": null,
   "lugar": "Oktaven Audio, Mount Vernon, Nueva York",
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Data Lords Maria Schneider"
+    "estado": "fuera",
+    "motivo": "Maria Schneider retiró su música de Spotify; sus discos se escuchan y se compran en ArtistShare y en su sitio oficial.",
+    "alternativas": [
+      {
+        "texto": "Escuchar y comprar en ArtistShare",
+        "url": "https://www.artistshare.com/Projects/Experience/1/510/1/Maria-Schneider-Data-Lords"
+      },
+      {
+        "texto": "Ficha en su sitio oficial",
+        "url": "https://www.mariaschneider.com/home/albuminfo?id=1083"
+      },
+      {
+        "texto": "Canal oficial en YouTube",
+        "url": "https://www.youtube.com/@MariaSchneiderOrch"
+      }
+    ]
   },
   "id": "data-lords",
   "titulo": "Data Lords",

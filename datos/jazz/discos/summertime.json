@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Summertime Sidney Bechet"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/35RRHXba4wlxt5zEDIz1nm",
+    "tituloEnSpotify": "Summertime",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "summertime",
   "titulo": "Summertime",

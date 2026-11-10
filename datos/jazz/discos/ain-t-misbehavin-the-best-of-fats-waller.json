@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Ain't Misbehavin': The Best of Fats Waller Fats Waller"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5RYNGRkTsWggVORQEK296D",
+    "tituloEnSpotify": "Ain't Misbehavin'",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "ain-t-misbehavin-the-best-of-fats-waller",
   "titulo": "Ain't Misbehavin': The Best of Fats Waller",

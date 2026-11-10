@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Jelly Roll Morton: Piano Solos Jelly Roll Morton"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/02sK2KfSHwT6SnofA29Jyb",
+    "tituloEnSpotify": "Jelly Roll Morton: Finger Buster",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "jelly-roll-morton-piano-solos",
   "titulo": "Jelly Roll Morton: Piano Solos",

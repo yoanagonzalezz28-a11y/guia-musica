@@ -14,8 +14,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Caravan Duke Ellington"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/78TuYEUUuXtSfzD8RIcbmT",
+    "tituloEnSpotify": "Caravan (Remastered)",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "caravan",
   "titulo": "Caravan",

@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Body and Soul Coleman Hawkins"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0v5lzXVkY80mzqip0n8SGY",
+    "tituloEnSpotify": "Body and Soul",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "body-and-soul",
   "titulo": "Body and Soul",

@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "St. Louis Blues Bessie Smith"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2imBr4InkA9nuHICPuJt0B",
+    "tituloEnSpotify": "St. Louis Blues (Remastered 2026 in Super Stereo by Good Gold Records)",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "st-louis-blues",
   "titulo": "St. Louis Blues",

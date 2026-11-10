@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Original James P. Johnson James P. Johnson"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6C3LyP71eXcUSob3k9QiRq",
+    "tituloEnSpotify": "The Original James P. Johnson: 1942-1945, Piano Solos",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "the-original-james-p-johnson",
   "titulo": "The Original James P. Johnson",

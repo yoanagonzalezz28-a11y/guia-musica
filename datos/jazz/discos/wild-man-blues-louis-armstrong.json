@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Wild Man Blues (Louis Armstrong) Johnny Dodds"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/00i9T4SXDqA4sNLJ5XIKrM",
+    "tituloEnSpotify": "Wild Man Blues",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "wild-man-blues-louis-armstrong",
   "titulo": "Wild Man Blues (Louis Armstrong)",

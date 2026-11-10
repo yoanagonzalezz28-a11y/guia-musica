@@ -13,8 +13,9 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Trío Fattoruso Hugo Fattoruso"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/74dTqZO1HV8Nae6scU0OP9",
+    "via": "manual-yoana"
   },
   "id": "trio-fattoruso",
   "titulo": "Trío Fattoruso",

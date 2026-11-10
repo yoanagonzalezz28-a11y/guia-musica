@@ -13,8 +13,18 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Sky Blue Maria Schneider"
+    "estado": "fuera",
+    "motivo": "Maria Schneider retiró su música de Spotify; sus discos se escuchan y se compran en ArtistShare y en su sitio oficial.",
+    "alternativas": [
+      {
+        "texto": "Escuchar y comprar en su sitio oficial",
+        "url": "https://www.mariaschneider.com/home/albuminfo?id=773"
+      },
+      {
+        "texto": "Canal oficial en YouTube",
+        "url": "https://www.youtube.com/@MariaSchneiderOrch"
+      }
+    ]
   },
   "id": "sky-blue",
   "titulo": "Sky Blue",

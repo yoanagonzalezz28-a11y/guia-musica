@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Hailu Mergia and His Classical Instrument Hailu Mergia"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1wqrY1fT3Mwtxfm0wP1dNZ",
+    "tituloEnSpotify": "Hailu Mergia & His Classical Instrument: Shemonmuanaye",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "hailu-mergia-and-his-classical-instrument",
   "titulo": "Hailu Mergia and His Classical Instrument",

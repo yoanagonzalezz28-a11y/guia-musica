@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Brotherhood of Breath Chris McGregor"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/49znbADq4a014tktooz2WM",
+    "tituloEnSpotify": "Brotherhood",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "brotherhood-of-breath",
   "titulo": "Brotherhood of Breath",

@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Complete Capitol Recordings Art Tatum"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0Qp4pPAZ6EP9aMyFenfXpu",
+    "tituloEnSpotify": "The Complete Capitol Recordings Of Art Tatum",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "the-complete-capitol-recordings",
   "titulo": "The Complete Capitol Recordings",

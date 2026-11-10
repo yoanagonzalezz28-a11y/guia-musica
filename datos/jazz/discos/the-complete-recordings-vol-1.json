@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Complete Recordings, Vol. 1 Bessie Smith"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7",
+    "tituloEnSpotify": "The Complete Recordings, Vol. 1",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "the-complete-recordings-vol-1",
   "titulo": "The Complete Recordings, Vol. 1",

@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Tiger Rag Original Dixieland Jass Band"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/11FFfMAIdvvE2wzY4GEir3",
+    "tituloEnSpotify": "Tiger Rag (Century Edition)",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "tiger-rag",
   "titulo": "Tiger Rag",

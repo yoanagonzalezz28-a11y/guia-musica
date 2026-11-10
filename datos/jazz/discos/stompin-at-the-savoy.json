@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Stompin' at the Savoy Chick Webb"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1vvXsHZXPQyMafzrCSIJug",
+    "tituloEnSpotify": "Stompin' At The Savoy",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "stompin-at-the-savoy",
   "titulo": "Stompin' at the Savoy",

@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Nuages Django Reinhardt"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6VNknNIbmdzuIrtApjCYy7",
+    "tituloEnSpotify": "Nuages (Remastered 2020)",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "nuages",
   "titulo": "Nuages",
