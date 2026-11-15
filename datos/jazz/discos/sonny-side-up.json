@@ -108,5 +108,9 @@
       "duracion": 327
     }
   ],
-  "temasFuente": "Spotify"
+  "temasFuente": "Spotify",
+  "regiones": [
+    "estados-unidos",
+    "cuba"
+  ]
 }

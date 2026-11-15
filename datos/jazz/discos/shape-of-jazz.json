@@ -9,7 +9,9 @@
       "texto": "MusicBrainz da octubre de 1959 y Wikipedia noviembre. El año coincide."
     }
   ],
-  "regiones": [],
+  "regiones": [
+    "estados-unidos"
+  ],
   "compilacion": false,
   "tipo": "estudio",
   "catalogo": null,

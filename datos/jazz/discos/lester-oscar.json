@@ -13,7 +13,9 @@
       "texto": "MusicBrainz da 1958, por la edición como \"The President Plays\". Los discos originales son de 1954."
     }
   ],
-  "regiones": [],
+  "regiones": [
+    "estados-unidos"
+  ],
   "compilacion": false,
   "tipo": "estudio",
   "catalogo": null,

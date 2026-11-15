@@ -5,7 +5,9 @@
   },
   "verificacion": "sin-verificar",
   "discrepancias": [],
-  "regiones": [],
+  "regiones": [
+    "japon"
+  ],
   "compilacion": false,
   "tipo": "vivo",
   "catalogo": null,

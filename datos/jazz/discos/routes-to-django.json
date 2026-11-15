@@ -11,7 +11,16 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
+    "estado": "fuera",
+    "motivo": "No está en Spotify. El álbum está en YouTube, publicado por el sello en su canal oficial. Está junto con Biréli Swing '81, en una sola edición.",
+    "alternativas": [
+      {
+        "texto": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=OLAK5uy_nnJuXm-qQIkfdS_qpVp2GxIISLSzgnOrU"
+      }
+    ],
+    "via": "youtube-music",
+    "tituloEnYoutube": "Routes To Django & Bireli Swing '81",
     "consulta": "Routes to Django Biréli Lagrène"
   },
   "id": "routes-to-django",

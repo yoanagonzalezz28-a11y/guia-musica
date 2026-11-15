@@ -57,6 +57,14 @@ Las credenciales están en `.env` (`SPOTIFY_CLIENT_ID` y `SPOTIFY_CLIENT_SECRET`
 - **Formato de las marcas:** al convertir una versión vieja o mudar un id, la copia original queda como respaldo en el navegador. Los datos ilegibles o de una versión más nueva nunca se pisan. Detalle en [modelo-de-datos.md](modelo-de-datos.md).
 - **Pruebas:** las de Playwright con Edge (43 generales, 18 de diseño y 31 de marcas) se corren a mano en local y **no están en el repositorio**. La publicación en GitHub Pages solo corre `npm run construir`, que frena ante errores en los datos, pero no espera a las pruebas del navegador.
 
+### Cambios del 15/11/2026 (segunda tanda)
+
+- **Spotify a mano:** *Forest Flower*, *Progress* y *Jealousy* (en Spotify salen juntos), *Songs: The Art of the Trio Vol. 3* y *Black Byrd* (en Spotify figura como *Blackbyrd*). Tres temas sueltos se enlazan dentro de una recopilación oficial, y la ficha lo aclara (campo `dentroDe`): *Perdido* (la toma de 1942, en *Never No Lament*), *Strange Fruit* (la grabación de Commodore, en *The Complete Commodore/Decca Masters*) y *Muskrat Ramble* (en *The Hot Fives, Volume I*).
+- **YouTube:** 17 discos de importancia alta que no están en Spotify van a su álbum en YouTube Music, es decir, al canal "Topic" que arma el sello. Se buscaron con el buscador de álbumes de YouTube Music y se verificaron con oEmbed. El botón dice "YouTube" (estado `fuera`, `via: "youtube-music"`). Los de importancia media y baja siguen con la búsqueda de Spotify.
+- **Músicos sin etapas:** Juan Tizol (Swing, disco clave *Caravan*), Jon Christensen (ECM, *Afric Pepperbird*) y Gilles Peterson (Acid jazz, *Positivity* de Incognito, editado por su sello) tienen ahora su etapa. Popo Romano pasó a Jazz rioplatense. Buddy Bolden (no dejó grabaciones) y Popo Romano (sin discos en el banco) siguen sin disco clave.
+- **Escena actual:** con actividad de 2025-2026, Juan Pablo Chapital (Electric Miles en el Festival de Jazz de Montevideo, diciembre de 2025), Gonzalo Levin (homenaje a Coltrane en el 19.° Festival, 2 de diciembre de 2026), Andrés Hayes (Bebop Club, enero de 2026) y Seun Kuti (Coachella y gira europea, 2025). Samuel Yirga y Louiz Banks salieron de la escena actual por no tener nada documentado de los últimos dos años; siguen en la lista de su región.
+- **Regiones de los discos:** 120 discos recibieron región, 78 por la de su líder y 42 a mano. GoGo Penguin, Matthew Halsall, Andy Sheppard, Shabaka Hutchings, Allan Holdsworth y Kenny Wheeler se sumaron a Reino Unido. Quedan 59 sin región porque son de países que el banco no tiene como región: Francia, Alemania, Italia, Austria, Suiza, España, Bélgica y Países Bajos.
+
 ### Revisión general del 15/11/2026
 
 - Links internos: 57.067 en 2055 páginas, ninguno roto, ninguna ancla rota.
@@ -111,19 +119,19 @@ La carpeta está en `.gitignore`: **nada de esto se sube a GitHub ni se publica.
 
 ## Qué falta
 
-1. **Revisar la muestra de Spotify por similitud** en [sin-spotify.md](sin-spotify.md) (56 aplicados; conviene confirmar *Perdido*, que quedó como "1940s Radio Hour Version"). Quedaron afuera por la regla estricta, aunque parecen correctos: *Forest Flower*, *Progress* y *Jealousy* (en Spotify salen juntos) y *Songs: The Art of the Trio Vol. 3*.
-2. **Decidir qué hacer con los que no aparecen en Spotify** (186, 72 de importancia alta): buscarlos en YouTube o sacarlos del banco.
+1. **Revisar la muestra de Spotify por similitud** en [sin-spotify.md](sin-spotify.md) (55 aplicados).
+2. **Los que no aparecen en Spotify:** 162 (49 de importancia alta, que tampoco están en YouTube Music). Los de importancia media y baja quedan con la búsqueda de Spotify.
 3. **Terminar de pulir las reseñas:**
    - Quedan unas 174 con una repetición más leve entre la primera y la segunda frase. Algunas todavía repiten, como *We Three* o *Plenty, Plenty Soul*, y otras están bien.
    - Estas 12 tienen dos frases porque falta un dato particular seguro: *Son dos*, *El jardín de Ordóñez*, *Turista*, *Cajita de música*, *La cocina magnética*, *Gonzalo Levin Octeto*, *Into Forever*, *Characters*, *Everyday, Everynight*, *Ravensburg*, *Downhill from Here* y *Live in Montreux 1987*.
 4. **Ampliar los datos sin cotejar con Gioia:** quedan 3 épocas sin cotejar (de 18), y la mayoría de los discos y músicos tiene una sola fuente.
 5. **Más datos por disco:** quedan 431 discos con el personal incompleto (159 de importancia alta; la lista está en [personal-incompleto.md](personal-incompleto.md)). El número de catálogo sigue faltando en muchos.
    - Mujeres: siguen sin ninguna Jazz latino, Jazz manouche, Jazz modal y Acid jazz.
-   - Cinco músicos no tienen épocas ni discos clave: Buddy Bolden, Gilles Peterson, Jon Christensen, Popo Romano y Juan Tizol. Sus fichas se ven bien, solo con el texto.
+   - Buddy Bolden y Popo Romano no tienen disco clave. Una región "Europa occidental" daría lugar a los 59 discos sin región.
    - Popo Romano no tiene discos cargados (MusicBrainz solo registra *Susurro montevideano*, de 2009, sin datos para reseñarlo). *Éthiopiques, Vol. 21* no figura como recopilación porque no se sabe qué años abarca.
 6. **Pendientes de contenido opcionales:** más reseñas extensas, más comparaciones si ayudan y nuevas regiones o épocas, por ejemplo spiritual jazz o third stream, que se propusieron pero no se agregaron.
 7. **Otros géneros:** música clásica y post-rock están previstos en la portada pero sin contenido.
-8. **Cuentas con sincronización:** hay una propuesta con Supabase (15/11/2026), pendiente de decisión.
+8. **Cuentas con sincronización:** aprobadas el 15/11/2026, solo con Google por ahora. Etapa 1: entrar y sincronizar. Etapa 2: página de privacidad y borrar la cuenta. Falta que Yoana cree el proyecto de Supabase (São Paulo) y el cliente OAuth de Google.
 9. **Opcional:** sumar las pruebas de Playwright al repositorio y a la publicación, para que el sitio solo se publique si pasan.
 
 ## Comandos

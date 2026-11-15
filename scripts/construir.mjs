@@ -560,7 +560,7 @@ const construir = {
       <div class="contratapa-grilla">
         <div class="notas-tapa lectura">${d.compilacion ? `<p class="nota-datos">${textoRecopilacion(ctx, d)}</p>` : ''}${notas}
           <p><a class="boton" href="${esc(sp.url)}" rel="noopener">${sp.texto}</a></p>
-          ${sp.fuera ? `<p class="ayuda">${esc(d.spotify.motivo)}${d.spotify.alternativas.slice(1).map(a => ` <a href="${esc(a.url)}" rel="noopener">${esc(a.texto)}</a>.`).join('')}</p>` : sp.verificado ? (d.spotify.tituloEnSpotify && d.spotify.tituloEnSpotify !== d.titulo ? `<p class="ayuda">En Spotify figura como "${esc(d.spotify.tituloEnSpotify)}".</p>` : '') : '<p class="ayuda">Todavía no confirmamos un álbum exacto en Spotify, así que este link abre una búsqueda.</p>'}
+          ${sp.fuera ? `<p class="ayuda">${esc(d.spotify.motivo)}${d.spotify.alternativas.slice(1).map(a => ` <a href="${esc(a.url)}" rel="noopener">${esc(a.texto)}</a>.`).join('')}</p>` : sp.verificado ? (d.spotify.dentroDe ? `<p class="ayuda">En Spotify está dentro de la recopilación "${esc(d.spotify.tituloEnSpotify)}".</p>` : d.spotify.tituloEnSpotify && d.spotify.tituloEnSpotify !== d.titulo ? `<p class="ayuda">En Spotify figura como "${esc(d.spotify.tituloEnSpotify)}".</p>` : '') : '<p class="ayuda">Todavía no confirmamos un álbum exacto en Spotify, así que este link abre una búsqueda.</p>'}
         </div>
         <div class="columna-datos">
           <section class="marcas-disco" data-marca="disco:${d.id}" data-marca-titulo="${esc(d.titulo)}" aria-label="Tus marcas">

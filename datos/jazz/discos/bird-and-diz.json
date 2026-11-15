@@ -172,5 +172,9 @@
       "duracion": 41
     }
   ],
-  "temasFuente": "Spotify"
+  "temasFuente": "Spotify",
+  "regiones": [
+    "estados-unidos",
+    "cuba"
+  ]
 }

@@ -4,7 +4,10 @@
     "gioia": "pendiente"
   },
   "discrepancias": [],
-  "regiones": [],
+  "regiones": [
+    "estados-unidos",
+    "cuba"
+  ],
   "compilacion": false,
   "tipo": "estudio",
   "catalogo": null,

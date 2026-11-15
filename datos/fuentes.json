@@ -5751,5 +5751,45 @@
     "url": "https://en.wikipedia.org",
     "consultada": "2026-11-10",
     "estado": "consultada"
+  },
+  "solis-electric-miles-2025": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Teatro Solís: Electric Miles, 18.° Festival de Jazz de Montevideo (temporada 2025)",
+    "url": "https://www.teatrosolis.org.uy/PROGRAMACION/Electric-Miles-uc2835",
+    "consultada": "2026-11-15",
+    "estado": "consultada"
+  },
+  "zitarrosa-coltrane-100": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Sala Zitarrosa: Coltrane 100 años, 19.° Festival de Jazz de Montevideo",
+    "url": "https://salazitarrosa.montevideo.gub.uy/espectaculo/coltrane-100-anos-19-fest-jazz-mvd/",
+    "consultada": "2026-11-15",
+    "estado": "consultada"
+  },
+  "partedelshow-bebop-2026": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Parte del Show: agenda de enero de 2026 en Bebop Club",
+    "url": "https://partedelshow.com.ar/noticia/musica-en-la-ciudad-enero-en-bebop-club",
+    "consultada": "2026-11-15",
+    "estado": "consultada"
+  },
+  "flood-seun-coachella-2025": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Flood Magazine: Seun Kuti & Egypt 80 en Coachella 2025",
+    "url": "https://floodmagazine.com/193307/backstage-camera-roll-seun-kuti-egypt-80-coachella-2025",
+    "consultada": "2026-11-15",
+    "estado": "consultada"
+  },
+  "rhythmpassport-seun-villette-2025": {
+    "tipo": "web",
+    "nivel": "prensa",
+    "titulo": "Rhythm Passport: Seun Kuti & Egypt 80 en Jazz à la Villette 2025",
+    "url": "https://rhythmpassport.com/?p=163654",
+    "consultada": "2026-11-15",
+    "estado": "consultada"
   }
 }

@@ -4,7 +4,9 @@
     "gioia": "pendiente"
   },
   "discrepancias": [],
-  "regiones": [],
+  "regiones": [
+    "estados-unidos"
+  ],
   "id": "time-out",
   "titulo": "Time Out",
   "credito": "The Dave Brubeck Quartet",

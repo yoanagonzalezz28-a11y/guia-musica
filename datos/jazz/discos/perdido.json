@@ -15,10 +15,10 @@
   "lugar": null,
   "spotify": {
     "estado": "verificado",
-    "url": "https://open.spotify.com/album/4TrSrlwl6jdYVsW8vdgxrS",
-    "tituloEnSpotify": "Perdido (1940s Radio Hour Version)",
-    "via": "api-spotify",
-    "porSimilitud": true
+    "url": "https://open.spotify.com/album/2gVe4gvBXKlCLDeS3BaUfL",
+    "tituloEnSpotify": "Never No Lament: The Blanton-Webster Band",
+    "via": "manual",
+    "dentroDe": true
   },
   "id": "perdido",
   "titulo": "Perdido",

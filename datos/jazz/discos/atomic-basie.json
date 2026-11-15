@@ -9,7 +9,9 @@
       "texto": "MusicBrainz da marzo de 1958 y Wikipedia enero. El año coincide."
     }
   ],
-  "regiones": [],
+  "regiones": [
+    "estados-unidos"
+  ],
   "compilacion": false,
   "tipo": "estudio",
   "catalogo": null,

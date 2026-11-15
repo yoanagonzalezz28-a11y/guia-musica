@@ -4,7 +4,9 @@
     "gioia": "pendiente"
   },
   "discrepancias": [],
-  "regiones": [],
+  "regiones": [
+    "estados-unidos"
+  ],
   "id": "herbie-nichols-trio",
   "titulo": "Herbie Nichols Trio",
   "credito": "Herbie Nichols",

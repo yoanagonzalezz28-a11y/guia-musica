@@ -9,7 +9,9 @@
       "texto": "Wikipedia registra el LP de 1986 y MusicBrainz la edición de 2003. Son ediciones distintas de las mismas grabaciones."
     }
   ],
-  "regiones": [],
+  "regiones": [
+    "estados-unidos"
+  ],
   "compilacion": true,
   "tipo": "estudio",
   "catalogo": null,

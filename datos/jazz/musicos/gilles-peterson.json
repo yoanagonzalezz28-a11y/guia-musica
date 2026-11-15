@@ -24,7 +24,19 @@
   ],
   "spotify": null,
   "resumen": "DJ, locutor de radio y dueño de sellos. En Londres, a fines de los 80, fue de los que difundieron el nombre \"acid jazz\" para la mezcla de jazz, funk, música latina y brasileña que pasaba en los clubes. Fundó los sellos Acid Jazz, con Eddie Piller, y Talkin' Loud, y después Brownswood.[^wp-gilles-peterson]",
-  "epocas": [],
+  "epocas": [
+    {
+      "titulo": "Acid Jazz y Talkin' Loud",
+      "desde": 1987,
+      "hasta": 1993,
+      "texto": "En los clubes y la radio de Londres difundió el nombre \"acid jazz\". Fundó los sellos Acid Jazz, con Eddie Piller, y Talkin' Loud.[^wp-gilles-peterson]",
+      "discoClave": {
+        "disco": "positivity",
+        "explicacion": "Un disco de Incognito editado por Talkin' Loud, el sello de Peterson, que figura en los créditos."
+      },
+      "discos": []
+    }
+  ],
   "fuentes": [
     "wp-gilles-peterson"
   ],

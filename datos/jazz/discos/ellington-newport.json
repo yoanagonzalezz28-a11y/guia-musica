@@ -9,7 +9,9 @@
       "texto": "MusicBrainz da septiembre de 1956 y Wikipedia noviembre. El año coincide."
     }
   ],
-  "regiones": [],
+  "regiones": [
+    "estados-unidos"
+  ],
   "compilacion": false,
   "tipo": "vivo",
   "catalogo": null,

@@ -2,9 +2,10 @@
 
 Actualizado el 2026-11-15 con `npm run spotify` (búsqueda en la API de Spotify).
 
-- **Encontrados y aplicados con la API:** 655, de los cuales 56 se aplicaron por similitud.
+- **Encontrados y aplicados con la API:** 654, de los cuales 55 se aplicaron por similitud.
 - **Dudosos, para revisar:** 0 (0 alta, 0 media, 0 baja). No se aplicaron.
-- **Sin aparecer:** 186 (72 alta, 113 media, 1 baja).
+- **Sin aparecer:** 162 (49 alta, 112 media, 1 baja).
+- **En YouTube, en el canal oficial del sello (YouTube Music):** 17. Son discos de importancia alta que no están en Spotify; el botón dice "YouTube".
 
 Cómo se buscó: por artista y título, con variantes (sin subtítulo, sin "Vol.", con el título original, sin los agregados de reedición o edición ampliada) y con el nombre del líder cuando el crédito es de un grupo. Desde el 10/11/2026 se aplica directo si coincide el artista y el título es muy parecido (sin importar subtítulos, "Remastered", "Deluxe", "Vol.", tildes, mayúsculas ni el orden de las palabras), incluidas las reediciones y versiones ampliadas. Esos casos quedan marcados en los datos como `porSimilitud`; el sitio no lo muestra. Un simple solo se acepta si el disco del banco es anterior a 1950.
 
@@ -12,7 +13,7 @@ Importancia: **alta**, disco para empezar una época o disco clave de una etapa 
 
 ## Aplicados por similitud: muestra para revisar
 
-Son 56. Esta es una muestra de 19, repartida por épocas. Si alguno está mal, alcanza con decir cuál.
+Son 55. Esta es una muestra de 19, repartida por épocas. Si alguno está mal, alcanza con decir cuál.
 
 | Título en el banco | Artista | Año | Quedó en Spotify como |
 |---|---|---|---|
@@ -22,19 +23,19 @@ Son 56. Esta es una muestra de 19, repartida por épocas. Si alguno está mal, a
 | Wild Man Blues (Louis Armstrong) | Johnny Dodds | 1927 | [Wild Man Blues](https://open.spotify.com/album/00i9T4SXDqA4sNLJ5XIKrM) |
 | Stompin' at the Savoy | Chick Webb | 1934 | [Stompin' At The Savoy](https://open.spotify.com/album/1vvXsHZXPQyMafzrCSIJug) |
 | Lester Leaps In | Lester Young | 1939 | [Lester Leaps In](https://open.spotify.com/album/1LtIvwJX12tEex2JTHrbX9) |
-| Perdido | Duke Ellington | 1942 | [Perdido (1940s Radio Hour Version)](https://open.spotify.com/album/4TrSrlwl6jdYVsW8vdgxrS) |
-| Kid Ory's Creole Jazz Band 1944–45 | Kid Ory | 1945 | [Kid Ory's Creole Jazz Band 1944/45](https://open.spotify.com/album/4mIYnZMmGaz0WtxkMv25mm) |
-| The Fabulous Fats Navarro | Fats Navarro | 1949 | [The Fabulous Fats Navarro [Vol. 1 (Expanded Edition)]](https://open.spotify.com/album/49ndEhVKQ8Bq9e5mbcMeDN) |
-| Freedom Suite | Sonny Rollins | 1958 | [Sonny Rollins The Freedom Suite](https://open.spotify.com/album/39oE0sL4M6o4sYzCLFH1Yy) |
-| 8 bitar Johansson | Jan Johansson | 1961 | [8 Bitar](https://open.spotify.com/album/3EBbP3abNuTVyAVWM02q08) |
-| Soul Samba | Ike Quebec | 1962 | [Bossa Nova Soul Samba (Rudy Van Gelder Edition)](https://open.spotify.com/album/4ntjTCmyhwHIsK12RScxRP) |
-| At the Golden Circle Stockholm, Vol. 1 | Ornette Coleman | 1965 | [At The Golden Circle Vol. 1 (Rudy Van Gelder Edition)](https://open.spotify.com/album/4oJCfwkaA7iv1WL6sInVpV) |
-| Brotherhood of Breath | Chris McGregor | 1971 | [Chris Mcgregor's Brotherhood of Breath](https://open.spotify.com/album/5AFmh7BZAAFSDteA9v2kPE) |
-| The Gil Evans Orchestra Plays the Music of Jimi Hendrix | Gil Evans | 1974 | [Plays The Music Of Jimi Hendrix](https://open.spotify.com/album/0lBWV41v8qCOq4goLvPUw8) |
-| Hailu Mergia and His Classical Instrument | Hailu Mergia | 1985 | [Hailu Mergia & His Classical Instrument: Shemonmuanaye](https://open.spotify.com/album/1wqrY1fT3Mwtxfm0wP1dNZ) |
-| Malcolm X (banda sonora) | Terence Blanchard | 1992 | [Malcolm X: The Original Motion Picture Score](https://open.spotify.com/album/0SAlsNB7FRYWsy5zcpPyfc) |
-| Swing Guitar Masterpieces 1938–1957 | Oscar Alemán | 1998 | [Swing Guitar Masterpieces](https://open.spotify.com/album/2uOGMb54WBDBOloisEXa9C) |
-| Lisãn Al Tarab | Tarek Yamani | 2014 | [Lisan Al Tarab: Jazz Conceptions in Classical Arabic](https://open.spotify.com/album/0b8OWmG970Wx0nYuf1eiz8) |
+| Ain't Misbehavin': The Best of Fats Waller | Fats Waller | 1943 | [Ain't Misbehavin'](https://open.spotify.com/album/5RYNGRkTsWggVORQEK296D) |
+| The Original James P. Johnson | James P. Johnson | 1945 | [The Original James P. Johnson](https://open.spotify.com/album/1k0c3oACTEHHlNQc1Ohci3) |
+| Ellington at Newport | Duke Ellington and His Orchestra | 1956 | [Ellington at Newport 1956 (Complete)](https://open.spotify.com/album/0t41BkcZayaAsa0FdRelfz) |
+| Ella in Berlin: Mack the Knife | Ella Fitzgerald | 1960 | [The Complete Ella In Berlin: Mack The Knife (Live)](https://open.spotify.com/album/5R53NoBwIqJDgNWMhu1Due) |
+| At the Five Spot, Vol. 1 | Eric Dolphy | 1961 | [Eric Dolphy At the Five Spot, Vol. 1](https://open.spotify.com/album/4bdTqyrsSqv8II3iNmYKnW) |
+| The New Tristano | Lennie Tristano | 1962 | [Lennie Tristano / The New Tristano](https://open.spotify.com/album/1NONihvQGQ4aVVV956pGH9) |
+| Everybody Knows Johnny Hodges | Johnny Hodges | 1965 | [Everybody Knows](https://open.spotify.com/album/6kKpF48UR3DWYHLwbfvZ3C) |
+| Seeds on the Ground | Airto Moreira | 1971 | [Seeds On the Ground - The Natural Sounds of Airto](https://open.spotify.com/album/5TzdgZC2mY61Mt39zLmHCR) |
+| Who's to Know | L. Shankar | 1980 | [Who's To Know - Indian Classical Music](https://open.spotify.com/album/3OMXlAb0CBDAq37LajekYQ) |
+| Standard Time, Vol. 1 | Wynton Marsalis | 1987 | [Marsalis Standard Time - Volume I](https://open.spotify.com/album/6tDA8wJvkFgz3UDVW0pXat) |
+| Litania | Tomasz Stańko | 1997 | [Litania - Music Of Krzysztof Komeda](https://open.spotify.com/album/5WOyMS8xjRwcFoSn63u9dg) |
+| Éthiopiques, Vol. 7: Erè Mèla Mèla | Mahmoud Ahmed | 1999 | [Ethiopiques, Vol. 7: Erè mèla mèla 1975-1978](https://open.spotify.com/album/0SCNMJwzqp2yEji1HJkGbn) |
+| We're New Again | Makaya McCraven | 2020 | [We're New Again - A Reimagining by Makaya McCraven](https://open.spotify.com/album/6KyrXenbN00HrJscGWCsf0) |
 
 ## Dudosos: revisar el link candidato
 
@@ -48,49 +49,28 @@ Para aprobar uno, alcanza con decir cuál. El motivo explica por qué no se apli
 
 | Título | Artista | Año | Importancia | Por qué está |
 |---|---|---|---|---|
-| Livery Stable Blues | Original Dixieland Jass Band | 1917 | Alta | disco clave de Original Dixieland Jass Band |
-| Muskrat Ramble (Louis Armstrong Hot Five) | Kid Ory | 1926 | Alta | disco clave de Kid Ory |
 | The Complete Victor Recordings | Jelly Roll Morton | 1926 | Alta | disco clave de Jelly Roll Morton |
-| Strange Fruit | Billie Holiday | 1939 | Alta | disco clave de Billie Holiday |
 | A Study in Dameronia | Tadd Dameron | 1953 | Alta | disco clave de Tadd Dameron |
-| Jazz Moods | Yusef Lateef | 1957 | Alta | disco clave de Yusef Lateef |
-| The Scene Changes | Bud Powell | 1959 | Alta | disco clave de Bud Powell |
-| Blue Hodge | Johnny Hodges | 1961 | Alta | disco clave de Johnny Hodges |
 | Coisas | Moacir Santos | 1965 | Alta | para empezar Jazz brasileño |
 | Super Afro Soul | Orlando Julius | 1966 | Alta | disco clave de Orlando Julius |
-| Forest Flower | Charles Lloyd | 1967 | Alta | disco clave de Charles Lloyd |
 | Mission: Impossible | Lalo Schifrin | 1967 | Alta | disco clave de Lalo Schifrin |
 | Puttin' It Together | Elvin Jones | 1968 | Alta | disco clave de Elvin Jones |
 | The Boss Is Back! | Gene Ammons | 1969 | Alta | disco clave de Gene Ammons |
-| Turn It Over | Tony Williams | 1970 | Alta | disco clave de Tony Williams |
-| Harlem River Drive | Eddie Palmieri | 1971 | Alta | disco clave de Eddie Palmieri |
-| Free | Airto Moreira | 1972 | Alta | disco clave de Airto Moreira |
 | Jazz batá | Chucho Valdés | 1972 | Alta | disco clave de Chucho Valdés |
-| Live! | Pat Martino | 1972 | Alta | disco clave de Pat Martino |
 | Newborn Light | Urszula Dudziak | 1972 | Alta | disco clave de Urszula Dudziak |
 | Sahara | McCoy Tyner | 1972 | Alta | disco clave de McCoy Tyner |
-| Black Byrd | Donald Byrd | 1973 | Alta | disco clave de Donald Byrd |
-| Blow Up | Isao Suzuki | 1973 | Alta | disco clave de Isao Suzuki |
 | Butterfly Dreams | Flora Purim | 1973 | Alta | disco clave de Flora Purim |
 | In the Townships | Dudu Pukwana | 1973 | Alta | disco clave de Dudu Pukwana |
-| Fusion | Michał Urbaniak | 1974 | Alta | disco clave de Michał Urbaniak |
 | Mannenberg – Is Where It's Happening | Dollar Brand (Abdullah Ibrahim) | 1974 | Alta | para empezar Jazz del mundo |
-| Misty | Tsuyoshi Yamamoto | 1974 | Alta | disco clave de Tsuyoshi Yamamoto |
 | Summit (Reunión Cumbre) | Astor Piazzolla | 1974 | Alta | disco clave de Astor Piazzolla |
 | Clouds in My Head | Arild Andersen | 1975 | Alta | disco clave de Arild Andersen |
-| Jealousy | Tony Allen | 1975 | Alta | disco clave de Tony Allen |
 | Prime Source | Fats Navarro | 1975 | Alta | disco clave de Fats Navarro |
 | Exit | Pat Martino | 1976 | Alta | disco clave de Pat Martino |
-| Shakti | Shakti con John McLaughlin | 1976 | Alta | disco clave de John McLaughlin |
-| Dança das Cabeças | Egberto Gismonti | 1977 | Alta | disco clave de Egberto Gismonti |
 | Live at the Misty | Tsuyoshi Yamamoto | 1977 | Alta | disco clave de Tsuyoshi Yamamoto |
 | Magic Time | Opa | 1977 | Alta | disco clave de Rubén Rada |
 | Midnight Rain | Urszula Dudziak | 1977 | Alta | disco clave de Urszula Dudziak |
-| Urbaniak | Michał Urbaniak | 1977 | Alta | disco clave de Michał Urbaniak |
 | Virtuoso #2 | Joe Pass | 1977 | Alta | disco clave de Joe Pass |
 | Spirits Rejoice! | Louis Moholo-Moholo | 1978 | Alta | disco clave de Louis Moholo-Moholo |
-| Routes to Django | Biréli Lagrène | 1980 | Alta | disco clave de Biréli Lagrène |
-| Susto | Masabumi Kikuchi | 1981 | Alta | disco clave de Masabumi Kikuchi |
 | Zila Sounds | Dudu Pukwana | 1981 | Alta | disco clave de Dudu Pukwana |
 | Turiya Sings | Alice Coltrane | 1982 | Alta | disco clave de Alice Coltrane |
 | Journey to the Urge Within | Courtney Pine | 1986 | Alta | disco clave de Courtney Pine |
@@ -105,9 +85,7 @@ Para aprobar uno, alcanza con decir cuál. El motivo explica por qué no se apli
 | Timelessness | Bheki Mseleku | 1994 | Alta | disco clave de Bheki Mseleku |
 | Twenty One | Geri Allen | 1994 | Alta | disco clave de Geri Allen |
 | Bra Louis – Bra Tebs | Louis Moholo-Moholo | 1995 | Alta | disco clave de Louis Moholo-Moholo |
-| Music for Romance | Louiz Banks | 1995 | Alta | disco clave de Louiz Banks |
 | Pure Emotion | Chico O'Farrill | 1995 | Alta | disco clave de Chico O'Farrill |
-| Songs: The Art of the Trio, Volume Three | Brad Mehldau | 1998 | Alta | disco clave de Brad Mehldau |
 | Like Minds | Gary Burton | 1998 | Alta | disco clave de Gary Burton |
 | Two Blocks from the Edge | Michael Brecker | 1998 | Alta | disco clave de Michael Brecker |
 | Sound Grammar | Ornette Coleman | 2006 | Alta | disco clave de Ornette Coleman |
@@ -175,7 +153,6 @@ Para aprobar uno, alcanza con decir cuál. El motivo explica por qué no se apli
 | Developing an American Orchestra 1923–1937 | Fletcher Henderson | 1977 | Media | esencial de Fletcher Henderson |
 | May Dance | Terumasa Hino | 1977 | Media | esencial de Terumasa Hino |
 | Mellow Dream | Ryo Fukui | 1977 | Media | esencial de Ryo Fukui |
-| Progress | Tony Allen | 1977 | Media | esencial de Tony Allen |
 | Sorrow, Tears and Blood | Fela Kuti | 1977 | Media | esencial de Fela Kuti |
 | The Great Jazz Trio at the Village Vanguard | Hank Jones | 1977 | Media | esencial de Hank Jones |
 | Codona | Codona | 1979 | Media | esencial de Naná Vasconcelos |

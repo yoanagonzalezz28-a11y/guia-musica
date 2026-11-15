@@ -142,5 +142,8 @@
       "duracion": 404
     }
   ],
-  "temasFuente": "Spotify"
+  "temasFuente": "Spotify",
+  "regiones": [
+    "estados-unidos"
+  ]
 }

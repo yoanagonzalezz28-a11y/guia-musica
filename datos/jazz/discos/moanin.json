@@ -125,5 +125,8 @@
       "duracion": 559
     }
   ],
-  "temasFuente": "Spotify"
+  "temasFuente": "Spotify",
+  "regiones": [
+    "estados-unidos"
+  ]
 }

@@ -118,5 +118,8 @@
       "duracion": 398
     }
   ],
-  "temasFuente": "Spotify"
+  "temasFuente": "Spotify",
+  "regiones": [
+    "estados-unidos"
+  ]
 }

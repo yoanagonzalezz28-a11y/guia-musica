@@ -4,14 +4,18 @@
     "gioia": "pendiente"
   },
   "discrepancias": [],
-  "regiones": [],
+  "regiones": [
+    "estados-unidos"
+  ],
   "compilacion": false,
   "tipo": "estudio",
   "catalogo": "BN-LA047-F",
   "lugar": "The Sound Factory, Hollywood",
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Black Byrd Donald Byrd"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0j5Nx6IeRw3H5gohShC0qZ",
+    "tituloEnSpotify": "Blackbyrd",
+    "via": "manual"
   },
   "id": "black-byrd",
   "titulo": "Black Byrd",

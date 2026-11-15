@@ -3,7 +3,9 @@
     "estado": "borrador",
     "gioia": "pendiente"
   },
-  "regiones": [],
+  "regiones": [
+    "reino-unido"
+  ],
   "spotify": "https://open.spotify.com/artist/2lrCkW8oiUfuiouUjVvM1o",
   "id": "hutchings",
   "nombre": "Shabaka Hutchings",

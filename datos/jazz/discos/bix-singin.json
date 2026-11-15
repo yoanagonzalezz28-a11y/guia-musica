@@ -9,7 +9,9 @@
       "texto": "MusicBrainz da 1995, el año de esta selección en CD. La grabación original es de 1927."
     }
   ],
-  "regiones": [],
+  "regiones": [
+    "estados-unidos"
+  ],
   "compilacion": true,
   "tipo": "estudio",
   "catalogo": null,

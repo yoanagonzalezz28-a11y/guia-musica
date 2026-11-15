@@ -4,14 +4,18 @@
     "gioia": "pendiente"
   },
   "discrepancias": [],
-  "regiones": [],
+  "regiones": [
+    "estados-unidos"
+  ],
   "compilacion": false,
   "tipo": "estudio",
   "catalogo": null,
   "lugar": "Right Track, Nueva York",
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Songs: The Art of the Trio, Volume Three Brad Mehldau"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4XrD4Ta5YWbmJ1O1I4qnS9",
+    "tituloEnSpotify": "Songs: The Art of the Trio, Vol. 3",
+    "via": "manual"
   },
   "id": "art-of-trio-3",
   "titulo": "Songs: The Art of the Trio, Volume Three",

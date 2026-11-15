@@ -24,7 +24,25 @@
   ],
   "spotify": "https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr",
   "resumen": "Baterista noruego que tocó en decenas de discos de ECM. Su manera de tocar, más de colores y de pulso flotante que de ritmo marcado, es parte esencial del sonido nórdico.",
-  "epocas": [],
+  "epocas": [
+    {
+      "titulo": "ECM y el sonido nórdico",
+      "desde": 1971,
+      "hasta": 2015,
+      "texto": "Desde los primeros discos de Jan Garbarek en ECM tocó en decenas de grabaciones del sello, con músicos nórdicos y también con Keith Jarrett. Tocaba más con colores y un pulso flotante que con el ritmo marcado.[^wp-jon-christensen]",
+      "discoClave": {
+        "disco": "afric-pepperbird",
+        "explicacion": "Uno de los primeros discos del cuarteto de Jan Garbarek en ECM, donde empieza a armarse el sonido nórdico del sello."
+      },
+      "discos": [
+        "belonging",
+        "witchi-tai-to",
+        "dansere",
+        "war-orphans",
+        "libera-me"
+      ]
+    }
+  ],
   "fuentes": [
     "wp-jon-christensen"
   ],

@@ -9,7 +9,9 @@
       "texto": "MusicBrainz da 1970, el año de la grabación. Wikipedia da 1971."
     }
   ],
-  "regiones": [],
+  "regiones": [
+    "estados-unidos"
+  ],
   "compilacion": false,
   "tipo": "vivo",
   "catalogo": "CjR 2",

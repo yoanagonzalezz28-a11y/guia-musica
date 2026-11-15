@@ -4375,16 +4375,6 @@
   "pistas": 11,
   "motivo": null
  },
- "perdido": {
-  "estado": "similitud",
-  "url": "https://open.spotify.com/album/4TrSrlwl6jdYVsW8vdgxrS",
-  "titulo": "Perdido (1940s Radio Hour Version)",
-  "artistas": "Duke Ellington",
-  "anio": 2020,
-  "pistas": 1,
-  "motivo": "grabación de 1942; la edición de Spotify es de 2020 y puede ser otra recopilación",
-  "criterio": 2
- },
  "petite-fleur": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/6Komr5AnVWZSAA7kg39pO5",
@@ -6454,10 +6444,6 @@
   "estado": "no",
   "criterio": 2
  },
- "black-byrd": {
-  "estado": "no",
-  "criterio": 2
- },
  "black-christ-of-the-andes": {
   "estado": "similitud",
   "url": "https://open.spotify.com/album/35TchegKRAVtmhwSfDA8hy",
@@ -6468,14 +6454,6 @@
   "criterio": 2
  },
  "black-hope": {
-  "estado": "no",
-  "criterio": 2
- },
- "blow-up": {
-  "estado": "no",
-  "criterio": 2
- },
- "blue-hodge": {
   "estado": "no",
   "criterio": 2
  },
@@ -6536,10 +6514,6 @@
   "criterio": 2
  },
  "cultural-survival": {
-  "estado": "no",
-  "criterio": 2
- },
- "danca-das-cabecas": {
   "estado": "no",
   "criterio": 2
  },
@@ -6648,10 +6622,6 @@
   "estado": "no",
   "criterio": 2
  },
- "free": {
-  "estado": "no",
-  "criterio": 2
- },
  "freedom-suite": {
   "estado": "similitud",
   "url": "https://open.spotify.com/album/39oE0sL4M6o4sYzCLFH1Yy",
@@ -6662,10 +6632,6 @@
   "criterio": 2
  },
  "full-view": {
-  "estado": "no",
-  "criterio": 2
- },
- "fusion-urbaniak": {
   "estado": "no",
   "criterio": 2
  },
@@ -6685,10 +6651,6 @@
   "artistas": "Fats Waller",
   "anio": 1999,
   "pistas": 22,
-  "criterio": 2
- },
- "harlem-river-drive": {
-  "estado": "no",
   "criterio": 2
  },
  "hazuki": {
@@ -6808,10 +6770,6 @@
   "estado": "no",
   "criterio": 2
  },
- "live-martino": {
-  "estado": "no",
-  "criterio": 2
- },
  "live": {
   "estado": "seguro",
   "url": "https://open.spotify.com/album/4Rf6yyPicKpPffKrqDMMH4",
@@ -6819,10 +6777,6 @@
   "artistas": "Massimo Faraò, Bobby Durham, Jack McDuff",
   "anio": 2020,
   "pistas": 9,
-  "criterio": 2
- },
- "livery-stable-blues": {
-  "estado": "no",
   "criterio": 2
  },
  "lola": {
@@ -6918,14 +6872,6 @@
   "criterio": 2
  },
  "movil": {
-  "estado": "no",
-  "criterio": 2
- },
- "music-for-romance": {
-  "estado": "no",
-  "criterio": 2
- },
- "muskrat-ramble-louis-armstrong-hot-five": {
   "estado": "no",
   "criterio": 2
  },
@@ -7082,10 +7028,6 @@
   "pistas": 17,
   "criterio": 2
  },
- "routes-to-django": {
-  "estado": "no",
-  "criterio": 2
- },
  "sahara": {
   "estado": "no",
   "criterio": 2
@@ -7097,10 +7039,6 @@
   "artistas": "Airto",
   "anio": 1971,
   "pistas": 7,
-  "criterio": 2
- },
- "shakti": {
-  "estado": "no",
   "criterio": 2
  },
  "somewhere-called-home": {
@@ -7180,10 +7118,6 @@
   "estado": "no",
   "criterio": 2
  },
- "strange-fruit": {
-  "estado": "no",
-  "criterio": 2
- },
  "suite-4-y-20": {
   "estado": "no",
   "criterio": 2
@@ -7193,10 +7127,6 @@
   "criterio": 2
  },
  "super-afro-soul": {
-  "estado": "no",
-  "criterio": 2
- },
- "susto": {
   "estado": "no",
   "criterio": 2
  },
@@ -7368,10 +7298,6 @@
   "estado": "no",
   "criterio": 2
  },
- "turn-it-over": {
-  "estado": "no",
-  "criterio": 2
- },
  "twenty-one": {
   "estado": "no",
   "criterio": 2
@@ -7407,10 +7333,6 @@
   "criterio": 2
  },
  "united-future-organization-1993": {
-  "estado": "no",
-  "criterio": 2
- },
- "urbaniak": {
   "estado": "no",
   "criterio": 2
  },
@@ -7496,14 +7418,6 @@
   "estado": "no",
   "criterio": 2
  },
- "jazz-moods": {
-  "estado": "no",
-  "criterio": 2
- },
- "the-scene-changes": {
-  "estado": "no",
-  "criterio": 2
- },
  "the-tatum-solo-masterpieces": {
   "estado": "no",
   "criterio": 2
@@ -7517,10 +7431,6 @@
   "criterio": 2
  },
  "africadeus": {
-  "estado": "no",
-  "criterio": 2
- },
- "art-of-trio-3": {
   "estado": "no",
   "criterio": 2
  },
@@ -7546,10 +7456,6 @@
   "estado": "no",
   "criterio": 2
  },
- "misty-yamamoto": {
-  "estado": "no",
-  "criterio": 2
- },
  "the-mosaic-project": {
   "estado": "no",
   "criterio": 2
@@ -7564,14 +7470,6 @@
   "criterio": 2
  },
  "abbey-sings-abbey": {
-  "estado": "no",
-  "criterio": 2
- },
- "forest-flower": {
-  "estado": "no",
-  "criterio": 2
- },
- "jealousy": {
   "estado": "no",
   "criterio": 2
  },
@@ -7593,10 +7491,6 @@
   "criterio": 2
  },
  "misty": {
-  "estado": "no",
-  "criterio": 2
- },
- "progress": {
   "estado": "no",
   "criterio": 2
  },

@@ -18,7 +18,8 @@
     "mekurya",
     "hailu",
     "mahmoud-ahmed",
-    "emahoy"
+    "emahoy",
+    "yirga"
   ],
   "discos": [
     "mulatu-of-ethiopia",
@@ -55,18 +56,6 @@
       "fuentes": [
         "db-mulatu",
         "artsdesk-mulatu"
-      ]
-    },
-    {
-      "musico": "yirga",
-      "nombre": "Samuel Yirga",
-      "instrumento": "piano",
-      "base": "Addis Abeba",
-      "ultimaActividad": 2023,
-      "detalle": "Pianista del etiojazz actual. Su última actividad documentada que encontramos es una gira por Austria en 2023.",
-      "fuentes": [
-        "kb-yirga",
-        "npr-yirga"
       ]
     }
   ]

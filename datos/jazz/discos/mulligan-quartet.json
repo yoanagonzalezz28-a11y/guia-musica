@@ -4,7 +4,9 @@
     "gioia": "pendiente"
   },
   "discrepancias": [],
-  "regiones": [],
+  "regiones": [
+    "estados-unidos"
+  ],
   "id": "mulligan-quartet",
   "titulo": "Gerry Mulligan Quartet",
   "credito": "Gerry Mulligan Quartet",

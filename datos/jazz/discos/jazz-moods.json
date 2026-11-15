@@ -13,7 +13,16 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
+    "estado": "fuera",
+    "motivo": "No está en Spotify. El álbum está en YouTube, publicado por el sello en su canal oficial. En YouTube figura como \"Jazz Mood\".",
+    "alternativas": [
+      {
+        "texto": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=OLAK5uy_mnpo6M50JmKkunMMql-O9rfGyW93fdMzY"
+      }
+    ],
+    "via": "youtube-music",
+    "tituloEnYoutube": "Jazz Mood",
     "consulta": "Jazz Moods Yusef Lateef"
   },
   "id": "jazz-moods",

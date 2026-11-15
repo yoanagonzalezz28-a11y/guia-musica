@@ -180,5 +180,8 @@
   "recopilacion": {
     "desde": 1947,
     "hasta": 1948
-  }
+  },
+  "regiones": [
+    "estados-unidos"
+  ]
 }

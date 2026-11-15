@@ -27,7 +27,22 @@
   ],
   "spotify": null,
   "resumen": "Trombonista puertorriqueño de la orquesta de Duke Ellington. Compuso \"Caravan\" y \"Perdido\", dos de los temas más tocados del jazz, y fue de los primeros en llevar colores latinos a una big band.",
-  "epocas": [],
+  "epocas": [
+    {
+      "titulo": "Con Duke Ellington",
+      "desde": 1929,
+      "hasta": 1944,
+      "texto": "Entró a la orquesta de Duke Ellington en 1929. Ahí compuso \"Caravan\" y \"Perdido\", y llevó colores latinos a una big band.[^wp-juan-tizol]",
+      "discoClave": {
+        "disco": "caravan",
+        "explicacion": "Su tema más conocido, en la grabación de la orquesta de Ellington."
+      },
+      "discos": [
+        "perdido",
+        "never-no-lament"
+      ]
+    }
+  ],
   "fuentes": [
     "wp-juan-tizol"
   ],

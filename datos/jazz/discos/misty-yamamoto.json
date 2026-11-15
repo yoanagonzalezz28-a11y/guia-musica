@@ -13,7 +13,16 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
+    "estado": "fuera",
+    "motivo": "No está en Spotify. El álbum está en YouTube, publicado por el sello en su canal oficial.",
+    "alternativas": [
+      {
+        "texto": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=OLAK5uy_nULfRIbyufuyCRqOehm86wM7PHzmtf4bQ"
+      }
+    ],
+    "via": "youtube-music",
+    "tituloEnYoutube": "MISTY",
     "consulta": "Misty Tsuyoshi Yamamoto"
   },
   "id": "misty-yamamoto",

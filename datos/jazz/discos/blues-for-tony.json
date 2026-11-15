@@ -5,7 +5,9 @@
   },
   "verificacion": "sin-verificar",
   "discrepancias": [],
-  "regiones": [],
+  "regiones": [
+    "reino-unido"
+  ],
   "compilacion": false,
   "tipo": "vivo",
   "catalogo": null,

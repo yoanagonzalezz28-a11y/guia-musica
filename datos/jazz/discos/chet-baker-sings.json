@@ -9,7 +9,9 @@
       "texto": "La edición de Spotify figura como 1956, el año de la versión ampliada. Wikipedia y MusicBrainz dan 1954 para el disco original."
     }
   ],
-  "regiones": [],
+  "regiones": [
+    "estados-unidos"
+  ],
   "id": "chet-baker-sings",
   "titulo": "Chet Baker Sings",
   "credito": "Chet Baker",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Forest Flower Charles Lloyd"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6lIWfnUerZuu9UcUDnF2JD",
+    "tituloEnSpotify": "Forest Flower: Charles Lloyd At Monterey (Live)",
+    "via": "manual"
   },
   "id": "forest-flower",
   "titulo": "Forest Flower",

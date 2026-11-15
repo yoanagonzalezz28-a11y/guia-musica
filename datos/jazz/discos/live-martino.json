@@ -13,7 +13,16 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
+    "estado": "fuera",
+    "motivo": "No está en Spotify. El álbum está en YouTube, publicado por el sello en su canal oficial. Está junto con Consciousness, en una sola edición.",
+    "alternativas": [
+      {
+        "texto": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=OLAK5uy_lbzPRiladrh1TIBd8OcFU54Laxlzw862g"
+      }
+    ],
+    "via": "youtube-music",
+    "tituloEnYoutube": "Consciousness / Live!",
     "consulta": "Live! Pat Martino"
   },
   "id": "live-martino",

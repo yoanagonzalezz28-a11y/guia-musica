@@ -10,7 +10,9 @@
       "texto": "Año tomado de la edición disponible en Spotify; puede ser una reedición."
     }
   ],
-  "regiones": [],
+  "regiones": [
+    "estados-unidos"
+  ],
   "compilacion": false,
   "tipo": "estudio",
   "catalogo": null,

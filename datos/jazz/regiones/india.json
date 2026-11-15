@@ -39,18 +39,5 @@
       "texto": "Festival anual de Bombay, desde 2011."
     }
   ],
-  "escenaActual": [
-    {
-      "musico": "banks",
-      "nombre": "Louiz Banks",
-      "instrumento": "piano y teclados",
-      "base": "Bombay",
-      "ultimaActividad": 2024,
-      "detalle": "En 2024 tocó por primera vez en Trincas, uno de los locales históricos de jazz de la India.",
-      "fuentes": [
-        "esq-india",
-        "ri-india"
-      ]
-    }
-  ]
+  "escenaActual": []
 }

@@ -9,7 +9,9 @@
       "texto": "MusicBrainz da marzo de 2021 y Wikipedia abril de 2021. El año coincide."
     }
   ],
-  "regiones": [],
+  "regiones": [
+    "estados-unidos"
+  ],
   "id": "metaphysics",
   "titulo": "Metaphysics: The Lost Atlantic Album",
   "credito": "Hasaan Ibn Ali",

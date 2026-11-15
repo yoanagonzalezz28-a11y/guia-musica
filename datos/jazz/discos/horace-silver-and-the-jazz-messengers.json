@@ -128,5 +128,8 @@
   "recopilacion": {
     "desde": 1954,
     "hasta": 1955
-  }
+  },
+  "regiones": [
+    "estados-unidos"
+  ]
 }

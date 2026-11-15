@@ -178,11 +178,11 @@
       "nombre": "Juan Pablo Chapital",
       "instrumento": "guitarra",
       "base": "Montevideo",
-      "ultimaActividad": 2024,
-      "detalle": "Publicó *Móvil* en 2024 y dirige el proyecto Electric Miles, que tocó en el Festival de Jazz de Montevideo.",
+      "ultimaActividad": 2025,
+      "detalle": "Con Electric Miles, su homenaje a la etapa eléctrica de Miles Davis, tocó en el 18.° Festival de Jazz de Montevideo, en el Teatro Solís, en diciembre de 2025. En 2024 había publicado *Móvil*.",
       "fuentes": [
-        "bandcamp-chapital",
-        "montevideo-chapital"
+        "solis-electric-miles-2025",
+        "bandcamp-chapital"
       ]
     },
     {
@@ -202,11 +202,10 @@
       "nombre": "Gonzalo Levin",
       "instrumento": "saxo tenor",
       "base": "Montevideo",
-      "ultimaActividad": 2024,
-      "detalle": "Su octeto con cuerdas tocó en el Festival de Jazz del Uruguay del Sodre en 2023 y en Jazz a la Calle, en Mercedes, en 2024.",
+      "ultimaActividad": 2026,
+      "detalle": "Toca el saxo tenor en el quinteto de Juan Ibarra que revisita a Coltrane por su centenario, anunciado para el 19.° Festival de Jazz de Montevideo, en la Sala Zitarrosa, el 2 de diciembre de 2026.",
       "fuentes": [
-        "sodre-jazz-2023",
-        "mec-jazz-calle-2024"
+        "zitarrosa-coltrane-100"
       ]
     },
     {
@@ -309,11 +308,11 @@
       "nombre": "Andrés Hayes",
       "instrumento": "saxo",
       "base": "Buenos Aires",
-      "ultimaActividad": 2024,
-      "detalle": "Presentó *Luces hoy* en 2024. No encontramos registros más recientes, y hay que confirmarlo con fuentes locales.",
+      "ultimaActividad": 2026,
+      "detalle": "En enero de 2026 tocó en Bebop Club, en Buenos Aires, con un cuarteto que comparte con el saxofonista alemán Heinrich von Kalnein. En 2024 había publicado *Luces hoy*.",
       "fuentes": [
-        "tiempo-hayes",
-        "litoral-hayes"
+        "partedelshow-bebop-2026",
+        "tiempo-hayes"
       ]
     }
   ],

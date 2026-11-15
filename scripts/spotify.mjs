@@ -243,7 +243,8 @@ Actualizado el ${new Date().toISOString().slice(0, 10)} con \`npm run spotify\` 
 
 - **Encontrados y aplicados con la API:** ${totalApi}, de los cuales ${totalSimilitud} se aplicaron por similitud.
 - **Dudosos, para revisar:** ${resumen(dudosos)}. No se aplicaron.
-- **Sin aparecer:** ${resumen(sin)}.${pendientes.length ? `\n- **Todavía sin buscar:** ${pendientes.length}. Spotify limitó las consultas; hay que volver a correr \`npm run spotify\`${limitado ? ` después del ${limitado}` : ''}.` : ''}
+- **Sin aparecer:** ${resumen(sin)}.
+- **En YouTube, en el canal oficial del sello (YouTube Music):** ${discos().filter(d => d.spotify.via === 'youtube-music').length}. Son discos de importancia alta que no están en Spotify; el botón dice "YouTube".${pendientes.length ? `\n- **Todavía sin buscar:** ${pendientes.length}. Spotify limitó las consultas; hay que volver a correr \`npm run spotify\`${limitado ? ` después del ${limitado}` : ''}.` : ''}
 
 Cómo se buscó: por artista y título, con variantes (sin subtítulo, sin "Vol.", con el título original, sin los agregados de reedición o edición ampliada) y con el nombre del líder cuando el crédito es de un grupo. Desde el 10/11/2026 se aplica directo si coincide el artista y el título es muy parecido (sin importar subtítulos, "Remastered", "Deluxe", "Vol.", tildes, mayúsculas ni el orden de las palabras), incluidas las reediciones y versiones ampliadas. Esos casos quedan marcados en los datos como \`porSimilitud\`; el sitio no lo muestra. Un simple solo se acepta si el disco del banco es anterior a 1950.
 

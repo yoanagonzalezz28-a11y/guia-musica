@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Progress Tony Allen"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5bfzeQNtVRegHalAA7mGMQ",
+    "tituloEnSpotify": "Progress, Jealousy",
+    "via": "manual"
   },
   "id": "progress",
   "titulo": "Progress",
