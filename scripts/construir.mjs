@@ -375,7 +375,7 @@ const construir = {
       ${grillaDeTapas(ctx)}
       <p class="presentacion">${g.corrientes.length} épocas, de Nueva Orleans a hoy. Cada tapa abre una época con su historia, sus músicos y sus discos.</p>
       <section class="camino" aria-labelledby="titulo-camino"><h2 id="titulo-camino">Tu camino</h2>
-        <p class="ayuda">Cada parada toma su color cuando marcás algo de esa época y se llena cuando la marcás como estudiada.</p>
+        <p class="ayuda">Cada parada toma su color cuando marcás algo de esa época y se llena cuando la marcás como estudiada. Con tus puntajes se arma <a href="${ctx.a(URL.marcas())}#perfil">tu perfil de escucha</a>.</p>
         <div class="metro" data-metro>${metroInicial(ctx)}</div>
       </section>`,
     });
@@ -567,13 +567,14 @@ const construir = {
             <h2>Tus marcas</h2>
             <label class="marca-escuchado"><input type="checkbox" data-campo="escuchado"> Ya lo escuché</label>
             <fieldset class="marca-puntaje"><legend>Puntaje</legend>
-              ${[1, 2, 3, 4, 5].map(n => `<button type="button" data-puntaje="${n}" aria-pressed="false" aria-label="${n} de 5">${n}</button>`).join('')}
+              <div class="estrellas">${[1, 2, 3, 4, 5].map(n => `<button type="button" data-puntaje="${n}" aria-pressed="false" aria-label="${n} ${n === 1 ? 'estrella' : 'estrellas'} de 5"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2.6l2.85 6 6.55.8-4.83 4.55 1.25 6.5L12 17.3l-5.82 3.15 1.25-6.5L2.6 9.4l6.55-.8z"/></svg></button>`).join('')}</div>
+              <p class="ayuda" data-puntaje-ayuda hidden>Para borrar el puntaje, tocá la misma estrella otra vez.</p>
             </fieldset>
             <label class="marca-nota">Nota <textarea data-campo="nota" rows="3" maxlength="2000"></textarea></label>
             <ul class="notas-anteriores" data-notas-anteriores hidden></ul>
             <p class="ayuda">Se guarda solo en este navegador. <a href="${ctx.a(URL.marcas())}">Exportar o importar</a>.</p>
           </section>
-          <section><span class="rotulo">Músicos</span>
+          <section${d.musicos.length ? '' : ' hidden'}><span class="rotulo">Músicos</span>
             <ul class="personal">${d.musicos.map(m => `<li><span class="personal-nombre">${m.musico ? enlaceMusico(ctx, m.musico) : esc(m.nombre)}</span> <span class="personal-instrumento">${esc(m.instrumento)}${m.nota ? `, ${esc(m.nota.charAt(0).toLowerCase() + m.nota.slice(1))}` : ''}</span></li>`).join('')}</ul>
             ${d.personalNota && !/falta cargar/i.test(d.personalNota) ? `<p class="ayuda">${ctx.texto(d.personalNota)}</p>` : ''}</section>
           ${d.temas?.length ? `<section><span class="rotulo">Temas</span><ol class="temas">${d.temas.map(t => `<li><span>${esc(tituloTema(t.titulo))}</span><span class="duracion">${duracion(t.duracion)}</span></li>`).join('')}</ol></section>` : ''}
@@ -689,8 +690,12 @@ const construir = {
     const ctx = nuevoContexto(ruta);
     pagina(ruta, ctx, {
       titulo: 'Mis marcas', descripcion: 'Lo que escuchaste, tus puntajes, tus notas y tus épocas completadas, guardados en este navegador.', seccion: 'marcas',
-      scripts: ['qrcode.js'],
+      scripts: ['qrcode.js', 'perfil.js'],
       cuerpo: `<header class="encabezado" style="--largo:5"><h1>Mis marcas</h1><p>Discos escuchados, músicos vistos, puntajes, notas y épocas completadas. Nadie más los ve: el sitio no tiene cuentas ni recibe esta información.</p></header>
+      <section class="bloque perfil" id="perfil" data-perfil aria-labelledby="perfil-titulo">
+        <h2 id="perfil-titulo">Tu perfil de escucha</h2>
+        <div data-perfil-cuerpo><p class="ayuda">Se calcula con tus puntajes, acá en el navegador.</p></div>
+      </section>
       <section class="bloque panel-marcas">
         <section class="recibir-marcas" data-recibir hidden tabindex="-1" aria-labelledby="recibir-titulo">
           <h2 id="recibir-titulo">Marcas que llegan de otro dispositivo</h2>
@@ -804,6 +809,35 @@ function datosDelCamino() {
   return { corrientes, musicos };
 }
 
+// Datos para "Tu perfil de escucha" (Mis marcas): lo justo para calcular gustos y recomendaciones en el navegador.
+// Se baja solo en esa página. Las direcciones de discos y músicos se arman en el navegador con el id. El instrumento de un disco es el de su líder en ese disco (o el principal del músico).
+const NO_INSTRUMENTO = /^(composición|arreglos|dirección|producción|grupo|colectivo|letras|teoría|sellos|locutor|quinteto|piano trío)/;
+// La región del disco; si no la tiene cargada, la de sus líderes.
+const regionesDelDisco = d => {
+  const propias = g.regiones.filter(r => r.discos.includes(d.id) || d.regiones?.includes(r.id)).map(r => r.id);
+  return propias.length ? propias : [...new Set(d.lideres.flatMap(id => g.por.musico.get(id)?.regiones || []))];
+};
+function datosDelPerfil() {
+  const instrumentoDe = (d, id) => {
+    const enDisco = d.musicos.find(x => x.musico === id)?.instrumento;
+    const lista = [...String(enDisco || '').split(/,| y /), ...(g.por.musico.get(id)?.instrumentos || [])].map(s => s.trim().toLowerCase()).filter(s => s && !NO_INSTRUMENTO.test(s));
+    return lista[0] || null;
+  };
+  const importantes = new Set([...g.corrientes.flatMap(c => c.discosEsenciales.map(e => e.disco)), ...g.musicos.flatMap(m => m.epocas.map(e => e.discoClave.disco))]);
+  const discos = Object.fromEntries(g.discos.map(d => [d.id, {
+    t: d.titulo, n: d.credito, a: anioDisco(d), l: d.lideres.filter(id => g.por.musico.has(id)),
+    ...(d.corrientes.length ? { c: d.corrientes } : {}), r: regionesDelDisco(d),
+    i: [...new Set(d.lideres.map(id => instrumentoDe(d, id)).filter(Boolean))], ...(importantes.has(d.id) ? { e: 1 } : {}),
+  }]));
+  for (const d of Object.values(discos)) for (const k of ['l', 'r', 'i']) if (!d[k].length) delete d[k];
+  return {
+    corrientes: Object.fromEntries(g.corrientes.map(c => [c.id, { n: c.nombre, u: URL.corriente(c.id) }])),
+    regiones: Object.fromEntries(g.regiones.map(r => [r.id, { n: r.nombre, u: URL.region(r.id) }])),
+    musicos: Object.fromEntries(g.musicos.map(m => [m.id, m.nombre])),
+    discos,
+  };
+}
+
 // Un link viejo (guardado o compartido) sigue llevando a la ficha aunque el id haya cambiado.
 function redirecciones() {
   const rutas = { disco: URL.disco, musico: URL.musico, corriente: URL.corriente };
@@ -831,6 +865,7 @@ fs.mkdirSync(path.join(DIST, 'recursos'), { recursive: true });
 for (const f of fs.readdirSync(path.join(RAIZ, 'sitio'))) fs.copyFileSync(path.join(RAIZ, 'sitio', f), path.join(DIST, 'recursos', f));
 fs.writeFileSync(path.join(DIST, 'recursos', 'indice.js'), `window.INDICE_BUSQUEDA=${JSON.stringify(indiceDeBusqueda())};\n`);
 fs.writeFileSync(path.join(DIST, 'recursos', 'camino.js'), `window.CAMINO=${JSON.stringify(datosDelCamino())};\n`);
+fs.writeFileSync(path.join(DIST, 'recursos', 'perfil.json'), JSON.stringify(datosDelPerfil()));
 fs.writeFileSync(path.join(DIST, 'recursos', 'renombres.js'), `window.RENOMBRES=${JSON.stringify(ids.renombres)};\n`);
 fs.writeFileSync(path.join(DIST, '.nojekyll'), '');
 

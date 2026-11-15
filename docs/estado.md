@@ -50,10 +50,21 @@ Las credenciales están en `.env` (`SPOTIFY_CLIENT_ID` y `SPOTIFY_CLIENT_SECRET`
 - Generador estático propio, sin dependencias: `scripts/construir.mjs` arma `dist/` a partir de `datos/`.
 - Validación (`scripts/datos.mjs`): frena la construcción solo ante referencias rotas, fechas imposibles y links mal formados. La falta de fuentes es un aviso; el detalle sale con `npm run auditar`.
 - Marcas personales en el navegador (localStorage), con exportar e importar: disco escuchado, músico visto, puntaje, notas y época estudiada.
+- **Puntaje con estrellas:** cinco estrellas que se tocan (área de 44 px); tocar la misma otra vez borra el puntaje. Se guarda el mismo número del 1 al 5 de siempre, así que los puntajes viejos se ven como estrellas sin convertir nada.
+- **Tu perfil de escucha** (arriba de "Mis marcas", con link desde "Tu camino"): con 5 discos puntuados o más muestra los discos de 5 estrellas, los músicos favoritos, las épocas, regiones e instrumentos más escuchados y mejor puntuados, una frase de devolución y hasta 6 discos para escuchar después con el motivo ("porque te gustó Speak No Evil"). Antes, invita a puntuar. Se calcula en el navegador con `recursos/perfil.json` (60 KB comprimido), que se arma en la construcción y solo se baja en esa página. El instrumento de un disco es el de su líder; la región, la del disco o, si no tiene, la de sus líderes.
 - **Llevar las marcas a otro dispositivo:** en "Mis marcas", un botón genera un link y un código QR con las marcas adentro, sin servidor ni cuenta. Al abrirlo, el otro navegador pregunta si combinar o reemplazar. El QR aparece hasta unas 55 marcas; con más, queda solo el link. "Mis marcas" también avisa que se guardan en este navegador y muestra cuándo fue la última exportación.
 - **Ids estables:** si un id publicado desaparece sin estar en `datos/renombres.json`, la construcción se frena. Las marcas de un id renombrado se mudan solas al nuevo, y la dirección vieja redirige. Ya hay registrados cuatro renombres y cuatro fichas retiradas.
 - **Formato de las marcas:** al convertir una versión vieja o mudar un id, la copia original queda como respaldo en el navegador. Los datos ilegibles o de una versión más nueva nunca se pisan. Detalle en [modelo-de-datos.md](modelo-de-datos.md).
 - **Pruebas:** las de Playwright con Edge (43 generales, 18 de diseño y 31 de marcas) se corren a mano en local y **no están en el repositorio**. La publicación en GitHub Pages solo corre `npm run construir`, que frena ante errores en los datos, pero no espera a las pruebas del navegador.
+
+### Revisión general del 15/11/2026
+
+- Links internos: 57.067 en 2055 páginas, ninguno roto, ninguna ancla rota.
+- Ids: ningún id publicado huérfano; los 8 renombres apuntan a fichas que existen.
+- Textos de prueba o carteles provisorios visibles: ninguno.
+- Celular (360 px) y modo oscuro en 18 páginas principales: sin desplazamiento horizontal ni errores.
+- *Bolsa de naylon en la rama de un árbol* mostraba "Músicos" con la lista vacía: ahora la sección se oculta si no hay personal.
+- El mapa de Regiones se probó y se descartó: Regiones sigue siendo una lista.
 
 ### Cambios del 10/11/2026
 
@@ -100,19 +111,19 @@ La carpeta está en `.gitignore`: **nada de esto se sube a GitHub ni se publica.
 
 ## Qué falta
 
-1. **Revisar los dudosos** de [sin-spotify.md](sin-spotify.md): son 54 (24 de importancia alta). Cada uno tiene su link candidato; alcanza con decir cuáles se aprueban.
-2. **Decidir qué hacer con los que no aparecen en Spotify** (194, 75 de importancia alta): buscarlos en YouTube o sacarlos del banco.
+1. **Revisar la muestra de Spotify por similitud** en [sin-spotify.md](sin-spotify.md) (56 aplicados; conviene confirmar *Perdido*, que quedó como "1940s Radio Hour Version"). Quedaron afuera por la regla estricta, aunque parecen correctos: *Forest Flower*, *Progress* y *Jealousy* (en Spotify salen juntos) y *Songs: The Art of the Trio Vol. 3*.
+2. **Decidir qué hacer con los que no aparecen en Spotify** (186, 72 de importancia alta): buscarlos en YouTube o sacarlos del banco.
 3. **Terminar de pulir las reseñas:**
    - Quedan unas 174 con una repetición más leve entre la primera y la segunda frase. Algunas todavía repiten, como *We Three* o *Plenty, Plenty Soul*, y otras están bien.
    - Estas 12 tienen dos frases porque falta un dato particular seguro: *Son dos*, *El jardín de Ordóñez*, *Turista*, *Cajita de música*, *La cocina magnética*, *Gonzalo Levin Octeto*, *Into Forever*, *Characters*, *Everyday, Everynight*, *Ravensburg*, *Downhill from Here* y *Live in Montreux 1987*.
 4. **Ampliar los datos sin cotejar con Gioia:** quedan 3 épocas sin cotejar (de 18), y la mayoría de los discos y músicos tiene una sola fuente.
-5. **Más datos por disco:** quedan 417 discos con el personal incompleto (153 de importancia alta; la lista está en [personal-incompleto.md](personal-incompleto.md)). El número de catálogo sigue faltando en muchos.
-   - Spotify: hay discos nuevos sin buscar; la API limitó hasta el **11/11/2026 a las 10:24**. Después, `npm run spotify`.
+5. **Más datos por disco:** quedan 431 discos con el personal incompleto (159 de importancia alta; la lista está en [personal-incompleto.md](personal-incompleto.md)). El número de catálogo sigue faltando en muchos.
    - Mujeres: siguen sin ninguna Jazz latino, Jazz manouche, Jazz modal y Acid jazz.
+   - Cinco músicos no tienen épocas ni discos clave: Buddy Bolden, Gilles Peterson, Jon Christensen, Popo Romano y Juan Tizol. Sus fichas se ven bien, solo con el texto.
    - Popo Romano no tiene discos cargados (MusicBrainz solo registra *Susurro montevideano*, de 2009, sin datos para reseñarlo). *Éthiopiques, Vol. 21* no figura como recopilación porque no se sabe qué años abarca.
 6. **Pendientes de contenido opcionales:** más reseñas extensas, más comparaciones si ayudan y nuevas regiones o épocas, por ejemplo spiritual jazz o third stream, que se propusieron pero no se agregaron.
 7. **Otros géneros:** música clásica y post-rock están previstos en la portada pero sin contenido.
-8. **Más adelante:** evaluar cuentas con sincronización automática de las marcas. Por ahora no.
+8. **Cuentas con sincronización:** hay una propuesta con Supabase (15/11/2026), pendiente de decisión.
 9. **Opcional:** sumar las pruebas de Playwright al repositorio y a la publicación, para que el sitio solo se publique si pasan.
 
 ## Comandos

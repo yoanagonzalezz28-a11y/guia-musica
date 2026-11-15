@@ -104,7 +104,10 @@
     return actual;
   }
 
+  // Avisa a la página (por ejemplo, al perfil de escucha) que las marcas cambiaron.
+  const avisar = () => { try { document.dispatchEvent(new Event('marcas-cambiaron')); } catch (_) { /* sin documento */ } };
   function escribir(datos) {
+    setTimeout(avisar, 0);
     if (soloLectura) { memoria = datos; return false; }
     try {
       localStorage.setItem(CLAVE, JSON.stringify(datos));

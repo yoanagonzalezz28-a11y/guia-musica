@@ -62,6 +62,9 @@
   }
 
   // ---------- Marcas en la ficha de un disco ----------
+  // Puntaje como estrellas en texto (★★★★☆); vacío si no hay puntaje.
+  const estrellas = n => (n ? '★'.repeat(n) + '☆'.repeat(5 - n) : '');
+
   function iniciarFichaMarcas() {
     const caja = document.querySelector('[data-marca]');
     if (!caja) return;
@@ -100,6 +103,7 @@
         b.setAttribute('aria-pressed', String(m.puntaje === n));
         b.classList.toggle('lleno', !!m.puntaje && n <= m.puntaje);
       });
+      caja.querySelector('[data-puntaje-ayuda]').hidden = !m.puntaje;
     };
     const guardar = c => { Marcas.guardar(id, c, titulo); pintar(); };
     escuchado.addEventListener('change', () => guardar({ escuchado: escuchado.checked }));
@@ -115,7 +119,8 @@
     const marcas = Marcas.leer().marcas;
     $$('[data-marca-chip]').forEach(el => {
       const m = marcas[el.dataset.marcaChip];
-      el.textContent = m ? [m.escuchado ? 'Escuchado' : '', m.puntaje ? `${m.puntaje}/5` : ''].filter(Boolean).join(' · ') : '';
+      el.textContent = m ? [m.escuchado ? 'Escuchado' : '', estrellas(m.puntaje)].filter(Boolean).join(' · ') : '';
+      if (m?.puntaje) el.setAttribute('aria-label', [m.escuchado ? 'Escuchado' : '', `${m.puntaje} de 5 estrellas`].filter(Boolean).join(', ')); else el.removeAttribute('aria-label');
     });
   }
 
@@ -219,7 +224,7 @@
         const datos = document.createElement('span');
         datos.className = 'marca-datos';
         const estado = tipo === 'corriente' ? (m.completada ? `Época completada el ${new Date(m.fechaCompletada).toLocaleDateString('es-AR')}` : 'Época') : tipo === 'musico' ? (m.escuchado ? 'Músico visto' : 'Músico') : (m.escuchado ? 'Escuchado' : 'Sin escuchar');
-        datos.textContent = [estado, m.puntaje ? `${m.puntaje}/5` : '', retirada ? 'ya no está en el banco' : ''].filter(Boolean).join(' · ');
+        datos.textContent = [estado, estrellas(m.puntaje), retirada ? 'ya no está en el banco' : ''].filter(Boolean).join(' · ');
         li.append(a, datos);
         for (const n of m.notas || []) {
           const p = document.createElement('p');

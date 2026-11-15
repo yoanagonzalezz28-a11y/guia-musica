@@ -313,10 +313,24 @@ main { max-width: var(--ancho); margin: 0 auto; padding: 0 var(--gutter) 72px; }
 .marcas-disco h2 { font-size: 1.125rem; margin-bottom: 12px; }
 .marca-escuchado { display: flex; gap: 10px; align-items: center; font-weight: 700; cursor: pointer; }
 .marca-escuchado input { width: 22px; height: 22px; accent-color: var(--rojo); margin: 0; }
-.marca-puntaje { border: 0; padding: 0; margin: 14px 0; display: flex; gap: 4px; flex-wrap: wrap; }
-.marca-puntaje legend { padding: 0; margin-bottom: 6px; font-size: .9375rem; }
-.marca-puntaje button { width: 40px; height: 40px; border-radius: 50%; font: 700 .875rem var(--sans); background: transparent; color: var(--tinta); border: 1.5px solid var(--tinta); cursor: pointer; }
-.marca-puntaje button.lleno { background: var(--rojo); border-color: var(--rojo); color: var(--rojo-texto); }
+.marca-puntaje { border: 0; padding: 0; margin: 14px 0; }
+.marca-puntaje legend { padding: 0; margin-bottom: 4px; font-size: .9375rem; }
+.marca-puntaje .ayuda { margin: 2px 0 0; }
+/* Cinco estrellas de 44 px de área táctil; el dibujo mide 30 px. */
+.estrellas { display: flex; margin-left: -7px; }
+.estrellas button { width: 44px; height: 44px; padding: 7px; border: 0; background: transparent; cursor: pointer; color: var(--tinta); -webkit-tap-highlight-color: transparent; border-radius: 6px; }
+.estrellas svg { display: block; width: 30px; height: 30px; fill: transparent; stroke: currentColor; stroke-width: 1.5; stroke-linejoin: round; transition: fill .12s, transform .12s; }
+.estrellas button.lleno { color: var(--rojo); }
+.estrellas button.lleno svg { fill: currentColor; }
+.estrellas button:focus-visible { outline: 2px solid var(--tinta); outline-offset: -2px; }
+.estrellas button:active svg { transform: scale(.88); }
+/* Con mouse, anticipa el puntaje hasta la estrella señalada. */
+@media (hover: hover) {
+  .estrellas:hover button svg { fill: transparent; }
+  .estrellas:hover button { color: var(--tinta); }
+  .estrellas button:hover, .estrellas button:has(~ button:hover) { color: var(--rojo); }
+  .estrellas button:hover svg, .estrellas button:has(~ button:hover) svg { fill: currentColor; opacity: .75; }
+}
 .marca-nota { display: grid; gap: 4px; font-size: .9375rem; }
 .marca-nota textarea { width: 100%; font: 400 1rem/1.4 var(--sans); padding: 8px; color: var(--tinta); background: var(--papel); border: 1px solid var(--linea); resize: vertical; }
 .notas-anteriores { display: grid; gap: 8px; margin-top: 12px; }
@@ -461,3 +475,19 @@ main { max-width: var(--ancho); margin: 0 auto; padding: 0 var(--gutter) 72px; }
 .llevar-link label { font-weight: 700; }
 .llevar-link input { width: 100%; box-sizing: border-box; padding: 8px 10px; font: 400 .875rem var(--sans); color: var(--tinta); background: transparent; border: 1px solid var(--tinta); }
 .llevar-link .ayuda { margin: 0; }
+
+/* ---------- Tu perfil de escucha (Mis marcas) ---------- */
+.perfil h3 { font: 700 1rem/1.2 var(--sans); text-transform: uppercase; letter-spacing: .06em; margin: 26px 0 8px; }
+.perfil-frase { font-size: 1.25rem; font-weight: 600; line-height: 1.35; margin: 4px 0 6px; max-width: 34ch; }
+.perfil-avance { display: flex; gap: 6px; margin: 12px 0; }
+.perfil-avance span { width: 28px; height: 6px; border-radius: 3px; background: var(--linea); }
+.perfil-avance span.hecho { background: var(--rojo); }
+.perfil-lista { list-style: none; padding: 0; margin: 0; }
+.perfil-lista li { padding: 8px 0; border-bottom: 1px solid var(--linea); }
+.perfil-lista .dato, .perfil-chips .dato { color: var(--gris); }
+.perfil-motivo { display: block; font-size: .875rem; color: var(--gris); margin-top: 2px; }
+.perfil-chips { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 6px 16px; }
+.perfil-grilla { display: grid; gap: 4px 28px; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); }
+.perfil-grilla ol { margin: 4px 0 12px; padding-left: 1.4em; }
+.perfil-grilla li { padding: 2px 0; }
+.perfil-grilla .rotulo { display: block; margin-top: 6px; }
