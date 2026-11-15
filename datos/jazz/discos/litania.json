@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Litania Tomasz Stańko"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5WOyMS8xjRwcFoSn63u9dg",
+    "tituloEnSpotify": "Litania - Music Of Krzysztof Komeda",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "litania",
   "titulo": "Litania",

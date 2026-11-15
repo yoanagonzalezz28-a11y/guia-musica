@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Lisãn Al Tarab Tarek Yamani"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0b8OWmG970Wx0nYuf1eiz8",
+    "tituloEnSpotify": "Lisan Al Tarab: Jazz Conceptions in Classical Arabic",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "lisan-al-tarab",
   "titulo": "Lisãn Al Tarab",

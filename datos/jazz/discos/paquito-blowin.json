@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Paquito Blowin' Paquito D'Rivera"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3SQUGhueinHoLTxUZHJWL0",
+    "tituloEnSpotify": "Blowin'",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "paquito-blowin",
   "titulo": "Paquito Blowin'",

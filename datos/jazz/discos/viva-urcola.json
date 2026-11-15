@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Diego Urcola Viva"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1ydJLfU4VSULfIRi3UlDVi",
+    "tituloEnSpotify": "Viva",
+    "via": "api-spotify"
   },
   "id": "viva-urcola",
   "titulo": "Viva",

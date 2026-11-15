@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Hernán Jacinto Gardel"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/70TV1bRlyjxm8EYFvrd6zC",
+    "tituloEnSpotify": "Gardel",
+    "via": "api-spotify"
   },
   "id": "gardel-jacinto",
   "titulo": "Gardel",

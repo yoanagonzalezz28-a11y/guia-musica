@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Soul Samba Ike Quebec"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4ntjTCmyhwHIsK12RScxRP",
+    "tituloEnSpotify": "Bossa Nova Soul Samba (Rudy Van Gelder Edition)",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "soul-samba",
   "titulo": "Soul Samba",

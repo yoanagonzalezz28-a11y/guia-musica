@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Marilyn Crispell Nothing Ever Was, Anyway: Music of Annette Peacock"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3xXhgG5AMkWWO8LOCAYnC1",
+    "tituloEnSpotify": "Nothing Ever Was, Anyway. Music Of Annette Peacock",
+    "via": "api-spotify"
   },
   "id": "nothing-ever-was-anyway",
   "titulo": "Nothing Ever Was, Anyway: Music of Annette Peacock",

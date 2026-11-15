@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Seeds on the Ground Airto Moreira"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5TzdgZC2mY61Mt39zLmHCR",
+    "tituloEnSpotify": "Seeds On the Ground - The Natural Sounds of Airto",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "seeds-on-the-ground",
   "titulo": "Seeds on the Ground",

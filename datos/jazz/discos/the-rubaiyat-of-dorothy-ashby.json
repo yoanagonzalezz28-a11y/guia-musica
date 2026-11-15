@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Dorothy Ashby The Rubáiyát of Dorothy Ashby"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1lkHqLPShXtXFc0s9LVAo9",
+    "tituloEnSpotify": "The Rubáiyát Of Dorothy Ashby",
+    "via": "api-spotify"
   },
   "id": "the-rubaiyat-of-dorothy-ashby",
   "titulo": "The Rubáiyát of Dorothy Ashby",

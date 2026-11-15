@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Lakecia Benjamin Phoenix"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3BDHDrylqDrv6qz11DRrR7",
+    "tituloEnSpotify": "Phoenix",
+    "via": "api-spotify"
   },
   "id": "phoenix-benjamin",
   "titulo": "Phoenix",

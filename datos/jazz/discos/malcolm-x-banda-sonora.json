@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Malcolm X (banda sonora) Terence Blanchard"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0SAlsNB7FRYWsy5zcpPyfc",
+    "tituloEnSpotify": "Malcolm X: The Original Motion Picture Score",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "malcolm-x-banda-sonora",
   "titulo": "Malcolm X (banda sonora)",

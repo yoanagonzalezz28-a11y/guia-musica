@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Brandee Younger Somewhere Different"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/1LHHyL7XxEDFBAJXzALvL6",
+    "tituloEnSpotify": "Somewhere Different",
+    "via": "api-spotify"
   },
   "id": "somewhere-different",
   "titulo": "Somewhere Different",

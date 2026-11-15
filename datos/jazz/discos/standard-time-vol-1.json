@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Standard Time, Vol. 1 Wynton Marsalis"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6tDA8wJvkFgz3UDVW0pXat",
+    "tituloEnSpotify": "Marsalis Standard Time - Volume I",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "standard-time-vol-1",
   "titulo": "Standard Time, Vol. 1",

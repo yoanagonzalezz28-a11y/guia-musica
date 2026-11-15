@@ -96,14 +96,45 @@ function titulosDe(d) {
 // Se aceptan reediciones y versiones ampliadas. Un simple solo vale si el disco del banco es anterior a 1950
 // (en esa época cada "disco" del banco suele ser un tema de 78 rpm); si no, es el tema del título y no el álbum.
 const palabras = s => new Set(base(sinSubtitulo(s)).split(' ').filter(w => w && w !== 'vol' && w !== 'volume'));
-function parecidos(a, b) {
-  const A = palabras(a), B = palabras(b);
+// Un tema suelto, una versión para piano o un homenaje de otro no son el disco, aunque el título se parezca.
+const OTRA_COSA = /\b(main theme|theme from|from ["'“]|piano version|karaoke|tribute to|in the style of|originally performed)\b/i;
+const esAnio = w => /^(19|20)\d\d$/.test(w);
+// Números del título completo, sin años (Vol. 1 y Vol. 2, Jazz batá y Jazz batá 2, Virtuoso y Virtuoso #2 son otros discos).
+const ROMANOS = { i: 1, ii: 2, iii: 3, iv: 4, v: 5, vi: 6, one: 1, two: 2, three: 3, four: 4, five: 5, six: 6 };
+const numeros = s => norm(String(s).replace(/(vol(?:ume)?|part|no).?s+(iii|ii|iv|vi|v|i|one|two|three|four|five|six)/gi, (_, p, n) => `${p} ${ROMANOS[n.toLowerCase()]}`).replace(/\(.*?\)|\[.*?\]/g, ' ')).replace(RUIDO, ' ').split(' ').filter(w => /^\d+$/.test(w) && !esAnio(w)).map(Number).sort().join(' ');
+function parecidos(a, b, artistas = []) {
+  if (OTRA_COSA.test(b) && !OTRA_COSA.test(a)) return false;
+  if (numeros(a) !== numeros(b)) return false;
+  // Las palabras del nombre del artista no cuentan: "Jelly Roll Morton: Piano Solos" no es "Jelly Roll Morton: Finger Buster".
+  const delArtista = new Set(artistas.flatMap(x => norm(x).split(' ')));
+  const sinArtista = s => { const p = new Set([...palabras(s)].filter(w => !delArtista.has(w) && !esAnio(w))); return p.size ? p : new Set([...palabras(s.replace(/:/g, ' '))].filter(w => !delArtista.has(w) && !esAnio(w))); };
+  const A = sinArtista(a), B = sinArtista(b);
   if (!A.size || !B.size) return false;
-  // Si los números no coinciden (Vol. 1 y Vol. 2, Jazz batá y Jazz batá 2), es otro disco.
-  const nums = X => [...X].filter(w => /^d+$/.test(w)).sort().join(' ');
-  if (nums(A) !== nums(B)) return false;
   const comunes = [...A].filter(w => B.has(w)).length;
   return comunes / Math.min(A.size, B.size) >= 0.8 && comunes / Math.max(A.size, B.size) >= 0.5;
+}
+// Además del parecido, mirando los títulos completos (con subtítulo): al menos la mitad de las palabras del título
+// del banco tiene que estar en Spotify ("Songs: The Art of the Trio" no es "Love Songs"), y si Spotify agrega más
+// palabras, el año tiene que coincidir salvo en títulos largos ("The Mosaic Project" no es
+// "The Mosaic Project: Love and Soul", que es otro disco).
+function aceptable(d, titulo, anio) {
+  const delArtista = new Set(artistasDe(d).flatMap(x => norm(x).split(' ')));
+  const todas = s => new Set(base(String(s).replace(/:/g, ' ')).split(' ').filter(w => w.length > 1 && !['vol', 'volume', 'complete'].includes(w) && !delArtista.has(w) && !esAnio(w)));
+  if (!titulosDe(d).some(t => parecidos(t, titulo, artistasDe(d)))) return false;
+  // Si los dos títulos traen años y no son los mismos, es otra recopilación ("1928–1943" no es "1965-1975").
+  const anios = t => norm(t).split(' ').filter(esAnio).sort().join(' ');
+  if (anios(d.titulo) && anios(titulo) && anios(d.titulo) !== anios(titulo)) return false;
+  const B = todas(titulo);
+  return [d.titulo, d.tituloOriginal].filter(Boolean).some(t => {
+    const A = todas(t);
+    if (!A.size) return false;
+    const cubiertas = [...A].filter(w => B.has(w)).length / A.size;
+    const agregadas = [...B].filter(w => !A.has(w)).length;
+    // Con un año distinto, las palabras agregadas solo se toleran en títulos de tres palabras o más, si son menos
+    // que las del título y si este está casi entero ("Mission: Impossible" no es "More Mission: Impossible").
+    const mismoAnio = Math.abs(anio - d.edicion.anio) <= 1;
+    return cubiertas >= 0.5 && (agregadas === 0 || mismoAnio || (A.size >= 3 && agregadas < A.size && cubiertas >= 0.75));
+  });
 }
 const mismoArtista = (x, y) => x === y || (x.length > 3 && y.length > 3 && (x.includes(y) || y.includes(x))) ||
   (() => { const A = new Set(x.split(' ')), B = new Set(y.split(' ')); const c = [...A].filter(w => w.length > 2 && B.has(w)).length; return c >= 2 || (c === 1 && Math.min(A.size, B.size) === 1); })();
@@ -116,7 +147,7 @@ function evaluar(d, items) {
     if (!a) continue;
     if (!a.artists.map(x => artistaBase(x.name)).some(x => artistas.some(y => mismoArtista(x, y)))) continue;
     const exacto = titulos.map(base).includes(base(a.name));
-    if (!exacto && !titulos.some(t => parecidos(t, a.name))) continue;
+    if (!exacto && !aceptable(d, a.name, +String(a.release_date).slice(0, 4))) continue;
     if (a.album_type === 'single' && a.total_tracks < 4 && anio >= 1950) continue;
     const anioA = +String(a.release_date).slice(0, 4);
     candidatos.push({ url: `https://open.spotify.com/album/${a.id}`, titulo: a.name, artistas: a.artists.map(x => x.name).join(', '), anio: anioA, pistas: a.total_tracks, exacto, remaster: /remaster/i.test(a.name) });
@@ -133,7 +164,19 @@ for (const [id, r] of Object.entries(res)) {
   const d = fs.existsSync(`${J}/discos/${id}.json`) ? leer(`${J}/discos/${id}.json`) : null;
   if (!d) continue;
   const simple = /simple/.test(r.motivo || '');
-  res[id] = simple && d.edicion.anio >= 1950 ? { estado: 'no', revisar: true } : { ...r, estado: 'similitud', criterio: 2 };
+  if (simple && d.edicion.anio >= 1950) res[id] = { estado: 'no', revisar: true };
+  else if (aceptable(d, r.titulo, r.anio)) res[id] = { ...r, estado: 'similitud', criterio: 2 };
+  else delete res[id];
+}
+// Los aplicados por similitud se vuelven a juzgar con el criterio vigente. Si ya no pasan, el disco vuelve al link
+// de búsqueda y se busca de nuevo (el 15/11/2026 así se corrigieron los que había dejado pasar un error en la regla de números).
+for (const f of fs.readdirSync(`${J}/discos`)) {
+  const d = leer(`${J}/discos/${f}`);
+  if (!d.spotify.porSimilitud || aceptable(d, d.spotify.tituloEnSpotify, res[d.id]?.anio)) continue;
+  console.log(`Se deshace por similitud: ${d.titulo} → ${d.spotify.tituloEnSpotify}`);
+  d.spotify = { estado: 'busqueda', consulta: `${d.titulo} ${d.credito}` };
+  fs.writeFileSync(`${J}/discos/${f}`, JSON.stringify(d, null, 2) + '\n');
+  delete res[d.id];
 }
 // Los que no aparecieron con el criterio viejo se vuelven a buscar una vez con el nuevo.
 for (const [id, r] of Object.entries(res)) if (r.estado === 'no' && r.criterio !== 2) delete res[id];

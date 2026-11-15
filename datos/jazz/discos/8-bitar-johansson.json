@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "8 bitar Johansson Jan Johansson"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3EBbP3abNuTVyAVWM02q08",
+    "tituloEnSpotify": "8 Bitar",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "8-bitar-johansson",
   "titulo": "8 bitar Johansson",

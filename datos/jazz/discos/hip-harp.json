@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Dorothy Ashby Hip Harp"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/43iQtyCXjLLnDY4aWz0rlq",
+    "tituloEnSpotify": "Hip Harp (Japan)",
+    "via": "api-spotify"
   },
   "id": "hip-harp",
   "titulo": "Hip Harp",

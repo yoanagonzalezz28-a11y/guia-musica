@@ -13,11 +13,8 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "verificado",
-    "url": "https://open.spotify.com/album/5XHKaEAfKpV1xc0X3beu5x",
-    "tituloEnSpotify": "Jazz Mood (Remastered 2025)",
-    "via": "api-spotify",
-    "porSimilitud": true
+    "estado": "busqueda",
+    "consulta": "Jazz Moods Yusef Lateef"
   },
   "id": "jazz-moods",
   "titulo": "Jazz Moods",

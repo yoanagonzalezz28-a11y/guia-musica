@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Organ Grinder Swing Jimmy Smith"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4bhhWXZzKS81gOilfj9fQW",
+    "tituloEnSpotify": "Organ Grinder Swing - The Incredible Jimmy Smith",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "organ-grinder-swing",
   "titulo": "Organ Grinder Swing",

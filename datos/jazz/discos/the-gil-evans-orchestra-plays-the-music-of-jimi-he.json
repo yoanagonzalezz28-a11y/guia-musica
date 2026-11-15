@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "The Gil Evans Orchestra Plays the Music of Jimi Hendrix Gil Evans"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0lBWV41v8qCOq4goLvPUw8",
+    "tituloEnSpotify": "Plays The Music Of Jimi Hendrix",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "the-gil-evans-orchestra-plays-the-music-of-jimi-he",
   "titulo": "The Gil Evans Orchestra Plays the Music of Jimi Hendrix",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Diego Urcola y Paquito D'Rivera El Duelo"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/73bZUzgEuNFuB5M0QmRho7",
+    "tituloEnSpotify": "El Duelo",
+    "via": "api-spotify"
   },
   "id": "el-duelo",
   "titulo": "El Duelo",

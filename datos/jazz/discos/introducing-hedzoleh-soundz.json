@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Introducing Hedzoleh Soundz Hugh Masekela"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0sqQZFW64x8wVzEu1jE6za",
+    "tituloEnSpotify": "Masekela Introducing Hedzoleh Soundz",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "introducing-hedzoleh-soundz",
   "titulo": "Introducing Hedzoleh Soundz",

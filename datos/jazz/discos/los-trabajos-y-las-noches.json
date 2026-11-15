@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Roxana Amed Los trabajos y las noches"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0iswIvgY2YXwxodMzUDlnQ",
+    "tituloEnSpotify": "Los Trabajos y Las Noches",
+    "via": "api-spotify"
   },
   "id": "los-trabajos-y-las-noches",
   "titulo": "Los trabajos y las noches",

@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Les McCann Plays the Truth Les McCann"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2WqZlb9iRuofvoU4IELagx",
+    "tituloEnSpotify": "Plays the Truth",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "les-mccann-plays-the-truth",
   "titulo": "Les McCann Plays the Truth",

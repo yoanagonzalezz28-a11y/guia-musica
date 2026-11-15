@@ -13,11 +13,8 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "verificado",
-    "url": "https://open.spotify.com/album/02cUX7Udkis3DhxbfgpBHD",
-    "tituloEnSpotify": "A New Sound - A New Star, Vol. 1",
-    "via": "api-spotify",
-    "porSimilitud": true
+    "estado": "busqueda",
+    "consulta": "A New Sound, a New Star Jimmy Smith"
   },
   "id": "a-new-sound-a-new-star",
   "titulo": "A New Sound, a New Star",

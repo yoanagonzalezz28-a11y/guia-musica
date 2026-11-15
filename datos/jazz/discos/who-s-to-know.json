@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Who's to Know L. Shankar"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3OMXlAb0CBDAq37LajekYQ",
+    "tituloEnSpotify": "Who's To Know - Indian Classical Music",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "who-s-to-know",
   "titulo": "Who's to Know",

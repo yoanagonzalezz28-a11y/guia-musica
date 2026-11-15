@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Betty Carter Look What I Got!"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/44rPYqxdq5u8XfxY5cwDAl",
+    "tituloEnSpotify": "Look What I Got",
+    "via": "api-spotify"
   },
   "id": "look-what-i-got",
   "titulo": "Look What I Got!",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Joyce Feminina"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7ImYb6goMEMVVtt3FKokEi",
+    "tituloEnSpotify": "Feminina",
+    "via": "api-spotify"
   },
   "id": "feminina",
   "titulo": "Feminina",

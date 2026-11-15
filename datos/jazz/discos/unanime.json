@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Roxana Amed Unánime"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0fNcJtLGiznI3mDSDSXckP",
+    "tituloEnSpotify": "UNÁNIME",
+    "via": "api-spotify"
   },
   "id": "unanime",
   "titulo": "Unánime",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Live! Jack McDuff"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4Rf6yyPicKpPffKrqDMMH4",
+    "tituloEnSpotify": "Live!!!",
+    "via": "api-spotify"
   },
   "id": "live",
   "titulo": "Live!",

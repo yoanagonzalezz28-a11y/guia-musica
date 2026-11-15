@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "'Round About Midnight at the Cafe Bohemia Kenny Dorham"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5Ebfr97h9GFzqx68SXhKG0",
+    "tituloEnSpotify": "The Complete 'Round About Midnight At The Cafe Bohemia (Live)",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "round-about-midnight-at-the-cafe-bohemia",
   "titulo": "'Round About Midnight at the Cafe Bohemia",

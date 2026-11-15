@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Handful of Keys Fats Waller"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3FwWG0dQUAJmH6TF7IqdhI",
+    "tituloEnSpotify": "A Handful Of Keys",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "handful-of-keys",
   "titulo": "Handful of Keys",

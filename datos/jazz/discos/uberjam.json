@@ -13,11 +13,8 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "verificado",
-    "url": "https://open.spotify.com/album/1OcpuDwolFmh9HOjLSGxhR",
-    "tituloEnSpotify": "Überjam Deux",
-    "via": "api-spotify",
-    "porSimilitud": true
+    "estado": "busqueda",
+    "consulta": "Überjam John Scofield"
   },
   "id": "uberjam",
   "titulo": "Überjam",

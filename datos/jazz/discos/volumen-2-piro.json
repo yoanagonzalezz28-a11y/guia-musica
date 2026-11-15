@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Ligia Piro Volumen 2"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2taoH1rKlNauSuPAVxhcoO",
+    "tituloEnSpotify": "Volumen 2",
+    "via": "api-spotify"
   },
   "id": "volumen-2-piro",
   "titulo": "Volumen 2",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Absolute Zero Moses Boyd"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5vAzQd9UFg9BYfALSAuiK1",
+    "tituloEnSpotify": "Absolute Zero",
+    "via": "api-spotify"
   },
   "id": "absolute-zero",
   "titulo": "Absolute Zero",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Escalandrum Escalectric"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2zt51xYKMh7FFwORtkzq9x",
+    "tituloEnSpotify": "ESCALECTRIC",
+    "via": "api-spotify"
   },
   "id": "escalectric",
   "titulo": "Escalectric",

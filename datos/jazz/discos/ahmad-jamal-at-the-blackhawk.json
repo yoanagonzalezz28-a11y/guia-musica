@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Ahmad Jamal at the Blackhawk Ahmad Jamal"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2HckULUJNs0j64Nfn8A0qx",
+    "tituloEnSpotify": "At The Blackhawk (Live)",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "ahmad-jamal-at-the-blackhawk",
   "titulo": "Ahmad Jamal at the Blackhawk",

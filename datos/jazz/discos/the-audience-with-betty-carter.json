@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Betty Carter The Audience with Betty Carter"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/19sY1QgcDOQLe8MpHOfYTx",
+    "tituloEnSpotify": "The Audience With Betty Carter (Live)",
+    "via": "api-spotify"
   },
   "id": "the-audience-with-betty-carter",
   "titulo": "The Audience with Betty Carter",

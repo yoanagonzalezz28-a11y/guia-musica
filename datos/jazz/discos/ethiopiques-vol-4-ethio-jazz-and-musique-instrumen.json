@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Éthiopiques, Vol. 4: Ethio Jazz & Musique Instrumentale 1969–1974 Mulatu Astatke"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5VKvVk4gaPAJyXjof8NnzX",
+    "tituloEnSpotify": "Ethiopiques, Vol. 4: Ethio Jazz 1969-1974",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "ethiopiques-vol-4-ethio-jazz-and-musique-instrumen",
   "titulo": "Éthiopiques, Vol. 4: Ethio Jazz & Musique Instrumentale 1969–1974",

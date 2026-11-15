@@ -14,8 +14,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Afro-Cuban Jazz Suite Machito and His Afro-Cuban Orchestra"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2CMOaUtQPVikA79EpOHv73",
+    "tituloEnSpotify": "Afro-Cuban Jazz Suite",
+    "via": "api-spotify"
   },
   "id": "afro-cuban-jazz-suite",
   "titulo": "Afro-Cuban Jazz Suite",

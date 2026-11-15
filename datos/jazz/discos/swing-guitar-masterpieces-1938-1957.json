@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Oscar Alemán Swing Guitar Masterpieces 1938–1957"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/2uOGMb54WBDBOloisEXa9C",
+    "tituloEnSpotify": "Swing Guitar Masterpieces",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "swing-guitar-masterpieces-1938-1957",
   "titulo": "Swing Guitar Masterpieces 1938–1957",

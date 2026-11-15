@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Carmen McRae The Great American Songbook"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/01LjoVd39soQ63i3NKQiZO",
+    "tituloEnSpotify": "The Great American Songbook",
+    "via": "api-spotify"
   },
   "id": "the-great-american-songbook",
   "titulo": "The Great American Songbook",

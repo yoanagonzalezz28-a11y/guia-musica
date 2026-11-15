@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Jutta Hipp Jutta Hipp with Zoot Sims"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/3Caef1zBtNTPEIg5C3XZI2",
+    "tituloEnSpotify": "Jutta Hipp With Zoot Sims (Expanded Edition)",
+    "via": "api-spotify"
   },
   "id": "jutta-hipp-with-zoot-sims",
   "titulo": "Jutta Hipp with Zoot Sims",

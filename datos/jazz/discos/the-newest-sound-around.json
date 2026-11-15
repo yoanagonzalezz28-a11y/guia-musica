@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Jeanne Lee y Ran Blake The Newest Sound Around"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/616qGb6fPngIb7pUVe9tbK",
+    "tituloEnSpotify": "The Newest Sound Around (with Ran Blake)",
+    "via": "api-spotify"
   },
   "id": "the-newest-sound-around",
   "titulo": "The Newest Sound Around",

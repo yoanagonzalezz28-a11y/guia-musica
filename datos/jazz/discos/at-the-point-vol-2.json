@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Papo Vázquez At the Point, Vol. 2"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/7wo0qrBT6ag1PxrIyFfaNd",
+    "tituloEnSpotify": "At the Point V. Two",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "at-the-point-vol-2",
   "titulo": "At the Point, Vol. 2",

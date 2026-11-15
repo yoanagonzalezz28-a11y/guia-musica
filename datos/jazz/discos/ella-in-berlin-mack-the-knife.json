@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Ella in Berlin: Mack the Knife Ella Fitzgerald"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5R53NoBwIqJDgNWMhu1Due",
+    "tituloEnSpotify": "The Complete Ella In Berlin: Mack The Knife (Live)",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "ella-in-berlin-mack-the-knife",
   "titulo": "Ella in Berlin: Mack the Knife",

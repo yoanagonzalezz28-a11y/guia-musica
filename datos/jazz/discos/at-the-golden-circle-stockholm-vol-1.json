@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Ornette Coleman At the Golden Circle Stockholm, Vol. 1"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4oJCfwkaA7iv1WL6sInVpV",
+    "tituloEnSpotify": "At The Golden Circle Vol. 1 (Rudy Van Gelder Edition)",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "at-the-golden-circle-stockholm-vol-1",
   "titulo": "At the Golden Circle Stockholm, Vol. 1",

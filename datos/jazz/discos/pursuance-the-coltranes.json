@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Lakecia Benjamin Pursuance: The Coltranes"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/4UuYNoo7Y54XQC4t4PWzHb",
+    "tituloEnSpotify": "Pursuance : The Coltranes",
+    "via": "api-spotify"
   },
   "id": "pursuance-the-coltranes",
   "titulo": "Pursuance: The Coltranes",

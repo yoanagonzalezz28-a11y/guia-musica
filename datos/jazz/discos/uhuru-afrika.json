@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Randy Weston Uhuru Afrika"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/14swxk3PgWnqCWJDsAyd4P",
+    "tituloEnSpotify": "Uhuru Afrika",
+    "via": "api-spotify"
   },
   "id": "uhuru-afrika",
   "titulo": "Uhuru Afrika",

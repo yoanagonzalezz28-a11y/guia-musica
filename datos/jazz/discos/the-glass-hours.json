@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Linda May Han Oh The Glass Hours"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5pCtNJd12pjZjyfbi2Hpi0",
+    "tituloEnSpotify": "The Glass Hours",
+    "via": "api-spotify"
   },
   "id": "the-glass-hours",
   "titulo": "The Glass Hours",

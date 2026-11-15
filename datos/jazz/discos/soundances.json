@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Diego Urcola Soundances"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/0S3fLhbUU60ElN2PsiIlmf",
+    "tituloEnSpotify": "Soundances",
+    "via": "api-spotify"
   },
   "id": "soundances",
   "titulo": "Soundances",

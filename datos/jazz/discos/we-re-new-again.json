@@ -13,8 +13,11 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "We're New Again Makaya McCraven"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/6KyrXenbN00HrJscGWCsf0",
+    "tituloEnSpotify": "We're New Again - A Reimagining by Makaya McCraven",
+    "via": "api-spotify",
+    "porSimilitud": true
   },
   "id": "we-re-new-again",
   "titulo": "We're New Again",

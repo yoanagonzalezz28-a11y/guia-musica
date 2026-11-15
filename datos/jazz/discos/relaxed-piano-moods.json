@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Hazel Scott Relaxed Piano Moods"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/5EihTFOWSY10vtga00UR6n",
+    "tituloEnSpotify": "Relaxed Piano Moods",
+    "via": "api-spotify"
   },
   "id": "relaxed-piano-moods",
   "titulo": "Relaxed Piano Moods",

@@ -13,8 +13,10 @@
   "catalogo": null,
   "lugar": null,
   "spotify": {
-    "estado": "busqueda",
-    "consulta": "Melba Liston Melba Liston and Her 'Bones"
+    "estado": "verificado",
+    "url": "https://open.spotify.com/album/15tY3m4kyH6ne7iXePTEta",
+    "tituloEnSpotify": "Melba Liston and Her Bones (Remastered. Stereo version)",
+    "via": "api-spotify"
   },
   "id": "melba-liston-and-her-bones",
   "titulo": "Melba Liston and Her 'Bones",

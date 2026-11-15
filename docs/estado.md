@@ -6,6 +6,8 @@ Actualizado el 8 de noviembre de 2026. Sitio publicado: <https://yoanagonzalezz2
 
 El 10/11 se terminó la búsqueda en la API: se buscaron los 477 discos que faltaban, sin nuevos límites de Spotify. Se aplicaron 329 links seguros; 54 quedaron dudosos y 194 no aparecen. El detalle está en [sin-spotify.md](sin-spotify.md).
 
+El 15/11 se volvió a buscar con un criterio más amplio (se aplica si coincide el artista y el título es muy parecido; quedan marcados `porSimilitud` en los datos). Quedaron 56 aplicados por similitud y 186 discos sin candidato (72 de importancia alta). Una primera tanda había dejado pasar discos equivocados (otro volumen, otro disco con título parecido, una versión para piano) por un error en la regla de los números; se corrigió la regla, se endureció (títulos completos, años, palabras del nombre del artista) y esos links se deshicieron. Cada corrida vuelve a juzgar los aplicados por similitud con el criterio vigente.
+
 Para buscar discos nuevos, `npm run spotify` retoma solo los que no tienen link exacto. Si Spotify limita por más de dos minutos, guarda el avance, avisa hasta qué hora hay que esperar y termina.
 
 Las credenciales están en `.env` (`SPOTIFY_CLIENT_ID` y `SPOTIFY_CLIENT_SECRET`). `.env` está en `.gitignore` y nunca entró al repositorio. La API acepta como máximo 10 resultados por búsqueda; el script hace una consulta por segundo.
@@ -20,7 +22,7 @@ Las credenciales están en `.env` (`SPOTIFY_CLIENT_ID` y `SPOTIFY_CLIENT_SECRET`
 | Regiones | 14 |
 | Músicos y grupos | 399 (254 con link de artista en Spotify) |
 | Discos | 1606 (41 recopilaciones) |
-| Discos con link exacto de Spotify | 1325 |
+| Discos con link exacto de Spotify | 1415 |
 | Discos con lista de temas | 514 |
 | Reseñas extensas | 19 |
 | Redescubrimientos | 18 |
@@ -83,7 +85,7 @@ Las credenciales están en `.env` (`SPOTIFY_CLIENT_ID` y `SPOTIFY_CLIENT_SECRET`
 - **Qué es jazz.** El rock y la canción quedan afuera aunque sean rioplatenses: salieron Jaime Roos y Los Shakers, y El Kinto no entra. El jazz vocal no es una época sino un filtro por instrumento.
 - **Podcasts:** solo episodios con link exacto de Spotify o de YouTube.
 - **YouTube:** solo canales oficiales o con permiso, comprobados con el oEmbed de YouTube. Jazz Casual y Jazz Icons no tienen canal oficial: figuran como DVD, sin link.
-- **Spotify:** se aplican solo coincidencias seguras de artista y título. Los dudosos los revisa Yoana.
+- **Spotify:** se aplican coincidencias seguras y, desde el 15/11, las muy parecidas (mismo artista, título casi igual, mismos números de volumen y años). La muestra para revisar está en sin-spotify.md.
 
 ## Los archivos de `fuentes/`
 
