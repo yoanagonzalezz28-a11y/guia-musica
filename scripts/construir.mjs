@@ -724,6 +724,7 @@ ${CUENTA ? `<section class="cuenta" data-cuenta-panel hidden aria-labelledby="cu
           <div data-cuenta-dentro hidden>
             <p>Entraste como <strong data-cuenta-quien></strong>. Tus marcas se sincronizan solas.</p>
             <p class="ayuda" role="status" data-cuenta-estado></p>
+            <p class="cuenta-motivo" data-cuenta-motivo></p>
             <div class="panel-acciones">
               <button type="button" class="boton boton-secundario" data-cuenta-sincronizar>Sincronizar ahora</button>
               <button type="button" class="boton boton-secundario" data-cuenta-salir>Salir</button>

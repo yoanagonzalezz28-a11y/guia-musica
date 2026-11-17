@@ -496,3 +496,5 @@ main { max-width: var(--ancho); margin: 0 auto; padding: 0 var(--gutter) 72px; }
 .cuenta { border: 1.5px solid var(--tinta); padding: 16px 18px; margin: 0 0 20px; }
 .cuenta h2 { margin-top: 0; }
 .cuenta [data-cuenta-aviso]:empty { display: none; }
+.cuenta-motivo { font-size: .75rem; color: var(--gris); margin: -4px 0 10px; font-family: ui-monospace, Consolas, monospace; }
+.cuenta-motivo:empty { display: none; }

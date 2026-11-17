@@ -11,6 +11,7 @@
     "verificar": "node scripts/verificar-fuentes.mjs",
     "auditar": "node scripts/auditar.mjs",
     "verificar:podcasts": "node scripts/verificar-podcasts.mjs",
-    "spotify": "node --env-file=.env scripts/spotify.mjs"
+    "spotify": "node --env-file=.env scripts/spotify.mjs",
+    "probar:cuenta": "node --env-file=.env scripts/probar-cuenta.mjs"
   }
 }

@@ -43,7 +43,7 @@
     if (Date.now() < s.expira - 60000) return s;
     const r = await fetch(`${BASE}/auth/v1/token?grant_type=refresh_token`, { method: 'POST', headers: json, body: JSON.stringify({ refresh_token: s.refresh_token }) });
     if (r.status === 400 || r.status === 401) { ls.del(SESION); return null; }
-    if (!r.ok) throw new Error('sin conexión');
+    if (!r.ok) throw await fallo(r, 'al renovar la sesión');
     guardarSesion(await r.json());
     return ls.get(SESION);
   }
@@ -56,7 +56,19 @@
   }
 
   // ---------- Sincronizar ----------
-  let estado = ls.get(SESION) ? 'pendiente' : 'fuera', ultima = null, ocupado = false, otraVez = false, espera = null;
+  let estado = ls.get(SESION) ? 'pendiente' : 'fuera', ultima = null, ocupado = false, otraVez = false, espera = null, motivo = '';
+  // El motivo técnico de un error de Supabase, en pocas palabras, para mostrarlo en letra chica.
+  const MOTIVOS = {
+    PGRST205: 'tabla no encontrada', PGRST106: 'esquema no expuesto', '42501': 'permiso denegado', '42P01': 'tabla no encontrada',
+    PGRST301: 'sesión inválida', PGRST303: 'sesión vencida', '23514': 'datos con formato inválido', '23503': 'usuario inexistente',
+  };
+  async function fallo(r, paso) {
+    let j = {}; try { j = await r.json(); } catch (_) { /* sin cuerpo */ }
+    const que = MOTIVOS[j.code] || (r.status === 401 ? 'sin autorización' : r.status === 403 ? 'permiso denegado' : r.status === 404 ? 'no encontrado' : 'error del servidor');
+    const e = new Error(`${paso}: ${que} (${[r.status, j.code].filter(Boolean).join(', ')})`);
+    e.tecnico = true;
+    return e;
+  }
   async function sincronizar() {
     if (ocupado) { otraVez = true; return; }
     ocupado = true;
@@ -65,7 +77,7 @@
       if (!s) { estado = 'fuera'; return; }
       const h = { ...json, Authorization: `Bearer ${s.access_token}` };
       const r = await fetch(`${BASE}/rest/v1/marcas?select=datos&user_id=eq.${s.usuario.id}`, { headers: h });
-      if (!r.ok) throw new Error(`lectura ${r.status}`);
+      if (!r.ok) throw await fallo(r, 'al leer');
       const remota = (await r.json())[0]?.datos || null;
       const guardada = ls.get(SYNC);
       const base = guardada && guardada.usuario === s.usuario.id ? guardada : null;
@@ -76,12 +88,13 @@
           method: 'POST', headers: { ...h, Prefer: 'resolution=merge-duplicates,return=minimal' },
           body: JSON.stringify({ user_id: s.usuario.id, datos }),
         });
-        if (!w.ok) throw new Error(`escritura ${w.status}`);
+        if (!w.ok) throw await fallo(w, 'al guardar');
       }
       ls.set(SYNC, { usuario: s.usuario.id, desde: inicio, ids: Object.keys(datos.marcas) });
-      estado = 'ok'; ultima = new Date();
+      estado = 'ok'; ultima = new Date(); motivo = '';
     } catch (e) {
       estado = navigator.onLine === false ? 'sin-conexion' : 'error';
+      motivo = e.tecnico ? e.message : `sin respuesta de Supabase (${e.message || e.name})`;
     } finally {
       ocupado = false;
       pintar();
@@ -106,6 +119,8 @@
       'sin-conexion': 'Sin conexión: tus marcas siguen guardadas en este navegador y se sincronizan cuando vuelva.',
       error: 'No se pudo sincronizar. Tus marcas siguen guardadas en este navegador; se vuelve a intentar solo.',
     }[estado] || '';
+    // En letra chica, el motivo técnico del último error (para saber qué pasó).
+    caja.querySelector('[data-cuenta-motivo]').textContent = ['error', 'sin-conexion'].includes(estado) && motivo ? `Motivo: ${motivo}` : '';
   }
   if (caja) {
     caja.querySelector('[data-cuenta-entrar]').addEventListener('click', () => { entrar().catch(() => { caja.querySelector('[data-cuenta-aviso]').textContent = 'No se pudo abrir el ingreso con Google.'; }); });

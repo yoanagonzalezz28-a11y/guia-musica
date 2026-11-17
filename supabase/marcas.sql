@@ -1,5 +1,5 @@
 -- Banco de música: tabla de marcas para las cuentas con Google.
--- Se corre una sola vez en el editor SQL de Supabase (SQL Editor → New query → pegar → Run).
+-- Se corre en el editor SQL de Supabase (SQL Editor → New query → pegar → Run). Se puede correr más de una vez.
 -- Una fila por persona, con todas sus marcas en el mismo formato que el botón "Exportar".
 -- El proyecto no expone tablas nuevas automáticamente: los permisos van explícitos, y cada persona
 -- solo puede leer y escribir su propia fila (RLS). Los visitantes sin sesión (anon) no tienen acceso.
@@ -18,8 +18,10 @@ comment on table public.marcas is 'Marcas personales del Banco de música (escuc
 -- Reglas por fila: activadas siempre, aunque el proyecto ya las active solo.
 alter table public.marcas enable row level security;
 
--- Permisos explícitos: nada para anónimos; las cuatro operaciones para quien tiene sesión.
-revoke all on table public.marcas from anon, authenticated;
+-- Permisos explícitos (el proyecto no expone tablas nuevas automáticamente):
+-- nada para anónimos; para quien tiene sesión, usar el esquema y las cuatro operaciones sobre la tabla.
+grant usage on schema public to authenticated;
+revoke all on table public.marcas from anon, authenticated, public;
 grant select, insert, update, delete on table public.marcas to authenticated;
 
 -- Cada persona ve y cambia solo su fila. "(select auth.uid())" se evalúa una vez por consulta.
@@ -53,3 +55,6 @@ drop trigger if exists marcas_actualizado on public.marcas;
 create trigger marcas_actualizado
   before insert or update on public.marcas
   for each row execute function public.marcas_actualizado();
+
+-- Que la API de datos vea la tabla nueva enseguida.
+notify pgrst, 'reload schema';
