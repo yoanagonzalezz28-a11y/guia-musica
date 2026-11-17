@@ -57,6 +57,12 @@ Las credenciales están en `.env` (`SPOTIFY_CLIENT_ID` y `SPOTIFY_CLIENT_SECRET`
 - **Formato de las marcas:** al convertir una versión vieja o mudar un id, la copia original queda como respaldo en el navegador. Los datos ilegibles o de una versión más nueva nunca se pisan. Detalle en [modelo-de-datos.md](modelo-de-datos.md).
 - **Pruebas:** las de Playwright con Edge (43 generales, 18 de diseño y 31 de marcas) se corren a mano en local y **no están en el repositorio**. La publicación en GitHub Pages solo corre `npm run construir`, que frena ante errores en los datos, pero no espera a las pruebas del navegador.
 
+### Cambios del 17/11/2026
+
+- **Cuenta con Google (etapa 1):** entrar con Google desde "Mis marcas" y sincronizar las marcas entre dispositivos (Supabase, São Paulo). Detalle en [modelo-de-datos.md](modelo-de-datos.md). Tiene 26 pruebas con un Supabase simulado: ingreso, renovación de la sesión, primera combinación, borrados de cada lado, notas, salir y sin conexión. Falta probarlo con una cuenta real, después de correr [supabase/marcas.sql](../supabase/marcas.sql).
+- **Europa occidental:** región nueva con 63 discos (los 59 que no tenían región y los 4 de Django Reinhardt) y 17 músicos. Django estaba por error en Estados Unidos y pasó acá. Falta su escena actual.
+- **Personal:** 16 discos de importancia alta completados con el buscador de Wikipedia; se descartaron tres páginas que eran de otro disco. Quedan 416 incompletos (144 de importancia alta).
+
 ### Cambios del 15/11/2026 (segunda tanda)
 
 - **Spotify a mano:** *Forest Flower*, *Progress* y *Jealousy* (en Spotify salen juntos), *Songs: The Art of the Trio Vol. 3* y *Black Byrd* (en Spotify figura como *Blackbyrd*). Tres temas sueltos se enlazan dentro de una recopilación oficial, y la ficha lo aclara (campo `dentroDe`): *Perdido* (la toma de 1942, en *Never No Lament*), *Strange Fruit* (la grabación de Commodore, en *The Complete Commodore/Decca Masters*) y *Muskrat Ramble* (en *The Hot Fives, Volume I*).
@@ -125,13 +131,13 @@ La carpeta está en `.gitignore`: **nada de esto se sube a GitHub ni se publica.
    - Quedan unas 174 con una repetición más leve entre la primera y la segunda frase. Algunas todavía repiten, como *We Three* o *Plenty, Plenty Soul*, y otras están bien.
    - Estas 12 tienen dos frases porque falta un dato particular seguro: *Son dos*, *El jardín de Ordóñez*, *Turista*, *Cajita de música*, *La cocina magnética*, *Gonzalo Levin Octeto*, *Into Forever*, *Characters*, *Everyday, Everynight*, *Ravensburg*, *Downhill from Here* y *Live in Montreux 1987*.
 4. **Ampliar los datos sin cotejar con Gioia:** quedan 3 épocas sin cotejar (de 18), y la mayoría de los discos y músicos tiene una sola fuente.
-5. **Más datos por disco:** quedan 431 discos con el personal incompleto (159 de importancia alta; la lista está en [personal-incompleto.md](personal-incompleto.md)). El número de catálogo sigue faltando en muchos.
+5. **Más datos por disco:** quedan 416 discos con el personal incompleto (144 de importancia alta; la lista está en [personal-incompleto.md](personal-incompleto.md)). El número de catálogo sigue faltando en muchos.
    - Mujeres: siguen sin ninguna Jazz latino, Jazz manouche, Jazz modal y Acid jazz.
-   - Buddy Bolden y Popo Romano no tienen disco clave. Una región "Europa occidental" daría lugar a los 59 discos sin región.
+   - Buddy Bolden y Popo Romano no tienen disco clave. Europa occidental todavía no tiene escena actual.
    - Popo Romano no tiene discos cargados (MusicBrainz solo registra *Susurro montevideano*, de 2009, sin datos para reseñarlo). *Éthiopiques, Vol. 21* no figura como recopilación porque no se sabe qué años abarca.
 6. **Pendientes de contenido opcionales:** más reseñas extensas, más comparaciones si ayudan y nuevas regiones o épocas, por ejemplo spiritual jazz o third stream, que se propusieron pero no se agregaron.
 7. **Otros géneros:** música clásica y post-rock están previstos en la portada pero sin contenido.
-8. **Cuentas con sincronización:** aprobadas el 15/11/2026, solo con Google por ahora. Etapa 1: entrar y sincronizar. Etapa 2: página de privacidad y borrar la cuenta. Falta que Yoana cree el proyecto de Supabase (São Paulo) y el cliente OAuth de Google.
+8. **Cuentas con sincronización:** la etapa 1 (entrar con Google y sincronizar) está hecha desde el 17/11/2026. Falta probarla con una cuenta real y hacer la etapa 2: página de privacidad y opción para borrar la cuenta. El ingreso con link por mail queda para más adelante.
 9. **Opcional:** sumar las pruebas de Playwright al repositorio y a la publicación, para que el sitio solo se publique si pasan.
 
 ## Comandos

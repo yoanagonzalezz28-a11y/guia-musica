@@ -41,12 +41,31 @@
       "instrumento": "guitarra"
     },
     {
+      "musico": null,
+      "nombre": "Stanley Turrentine",
+      "instrumento": "saxo tenor",
+      "nota": "salvo en los temas 3, 4, 6, 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Major Holley",
+      "instrumento": "bajo",
+      "nota": "salvo en el tema 3"
+    },
+    {
+      "musico": null,
+      "nombre": "Bill English",
+      "instrumento": "batería",
+      "nota": "salvo en el tema 3"
+    },
+    {
       "musico": "barretto",
       "nombre": "Ray Barretto",
-      "instrumento": "congas"
+      "instrumento": "conga",
+      "nota": "salvo en los temas 3, 6"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "souljazz"
   ],
@@ -59,7 +78,13 @@
     "wikidata": null,
     "wikipedia": "Midnight_Blue_(Kenny_Burrell_album)"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Midnight Blue (Kenny Burrell album)\"."
+    }
+  ],
   "temas": [
     {
       "titulo": "Chitlins Con Carne",

@@ -491,3 +491,8 @@ main { max-width: var(--ancho); margin: 0 auto; padding: 0 var(--gutter) 72px; }
 .perfil-grilla ol { margin: 4px 0 12px; padding-left: 1.4em; }
 .perfil-grilla li { padding: 2px 0; }
 .perfil-grilla .rotulo { display: block; margin-top: 6px; }
+
+/* ---------- Tu cuenta (Mis marcas) ---------- */
+.cuenta { border: 1.5px solid var(--tinta); padding: 16px 18px; margin: 0 0 20px; }
+.cuenta h2 { margin-top: 0; }
+.cuenta [data-cuenta-aviso]:empty { display: none; }

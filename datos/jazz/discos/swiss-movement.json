@@ -35,17 +35,32 @@
   "sello": "Atlantic",
   "musicos": [
     {
-      "musico": "mccann",
-      "nombre": "Les McCann",
-      "instrumento": "piano, voz"
-    },
-    {
       "musico": "eddie-harris",
       "nombre": "Eddie Harris",
       "instrumento": "saxo tenor"
+    },
+    {
+      "musico": "mccann",
+      "nombre": "Les McCann",
+      "instrumento": "piano, voz en \"Compared to What\""
+    },
+    {
+      "musico": null,
+      "nombre": "Benny Bailey",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Leroy Vinnegar",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Donald Dean",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "souljazz"
   ],
@@ -56,7 +71,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Swiss_Movement"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Swiss Movement\"."
+    }
+  ]
 }

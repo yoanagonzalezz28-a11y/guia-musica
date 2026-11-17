@@ -38,15 +38,26 @@
     {
       "musico": "shorter",
       "nombre": "Wayne Shorter",
-      "instrumento": "saxo tenor, saxo soprano, composición"
+      "instrumento": "saxo tenor, saxo soprano",
+      "nota": "temas 1–4, 6–8, 5, 6, 8"
     },
     {
       "musico": "danilo-perez",
-      "nombre": "Danilo Pérez",
-      "instrumento": "piano, composición"
+      "nombre": "Danilo Perez",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "John Patitucci",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": "blade",
+      "nombre": "Brian Blade",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "neotrad"
   ],
@@ -57,7 +68,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Footprints_Live!"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Footprints Live!\"."
+    }
+  ]
 }

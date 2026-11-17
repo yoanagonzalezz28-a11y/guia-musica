@@ -39,9 +39,121 @@
       "musico": "hartman",
       "nombre": "Johnny Hartman",
       "instrumento": "voz"
+    },
+    {
+      "musico": null,
+      "nombre": "Harold Land",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Teddy Edwards",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Curtis Amy",
+      "instrumento": "saxo tenor"
+    },
+    {
+      "musico": null,
+      "nombre": "Anthony Ortega",
+      "instrumento": "saxo"
+    },
+    {
+      "musico": null,
+      "nombre": "Jack Nimitz",
+      "instrumento": "saxo barítono"
+    },
+    {
+      "musico": null,
+      "nombre": "Al Porcino",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Bud Brisbois",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Jules Chaikin",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Frederick Hill",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "Melvin Moore",
+      "instrumento": "trompeta"
+    },
+    {
+      "musico": null,
+      "nombre": "John Ewing",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Michael Barone",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Lester Robertson",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Ernie Tack",
+      "instrumento": "trombón"
+    },
+    {
+      "musico": null,
+      "nombre": "Mike Melvoin",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Herb Ellis",
+      "instrumento": "guitarra",
+      "nota": "temas A3-A4, B2, B6"
+    },
+    {
+      "musico": null,
+      "nombre": "Dennis Budimir",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "John Gray",
+      "instrumento": "guitarra"
+    },
+    {
+      "musico": null,
+      "nombre": "Ray Brown",
+      "instrumento": "bajo",
+      "nota": "temas A5-A6, B4-B5"
+    },
+    {
+      "musico": null,
+      "nombre": "Jimmy Bond Jr.",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Stan Levey",
+      "instrumento": "batería"
+    },
+    {
+      "musico": null,
+      "nombre": "Gerald Wilson",
+      "instrumento": "arreglos, dirección"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "modal"
   ],
@@ -52,7 +164,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Unforgettable_Songs_by_Johnny_Hartman"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Unforgettable Songs by Johnny Hartman\"."
+    }
+  ]
 }

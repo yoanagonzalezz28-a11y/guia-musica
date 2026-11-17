@@ -18,7 +18,9 @@
   "corrientes": [
     "ecm"
   ],
-  "regiones": [],
+  "regiones": [
+    "europa-occidental"
+  ],
   "spotify": "https://open.spotify.com/artist/2BPSfZHtSYon5DKvp95xXT",
   "resumen": "Contrabajista alemán que diseñó su propio contrabajo eléctrico, de sonido muy cantado. Sus discos de los 70 definieron una de las caras más melódicas de ECM. Tocó también con Jan Garbarek y Pat Metheny.",
   "epocas": [

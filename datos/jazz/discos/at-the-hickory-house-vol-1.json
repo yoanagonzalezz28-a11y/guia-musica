@@ -39,9 +39,19 @@
       "musico": "jutta-hipp",
       "nombre": "Jutta Hipp",
       "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Peter Ind",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Ed Thigpen",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "cool"
   ],
@@ -52,13 +62,18 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "At_the_Hickory_House"
   },
   "respaldo": [
     {
       "fuente": "wp-jutta-hipp",
       "acceso": "extracto",
       "aporta": "Pionera del jazz alemán de posguerra, activa en Estados Unidos."
+    },
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"At the Hickory House\"."
     }
   ]
 }

@@ -40,12 +40,49 @@
       "instrumento": "contrabajo"
     },
     {
+      "musico": "barbieri",
+      "nombre": "Gato Barbieri",
+      "instrumento": "saxo tenor, clarinete"
+    },
+    {
+      "musico": null,
+      "nombre": "Dewey Redman",
+      "instrumento": "saxo alto, saxo tenor"
+    },
+    {
+      "musico": "cherry",
+      "nombre": "Don Cherry",
+      "instrumento": "corneta, flauta, flautas indias de madera y bambú",
+      "nota": "temas 3, 5"
+    },
+    {
+      "musico": null,
+      "nombre": "Bob Northern",
+      "instrumento": "corno, bloques de madera, reclamo, campanas, silbato militar"
+    },
+    {
+      "musico": null,
+      "nombre": "Sam Brown",
+      "instrumento": "guitarra, guitarra de Tanganica, piano de pulgar"
+    },
+    {
       "musico": "carla",
       "nombre": "Carla Bley",
-      "instrumento": "piano, órgano, composición"
+      "instrumento": "piano, pandereta"
+    },
+    {
+      "musico": "motian",
+      "nombre": "Paul Motian",
+      "instrumento": "batería, percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Andrew Cyrille",
+      "instrumento": "batería, percusión",
+      "nota": "temas 8"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "free"
   ],
@@ -56,7 +93,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Liberation_Music_Orchestra_(album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Liberation Music Orchestra (album)\"."
+    }
+  ]
 }

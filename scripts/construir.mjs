@@ -6,6 +6,11 @@ import { RAIZ, cargarGenero, cargarGeneros, cargarFuentes, validar, discosDe, to
 import { revisarIds } from './ids.mjs';
 
 const DIST = path.join(RAIZ, 'dist');
+// Cuenta con Google (Supabase): opcional. Sin estas dos variables el sitio se arma igual, sin cuentas.
+// Las dos son públicas por diseño (la seguridad está en las reglas de la tabla); la clave secreta nunca va acá.
+const CUENTA = process.env.SUPABASE_URL && process.env.SUPABASE_ANON_KEY
+  ? { url: process.env.SUPABASE_URL.replace(/\/(rest|auth)\/v1\/?$/, '').replace(/\/+$/, ''), clave: process.env.SUPABASE_ANON_KEY }
+  : null;
 const SITIO = 'Banco de música';
 const fuentes = cargarFuentes();
 const generos = cargarGeneros();
@@ -342,7 +347,9 @@ ${cuerpo}
 <script src="${ctx.a('recursos/indice.js')}"></script>
 <script src="${ctx.a('recursos/camino.js')}"></script>
 <script src="${ctx.a('recursos/renombres.js')}"></script>
-<script src="${ctx.a('recursos/marcas.js')}"></script>${scripts.map(s => `\n<script src="${ctx.a(`recursos/${s}`)}"></script>`).join('')}
+<script src="${ctx.a('recursos/marcas.js')}"></script>${CUENTA ? `
+<script src="${ctx.a('recursos/cuenta-config.js')}"></script>
+<script src="${ctx.a('recursos/cuenta.js')}"></script>` : ''}${scripts.map(s => `\n<script src="${ctx.a(`recursos/${s}`)}"></script>`).join('')}
 <script src="${ctx.a('recursos/sitio.js')}"></script>
 </body>
 </html>
@@ -572,7 +579,7 @@ const construir = {
             </fieldset>
             <label class="marca-nota">Nota <textarea data-campo="nota" rows="3" maxlength="2000"></textarea></label>
             <ul class="notas-anteriores" data-notas-anteriores hidden></ul>
-            <p class="ayuda">Se guarda solo en este navegador. <a href="${ctx.a(URL.marcas())}">Exportar o importar</a>.</p>
+            <p class="ayuda">Se guarda en este navegador y, si entraste con Google, en tu cuenta. <a href="${ctx.a(URL.marcas())}">Mis marcas</a>.</p>
           </section>
           <section${d.musicos.length ? '' : ' hidden'}><span class="rotulo">Músicos</span>
             <ul class="personal">${d.musicos.map(m => `<li><span class="personal-nombre">${m.musico ? enlaceMusico(ctx, m.musico) : esc(m.nombre)}</span> <span class="personal-instrumento">${esc(m.instrumento)}${m.nota ? `, ${esc(m.nota.charAt(0).toLowerCase() + m.nota.slice(1))}` : ''}</span></li>`).join('')}</ul>
@@ -691,7 +698,7 @@ const construir = {
     pagina(ruta, ctx, {
       titulo: 'Mis marcas', descripcion: 'Lo que escuchaste, tus puntajes, tus notas y tus épocas completadas, guardados en este navegador.', seccion: 'marcas',
       scripts: ['qrcode.js', 'perfil.js'],
-      cuerpo: `<header class="encabezado" style="--largo:5"><h1>Mis marcas</h1><p>Discos escuchados, músicos vistos, puntajes, notas y épocas completadas. Nadie más los ve: el sitio no tiene cuentas ni recibe esta información.</p></header>
+      cuerpo: `<header class="encabezado" style="--largo:5"><h1>Mis marcas</h1><p>Discos escuchados, músicos vistos, puntajes, notas y épocas completadas. Se guardan en este navegador y, si entrás con Google, también en tu cuenta. Nadie más los ve.</p></header>
       <section class="bloque perfil" id="perfil" data-perfil aria-labelledby="perfil-titulo">
         <h2 id="perfil-titulo">Tu perfil de escucha</h2>
         <div data-perfil-cuerpo><p class="ayuda">Se calcula con tus puntajes, acá en el navegador.</p></div>
@@ -707,7 +714,25 @@ const construir = {
           </div>
           <p class="ayuda" data-recibir-ayuda>Combinar suma todo: si una marca está en los dos lados, gana el cambio más reciente de cada dato y se conservan todas las notas distintas. Reemplazar deja solo las que llegan; las de este navegador quedan guardadas como respaldo.</p>
         </section>
-        <p class="aviso-local"><strong>Tus marcas se guardan solo en este navegador.</strong> Exportalas cada tanto como respaldo: si borrás los datos de navegación, se pierden. <span data-ultima-exportacion></span></p>
+${CUENTA ? `<section class="cuenta" data-cuenta-panel hidden aria-labelledby="cuenta-titulo">
+          <h2 id="cuenta-titulo">Tu cuenta</h2>
+          <div data-cuenta-fuera>
+            <p>Opcional. Si entrás con Google, tus marcas se guardan también en tu cuenta y se sincronizan solas entre tus dispositivos. Sin cuenta, todo sigue funcionando como hasta ahora.</p>
+            <button type="button" class="boton" data-cuenta-entrar>Entrar con Google</button>
+            <p class="ayuda">Se guardan tu mail, tu nombre de Google y tus marcas, con tus notas. Nadie más las ve.</p>
+          </div>
+          <div data-cuenta-dentro hidden>
+            <p>Entraste como <strong data-cuenta-quien></strong>. Tus marcas se sincronizan solas.</p>
+            <p class="ayuda" role="status" data-cuenta-estado></p>
+            <div class="panel-acciones">
+              <button type="button" class="boton boton-secundario" data-cuenta-sincronizar>Sincronizar ahora</button>
+              <button type="button" class="boton boton-secundario" data-cuenta-salir>Salir</button>
+            </div>
+            <p class="ayuda">Al salir, tus marcas quedan en este navegador.</p>
+          </div>
+          <p class="ayuda" role="alert" data-cuenta-aviso></p>
+        </section>` : ''}
+        <p class="aviso-local"><strong>Sin cuenta, tus marcas se guardan solo en este navegador.</strong> Exportalas cada tanto como respaldo: si borrás los datos de navegación, se pierden. <span data-ultima-exportacion></span></p>
         <div class="panel-acciones">
           <button type="button" class="boton" data-exportar>Exportar mis marcas</button>
           <label class="boton boton-secundario">Importar marcas<input class="oculto" type="file" accept="application/json,.json" data-importar></label>
@@ -778,7 +803,7 @@ const construir = {
         <p>${verificados} de ${g.discos.length} discos tienen un link exacto de Spotify; ${deYoana} vienen de la discoteca personal de quien arma el banco. Los demás abren una búsqueda. La lista de temas sale de la edición de Spotify, que puede ser una reedición.</p>
         <p>Los textos son propios y no copian a ninguna fuente. Las notas no se ven en el texto: cada ficha las reúne al pie, en "Fuentes".</p></div>`, 'Los datos y los textos')}
       ${numerado(3, `<p class="ayuda">${Object.keys(fuentes).length} fuentes, agrupadas por tipo.</p>${porNivel.filter(([, l]) => l.length).map(([n, l]) => `<h3>${NIVEL_TEXTO[n]} · ${l.length}</h3><ul class="lista-fuentes">${l.map(([, f]) => `<li>${f.url ? `<a href="${esc(f.url)}" rel="noopener">${esc(f.titulo)}</a>` : esc(f.titulo)}</li>`).join('')}</ul>`).join('')}`, 'Todas las fuentes')}
-      ${numerado(4, `<div class="lectura"><p>Lo que marcás se guarda solo en tu navegador: el sitio no tiene cuentas ni recibe esa información. Desde <a href="${ctx.a(URL.marcas())}">Mis marcas</a> podés exportarlo, importarlo o llevarlo a otro dispositivo con un link o un código QR.</p></div>`, 'Tus marcas')}`,
+      ${numerado(4, `<div class="lectura"><p>Lo que marcás se guarda en tu navegador. Si querés, podés entrar con tu cuenta de Google desde Mis marcas: tus marcas se guardan también ahí y se sincronizan entre tus dispositivos. Sin cuenta, el sitio no recibe nada. Desde <a href="${ctx.a(URL.marcas())}">Mis marcas</a> podés exportarlo, importarlo o llevarlo a otro dispositivo con un link o un código QR.</p></div>`, 'Tus marcas')}`,
     });
   },
 };
@@ -865,6 +890,8 @@ fs.mkdirSync(path.join(DIST, 'recursos'), { recursive: true });
 for (const f of fs.readdirSync(path.join(RAIZ, 'sitio'))) fs.copyFileSync(path.join(RAIZ, 'sitio', f), path.join(DIST, 'recursos', f));
 fs.writeFileSync(path.join(DIST, 'recursos', 'indice.js'), `window.INDICE_BUSQUEDA=${JSON.stringify(indiceDeBusqueda())};\n`);
 fs.writeFileSync(path.join(DIST, 'recursos', 'camino.js'), `window.CAMINO=${JSON.stringify(datosDelCamino())};\n`);
+if (CUENTA) fs.writeFileSync(path.join(DIST, 'recursos', 'cuenta-config.js'), `window.CUENTA=${JSON.stringify(CUENTA)};
+`);
 fs.writeFileSync(path.join(DIST, 'recursos', 'perfil.json'), JSON.stringify(datosDelPerfil()));
 fs.writeFileSync(path.join(DIST, 'recursos', 'renombres.js'), `window.RENOMBRES=${JSON.stringify(ids.renombres)};\n`);
 fs.writeFileSync(path.join(DIST, '.nojekyll'), '');

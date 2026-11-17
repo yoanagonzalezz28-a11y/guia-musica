@@ -53,7 +53,7 @@ Lo que se escribe a mano va en un solo sentido. El resto se calcula al construir
 | `personalNota` | Aclaración sobre la lista de músicos | Hay sesiones con personal dudoso, como la de "Ko-Ko" |
 | `corrientes`, `corrienteNota`, `regiones` | Clasificación y por qué | Algunas ubicaciones son provisorias y conviene decirlo |
 | `comentario` | Reseña propia de dos o tres frases: cómo suena, qué tiene de particular y por qué está en el banco | |
-| `spotify` | `verificado` con link, o `busqueda` con consulta | Nunca se inventa un link |
+| `spotify` | `verificado` con link, `busqueda` con consulta, o `fuera` con `motivo` y `alternativas` | Nunca se inventa un link. `dentroDe: true` marca un tema que se escucha dentro de una recopilación oficial (la ficha lo aclara). `fuera` con `via: "youtube-music"` es un disco que no está en Spotify y va a su álbum en el canal oficial "Topic" de YouTube Music; el botón dice "YouTube" |
 | `ids` | MusicBrainz, Discogs, Wikidata, Wikipedia | Permite volver a verificar la ficha |
 | `discrepancias` | Dónde no coinciden las fuentes | Se muestra en la ficha |
 | `respaldo` | `fuente`, `acceso` y `aporta` | Alcanza con una fuente (ver más abajo) |
@@ -85,7 +85,7 @@ Datos básicos (`nombre`, `apodo`, `nacimiento`, `muerte`, `instrumentos`, `corr
 
 ### Región
 
-`nombre`, `resumen`, `texto`, `corrientes`, `musicos`, `discos`, `figurasPendientes`, `sellos` y `escenaActual` (`musico`, el id de su ficha, más `nombre`, `instrumento`, `base`, `ultimaActividad`, `detalle`, `fuentes`). Las regiones que todavía no tienen ficha se listan en `genero.json`.
+`nombre`, `resumen`, `texto`, `corrientes`, `musicos`, `discos`, `figurasPendientes`, `sellos` y `escenaActual` (`musico`, el id de su ficha, más `nombre`, `instrumento`, `base`, `ultimaActividad`, `detalle`, `fuentes`). Un disco pertenece a una región si figura en su lista `discos` o si tiene esa región en su campo `regiones`. Hay 15 regiones; la última, Europa occidental (17/11/2026), reúne los discos de Francia, Alemania, Italia, Austria, Suiza, España, Bélgica y Países Bajos. Las regiones que todavía no tienen ficha se listan en `genero.json`.
 
 ### Comparación
 
@@ -176,6 +176,22 @@ Un cambio de formato no borra marcas:
 - Al abrir el link, la página pregunta si **combinar** (con la regla de conflictos) o **reemplazar**. Si se reemplaza, las marcas anteriores quedan en respaldo. Si el navegador no tiene marcas, ofrece un solo botón para guardarlas.
 - Hasta unas 55 marcas simples, o unos 1500 caracteres, aparece el QR, y está comprobado que se lee. Con más marcas el código sale demasiado denso, así que solo se muestra el link; probado con 600 marcas. Para cantidades grandes conviene exportar e importar el archivo.
 - El generador de QR es [qrcode-generator](https://github.com/kazuhikoarase/qrcode-generator), de Kazuhiko Arase (licencia MIT). Está copiado en `sitio/qrcode.js` y no se carga de afuera.
+
+### Cuenta con Google (opcional)
+
+Desde el 17/11/2026 se puede entrar con Google para que las marcas se guarden también en una cuenta y se sincronicen entre dispositivos. Sin cuenta, todo funciona como antes.
+
+- **Servicio:** Supabase (proyecto en São Paulo). La tabla `marcas` tiene una fila por persona: `user_id`, `datos` (las marcas en el mismo formato que "Exportar") y `actualizado`. El SQL está en [supabase/marcas.sql](../supabase/marcas.sql): permisos explícitos, nada para anónimos y reglas por fila (RLS) para que cada persona lea y escriba solo la suya.
+- **Claves:** `SUPABASE_URL` y `SUPABASE_ANON_KEY` (la clave publicable `sb_publishable_…`) en `.env` y como variables del repositorio en GitHub. Son públicas por diseño y la construcción las escribe en `recursos/cuenta-config.js`; sin ellas, el sitio se arma sin la sección de cuenta. La clave secreta y la de Google nunca van al sitio.
+- **Ingreso:** `sitio/cuenta.js`, sin librerías, con el flujo PKCE de Supabase Auth. Siempre vuelve a la portada (la dirección autorizada) y desde ahí regresa a la página donde estaba. La sesión se guarda en `banco-musica:sesion` y se renueva sola.
+- **Sincronización:** al abrir una página, al volver a la pestaña y unos segundos después de cada cambio. `Marcas.sincronizar` combina la cuenta con el navegador usando lo que quedó sincronizado la vez anterior (`banco-musica:sync`: fecha y lista de ids):
+  - si una marca cambió de un solo lado, gana ese lado entero (así una nota borrada no vuelve);
+  - si cambió en los dos, se combinan con la regla de conflictos de siempre;
+  - si una marca que ya estaba sincronizada falta de un lado y del otro no cambió, se borró, y se va;
+  - la primera vez se combina todo, y lo que había en el navegador queda como respaldo.
+- **Salir:** borra la sesión y deja las marcas en el navegador.
+- **Pendiente (etapa 2):** página de privacidad y opción para borrar la cuenta.
+
 
 ## Qué rechaza la validación
 

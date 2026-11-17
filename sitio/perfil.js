@@ -131,4 +131,5 @@
     .catch(() => { caja.textContent = 'No se pudo cargar el perfil. Probá recargar la página.'; });
   window.addEventListener('storage', e => { if (datos && e.key === 'banco-musica:marcas') pintar(); });
   document.addEventListener('marcas-cambiaron', () => { if (datos) pintar(); });
+  document.addEventListener('marcas-sincronizadas', () => { if (datos) pintar(); });
 })();

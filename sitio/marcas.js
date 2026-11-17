@@ -106,8 +106,8 @@
 
   // Avisa a la página (por ejemplo, al perfil de escucha) que las marcas cambiaron.
   const avisar = () => { try { document.dispatchEvent(new Event('marcas-cambiaron')); } catch (_) { /* sin documento */ } };
-  function escribir(datos) {
-    setTimeout(avisar, 0);
+  function escribir(datos, { silencioso = false } = {}) {
+    if (!silencioso) setTimeout(avisar, 0);
     if (soloLectura) { memoria = datos; return false; }
     try {
       localStorage.setItem(CLAVE, JSON.stringify(datos));
@@ -145,6 +145,7 @@
     const m = datos.marcas[id];
     if (!m) return;
     m.notas = m.notas.filter(n => n.fecha !== fecha);
+    m.actualizado = new Date().toISOString();
     if (estaVacia(m)) delete datos.marcas[id];
     escribir(datos);
   }
@@ -310,8 +311,44 @@
     return { version: VERSION, marcas };
   }
 
+  // Sincronizar con la cuenta. "base" es lo que quedó sincronizado la última vez: { desde, ids }.
+  // Por cada marca, con "cambió" = su fecha de actualización es posterior a "desde":
+  // - está en los dos lados: si cambió de un solo lado, gana ese lado entero (así se respetan las notas borradas);
+  //   si cambió en los dos, se combinan con la regla de siempre.
+  // - está de un solo lado: si ya estaba sincronizada y no cambió, se borró del otro lado y se va; si no, se suma.
+  // Sin base (la primera vez), se combina todo y lo que había en este navegador queda como respaldo.
+  function sincronizar(remota, base) {
+    const local = leer().marcas;
+    const deCuenta = remota ? validarArchivo(remota).marcas : {};
+    const desde = base ? Date.parse(base.desde) : NaN;
+    const antes = new Set(base ? base.ids : []);
+    const cambio = m => !base || !(Date.parse(m.actualizado) <= desde);
+    const resultado = {};
+    for (const id of new Set([...Object.keys(local), ...Object.keys(deCuenta)])) {
+      const l = local[id], r = deCuenta[id];
+      if (l && r) {
+        if (!base) resultado[id] = resolverConflicto(l, r);
+        else if (cambio(l) && !cambio(r)) resultado[id] = l;
+        else if (!cambio(l) && cambio(r)) resultado[id] = r;
+        else resultado[id] = cambio(l) ? resolverConflicto(l, r) : l;
+      } else {
+        const m = l || r;
+        if (base && antes.has(id) && !cambio(m)) continue;
+        resultado[id] = m;
+      }
+    }
+    const datos = { version: VERSION, marcas: resultado };
+    const cambiaLocal = JSON.stringify(resultado) !== JSON.stringify(local);
+    if (cambiaLocal) {
+      if (!base && Object.keys(local).length) { try { const crudo = localStorage.getItem(CLAVE); if (crudo) guardarRespaldo(crudo); } catch (_) { /* nada */ } }
+      escribir(datos, { silencioso: true });
+      setTimeout(() => { try { document.dispatchEvent(new Event('marcas-sincronizadas')); } catch (_) { /* nada */ } }, 0);
+    }
+    return { datos, cambiaLocal };
+  }
+
   window.Marcas = {
-    leer, guardar, borrarNota, importar, combinar, reemplazar, exportar, empaquetar, desempaquetar, validarArchivo,
+    leer, guardar, borrarNota, importar, combinar, reemplazar, exportar, empaquetar, desempaquetar, validarArchivo, sincronizar,
     persistente: () => !memoria, soloLectura: () => soloLectura,
     retirada: id => RENOMBRES[id] === null,
   };

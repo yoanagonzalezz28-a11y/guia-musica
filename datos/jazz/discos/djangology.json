@@ -5,9 +5,6 @@
   },
   "verificacion": "sin-verificar",
   "discrepancias": [],
-  "regiones": [
-    "estados-unidos"
-  ],
   "compilacion": false,
   "tipo": "estudio",
   "catalogo": null,
@@ -44,9 +41,24 @@
       "musico": "grappelli",
       "nombre": "Stéphane Grappelli",
       "instrumento": "violín"
+    },
+    {
+      "musico": null,
+      "nombre": "Gianni Safred",
+      "instrumento": "piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Carlo Pecori",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Aurelio de Carolis",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "manouche",
     "swing"
@@ -58,7 +70,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Djangology"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Djangology\"."
+    }
+  ]
 }

@@ -43,10 +43,20 @@
     {
       "musico": "mikkelborg",
       "nombre": "Palle Mikkelborg",
-      "instrumento": "trompeta"
+      "instrumento": "trompeta, fluegelhorn"
+    },
+    {
+      "musico": "haden",
+      "nombre": "Charlie Haden",
+      "instrumento": "bajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Pierre Favre",
+      "instrumento": "percusión"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "rioplat"
   ],
@@ -57,7 +67,13 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "Once_upon_a_Time_–_Far_Away_in_the_South"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Once upon a Time – Far Away in the South\"."
+    }
+  ]
 }

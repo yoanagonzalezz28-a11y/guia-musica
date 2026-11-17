@@ -112,6 +112,7 @@
       const n = Number(b.dataset.puntaje);
       guardar({ puntaje: Marcas.leer().marcas[id]?.puntaje === n ? null : n });
     }));
+    document.addEventListener('marcas-sincronizadas', pintar);
     pintar();
   }
 
@@ -271,6 +272,7 @@
 
     if (Marcas.soloLectura()) estado.textContent = 'Tus marcas se guardaron con una versión más nueva del sitio. Recargá la página para verlas; mientras tanto, esta pestaña no las modifica.';
     else if (!Marcas.persistente()) estado.textContent = 'Este navegador no permite guardar datos: tus marcas se pierden al cerrar la página.';
+    document.addEventListener('marcas-sincronizadas', pintar);
     pintar();
   }
 
@@ -570,6 +572,8 @@
   iniciarRefs();
   repintar();
   window.addEventListener('storage', e => { if (e.key === 'banco-musica:marcas') repintar(); });
+  // Lo que llega de la cuenta (cuenta.js) se pinta igual que un cambio de otra pestaña.
+  document.addEventListener('marcas-sincronizadas', () => repintar());
   iniciarBuscador();
   iniciarFichaMarcas();
   pintarChips();

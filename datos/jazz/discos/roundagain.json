@@ -38,15 +38,25 @@
     {
       "musico": "redman",
       "nombre": "Joshua Redman",
-      "instrumento": "saxo tenor"
+      "instrumento": "saxo tenor, saxo soprano"
+    },
+    {
+      "musico": "mehldau",
+      "nombre": "Brad Mehldau",
+      "instrumento": "piano"
     },
     {
       "musico": "mcbride",
       "nombre": "Christian McBride",
-      "instrumento": "contrabajo"
+      "instrumento": "bajo"
+    },
+    {
+      "musico": "blade",
+      "nombre": "Brian Blade",
+      "instrumento": "batería"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "hoy"
   ],
@@ -57,9 +67,15 @@
     "musicbrainz": null,
     "discogsMaster": null,
     "wikidata": null,
-    "wikipedia": null
+    "wikipedia": "RoundAgain"
   },
-  "respaldo": [],
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"RoundAgain\"."
+    }
+  ],
   "temas": [
     {
       "titulo": "Undertow (feat. Brad Mehldau, Christian McBride & Brian Blade)",

@@ -20,7 +20,9 @@
     "manouche",
     "swing"
   ],
-  "regiones": [],
+  "regiones": [
+    "europa-occidental"
+  ],
   "spotify": null,
   "resumen": "Violinista francés que fundó con Django Reinhardt el Quintette du Hot Club de France. Tocó jazz durante setenta años, con músicos de todos los estilos.",
   "epocas": [

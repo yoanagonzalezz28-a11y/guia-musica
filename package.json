@@ -5,9 +5,9 @@
   "type": "module",
   "description": "Banco de aprendizaje de géneros musicales. Sitio estático, sin dependencias.",
   "scripts": {
-    "construir": "node scripts/construir.mjs",
-    "servir": "node scripts/construir.mjs && node scripts/servir.mjs",
-    "servir:pages": "node scripts/construir.mjs && node scripts/servir.mjs --base /guia-musica/",
+    "construir": "node --env-file-if-exists=.env scripts/construir.mjs",
+    "servir": "node --env-file-if-exists=.env scripts/construir.mjs && node scripts/servir.mjs",
+    "servir:pages": "node --env-file-if-exists=.env scripts/construir.mjs && node scripts/servir.mjs --base /guia-musica/",
     "verificar": "node scripts/verificar-fuentes.mjs",
     "auditar": "node scripts/auditar.mjs",
     "verificar:podcasts": "node scripts/verificar-podcasts.mjs",

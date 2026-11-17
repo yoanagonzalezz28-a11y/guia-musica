@@ -37,15 +37,88 @@
     {
       "musico": "milton",
       "nombre": "Milton Nascimento",
-      "instrumento": "voz, guitarra, composición"
+      "instrumento": "voz, guitarra acústica, piano, coros"
+    },
+    {
+      "musico": null,
+      "nombre": "Lô Borges",
+      "instrumento": "voz, guitarra acústica, guitarra rítmica, guitarra eléctrica, coros, voz adicional, percusión, surdo, piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Wagner Tiso",
+      "instrumento": "arreglos orquestales, órgano, piano, piano eléctrico, coros"
+    },
+    {
+      "musico": null,
+      "nombre": "Eumir Deodato",
+      "instrumento": "arreglos orquestales"
+    },
+    {
+      "musico": null,
+      "nombre": "Beto Guedes",
+      "instrumento": "voz, bajo, coros, guitarra de doce cuerdas, percusión, guitarra eléctrica, carillón"
+    },
+    {
+      "musico": null,
+      "nombre": "Rubinho",
+      "instrumento": "tumbadora, batería, percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Robertinho Silva",
+      "instrumento": "batería, percusión, coros"
+    },
+    {
+      "musico": null,
+      "nombre": "Tavito",
+      "instrumento": "guitarra de doce cuerdas, guitarra eléctrica, guitarra acústica, coros, percusión"
     },
     {
       "musico": "toninho-horta",
       "nombre": "Toninho Horta",
-      "instrumento": "guitarra"
+      "instrumento": "guitarra eléctrica, percusión, bajo, guitarra acústica, coros"
+    },
+    {
+      "musico": null,
+      "nombre": "Luiz Alves",
+      "instrumento": "caxixi, contrabajo, bajo, percusión"
+    },
+    {
+      "musico": null,
+      "nombre": "Nelson Angelo",
+      "instrumento": "guitarra eléctrica, percusión, surdo, piano"
+    },
+    {
+      "musico": null,
+      "nombre": "Paulinho Braga",
+      "instrumento": "percusión",
+      "nota": "temas 9"
+    },
+    {
+      "musico": null,
+      "nombre": "Luiz Gonzaga Jr.",
+      "instrumento": "coros",
+      "nota": "temas 10"
+    },
+    {
+      "musico": null,
+      "nombre": "Alaide Costa",
+      "instrumento": "voz",
+      "nota": "temas 13"
+    },
+    {
+      "musico": null,
+      "nombre": "Paulo Moura",
+      "instrumento": "conducting"
+    },
+    {
+      "musico": null,
+      "nombre": "Lindolfo Gaya",
+      "instrumento": "musical direction"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "brasil"
   ],
@@ -58,5 +131,11 @@
     "wikidata": null,
     "wikipedia": "Clube_da_Esquina_(album)"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Clube da Esquina (album)\"."
+    }
+  ]
 }

@@ -36,17 +36,27 @@
   "sello": "ECM",
   "musicos": [
     {
-      "musico": "holland",
-      "nombre": "Dave Holland",
-      "instrumento": "contrabajo, composición"
+      "musico": null,
+      "nombre": "Anthony Braxton",
+      "instrumento": "saxo alto, clarinete, flauta"
     },
     {
       "musico": "rivers",
       "nombre": "Sam Rivers",
-      "instrumento": "saxo tenor"
+      "instrumento": "saxo tenor, clarinete, flauta"
+    },
+    {
+      "musico": "holland",
+      "nombre": "Dave Holland",
+      "instrumento": "contrabajo"
+    },
+    {
+      "musico": null,
+      "nombre": "Barry Altschul",
+      "instrumento": "percusión, marimba"
     }
   ],
-  "personalNota": "Solo figura el líder; falta cargar el resto del grupo.",
+  "personalNota": "Personal según la sección de créditos del disco en Wikipedia.",
   "corrientes": [
     "free"
   ],
@@ -59,5 +69,11 @@
     "wikidata": null,
     "wikipedia": "Conference_of_the_Birds"
   },
-  "respaldo": []
+  "respaldo": [
+    {
+      "fuente": "wp-personal",
+      "acceso": "completa",
+      "aporta": "Personal de la página \"Conference of the Birds (Dave Holland album)\"."
+    }
+  ]
 }

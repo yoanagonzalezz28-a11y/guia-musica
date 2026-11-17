@@ -26,6 +26,10 @@ jobs:
         with:
           node-version: 24
       - run: npm run construir
+        env:
+          # Cuenta con Google: variables del repositorio (no secretas; son públicas por diseño).
+          SUPABASE_URL: ${{ vars.SUPABASE_URL }}
+          SUPABASE_ANON_KEY: ${{ vars.SUPABASE_ANON_KEY }}
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist

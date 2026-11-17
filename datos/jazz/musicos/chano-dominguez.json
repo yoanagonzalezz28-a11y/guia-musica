@@ -17,7 +17,9 @@
   "corrientes": [
     "latino"
   ],
-  "regiones": [],
+  "regiones": [
+    "europa-occidental"
+  ],
   "spotify": "https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI",
   "resumen": "Pianista gaditano que cruzó el flamenco con el jazz. Apareció en la película *Calle 54*, de Fernando Trueba.",
   "epocas": [

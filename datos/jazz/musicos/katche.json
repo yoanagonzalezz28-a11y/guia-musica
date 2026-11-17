@@ -18,7 +18,9 @@
   "corrientes": [
     "ecm"
   ],
-  "regiones": [],
+  "regiones": [
+    "europa-occidental"
+  ],
   "spotify": "https://open.spotify.com/artist/4HVFb71ZSXO6nRMk2pdPsy",
   "resumen": "Baterista francés que tocó con Peter Gabriel y Sting y, en jazz, con Jan Garbarek. Sus discos para ECM son melódicos y de groove suave.",
   "epocas": [
