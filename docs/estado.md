@@ -1,6 +1,18 @@
 # Estado del proyecto
 
-Actualizado el 8 de noviembre de 2026. Sitio publicado: <https://yoanagonzalezz28-a11y.github.io/guia-musica/> (cada push a `main` publica).
+Actualizado el 21 de noviembre de 2026. Sitio publicado: <https://yoanagonzalezz28-a11y.github.io/guia-musica/> (cada push a `main` publica).
+
+## Cuenta y respaldos
+
+- **Cuenta con Google probada contra el Supabase real** (21/11): `npm run probar:cuenta` dio 11 de 11. Sin sesión no se ve nada; con sesión, cada persona lee, guarda, cambia y borra solo su fila; no puede escribir la de otra; y la tabla rechaza datos con otro formato. La prueba usa un usuario de prueba con mail y contraseña (instrucciones al principio de `scripts/probar-cuenta.mjs`), que después se borra junto con el proveedor Email.
+- **Repositorio privado [guia-musica-respaldos](https://github.com/yoanagonzalezz28-a11y/guia-musica-respaldos)**, con tres tareas de GitHub Actions:
+  - *Mantener Supabase activo*: lunes, miércoles y viernes a las 10:23 (Uruguay) lee un `user_id` de la tabla `marcas`. El plan gratis pausa después de 7 días sin uso.
+  - *Respaldo semanal*: los domingos a las 06:41 exporta la tabla a `respaldos/marcas-AAAA-MM-DD.json` y conserva las 12 copias más recientes. Si la tabla viene vacía no guarda nada y falla, para no desplazar copias buenas.
+  - *Restaurar una copia*: solo a mano; por defecto solo prueba. Los pasos están en el README de ese repositorio.
+  - Las tres se corrieron a mano el 21/11 y salieron bien. La primera copia tiene 1 cuenta con 0 marcas.
+  - Secretos: `SUPABASE_URL` y `SUPABASE_SECRET_KEY` (la clave secreta, que saltea las reglas por fila). Están solo en ese repositorio, nunca en el código. Si una tarea falla, GitHub manda un mail.
+- **Arreglo de la sincronización:** si la fila de la cuenta falta en Supabase (tabla recreada, fila perdida), el navegador lo trata como un primer ingreso y combina. Antes lo tomaba como que se había borrado todo, borraba las marcas ya sincronizadas y subía la lista vacía. `npm run probar:sincronizar` lo comprueba (5 casos).
+- **Para restaurar en el sitio:** después de restaurar una copia, en cada dispositivo hay que ir a "Mis marcas" → Salir → Entrar con Google, para que el navegador combine la copia con lo suyo.
 
 ## Búsqueda de Spotify: terminada
 
@@ -59,7 +71,7 @@ Las credenciales están en `.env` (`SPOTIFY_CLIENT_ID` y `SPOTIFY_CLIENT_SECRET`
 
 ### Cambios del 17/11/2026
 
-- **Cuenta con Google (etapa 1):** entrar con Google desde "Mis marcas" y sincronizar las marcas entre dispositivos (Supabase, São Paulo). Detalle en [modelo-de-datos.md](modelo-de-datos.md). Tiene 26 pruebas con un Supabase simulado: ingreso, renovación de la sesión, primera combinación, borrados de cada lado, notas, salir y sin conexión. Falta probarlo con una cuenta real, después de correr [supabase/marcas.sql](../supabase/marcas.sql).
+- **Cuenta con Google (etapa 1):** entrar con Google desde "Mis marcas" y sincronizar las marcas entre dispositivos (Supabase, São Paulo). Detalle en [modelo-de-datos.md](modelo-de-datos.md). Se probó con 26 pruebas con un Supabase simulado (ingreso, renovación de la sesión, primera combinación, borrados de cada lado, notas, salir y sin conexión), que no quedaron guardadas, y el 21/11 contra el Supabase real (ver "Cuenta y respaldos").
 - **Europa occidental:** región nueva con 63 discos (los 59 que no tenían región y los 4 de Django Reinhardt) y 17 músicos. Django estaba por error en Estados Unidos y pasó acá. Falta su escena actual.
 - **Personal:** 16 discos de importancia alta completados con el buscador de Wikipedia; se descartaron tres páginas que eran de otro disco. Quedan 416 incompletos (144 de importancia alta).
 
@@ -137,7 +149,10 @@ La carpeta está en `.gitignore`: **nada de esto se sube a GitHub ni se publica.
    - Popo Romano no tiene discos cargados (MusicBrainz solo registra *Susurro montevideano*, de 2009, sin datos para reseñarlo). *Éthiopiques, Vol. 21* no figura como recopilación porque no se sabe qué años abarca.
 6. **Pendientes de contenido opcionales:** más reseñas extensas, más comparaciones si ayudan y nuevas regiones o épocas, por ejemplo spiritual jazz o third stream, que se propusieron pero no se agregaron.
 7. **Otros géneros:** música clásica y post-rock están previstos en la portada pero sin contenido.
-8. **Cuentas con sincronización:** la etapa 1 (entrar con Google y sincronizar) está hecha desde el 17/11/2026. Falta probarla con una cuenta real y hacer la etapa 2: página de privacidad y opción para borrar la cuenta. El ingreso con link por mail queda para más adelante.
+8. **Cuentas con sincronización:** la etapa 1 (entrar con Google y sincronizar) está hecha y probada con una cuenta real. Falta:
+   - Después de la prueba del 21/11: borrar el usuario de prueba en Supabase, desactivar el proveedor Email (estaba activo y permitía crear cuentas con contraseña por la API) y sacar `SUPABASE_PRUEBA_EMAIL` y `SUPABASE_PRUEBA_CLAVE` de `.env`.
+   - Etapa 2: página de privacidad y opción para borrar la cuenta. La página tiene que decir que las marcas quedan en los respaldos semanales hasta 12 semanas y en el historial del repositorio de respaldos.
+   - El ingreso con link por mail queda para más adelante.
 9. **Opcional:** sumar las pruebas de Playwright al repositorio y a la publicación, para que el sitio solo se publique si pasan.
 
 ## Comandos
@@ -150,3 +165,5 @@ La carpeta está en `.gitignore`: **nada de esto se sube a GitHub ni se publica.
 | `npm run spotify` | Busca en la API de Spotify los discos sin link exacto, aplica los seguros y actualiza `docs/sin-spotify.md`. |
 | `npm run verificar` | Compara cada disco con las fuentes externas (MusicBrainz) y reporta lo que no coincide, sin modificar los datos. |
 | `npm run verificar:podcasts` | Comprueba los links de los podcasts. |
+| `npm run probar:cuenta` | Prueba la tabla `marcas` y sus reglas contra el Supabase real. Sin usuario de prueba en `.env`, hace solo la primera comprobación. |
+| `npm run probar:sincronizar` | Prueba la regla de sincronización con un navegador simulado. |

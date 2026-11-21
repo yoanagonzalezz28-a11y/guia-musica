@@ -317,7 +317,10 @@
   //   si cambió en los dos, se combinan con la regla de siempre.
   // - está de un solo lado: si ya estaba sincronizada y no cambió, se borró del otro lado y se va; si no, se suma.
   // Sin base (la primera vez), se combina todo y lo que había en este navegador queda como respaldo.
-  function sincronizar(remota, base) {
+  // Si la cuenta no tiene fila (remota null: tabla recreada, fila perdida o restaurada sin esta cuenta), también es
+  // una primera vez: nunca se interpreta como que se borró todo, así que no se pierde nada de este navegador.
+  function sincronizar(remota, baseGuardada) {
+    const base = remota ? baseGuardada : null;
     const local = leer().marcas;
     const deCuenta = remota ? validarArchivo(remota).marcas : {};
     const desde = base ? Date.parse(base.desde) : NaN;

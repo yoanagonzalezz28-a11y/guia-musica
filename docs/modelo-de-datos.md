@@ -188,7 +188,9 @@ Desde el 17/11/2026 se puede entrar con Google para que las marcas se guarden ta
   - si una marca cambió de un solo lado, gana ese lado entero (así una nota borrada no vuelve);
   - si cambió en los dos, se combinan con la regla de conflictos de siempre;
   - si una marca que ya estaba sincronizada falta de un lado y del otro no cambió, se borró, y se va;
-  - la primera vez se combina todo, y lo que había en el navegador queda como respaldo.
+  - la primera vez se combina todo, y lo que había en el navegador queda como respaldo;
+  - si la cuenta no tiene fila (tabla recreada, fila perdida o restaurada sin esa cuenta), también es una primera vez: nunca se toma como que se borró todo.
+- **Respaldos:** una copia semanal de la tabla en el repositorio privado `guia-musica-respaldos`, que también evita que Supabase se pause. Ver [estado.md](estado.md).
 - **Salir:** borra la sesión y deja las marcas en el navegador.
 - **Pendiente (etapa 2):** página de privacidad y opción para borrar la cuenta.
 
