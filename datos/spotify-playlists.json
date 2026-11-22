@@ -1,5 +1,19 @@
 {
  "temas": {
+  "4": {
+   "album": "6NdTfiodzN3eGZfQoL2A2L",
+   "id": "47oRPl6JrAAsByTwhEWunf",
+   "uri": "spotify:track:47oRPl6JrAAsByTwhEWunf",
+   "nombre": "Slack Hands",
+   "motivo": "búsqueda de Spotify"
+  },
+  "1612": {
+   "album": "3snRpTOAVAoERqvsz8WPhv",
+   "id": "37thHLL8bUDuyZPrxp0r1s",
+   "uri": "spotify:track:37thHLL8bUDuyZPrxp0r1s",
+   "nombre": "Candombe Pal Noni",
+   "motivo": "reseña"
+  },
   "essential-bessie": {
    "album": "0NSxpb50uBMgAzOJQpp4Ag",
    "id": "0ikuzrldJFZ13blpnf1S3e",
@@ -4927,6 +4941,4108 @@
    "uri": "spotify:track:2TK4UhQQvixKriqZIBBeJq",
    "nombre": "Sewnetuwa",
    "motivo": "búsqueda de Spotify"
+  },
+  "terje-rypdal": {
+   "album": "6fyRVmTgvhYPzIFk3QxAVf",
+   "id": "1EJWKkm77d9y9Wqpl29IMU",
+   "uri": "spotify:track:1EJWKkm77d9y9Wqpl29IMU",
+   "nombre": "Tough Enough",
+   "motivo": "búsqueda de Spotify"
+  },
+  "alone-together": {
+   "album": "2di5Tz1K21jUt16GnHfpU7",
+   "id": "38dPyTD4dkkUY3Y3vTBUsM",
+   "uri": "spotify:track:38dPyTD4dkkUY3Y3vTBUsM",
+   "nombre": "Alone Together - Live",
+   "motivo": "tema del título"
+  },
+  "elis": {
+   "album": "4huMvebKxtKXAm51LCfOoC",
+   "id": "2sLvYnCS3S8klPvZGXGic2",
+   "uri": "spotify:track:2sLvYnCS3S8klPvZGXGic2",
+   "nombre": "Tiro Ao Álvaro",
+   "motivo": "búsqueda de Spotify"
+  },
+  "facing-you": {
+   "album": "0DdCvhMUteCmQw5M8JyFQ8",
+   "id": "0M3RAZW6ULOzw8kmMUXdI0",
+   "uri": "spotify:track:0M3RAZW6ULOzw8kmMUXdI0",
+   "nombre": "Lalene",
+   "motivo": "búsqueda de Spotify"
+  },
+  "basie-jam": {
+   "album": "0zMVZVhzYK0QBu1s48PLz9",
+   "id": "7Mw5y7AA0XW6DDsyzX7ySQ",
+   "uri": "spotify:track:7Mw5y7AA0XW6DDsyzX7ySQ",
+   "nombre": "Doubling Blues",
+   "motivo": "búsqueda de Spotify"
+  },
+  "crystal-silence": {
+   "album": "1bvhjpp45aO2i1d7kjbsjh",
+   "id": "1Hq8J28icckPCfVBH1kSJD",
+   "uri": "spotify:track:1Hq8J28icckPCfVBH1kSJD",
+   "nombre": "Crystal Silence",
+   "motivo": "búsqueda de Spotify"
+  },
+  "joao-gilberto": {
+   "album": "5rFhRJLR6CDPSxwSPTONA4",
+   "id": "4im3cvYs2A3dIjBDlXJU3C",
+   "uri": "spotify:track:4im3cvYs2A3dIjBDlXJU3C",
+   "nombre": "Izaura",
+   "motivo": "búsqueda de Spotify"
+  },
+  "elis-and-tom": {
+   "album": "3SE9n6EaVOJ81KA1KPLUWS",
+   "id": "209ucYTS6vWEV5iydrHiOt",
+   "uri": "spotify:track:209ucYTS6vWEV5iydrHiOt",
+   "nombre": "Só Tinha De Ser Com Você",
+   "motivo": "búsqueda de Spotify"
+  },
+  "the-colours-of-chloe": {
+   "album": "5JVwdYu7I04LMIQ6VYhlY1",
+   "id": "4gP7YhlZqwogw7D0nm0dL4",
+   "uri": "spotify:track:4gP7YhlZqwogw7D0nm0dL4",
+   "nombre": "The Colours Of Chloë",
+   "motivo": "búsqueda de Spotify"
+  },
+  "the-last-concert": {
+   "album": "7f56FsWhFwXchIQgxGYZNz",
+   "id": "5CxizvUJ2SP8WKyrVvdNpZ",
+   "uri": "spotify:track:5CxizvUJ2SP8WKyrVvdNpZ",
+   "nombre": "Work Song",
+   "motivo": "búsqueda de Spotify"
+  },
+  "zoning": {
+   "album": "7iOHcFy0XcPYjKtrnx61dz",
+   "id": "10rHKFCC4BwT7DNooJ7dY9",
+   "uri": "spotify:track:10rHKFCC4BwT7DNooJ7dY9",
+   "nombre": "Rosa Mae",
+   "motivo": "búsqueda de Spotify"
+  },
+  "native-dancer": {
+   "album": "0Gsue0re8X1U9rqHe4urBx",
+   "id": "0yd9m3ONLhwp6zn6VVjhPG",
+   "uri": "spotify:track:0yd9m3ONLhwp6zn6VVjhPG",
+   "nombre": "Beauty and the Beast",
+   "motivo": "búsqueda de Spotify"
+  },
+  "azimuth": {
+   "album": "4m7DmqHfFKU77UUFcG2bnH",
+   "id": "2OKkJnsVX7p8SG9OvylFNL",
+   "uri": "spotify:track:2OKkJnsVX7p8SG9OvylFNL",
+   "nombre": "The Tunnel",
+   "motivo": "búsqueda de Spotify"
+  },
+  "believe-it-holdsworth": {
+   "album": "6BWSXyptptsZmLlj3n8lDD",
+   "id": "77eN5sN13Ufyhd8cUdEEc6",
+   "uri": "spotify:track:77eN5sN13Ufyhd8cUdEEc6",
+   "nombre": "Snake Oil",
+   "motivo": "primer tema del álbum"
+  },
+  "believe-it": {
+   "album": "6BWSXyptptsZmLlj3n8lDD",
+   "id": "3imkYRoF3UAWFzhdid5Dpq",
+   "uri": "spotify:track:3imkYRoF3UAWFzhdid5Dpq",
+   "nombre": "Fred",
+   "motivo": "primer tema del álbum"
+  },
+  "brown-rice": {
+   "album": "4g7WTSk1vwtx8rf330Wd7L",
+   "id": "2u7vy4E7raAt291mJwxxK4",
+   "uri": "spotify:track:2u7vy4E7raAt291mJwxxK4",
+   "nombre": "Brown Rice",
+   "motivo": "búsqueda de Spotify"
+  },
+  "gateway": {
+   "album": "17BiOpPnez7L0w8r0yRp9Y",
+   "id": "0amU4az7r35xjWusNymqwi",
+   "uri": "spotify:track:0amU4az7r35xjWusNymqwi",
+   "nombre": "Back-Woods Song",
+   "motivo": "búsqueda de Spotify"
+  },
+  "caliente": {
+   "album": "17oSUI6vpboO1NZtXVmHuf",
+   "id": "2CAirvB4PRUmE83C7tppde",
+   "uri": "spotify:track:2CAirvB4PRUmE83C7tppde",
+   "nombre": "Europa (Earth's Cry, Heaven's Smile)",
+   "motivo": "reseña"
+  },
+  "eastern-rebellion": {
+   "album": "6Kba7TzUkBLvGJNf0Ycl96",
+   "id": "6QzQumqruczTulkKEslN74",
+   "uri": "spotify:track:6QzQumqruczTulkKEslN74",
+   "nombre": "Bolivia",
+   "motivo": "búsqueda de Spotify"
+  },
+  "jaco-pastorius": {
+   "album": "47nWcb5GzhgGNzJuCJgiPN",
+   "id": "7CfCkdTNWFQDopWol8SWYQ",
+   "uri": "spotify:track:7CfCkdTNWFQDopWol8SWYQ",
+   "nombre": "Donna Lee",
+   "motivo": "reseña"
+  },
+  "yellow-fields": {
+   "album": "1OqHwHtEmQ7zPdndGdRwzh",
+   "id": "0aOi6gHBv7jGQjgH3QgQWB",
+   "uri": "spotify:track:0aOi6gHBv7jGQjgH3QgQWB",
+   "nombre": "Yellow Fields",
+   "motivo": "búsqueda de Spotify"
+  },
+  "zombie": {
+   "album": "5daEPaHfFiOSpKJLMraH9D",
+   "id": "2r0KlAVemiB1TyTqgCh5ve",
+   "uri": "spotify:track:2r0KlAVemiB1TyTqgCh5ve",
+   "nombre": "Zombie",
+   "motivo": "búsqueda de Spotify"
+  },
+  "city-connection": {
+   "album": "3RgugL3A8dYorBT7gfdF9Q",
+   "id": "24WN7303j3zy75xLeYSVQq",
+   "uri": "spotify:track:24WN7303j3zy75xLeYSVQq",
+   "nombre": "ヒノズ・レゲエ",
+   "motivo": "búsqueda de Spotify"
+  },
+  "gitane": {
+   "album": "4znaNePIozc3RSE2uEVSGx",
+   "id": "0NWmjW4E3sPBFcFmZKgdC4",
+   "uri": "spotify:track:0NWmjW4E3sPBFcFmZKgdC4",
+   "nombre": "Gitane",
+   "motivo": "búsqueda de Spotify"
+  },
+  "i-wanna-play-for-you": {
+   "album": "6Hz1JLJkdQhg8v0KJy1oCM",
+   "id": "31dkDpgqHIlPfGTDHYYbRi",
+   "uri": "spotify:track:31dkDpgqHIlPfGTDHYYbRi",
+   "nombre": "I Wanna Play for You",
+   "motivo": "búsqueda de Spotify"
+  },
+  "light-as-a-feather-azimuth": {
+   "album": "2wkmxijYToqAr0ATgcNSsn",
+   "id": "1jji1sWxZOo7eWnXifT7yP",
+   "uri": "spotify:track:1jji1sWxZOo7eWnXifT7yP",
+   "nombre": "Spain - Composite Alternative Take",
+   "motivo": "búsqueda de Spotify"
+  },
+  "full-force": {
+   "album": "4J52Qh2XY3mgxNnTvkKuYr",
+   "id": "55QXmQTnMsjYAhNLZIgoqU",
+   "uri": "spotify:track:55QXmQTnMsjYAhNLZIgoqU",
+   "nombre": "Charlie M",
+   "motivo": "reseña"
+  },
+  "falta-un-vidrio": {
+   "album": "1xIs6cp03TBtiKCJGpponk",
+   "id": "5kCPAWfVpkEIOi2ntBN91B",
+   "uri": "spotify:track:5kCPAWfVpkEIOi2ntBN91B",
+   "nombre": "La Moto",
+   "motivo": "reseña"
+  },
+  "jazz-funk": {
+   "album": "5FYPqxrJDkCwrQvK86kphB",
+   "id": "4n2uOZUVXeX0YLIqLWXWle",
+   "uri": "spotify:track:4n2uOZUVXeX0YLIqLWXWle",
+   "nombre": "Parisienne Girl",
+   "motivo": "búsqueda de Spotify"
+  },
+  "flight-path": {
+   "album": "7cyFUEiit3tsFfvv3nHzTV",
+   "id": "0vPD8e2xQpbPoQJG90qWvl",
+   "uri": "spotify:track:0vPD8e2xQpbPoQJG90qWvl",
+   "nombre": "Flight Path",
+   "motivo": "búsqueda de Spotify"
+  },
+  "home-boy-sister-out": {
+   "album": "2Y3GMEYJXkQ7Ur29s2FL9z",
+   "id": "4HWfFIYWtRR4MGZ4UyIRGS",
+   "uri": "spotify:track:4HWfFIYWtRR4MGZ4UyIRGS",
+   "nombre": "Art Deco",
+   "motivo": "búsqueda de Spotify"
+  },
+  "it-should-ve-happened-a-long-time-ago": {
+   "album": "24kr1KBohyzTQ9qzZKpjqm",
+   "id": "7bvhpw1YwzwGKk2VhXFdJd",
+   "uri": "spotify:track:7bvhpw1YwzwGKk2VhXFdJd",
+   "nombre": "It Should've Happened A Long Time Ago",
+   "motivo": "búsqueda de Spotify"
+  },
+  "landscape": {
+   "album": "1UbY9TYunp4N3Lzao0DmIW",
+   "id": "1Z2qlwRQbyyrp6x6RmRvWS",
+   "uri": "spotify:track:1Z2qlwRQbyyrp6x6RmRvWS",
+   "nombre": "Ringo Oiwake",
+   "motivo": "búsqueda de Spotify"
+  },
+  "mambo-diablo": {
+   "album": "1RJMeWrkh0kfcRDojS5rdL",
+   "id": "4DuVr5RpUkM2MUl0SSaaYr",
+   "uri": "spotify:track:4DuVr5RpUkM2MUl0SSaaYr",
+   "nombre": "Mambo Diablo",
+   "motivo": "búsqueda de Spotify"
+  },
+  "metal-fatigue": {
+   "album": "2rDyArQ8dVp7Hwicvo7LVN",
+   "id": "3KYoU0LxHMkNUsIcXPjP8l",
+   "uri": "spotify:track:3KYoU0LxHMkNUsIcXPjP8l",
+   "nombre": "Metal Fatigue - Remastered",
+   "motivo": "búsqueda de Spotify"
+  },
+  "song-for-everyone": {
+   "album": "6WZaKFh7rb0o1mxLfjJ6jP",
+   "id": "2miJlgD01PSsTBrhyJrdeu",
+   "uri": "spotify:track:2miJlgD01PSsTBrhyJrdeu",
+   "nombre": "Song For Everyone",
+   "motivo": "búsqueda de Spotify"
+  },
+  "the-dream-of-the-blue-turtles": {
+   "album": "17mrdCgqrWfqpJlaCNGCdF",
+   "id": "0MBYW7CcBJmsY3HTP05VQg",
+   "uri": "spotify:track:0MBYW7CcBJmsY3HTP05VQg",
+   "nombre": "Russians",
+   "motivo": "búsqueda de Spotify"
+  },
+  "chick-corea-elektric-band": {
+   "album": "0DMn5J9IfbdhjTpmYyPstG",
+   "id": "1dzDQF6R9Q1HwPWTb2VbYL",
+   "uri": "spotify:track:1dzDQF6R9Q1HwPWTb2VbYL",
+   "nombre": "Elektric City",
+   "motivo": "búsqueda de Spotify"
+  },
+  "civilization": {
+   "album": "77pQEd70AJ5WKOcbSIRl15",
+   "id": "2xvwzDf6J1a0ngsndX8Fvu",
+   "uri": "spotify:track:2xvwzDf6J1a0ngsndX8Fvu",
+   "nombre": "Civilization",
+   "motivo": "búsqueda de Spotify"
+  },
+  "fragments": {
+   "album": "2QfvRltklv7ydh5KV78JLT",
+   "id": "5WfQiyqpSOuT5MaLuJqCya",
+   "uri": "spotify:track:5WfQiyqpSOuT5MaLuJqCya",
+   "nombre": "For The Love Of Sarah",
+   "motivo": "búsqueda de Spotify"
+  },
+  "j-mood": {
+   "album": "5FB00MyD0Q81w5C4Xm8f7q",
+   "id": "4PLq6ZtlXOgGLmubGPYCoa",
+   "uri": "spotify:track:4PLq6ZtlXOgGLmubGPYCoa",
+   "nombre": "J Mood",
+   "motivo": "búsqueda de Spotify"
+  },
+  "once-upon-a-time-far-away-in-the-south": {
+   "album": "1LOYH3Kgq6Qz45KmXUYJSU",
+   "id": "6p96H8OP4pMUlgUH5XBpDL",
+   "uri": "spotify:track:6p96H8OP4pMUlgUH5XBpDL",
+   "nombre": "José, Valeria And Matias",
+   "motivo": "búsqueda de Spotify"
+  },
+  "pianism": {
+   "album": "51gnZiO22o4MXivfVvvitw",
+   "id": "4Ief2FtVa74HLCwTdUbcWI",
+   "uri": "spotify:track:4Ief2FtVa74HLCwTdUbcWI",
+   "nombre": "The Prayer",
+   "motivo": "búsqueda de Spotify"
+  },
+  "still-warm": {
+   "album": "72xoDNwXA0fSHKJYdpDS63",
+   "id": "5X8jyKNaTmk9kiPcMLpZ4v",
+   "uri": "spotify:track:5X8jyKNaTmk9kiPcMLpZ4v",
+   "nombre": "Still Warm",
+   "motivo": "búsqueda de Spotify"
+  },
+  "zero-hour": {
+   "album": "6NNvUtOmrKH7DlRUfnbx7d",
+   "id": "4aIw9je2dN7HQMIjMfRRRd",
+   "uri": "spotify:track:4aIw9je2dN7HQMIjMfRRRd",
+   "nombre": "Concierto Para Quinteto",
+   "motivo": "búsqueda de Spotify"
+  },
+  "tumbaito": {
+   "album": "644y6xjpPdopoGp6w9U0hV",
+   "id": "6suoPNnc2lu6vJiRax8zw4",
+   "uri": "spotify:track:6suoPNnc2lu6vJiRax8zw4",
+   "nombre": "Tumbaito",
+   "motivo": "búsqueda de Spotify"
+  },
+  "tutu": {
+   "album": "0toDuabaPv8Pa2KGI88eB7",
+   "id": "5nZnAVUt0w7UO8Wma9GabV",
+   "uri": "spotify:track:5nZnAVUt0w7UO8Wma9GabV",
+   "nombre": "Tutu",
+   "motivo": "búsqueda de Spotify"
+  },
+  "water-from-an-ancient-well": {
+   "album": "1QlW8jmei8HgE3C4h3TPhH",
+   "id": "2MfEvcJtWevl7BhoO7uHNb",
+   "uri": "spotify:track:2MfEvcJtWevl7BhoO7uHNb",
+   "nombre": "Manenberg Revisited",
+   "motivo": "búsqueda de Spotify"
+  },
+  "brazilian-romance": {
+   "album": "0JNOJxIhe5n116dQa1JJOA",
+   "id": "3qEg20VVKfhRaqEsuhcVqF",
+   "uri": "spotify:track:3qEg20VVKfhRaqEsuhcVqF",
+   "nombre": "Romance - Vocal",
+   "motivo": "búsqueda de Spotify"
+  },
+  "live-in-montreux-1987": {
+   "album": "45xmOgVCn04My5STAOwckE",
+   "id": "68JfeyEDGjXvUeBVUgmqCG",
+   "uri": "spotify:track:68JfeyEDGjXvUeBVUgmqCG",
+   "nombre": "Times of My Life - Live 1987",
+   "motivo": "primer tema del álbum"
+  },
+  "making-music": {
+   "album": "6Z5RRaRtxckdDY9W9711lB",
+   "id": "6qqF3A8jjiS9k0Vpi8zcSa",
+   "uri": "spotify:track:6qqF3A8jjiS9k0Vpi8zcSa",
+   "nombre": "Making Music",
+   "motivo": "búsqueda de Spotify"
+  },
+  "michael-brecker": {
+   "album": "1pup2rw6rpOQ4qUVL0h1To",
+   "id": "1XtUNr8GPzL1aYq4rglxC2",
+   "uri": "spotify:track:1XtUNr8GPzL1aYq4rglxC2",
+   "nombre": "Nothing Personal",
+   "motivo": "búsqueda de Spotify"
+  },
+  "power-of-three": {
+   "album": "3SDdp0ZtJvnfCyozg19kvt",
+   "id": "7BRMbjkHb1C9cLrrzxE7xA",
+   "uri": "spotify:track:7BRMbjkHb1C9cLrrzxE7xA",
+   "nombre": "Beautiful Love - Live At Montreux Jazz Festival/1986",
+   "motivo": "búsqueda de Spotify"
+  },
+  "quartet-west": {
+   "album": "5TTTEyRSGqgLweE5UMS0Wu",
+   "id": "17LJ58hNO6SRWMdY8oe60e",
+   "uri": "spotify:track:17LJ58hNO6SRWMdY8oe60e",
+   "nombre": "Hermitage",
+   "motivo": "búsqueda de Spotify"
+  },
+  "renaissance": {
+   "album": "52isPkGiAuaXCuGtTTqVmV",
+   "id": "700OSYJMf1jAQjkfWGkRTq",
+   "uri": "spotify:track:700OSYJMf1jAQjkfWGkRTq",
+   "nombre": "St. Thomas",
+   "motivo": "búsqueda de Spotify"
+  },
+  "somewhere-called-home": {
+   "album": "74fX1tRcYOvqe2dKXqsPOA",
+   "id": "16DH5TwcSXBpfpYwXpRjnZ",
+   "uri": "spotify:track:16DH5TwcSXBpfpYwXpRjnZ",
+   "nombre": "Somewehere Called Home",
+   "motivo": "búsqueda de Spotify"
+  },
+  "standard-time-vol-1": {
+   "album": "6tDA8wJvkFgz3UDVW0pXat",
+   "id": "6elElLzJiftPv5rfDM3rRG",
+   "uri": "spotify:track:6elElLzJiftPv5rfDM3rRG",
+   "nombre": "Caravan",
+   "motivo": "búsqueda de Spotify"
+  },
+  "still-life-talking": {
+   "album": "2hLXa5j81nsOy8KmqM1sSx",
+   "id": "0Rr5Lw09CzqcchhsH0Pmhs",
+   "uri": "spotify:track:0Rr5Lw09CzqcchhsH0Pmhs",
+   "nombre": "Last Train Home",
+   "motivo": "búsqueda de Spotify"
+  },
+  "the-rough-dancer-and-the-cyclical-night-tango-apas": {
+   "album": "3Shb6pA04PnmQyJj5bk05k",
+   "id": "1jFgrIA3dvv2eZwLruIW4G",
+   "uri": "spotify:track:1jFgrIA3dvv2eZwLruIW4G",
+   "nombre": "Prologue - Tango Apasionada",
+   "motivo": "búsqueda de Spotify"
+  },
+  "look-what-i-got": {
+   "album": "44rPYqxdq5u8XfxY5cwDAl",
+   "id": "4IKYUOsdgydTfEiE4nI73O",
+   "uri": "spotify:track:4IKYUOsdgydTfEiE4nI73O",
+   "nombre": "Look What I Got",
+   "motivo": "búsqueda de Spotify"
+  },
+  "michel-plays-petrucciani": {
+   "album": "4nsFVlrtJhSGGPAoSrzwk3",
+   "id": "54wyRsbR8ti1tuzjTikQME",
+   "uri": "spotify:track:54wyRsbR8ti1tuzjTikQME",
+   "nombre": "Brazilian Suite",
+   "motivo": "búsqueda de Spotify"
+  },
+  "politics": {
+   "album": "4mZ16qZUVePasEQG6C8YS3",
+   "id": "7zeWvylLXHcFTpkS5CJEfX",
+   "uri": "spotify:track:7zeWvylLXHcFTpkS5CJEfX",
+   "nombre": "Avance",
+   "motivo": "búsqueda de Spotify"
+  },
+  "the-truth-is-spoken-here": {
+   "album": "7zsRZGBlME3IXlqCjCCUBA",
+   "id": "1UDSnufjt8YcVXakaP9cvb",
+   "uri": "spotify:track:1UDSnufjt8YcVXakaP9cvb",
+   "nombre": "The Truth Is Spoken Here",
+   "motivo": "búsqueda de Spotify"
+  },
+  "aura": {
+   "album": "2SaPfVOUN2nWhsk5dqt0v2",
+   "id": "7yEFRP0S68mIKlEDjCZdPu",
+   "uri": "spotify:track:7yEFRP0S68mIKlEDjCZdPu",
+   "nombre": "White",
+   "motivo": "búsqueda de Spotify"
+  },
+  "jazz-poet": {
+   "album": "6NU2QVQoxMneX6Z7uhTwzm",
+   "id": "4hGXIiXswz78u6XgijalG9",
+   "uri": "spotify:track:4hGXIiXswz78u6XgijalG9",
+   "nombre": "St. Louis Blues",
+   "motivo": "búsqueda de Spotify"
+  },
+  "real-life-story": {
+   "album": "1BIetJr1LHyHfRPZLGkNNC",
+   "id": "5A4jt0m8cGo0Z6F7TAjakt",
+   "uri": "spotify:track:5A4jt0m8cGo0Z6F7TAjakt",
+   "nombre": "Real Life Story",
+   "motivo": "búsqueda de Spotify"
+  },
+  "secrets": {
+   "album": "1UDgMZLyvJgGYNCOqMEURq",
+   "id": "3OGz14dnKpsDvBaoDgPuXK",
+   "uri": "spotify:track:3OGz14dnKpsDvBaoDgPuXK",
+   "nombre": "City Nights - Remastered",
+   "motivo": "búsqueda de Spotify"
+  },
+  "tico-tico": {
+   "album": "4VwSbxkYVg1h965ckOfcmo",
+   "id": "1NvCsR7hEdgZTAsvISKcPI",
+   "uri": "spotify:track:1NvCsR7hEdgZTAsvISKcPI",
+   "nombre": "Tico Tico",
+   "motivo": "búsqueda de Spotify"
+  },
+  "trio-jeepy": {
+   "album": "5vVVIxHiBw1LYpbWe4dRqJ",
+   "id": "5Dq0Ux98atpc55wFxmRpz5",
+   "uri": "spotify:track:5Dq0Ux98atpc55wFxmRpz5",
+   "nombre": "Housed From Edward",
+   "motivo": "búsqueda de Spotify"
+  },
+  "diamond-rough": {
+   "album": "5hrMaqrOtNiHewGCItWPNf",
+   "id": "46BCpYx2ERUE5Rjk9dB1qh",
+   "uri": "spotify:track:46BCpYx2ERUE5Rjk9dB1qh",
+   "nombre": "Ruby My Dear",
+   "motivo": "búsqueda de Spotify"
+  },
+  "bix-beiderbecke-vol-1-singin-the-blues": {
+   "album": "4aEFtKgSKCYlG9DzE58sue",
+   "id": "35jDoq4tuX3g4NhmD5KNLe",
+   "uri": "spotify:track:35jDoq4tuX3g4NhmD5KNLe",
+   "nombre": "Jazz Me Blues",
+   "motivo": "búsqueda de Spotify"
+  },
+  "carmen-sings-monk": {
+   "album": "05bnn11Z5MBOTwiDbmJ5YB",
+   "id": "4ARdQNg8KJgzOIpsbAhkvg",
+   "uri": "spotify:track:4ARdQNg8KJgzOIpsbAhkvg",
+   "nombre": "Monkery's The Blues - Remastered 2001",
+   "motivo": "búsqueda de Spotify"
+  },
+  "discovery-live-at-montreux": {
+   "album": "6aYnWzlCSBdCC7C7LWyWLo",
+   "id": "5xBMZd0yMU3gewhTTw4Gnn",
+   "uri": "spotify:track:5xBMZd0yMU3gewhTTw4Gnn",
+   "nombre": "Velas - Live At Montreux",
+   "motivo": "búsqueda de Spotify"
+  },
+  "extensions-holland": {
+   "album": "378hwxC3HGs6F9N4THWVsZ",
+   "id": "7vPiyQwdH8JtqFmJUvyVrR",
+   "uri": "spotify:track:7vPiyQwdH8JtqFmJUvyVrR",
+   "nombre": "Color Of Mind",
+   "motivo": "búsqueda de Spotify"
+  },
+  "fish-out-of-water": {
+   "album": "1zd6K7LZK1Km1kTYUYO62k",
+   "id": "4rAxx2ekEsgaqxY8vGHjVf",
+   "uri": "spotify:track:4rAxx2ekEsgaqxY8vGHjVf",
+   "nombre": "Fish Out Of Water",
+   "motivo": "búsqueda de Spotify"
+  },
+  "hocus-pocus": {
+   "album": "4DfDTVX8TTpNPnbbcbDOBt",
+   "id": "6lD9IL1UhFalHhMwNHBRab",
+   "uri": "spotify:track:6lD9IL1UhFalHhMwNHBRab",
+   "nombre": "Wrappin' It Up",
+   "motivo": "reseña"
+  },
+  "memoirs": {
+   "album": "5ACpExXqOzvPtCe87PgTds",
+   "id": "2mNhKMeyIYxSC5OPv6wMza",
+   "uri": "spotify:track:2mNhKMeyIYxSC5OPv6wMza",
+   "nombre": "Memoirs",
+   "motivo": "búsqueda de Spotify"
+  },
+  "music-for-large-and-small-ensembles": {
+   "album": "0Az6fSfHF423PVLvqitrWz",
+   "id": "0TPz69Knk69ZE8yhil89CB",
+   "uri": "spotify:track:0TPz69Knk69ZE8yhil89CB",
+   "nombre": "The Sweet Time Suite, Part I - Opening",
+   "motivo": "búsqueda de Spotify"
+  },
+  "pancha-nadai-pallavi": {
+   "album": "4PIGHrAEFWv6RG5ywsX96p",
+   "id": "5b7IIUpOXAEemY8vs2vBlE",
+   "uri": "spotify:track:5b7IIUpOXAEemY8vs2vBlE",
+   "nombre": "Talam: Mahalakshmi Tala - 9 1/2 Beats - Pancha Nadai Pallavi (Ragam Tanam Pallavi)",
+   "motivo": "búsqueda de Spotify"
+  },
+  "sagn": {
+   "album": "1TvPd0kI0cxT5EUV6QDOjv",
+   "id": "1DfRYKdz4xaU70zCG1h6iY",
+   "uri": "spotify:track:1DfRYKdz4xaU70zCG1h6iY",
+   "nombre": "Toll",
+   "motivo": "búsqueda de Spotify"
+  },
+  "the-brand-new-heavies": {
+   "album": "1YZnFFblrg9SAAKM7NFYJS",
+   "id": "1rRb9dYGvo7KbxlHW6wed3",
+   "uri": "spotify:track:1rRb9dYGvo7KbxlHW6wed3",
+   "nombre": "Dream Come True",
+   "motivo": "búsqueda de Spotify"
+  },
+  "the-world-is-falling-down": {
+   "album": "6Wk1KjFM26htWNGSmRMHla",
+   "id": "1wCd8awrNO9GYO0fX3JRCx",
+   "uri": "spotify:track:1wCd8awrNO9GYO0fX3JRCx",
+   "nombre": "The World Is Falling Down - 1990 The World Is Falling Down Version",
+   "motivo": "búsqueda de Spotify"
+  },
+  "time-on-my-hands": {
+   "album": "204uhoOaWn4a1XK8RmJi92",
+   "id": "301YnLmQmSX7mURPKvWOy5",
+   "uri": "spotify:track:301YnLmQmSX7mURPKvWOy5",
+   "nombre": "Let's Say We Did",
+   "motivo": "búsqueda de Spotify"
+  },
+  "alone-with-three-giants": {
+   "album": "3u1KUeXqV5l4Fr9uf11odM",
+   "id": "0UKVXCZUYsjr5FW0xspCJk",
+   "uri": "spotify:track:0UKVXCZUYsjr5FW0xspCJk",
+   "nombre": "Jungle Blues",
+   "motivo": "búsqueda de Spotify"
+  },
+  "fleur-de-lavande": {
+   "album": "41Zi8OA7eFM4uADtY2Qk73",
+   "id": "6gyXZ91QNr98LLGvTldQMD",
+   "uri": "spotify:track:6gyXZ91QNr98LLGvTldQMD",
+   "nombre": "Fleur De Lavande",
+   "motivo": "búsqueda de Spotify"
+  },
+  "flight-to-freedom": {
+   "album": "1ADoH1IJpSVyPsa638jbwO",
+   "id": "6X3obJ8eMTmYnMsxNAWTSi",
+   "uri": "spotify:track:6X3obJ8eMTmYnMsxNAWTSi",
+   "nombre": "Flight To Freedom",
+   "motivo": "búsqueda de Spotify"
+  },
+  "gipsy-summer": {
+   "album": "6mUAnkJgL919Tc8baKkge3",
+   "id": "60GJRTt9o8Q3f7t5bCvDdZ",
+   "uri": "spotify:track:60GJRTt9o8Q3f7t5bCvDdZ",
+   "nombre": "For Sephora - Instrumental",
+   "motivo": "búsqueda de Spotify"
+  },
+  "infancia": {
+   "album": "4KZiNPnju3kNbSj1cUWL1v",
+   "id": "6OckuvtPrJZmVNV1A0ue8z",
+   "uri": "spotify:track:6OckuvtPrJZmVNV1A0ue8z",
+   "nombre": "Infância",
+   "motivo": "búsqueda de Spotify"
+  },
+  "inside-life": {
+   "album": "5OPMTZIYFOihnWRNJvYZIM",
+   "id": "4LECMowGZSjh0uZupV0gpp",
+   "uri": "spotify:track:4LECMowGZSjh0uZupV0gpp",
+   "nombre": "Inside Life",
+   "motivo": "tema del título"
+  },
+  "kenny-kirkland": {
+   "album": "4pnLL6l6ji6bvsb3JIOG0g",
+   "id": "1ijBnedIkmGJXdOquONT15",
+   "uri": "spotify:track:1ijBnedIkmGJXdOquONT15",
+   "nombre": "Mr. J. C.",
+   "motivo": "búsqueda de Spotify"
+  },
+  "anything-but-grey": {
+   "album": "050UV2ogLh4kipN8eAk48O",
+   "id": "4HXT4wqnKMkXsBuhEGAzr0",
+   "uri": "spotify:track:4HXT4wqnKMkXsBuhEGAzr0",
+   "nombre": "Prince Of Peace",
+   "motivo": "búsqueda de Spotify"
+  },
+  "blue-camel": {
+   "album": "4Qxx712hAyTvTsl1EsWeRj",
+   "id": "41RZExlqDu907Cq7Zci3pA",
+   "uri": "spotify:track:41RZExlqDu907Cq7Zci3pA",
+   "nombre": "Blue Camel",
+   "motivo": "búsqueda de Spotify"
+  },
+  "breakout-papo-vazquez": {
+   "album": "6lnEhVU1Mr6ywQopatw5Dk",
+   "id": "4NFyU2YUskG5IycPz6FpMn",
+   "uri": "spotify:track:4NFyU2YUskG5IycPz6FpMn",
+   "nombre": "Breakout",
+   "motivo": "búsqueda de Spotify"
+  },
+  "celebration": {
+   "album": "5uIcFalqC6QjvKesBf4erF",
+   "id": "1QjjnUwRl6Z1ViSrjLWGUv",
+   "uri": "spotify:track:1QjjnUwRl6Z1ViSrjLWGUv",
+   "nombre": "Celebration",
+   "motivo": "búsqueda de Spotify"
+  },
+  "dad-man-cat": {
+   "album": "3jKJyvl0TGB6uLPlCoUClR",
+   "id": "1R7t4fria7ZtUtFbRRbXSl",
+   "uri": "spotify:track:1R7t4fria7ZtUtFbRRbXSl",
+   "nombre": "Long Cool & Bubbly",
+   "motivo": "búsqueda de Spotify"
+  },
+  "from-the-soul": {
+   "album": "5365ZyloGCXuGUitQF7qtq",
+   "id": "7GHroB3jVGpAXltMUQVDzp",
+   "uri": "spotify:track:7GHroB3jVGpAXltMUQVDzp",
+   "nombre": "Fort Worth",
+   "motivo": "búsqueda de Spotify"
+  },
+  "heavy-rhyme-experience-vol-1": {
+   "album": "1rcB3G2fEGV0cjx2ZEl2vt",
+   "id": "4r3c2ZJoMQ2zZl5YmOZTGp",
+   "uri": "spotify:track:4r3c2ZJoMQ2zZl5YmOZTGp",
+   "nombre": "Soul Flower (feat. The Pharcyde)",
+   "motivo": "búsqueda de Spotify"
+  },
+  "lush-life-the-music-of-billy-strayhorn": {
+   "album": "79ih1hMMqaYaMXhdlXDxku",
+   "id": "6LPiSYlucwTQDBJtyttvO9",
+   "uri": "spotify:track:6LPiSYlucwTQDBJtyttvO9",
+   "nombre": "Lush Life",
+   "motivo": "búsqueda de Spotify"
+  },
+  "malcolm-x-banda-sonora": {
+   "album": "0SAlsNB7FRYWsy5zcpPyfc",
+   "id": "1MER4DqcVHBHARE5IzRjUO",
+   "uri": "spotify:track:1MER4DqcVHBHARE5IzRjUO",
+   "nombre": "The Old Days",
+   "motivo": "búsqueda de Spotify"
+  },
+  "people-time": {
+   "album": "4OlI4YCwXMErm7HB1L6nmD",
+   "id": "2xThnPVfvAK5rO7n0O6tq7",
+   "uri": "spotify:track:2xThnPVfvAK5rO7n0O6tq7",
+   "nombre": "People Time - Live At Jazzhus Montmartre, Copenhagen / March 3rd 1991",
+   "motivo": "búsqueda de Spotify"
+  },
+  "ragas-and-sagas": {
+   "album": "46dm3YXKh4xXUT3jydzzjj",
+   "id": "6FXyTvy8EvJyO5mRdDAAWD",
+   "uri": "spotify:track:6FXyTvy8EvJyO5mRdDAAWD",
+   "nombre": "Raga 1",
+   "motivo": "búsqueda de Spotify"
+  },
+  "standards": {
+   "album": "1uGZCk12sYhAalhHct6rwY",
+   "id": "4IBE5imWXxdgSLQvTs7fje",
+   "uri": "spotify:track:4IBE5imWXxdgSLQvTs7fje",
+   "nombre": "Teach Me Tonight",
+   "motivo": "búsqueda de Spotify"
+  },
+  "stoned-woman": {
+   "album": "1iMNmX3jxoENVoUv1nJmwe",
+   "id": "3FRevOMYXzo6bYMHayLahT",
+   "uri": "spotify:track:3FRevOMYXzo6bYMHayLahT",
+   "nombre": "Stoned Woman",
+   "motivo": "búsqueda de Spotify"
+  },
+  "tanga": {
+   "album": "0UNY4QMVrcc65Ujcp4HVlk",
+   "id": "0Jx2GlZegVTLVepbr3Gt5N",
+   "uri": "spotify:track:0Jx2GlZegVTLVepbr3Gt5N",
+   "nombre": "Son Cubano - Yo Soy El Son Cubano",
+   "motivo": "búsqueda de Spotify"
+  },
+  "tribes-vibes-and-scribes": {
+   "album": "4nzPa4caHfl4DzBRFUISDw",
+   "id": "6QQmA1ct4LwN3xp2bwYmes",
+   "uri": "spotify:track:6QQmA1ct4LwN3xp2bwYmes",
+   "nombre": "Don't You Worry 'Bout a Thing",
+   "motivo": "reseña"
+  },
+  "blue-light-til-dawn": {
+   "album": "2v88xdHZnM2rHMqBBNRrcA",
+   "id": "2xSUtN7tGFlTJrxkAS3d8G",
+   "uri": "spotify:track:2xSUtN7tGFlTJrxkAS3d8G",
+   "nombre": "Redbone",
+   "motivo": "búsqueda de Spotify"
+  },
+  "emergency-on-planet-earth": {
+   "album": "0SeTonJJPjy57LqiCDmeEM",
+   "id": "0mmI8HaXjgzxrtKDmvAN7R",
+   "uri": "spotify:track:0mmI8HaXjgzxrtKDmvAN7R",
+   "nombre": "Emergency on Planet Earth",
+   "motivo": "búsqueda de Spotify"
+  },
+  "hand-on-the-torch": {
+   "album": "4Cm1wXjw6YCbkaiZZGNiZ1",
+   "id": "06DSI8L6IT8SizCw3JLckz",
+   "uri": "spotify:track:06DSI8L6IT8SizCw3JLckz",
+   "nombre": "Cantaloop (Flip Fantasia)",
+   "motivo": "reseña"
+  },
+  "have-a-little-faith": {
+   "album": "6oMlklL1QnJFf0gBw1VZix",
+   "id": "2KqT7UN0Pt9zgIDJZArCMX",
+   "uri": "spotify:track:2KqT7UN0Pt9zgIDJZArCMX",
+   "nombre": "Have a Little Faith in Me",
+   "motivo": "búsqueda de Spotify"
+  },
+  "high-havoc": {
+   "album": "6xgXGbhqrLTkHeI3A3OUt2",
+   "id": "2emMoKPdgglwuj8f0bDUrx",
+   "uri": "spotify:track:2emMoKPdgglwuj8f0bDUrx",
+   "nombre": "Something in My Eye",
+   "motivo": "búsqueda de Spotify"
+  },
+  "jazz-meets-the-symphony": {
+   "album": "6d9qD3TGQ1nOI83Lkwz7P1",
+   "id": "6oNeOWR3ISJwQoZy68ZFKo",
+   "uri": "spotify:track:6oNeOWR3ISJwQoZy68ZFKo",
+   "nombre": "The Fox (feat. Ray Brown, Grady Tate, The London Philharmonic)",
+   "motivo": "búsqueda de Spotify"
+  },
+  "my-time-is-now": {
+   "album": "2IkqDV8vYvw2nkGEGamMLj",
+   "id": "45MPxWsIA9w1J9jJui25DU",
+   "uri": "spotify:track:45MPxWsIA9w1J9jJui25DU",
+   "nombre": "El Manisero",
+   "motivo": "búsqueda de Spotify"
+  },
+  "pendulum": {
+   "album": "12tNQGQ1bum3xekiknXuFt",
+   "id": "6eLSDIZU935HSXvH3EGHca",
+   "uri": "spotify:track:6eLSDIZU935HSXvH3EGHca",
+   "nombre": "Pendulum",
+   "motivo": "búsqueda de Spotify"
+  },
+  "positivity": {
+   "album": "45BNZeFrf7HSGAogA2CZ5M",
+   "id": "64CXN0I1T4kIodHv8XUbpl",
+   "uri": "spotify:track:64CXN0I1T4kIodHv8XUbpl",
+   "nombre": "Talkin' Loud",
+   "motivo": "búsqueda de Spotify"
+  },
+  "promenade-with-duke": {
+   "album": "0BGAUeMqPNNKG5jIN9DEWl",
+   "id": "6JNSHpArwi7mJx6kgfnVsN",
+   "uri": "spotify:track:6JNSHpArwi7mJx6kgfnVsN",
+   "nombre": "Caravan",
+   "motivo": "búsqueda de Spotify"
+  },
+  "rhythm-method": {
+   "album": "6TfmmqYTZwQIalWfuQxcqa",
+   "id": "7JH96ipyWCcq1kAlT9oBO4",
+   "uri": "spotify:track:7JH96ipyWCcq1kAlT9oBO4",
+   "nombre": "So...",
+   "motivo": "búsqueda de Spotify"
+  },
+  "the-people-tree": {
+   "album": "3nkMuBZkV9vF8UP2fTLRNq",
+   "id": "0ABsjxZLXFoEJP0hYIZI9U",
+   "uri": "spotify:track:0ABsjxZLXFoEJP0hYIZI9U",
+   "nombre": "Jesse - Alt Brendan Lynch Radio",
+   "motivo": "búsqueda de Spotify"
+  },
+  "varech": {
+   "album": "3eshODPVedUsJMYIWB91Bq",
+   "id": "0qeCKlxdKlM11GIVgOURyu",
+   "uri": "spotify:track:0qeCKlxdKlM11GIVgOURyu",
+   "nombre": "Les \"Là-bas\"",
+   "motivo": "búsqueda de Spotify"
+  },
+  "wish": {
+   "album": "7BgaGSjJZSWv6xyNTWAGij",
+   "id": "6NlmRmhfmccg4mmmPP0Vyd",
+   "uri": "spotify:track:6NlmRmhfmccg4mmmPP0Vyd",
+   "nombre": "Tears in Heaven",
+   "motivo": "búsqueda de Spotify"
+  },
+  "approaching-standards": {
+   "album": "1OGhqJimAFVAtyX7PKbakD",
+   "id": "1czzmAtPTw287TyMQEfCfg",
+   "uri": "spotify:track:1czzmAtPTw287TyMQEfCfg",
+   "nombre": "Ruby My Dear",
+   "motivo": "búsqueda de Spotify"
+  },
+  "brother-sister": {
+   "album": "0n6y7yVyZBKpwZICyTvFFh",
+   "id": "444zINknbqK114MV6rYgVL",
+   "uri": "spotify:track:444zINknbqK114MV6rYgVL",
+   "nombre": "Midnight At The Oasis",
+   "motivo": "reseña"
+  },
+  "danzon": {
+   "album": "3L2UdSpS14NUFNjS7U0yxb",
+   "id": "3Do9OaGPLuacYx0W3DqSQj",
+   "uri": "spotify:track:3Do9OaGPLuacYx0W3DqSQj",
+   "nombre": "A Mis Abuelos",
+   "motivo": "búsqueda de Spotify"
+  },
+  "gershwin-for-lovers": {
+   "album": "1fmizidXDzZpCFuQU8l5LG",
+   "id": "3wPZVnOScmpbn6JkWJxi3S",
+   "uri": "spotify:track:3wPZVnOScmpbn6JkWJxi3S",
+   "nombre": "The Man I Love",
+   "motivo": "búsqueda de Spotify"
+  },
+  "hope": {
+   "album": "6jUtNfFM8Dx50KTaQFwKtj",
+   "id": "1ndwWwVZIqBGd0YFWC8BhS",
+   "uri": "spotify:track:1ndwWwVZIqBGd0YFWC8BhS",
+   "nombre": "Stimela - The Dowry Song",
+   "motivo": "reseña"
+  },
+  "i-can-see-your-house-from-here": {
+   "album": "6rrp2wRfrtYxuHM6N5Uavb",
+   "id": "2QyPJRKm3zSNWzucSapSb3",
+   "uri": "spotify:track:2QyPJRKm3zSNWzucSapSb3",
+   "nombre": "I Can See Your House From Here",
+   "motivo": "búsqueda de Spotify"
+  },
+  "misterios": {
+   "album": "6hbfHObzg85qcBPJSAfPBJ",
+   "id": "0RGKvovGqfwOkbRhPnKuj9",
+   "uri": "spotify:track:0RGKvovGqfwOkbRhPnKuj9",
+   "nombre": "Misterios",
+   "motivo": "búsqueda de Spotify"
+  },
+  "moodswing": {
+   "album": "2pGsmKvSJPyv8sjJ7fzdGp",
+   "id": "5TMqj7KNg6Nr1REJUbmIyn",
+   "uri": "spotify:track:5TMqj7KNg6Nr1REJUbmIyn",
+   "nombre": "Headin' Home",
+   "motivo": "búsqueda de Spotify"
+  },
+  "my-favorite-tune": {
+   "album": "7vQEWRQZ2ZpJlZZRqZFEF9",
+   "id": "5yS3TsaBmVhk1ELFexUs6Q",
+   "uri": "spotify:track:5yS3TsaBmVhk1ELFexUs6Q",
+   "nombre": "Voyage",
+   "motivo": "búsqueda de Spotify"
+  },
+  "officium": {
+   "album": "6EZ4ZARjmbOF8M9yRzxMxE",
+   "id": "46tPGzCXCI2oKsemztDA9u",
+   "uri": "spotify:track:46tPGzCXCI2oKsemztDA9u",
+   "nombre": "Parce Mihi Domine",
+   "motivo": "búsqueda de Spotify"
+  },
+  "out-of-here": {
+   "album": "4aCEadTmwobVOD24qfYkoa",
+   "id": "6WuykiVDoGdcy3DDbBVr4y",
+   "uri": "spotify:track:6WuykiVDoGdcy3DDbBVr4y",
+   "nombre": "Mini",
+   "motivo": "búsqueda de Spotify"
+  },
+  "spinnin-the-webb": {
+   "album": "2NrcDAinujsJB7aAbvwdua",
+   "id": "6xWwwupzxcbITffxF8Ki0M",
+   "uri": "spotify:track:6xWwwupzxcbITffxF8Ki0M",
+   "nombre": "Squeeze Me",
+   "motivo": "búsqueda de Spotify"
+  },
+  "the-return-of-the-space-cowboy": {
+   "album": "3emhnEQ76nUUehouSvnGxk",
+   "id": "6K53GM9W6Vle5KBwGFVnZM",
+   "uri": "spotify:track:6K53GM9W6Vle5KBwGFVnZM",
+   "nombre": "Space Cowboy",
+   "motivo": "búsqueda de Spotify"
+  },
+  "wanton-spirit": {
+   "album": "014Yi62dTNyZsmXlTsU4zj",
+   "id": "2zI9Quo9mkYsYDgc4jWRPk",
+   "uri": "spotify:track:2zI9Quo9mkYsYDgc4jWRPk",
+   "nombre": "Sail Away - Instrumental",
+   "motivo": "primer tema del álbum"
+  },
+  "100-and-rising": {
+   "album": "69TpI17HWNXX6qJtpkR7ya",
+   "id": "0oiueZE4ZND1zlbQlQHuOz",
+   "uri": "spotify:track:0oiueZE4ZND1zlbQlQHuOz",
+   "nombre": "Roots (Back To A Way Of Life)",
+   "motivo": "búsqueda de Spotify"
+  },
+  "bebo-rides-again": {
+   "album": "0k4NZSAhdnjrsoJOB0gwLN",
+   "id": "3MvxhBGbguOWYt9ypQcwGj",
+   "uri": "spotify:track:3MvxhBGbguOWYt9ypQcwGj",
+   "nombre": "All Dizzy Gillespie",
+   "motivo": "búsqueda de Spotify"
+  },
+  "boulevard": {
+   "album": "3z6aGZfwBF0obHrf3c5swg",
+   "id": "1pUb1ZGMdSldjWGo7Nrg17",
+   "uri": "spotify:track:1pUb1ZGMdSldjWGo7Nrg17",
+   "nombre": "Deep in It",
+   "motivo": "búsqueda de Spotify"
+  },
+  "carnet-de-routes": {
+   "album": "5LA8ikmgpvDSgiBciAP4FF",
+   "id": "5V5qO9d020QOsMMbCguqe3",
+   "uri": "spotify:track:5V5qO9d020QOsMMbCguqe3",
+   "nombre": "Annobon",
+   "motivo": "búsqueda de Spotify"
+  },
+  "dreamland": {
+   "album": "30ZwPC97W0KRA7GKxRogKL",
+   "id": "4KpOMhRguuNfCKaOQkVS11",
+   "uri": "spotify:track:4KpOMhRguuNfCKaOQkVS11",
+   "nombre": "Dreamland",
+   "motivo": "búsqueda de Spotify"
+  },
+  "family": {
+   "album": "2IO0hnGQwsgLU9INxaRPeU",
+   "id": "03OgbxrpNUTILNeBglaKDY",
+   "uri": "spotify:track:03OgbxrpNUTILNeBglaKDY",
+   "nombre": "The Nearness Of You",
+   "motivo": "búsqueda de Spotify"
+  },
+  "friday-afternoon-in-the-universe": {
+   "album": "6zx2fC13A8qkgwEhCZaRN4",
+   "id": "26IapGXdI0m8nhHs8dRg8X",
+   "uri": "spotify:track:26IapGXdI0m8nhHs8dRg8X",
+   "nombre": "The Lover",
+   "motivo": "búsqueda de Spotify"
+  },
+  "gettin-to-it": {
+   "album": "0sTCOTNTXhgAxUvwCnyIK2",
+   "id": "3oV49QXWetJyyp5dKno5wt",
+   "uri": "spotify:track:3oV49QXWetJyyp5dKno5wt",
+   "nombre": "Gettin' To It",
+   "motivo": "búsqueda de Spotify"
+  },
+  "if-mountains-could-sing": {
+   "album": "4lv1X1oSpU4tHn6PZfkaCj",
+   "id": "1zKbNpXsJjuA3VtGAxSlQO",
+   "uri": "spotify:track:1zKbNpXsJjuA3VtGAxSlQO",
+   "nombre": "If Mountains Could Sing",
+   "motivo": "búsqueda de Spotify"
+  },
+  "introducing-brad-mehldau": {
+   "album": "3Xof3jYaVXRtGnmiREePG1",
+   "id": "5x0knlH4sCOHjw2GjEZPEB",
+   "uri": "spotify:track:5x0knlH4sCOHjw2GjEZPEB",
+   "nombre": "London Blues",
+   "motivo": "búsqueda de Spotify"
+  },
+  "khomsa": {
+   "album": "19eTQpLDVScdZHgjSnSSrB",
+   "id": "07e9XPzIs5EWtHOTTUNAfH",
+   "uri": "spotify:track:07e9XPzIs5EWtHOTTUNAfH",
+   "nombre": "Khomsa",
+   "motivo": "búsqueda de Spotify"
+  },
+  "modern-day-jazz-stories": {
+   "album": "5nx7ZTo3tiSsmxlFTmavSq",
+   "id": "45GzdkWWCAIU0W4zv2wQYQ",
+   "uri": "spotify:track:45GzdkWWCAIU0W4zv2wQYQ",
+   "nombre": "Don't 'Xplain",
+   "motivo": "búsqueda de Spotify"
+  },
+  "new-moon-daughter": {
+   "album": "7jV22JIrWgtCKCX34cJrzA",
+   "id": "21HsI1RpRHEjbUjmzHtIyj",
+   "uri": "spotify:track:21HsI1RpRHEjbUjmzHtIyj",
+   "nombre": "Harvest Moon",
+   "motivo": "búsqueda de Spotify"
+  },
+  "rush-hour": {
+   "album": "4XnzKoQsrnj0TNSDT11nFb",
+   "id": "5qh4SmBl7Wn6EAeIm4BUu9",
+   "uri": "spotify:track:5qh4SmBl7Wn6EAeIm4BUu9",
+   "nombre": "Rush Hour On 23rd Street",
+   "motivo": "búsqueda de Spotify"
+  },
+  "sketches-of-dreams": {
+   "album": "4hNJjYCJn8I1EhW3rILSYs",
+   "id": "7fqdMRyu1F2RsPTzQh6gyT",
+   "uri": "spotify:track:7fqdMRyu1F2RsPTzQh6gyT",
+   "nombre": "Sketches Of Dreams",
+   "motivo": "búsqueda de Spotify"
+  },
+  "triology": {
+   "album": "3hbxsG0MNq1k5SblPQ2CJc",
+   "id": "2EIgNXJzo5vn8Gf4hV6lq7",
+   "uri": "spotify:track:2EIgNXJzo5vn8Gf4hV6lq7",
+   "nombre": "Wayne's Thang",
+   "motivo": "búsqueda de Spotify"
+  },
+  "you-have-been-watching": {
+   "album": "07uH10HXPJeJAZhegvEbYd",
+   "id": "6UR2iVmtBme7KZkqS9t96A",
+   "uri": "spotify:track:6UR2iVmtBme7KZkqS9t96A",
+   "nombre": "The Life Eternity",
+   "motivo": "búsqueda de Spotify"
+  },
+  "blood-fields": {
+   "album": "56Rq9SJNfnwSkAXZOlHv9Y",
+   "id": "7qe6ecV7oJC652G1KTzamL",
+   "uri": "spotify:track:7qe6ecV7oJC652G1KTzamL",
+   "nombre": "Calling The Indians Out - Part 1",
+   "motivo": "búsqueda de Spotify"
+  },
+  "arabian-waltz": {
+   "album": "1ggHQJ48NFfYhGu6VznK8K",
+   "id": "3xPatAieFSuGIuQfHMDvSw",
+   "uri": "spotify:track:3xPatAieFSuGIuQfHMDvSw",
+   "nombre": "Arabian Waltz",
+   "motivo": "búsqueda de Spotify"
+  },
+  "gumbo-nouveau": {
+   "album": "3vY22Qw23bBtcjalGeCcLU",
+   "id": "0158n7EMacaun0TZEJKOCl",
+   "uri": "spotify:track:0158n7EMacaun0TZEJKOCl",
+   "nombre": "Wild Man Blues",
+   "motivo": "búsqueda de Spotify"
+  },
+  "hecho-a-mano": {
+   "album": "0KMNP6jGukb5YoV9f132gG",
+   "id": "7K040rSct0oyrHtDl1vhhz",
+   "uri": "spotify:track:7K040rSct0oyrHtDl1vhhz",
+   "nombre": "Retaila",
+   "motivo": "búsqueda de Spotify"
+  },
+  "light-to-dark": {
+   "album": "1mgMzZixORxnrChg4HfEm4",
+   "id": "624F0oTOuqwJRj24uYA7Fs",
+   "uri": "spotify:track:624F0oTOuqwJRj24uYA7Fs",
+   "nombre": "Light To Dark",
+   "motivo": "búsqueda de Spotify"
+  },
+  "new-conception-of-jazz": {
+   "album": "1VZOuYNbwibnp4yP0aPuJy",
+   "id": "10xsDdjIFPmEpPVlejqeFq",
+   "uri": "spotify:track:10xsDdjIFPmEpPVlejqeFq",
+   "nombre": "New Conception of Jazz",
+   "motivo": "búsqueda de Spotify"
+  },
+  "panamonk": {
+   "album": "6DTxfwFfwzh12FAeyTCA9P",
+   "id": "34UFle4M41i1Mp8PlLGa5f",
+   "uri": "spotify:track:34UFle4M41i1Mp8PlLGa5f",
+   "nombre": "PanaMonk",
+   "motivo": "búsqueda de Spotify"
+  },
+  "portraits-of-cuba": {
+   "album": "7vHNMdwKsYANlM3b5SwUC9",
+   "id": "6OFMEZeBux9Roq7dpblt50",
+   "uri": "spotify:track:6OFMEZeBux9Roq7dpblt50",
+   "nombre": "Portraits of Cuba",
+   "motivo": "búsqueda de Spotify"
+  },
+  "shack-man": {
+   "album": "7zGVnFiNNe6rvoPutZPCBe",
+   "id": "2YtX5xh7y5FoQywRmsGCeK",
+   "uri": "spotify:track:2YtX5xh7y5FoQywRmsGCeK",
+   "nombre": "Bubblehouse",
+   "motivo": "búsqueda de Spotify"
+  },
+  "tales-from-the-hudson": {
+   "album": "0ETqvY4pIhY46IXMTUpXMc",
+   "id": "0WMG5EgKUdK73cLMEPoRMX",
+   "uri": "spotify:track:0WMG5EgKUdK73cLMEPoRMX",
+   "nombre": "Song For Bilbao",
+   "motivo": "búsqueda de Spotify"
+  },
+  "the-last-concert-harris": {
+   "album": "7f56FsWhFwXchIQgxGYZNz",
+   "id": "16o1oa91sb8BA6oX7U7xER",
+   "uri": "spotify:track:16o1oa91sb8BA6oX7U7xER",
+   "nombre": "Sidewinder",
+   "motivo": "búsqueda de Spotify"
+  },
+  "travelling-without-moving": {
+   "album": "4yrrPNjd9RcqnuDnoEhlER",
+   "id": "2Bxt2qamL6iu0XN0Td484J",
+   "uri": "spotify:track:2Bxt2qamL6iu0XN0Td484J",
+   "nombre": "Virtual Insanity - Remastered 2013",
+   "motivo": "reseña"
+  },
+  "khmer": {
+   "album": "5HCmMUDGYjFrcREEbaBGrg",
+   "id": "2gGpOrNS3DY28dyR2whGbh",
+   "uri": "spotify:track:2gGpOrNS3DY28dyR2whGbh",
+   "nombre": "Khmer",
+   "motivo": "búsqueda de Spotify"
+  },
+  "ana": {
+   "album": "7jpT0LDZ8j5iv7Rg6cT8jC",
+   "id": "3LvfXn86pSt33Pl8N7UH6l",
+   "uri": "spotify:track:3LvfXn86pSt33Pl8N7UH6l",
+   "nombre": "Green And Golden",
+   "motivo": "búsqueda de Spotify"
+  },
+  "angel-song": {
+   "album": "3ERPpOw6PkjPpHxKvscBOB",
+   "id": "6uofnDCCcTmBBXVgyVE4mb",
+   "uri": "spotify:track:6uofnDCCcTmBBXVgyVE4mb",
+   "nombre": "Angel Song",
+   "motivo": "búsqueda de Spotify"
+  },
+  "beyond-the-missouri-sky": {
+   "album": "2PULgzT2IHwYzfNxi4n3vY",
+   "id": "39Td6DiaWVzx5RcDCMWQFz",
+   "uri": "spotify:track:39Td6DiaWVzx5RcDCMWQFz",
+   "nombre": "The Moon Song",
+   "motivo": "búsqueda de Spotify"
+  },
+  "broadway-and-52nd": {
+   "album": "4yf8RZoNnNu3x6RwQqHqfW",
+   "id": "7qinTCyYqGLDXDVwP1VrmK",
+   "uri": "spotify:track:7qinTCyYqGLDXDVwP1VrmK",
+   "nombre": "I'm Thinking About Your Body",
+   "motivo": "búsqueda de Spotify"
+  },
+  "cite-de-la-musique": {
+   "album": "6O9iTjjJF21G35uQ7JozaT",
+   "id": "3zjrS5h6Qua9ev8wqGyjU7",
+   "uri": "spotify:track:3zjrS5h6Qua9ev8wqGyjU7",
+   "nombre": "Cité De La Musique",
+   "motivo": "búsqueda de Spotify"
+  },
+  "habana": {
+   "album": "6wV9FgUyUXOqE84uz2uNIy",
+   "id": "2agvDL6NkQfEjGgMbfqQMi",
+   "uri": "spotify:track:2agvDL6NkQfEjGgMbfqQMi",
+   "nombre": "Afrodisia",
+   "motivo": "búsqueda de Spotify"
+  },
+  "hyperborean": {
+   "album": "5gNfF8TmnhuPROttbzlKdw",
+   "id": "45sfsHo3xLMwPj1ffiAvnN",
+   "uri": "spotify:track:45sfsHo3xLMwPj1ffiAvnN",
+   "nombre": "Hyperborean",
+   "motivo": "búsqueda de Spotify"
+  },
+  "it-s-snowing-on-my-piano": {
+   "album": "4oqLAHTr9n7g4sGj63Dcte",
+   "id": "2JCaBPJPOnS6KrFIhi6ebs",
+   "uri": "spotify:track:2JCaBPJPOnS6KrFIhi6ebs",
+   "nombre": "It's Snowing on My Piano",
+   "motivo": "búsqueda de Spotify"
+  },
+  "litania": {
+   "album": "5WOyMS8xjRwcFoSn63u9dg",
+   "id": "5TMmTwtc177hoT6AxYDJDK",
+   "uri": "spotify:track:5TMmTwtc177hoT6AxYDJDK",
+   "nombre": "Litania",
+   "motivo": "búsqueda de Spotify"
+  },
+  "nashville": {
+   "album": "3xs2KbQrvXNfWdD81CnRPZ",
+   "id": "2lVM3C4INRCFfBPATyWw7X",
+   "uri": "spotify:track:2lVM3C4INRCFfBPATyWw7X",
+   "nombre": "Gimme a Holler",
+   "motivo": "búsqueda de Spotify"
+  },
+  "nothing-ever-was-anyway": {
+   "album": "3xXhgG5AMkWWO8LOCAYnC1",
+   "id": "1djaUPTpwSeUau8edsj0rU",
+   "uri": "spotify:track:1djaUPTpwSeUau8edsj0rU",
+   "nombre": "Nothing Ever Was, Anyway (Version 1)",
+   "motivo": "búsqueda de Spotify"
+  },
+  "odd-times": {
+   "album": "6z4YYqBzNnIIW55WS1WbSI",
+   "id": "6DQk2imqyJlh43AFszBjMb",
+   "uri": "spotify:track:6DQk2imqyJlh43AFszBjMb",
+   "nombre": "The Sphinx And I",
+   "motivo": "búsqueda de Spotify"
+  },
+  "shelter": {
+   "album": "47PXrfdtVg5DcI7M0UhR8K",
+   "id": "5qKwv0Lme6PEE5YXGihuh2",
+   "uri": "spotify:track:5qKwv0Lme6PEE5YXGihuh2",
+   "nombre": "Shelter",
+   "motivo": "búsqueda de Spotify"
+  },
+  "songbook": {
+   "album": "1iygnpMlnC5R3HtPJ6dIF3",
+   "id": "1YuCTj9wRtIPtIYZesNFjN",
+   "uri": "spotify:track:1YuCTj9wRtIPtIYZesNFjN",
+   "nombre": "Sing a Song of Song",
+   "motivo": "búsqueda de Spotify"
+  },
+  "village": {
+   "album": "5R4kLixY5gCnyxGDt5qGV9",
+   "id": "1BbekEQPVGcbg3u0zUpY2u",
+   "uri": "spotify:track:1BbekEQPVGcbg3u0zUpY2u",
+   "nombre": "Village",
+   "motivo": "búsqueda de Spotify"
+  },
+  "thimar": {
+   "album": "6zgEfxPPHcwEV7cXb32oTl",
+   "id": "3q0bGmjr5DGfOEswLhRiq1",
+   "uri": "spotify:track:3q0bGmjr5DGfOEswLhRiq1",
+   "nombre": "Badhra",
+   "motivo": "búsqueda de Spotify"
+  },
+  "a-go-go": {
+   "album": "08JMKtDS0StcwDUgdxKIw3",
+   "id": "4bcyZfaAWCN5SwJgYToxkN",
+   "uri": "spotify:track:4bcyZfaAWCN5SwJgYToxkN",
+   "nombre": "A Go Go",
+   "motivo": "búsqueda de Spotify"
+  },
+  "adama": {
+   "album": "4ULARiATgVtmcRoqOv3Kpe",
+   "id": "5dHHvOwaBYoEXwNlSJRWsB",
+   "uri": "spotify:track:5dHHvOwaBYoEXwNlSJRWsB",
+   "nombre": "Madrid",
+   "motivo": "búsqueda de Spotify"
+  },
+  "brian-blade-fellowship": {
+   "album": "4zR22xnwshsV7Muly7KDLl",
+   "id": "0obAe4GiBcoLJo33hzKAzH",
+   "uri": "spotify:track:0obAe4GiBcoLJo33hzKAzH",
+   "nombre": "Red River Revel",
+   "motivo": "búsqueda de Spotify"
+  },
+  "caprice-debarre": {
+   "album": "4pbic7Ijv2ynNFsNxaysTz",
+   "id": "3WSWMV1AESxUBk0bQgzwN4",
+   "uri": "spotify:track:3WSWMV1AESxUBk0bQgzwN4",
+   "nombre": "Angelo's Caprice",
+   "motivo": "búsqueda de Spotify"
+  },
+  "combustication": {
+   "album": "409EgDFqusiF1kmmm3NBzN",
+   "id": "2fNQ31fejgWaz83uz4OhXt",
+   "uri": "spotify:track:2fNQ31fejgWaz83uz4OhXt",
+   "nombre": "Just Like I Pictured It",
+   "motivo": "búsqueda de Spotify"
+  },
+  "from-the-green-hill": {
+   "album": "5nQi4rR3Asb9SiLH39Bvo5",
+   "id": "3t7ociIq1Y1XqqjkzLsslI",
+   "uri": "spotify:track:3t7ociIq1Y1XqqjkzLsslI",
+   "nombre": "... From The Green Hill",
+   "motivo": "búsqueda de Spotify"
+  },
+  "obsesion": {
+   "album": "1oOtcBgOO9epkW1HwlfE8i",
+   "id": "2QtHJgQCJiAGEwSQuGudL0",
+   "uri": "spotify:track:2QtHJgQCJiAGEwSQuGudL0",
+   "nombre": "Obsesión - Instrumental",
+   "motivo": "búsqueda de Spotify"
+  },
+  "payton-s-place": {
+   "album": "0lohKc2RubArv0PbjXJYNB",
+   "id": "5AuLuhe6LXvVod82HxJtXO",
+   "uri": "spotify:track:5AuLuhe6LXvVod82HxJtXO",
+   "nombre": "The Last Goodbye",
+   "motivo": "búsqueda de Spotify"
+  },
+  "shoki-shoki": {
+   "album": "0iL5NHl4oL1gFquGBRRjbO",
+   "id": "78StHq4UryItPLuIVCCcuB",
+   "uri": "spotify:track:78StHq4UryItPLuIVCCcuB",
+   "nombre": "Truth Don Die",
+   "motivo": "búsqueda de Spotify"
+  },
+  "art-of-trio-3": {
+   "album": "4XrD4Ta5YWbmJ1O1I4qnS9",
+   "id": "5FiSo7E1IvpBeowZxMk9UI",
+   "uri": "spotify:track:5FiSo7E1IvpBeowZxMk9UI",
+   "nombre": "River Man",
+   "motivo": "reseña"
+  },
+  "war-orphans": {
+   "album": "0vFPcvzSwDcyRueMX0pftk",
+   "id": "0arrQQ5yWzoghwbR4JWFvB",
+   "uri": "spotify:track:0arrQQ5yWzoghwbR4JWFvB",
+   "nombre": "War Orphans",
+   "motivo": "búsqueda de Spotify"
+  },
+  "black-voices": {
+   "album": "4PdHoVfinDBf2HIyQbpHQG",
+   "id": "4XjjLgCVUSJUIZl4ddpHcQ",
+   "uri": "spotify:track:4XjjLgCVUSJUIZl4ddpHcQ",
+   "nombre": "Black Voices",
+   "motivo": "búsqueda de Spotify"
+  },
+  "briyumba-palo-congo": {
+   "album": "33xWyJEnLrgVsmt61y9NVx",
+   "id": "4MbeQbNsMc4p7HpGX6bt4N",
+   "uri": "spotify:track:4MbeQbNsMc4p7HpGX6bt4N",
+   "nombre": "Briyumba Palo Congo",
+   "motivo": "búsqueda de Spotify"
+  },
+  "citizen-tain": {
+   "album": "1sUtig0EdQITJyEAPzgr3D",
+   "id": "4wy3ha02NU8rJ2WG4A11zP",
+   "uri": "spotify:track:4wy3ha02NU8rJ2WG4A11zP",
+   "nombre": "The Impaler",
+   "motivo": "búsqueda de Spotify"
+  },
+  "ethiopiques-vol-7-ere-mela-mela": {
+   "album": "0SCNMJwzqp2yEji1HJkGbn",
+   "id": "3IJOlBSUMtJ2xfedPGLcLO",
+   "uri": "spotify:track:3IJOlBSUMtJ2xfedPGLcLO",
+   "nombre": "Tezeta",
+   "motivo": "búsqueda de Spotify"
+  },
+  "from-gagarin-s-point-of-view": {
+   "album": "4jM7MG25QkVfp0SSkQ6138",
+   "id": "4JWfPMjVEh4SusNs8V3gt5",
+   "uri": "spotify:track:4JWfPMjVEh4SusNs8V3gt5",
+   "nombre": "From Gagarin's Point of View",
+   "motivo": "búsqueda de Spotify"
+  },
+  "good-dog-happy-man": {
+   "album": "4ICZxA4JmNgkrjT9d30TJX",
+   "id": "5MlqRPszPS4KQPuCcNgyQF",
+   "uri": "spotify:track:5MlqRPszPS4KQPuCcNgyQF",
+   "nombre": "Good Dog, Happy Man",
+   "motivo": "búsqueda de Spotify"
+  },
+  "malak": {
+   "album": "4y1CHE5e5suuk5C49f0DZR",
+   "id": "16mfznz0LomDFePDw16Dbj",
+   "uri": "spotify:track:16mfznz0LomDFePDw16Dbj",
+   "nombre": "Tarannoum",
+   "motivo": "búsqueda de Spotify"
+  },
+  "marsalis-plays-monk-standard-time-vol-4": {
+   "album": "7Jv86LD9UZnn4qK9NlEPMP",
+   "id": "0l3suQMhznMQtPaD9Eumld",
+   "uri": "spotify:track:0l3suQMhznMQtPaD9Eumld",
+   "nombre": "Reflections",
+   "motivo": "búsqueda de Spotify"
+  },
+  "not-two-not-one": {
+   "album": "36lH3cM28e57YPl6ZLzKdL",
+   "id": "2u7BYkKvUJvJppJI5AMQNO",
+   "uri": "spotify:track:2u7BYkKvUJvJppJI5AMQNO",
+   "nombre": "Now",
+   "motivo": "búsqueda de Spotify"
+  },
+  "prime-directive": {
+   "album": "35ygVY4YX4HdbBXLmTSbR3",
+   "id": "5JQlt4ieGZpQBI68bmkmxV",
+   "uri": "spotify:track:5JQlt4ieGZpQBI68bmkmxV",
+   "nombre": "Prime Directive",
+   "motivo": "búsqueda de Spotify"
+  },
+  "requiem": {
+   "album": "29i9en5qeHoAT0RJe5oI7M",
+   "id": "6SYtXaG4jQAxjJ2KiNIs80",
+   "uri": "spotify:track:6SYtXaG4jQAxjJ2KiNIs80",
+   "nombre": "Doctone",
+   "motivo": "búsqueda de Spotify"
+  },
+  "ryo-fukui-in-new-york": {
+   "album": "4kW1D6GgDZjTXGSnpO31o0",
+   "id": "2fJDHvU0ywTMpQOwP0d7Ze",
+   "uri": "spotify:track:2fJDHvU0ywTMpQOwP0d7Ze",
+   "nombre": "Mellow Dream",
+   "motivo": "búsqueda de Spotify"
+  },
+  "soundtrack-to-human-motion": {
+   "album": "5DEgkcPpvX1PSNVSbq0PAS",
+   "id": "3KVKimpQ2S6X3IZxKbR8ot",
+   "uri": "spotify:track:3KVKimpQ2S6X3IZxKbR8ot",
+   "nombre": "Gangsterism On Canvas",
+   "motivo": "búsqueda de Spotify"
+  },
+  "traveling-miles": {
+   "album": "1Jx892mwNh5eRD5YnbCEoD",
+   "id": "55jH9C8GNHvO6mJge4il7I",
+   "uri": "spotify:track:55jH9C8GNHvO6mJge4il7I",
+   "nombre": "Traveling Miles",
+   "motivo": "búsqueda de Spotify"
+  },
+  "trio-in-tokyo": {
+   "album": "4l9563q5rAjwORXyeUauwf",
+   "id": "4hQ7U22Ld1ucldPmCdAVLa",
+   "uri": "spotify:track:4hQ7U22Ld1ucldPmCdAVLa",
+   "nombre": "Cantabile - Live",
+   "motivo": "búsqueda de Spotify"
+  },
+  "52nd-street-themes": {
+   "album": "2JVMFtlPtdyXOtei4K16pJ",
+   "id": "7rTYGzrIbplRXGVHP1R7nf",
+   "uri": "spotify:track:7rTYGzrIbplRXGVHP1R7nf",
+   "nombre": "52nd Street Theme",
+   "motivo": "búsqueda de Spotify"
+  },
+  "alors-voila": {
+   "album": "5HISZ8MGWh2AYll9KimCoq",
+   "id": "4TtoddFXgAaFc8iVOzL0DH",
+   "uri": "spotify:track:4TtoddFXgAaFc8iVOzL0DH",
+   "nombre": "Alors ? voilà !",
+   "motivo": "búsqueda de Spotify"
+  },
+  "at-the-point-vol-2": {
+   "album": "7wo0qrBT6ag1PxrIyFfaNd",
+   "id": "68rNBZmGLHyZOzCUQFyNOh",
+   "uri": "spotify:track:68rNBZmGLHyZOzCUQFyNOh",
+   "nombre": "The Reverend",
+   "motivo": "búsqueda de Spotify"
+  },
+  "cape-town-revisited": {
+   "album": "2sZDbhndCdkIvyA9dltUUT",
+   "id": "7ocJaxAVByjmdZ3L37npC5",
+   "uri": "spotify:track:7ocJaxAVByjmdZ3L37npC5",
+   "nombre": "Soweto",
+   "motivo": "búsqueda de Spotify"
+  },
+  "elegance-stochelo": {
+   "album": "0vu5L2gfSjVzOSap7VgJdt",
+   "id": "2f2lEB9Qh4BQ8MlxtQmMfk",
+   "uri": "spotify:track:2f2lEB9Qh4BQ8MlxtQmMfk",
+   "nombre": "Just Enough for Jazz",
+   "motivo": "búsqueda de Spotify"
+  },
+  "facing-left": {
+   "album": "1pz5XRgmzt9bwJpK5n4Pd9",
+   "id": "05FSqhkE8SMjneVMackicp",
+   "uri": "spotify:track:05FSqhkE8SMjneVMackicp",
+   "nombre": "Joga",
+   "motivo": "búsqueda de Spotify"
+  },
+  "live-at-the-village-vanguard": {
+   "album": "0lPEQYIzR3rQAwwUuoTBl6",
+   "id": "1YPzdnaFwtanjfYzrpBOKF",
+   "uri": "spotify:track:1YPzdnaFwtanjfYzrpBOKF",
+   "nombre": "Dulzura distante",
+   "motivo": "búsqueda de Spotify"
+  },
+  "masterpiece-obra-maestra": {
+   "album": "1HKXrSGKhxoKciJUWzKmCz",
+   "id": "2NAhqqyLhDJkeoIZ08l4BT",
+   "uri": "spotify:track:2NAhqqyLhDJkeoIZ08l4BT",
+   "nombre": "Picadillo Jam",
+   "motivo": "búsqueda de Spotify"
+  },
+  "perceptual": {
+   "album": "0z1QDfqMHg4blkamZwew8Q",
+   "id": "4rIdBCDVxxiAeKRXT5E610",
+   "uri": "spotify:track:4rIdBCDVxxiAeKRXT5E610",
+   "nombre": "Perceptual",
+   "motivo": "búsqueda de Spotify"
+  },
+  "portraits-in-jazz-and-clave": {
+   "album": "1csxoOquYqj8C25EKw3GMs",
+   "id": "0DUeFQ1L8FukOJT41uNXNH",
+   "uri": "spotify:track:0DUeFQ1L8FukOJT41uNXNH",
+   "nombre": "The Mooche",
+   "motivo": "búsqueda de Spotify"
+  },
+  "serenity": {
+   "album": "39tOPTArYE0OWaZkx0IYIO",
+   "id": "56YZA4Zy6UNZMBSLBTUh1k",
+   "uri": "spotify:track:56YZA4Zy6UNZMBSLBTUh1k",
+   "nombre": "Polska Of Despair (1)",
+   "motivo": "búsqueda de Spotify"
+  },
+  "solid-ether": {
+   "album": "5rbrFbZIHGQtGchq4LBH3R",
+   "id": "1UNWKsNEX7WqwMKvHESxn2",
+   "uri": "spotify:track:1UNWKsNEX7WqwMKvHESxn2",
+   "nombre": "Solid Ether",
+   "motivo": "búsqueda de Spotify"
+  },
+  "the-water-is-wide": {
+   "album": "4dyTITxaKAhWPY84eplJ0l",
+   "id": "3RtWKhPFA37WFmMrSVx7kW",
+   "uri": "spotify:track:3RtWKhPFA37WFmMrSVx7kW",
+   "nombre": "The Water Is Wide",
+   "motivo": "búsqueda de Spotify"
+  },
+  "tourist": {
+   "album": "0YqCvOMhp8enM01an9Nntj",
+   "id": "1divptdjcWXvF1aflfTQnw",
+   "uri": "spotify:track:1divptdjcWXvF1aflfTQnw",
+   "nombre": "Rose rouge",
+   "motivo": "búsqueda de Spotify"
+  },
+  "amaryllis-crispell": {
+   "album": "2bHMUQk6qnvvFkzzu3c3nq",
+   "id": "1LII6PxXzx4UKTcOWcwb6a",
+   "uri": "spotify:track:1LII6PxXzx4UKTcOWcwb6a",
+   "nombre": "Amaryllis",
+   "motivo": "búsqueda de Spotify"
+  },
+  "el-arte-del-sabor": {
+   "album": "4LDZ6YuIEV1eJPyxNp5QNX",
+   "id": "0BD1SCp4Q7psmqR2by25K9",
+   "uri": "spotify:track:0BD1SCp4Q7psmqR2by25K9",
+   "nombre": "Lamento Cubano",
+   "motivo": "búsqueda de Spotify"
+  },
+  "gypsy-project": {
+   "album": "0R89podkKJXDmdymV3c058",
+   "id": "6jiIaleR0ou5NXFBC8wWjb",
+   "uri": "spotify:track:6jiIaleR0ou5NXFBC8wWjb",
+   "nombre": "Je suis seul ce soir",
+   "motivo": "búsqueda de Spotify"
+  },
+  "moving": {
+   "album": "7eTbCADBsRoZZUZVJgmhYH",
+   "id": "3jjk7FK2MNZFYXycVHSNEf",
+   "uri": "spotify:track:3jjk7FK2MNZFYXycVHSNEf",
+   "nombre": "Yellow is the Colour",
+   "motivo": "búsqueda de Spotify"
+  },
+  "nocturne": {
+   "album": "1CwbHBZZktmDFhK2TDU8Bo",
+   "id": "5EBxRbmE3s21ixXA2YSsqR",
+   "uri": "spotify:track:5EBxRbmE3s21ixXA2YSsqR",
+   "nombre": "El Ciego (The Blind) - Instrumental",
+   "motivo": "búsqueda de Spotify"
+  },
+  "supernova": {
+   "album": "67F4jQSzz2CvGNfYpZFems",
+   "id": "06NEqCWiM1gXKtaPkIxN5L",
+   "uri": "spotify:track:06NEqCWiM1gXKtaPkIxN5L",
+   "nombre": "Supernova 2",
+   "motivo": "búsqueda de Spotify"
+  },
+  "the-next-step": {
+   "album": "3drOgtndHJN96npMdxHvQb",
+   "id": "1hZXJMkWI7dV5JfrwCKdLQ",
+   "uri": "spotify:track:1hZXJMkWI7dV5JfrwCKdLQ",
+   "nombre": "The Next Step",
+   "motivo": "búsqueda de Spotify"
+  },
+  "trio-fattoruso": {
+   "album": "74dTqZO1HV8Nae6scU0OP9",
+   "id": "1l30wJOwmhL0F15NnIQdcZ",
+   "uri": "spotify:track:1l30wJOwmhL0F15NnIQdcZ",
+   "nombre": "O Sambinha",
+   "motivo": "búsqueda de Spotify"
+  },
+  "bar-talk": {
+   "album": "41SGBFYRWS9fbD3LaSraMm",
+   "id": "5nazVEbP1sy0r4gBoDND3i",
+   "uri": "spotify:track:5nazVEbP1sy0r4gBoDND3i",
+   "nombre": "Mr. JJ",
+   "motivo": "búsqueda de Spotify"
+  },
+  "cat-n-mouse": {
+   "album": "18KyTQjXsqqJLepXy7pS9z",
+   "id": "03aEGZOxmA7geiFKG8S1JI",
+   "uri": "spotify:track:03aEGZOxmA7geiFKG8S1JI",
+   "nombre": "Convolution",
+   "motivo": "búsqueda de Spotify"
+  },
+  "estados-alterados": {
+   "album": "4cswSYiJcZhp58i0fkzral",
+   "id": "6p4sO4aiG8sTDfsAb1nioq",
+   "uri": "spotify:track:6p4sO4aiG8sTDfsAb1nioq",
+   "nombre": "Estados Alterados",
+   "motivo": "búsqueda de Spotify"
+  },
+  "footprints-live": {
+   "album": "77hBFKuRXGV6kgHsG2c034",
+   "id": "5XuhO3gmErT7vls3Jjr6FZ",
+   "uri": "spotify:track:5XuhO3gmErT7vls3Jjr6FZ",
+   "nombre": "Footprints - Live At Festival de Jazz de Vitoria-Gasteiz, Spain/2001",
+   "motivo": "búsqueda de Spotify"
+  },
+  "footsteps-of-our-fathers": {
+   "album": "3QTUcOBNftYXYRg2GaFPEQ",
+   "id": "3Ck1ZSw9n7M6SHGzcQYJDP",
+   "uri": "spotify:track:3Ck1ZSw9n7M6SHGzcQYJDP",
+   "nombre": "The Freedom Suite: Interlude",
+   "motivo": "búsqueda de Spotify"
+  },
+  "gipsy-project-and-friends": {
+   "album": "15nkNdrzGxHIimtDuv38RE",
+   "id": "5M97nJ2xb05ngAtiCbdlyE",
+   "uri": "spotify:track:5M97nJ2xb05ngAtiCbdlyE",
+   "nombre": "Djangology",
+   "motivo": "búsqueda de Spotify"
+  },
+  "happy-people": {
+   "album": "4SDgQKBl6zelAx2Vh8whtg",
+   "id": "3lKf9f5Ysrhb1mvdGtvnej",
+   "uri": "spotify:track:3lKf9f5Ysrhb1mvdGtvnej",
+   "nombre": "Happy People",
+   "motivo": "búsqueda de Spotify"
+  },
+  "kind-of-porgy-and-bess": {
+   "album": "0Wt73A3kvaQpwXBEebguee",
+   "id": "6uPWX28SWB3p7x2qznrr2L",
+   "uri": "spotify:track:6uPWX28SWB3p7x2qznrr2L",
+   "nombre": "Bess, You Is My Woman Now",
+   "motivo": "búsqueda de Spotify"
+  },
+  "largo": {
+   "album": "7i4wN3UGvFhr663Hpjgscx",
+   "id": "7eYF1tAcKBvhJU4W9K0Uca",
+   "uri": "spotify:track:7eYF1tAcKBvhJU4W9K0Uca",
+   "nombre": "When It Rains",
+   "motivo": "búsqueda de Spotify"
+  },
+  "latin-tinge": {
+   "album": "5jPFmoFsEJ6uGbIAxG3BqX",
+   "id": "3LlhYXud9sr8r0GyV36vBo",
+   "uri": "spotify:track:3LlhYXud9sr8r0GyV36vBo",
+   "nombre": "Latin America",
+   "motivo": "búsqueda de Spotify"
+  },
+  "le-pas-du-chat-noir": {
+   "album": "1Vi1fmvatCuzuASdvUGTuf",
+   "id": "06KoWveyWUuK1BGVU4a0Es",
+   "uri": "spotify:track:06KoWveyWUuK1BGVU4a0Es",
+   "nombre": "Le pas du chat noir",
+   "motivo": "búsqueda de Spotify"
+  },
+  "lift-every-voice": {
+   "album": "38BgIU5OWiNhTpjRFE3WE0",
+   "id": "6IBUXrSJGdAGzuUitGVh0e",
+   "uri": "spotify:track:6IBUXrSJGdAGzuUitGVh0e",
+   "nombre": "Lift Every Voice And Sing",
+   "motivo": "búsqueda de Spotify"
+  },
+  "machito-and-his-afro-cubans-ritmo-caliente": {
+   "album": "2LLCyvVVRAcLALVC9XBHn0",
+   "id": "4alakzPM07PjkvhLOSjMpa",
+   "uri": "spotify:track:4alakzPM07PjkvhLOSjMpa",
+   "nombre": "Mambo Mucho Mambo",
+   "motivo": "búsqueda de Spotify"
+  },
+  "np3": {
+   "album": "4SL6kC55ls4JGHdEnK6Spn",
+   "id": "1yHqQxFQfyVv5ZFqaRNmTV",
+   "uri": "spotify:track:1yHqQxFQfyVv5ZFqaRNmTV",
+   "nombre": "Marrow",
+   "motivo": "búsqueda de Spotify"
+  },
+  "soul-of-things": {
+   "album": "2XFGnloG7wSlHM6pZaUdY1",
+   "id": "2QSyn85Y1xARhs14V6yDK8",
+   "uri": "spotify:track:2QSyn85Y1xARhs14V6yDK8",
+   "nombre": "Soul of Things, Var. 1",
+   "motivo": "búsqueda de Spotify"
+  },
+  "strange-place-for-snow": {
+   "album": "5xvQ646C8U6qWqfmtxb48K",
+   "id": "4O9duTSa2KN1v3WdMldxLz",
+   "uri": "spotify:track:4O9duTSa2KN1v3WdMldxLz",
+   "nombre": "Strange Place for Snow",
+   "motivo": "búsqueda de Spotify"
+  },
+  "uninvisible": {
+   "album": "0Vq79tx5GtV8hxrTccSguA",
+   "id": "5Ee0wVyPuys66jaDo09eHY",
+   "uri": "spotify:track:5Ee0wVyPuys66jaDo09eHY",
+   "nombre": "Uninvisible",
+   "motivo": "búsqueda de Spotify"
+  },
+  "what-goes-around": {
+   "album": "004n8NojQ8kcYhv710j7qe",
+   "id": "6pzkcUKo7MwTccpNl1TPlx",
+   "uri": "spotify:track:6pzkcUKo7MwTccpNl1TPlx",
+   "nombre": "What Goes Around",
+   "motivo": "búsqueda de Spotify"
+  },
+  "another-mind": {
+   "album": "4fR0ysJcJrhX2WlZGu7TvP",
+   "id": "5X7wwF5cJO5kkFN6kuBmpS",
+   "uri": "spotify:track:5X7wwF5cJO5kkFN6kuBmpS",
+   "nombre": "Another Mind",
+   "motivo": "búsqueda de Spotify"
+  },
+  "changing-places": {
+   "album": "4572n5PFAccWTD3Aq3tw5g",
+   "id": "4vTZifau5Us490e0sQCU1y",
+   "uri": "spotify:track:4vTZifau5Us490e0sQCU1y",
+   "nombre": "Graceful Touch",
+   "motivo": "búsqueda de Spotify"
+  },
+  "ethiopiques-vol-14-negus-of-ethiopian-sax": {
+   "album": "2cqmpOhJfwWvTAJzpbdgnl",
+   "id": "0szihfA0S1MfsKOpDfb3lZ",
+   "uri": "spotify:track:0szihfA0S1MfsKOpDfb3lZ",
+   "nombre": "Muziqa heywete",
+   "motivo": "búsqueda de Spotify"
+  },
+  "hard-groove": {
+   "album": "7ocjymC4B0S00K0BZ71M9X",
+   "id": "7gAYsrRT8UpdSPba5Z0yed",
+   "uri": "spotify:track:7gAYsrRT8UpdSPba5Z0yed",
+   "nombre": "Hardgroove",
+   "motivo": "búsqueda de Spotify"
+  },
+  "lagrimas-negras": {
+   "album": "5skz8PefKkk7huSazT5hkT",
+   "id": "3AFGcWwMpkVMMfPtaAOHME",
+   "uri": "spotify:track:3AFGcWwMpkVMMfPtaAOHME",
+   "nombre": "Lágrimas Negras",
+   "motivo": "búsqueda de Spotify"
+  },
+  "one-quiet-night": {
+   "album": "6lUW37ehhdAZNF3cJPkSpK",
+   "id": "4XdoeWiOIDg2VMVUZSnHlO",
+   "uri": "spotify:track:4XdoeWiOIDg2VMVUZSnHlO",
+   "nombre": "One Quiet Night",
+   "motivo": "búsqueda de Spotify"
+  },
+  "seven-days": {
+   "album": "5xQmfqjJTr3Hn6pCmHDVK2",
+   "id": "5gE7PaXcit4z7eYS2LbpFY",
+   "uri": "spotify:track:5gE7PaXcit4z7eYS2LbpFY",
+   "nombre": "Seven Days of Falling",
+   "motivo": "búsqueda de Spotify"
+  },
+  "soundances": {
+   "album": "0S3fLhbUU60ElN2PsiIlmf",
+   "id": "2k18Po6alamwMDQyVR1uas",
+   "uri": "spotify:track:2k18Po6alamwMDQyVR1uas",
+   "nombre": "Alfonsina Y El Mar",
+   "motivo": "búsqueda de Spotify"
+  },
+  "the-bandwagon": {
+   "album": "5XxvFw1K9lYu78ipjF8gpG",
+   "id": "0Lf9AIOPZqprp67xBWbTG1",
+   "uri": "spotify:track:0Lf9AIOPZqprp67xBWbTG1",
+   "nombre": "Intermezzo, Op. 118, No. 2 - Live",
+   "motivo": "búsqueda de Spotify"
+  },
+  "these-are-the-vistas": {
+   "album": "4OoDFQH7arXUyFbq9RD3t2",
+   "id": "7j687LPR8Whpm6HWUVDvvV",
+   "uri": "spotify:track:7j687LPR8Whpm6HWUVDvvV",
+   "nombre": "Smells Like Teen Spirit",
+   "motivo": "reseña"
+  },
+  "coral": {
+   "album": "4Yd9KUMJGVjOth6WEHc0EM",
+   "id": "7t34ICITISMj22ryuXlmRU",
+   "uri": "spotify:track:7t34ICITISMj22ryuXlmRU",
+   "nombre": "Coral",
+   "motivo": "búsqueda de Spotify"
+  },
+  "devotion": {
+   "album": "3RQRVi9a7LGpkFu9Tz83KP",
+   "id": "417GXOktQeUirbU5MB2Zie",
+   "uri": "spotify:track:417GXOktQeUirbU5MB2Zie",
+   "nombre": "Devotion",
+   "motivo": "búsqueda de Spotify"
+  },
+  "easy-living": {
+   "album": "7pbof6U2aYE9AD3WRwLTrw",
+   "id": "2llwGsqoxc3b4ohCYXJQ8R",
+   "uri": "spotify:track:2llwGsqoxc3b4ohCYXJQ8R",
+   "nombre": "Easy Living",
+   "motivo": "búsqueda de Spotify"
+  },
+  "end-of-the-world-party-just-in-case": {
+   "album": "1hCxbfoen4fGGbbrE3pfZX",
+   "id": "2nBYeJd1NjHwwEvZF3lJ7i",
+   "uri": "spotify:track:2nBYeJd1NjHwwEvZF3lJ7i",
+   "nombre": "End Of The World Party",
+   "motivo": "búsqueda de Spotify"
+  },
+  "eternal": {
+   "album": "75PATxS9geJNjgSfdGzwGf",
+   "id": "4nNnt98IyciMqLocZJIPiP",
+   "uri": "spotify:track:4nNnt98IyciMqLocZJIPiP",
+   "nombre": "The Ruby and The Pearl",
+   "motivo": "búsqueda de Spotify"
+  },
+  "fountain-of-youth": {
+   "album": "6lQpjU8lOuvMMMOL2CDhOo",
+   "id": "43VH3fbOo0Qt17IpjqjC8h",
+   "uri": "spotify:track:43VH3fbOo0Qt17IpjqjC8h",
+   "nombre": "Butch and Butch",
+   "motivo": "búsqueda de Spotify"
+  },
+  "give": {
+   "album": "5VgOcl2cNKQ2zKDi71cqh7",
+   "id": "2fNCSdonK3E2ODMvAUx92e",
+   "uri": "spotify:track:2fNCSdonK3E2ODMvAUx92e",
+   "nombre": "And Here We Test Our Powers Of Observation",
+   "motivo": "búsqueda de Spotify"
+  },
+  "junk-magic": {
+   "album": "6YFRoF4ZfN8P93Oj5AAWUS",
+   "id": "0U58rzaqSd4AY4c1GMbuTb",
+   "uri": "spotify:track:0U58rzaqSd4AY4c1GMbuTb",
+   "nombre": "Junk Magic",
+   "motivo": "búsqueda de Spotify"
+  },
+  "libera-me": {
+   "album": "3umW5Iv1dGHICvfdtkwQ1H",
+   "id": "135eGHqpEMunspiJ7B53yw",
+   "uri": "spotify:track:135eGHqpEMunspiJ7B53yw",
+   "nombre": "Suffering",
+   "motivo": "búsqueda de Spotify"
+  },
+  "about-the-monks": {
+   "album": "3qwngFIA2IpAJKb8qXicAO",
+   "id": "5C1s6a1SXSM1wUP7XyYbQF",
+   "uri": "spotify:track:5C1s6a1SXSM1wUP7XyYbQF",
+   "nombre": "About the Monks",
+   "motivo": "búsqueda de Spotify"
+  },
+  "african-flashback": {
+   "album": "4WPwANSgcW1616wt7B3e3W",
+   "id": "2u1pxzzrUg1Sgce0TxD9fB",
+   "uri": "spotify:track:2u1pxzzrUg1Sgce0TxD9fB",
+   "nombre": "Viso di donna",
+   "motivo": "búsqueda de Spotify"
+  },
+  "canvas": {
+   "album": "4kHHWOwd6G2RHJiGDzkfIK",
+   "id": "599soHbRxWxvprY2tE5iQV",
+   "uri": "spotify:track:599soHbRxWxvprY2tE5iQV",
+   "nombre": "Rise And Shine",
+   "motivo": "búsqueda de Spotify"
+  },
+  "clasicos-maslia": {
+   "album": "2Q83d5cwwIIyQMZtQWBLVY",
+   "id": "4OBE71FdrnhtxF6AXLtckJ",
+   "uri": "spotify:track:4OBE71FdrnhtxF6AXLtckJ",
+   "nombre": "Caperucita Roja",
+   "motivo": "reseña"
+  },
+  "deep-song": {
+   "album": "61ABrp2sjUlG2QhJr0LaZ8",
+   "id": "60AInuGWohJqz9VONqP8u2",
+   "uri": "spotify:track:60AInuGWohJqz9VONqP8u2",
+   "nombre": "Brooklyn Sometimes",
+   "motivo": "búsqueda de Spotify"
+  },
+  "goodbye": {
+   "album": "4qj4LfQdDQUgohrOtYHgVD",
+   "id": "4Le0NVbXXqQbHzpaABq1zv",
+   "uri": "spotify:track:4Le0NVbXXqQbHzpaABq1zv",
+   "nombre": "Send In The Clowns",
+   "motivo": "búsqueda de Spotify"
+  },
+  "jazz-argentino": {
+   "album": "6t7ajkFism3z8iKREL1Keg",
+   "id": "6wCpCPfH7jPgwYv3srAfMn",
+   "uri": "spotify:track:6wCpCPfH7jPgwYv3srAfMn",
+   "nombre": "Una Abeja Durmiente",
+   "motivo": "búsqueda de Spotify"
+  },
+  "neighbourhood": {
+   "album": "0INyOh58myljLOhTJKzcG7",
+   "id": "1iyOD2uDn8ydcZR2avZrwv",
+   "uri": "spotify:track:1iyOD2uDn8ydcZR2avZrwv",
+   "nombre": "Number One",
+   "motivo": "búsqueda de Spotify"
+  },
+  "the-ground": {
+   "album": "3rpF9hVBypQJLBf8fu5Vfu",
+   "id": "3F59xCJ344GnDgOZWCZcRA",
+   "uri": "spotify:track:3F59xCJ344GnDgOZWCZcRA",
+   "nombre": "The Ground",
+   "motivo": "búsqueda de Spotify"
+  },
+  "trio": {
+   "album": "5jXillw4nWUrF7Gy56dVu6",
+   "id": "7iH8l6Ofld6O2Sbmsr9Gko",
+   "uri": "spotify:track:7iH8l6Ofld6O2Sbmsr9Gko",
+   "nombre": "Trio Conversation (Introduction)",
+   "motivo": "búsqueda de Spotify"
+  },
+  "viaticum": {
+   "album": "6tkWyugiJx8ldyhwAZ694u",
+   "id": "6c2YlAdJuuRWy3Nk1GsVDu",
+   "uri": "spotify:track:6c2YlAdJuuRWy3Nk1GsVDu",
+   "nombre": "Viaticum",
+   "motivo": "búsqueda de Spotify"
+  },
+  "absolute-quintet": {
+   "album": "1kcelPTg369ZiGVNbrkfDD",
+   "id": "73dZEUe6ueXLTDGKTImbzm",
+   "uri": "spotify:track:73dZEUe6ueXLTDGKTImbzm",
+   "nombre": "The Coolest",
+   "motivo": "búsqueda de Spotify"
+  },
+  "artist-in-residence": {
+   "album": "47rhg4jJFzaOAarOBV6LWh",
+   "id": "4cktyijpC8QdnKI56w80ip",
+   "uri": "spotify:track:4cktyijpC8QdnKI56w80ip",
+   "nombre": "Arizona Landscape",
+   "motivo": "búsqueda de Spotify"
+  },
+  "ethiopiques-vol-21-emahoy": {
+   "album": "4OYhJgrDTR74Yo4SE8Exdk",
+   "id": "185EiYT58r61hdnHxjKVzT",
+   "uri": "spotify:track:185EiYT58r61hdnHxjKVzT",
+   "nombre": "Song of Abayi",
+   "motivo": "búsqueda de Spotify"
+  },
+  "heartplay": {
+   "album": "2OsPPGO7ClNHeIcviGMxks",
+   "id": "3fruFhpDq6h8j49UDcXwQY",
+   "uri": "spotify:track:3fruFhpDq6h8j49UDcXwQY",
+   "nombre": "Anna",
+   "motivo": "búsqueda de Spotify"
+  },
+  "junjo": {
+   "album": "5dOs8cDC3Dib3LvhYfOeZf",
+   "id": "4NmvKXxRdHwCSUllXlG7md",
+   "uri": "spotify:track:4NmvKXxRdHwCSUllXlG7md",
+   "nombre": "Junjo",
+   "motivo": "búsqueda de Spotify"
+  },
+  "on-broadway-vol-4-or-the-paradox-of-continuity": {
+   "album": "1krBoEyffLMXuGqGkpKEhw",
+   "id": "5wMykWFbz1CV2eXaGLjlbj",
+   "uri": "spotify:track:5wMykWFbz1CV2eXaGLjlbj",
+   "nombre": "Tea for Two",
+   "motivo": "búsqueda de Spotify"
+  },
+  "solo": {
+   "album": "1RjAD4KCps8v35UhCAEq58",
+   "id": "1DfNa71Q7qPSBEG2ydILcu",
+   "uri": "spotify:track:1DfNa71Q7qPSBEG2ydILcu",
+   "nombre": "Dreaming Of Home And Mother",
+   "motivo": "búsqueda de Spotify"
+  },
+  "spiral": {
+   "album": "1qVEIg5Tpg7evmtSuJei3b",
+   "id": "3PSj1sde19iRhNKStyPsBI",
+   "uri": "spotify:track:3PSj1sde19iRhNKStyPsBI",
+   "nombre": "Spiral",
+   "motivo": "búsqueda de Spotify"
+  },
+  "stoa": {
+   "album": "0E5Eav4abwpcMJfCYKUrxJ",
+   "id": "29I7EMnm9fMjHkSpXeE584",
+   "uri": "spotify:track:29I7EMnm9fMjHkSpXeE584",
+   "nombre": "Modul 36",
+   "motivo": "búsqueda de Spotify"
+  },
+  "time-line": {
+   "album": "3y8NC1xJEUkvatMxDAQg2l",
+   "id": "4ygm86yvNVCTfkOdp3htpJ",
+   "uri": "spotify:track:4ygm86yvNVCTfkOdp3htpJ",
+   "nombre": "Always By Your Side",
+   "motivo": "búsqueda de Spotify"
+  },
+  "time-lines": {
+   "album": "7zBxZAbH66EZzZ3zcholgu",
+   "id": "2fmEPxBF3eq1QFRVrJEMnv",
+   "uri": "spotify:track:2fmEPxBF3eq1QFRVrJEMnv",
+   "nombre": "Time Lines",
+   "motivo": "búsqueda de Spotify"
+  },
+  "viva-urcola": {
+   "album": "1ydJLfU4VSULfIRi3UlDVi",
+   "id": "3lN4G22ACC4D6KVXJTV9DE",
+   "uri": "spotify:track:3lN4G22ACC4D6KVXJTV9DE",
+   "nombre": "Viva",
+   "motivo": "búsqueda de Spotify"
+  },
+  "west-of-5th": {
+   "album": "7HzP4w4TIlGa9I6xEAklBc",
+   "id": "6vWkMerIb8fzLSeYQ7iCCi",
+   "uri": "spotify:track:6vWkMerIb8fzLSeYQ7iCCi",
+   "nombre": "Eleanor",
+   "motivo": "búsqueda de Spotify"
+  },
+  "a-tale-of-god-s-will-a-requiem-for-katrina": {
+   "album": "18a88dlKggqBgocGWXvVJa",
+   "id": "3KONJ7DK2pvmxpN9ej5BOa",
+   "uri": "spotify:track:3KONJ7DK2pvmxpN9ej5BOa",
+   "nombre": "Levees",
+   "motivo": "búsqueda de Spotify"
+  },
+  "being-there": {
+   "album": "5JuT4GGK3RKVtbqQTDwlkS",
+   "id": "5mPVvH0RiZM75pGICbZoin",
+   "uri": "spotify:track:5mPVvH0RiZM75pGICbZoin",
+   "nombre": "At Home",
+   "motivo": "búsqueda de Spotify"
+  },
+  "global-drum-project": {
+   "album": "61CsHeByNm8j9E55unbaNq",
+   "id": "2Jz2nuHOvkqctsMEELxJbB",
+   "uri": "spotify:track:2Jz2nuHOvkqctsMEELxJbB",
+   "nombre": "Dances With Wood",
+   "motivo": "búsqueda de Spotify"
+  },
+  "in-my-element": {
+   "album": "7M4DuL9Z6JqcNapcOUTPNS",
+   "id": "41uD5rdoR5Y81rvjIZfcpK",
+   "uri": "spotify:track:41uD5rdoR5Y81rvjIZfcpK",
+   "nombre": "F.T.B.",
+   "motivo": "búsqueda de Spotify"
+  },
+  "mare-nostrum": {
+   "album": "7iZadmuPfAJ4YJWcgXTtTK",
+   "id": "32fMwATOEcTe2DjoeWyk34",
+   "uri": "spotify:track:32fMwATOEcTe2DjoeWyk34",
+   "nombre": "Mare Nostrum",
+   "motivo": "búsqueda de Spotify"
+  },
+  "ojos-negros": {
+   "album": "0IwPKEBZn0xaWEZ7PHpcdY",
+   "id": "6v4IsJmV3FtX54lqWDjeQ4",
+   "uri": "spotify:track:6v4IsJmV3FtX54lqWDjeQ4",
+   "nombre": "Ojos Negros",
+   "motivo": "búsqueda de Spotify"
+  },
+  "playground": {
+   "album": "4pM6nD48VWTKTbsvlUc4iV",
+   "id": "1Wu7J9ndsRZJjoZvNW01jG",
+   "uri": "spotify:track:1Wu7J9ndsRZJjoZvNW01jG",
+   "nombre": "Song For Her",
+   "motivo": "búsqueda de Spotify"
+  },
+  "river-the-joni-letters": {
+   "album": "4XkWqozX4Uqc0qwncCVZxi",
+   "id": "4qViuRyTbxREORtsn7PdOh",
+   "uri": "spotify:track:4qViuRyTbxREORtsn7PdOh",
+   "nombre": "River",
+   "motivo": "búsqueda de Spotify"
+  },
+  "songs-for-sad-women": {
+   "album": "51iJqvibmA6yiqvDLLU48Y",
+   "id": "192cv4tnHh4009TRjHQLlG",
+   "uri": "spotify:track:192cv4tnHh4009TRjHQLlG",
+   "nombre": "Mourir Pour Ton Dècolletè",
+   "motivo": "búsqueda de Spotify"
+  },
+  "de-cuba-y-de-panama": {
+   "album": "18xHxAVtVopdKwtRJusyHB",
+   "id": "57ZoKlygBd7BbVjrhheGhc",
+   "uri": "spotify:track:57ZoKlygBd7BbVjrhheGhc",
+   "nombre": "De Cuba y de Panamá",
+   "motivo": "búsqueda de Spotify"
+  },
+  "distances": {
+   "album": "1tc9kAV0hErtN4lTCYAbMj",
+   "id": "29aIorbfHYSl0I83HrMoXC",
+   "uri": "spotify:track:29aIorbfHYSl0I83HrMoXC",
+   "nombre": "Distance",
+   "motivo": "búsqueda de Spotify"
+  },
+  "earfood": {
+   "album": "4vuijqNCK71JTiACBmdCTo",
+   "id": "62VWmsNoDmqT0Mj9oHHFVh",
+   "uri": "spotify:track:62VWmsNoDmqT0Mj9oHHFVh",
+   "nombre": "Strasbourg / St. Denis",
+   "motivo": "primer tema del álbum"
+  },
+  "el-silenciero": {
+   "album": "4iTCCTwB3PY5DJQIL1q5El",
+   "id": "1SOZbv4cEWpmNrtHfgn9jw",
+   "uri": "spotify:track:1SOZbv4cEWpmNrtHfgn9jw",
+   "nombre": "Hare Krishna Free Lance",
+   "motivo": "reseña"
+  },
+  "esperanza": {
+   "album": "7188JsHTl3rladofF7CVvW",
+   "id": "3afeZ81GDy59tATovKyH6Z",
+   "uri": "spotify:track:3afeZ81GDy59tATovKyH6Z",
+   "nombre": "I Know You Know",
+   "motivo": "búsqueda de Spotify"
+  },
+  "filtros": {
+   "album": "7FRcs1CldPCYz5iSVuMj0z",
+   "id": "781SQfUdnFDfKBDVP7KoDQ",
+   "uri": "spotify:track:781SQfUdnFDfKBDVP7KoDQ",
+   "nombre": "Miula",
+   "motivo": "búsqueda de Spotify"
+  },
+  "gently-disturbed": {
+   "album": "1YpYJkg18DHN92lVz9qcYC",
+   "id": "6AKrPJ9pFRpz6dbvrxkq0R",
+   "uri": "spotify:track:6AKrPJ9pFRpz6dbvrxkq0R",
+   "nombre": "Gently Disturbed",
+   "motivo": "búsqueda de Spotify"
+  },
+  "holon": {
+   "album": "0l8a9cuqrDFbu2CVk8YCsT",
+   "id": "1D0JaPOQ01rOW66ifriUcb",
+   "uri": "spotify:track:1D0JaPOQ01rOW66ifriUcb",
+   "nombre": "Modul 42",
+   "motivo": "búsqueda de Spotify"
+  },
+  "into-the-blue": {
+   "album": "3sKFT6DFw4kMA5DxvhmRjL",
+   "id": "4fO9dBwkyV2qXXFYqm4Ok1",
+   "uri": "spotify:track:4fO9dBwkyV2qXXFYqm4Ok1",
+   "nombre": "Chinatown",
+   "motivo": "búsqueda de Spotify"
+  },
+  "invisible-cinema": {
+   "album": "3xfueIrMUw57owAiYVKt8S",
+   "id": "4MGWaUqnVD6iAj9feVpXC5",
+   "uri": "spotify:track:4MGWaUqnVD6iAj9feVpXC5",
+   "nombre": "Roadside Distraction",
+   "motivo": "búsqueda de Spotify"
+  },
+  "january": {
+   "album": "0uZt1xe1sLvt4ZAOLHj3fY",
+   "id": "3yArsNjOHHr7FF0pxDFhwo",
+   "uri": "spotify:track:3yArsNjOHHr7FF0pxDFhwo",
+   "nombre": "Diamonds And Pearls",
+   "motivo": "búsqueda de Spotify"
+  },
+  "juntos-para-siempre": {
+   "album": "5yZrGjz3Ac9PeOfE7h12Lp",
+   "id": "0w3a2Cpm9VtQ5SE5pGdqqx",
+   "uri": "spotify:track:0w3a2Cpm9VtQ5SE5pGdqqx",
+   "nombre": "Lágrimas Negras",
+   "motivo": "búsqueda de Spotify"
+  },
+  "leucocyte": {
+   "album": "7lkbRDQReQXCAPViu5aTOO",
+   "id": "0ZNJnGLvrE8S8K1DtKplPZ",
+   "uri": "spotify:track:0ZNJnGLvrE8S8K1DtKplPZ",
+   "nombre": "Leucocyte I.Ab Initio",
+   "motivo": "búsqueda de Spotify"
+  },
+  "live-at-belleville": {
+   "album": "28XD2tgrPjTcCtISijoKp8",
+   "id": "6yt0tgt4Hw7CmP4poh52f5",
+   "uri": "spotify:track:6yt0tgt4Hw7CmP4poh52f5",
+   "nombre": "Dreamhorse",
+   "motivo": "búsqueda de Spotify"
+  },
+  "many-things": {
+   "album": "6L9eq1p97MCfgB7muf2JlQ",
+   "id": "05bycvUqOyjKtxApEe3Sk1",
+   "uri": "spotify:track:05bycvUqOyjKtxApEe3Sk1",
+   "nombre": "Many Things",
+   "motivo": "búsqueda de Spotify"
+  },
+  "miri-familia": {
+   "album": "5oDlpejItbtRd8Sv46n1Ut",
+   "id": "0gIocKrvkzcwq1aNjCIiTN",
+   "uri": "spotify:track:0gIocKrvkzcwq1aNjCIiTN",
+   "nombre": "Seul ce soir",
+   "motivo": "búsqueda de Spotify"
+  },
+  "season-of-changes": {
+   "album": "0TTjU590pTVQyrwk3ke801",
+   "id": "42dDLkTmRt7CKDiBfWYc6J",
+   "uri": "spotify:track:42dDLkTmRt7CKDiBfWYc6J",
+   "nombre": "Season of Changes",
+   "motivo": "búsqueda de Spotify"
+  },
+  "taking-the-soul-for-a-walk": {
+   "album": "4hR4RtTQIZdZIHkQ1SjoQD",
+   "id": "0TPD8XqaMBsC8nQBmfy3P8",
+   "uri": "spotify:track:0TPD8XqaMBsC8nQBmfy3P8",
+   "nombre": "The Sooner the Better",
+   "motivo": "búsqueda de Spotify"
+  },
+  "the-door": {
+   "album": "2dySoKZJaOsXcAZPwngDrB",
+   "id": "7xlHjxJbGQjHA40E7pFnZB",
+   "uri": "spotify:track:7xlHjxJbGQjHA40E7pFnZB",
+   "nombre": "The Door",
+   "motivo": "búsqueda de Spotify"
+  },
+  "the-remedy": {
+   "album": "6ga60ZhJrOpJVRDu0ENrst",
+   "id": "0U6My08AwZl0TMtEI4v2bS",
+   "uri": "spotify:track:0U6My08AwZl0TMtEI4v2bS",
+   "nombre": "The Remedy (Live)",
+   "motivo": "búsqueda de Spotify"
+  },
+  "las-horas-sonoras": {
+   "album": "1vzmybABOKOSXCpDgIbX0Z",
+   "id": "4beHDXtwDWAs2L7U3J4T2b",
+   "uri": "spotify:track:4beHDXtwDWAs2L7U3J4T2b",
+   "nombre": "Bichos",
+   "motivo": "búsqueda de Spotify"
+  },
+  "anfibio": {
+   "album": "4lkJvyAmTm7hgqdDAoHrhh",
+   "id": "3X6DVR3dIgx5sVXTASzrLy",
+   "uri": "spotify:track:3X6DVR3dIgx5sVXTASzrLy",
+   "nombre": "Cissy Strut",
+   "motivo": "reseña"
+  },
+  "aurora": {
+   "album": "2kjUBu5EyRskL5I42nMl3D",
+   "id": "4eFtuH81DNNCL3F2DnMK0I",
+   "uri": "spotify:track:4eFtuH81DNNCL3F2DnMK0I",
+   "nombre": "Alfonsina y el mar",
+   "motivo": "búsqueda de Spotify"
+  },
+  "balladeering": {
+   "album": "5uW4ZHAMy1pvyoYa04JgiB",
+   "id": "5ikHv80vK6Z8rBxbrjzc4X",
+   "uri": "spotify:track:5ikHv80vK6Z8rBxbrjzc4X",
+   "nombre": "Starting Point / Acoustic Version",
+   "motivo": "búsqueda de Spotify"
+  },
+  "blues-for-tony": {
+   "album": "4V8dnB46g4N6yVnc0LcGut",
+   "id": "6AaCV2hBW9WWUVTFII9Pev",
+   "uri": "spotify:track:6AaCV2hBW9WWUVTFII9Pev",
+   "nombre": "Blues For Tony",
+   "motivo": "búsqueda de Spotify"
+  },
+  "colour-yes": {
+   "album": "5Pdyuk0PEwXvPUKgAwMP46",
+   "id": "4B46C7e9iptaLvlaKysH3A",
+   "uri": "spotify:track:4B46C7e9iptaLvlaKysH3A",
+   "nombre": "Colour Yes - Special Edition",
+   "motivo": "búsqueda de Spotify"
+  },
+  "dark-eyes": {
+   "album": "3zGibhhlf6j9YRjJ5D8rcd",
+   "id": "2qPNrEIImCaJ47KCKXBFAh",
+   "uri": "spotify:track:2qPNrEIImCaJ47KCKXBFAh",
+   "nombre": "Terminal 7",
+   "motivo": "búsqueda de Spotify"
+  },
+  "historicity": {
+   "album": "3I3uK5mo0uvj4TnSCxS2zk",
+   "id": "0LTOzrMdZJ3RNyzNyUKeME",
+   "uri": "spotify:track:0LTOzrMdZJ3RNyzNyUKeME",
+   "nombre": "Historicity",
+   "motivo": "búsqueda de Spotify"
+  },
+  "minor-blues": {
+   "album": "0ol3jylUp505C8JqRLxiWv",
+   "id": "6kEvcboeb276cVPYbWOAbz",
+   "uri": "spotify:track:6kEvcboeb276cVPYbWOAbz",
+   "nombre": "Minor Blues",
+   "motivo": "búsqueda de Spotify"
+  },
+  "new-york-days": {
+   "album": "5qIvcmHXW5Av8XQGCAmeIK",
+   "id": "0TgOi4joOrp0spXM754Z8X",
+   "uri": "spotify:track:0TgOi4joOrp0spXM754Z8X",
+   "nombre": "Certi angoli segreti",
+   "motivo": "búsqueda de Spotify"
+  },
+  "playing": {
+   "album": "7yMvfg28jG1JNC2fPmEcCC",
+   "id": "5WIpV9j3pZmiLBLhm24cf0",
+   "uri": "spotify:track:5WIpV9j3pZmiLBLhm24cf0",
+   "nombre": "Playing",
+   "motivo": "búsqueda de Spotify"
+  },
+  "tarantella": {
+   "album": "7KOGT89lKdtNopWnvBWYzz",
+   "id": "5mpQi1w9el22SNMbF31cCX",
+   "uri": "spotify:track:5mpQi1w9el22SNMbF31cCX",
+   "nombre": "Tarantella",
+   "motivo": "búsqueda de Spotify"
+  },
+  "abu-nawas-rhapsody": {
+   "album": "21B3ckDMGBE7WzorsseUkl",
+   "id": "7qJ3fjjufJ4VYvUguGne0y",
+   "uri": "spotify:track:7qJ3fjjufJ4VYvUguGne0y",
+   "nombre": "Les ondes orientales",
+   "motivo": "búsqueda de Spotify"
+  },
+  "chamber-music-society": {
+   "album": "7qXlTq1d8u38dybiUXjzBG",
+   "id": "6XJ6yGbQufstGi2ccJSgiU",
+   "uri": "spotify:track:6XJ6yGbQufstGi2ccJSgiU",
+   "nombre": "Inútil Paisagem",
+   "motivo": "búsqueda de Spotify"
+  },
+  "fotografia-silenciosa": {
+   "album": "3lGuDPA2nn7VvWuBd0VktV",
+   "id": "2DqePI7BuomCFLtyXYweoG",
+   "uri": "spotify:track:2DqePI7BuomCFLtyXYweoG",
+   "nombre": "Espárragos para Miles",
+   "motivo": "reseña"
+  },
+  "highway-rider": {
+   "album": "4tYokQ6vjGVHC0wEBMbeY0",
+   "id": "2PU3tKvS8VBYyUvKHFcKMj",
+   "uri": "spotify:track:2PU3tKvS8VBYyUvKHFcKMj",
+   "nombre": "Highway Rider",
+   "motivo": "búsqueda de Spotify"
+  },
+  "llyria": {
+   "album": "29HTRjeCYwJtkbed9oHQsX",
+   "id": "04NjvAfp5bu3RD6ayymOlC",
+   "uri": "spotify:track:04NjvAfp5bu3RD6ayymOlC",
+   "nombre": "Modul 48",
+   "motivo": "búsqueda de Spotify"
+  },
+  "lost-in-a-dream": {
+   "album": "5xB3lSkNjUiPdr7xX5SbI3",
+   "id": "54KvpA0thmUV6cs3abwLzv",
+   "uri": "spotify:track:54KvpA0thmUV6cs3abwLzv",
+   "nombre": "Lost In A Dream",
+   "motivo": "búsqueda de Spotify"
+  },
+  "mirror": {
+   "album": "2S2e9KAsq88kaNMO5xqDV5",
+   "id": "748vxlebiUmBDZV8TkoM2c",
+   "uri": "spotify:track:748vxlebiUmBDZV8TkoM2c",
+   "nombre": "Mirror",
+   "motivo": "búsqueda de Spotify"
+  },
+  "mulatu-steps-ahead": {
+   "album": "7jEivoGNSPuXZhpO2SQrLR",
+   "id": "5hMQwhil4L3uSsVw7j5zG6",
+   "uri": "spotify:track:5hMQwhil4L3uSsVw7j5zG6",
+   "nombre": "Mulatu's Mood",
+   "motivo": "búsqueda de Spotify"
+  },
+  "providencia": {
+   "album": "1Hs8NpKEKWDT9q4raFaByq",
+   "id": "4TYDoyeSeq3RZusWmMvHoU",
+   "uri": "spotify:track:4TYDoyeSeq3RZusWmMvHoU",
+   "nombre": "Providencia",
+   "motivo": "búsqueda de Spotify"
+  },
+  "ten-malosetti": {
+   "album": "4ZbNIN2qAQz5QIySaY784j",
+   "id": "5MQRHYB2Tjg6BvTLkzuNrM",
+   "uri": "spotify:track:5MQRHYB2Tjg6BvTLkzuNrM",
+   "nombre": "Maybe I'm Leo",
+   "motivo": "búsqueda de Spotify"
+  },
+  "ten": {
+   "album": "18Z4yumEaGfFohmhJGjdo9",
+   "id": "68SovZFzrvO7JqSxCpNfEU",
+   "uri": "spotify:track:68SovZFzrvO7JqSxCpNfEU",
+   "nombre": "Blue Blocks",
+   "motivo": "búsqueda de Spotify"
+  },
+  "third-round": {
+   "album": "4OVLfcl7i6sXKssJNxzGGV",
+   "id": "7txAHtMd2QTYc4nrPtegI9",
+   "uri": "spotify:track:7txAHtMd2QTYc4nrPtegI9",
+   "nombre": "Keep On Trippin’",
+   "motivo": "búsqueda de Spotify"
+  },
+  "water": {
+   "album": "0gQB99eBkdZLBrMc32ybnY",
+   "id": "0nWzUKXBEDxSJEfEFHcOUm",
+   "uri": "spotify:track:0nWzUKXBEDxSJEfEFHcOUm",
+   "nombre": "1960 What? - Opolopo Remix",
+   "motivo": "búsqueda de Spotify"
+  },
+  "africa-for-africa": {
+   "album": "40reZ5jPHvLMMF0A02Ppq1",
+   "id": "4pu0gzYGOMt6PeCzGZR2H1",
+   "uri": "spotify:track:4pu0gzYGOMt6PeCzGZR2H1",
+   "nombre": "Africa For Africa",
+   "motivo": "búsqueda de Spotify"
+  },
+  "all-we-are-saying": {
+   "album": "4NVlIW7uOVhJH9LEhV4fmi",
+   "id": "2uoA3q46wO19HBblC4l5gO",
+   "uri": "spotify:track:2uoA3q46wO19HBblC4l5gO",
+   "nombre": "In My Life",
+   "motivo": "búsqueda de Spotify"
+  },
+  "alone-at-the-vanguard": {
+   "album": "5eeSHIlJkI0bcgn2DdOnZa",
+   "id": "1GNMUzUtOCejRJfdRbKqLZ",
+   "uri": "spotify:track:1GNMUzUtOCejRJfdRbKqLZ",
+   "nombre": "In the Wee Small Hours of the Morning",
+   "motivo": "búsqueda de Spotify"
+  },
+  "avenging-angel": {
+   "album": "59tqiI8OnbxsXlDp6dHeQ8",
+   "id": "2TEgIdqztamnFIYzzZFqWd",
+   "uri": "spotify:track:2TEgIdqztamnFIYzzZFqWd",
+   "nombre": "Avenging Angel",
+   "motivo": "búsqueda de Spotify"
+  },
+  "bitches": {
+   "album": "6k7fEsWUaj3c0rzUPPQsSU",
+   "id": "067OAhOnfHyFMVgTSkuA9z",
+   "uri": "spotify:track:067OAhOnfHyFMVgTSkuA9z",
+   "nombre": "iStole Your iPhone",
+   "motivo": "búsqueda de Spotify"
+  },
+  "colectivo-argentino-uruguayo": {
+   "album": "7aDp7xJjCkw5pnfeWQfkwH",
+   "id": "49dDh29pEQwjdhp7PZVmwO",
+   "uri": "spotify:track:49dDh29pEQwjdhp7PZVmwO",
+   "nombre": "Recordándote",
+   "motivo": "búsqueda de Spotify"
+  },
+  "diagnostic": {
+   "album": "6MdotbtdYEV60UBsFtWAMA",
+   "id": "0Sy2FEb4SM0EEZZPCZTolt",
+   "uri": "spotify:track:0Sy2FEb4SM0EEZZPCZTolt",
+   "nombre": "Beirut",
+   "motivo": "búsqueda de Spotify"
+  },
+  "fragmentos-del-mundo": {
+   "album": "0YIdJlNDggyPgR5MUyVozG",
+   "id": "5ilfEBXwT7qZesdn4bf5Ve",
+   "uri": "spotify:track:5ilfEBXwT7qZesdn4bf5Ve",
+   "nombre": "LI#0",
+   "motivo": "reseña"
+  },
+  "from-africa-with-fury-rise": {
+   "album": "7hOXAn7l304hJRxOmVO6XQ",
+   "id": "0YuP5HfNve57RnpJlNXHdP",
+   "uri": "spotify:track:0YuP5HfNve57RnpJlNXHdP",
+   "nombre": "African Soldier",
+   "motivo": "búsqueda de Spotify"
+  },
+  "lua": {
+   "album": "593aZvfhvWuTuAtHrlOhbs",
+   "id": "5srNusBY2AIJKFeDLPvX5s",
+   "uri": "spotify:track:5srNusBY2AIJKFeDLPvX5s",
+   "nombre": "Nefertiti",
+   "motivo": "reseña"
+  },
+  "piazzolla-plays-piazzolla": {
+   "album": "2i0WUHuYFeVTCTY0JSmhpv",
+   "id": "5wRaLVyyHlZgrHBv4QfOB3",
+   "uri": "spotify:track:5wRaLVyyHlZgrHBv4QfOB3",
+   "nombre": "Libertango",
+   "motivo": "búsqueda de Spotify"
+  },
+  "seven-seas": {
+   "album": "2Yvf8IhTvyc8CdQek3M1Jb",
+   "id": "7hDIFNigtELSubzeVFObtP",
+   "uri": "spotify:track:7hDIFNigtELSubzeVFObtP",
+   "nombre": "Seven Seas",
+   "motivo": "búsqueda de Spotify"
+  },
+  "skala": {
+   "album": "4Lt9RY1GehpdoIo8cChbdo",
+   "id": "2rlb1Toyil8DTVsZhsOF19",
+   "uri": "spotify:track:2rlb1Toyil8DTVsZhsOF19",
+   "nombre": "Skala",
+   "motivo": "búsqueda de Spotify"
+  },
+  "the-good-feeling": {
+   "album": "3d7W1DDWzpmDhKzMxRvnbb",
+   "id": "7JC1jbcpyhI29IGb02Pf8I",
+   "uri": "spotify:track:7JC1jbcpyhI29IGb02Pf8I",
+   "nombre": "The Shade of the Cedar Tree",
+   "motivo": "búsqueda de Spotify"
+  },
+  "tribe": {
+   "album": "11HxLdyMeXHu4jknT9yeV9",
+   "id": "7LTDCuUzqzaMwAHmF401xx",
+   "uri": "spotify:track:7LTDCuUzqzaMwAHmF401xx",
+   "nombre": "Tribe",
+   "motivo": "búsqueda de Spotify"
+  },
+  "when-the-heart-emerges-glistening": {
+   "album": "7klgB8E12bA0hSCJAEJsUs",
+   "id": "6j5z2GM4BCDBYlHoryFrki",
+   "uri": "spotify:track:6j5z2GM4BCDBYlHoryFrki",
+   "nombre": "Henya",
+   "motivo": "búsqueda de Spotify"
+  },
+  "the-epic": {
+   "album": "2j2q2ySuVk43eHB8wI5XQj",
+   "id": "3t4DPlzLD3gRia6LjQhwSR",
+   "uri": "spotify:track:3t4DPlzLD3gRia6LjQhwSR",
+   "nombre": "The Rhythm Changes",
+   "motivo": "búsqueda de Spotify"
+  },
+  "ashur": {
+   "album": "1YTCKj7vOeXamYwFF1DdHS",
+   "id": "4UdYPZPKEaQ9IaWyx8sI8F",
+   "uri": "spotify:track:4UdYPZPKEaQ9IaWyx8sI8F",
+   "nombre": "Ashur",
+   "motivo": "búsqueda de Spotify"
+  },
+  "be-good": {
+   "album": "69ZmeBUgHg0EWmeHCgIxlN",
+   "id": "7oKWjup40HGc5r6cgd56DH",
+   "uri": "spotify:track:7oKWjup40HGc5r6cgd56DH",
+   "nombre": "Be Good (Lion's Song)",
+   "motivo": "reseña"
+  },
+  "black-radio": {
+   "album": "1KO7iPWZYqc7LPgYigBabM",
+   "id": "4d63PZ8FZOI6r5rZmg0a8W",
+   "uri": "spotify:track:4d63PZ8FZOI6r5rZmg0a8W",
+   "nombre": "Smells Like Teen Spirit - Bonus Track",
+   "motivo": "reseña"
+  },
+  "carrera": {
+   "album": "3qb7sxKyLeOI1ZPz9VAPhY",
+   "id": "5AvHXkr9crAIy6hlSmS7EK",
+   "uri": "spotify:track:5AvHXkr9crAIy6hlSmS7EK",
+   "nombre": "Carrera",
+   "motivo": "búsqueda de Spotify"
+  },
+  "casting-for-gravity": {
+   "album": "55hCIHAndPwfVM9mWivwEV",
+   "id": "4nnwPiwrWTId4hqbEjDpbZ",
+   "uri": "spotify:track:4nnwPiwrWTId4hqbEjDpbZ",
+   "nombre": "Casting For Gravity (feat. Donny McCaslin, Jason Lindner, Tim Lefebvre & Mark Guiliana)",
+   "motivo": "búsqueda de Spotify"
+  },
+  "claroscuro": {
+   "album": "77czVFWB1Hv7Iq0TkgqnfL",
+   "id": "0E84RBCTfI41IE6Ry7FDeu",
+   "uri": "spotify:track:0E84RBCTfI41IE6Ry7FDeu",
+   "nombre": "Claroscuro",
+   "motivo": "búsqueda de Spotify"
+  },
+  "continuum": {
+   "album": "2SIPkK3RLrF96EMNm2KH0w",
+   "id": "6NK9u5JsjzfCmxI6UfTR5u",
+   "uri": "spotify:track:6NK9u5JsjzfCmxI6UfTR5u",
+   "nombre": "Spectral",
+   "motivo": "búsqueda de Spotify"
+  },
+  "dear-diz-every-day-i-think-of-you": {
+   "album": "4rnii3Pe8XYtr1uLu2bfv3",
+   "id": "1Sq0uHlDynDhXTqw7XUuf7",
+   "uri": "spotify:track:1Sq0uHlDynDhXTqw7XUuf7",
+   "nombre": "Be Bop",
+   "motivo": "búsqueda de Spotify"
+  },
+  "flamenco-sketches": {
+   "album": "1VUdsgwh9tgYdTKX7LHYcS",
+   "id": "3lfKWpEjR9gvEg6aFqE5Dz",
+   "uri": "spotify:track:3lfKWpEjR9gvEg6aFqE5Dz",
+   "nombre": "Flamenco Sketches",
+   "motivo": "búsqueda de Spotify"
+  },
+  "fletcher-moss-park": {
+   "album": "0uEEiR66gvpTpcjJ5GagPU",
+   "id": "7MGy9z8WeIpHbVXwVQEivf",
+   "uri": "spotify:track:7MGy9z8WeIpHbVXwVQEivf",
+   "nombre": "Fletcher Moss Park",
+   "motivo": "búsqueda de Spotify"
+  },
+  "guzo": {
+   "album": "6YP332I4wdNGNhFFRySqvB",
+   "id": "5qovVWrRIWexnSDSpmGasK",
+   "uri": "spotify:track:5qovVWrRIWexnSDSpmGasK",
+   "nombre": "Abet Abet - Punt Mix",
+   "motivo": "búsqueda de Spotify"
+  },
+  "liberetto": {
+   "album": "4UpKHVFOMxH6z3DvOcRkPP",
+   "id": "7uPOD0k5X1dCJCb8aPTMMt",
+   "uri": "spotify:track:7uPOD0k5X1dCJCb8aPTMMt",
+   "nombre": "Liberetto",
+   "motivo": "búsqueda de Spotify"
+  },
+  "radio-music-society": {
+   "album": "2veDRr98ELPTyYTZg5xudF",
+   "id": "6dgNeDa5MtI1Ab3UpmhrFd",
+   "uri": "spotify:track:6dgNeDa5MtI1Ab3UpmhrFd",
+   "nombre": "Radio Song",
+   "motivo": "primer tema del álbum"
+  },
+  "seeds-from-the-underground": {
+   "album": "526IlXssPwr61GTp2hGcgk",
+   "id": "7zdLEf65MuYXgTVZ4TXDIe",
+   "uri": "spotify:track:7zdLEf65MuYXgTVZ4TXDIe",
+   "nombre": "Seeds from the Underground",
+   "motivo": "búsqueda de Spotify"
+  },
+  "shai-maestro-trio": {
+   "album": "53LA5Radjeit5J77Ka1T0w",
+   "id": "57LtAkQYV0aD4ULVk9szkW",
+   "uri": "spotify:track:57LtAkQYV0aD4ULVk9szkW",
+   "nombre": "Angelo",
+   "motivo": "búsqueda de Spotify"
+  },
+  "son-dos": {
+   "album": "4HOdms8urlVRxKfdd9flql",
+   "id": "67S6DjvG3CgVz7QvdbPaZ8",
+   "uri": "spotify:track:67S6DjvG3CgVz7QvdbPaZ8",
+   "nombre": "Son Dos",
+   "motivo": "búsqueda de Spotify"
+  },
+  "sounds-of-space": {
+   "album": "1pRTCcb7EqkVGcledz0nvg",
+   "id": "7xMP4rBGReOMgliIBn5ydI",
+   "uri": "spotify:track:7xMP4rBGReOMgliIBn5ydI",
+   "nombre": "Sounds Of Space",
+   "motivo": "búsqueda de Spotify"
+  },
+  "star-of-jupiter": {
+   "album": "7APtR02ltX46hAC5jZ8Kwx",
+   "id": "48ghsRUsXAESsiSrBGObnd",
+   "uri": "spotify:track:48ghsRUsXAESsiSrBGObnd",
+   "nombre": "Star of Jupiter",
+   "motivo": "búsqueda de Spotify"
+  },
+  "sunrise": {
+   "album": "0TYu2VYuz9inQ1zcZCldzh",
+   "id": "0of9AjxDTT50sXcQXcE0tB",
+   "uri": "spotify:track:0of9AjxDTT50sXcQXcE0tB",
+   "nombre": "Sunrise",
+   "motivo": "búsqueda de Spotify"
+  },
+  "trio-libero": {
+   "album": "1hBN7b91s1meKcpyjHrEz6",
+   "id": "2lWBK8SkAnIkbuYC1OLE1q",
+   "uri": "spotify:track:2lWBK8SkAnIkbuYC1OLE1q",
+   "nombre": "Libertino",
+   "motivo": "búsqueda de Spotify"
+  },
+  "wind": {
+   "album": "1zRFuPnqjBckEoOFliJyaI",
+   "id": "1ohoaGnztWcfczuRDceRdn",
+   "uri": "spotify:track:1ohoaGnztWcfczuRDceRdn",
+   "nombre": "Doubts 2",
+   "motivo": "búsqueda de Spotify"
+  },
+  "39-steps": {
+   "album": "1cGDpDbNSfIKpLZ8BgFQ6H",
+   "id": "0fLooOLu9OP4Hd5rAfglwr",
+   "uri": "spotify:track:0fLooOLu9OP4Hd5rAfglwr",
+   "nombre": "39 Steps",
+   "motivo": "búsqueda de Spotify"
+  },
+  "3chordfold": {
+   "album": "3jVyQ0ynHkn1fq1BaSHsw8",
+   "id": "0TqY88RzcKKdeV7vMKuwPX",
+   "uri": "spotify:track:0TqY88RzcKKdeV7vMKuwPX",
+   "nombre": "Angel",
+   "motivo": "búsqueda de Spotify"
+  },
+  "arborescence": {
+   "album": "0H2PGA1jUGuUQgxdW3Oyzn",
+   "id": "2ZhUMib5XrJefRQF0HPD76",
+   "uri": "spotify:track:2ZhUMib5XrJefRQF0HPD76",
+   "nombre": "River Ways",
+   "motivo": "búsqueda de Spotify"
+  },
+  "birds-requiem": {
+   "album": "70lCSSUGTZBvhpBjj8XlEZ",
+   "id": "5EhTc2NfzaE7j0OvggRZaF",
+   "uri": "spotify:track:5EhTc2NfzaE7j0OvggRZaF",
+   "nombre": "Birds Canticum \"Birds Requiem\" Suite",
+   "motivo": "búsqueda de Spotify"
+  },
+  "chants": {
+   "album": "4gFdeuXg01hHXTU5OTcbWd",
+   "id": "2pVXceXgusBqngD5mHe5Cn",
+   "uri": "spotify:track:2pVXceXgusBqngD5mHe5Cn",
+   "nombre": "In Chant",
+   "motivo": "búsqueda de Spotify"
+  },
+  "el-imperio-de-las-luces": {
+   "album": "1gXaGvDPjuiQSxZeyJrX8n",
+   "id": "20UsRLJN5dlvLdl2zC5ST6",
+   "uri": "spotify:track:20UsRLJN5dlvLdl2zC5ST6",
+   "nombre": "El Elogio de la Sombra",
+   "motivo": "reseña"
+  },
+  "free-flying": {
+   "album": "1Qvqde6pj6KPoRnKxdOsvO",
+   "id": "3f7P7VxcQY7eYzZEIxG585",
+   "uri": "spotify:track:3f7P7VxcQY7eYzZEIxG585",
+   "nombre": "Free Flying",
+   "motivo": "búsqueda de Spotify"
+  },
+  "illusions": {
+   "album": "67cksuMf5EvK5pu1DwGeFi",
+   "id": "5EzGOkUwkRUXYAyvjlEHah",
+   "uri": "spotify:track:5EzGOkUwkRUXYAyvjlEHah",
+   "nombre": "True Sorry",
+   "motivo": "búsqueda de Spotify"
+  },
+  "liquid-spirit": {
+   "album": "2o86ajLsjwh2FWTdD9vmjj",
+   "id": "7DQcGpdPV9LoGa93SwM5FX",
+   "uri": "spotify:track:7DQcGpdPV9LoGa93SwM5FX",
+   "nombre": "Liquid Spirit",
+   "motivo": "búsqueda de Spotify"
+  },
+  "money-jungle-provocative-in-blue": {
+   "album": "5dkbelaW9FFI8lDqcec8sB",
+   "id": "4J5fHVToYyu9LlWQk4QEat",
+   "uri": "spotify:track:4J5fHVToYyu9LlWQk4QEat",
+   "nombre": "Money Jungle",
+   "motivo": "búsqueda de Spotify"
+  },
+  "the-road-to-ithaca": {
+   "album": "45U4Gua4LkarltHh5VZs2R",
+   "id": "0j8QLJ5g5LMw83Z5LJt42w",
+   "uri": "spotify:track:0j8QLJ5g5LMw83Z5LJt42w",
+   "nombre": "Gal",
+   "motivo": "búsqueda de Spotify"
+  },
+  "this-just-in": {
+   "album": "1lRaYwq94K1OPHifDQPpBK",
+   "id": "7oFwGOGfxlbiU7WJaGnXfr",
+   "uri": "spotify:track:7oFwGOGfxlbiU7WJaGnXfr",
+   "nombre": "This Just In",
+   "motivo": "búsqueda de Spotify"
+  },
+  "trilogy": {
+   "album": "11OAJzPzK0K97F8rUISAjt",
+   "id": "0V0ffCIw4PodZYrtZdJM53",
+   "uri": "spotify:track:0V0ffCIw4PodZYrtZdJM53",
+   "nombre": "Spain",
+   "motivo": "búsqueda de Spotify"
+  },
+  "trios": {
+   "album": "1UI0KV8GMR33fSwJkkdt3X",
+   "id": "5sFmIsb8I87gGKVUuDDL3T",
+   "uri": "spotify:track:5sFmIsb8I87gGKVUuDDL3T",
+   "nombre": "Útviklingssang",
+   "motivo": "búsqueda de Spotify"
+  },
+  "womanchild": {
+   "album": "5JE6HnCPJ9is6pnewMaaSe",
+   "id": "5FpmRoCduqD28smrRs6mdl",
+   "uri": "spotify:track:5FpmRoCduqD28smrRs6mdl",
+   "nombre": "I Didn't Know What Time It Was",
+   "motivo": "búsqueda de Spotify"
+  },
+  "a-long-way-to-the-beginning": {
+   "album": "0dNJ9n38KdmLDecheq2ze0",
+   "id": "4KooKYlewv4NvcI5IUPBUz",
+   "uri": "spotify:track:4KooKYlewv4NvcI5IUPBUz",
+   "nombre": "IMF",
+   "motivo": "búsqueda de Spotify"
+  },
+  "alive": {
+   "album": "2TgDFgwGoILxMqXaXW8Qd2",
+   "id": "5eYMf17J1TpstlIthDXMaY",
+   "uri": "spotify:track:5eYMf17J1TpstlIthDXMaY",
+   "nombre": "Alive",
+   "motivo": "búsqueda de Spotify"
+  },
+  "cajita-de-musica": {
+   "album": "14fxYJbY2fe67lTb3kBi4W",
+   "id": "17qTiD3iZ6lsGqd9d9S2q2",
+   "uri": "spotify:track:17qTiD3iZ6lsGqd9d9S2q2",
+   "nombre": "Cajita musical",
+   "motivo": "búsqueda de Spotify"
+  },
+  "driftwood": {
+   "album": "6dFHUuejdvPiKQniHf5fv4",
+   "id": "3D1uJePPf7nTtSDcPeCMHb",
+   "uri": "spotify:track:3D1uJePPf7nTtSDcPeCMHb",
+   "nombre": "Driftwood",
+   "motivo": "búsqueda de Spotify"
+  },
+  "enves": {
+   "album": "0Jm4WmRMz3UrUxr4llIcrK",
+   "id": "7gqKNXv1P6oN0KAXnjxsLW",
+   "uri": "spotify:track:7gqKNXv1P6oN0KAXnjxsLW",
+   "nombre": "Maybe I'm Leo",
+   "motivo": "búsqueda de Spotify"
+  },
+  "extended-circle": {
+   "album": "3Y2Gvmeg7lM8r22Zp53sZJ",
+   "id": "2m6wKuxNH3qDSqdSSRr3r7",
+   "uri": "spotify:track:2m6wKuxNH3qDSqdSSRr3r7",
+   "nombre": "Right There",
+   "motivo": "búsqueda de Spotify"
+  },
+  "floating": {
+   "album": "1t59MaIbC4hOUyu4XqK9b4",
+   "id": "0gbadQ5OtYs272zBpAUDqK",
+   "uri": "spotify:track:0gbadQ5OtYs272zBpAUDqK",
+   "nombre": "Autumn Haze",
+   "motivo": "búsqueda de Spotify"
+  },
+  "gonzalo-levin-octeto": {
+   "album": "4yUZO7ACPvLSai6t1Ctykn",
+   "id": "00PJQ3qWhT4kUFxNslDUCz",
+   "uri": "spotify:track:00PJQ3qWhT4kUFxNslDUCz",
+   "nombre": "Evolución",
+   "motivo": "búsqueda de Spotify"
+  },
+  "guitar-in-the-space-age": {
+   "album": "1ueFFIHSmbmmi6gkNbo8BJ",
+   "id": "2Ksw2QttWAoNr9Tkz7IXKA",
+   "uri": "spotify:track:2Ksw2QttWAoNr9Tkz7IXKA",
+   "nombre": "Surfer Girl",
+   "motivo": "búsqueda de Spotify"
+  },
+  "jaiyede-afro": {
+   "album": "6qbKpBTwlQw53EjMD0BLs5",
+   "id": "5jnHethSSdXE3aIEpDRLue",
+   "uri": "spotify:track:5jnHethSSdXE3aIEpDRLue",
+   "nombre": "Jaiyede Afro",
+   "motivo": "búsqueda de Spotify"
+  },
+  "landmarks": {
+   "album": "5InHDZVvNbDDvq917BmMgT",
+   "id": "5bjV2B1rH2gkdtJ4qr0qQy",
+   "uri": "spotify:track:5bjV2B1rH2gkdtJ4qr0qQy",
+   "nombre": "Landmarks",
+   "motivo": "búsqueda de Spotify"
+  },
+  "liberetto-ii": {
+   "album": "52f8OH2v1jtqemCOI4VFvt",
+   "id": "5BD9SqJecAsPUI717asNV6",
+   "uri": "spotify:track:5BD9SqJecAsPUI717asNV6",
+   "nombre": "Passacaglia",
+   "motivo": "búsqueda de Spotify"
+  },
+  "lisan-al-tarab": {
+   "album": "0b8OWmG970Wx0nYuf1eiz8",
+   "id": "6Lw2LnwFhw72pktw85eXMS",
+   "uri": "spotify:track:6Lw2LnwFhw72pktw85eXMS",
+   "nombre": "Lamma Bada Yatathanna",
+   "motivo": "búsqueda de Spotify"
+  },
+  "mehliana-taming-the-dragon": {
+   "album": "7veyvtvK49ca1UMEEmZ00q",
+   "id": "4jdzLuhbvGmiSJN8yPAmzL",
+   "uri": "spotify:track:4jdzLuhbvGmiSJN8yPAmzL",
+   "nombre": "Gainsbourg",
+   "motivo": "búsqueda de Spotify"
+  },
+  "melissa-aldana-and-crash-trio": {
+   "album": "3CNXkqxyvlUw5883YxcPeh",
+   "id": "0VxY9CQPhemkShXkAx2XZN",
+   "uri": "spotify:track:0VxY9CQPhemkShXkAx2XZN",
+   "nombre": "M&M",
+   "motivo": "búsqueda de Spotify"
+  },
+  "mira": {
+   "album": "7tjHDePOLgWEjAMzUZKMAM",
+   "id": "5U1mOe8cIpZflj6p7Ro9tr",
+   "uri": "spotify:track:5U1mOe8cIpZflj6p7Ro9tr",
+   "nombre": "Alfie",
+   "motivo": "búsqueda de Spotify"
+  },
+  "souvenance": {
+   "album": "0MVaGeFdZy81oPZJFzSqKI",
+   "id": "0EynEmpX0clDFkxaIJqiBi",
+   "uri": "spotify:track:0EynEmpX0clDFkxaIJqiBi",
+   "nombre": "Ashen Sky",
+   "motivo": "búsqueda de Spotify"
+  },
+  "spark-of-life": {
+   "album": "6xryZq7zr0ukHTMLRgGLoS",
+   "id": "4hNWyQLrBIhFpEnwhpLNJh",
+   "uri": "spotify:track:4hNWyQLrBIhFpEnwhpLNJh",
+   "nombre": "Austin",
+   "motivo": "búsqueda de Spotify"
+  },
+  "switch": {
+   "album": "2C63h8EXBLNpLeGOFNrvBH",
+   "id": "1M3XfPEuEJ6OoC8qwZodaV",
+   "uri": "spotify:track:1M3XfPEuEJ6OoC8qwZodaV",
+   "nombre": "Switch",
+   "motivo": "búsqueda de Spotify"
+  },
+  "the-imagined-savior-is-far-easier-to-paint": {
+   "album": "35MKlkn2g1Qe3HMDrrIxP0",
+   "id": "37sWynfhKopgV5MhZUuWGF",
+   "uri": "spotify:track:37sWynfhKopgV5MhZUuWGF",
+   "nombre": "Vartha",
+   "motivo": "búsqueda de Spotify"
+  },
+  "the-invasion-parade": {
+   "album": "1GYmkWPGGrLtPYdVTa2VH6",
+   "id": "5kXYUkKolq8CXOwqxhLLNI",
+   "uri": "spotify:track:5kXYUkKolq8CXOwqxhLLNI",
+   "nombre": "The Invasion Parade",
+   "motivo": "búsqueda de Spotify"
+  },
+  "the-offering-ntuli": {
+   "album": "5D10rho4wVlvG9uqng7wMu",
+   "id": "2U56c2Yu1ryzDA1GV8wxhv",
+   "uri": "spotify:track:2U56c2Yu1ryzDA1GV8wxhv",
+   "nombre": "The Offering",
+   "motivo": "búsqueda de Spotify"
+  },
+  "v2-0": {
+   "album": "0ZvyleSEIlDbklGZ995APl",
+   "id": "1hW0VwYPGPzkz2CIXVIY78",
+   "uri": "spotify:track:1hW0VwYPGPzkz2CIXVIY78",
+   "nombre": "Hopopono",
+   "motivo": "búsqueda de Spotify"
+  },
+  "we-like-it-here": {
+   "album": "4GzjQ0xXRlLl78ih481BUi",
+   "id": "68d6ZfyMUYURol2y15Ta2Y",
+   "uri": "spotify:track:68d6ZfyMUYURol2y15Ta2Y",
+   "nombre": "Lingus",
+   "motivo": "búsqueda de Spotify"
+  },
+  "when-the-world-was-one": {
+   "album": "3hSNlSnQb74uUIAFwKZ2uZ",
+   "id": "13kVLRVJrduPckb2cq7KjN",
+   "uri": "spotify:track:13kVLRVJrduPckb2cq7KjN",
+   "nombre": "When the World Was One",
+   "motivo": "búsqueda de Spotify"
+  },
+  "break-stuff": {
+   "album": "0aL4U6bB2j0uaLMVj2stmD",
+   "id": "4au0uPkhH22VaojX6En5p4",
+   "uri": "spotify:track:4au0uPkhH22VaojX6En5p4",
+   "nombre": "Break Stuff",
+   "motivo": "búsqueda de Spotify"
+  },
+  "breathless": {
+   "album": "5hKVAifegmlWvDROYbucOq",
+   "id": "5SUbVL92keGUkQnhrKQU9d",
+   "uri": "spotify:track:5SUbVL92keGUkQnhrKQU9d",
+   "nombre": "Breathless",
+   "motivo": "búsqueda de Spotify"
+  },
+  "camino": {
+   "album": "6sIwEICZAmGjQqZ9UcRYsl",
+   "id": "3wgpqjl4NOBPqWVIgPJZa6",
+   "uri": "spotify:track:3wgpqjl4NOBPqWVIgPJZa6",
+   "nombre": "Introduccion a Lineas",
+   "motivo": "reseña"
+  },
+  "children-of-the-light": {
+   "album": "17k34KBK9RZyuCZvtC5nLj",
+   "id": "4OiRFkXbhD9o0U6wDQl9kv",
+   "uri": "spotify:track:4OiRFkXbhD9o0U6wDQl9kv",
+   "nombre": "Children of the Light",
+   "motivo": "búsqueda de Spotify"
+  },
+  "covered": {
+   "album": "77g5kcDy0ZiKzH2dWHbvK9",
+   "id": "0wHTLTu9Heub6X9PPvYwQZ",
+   "uri": "spotify:track:0wHTLTu9Heub6X9PPvYwQZ",
+   "nombre": "So Beautiful - Live At Capitol Studios / 2014",
+   "motivo": "búsqueda de Spotify"
+  },
+  "cuba-now-danzon": {
+   "album": "1j0cTxwffS0GHDjayC2vtH",
+   "id": "4zpKACBpDE1lWkTrBBPQeF",
+   "uri": "spotify:track:4zpKACBpDE1lWkTrBBPQeF",
+   "nombre": "Para Danzonear",
+   "motivo": "búsqueda de Spotify"
+  },
+  "dem-ones": {
+   "album": "2n2RDLV37Jv2SS9Mfe6QTG",
+   "id": "0CwxibY0SCLW0vUSRiMBqO",
+   "uri": "spotify:track:0CwxibY0SCLW0vUSRiMBqO",
+   "nombre": "No Long 'Tings",
+   "motivo": "búsqueda de Spotify"
+  },
+  "family-first": {
+   "album": "0jLBhbB0VVgS1BznKRNPBz",
+   "id": "21kUjzP6P1mrMUYsc5CdZ0",
+   "uri": "spotify:track:21kUjzP6P1mrMUYsc5CdZ0",
+   "nombre": "Family First",
+   "motivo": "búsqueda de Spotify"
+  },
+  "fast-future": {
+   "album": "4jV2RWMwMjRfIoxYNqpTAZ",
+   "id": "6HvPZrGf2TwaGBrnyHLTed",
+   "uri": "spotify:track:6HvPZrGf2TwaGBrnyHLTed",
+   "nombre": "Fast Future",
+   "motivo": "búsqueda de Spotify"
+  },
+  "for-one-to-love": {
+   "album": "7HPMR4vGuzd6vnGS4H3ppu",
+   "id": "7HMUSp18RlaBFpBD2yVgel",
+   "uri": "spotify:track:7HMUSp18RlaBFpBD2yVgel",
+   "nombre": "Le Mal de Vivre",
+   "motivo": "búsqueda de Spotify"
+  },
+  "gefion": {
+   "album": "7oBGBUeoPT402ls5ANCQdT",
+   "id": "2lwbj2Q6TIEkLNhdVNZXWY",
+   "uri": "spotify:track:2lwbj2Q6TIEkLNhdVNZXWY",
+   "nombre": "Gefion",
+   "motivo": "búsqueda de Spotify"
+  },
+  "homes": {
+   "album": "4nL9nYWG8k53BwCMM8hCsr",
+   "id": "3eDTDeZHbCv9rWgT6HbysX",
+   "uri": "spotify:track:3eDTDeZHbCv9rWgT6HbysX",
+   "nombre": "Samba Em Prelùdio",
+   "motivo": "búsqueda de Spotify"
+  },
+  "huella-digital": {
+   "album": "1d27Qqf1HAJPXo3Khn4tAc",
+   "id": "6l4n8XEwkNFSiBt7oVDqXg",
+   "uri": "spotify:track:6l4n8XEwkNFSiBt7oVDqXg",
+   "nombre": "Mundo Nego",
+   "motivo": "reseña"
+  },
+  "imaginary-cities": {
+   "album": "6IB0EL6P44ulsfPbawd23R",
+   "id": "4tCwyp99vuJ6uE3o3zuMvM",
+   "uri": "spotify:track:4tCwyp99vuJ6uE3o3zuMvM",
+   "nombre": "Imaginary Cities - Pt. 1, Compassion",
+   "motivo": "búsqueda de Spotify"
+  },
+  "in-the-moment": {
+   "album": "3P8kRuEOtAkQYUfMHM7kcJ",
+   "id": "3Ctg7oo3FdbWb8VtHY5Kmr",
+   "uri": "spotify:track:3Ctg7oo3FdbWb8VtHY5Kmr",
+   "nombre": "The Jaunt",
+   "motivo": "búsqueda de Spotify"
+  },
+  "into-forever": {
+   "album": "7klGigU0pxgmHH3cgru6Hk",
+   "id": "5qw9Dh37lQISrMDlGnLga3",
+   "uri": "spotify:track:5qw9Dh37lQISrMDlGnLga3",
+   "nombre": "Into Forever",
+   "motivo": "búsqueda de Spotify"
+  },
+  "kalthoum": {
+   "album": "4Wkhhlckbp7VrHynUXX60j",
+   "id": "68nYFLNxAWsxgUakXtjxtb",
+   "uri": "spotify:track:68nYFLNxAWsxgUakXtjxtb",
+   "nombre": "Introduction - Live à la Philharmonie de Paris, 2015",
+   "motivo": "búsqueda de Spotify"
+  },
+  "like-a-great-river": {
+   "album": "1H4EI2wQGu5dl6tQusiPT4",
+   "id": "2dO0bZH0sJDPuRSewzKyzs",
+   "uri": "spotify:track:2dO0bZH0sJDPuRSewzKyzs",
+   "nombre": "Warrior Elephants Flying",
+   "motivo": "búsqueda de Spotify"
+  },
+  "luys-i-luso": {
+   "album": "2cJWQAk9sccjbvKqLMti7t",
+   "id": "5pue6YPcWdf39HCWJBAh3P",
+   "uri": "spotify:track:5pue6YPcWdf39HCWJBAh3P",
+   "nombre": "Ov Zarmanali - Var. 1",
+   "motivo": "búsqueda de Spotify"
+  },
+  "mockroot": {
+   "album": "59AeaIeAx6S2igYJFjltRE",
+   "id": "5JVLklFBxXYa6HKYKx3Beo",
+   "uri": "spotify:track:5JVLklFBxXYa6HKYKx3Beo",
+   "nombre": "Entertain Me",
+   "motivo": "búsqueda de Spotify"
+  },
+  "slow-eastbound-train": {
+   "album": "082N9ySa5hlkvLR5oTW8q1",
+   "id": "4tqkFyP4r7FbEEdVGxkcJv",
+   "uri": "spotify:track:4tqkFyP4r7FbEEdVGxkcJv",
+   "nombre": "Slow Eastbound Train",
+   "motivo": "búsqueda de Spotify"
+  },
+  "st-germain": {
+   "album": "7wdunnt609ZIgruC805hKS",
+   "id": "4p7qWqmlaR8nDBpBDKSnwt",
+   "uri": "spotify:track:4p7qWqmlaR8nDBpBDKSnwt",
+   "nombre": "Real Blues",
+   "motivo": "búsqueda de Spotify"
+  },
+  "surrounded-by-sea": {
+   "album": "6ARvpI1C3D2kyjPQUmiahD",
+   "id": "6sQLd7fmXzEJG812tuz6FM",
+   "uri": "spotify:track:6sQLd7fmXzEJG812tuz6FM",
+   "nombre": "Aoidh, Na Dean Cadal Idir - Pt. 2",
+   "motivo": "búsqueda de Spotify"
+  },
+  "sylva": {
+   "album": "3YDZkr9mlzIMNId8YmQGHr",
+   "id": "29ls98FgNdZHbmqdQeF7E6",
+   "uri": "spotify:track:29ls98FgNdZHbmqdQeF7E6",
+   "nombre": "The Curtain - Live From Dordrecht, Het Energiehuis / 2014",
+   "motivo": "búsqueda de Spotify"
+  },
+  "tempo-di-chet": {
+   "album": "3Pj04LF6C6giZdzHYoSyLL",
+   "id": "4oU07qd2sv9NxW61Op66Jh",
+   "uri": "spotify:track:4oU07qd2sv9NxW61Op66Jh",
+   "nombre": "The Silence of Your Heart",
+   "motivo": "búsqueda de Spotify"
+  },
+  "the-bad-plus-joshua-redman": {
+   "album": "2tzJagRYnAeB9j65wJx2j3",
+   "id": "5CcAkJMkqpx7vwyYq1CQQd",
+   "uri": "spotify:track:5CcAkJMkqpx7vwyYq1CQQd",
+   "nombre": "As This Moment Slips Away",
+   "motivo": "búsqueda de Spotify"
+  },
+  "transmutacion": {
+   "album": "06lW9T85lBGskXZcs4bO2U",
+   "id": "2KghirfjZh9e02BmhDRcFb",
+   "uri": "spotify:track:2KghirfjZh9e02BmhDRcFb",
+   "nombre": "Dance Cadaverous",
+   "motivo": "reseña"
+  },
+  "wild-dance": {
+   "album": "1cL3EdUYCcxMpamsLyxMqf",
+   "id": "6Rnr2eLwhsgMadIJ5k7saL",
+   "uri": "spotify:track:6Rnr2eLwhsgMadIJ5k7saL",
+   "nombre": "Don't",
+   "motivo": "búsqueda de Spotify"
+  },
+  "world-s-fair": {
+   "album": "1YlIUjf2RiZfLzvK7Db7mi",
+   "id": "6dYMhDVzfJYxlP3Hoa7ipt",
+   "uri": "spotify:track:6dYMhDVzfJYxlP3Hoa7ipt",
+   "nombre": "Day and Age",
+   "motivo": "búsqueda de Spotify"
+  },
+  "tres-de-tres": {
+   "album": "2NJ4tnWdkgpLzx1DoJI0pF",
+   "id": "2dBfr9XiSwS7mx4Jyms6PI",
+   "uri": "spotify:track:2dBfr9XiSwS7mx4Jyms6PI",
+   "nombre": "Candomsamba",
+   "motivo": "reseña"
+  },
+  "a-cosmic-rhythm-with-each-stroke": {
+   "album": "3SV9GwM6bs5vQKcPw8PtIi",
+   "id": "4ZyKDbtzxGnplADXom21AI",
+   "uri": "spotify:track:4ZyKDbtzxGnplADXom21AI",
+   "nombre": "A Cosmic Rhythm With Each Stroke: All Becomes Alive",
+   "motivo": "búsqueda de Spotify"
+  },
+  "a-place-in-time": {
+   "album": "1v541ekUYDXtQEMWkOI3ea",
+   "id": "7KOLl8zUkyQQpcutnLOHi2",
+   "uri": "spotify:track:7KOLl8zUkyQQpcutnLOHi2",
+   "nombre": "Clair de lune",
+   "motivo": "búsqueda de Spotify"
+  },
+  "a-saga-da-travessia": {
+   "album": "6QHk2m38W1FbKTuEq0h4Fh",
+   "id": "4eE5150phyZL0zVTjld9Xq",
+   "uri": "spotify:track:4eE5150phyZL0zVTjld9Xq",
+   "nombre": "Professor Luminoso",
+   "motivo": "búsqueda de Spotify"
+  },
+  "andando-el-tiempo": {
+   "album": "0ZPGfkWhuAmkEARlRTz0ZB",
+   "id": "4Y0LJnNZatpvcm3IfUTXjq",
+   "uri": "spotify:track:4Y0LJnNZatpvcm3IfUTXjq",
+   "nombre": "Andando El Tiempo: Camino Al Volver",
+   "motivo": "búsqueda de Spotify"
+  },
+  "arclight": {
+   "album": "5ptwV5wz6Ft0oQDRuZnXV8",
+   "id": "4EH5lHknr3Eze9Smx7JTjl",
+   "uri": "spotify:track:4EH5lHknr3Eze9Smx7JTjl",
+   "nombre": "Nocturne",
+   "motivo": "búsqueda de Spotify"
+  },
+  "back-home": {
+   "album": "5CmzBbvCU7PLu0ue8pcazZ",
+   "id": "21NroDCIWZKq6RKROgyg3F",
+   "uri": "spotify:track:21NroDCIWZKq6RKROgyg3F",
+   "nombre": "Back Home",
+   "motivo": "búsqueda de Spotify"
+  },
+  "beyond-now": {
+   "album": "3X4YKPVvDwNWBXcHmAALJ7",
+   "id": "1lM5XEt27gopHXwIsmS3Jv",
+   "uri": "spotify:track:1lM5XEt27gopHXwIsmS3Jv",
+   "nombre": "Beyond Now",
+   "motivo": "búsqueda de Spotify"
+  },
+  "black-focus": {
+   "album": "0CAXEcXpruvyGKSTjyLDNu",
+   "id": "7Llu8SZBe5UuhJn4Jos5Qt",
+   "uri": "spotify:track:7Llu8SZBe5UuhJn4Jos5Qt",
+   "nombre": "Black Focus",
+   "motivo": "búsqueda de Spotify"
+  },
+  "black-orpheus": {
+   "album": "6F4T5UmmfPFoesVIMcF7mO",
+   "id": "7vSmOVAvJppblJQyqy8kee",
+   "uri": "spotify:track:7vSmOVAvJppblJQyqy8kee",
+   "nombre": "Manhã De Carnaval - Live",
+   "motivo": "búsqueda de Spotify"
+  },
+  "blackstar": {
+   "album": "0vxg8oJKDu3i0bXQu7vEpi",
+   "id": "7rFN0DhIFPjAWG1EaHO2F0",
+   "uri": "spotify:track:7rFN0DhIFPjAWG1EaHO2F0",
+   "nombre": "Lazarus",
+   "motivo": "búsqueda de Spotify"
+  },
+  "culcha-vulcha": {
+   "album": "2y5N5FEb9giR3d1BP9wX9n",
+   "id": "2seiXMXgpha6Kjg0T6YuRX",
+   "uri": "spotify:track:2seiXMXgpha6Kjg0T6YuRX",
+   "nombre": "Tarova",
+   "motivo": "búsqueda de Spotify"
+  },
+  "day-to-day": {
+   "album": "3yHFnO5am00saXw3WPBNpD",
+   "id": "0A0t3HX38EaJWokouDoS6g",
+   "uri": "spotify:track:0A0t3HX38EaJWokouDoS6g",
+   "nombre": "Lost Parade",
+   "motivo": "búsqueda de Spotify"
+  },
+  "el-jardin-de-ordonez": {
+   "album": "7pa2jpIWS7mbAY2GBnuTDh",
+   "id": "41DLK2Kl0UCoP9YvRohQ74",
+   "uri": "spotify:track:41DLK2Kl0UCoP9YvRohQ74",
+   "nombre": "Entrada al Jardín de Ordóñez",
+   "motivo": "búsqueda de Spotify"
+  },
+  "el-viaje": {
+   "album": "5QdJxq7c8zJO0A4Uy8nzCK",
+   "id": "1AsGNYthT9WcUJFrGsnlin",
+   "uri": "spotify:track:1AsGNYthT9WcUJFrGsnlin",
+   "nombre": "Bacalao Con Pan",
+   "motivo": "búsqueda de Spotify"
+  },
+  "in-movement": {
+   "album": "5yj8fr40OGYwODHZKsRJZY",
+   "id": "4r9L7DTckNE0ekDBZQpEfI",
+   "uri": "spotify:track:4r9L7DTckNE0ekDBZQpEfI",
+   "nombre": "In Movement",
+   "motivo": "búsqueda de Spotify"
+  },
+  "khronos": {
+   "album": "2mIlWxonGr1RMyFpMgGhbx",
+   "id": "1YnGTHZYDSeGKxV9ID4uZT",
+   "uri": "spotify:track:1YnGTHZYDSeGKxV9ID4uZT",
+   "nombre": "Universal Music Theory",
+   "motivo": "reseña"
+  },
+  "los-guachos-v": {
+   "album": "01qBCcpGlPtzlCbyVxWOH5",
+   "id": "48iLQYm7xJdfMt06FWkksi",
+   "uri": "spotify:track:48iLQYm7xJdfMt06FWkksi",
+   "nombre": "Suite Indiana: Donna Lee",
+   "motivo": "búsqueda de Spotify"
+  },
+  "man-made-object": {
+   "album": "10GN4IZi63LJ3CWbrG8f5e",
+   "id": "4crRKGFkUSZxJXPcjN9Y2e",
+   "uri": "spotify:track:4crRKGFkUSZxJXPcjN9Y2e",
+   "nombre": "All Res",
+   "motivo": "búsqueda de Spotify"
+  },
+  "nearness": {
+   "album": "5JAcKvUBjbNTJ2SY8u8vYU",
+   "id": "3MhWFpRMVEyZ9QXGIb5RJK",
+   "uri": "spotify:track:3MhWFpRMVEyZ9QXGIb5RJK",
+   "nombre": "The Nearness of You",
+   "motivo": "búsqueda de Spotify"
+  },
+  "rising-grace": {
+   "album": "3OXEbM4AHZQyquxS452avo",
+   "id": "7hffxJkAFbysHa2XIugBK5",
+   "uri": "spotify:track:7hffxJkAFbysHa2XIugBK5",
+   "nombre": "Rising Grace",
+   "motivo": "búsqueda de Spotify"
+  },
+  "sangue-negro": {
+   "album": "0chYs2Sy0tdD4cALvURLob",
+   "id": "0yqTQfMFawMmM6VemcBkj9",
+   "uri": "spotify:track:0yqTQfMFawMmM6VemcBkj9",
+   "nombre": "Sangue Negro",
+   "motivo": "búsqueda de Spotify"
+  },
+  "sky-dancers": {
+   "album": "6fsDsRqyOPS4FJWQV8yBrS",
+   "id": "7HRP6sjh6rOnzy0iRD5fsr",
+   "uri": "spotify:track:7HRP6sjh6rOnzy0iRD5fsr",
+   "nombre": "Dakota Mab",
+   "motivo": "búsqueda de Spotify"
+  },
+  "take-me-to-the-alley": {
+   "album": "6cjMoruJCG0xsP8yv8ykg2",
+   "id": "0DjqeHoh1hGY8dqKXAfw2P",
+   "uri": "spotify:track:0DjqeHoh1hGY8dqKXAfw2P",
+   "nombre": "Take Me To The Alley",
+   "motivo": "búsqueda de Spotify"
+  },
+  "the-stone-skipper": {
+   "album": "2QRwrphvHfO8bfdGBJqfS4",
+   "id": "0dYruQ2kbhYZQ1s3oDtAvw",
+   "uri": "spotify:track:0dYruQ2kbhYZQ1s3oDtAvw",
+   "nombre": "The Stone Skipper",
+   "motivo": "búsqueda de Spotify"
+  },
+  "tocororo": {
+   "album": "1e2GBOtPyLu7iuNm4EvFKG",
+   "id": "5eeZItvyhs0zNAN17uDnPM",
+   "uri": "spotify:track:5eeZItvyhs0zNAN17uDnPM",
+   "nombre": "Ay, Mamá Inés",
+   "motivo": "búsqueda de Spotify"
+  },
+  "traces-camila-meza": {
+   "album": "0kWxhEJGTl1ch0FGvBamCa",
+   "id": "7u6iFRkaY5X1VS8ZQyloKX",
+   "uri": "spotify:track:7u6iFRkaY5X1VS8ZQyloKX",
+   "nombre": "Luchin",
+   "motivo": "reseña"
+  },
+  "ultramarino": {
+   "album": "2qLFvYECFLJiV0SAUhOKgs",
+   "id": "6ln5fmFBEioUl4qKOzepgk",
+   "uri": "spotify:track:6ln5fmFBEioUl4qKOzepgk",
+   "nombre": "Membrana",
+   "motivo": "reseña"
+  },
+  "unstatic": {
+   "album": "5urtYSzSMFjqHM9n4KQxiq",
+   "id": "3smrTPDTHTnV0aKus13eH9",
+   "uri": "spotify:track:3smrTPDTHTnV0aKus13eH9",
+   "nombre": "Unstatic",
+   "motivo": "búsqueda de Spotify"
+  },
+  "velvet-portraits": {
+   "album": "4tfomAZjkkF736D6WTK7tC",
+   "id": "0AoPTAuPVk50FJMMlU49V9",
+   "uri": "spotify:track:0AoPTAuPVk50FJMMlU49V9",
+   "nombre": "Velvet Portraits",
+   "motivo": "búsqueda de Spotify"
+  },
+  "dreams-daggers": {
+   "album": "2c9Oa8uygtwLDMpWcklVay",
+   "id": "14QRUUXjQlwcluYyO95Oq0",
+   "uri": "spotify:track:14QRUUXjQlwcluYyO95Oq0",
+   "nombre": "And Yet",
+   "motivo": "búsqueda de Spotify"
+  },
+  "a-tribute-to-art-blakey-and-the-jazz-messengers": {
+   "album": "6Di99uGNb1ITzZVPigCpES",
+   "id": "2wYcFlIcbj0Aw1Jsek5jjS",
+   "uri": "spotify:track:2wYcFlIcbj0Aw1Jsek5jjS",
+   "nombre": "Politely",
+   "motivo": "búsqueda de Spotify"
+  },
+  "absolute-zero": {
+   "album": "5vAzQd9UFg9BYfALSAuiK1",
+   "id": "6i41GcsvlVfFrRk1r4a4y8",
+   "uri": "spotify:track:6i41GcsvlVfFrRk1r4a4y8",
+   "nombre": "Absolute Zero",
+   "motivo": "búsqueda de Spotify"
+  },
+  "afro-caribbean-mixtape": {
+   "album": "5AEdjCWVy16ZX8eo2Cwy6L",
+   "id": "0yJEkGua9N9uo2eLFMvfaQ",
+   "uri": "spotify:track:0yJEkGua9N9uo2eLFMvfaQ",
+   "nombre": "Afro-Caribbean Mixtape",
+   "motivo": "búsqueda de Spotify"
+  },
+  "amanecer-en-tandil": {
+   "album": "5NEAip7hiXHizN0kb7bYHW",
+   "id": "0wOH0JMznpeLJgS57xnUKm",
+   "uri": "spotify:track:0wOH0JMznpeLJgS57xnUKm",
+   "nombre": "L.A.S. (Dedicado a Luis Alberto Spinetta) - Acústico",
+   "motivo": "reseña"
+  },
+  "art-of-song": {
+   "album": "0zY1rkYkwCiUKPCQxqAAb9",
+   "id": "2J7b7Yr0vM7fONumRxRDHQ",
+   "uri": "spotify:track:2J7b7Yr0vM7fONumRxRDHQ",
+   "nombre": "Sov",
+   "motivo": "búsqueda de Spotify"
+  },
+  "blue-maqams": {
+   "album": "3G0UgD5jjf2pcwDH1fN5xK",
+   "id": "6h2eq614VlanRSPchkBKfk",
+   "uri": "spotify:track:6h2eq614VlanRSPchkBKfk",
+   "nombre": "Blue Maqams",
+   "motivo": "búsqueda de Spotify"
+  },
+  "caipi": {
+   "album": "4hGFe2LHZwWoZFGhKmJD9m",
+   "id": "6iOIrOwzRXrjNqTU5O6j7C",
+   "uri": "spotify:track:6iOIrOwzRXrjNqTU5O6j7C",
+   "nombre": "Caipi",
+   "motivo": "búsqueda de Spotify"
+  },
+  "casa-rodante": {
+   "album": "66QCBasDW0tqI90BQsySnl",
+   "id": "5xHSqSLIMZCJA4acN5z8wW",
+   "uri": "spotify:track:5xHSqSLIMZCJA4acN5z8wW",
+   "nombre": "Navegantes",
+   "motivo": "reseña"
+  },
+  "daylight-ghosts": {
+   "album": "4WMd6CHBI1xqYjD8svvoES",
+   "id": "0u0Y9K8FAge6cAnwHYuLDn",
+   "uri": "spotify:track:0u0Y9K8FAge6cAnwHYuLDn",
+   "nombre": "Daylight Ghosts",
+   "motivo": "búsqueda de Spotify"
+  },
+  "far-from-over": {
+   "album": "1m3KyOooTz89Dt6U30Ad7c",
+   "id": "7rVuSM3tBxz8wY5VKleTpu",
+   "uri": "spotify:track:7rVuSM3tBxz8wY5VKleTpu",
+   "nombre": "Far From Over",
+   "motivo": "búsqueda de Spotify"
+  },
+  "gnosis": {
+   "album": "0GAKlp2nssdLxHXwS2KHho",
+   "id": "2LR7ThMNTImWlvKypWsQyv",
+   "uri": "spotify:track:2LR7ThMNTImWlvKypWsQyv",
+   "nombre": "Fitití Ñongo",
+   "motivo": "búsqueda de Spotify"
+  },
+  "harmony-of-difference": {
+   "album": "1mFuFPBz9kBDdXylMNolu7",
+   "id": "7KkpZSHhQXcecsB0Hgu4Wd",
+   "uri": "spotify:track:7KkpZSHhQXcecsB0Hgu4Wd",
+   "nombre": "Desire",
+   "motivo": "búsqueda de Spotify"
+  },
+  "journey-to-the-mountain-of-forever": {
+   "album": "46bdYP6NPIqWkzN2roUXxA",
+   "id": "19qNeW6HPUs14UpW4HH5Yi",
+   "uri": "spotify:track:19qNeW6HPUs14UpW4HH5Yi",
+   "nombre": "Fete by the River",
+   "motivo": "búsqueda de Spotify"
+  },
+  "juan-pablo-the-philosopher": {
+   "album": "3XbUAdMaYsD3JZUbUfCuEc",
+   "id": "1BHIbjTSQaJNl2vuTCdisw",
+   "uri": "spotify:track:1BHIbjTSQaJNl2vuTCdisw",
+   "nombre": "The Philosopher",
+   "motivo": "búsqueda de Spotify"
+  },
+  "nubya-s-5ive": {
+   "album": "6gVTOEeb9Hd1EO4A6kYEOE",
+   "id": "6eTT6SQgTfXiKXdvMe0ZID",
+   "uri": "spotify:track:6eTT6SQgTfXiKXdvMe0ZID",
+   "nombre": "Lost Kingdoms",
+   "motivo": "búsqueda de Spotify"
+  },
+  "open-book": {
+   "album": "3oUTSZR19WHXHPdxwyFkXk",
+   "id": "4ewvkxhdV9gIpoyFZKqHU3",
+   "uri": "spotify:track:4ewvkxhdV9gIpoyFZKqHU3",
+   "nombre": "And so It Goes",
+   "motivo": "búsqueda de Spotify"
+  },
+  "peninsular": {
+   "album": "1wr5DWVH7Yiw8ves9LqR5y",
+   "id": "711fEQP26z5aiK60GP8li0",
+   "uri": "spotify:track:711fEQP26z5aiK60GP8li0",
+   "nombre": "Peninsular",
+   "motivo": "búsqueda de Spotify"
+  },
+  "the-dreamer-is-the-dream": {
+   "album": "6Nyc37jV5GlyqeGJ9EN75j",
+   "id": "5jxsU8vIjgusrBxUIWgus2",
+   "uri": "spotify:track:5jxsU8vIjgusrBxUIWgus2",
+   "nombre": "The Dreamer Is The Dream",
+   "motivo": "búsqueda de Spotify"
+  },
+  "the-roc": {
+   "album": "6cGr5ZDnCmUeZtqnoCDUDX",
+   "id": "6P3OzBs4CxuDVVtyzip8Ot",
+   "uri": "spotify:track:6P3OzBs4CxuDVVtyzip8Ot",
+   "nombre": "The Roc",
+   "motivo": "búsqueda de Spotify"
+  },
+  "tipico": {
+   "album": "7qWQnMHLzLwRjGvum2xpPX",
+   "id": "21uAmw5Ce2WgVv0fTVZJQx",
+   "uri": "spotify:track:21uAmw5Ce2WgVv0fTVZJQx",
+   "nombre": "Tipico",
+   "motivo": "búsqueda de Spotify"
+  },
+  "translator-s-note": {
+   "album": "2DfkUe9ybAGmBKtY1sjIq7",
+   "id": "7vZROB79CIMenGWhtynDeY",
+   "uri": "spotify:track:7vZROB79CIMenGWhtynDeY",
+   "nombre": "Welcome",
+   "motivo": "búsqueda de Spotify"
+  },
+  "turista": {
+   "album": "4n6T6HtXrCUktVzjmGlJXr",
+   "id": "1o9sEmKLjWcbuEFu0in8qB",
+   "uri": "spotify:track:1o9sEmKLjWcbuEFu0in8qB",
+   "nombre": "Manual Para Cantar",
+   "motivo": "búsqueda de Spotify"
+  },
+  "12-little-spells": {
+   "album": "5qyj79rRuklEu1jUW4QqQp",
+   "id": "0ZoE1JZG6cqjckvvUBqHrT",
+   "uri": "spotify:track:0ZoE1JZG6cqjckvvUBqHrT",
+   "nombre": "12 Little Spells (thoracic spine)",
+   "motivo": "búsqueda de Spotify"
+  },
+  "a-humdrum-star": {
+   "album": "21TUXYHOeHVMOKbCuxzfKn",
+   "id": "6V77yOT0klYsDdbRkUV9TW",
+   "uri": "spotify:track:6V77yOT0klYsDdbRkUV9TW",
+   "nombre": "Raven",
+   "motivo": "búsqueda de Spotify"
+  },
+  "alive-in-the-east": {
+   "album": "7e55UPWBFwM8pnEsf4W2KZ",
+   "id": "1uX38hJe4TmcvPTeZsAmRj",
+   "uri": "spotify:track:1uX38hJe4TmcvPTeZsAmRj",
+   "nombre": "The Birth of Light",
+   "motivo": "búsqueda de Spotify"
+  },
+  "ask-for-chaos": {
+   "album": "4xc3MwwLL5wFOtZLERUsZH",
+   "id": "5GCqJywGb10Obuu86QAHlq",
+   "uri": "spotify:track:5GCqJywGb10Obuu86QAHlq",
+   "nombre": "Do Re Mi Fa Sol",
+   "motivo": "búsqueda de Spotify"
+  },
+  "awase": {
+   "album": "3qxMkn8mxeVai2ThaI4Uvg",
+   "id": "0sQ2OG9wlEz2deROnTsPv1",
+   "uri": "spotify:track:0sQ2OG9wlEz2deROnTsPv1",
+   "nombre": "Modul 34",
+   "motivo": "búsqueda de Spotify"
+  },
+  "back-to-the-sunset": {
+   "album": "4cVleu2VjKo3Ujz86nzDqB",
+   "id": "0ZEMZyjFSvep49hkyuyrL5",
+   "uri": "spotify:track:0ZEMZyjFSvep49hkyuyrL5",
+   "nombre": "Back to the Sunset",
+   "motivo": "tema del título"
+  },
+  "black-times": {
+   "album": "4pu6BPHCFYrkNa55gyErSM",
+   "id": "4oa07F3wFhTJWmI4bmEiP8",
+   "uri": "spotify:track:4oa07F3wFhTJWmI4bmEiP8",
+   "nombre": "Black Times",
+   "motivo": "búsqueda de Spotify"
+  },
+  "code-girl": {
+   "album": "5PgtI7zGbJZeQrFMeF0ARb",
+   "id": "5FAB2Nv4RC7ey0iyCNJYbc",
+   "uri": "spotify:track:5FAB2Nv4RC7ey0iyCNJYbc",
+   "nombre": "My Mind I Find in Time",
+   "motivo": "búsqueda de Spotify"
+  },
+  "contra-la-indecision": {
+   "album": "3e1D8PXvjboQnZY8o9vNgo",
+   "id": "6fTs9vrso7u7spinTkiauE",
+   "uri": "spotify:track:6fTs9vrso7u7spinTkiauE",
+   "nombre": "Canción Contra La Indecisión",
+   "motivo": "búsqueda de Spotify"
+  },
+  "displaced-diaspora": {
+   "album": "4WWRlmtebEZnZ1S1sTArzF",
+   "id": "2LCxMkWQ8DGL4VJwZSgLAB",
+   "uri": "spotify:track:2LCxMkWQ8DGL4VJwZSgLAB",
+   "nombre": "Rye Lane Shuffle",
+   "motivo": "búsqueda de Spotify"
+  },
+  "exiled-ntuli": {
+   "album": "6OxJmexn8RZI1fi8RDDKG8",
+   "id": "1gighd4Rfj4Uvvg2BUX9Vj",
+   "uri": "spotify:track:1gighd4Rfj4Uvvg2BUX9Vj",
+   "nombre": "Exiled",
+   "motivo": "búsqueda de Spotify"
+  },
+  "for-gyumri": {
+   "album": "6AX7VNiI3gbrxHi4hLrEsv",
+   "id": "17a7Xf590Y8ZAi8K0AANWg",
+   "uri": "spotify:track:17a7Xf590Y8ZAi8K0AANWg",
+   "nombre": "Aragatz",
+   "motivo": "búsqueda de Spotify"
+  },
+  "heaven-and-earth": {
+   "album": "6f3h8jHeXY6I6qduBrK3eK",
+   "id": "3ZaCCDIIXC2NmcT1CHI5MP",
+   "uri": "spotify:track:3ZaCCDIIXC2NmcT1CHI5MP",
+   "nombre": "Street Fighter Mas",
+   "motivo": "búsqueda de Spotify"
+  },
+  "igbo-alakorin": {
+   "album": "4v5jdfgbKnskhiBd7Ir9D3",
+   "id": "4Za160wtoEzottBwHSwSFa",
+   "uri": "spotify:track:4Za160wtoEzottBwHSwSFa",
+   "nombre": "Cosas de mi Cuba",
+   "motivo": "búsqueda de Spotify"
+  },
+  "jazz-bata-2": {
+   "album": "61S5vhnbwGfK27QfnwNqrQ",
+   "id": "70fRV5NSO633NNJtpsN5j1",
+   "uri": "spotify:track:70fRV5NSO633NNJtpsN5j1",
+   "nombre": "Chucho’s Mood",
+   "motivo": "búsqueda de Spotify"
+  },
+  "lala-belu": {
+   "album": "1ZnIFpyujwO3wcL9na3vHE",
+   "id": "63jzJXNQx8Gnf83wZH64OE",
+   "uri": "spotify:track:63jzJXNQx8Gnf83wZH64OE",
+   "nombre": "Lala Belu",
+   "motivo": "búsqueda de Spotify"
+  },
+  "lentes-urquiza": {
+   "album": "14Hf2QwepQxP6aYFfKxpL8",
+   "id": "2DMEAAMGNknuTHnp6eMAWN",
+   "uri": "spotify:track:2DMEAAMGNknuTHnp6eMAWN",
+   "nombre": "Lentes",
+   "motivo": "búsqueda de Spotify"
+  },
+  "let-s-play-one": {
+   "album": "6ivrFaKqLCFBrkqdSjJaFg",
+   "id": "7a30kuJZ7qkzfGD9cKuSca",
+   "uri": "spotify:track:7a30kuJZ7qkzfGD9cKuSca",
+   "nombre": "Easy Living",
+   "motivo": "primer tema del álbum"
+  },
+  "little-big": {
+   "album": "1go9cgw6AMhHv9Zcn9Xj3t",
+   "id": "4Sx6D030gieSovg9SDIJcc",
+   "uri": "spotify:track:4Sx6D030gieSovg9SDIJcc",
+   "nombre": "Doors Open",
+   "motivo": "búsqueda de Spotify"
+  },
+  "my-east-is-your-west": {
+   "album": "1lsysC4SWo3gdT6rXNnwJg",
+   "id": "1e2f1irmBUmiZWRqwvCBsd",
+   "uri": "spotify:track:1e2f1irmBUmiZWRqwvCBsd",
+   "nombre": "A Street in Bombay (feat. Upaj Collective) - Live",
+   "motivo": "primer tema del álbum"
+  },
+  "naumay": {
+   "album": "1Ug0FUDN3rWx6AIDBVj7lt",
+   "id": "214nfqFt5C3SRT40yslxUp",
+   "uri": "spotify:track:214nfqFt5C3SRT40yslxUp",
+   "nombre": "Angkor",
+   "motivo": "búsqueda de Spotify"
+  },
+  "origami-harvest": {
+   "album": "5i65fkPmv06tmr6a1oPsxg",
+   "id": "3UR0Oa02msUT9s9hHSE9ya",
+   "uri": "spotify:track:3UR0Oa02msUT9s9hHSE9ya",
+   "nombre": "a blooming bloodfruit in a hoodie",
+   "motivo": "búsqueda de Spotify"
+  },
+  "puerto-sur": {
+   "album": "12WMCb088EDvL0eqbVfvV2",
+   "id": "1WPwokq76nKanUrdYrJRPf",
+   "uri": "spotify:track:1WPwokq76nKanUrdYrJRPf",
+   "nombre": "Siete Pal Chancho",
+   "motivo": "reseña"
+  },
+  "rasif": {
+   "album": "1ToKUqpDqUw5Imnh1oCjNf",
+   "id": "5xfkIPfhNPbBw8WUpKdSUw",
+   "uri": "spotify:track:5xfkIPfhNPbBw8WUpKdSUw",
+   "nombre": "Rasif",
+   "motivo": "búsqueda de Spotify"
+  },
+  "ravensburg": {
+   "album": "2w62NpE5U58lff2IoUiUWR",
+   "id": "0RUF4tal7e8ugHLGL2wdI0",
+   "uri": "spotify:track:0RUF4tal7e8ugHLGL2wdI0",
+   "nombre": "Ravensburg",
+   "motivo": "búsqueda de Spotify"
+  },
+  "returnings": {
+   "album": "0Oko9SZeGlIDRiURyc1f3y",
+   "id": "5LaxA3Vqu1huHZCQHUXnr3",
+   "uri": "spotify:track:5LaxA3Vqu1huHZCQHUXnr3",
+   "nombre": "Strands",
+   "motivo": "búsqueda de Spotify"
+  },
+  "romaria": {
+   "album": "7s6ExEC25Hy8JirFPrghQY",
+   "id": "6BMmyctJWWdbTHKpXkrja0",
+   "uri": "spotify:track:6BMmyctJWWdbTHKpXkrja0",
+   "nombre": "Romaria",
+   "motivo": "búsqueda de Spotify"
+  },
+  "sounds-of-mirrors": {
+   "album": "4RgbDDGwmTiA8ypNDSoEc6",
+   "id": "0xdMKddaAH6WyK4JYjnqTk",
+   "uri": "spotify:track:0xdMKddaAH6WyK4JYjnqTk",
+   "nombre": "Dance Layan Dance",
+   "motivo": "búsqueda de Spotify"
+  },
+  "still-dreaming": {
+   "album": "7fvNUuHA96nH77MKlVo9Uc",
+   "id": "5QWqvQGeFtyZH65gJn9Tkp",
+   "uri": "spotify:track:5QWqvQGeFtyZH65gJn9Tkp",
+   "nombre": "New Year (feat. Ron Miles, Scott Colley & Brian Blade)",
+   "motivo": "búsqueda de Spotify"
+  },
+  "studio-2": {
+   "album": "4uBkzGNVkHVt5GXg12yKLt",
+   "id": "4gXsislzJBKC3iuX9Dc9e1",
+   "uri": "spotify:track:4gXsislzJBKC3iuX9Dc9e1",
+   "nombre": "Acuático",
+   "motivo": "búsqueda de Spotify"
+  },
+  "summerwind": {
+   "album": "4O3nk9VY0eisrO7ElPQguX",
+   "id": "5rXJ6iWGWLEOBHGtdBvDlV",
+   "uri": "spotify:track:5rXJ6iWGWLEOBHGtdBvDlV",
+   "nombre": "Autumn Leaves",
+   "motivo": "búsqueda de Spotify"
+  },
+  "the-dream-thief": {
+   "album": "7oIwbZ8xtBb8r5EEyQo84C",
+   "id": "1V4FnMqrX5IBBsc40fF4E2",
+   "uri": "spotify:track:1V4FnMqrX5IBBsc40fF4E2",
+   "nombre": "The Dream Thief",
+   "motivo": "búsqueda de Spotify"
+  },
+  "the-other-side": {
+   "album": "02y5z1G9EuN0BJRtdqbJRt",
+   "id": "5smnTPDfrFkuvXkEOQobRJ",
+   "uri": "spotify:track:5smnTPDfrFkuvXkEOQobRJ",
+   "nombre": "The Other Side",
+   "motivo": "búsqueda de Spotify"
+  },
+  "the-window": {
+   "album": "1AghsNvIWAmdW7djtcwxLq",
+   "id": "4Ug0D9EgZJqzCrXlMlihVb",
+   "uri": "spotify:track:4Ug0D9EgZJqzCrXlMlihVb",
+   "nombre": "One Step Ahead",
+   "motivo": "búsqueda de Spotify"
+  },
+  "un-dia-cualquiera": {
+   "album": "5mn5iwfIRb069gdc5kyrVZ",
+   "id": "6MgSJNuuhRpHU5DTigT1gZ",
+   "uri": "spotify:track:6MgSJNuuhRpHU5DTigT1gZ",
+   "nombre": "Mi Son Cerra’o",
+   "motivo": "búsqueda de Spotify"
+  },
+  "universal-beings": {
+   "album": "3cFJZIeJK3Tdkkq4iuvsBS",
+   "id": "6XHF5OCduZjtz3hWEvhCSU",
+   "uri": "spotify:track:6XHF5OCduZjtz3hWEvhCSU",
+   "nombre": "Universal Beings",
+   "motivo": "búsqueda de Spotify"
+  },
+  "where-the-river-goes": {
+   "album": "3O8l62XajhWhcMTnqFbKSo",
+   "id": "5SNES1QX0v9kS6Juph9Di3",
+   "uri": "spotify:track:5SNES1QX0v9kS6Juph9Di3",
+   "nombre": "Where The River Goes",
+   "motivo": "búsqueda de Spotify"
+  },
+  "your-queen-is-a-reptile": {
+   "album": "4pxnDGBdoGu88h8ZInX5f5",
+   "id": "28uZjhU60BosFYSMJLJoQ3",
+   "uri": "spotify:track:28uZjhU60BosFYSMJLJoQ3",
+   "nombre": "My Queen Is Albertina Sisulu",
+   "motivo": "búsqueda de Spotify"
+  },
+  "activate-infinity": {
+   "album": "4di70TuVf9J97NAGO4lKMc",
+   "id": "3EWX16gyPWqh2HB1MmND36",
+   "uri": "spotify:track:3EWX16gyPWqh2HB1MmND36",
+   "nombre": "Avail",
+   "motivo": "búsqueda de Spotify"
+  },
+  "ambar-camila-meza": {
+   "album": "4CIuzD5WD4LB1DKjj3Umcp",
+   "id": "0I1oBM4szIyQJpvKIA1cQ6",
+   "uri": "spotify:track:0I1oBM4szIyQJpvKIA1cQ6",
+   "nombre": "This is Not America",
+   "motivo": "reseña"
+  },
+  "arbol": {
+   "album": "782EVHmT2Qb8o6QWRCeEaG",
+   "id": "49CvHiV4clwmsAC8VtqhxF",
+   "uri": "spotify:track:49CvHiV4clwmsAC8VtqhxF",
+   "nombre": "Canción para Renacer",
+   "motivo": "búsqueda de Spotify"
+  },
+  "aventurine": {
+   "album": "6WZ1VdrNQVrYfPq7eu45yu",
+   "id": "3u3yLayZWWnnvwihA3ZXtt",
+   "uri": "spotify:track:3u3yLayZWWnnvwihA3ZXtt",
+   "nombre": "Aventurine",
+   "motivo": "búsqueda de Spotify"
+  },
+  "bolsa-de-naylon-en-la-rama-de-un-arbol": {
+   "album": "7cjzu7TBLnm5BvCrQYP2Ek",
+   "id": "6J3P49NnR5pXWQwZQFZKfn",
+   "uri": "spotify:track:6J3P49NnR5pXWQwZQFZKfn",
+   "nombre": "Enano Sagrado",
+   "motivo": "reseña"
+  },
+  "circuits": {
+   "album": "1NcTTZqU6GGgyez1avoqwl",
+   "id": "5dgtax2Ituj1yb4a0Faokj",
+   "uri": "spotify:track:5dgtax2Ituj1yb4a0Faokj",
+   "nombre": "Circuits",
+   "motivo": "búsqueda de Spotify"
+  },
+  "diatom-ribbons": {
+   "album": "4tXUco03wbbPWRim2RL1uH",
+   "id": "6lUWGIWkEfOMnpvye2oekw",
+   "uri": "spotify:track:6lUWGIWkEfOMnpvye2oekw",
+   "nombre": "Diatom Ribbons (feat. JD Allen & Tony Malaby)",
+   "motivo": "búsqueda de Spotify"
+  },
+  "duologue": {
+   "album": "0mx69uTzexLrWTxdA5zcTF",
+   "id": "2ek3oB3xRAuYkvXU1nikj9",
+   "uri": "spotify:track:2ek3oB3xRAuYkvXU1nikj9",
+   "nombre": "Duologue",
+   "motivo": "búsqueda de Spotify"
+  },
+  "finding-gabriel": {
+   "album": "7wOosKPp2hjtrdmbn7aBQS",
+   "id": "3NlxlMqWtHTVYVHB5a7hCG",
+   "uri": "spotify:track:3NlxlMqWtHTVYVHB5a7hCG",
+   "nombre": "Finding Gabriel",
+   "motivo": "búsqueda de Spotify"
+  },
+  "fuck-yo-feelings": {
+   "album": "5SFtk75uqfjUGXEjLsgdMl",
+   "id": "5JuZbUR2A2qVSCH9g0ysE1",
+   "uri": "spotify:track:5JuZbUR2A2qVSCH9g0ysE1",
+   "nombre": "Fuck Yo Feelings",
+   "motivo": "búsqueda de Spotify"
+  },
+  "good-hope": {
+   "album": "0Lx4v896QuUIV7yd5aeI4Y",
+   "id": "0EWg6Mlq0q0bmwWR0UEGA0",
+   "uri": "spotify:track:0EWg6Mlq0q0bmwWR0UEGA0",
+   "nombre": "Good Hope",
+   "motivo": "búsqueda de Spotify"
+  },
+  "immigrance": {
+   "album": "6a1HtLhd3zNccXRNUZ23ge",
+   "id": "3nvREfeASA91U3atMsVO3H",
+   "uri": "spotify:track:3nvREfeASA91U3atMsVO3H",
+   "nombre": "Bad Kids To The Back",
+   "motivo": "búsqueda de Spotify"
+  },
+  "kingmaker": {
+   "album": "4XZmtRKGaFmcJHak5xii6m",
+   "id": "4HySKelOIE0QKqIOCgER2V",
+   "uri": "spotify:track:4HySKelOIE0QKqIOCgER2V",
+   "nombre": "KingMaker",
+   "motivo": "búsqueda de Spotify"
+  },
+  "kokoroko": {
+   "album": "7MeDqREJNAU5D80vI2xCol",
+   "id": "7vfILe0geNdQ7ilJYF45SU",
+   "uri": "spotify:track:7vfILe0geNdQ7ilJYF45SU",
+   "nombre": "Abusey Junction",
+   "motivo": "reseña"
+  },
+  "la-cocina-magnetica": {
+   "album": "2n3eJ173EXg8ED1Xl5Vl4o",
+   "id": "1v2B9uCzHwhHlyjNJlxgYH",
+   "uri": "spotify:track:1v2B9uCzHwhHlyjNJlxgYH",
+   "nombre": "Arrayán",
+   "motivo": "búsqueda de Spotify"
+  },
+  "la-mirada-detenida": {
+   "album": "2GTuPK5XGfbFzRzRJWumRD",
+   "id": "0N4E31Ou7hsSyz9B8gtPO0",
+   "uri": "spotify:track:0N4E31Ou7hsSyz9B8gtPO0",
+   "nombre": "Doppelgänger",
+   "motivo": "reseña"
+  },
+  "listening-to-the-ground": {
+   "album": "4npT1fllB8BhSdiQWmg35M",
+   "id": "2iJRrQEBwwiIX5JzMykexJ",
+   "uri": "spotify:track:2iJRrQEBwwiIX5JzMykexJ",
+   "nombre": "King Fela",
+   "motivo": "búsqueda de Spotify"
+  },
+  "los-guachos-cristal": {
+   "album": "3YsL9HfhpFId3BvXmjHfnf",
+   "id": "1DuSpOWxWi9fp1cVnuSB15",
+   "uri": "spotify:track:1DuSpOWxWi9fp1cVnuSB15",
+   "nombre": "Burrito Cristal",
+   "motivo": "búsqueda de Spotify"
+  },
+  "love-hurts": {
+   "album": "72SR28cHjGmcS8xaJJ0fve",
+   "id": "1Dq5j0rPWew23E9ut85AIX",
+   "uri": "spotify:track:1Dq5j0rPWew23E9ut85AIX",
+   "nombre": "Love Hurts",
+   "motivo": "búsqueda de Spotify"
+  },
+  "madera-cuero-y-unas-campanas": {
+   "album": "6PB7xNvr7gi7pQD8mZWujh",
+   "id": "3gRY1aMP0x4IogIX0777p2",
+   "uri": "spotify:track:3gRY1aMP0x4IogIX0777p2",
+   "nombre": "Ballad Of The Sad Young Man (Wolff/Landesman)",
+   "motivo": "primer tema del álbum"
+  },
+  "mare-nostrum-iii": {
+   "album": "3dwUsSTgwzB3uUSjlPrJWy",
+   "id": "6Q8m3ux9ww9OMXlK7OrFkL",
+   "uri": "spotify:track:6Q8m3ux9ww9OMXlK7OrFkL",
+   "nombre": "The Windmills of Your Mind",
+   "motivo": "búsqueda de Spotify"
+  },
+  "marea-alta": {
+   "album": "67KLvUUelqRW1NPNt1gKae",
+   "id": "7bmypsEka2xpEMq4Dd8swE",
+   "uri": "spotify:track:7bmypsEka2xpEMq4Dd8swE",
+   "nombre": "Coral",
+   "motivo": "reseña"
+  },
+  "more-arriving": {
+   "album": "4X9QV9bMMLztFJrbzKQObD",
+   "id": "4U199pSGZCtgxbEWlYN2WR",
+   "uri": "spotify:track:4U199pSGZCtgxbEWlYN2WR",
+   "nombre": "Bol",
+   "motivo": "búsqueda de Spotify"
+  },
+  "rata": {
+   "album": "43SsBBOs9JSbrLRE8zH32K",
+   "id": "0X9roHv15nrlIu7RjKav7g",
+   "uri": "spotify:track:0X9roHv15nrlIu7RjKav7g",
+   "nombre": "Naima",
+   "motivo": "reseña"
+  },
+  "sondor": {
+   "album": "2XepFQu5JxPEGFZ7FcKNA5",
+   "id": "6Y6OqRvNopGjbhYcpEgRgJ",
+   "uri": "spotify:track:6Y6OqRvNopGjbhYcpEgRgJ",
+   "nombre": "El Tunguelé",
+   "motivo": "reseña"
+  },
+  "sonero-the-music-of-ismael-rivera": {
+   "album": "2xgt6RLEol1akzCP2OnyzP",
+   "id": "6VlqmHJ356t7kvTGWbDQQk",
+   "uri": "spotify:track:6VlqmHJ356t7kvTGWbDQQk",
+   "nombre": "Quítate de la Vía, Perico",
+   "motivo": "búsqueda de Spotify"
+  },
+  "spectrum-hiromi": {
+   "album": "6nWNBeeFpGrFEu9CDeZJbH",
+   "id": "1NpTkYFGPrYb9FRNGjLVyJ",
+   "uri": "spotify:track:1NpTkYFGPrYb9FRNGjLVyJ",
+   "nombre": "Blackbird",
+   "motivo": "reseña"
+  },
+  "the-balance": {
+   "album": "7wV98ytkf55BxvrzQIbzNg",
+   "id": "5RGk7OKbDQEjSwtTYZxtxJ",
+   "uri": "spotify:track:5RGk7OKbDQEjSwtTYZxtxJ",
+   "nombre": "The Balance",
+   "motivo": "búsqueda de Spotify"
+  },
+  "the-secret-between-the-shadow-and-the-soul": {
+   "album": "21Jrn9lGRwkXZyFz2bJjaf",
+   "id": "25cJePcRAgKUKtjH8Wm1MQ",
+   "uri": "spotify:track:25cJePcRAgKUKtjH8Wm1MQ",
+   "nombre": "Cianna",
+   "motivo": "búsqueda de Spotify"
+  },
+  "trio-tapestry": {
+   "album": "5frkvwu4yxiU1d024x89KW",
+   "id": "0ezRjBMuxG1PcW0FEVgaWS",
+   "uri": "spotify:track:0ezRjBMuxG1PcW0FEVgaWS",
+   "nombre": "Seeds Of Change",
+   "motivo": "búsqueda de Spotify"
+  },
+  "visions": {
+   "album": "2JXP0VVOjCFDvZ9bPVHcEt",
+   "id": "4FG4xfcM64qAQ7lhzr7lvN",
+   "uri": "spotify:track:4FG4xfcM64qAQ7lhzr7lvN",
+   "nombre": "Visions",
+   "motivo": "búsqueda de Spotify"
+  },
+  "waiting-game": {
+   "album": "6MQKtOTMLJKwXdooujNavN",
+   "id": "5EYABTZ2rvGXR4PmBPoT5W",
+   "uri": "spotify:track:5EYABTZ2rvGXR4PmBPoT5W",
+   "nombre": "Waiting Game",
+   "motivo": "búsqueda de Spotify"
+  },
+  "you-can-t-steal-my-joy": {
+   "album": "1eY0OQek6FHZWiPgJaXAzl",
+   "id": "1OlXIlGPGhoXI8f0Kj778C",
+   "uri": "spotify:track:1OlXIlGPGhoXI8f0Kj778C",
+   "nombre": "You Can't Steal My Joy",
+   "motivo": "búsqueda de Spotify"
+  },
+  "ritual-genovese": {
+   "album": "3X87TFNCLbKnA3KoMl4dIO",
+   "id": "0hRPeXW93qLJBVvT5RCEwV",
+   "uri": "spotify:track:0hRPeXW93qLJBVvT5RCEwV",
+   "nombre": "Fiesta Time",
+   "motivo": "búsqueda de Spotify"
+  },
+  "40-melodies": {
+   "album": "3x1vnezQHOTQG4kDC8nTzl",
+   "id": "1sS4ofQNz2krSHorMSxqdN",
+   "uri": "spotify:track:1sS4ofQNz2krSHorMSxqdN",
+   "nombre": "Harlem - Duo Version",
+   "motivo": "búsqueda de Spotify"
+  },
+  "all-rise": {
+   "album": "5jQuMxOb3r5BPmSDke93hy",
+   "id": "40WHJeUcfk00hEQxJHw14R",
+   "uri": "spotify:track:40WHJeUcfk00hEQxJHw14R",
+   "nombre": "If Love Is Overrated",
+   "motivo": "búsqueda de Spotify"
+  },
+  "angular-blues": {
+   "album": "4wxLJpGmJetMtZHslJz3DR",
+   "id": "5n2HJ9ki5j7HwCQFEWOlaY",
+   "uri": "spotify:track:5n2HJ9ki5j7HwCQFEWOlaY",
+   "nombre": "Angular Blues",
+   "motivo": "búsqueda de Spotify"
+  },
+  "arctic-riff": {
+   "album": "019T87LVzoR6yBR8pYahZr",
+   "id": "5CLc13Ktc8gDsDihuAqFzM",
+   "uri": "spotify:track:5CLc13Ktc8gDsDihuAqFzM",
+   "nombre": "Glimmer Of Hope",
+   "motivo": "búsqueda de Spotify"
+  },
+  "becoming": {
+   "album": "2ndDhPpR5sSsbtlJtsXCqi",
+   "id": "6WzTc2F3x6kJ4jJC2Fasqt",
+   "uri": "spotify:track:6WzTc2F3x6kJ4jJC2Fasqt",
+   "nombre": "Song For Fraser",
+   "motivo": "búsqueda de Spotify"
+  },
+  "dark-matter": {
+   "album": "4XRA7yDYWSkO5BMvZinESW",
+   "id": "26b7DkpsVvOSnHgFnHJ4RV",
+   "uri": "spotify:track:26b7DkpsVvOSnHgFnHJ4RV",
+   "nombre": "Stranger Than Fiction",
+   "motivo": "búsqueda de Spotify"
+  },
+  "dinner-party": {
+   "album": "4Wq9dC08uEtSuGc8mFwC3r",
+   "id": "47v4uUtj5AukJmCbMq4Kry",
+   "uri": "spotify:track:47v4uUtj5AukJmCbMq4Kry",
+   "nombre": "Freeze Tag (feat. Phoelix)",
+   "motivo": "búsqueda de Spotify"
+  },
+  "el-duelo": {
+   "album": "73bZUzgEuNFuB5M0QmRho7",
+   "id": "4JX2cFJg6gtYI5swEmSj3y",
+   "uri": "spotify:track:4JX2cFJg6gtYI5swEmSj3y",
+   "nombre": "El Duelo",
+   "motivo": "búsqueda de Spotify"
+  },
+  "en-trio-maslia": {
+   "album": "7vhF6lD5zZTagJ0WMhLJj1",
+   "id": "4viIcIGFe0Tef4fHygfmWE",
+   "uri": "spotify:track:4viIcIGFe0Tef4fHygfmWE",
+   "nombre": "Preludio, Arioso y Fugueta Sobre BACH",
+   "motivo": "reseña"
+  },
+  "gogo-penguin": {
+   "album": "5dNyGCWbvGFcR2Zgad3cse",
+   "id": "7BVSrHENp2zB45VriApGNV",
+   "uri": "spotify:track:7BVSrHENp2zB45VriApGNV",
+   "nombre": "Atomised",
+   "motivo": "búsqueda de Spotify"
+  },
+  "here-be-dragons": {
+   "album": "5CNcTVrgGUXPTewHvOFzlv",
+   "id": "48MAXuldOaE7h5fwULPWHM",
+   "uri": "spotify:track:48MAXuldOaE7h5fwULPWHM",
+   "nombre": "Here Be Dragons",
+   "motivo": "búsqueda de Spotify"
+  },
+  "introducin": {
+   "album": "0lqLsUsgjU0kDqJFeKfaZ2",
+   "id": "4RLVNX2bDrZ1IOQBCcgxs8",
+   "uri": "spotify:track:4RLVNX2bDrZ1IOQBCcgxs8",
+   "nombre": "Black Orpheus",
+   "motivo": "reseña"
   }
  },
  "playlists": {
@@ -4935,119 +9051,133 @@
    "url": "https://open.spotify.com/playlist/0pLpujtOyy2MBZgqMkCzfl",
    "nombre": "Banco de música · Recorrido completo",
    "publica": false,
-   "temas": 704
+   "temas": 1292
   },
   "origenes": {
    "id": "561A3Rh9gCzGpheF1Uhmgc",
    "url": "https://open.spotify.com/playlist/561A3Rh9gCzGpheF1Uhmgc",
    "nombre": "Banco de música · Orígenes",
    "publica": false,
-   "temas": 24
+   "temas": 25
   },
   "swing": {
    "id": "2zHEmFCFN69YZl58D9z3tR",
    "url": "https://open.spotify.com/playlist/2zHEmFCFN69YZl58D9z3tR",
    "nombre": "Banco de música · Swing",
    "publica": false,
-   "temas": 80
+   "temas": 84
   },
   "manouche": {
    "id": "3Q6eYxpjfuF0QIsDh4HF19",
    "url": "https://open.spotify.com/playlist/3Q6eYxpjfuF0QIsDh4HF19",
    "nombre": "Banco de música · Jazz manouche",
    "publica": false,
-   "temas": 8
+   "temas": 17
   },
   "latino": {
    "id": "4zwNWwEOuLWG112L5Lqx8X",
    "url": "https://open.spotify.com/playlist/4zwNWwEOuLWG112L5Lqx8X",
    "nombre": "Banco de música · Jazz latino",
    "publica": false,
-   "temas": 33
+   "temas": 86
   },
   "bebop": {
    "id": "7kvVPaHOrps2hzxF7rKQ1J",
    "url": "https://open.spotify.com/playlist/7kvVPaHOrps2hzxF7rKQ1J",
    "nombre": "Banco de música · Bebop",
    "publica": false,
-   "temas": 41
+   "temas": 43
   },
   "cool": {
    "id": "5tpga6kuBs29aB8P3Ew6km",
    "url": "https://open.spotify.com/playlist/5tpga6kuBs29aB8P3Ew6km",
    "nombre": "Banco de música · Cool",
    "publica": false,
-   "temas": 57
+   "temas": 62
   },
   "hard-bop": {
    "id": "4xSqQSXCm108di0CbnjKrc",
    "url": "https://open.spotify.com/playlist/4xSqQSXCm108di0CbnjKrc",
    "nombre": "Banco de música · Hard bop",
    "publica": false,
-   "temas": 120
+   "temas": 127
   },
   "rioplat": {
    "id": "02YUDiHJPNykgqqwYijc1p",
    "url": "https://open.spotify.com/playlist/02YUDiHJPNykgqqwYijc1p",
    "nombre": "Banco de música · Jazz rioplatense",
    "publica": false,
-   "temas": 13
+   "temas": 37
   },
   "souljazz": {
    "id": "0ECJSQmrZZ9VkTLSQhp3q5",
    "url": "https://open.spotify.com/playlist/0ECJSQmrZZ9VkTLSQhp3q5",
    "nombre": "Banco de música · Soul jazz",
    "publica": false,
-   "temas": 72
+   "temas": 73
   },
   "brasil": {
    "id": "6HHsYH7fwiRqEo5olS8b6o",
    "url": "https://open.spotify.com/playlist/6HHsYH7fwiRqEo5olS8b6o",
    "nombre": "Banco de música · Jazz brasileño",
    "publica": false,
-   "temas": 41
+   "temas": 54
   },
   "mundo": {
    "id": "4nuN0BhV2F3zRU6QexuDKo",
    "url": "https://open.spotify.com/playlist/4nuN0BhV2F3zRU6QexuDKo",
    "nombre": "Banco de música · Jazz del mundo",
    "publica": false,
-   "temas": 42
+   "temas": 99
   },
   "modal": {
    "id": "01ozySzbXOkXTULe2H9hSf",
    "url": "https://open.spotify.com/playlist/01ozySzbXOkXTULe2H9hSf",
    "nombre": "Banco de música · Jazz modal",
    "publica": false,
-   "temas": 42
+   "temas": 43
   },
   "free": {
    "id": "0PA2fk7BEKgLD1bEsrrYtP",
    "url": "https://open.spotify.com/playlist/0PA2fk7BEKgLD1bEsrrYtP",
    "nombre": "Banco de música · Free jazz",
    "publica": false,
-   "temas": 66
+   "temas": 73
   },
   "ecm": {
    "id": "1sdwL2opclCYBn5bOvU4Xe",
    "url": "https://open.spotify.com/playlist/1sdwL2opclCYBn5bOvU4Xe",
    "nombre": "Banco de música · ECM y jazz europeo",
    "publica": false,
-   "temas": 32
+   "temas": 152
   },
   "fusion": {
    "id": "3PyujRhAUZ2XEnkGoKaKkD",
    "url": "https://open.spotify.com/playlist/3PyujRhAUZ2XEnkGoKaKkD",
    "nombre": "Banco de música · Fusión",
    "publica": false,
-   "temas": 40
+   "temas": 70
   },
   "neotrad": {
    "id": "3oJiIL57gzMppF2SxVhmNj",
    "url": "https://open.spotify.com/playlist/3oJiIL57gzMppF2SxVhmNj",
    "nombre": "Banco de música · Neotradicionalismo",
    "publica": false,
-   "temas": 2
+   "temas": 48
+  },
+  "acid": {
+   "id": "0FvDjur9DKtm4hfdh8skaQ",
+   "url": "https://open.spotify.com/playlist/0FvDjur9DKtm4hfdh8skaQ",
+   "nombre": "Banco de música · Acid jazz",
+   "publica": false,
+   "temas": 26
+  },
+  "hoy": {
+   "id": "2VmmAMnsGs1cSlDkA0djLJ",
+   "url": "https://open.spotify.com/playlist/2VmmAMnsGs1cSlDkA0djLJ",
+   "nombre": "Banco de música · Jazz de hoy",
+   "publica": false,
+   "temas": 199
   }
  }
 }
