@@ -50,7 +50,8 @@ async function buscar(q) {
     } catch { i++; await pausa(5000); continue; }
     if (r.status === 429) {
       const seg = +r.headers.get('retry-after') || 30;
-      if (seg > ESPERA_MAXIMA) throw new Limite(new Date(Date.now() + seg * 1000).toLocaleString('es-AR'));
+      // hourCycle h23: sin eso, "es-AR" muestra 16:05 como "04:05", sin a. m. ni p. m.
+      if (seg > ESPERA_MAXIMA) throw new Limite(new Date(Date.now() + seg * 1000).toLocaleString('es-AR', { hourCycle: 'h23' }));
       await pausa(seg * 1000 + 1000);
       continue;
     }

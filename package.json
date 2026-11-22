@@ -13,6 +13,7 @@
     "verificar:podcasts": "node scripts/verificar-podcasts.mjs",
     "spotify": "node --env-file=.env scripts/spotify.mjs",
     "probar:cuenta": "node --env-file=.env scripts/probar-cuenta.mjs",
-    "probar:sincronizar": "node scripts/probar-sincronizar.mjs"
+    "probar:sincronizar": "node scripts/probar-sincronizar.mjs",
+    "playlists": "node --env-file=.env scripts/playlists.mjs"
   }
 }

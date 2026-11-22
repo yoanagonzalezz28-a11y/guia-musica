@@ -2,6 +2,17 @@
 
 Actualizado el 21 de noviembre de 2026. Sitio publicado: <https://yoanagonzalezz28-a11y.github.io/guia-musica/> (cada push a `main` publica).
 
+## Playlists de Spotify (en curso)
+
+`npm run playlists` crea y actualiza en la cuenta de Spotify de Yoana "Banco de música · Recorrido completo" (un tema de cada disco con link de Spotify, por año de grabación) y una "Banco de música · <época>" por época, con el mismo tema de cada disco.
+
+- **Cómo se elige el tema:** el que nombra la reseña entre comillas (sin contar nombres de épocas ni de regiones); si no nombra ninguno, el primer resultado de la búsqueda de temas de Spotify para ese álbum. La API ya no da la popularidad (`popularity` no viene y "temas más escuchados" da 403), pero la búsqueda ordena en buena parte por ella. Si la búsqueda no sirve, el tema que se llama como el disco o el primero del álbum. Los temas sueltos enlazados dentro de una recopilación (`dentroDe`) usan el tema del título.
+- **Lo elegido no cambia:** queda en `datos/spotify-playlists.json` (se sube a GitHub). Al volver a correr, solo se eligen los discos nuevos o los que cambiaron de álbum, y cada playlist se reescribe en orden si falta o sobra algo. Los cambios hechos a mano en la playlist se pisan.
+- **Autorización:** flujo "authorization code" con la Redirect URI `http://127.0.0.1:8080/callback` y los permisos de playlists. El token queda en `.spotify-sesion.json`, que está en `.gitignore`. Para volver a autorizar: `npm run playlists -- --autorizar`.
+- **Límites de Spotify (22/11/2026):** corta por cantidad, no por velocidad, y cada tipo de consulta por separado. La búsqueda y la consulta de álbumes se bloquearon después de unas 1000 consultas, con esperas de 8 a 24 horas. El script va a una consulta por segundo, casi siempre resuelve un disco con una sola búsqueda, aplaza los que necesitan la lista completa del álbum cuando esa consulta está bloqueada y guarda el avance. Si todo se bloquea, dice hasta qué hora esperar.
+- **Visibilidad:** Spotify crea las playlists públicas aunque se pida que sean privadas, y la API responde bien al pedido de cambiarlas a privadas pero no cambia nada. Se cambian a mano en la app. Los botones del sitio ("Escuchar esta época en Spotify" en cada época y "Escuchar el recorrido completo en Spotify" en la portada del jazz) aparecen solo después de `npm run playlists -- --publicar`.
+- **Avance al 22/11, 08:20:** 704 de 1422 discos con tema (97 por la reseña y 589 por la búsqueda). 17 playlists creadas; faltan Acid jazz y Jazz de hoy, que todavía no tienen temas porque se elige por año. La próxima tanda puede correr después de las 16:06 del 22/11.
+
 ## Cuenta y respaldos
 
 - **Cuenta con Google probada contra el Supabase real** (21/11): `npm run probar:cuenta` dio 11 de 11. Sin sesión no se ve nada; con sesión, cada persona lee, guarda, cambia y borra solo su fila; no puede escribir la de otra; y la tabla rechaza datos con otro formato. La prueba usa un usuario de prueba con mail y contraseña (instrucciones al principio de `scripts/probar-cuenta.mjs`), que después se borra junto con el proveedor Email.
@@ -167,3 +178,4 @@ La carpeta está en `.gitignore`: **nada de esto se sube a GitHub ni se publica.
 | `npm run verificar:podcasts` | Comprueba los links de los podcasts. |
 | `npm run probar:cuenta` | Prueba la tabla `marcas` y sus reglas contra el Supabase real. Sin usuario de prueba en `.env`, hace solo la primera comprobación. |
 | `npm run probar:sincronizar` | Prueba la regla de sincronización con un navegador simulado. |
+| `npm run playlists` | Elige un tema por disco y crea o actualiza las playlists del banco en Spotify. `-- --publicar` muestra los botones en el sitio; `-- --autorizar` vuelve a pedir permiso. |

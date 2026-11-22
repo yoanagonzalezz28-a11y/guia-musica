@@ -15,6 +15,13 @@ const SITIO = 'Banco de música';
 const fuentes = cargarFuentes();
 const generos = cargarGeneros();
 const g = cargarGenero('jazz');
+// Playlists del banco en Spotify (npm run playlists). El botón aparece solo si la playlist es pública:
+// mientras es privada, el link no le abre a nadie más.
+const playlists = (() => { try { return JSON.parse(fs.readFileSync(path.join(RAIZ, 'datos', 'spotify-playlists.json'), 'utf8')).playlists || {}; } catch { return {}; } })();
+const botonPlaylist = (clave, texto) => {
+  const p = playlists[clave];
+  return p?.publica && /^https:\/\/open\.spotify\.com\/playlist\/[A-Za-z0-9]+/.test(p.url) ? `<a class="boton-playlist" href="${esc(p.url)}" rel="noopener">${texto}</a>` : '';
+};
 
 const { errores, avisos } = validar(g, fuentes);
 const ids = revisarIds(g);
@@ -381,6 +388,7 @@ const construir = {
       cuerpo: `<header class="genero-cabeza"><h1>Jazz</h1><p>El camino del jazz</p></header>
       ${grillaDeTapas(ctx)}
       <p class="presentacion">${g.corrientes.length} épocas, de Nueva Orleans a hoy. Cada tapa abre una época con su historia, sus músicos y sus discos.</p>
+      ${botonPlaylist('recorrido', 'Escuchar el recorrido completo en Spotify')}
       <section class="camino" aria-labelledby="titulo-camino"><h2 id="titulo-camino">Tu camino</h2>
         <p class="ayuda">Cada parada toma su color cuando marcás algo de esa época y se llena cuando la marcás como estudiada. Con tus puntajes se arma <a href="${ctx.a(URL.marcas())}#perfil">tu perfil de escucha</a>.</p>
         <div class="metro" data-metro>${metroInicial(ctx)}</div>
@@ -431,7 +439,7 @@ const construir = {
         <h1 style="--largo:${largoTitular(c.nombre)}">${esc(c.nombre)}</h1>
         <p class="afiche-lema">${esc(c.lema)}</p>
         <div class="afiche-banda" aria-hidden="true"></div>
-        <div class="completar-arriba">${botonEstudiada}<span class="completar-fecha dato" data-completar-fecha></span></div>
+        <div class="completar-arriba">${botonEstudiada}<span class="completar-fecha dato" data-completar-fecha></span>${botonPlaylist(c.id, 'Escuchar esta época en Spotify')}</div>
         <ol class="hitos-linea" aria-label="Fechas clave">${c.hitos.map(h => `<li><span class="hito-fecha dato">${esc(h.fecha)}</span><p>${ctx.texto(h.texto)}</p></li>`).join('')}</ol>
       </header>
       ${bloques}
