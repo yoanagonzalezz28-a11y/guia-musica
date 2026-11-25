@@ -13,7 +13,7 @@ Actualizado el 25 de noviembre de 2026. Sitio publicado: <https://yoanagonzalezz
 - **Visibilidad:** Spotify crea las playlists públicas aunque se pida que sean privadas, y la API responde bien al pedido de cambiarlas a privadas pero no cambia nada. Se cambian a mano en la app. Los botones del sitio ("Escuchar esta época en Spotify" en cada época y "Escuchar el recorrido completo en Spotify" en la portada del jazz) aparecen solo después de `npm run playlists -- --publicar`.
 - **Terminado el 25/11/2026:** 1414 de 1422 discos con tema, sin temas repetidos: 1238 por la búsqueda, 145 por la reseña, 22 primer tema del álbum, 6 tema del título y 3 dentro de una recopilación. Las 19 playlists están creadas y al día; la del recorrido completo tiene 1414 temas.
 - **8 discos sin tema**, porque el link del banco lleva a una edición que Spotify no deja escuchar en Uruguay (todos los temas con la restricción "market"): *Afrodeezia* y *Laid Black* (Marcus Miller), *An Ordinary Day in an Unusual Place* (Us3), *Gratitude* (Chris Potter), *Light Blue* (Ernesto Jodos), *Rosemary's Baby* (Komeda), *Silver Pony* (Cassandra Wilson) y *Tempo feliz* (Baden Powell). Se vuelven a intentar en cada corrida. Para incluirlos, habría que cambiar el link del disco por una edición disponible.
-- **Pendiente de Yoana:** decidir si las playlists pasan a privadas (a mano en la app; mientras tanto son públicas) y cuándo se prenden los botones del sitio.
+- **Botones prendidos el 25/11/2026** con `npm run playlists -- --publicar`: "Escuchar esta época en Spotify" en las 18 épocas y "Escuchar el recorrido completo en Spotify" en la portada del jazz, debajo de "El camino del jazz". Las playlists siguen públicas.
 
 ## Cuenta y respaldos
 

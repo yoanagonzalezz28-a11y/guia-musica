@@ -9904,133 +9904,133 @@
    "id": "0pLpujtOyy2MBZgqMkCzfl",
    "url": "https://open.spotify.com/playlist/0pLpujtOyy2MBZgqMkCzfl",
    "nombre": "Banco de música · Recorrido completo",
-   "publica": false,
+   "publica": true,
    "temas": 1414
   },
   "origenes": {
    "id": "561A3Rh9gCzGpheF1Uhmgc",
    "url": "https://open.spotify.com/playlist/561A3Rh9gCzGpheF1Uhmgc",
    "nombre": "Banco de música · Orígenes",
-   "publica": false,
+   "publica": true,
    "temas": 25
   },
   "swing": {
    "id": "2zHEmFCFN69YZl58D9z3tR",
    "url": "https://open.spotify.com/playlist/2zHEmFCFN69YZl58D9z3tR",
    "nombre": "Banco de música · Swing",
-   "publica": false,
+   "publica": true,
    "temas": 84
   },
   "manouche": {
    "id": "3Q6eYxpjfuF0QIsDh4HF19",
    "url": "https://open.spotify.com/playlist/3Q6eYxpjfuF0QIsDh4HF19",
    "nombre": "Banco de música · Jazz manouche",
-   "publica": false,
+   "publica": true,
    "temas": 17
   },
   "latino": {
    "id": "4zwNWwEOuLWG112L5Lqx8X",
    "url": "https://open.spotify.com/playlist/4zwNWwEOuLWG112L5Lqx8X",
    "nombre": "Banco de música · Jazz latino",
-   "publica": false,
+   "publica": true,
    "temas": 92
   },
   "bebop": {
    "id": "7kvVPaHOrps2hzxF7rKQ1J",
    "url": "https://open.spotify.com/playlist/7kvVPaHOrps2hzxF7rKQ1J",
    "nombre": "Banco de música · Bebop",
-   "publica": false,
+   "publica": true,
    "temas": 43
   },
   "cool": {
    "id": "5tpga6kuBs29aB8P3Ew6km",
    "url": "https://open.spotify.com/playlist/5tpga6kuBs29aB8P3Ew6km",
    "nombre": "Banco de música · Cool",
-   "publica": false,
+   "publica": true,
    "temas": 62
   },
   "hard-bop": {
    "id": "4xSqQSXCm108di0CbnjKrc",
    "url": "https://open.spotify.com/playlist/4xSqQSXCm108di0CbnjKrc",
    "nombre": "Banco de música · Hard bop",
-   "publica": false,
+   "publica": true,
    "temas": 127
   },
   "rioplat": {
    "id": "02YUDiHJPNykgqqwYijc1p",
    "url": "https://open.spotify.com/playlist/02YUDiHJPNykgqqwYijc1p",
    "nombre": "Banco de música · Jazz rioplatense",
-   "publica": false,
+   "publica": true,
    "temas": 48
   },
   "souljazz": {
    "id": "0ECJSQmrZZ9VkTLSQhp3q5",
    "url": "https://open.spotify.com/playlist/0ECJSQmrZZ9VkTLSQhp3q5",
    "nombre": "Banco de música · Soul jazz",
-   "publica": false,
+   "publica": true,
    "temas": 74
   },
   "brasil": {
    "id": "6HHsYH7fwiRqEo5olS8b6o",
    "url": "https://open.spotify.com/playlist/6HHsYH7fwiRqEo5olS8b6o",
    "nombre": "Banco de música · Jazz brasileño",
-   "publica": false,
+   "publica": true,
    "temas": 57
   },
   "mundo": {
    "id": "4nuN0BhV2F3zRU6QexuDKo",
    "url": "https://open.spotify.com/playlist/4nuN0BhV2F3zRU6QexuDKo",
    "nombre": "Banco de música · Jazz del mundo",
-   "publica": false,
+   "publica": true,
    "temas": 109
   },
   "modal": {
    "id": "01ozySzbXOkXTULe2H9hSf",
    "url": "https://open.spotify.com/playlist/01ozySzbXOkXTULe2H9hSf",
    "nombre": "Banco de música · Jazz modal",
-   "publica": false,
+   "publica": true,
    "temas": 43
   },
   "free": {
    "id": "0PA2fk7BEKgLD1bEsrrYtP",
    "url": "https://open.spotify.com/playlist/0PA2fk7BEKgLD1bEsrrYtP",
    "nombre": "Banco de música · Free jazz",
-   "publica": false,
+   "publica": true,
    "temas": 74
   },
   "ecm": {
    "id": "1sdwL2opclCYBn5bOvU4Xe",
    "url": "https://open.spotify.com/playlist/1sdwL2opclCYBn5bOvU4Xe",
    "nombre": "Banco de música · ECM y jazz europeo",
-   "publica": false,
+   "publica": true,
    "temas": 167
   },
   "fusion": {
    "id": "3PyujRhAUZ2XEnkGoKaKkD",
    "url": "https://open.spotify.com/playlist/3PyujRhAUZ2XEnkGoKaKkD",
    "nombre": "Banco de música · Fusión",
-   "publica": false,
+   "publica": true,
    "temas": 72
   },
   "neotrad": {
    "id": "3oJiIL57gzMppF2SxVhmNj",
    "url": "https://open.spotify.com/playlist/3oJiIL57gzMppF2SxVhmNj",
    "nombre": "Banco de música · Neotradicionalismo",
-   "publica": false,
+   "publica": true,
    "temas": 48
   },
   "acid": {
    "id": "0FvDjur9DKtm4hfdh8skaQ",
    "url": "https://open.spotify.com/playlist/0FvDjur9DKtm4hfdh8skaQ",
    "nombre": "Banco de música · Acid jazz",
-   "publica": false,
+   "publica": true,
    "temas": 26
   },
   "hoy": {
    "id": "2VmmAMnsGs1cSlDkA0djLJ",
    "url": "https://open.spotify.com/playlist/2VmmAMnsGs1cSlDkA0djLJ",
    "nombre": "Banco de música · Jazz de hoy",
-   "publica": false,
+   "publica": true,
    "temas": 284
   }
  }

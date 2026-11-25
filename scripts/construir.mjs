@@ -385,10 +385,9 @@ const construir = {
     const ctx = nuevoContexto(ruta);
     pagina(ruta, ctx, {
       titulo: 'Jazz', descripcion: 'El camino del jazz, época por época.', claseCuerpo: 'inicio-jazz',
-      cuerpo: `<header class="genero-cabeza"><h1>Jazz</h1><p>El camino del jazz</p></header>
+      cuerpo: `<header class="genero-cabeza"><h1>Jazz</h1><p>El camino del jazz</p>${botonPlaylist('recorrido', 'Escuchar el recorrido completo en Spotify')}</header>
       ${grillaDeTapas(ctx)}
       <p class="presentacion">${g.corrientes.length} épocas, de Nueva Orleans a hoy. Cada tapa abre una época con su historia, sus músicos y sus discos.</p>
-      ${botonPlaylist('recorrido', 'Escuchar el recorrido completo en Spotify')}
       <section class="camino" aria-labelledby="titulo-camino"><h2 id="titulo-camino">Tu camino</h2>
         <p class="ayuda">Cada parada toma su color cuando marcás algo de esa época y se llena cuando la marcás como estudiada. Con tus puntajes se arma <a href="${ctx.a(URL.marcas())}#perfil">tu perfil de escucha</a>.</p>
         <div class="metro" data-metro>${metroInicial(ctx)}</div>

@@ -169,9 +169,9 @@ main { max-width: var(--ancho); margin: 0 auto; padding: 0 var(--gutter) 72px; }
 .av-acciones { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
 .completar-arriba { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; margin: 22px 0 6px; }
 /* Playlist de Spotify: mismo formato que "Época estudiada", en tinta, para que el rojo quede para la marca propia. */
-.boton-playlist { display: inline-flex; align-items: center; min-height: 44px; box-sizing: border-box; padding: 10px 18px; border: 2px solid currentColor; border-radius: 999px; color: var(--tinta); font: 800 .875rem/1.2 var(--sans); font-stretch: 75%; text-transform: uppercase; letter-spacing: .06em; text-decoration: none; }
+.boton-playlist { display: inline-flex; align-items: center; max-width: 100%; min-height: 44px; box-sizing: border-box; padding: 10px 18px; border: 2px solid currentColor; border-radius: 999px; color: var(--tinta); font: 800 .875rem/1.2 var(--sans); font-stretch: 75%; text-transform: uppercase; letter-spacing: .06em; text-decoration: none; }
 .boton-playlist:hover { background: var(--tinta); color: var(--papel); }
-.inicio-jazz .boton-playlist { margin-top: 18px; }
+.genero-cabeza .boton-playlist { margin-top: 24px; }
 .completar-arriba .boton-completar { padding: 10px 18px; font-size: .875rem; }
 
 /* ---------- Afiche de una época ---------- */
