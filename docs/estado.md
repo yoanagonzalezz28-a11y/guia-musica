@@ -1,8 +1,8 @@
 # Estado del proyecto
 
-Actualizado el 21 de noviembre de 2026. Sitio publicado: <https://yoanagonzalezz28-a11y.github.io/guia-musica/> (cada push a `main` publica).
+Actualizado el 25 de noviembre de 2026. Sitio publicado: <https://yoanagonzalezz28-a11y.github.io/guia-musica/> (cada push a `main` publica).
 
-## Playlists de Spotify (en curso)
+## Playlists de Spotify
 
 `npm run playlists` crea y actualiza en la cuenta de Spotify de Yoana "Banco de música · Recorrido completo" (un tema de cada disco con link de Spotify, por año de grabación) y una "Banco de música · <época>" por época, con el mismo tema de cada disco.
 
@@ -11,7 +11,9 @@ Actualizado el 21 de noviembre de 2026. Sitio publicado: <https://yoanagonzalezz
 - **Autorización:** flujo "authorization code" con la Redirect URI `http://127.0.0.1:8080/callback` y los permisos de playlists. El token queda en `.spotify-sesion.json`, que está en `.gitignore`. Para volver a autorizar: `npm run playlists -- --autorizar`.
 - **Límites de Spotify (22/11/2026):** corta por cantidad, no por velocidad, y cada tipo de consulta por separado. La búsqueda y la consulta de álbumes se bloquearon después de unas 1000 consultas, con esperas de 8 a 24 horas. El script va a una consulta por segundo, casi siempre resuelve un disco con una sola búsqueda, aplaza los que necesitan la lista completa del álbum cuando esa consulta está bloqueada y guarda el avance. Si todo se bloquea, dice hasta qué hora esperar.
 - **Visibilidad:** Spotify crea las playlists públicas aunque se pida que sean privadas, y la API responde bien al pedido de cambiarlas a privadas pero no cambia nada. Se cambian a mano en la app. Los botones del sitio ("Escuchar esta época en Spotify" en cada época y "Escuchar el recorrido completo en Spotify" en la portada del jazz) aparecen solo después de `npm run playlists -- --publicar`.
-- **Avance al 22/11, 17:30:** 1292 de 1422 discos con tema (139 por la reseña y 1123 por la búsqueda) y las 19 playlists creadas y al día. Faltan 130 discos: la búsqueda quedó bloqueada hasta el 23/11 a las 16:28. Las playlists quedan públicas hasta terminar (decisión de Yoana); los botones del sitio, apagados.
+- **Terminado el 25/11/2026:** 1414 de 1422 discos con tema, sin temas repetidos: 1238 por la búsqueda, 145 por la reseña, 22 primer tema del álbum, 6 tema del título y 3 dentro de una recopilación. Las 19 playlists están creadas y al día; la del recorrido completo tiene 1414 temas.
+- **8 discos sin tema**, porque el link del banco lleva a una edición que Spotify no deja escuchar en Uruguay (todos los temas con la restricción "market"): *Afrodeezia* y *Laid Black* (Marcus Miller), *An Ordinary Day in an Unusual Place* (Us3), *Gratitude* (Chris Potter), *Light Blue* (Ernesto Jodos), *Rosemary's Baby* (Komeda), *Silver Pony* (Cassandra Wilson) y *Tempo feliz* (Baden Powell). Se vuelven a intentar en cada corrida. Para incluirlos, habría que cambiar el link del disco por una edición disponible.
+- **Pendiente de Yoana:** decidir si las playlists pasan a privadas (a mano en la app; mientras tanto son públicas) y cuándo se prenden los botones del sitio.
 
 ## Cuenta y respaldos
 
